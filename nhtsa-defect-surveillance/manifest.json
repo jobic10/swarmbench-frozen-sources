@@ -1,0 +1,657 @@
+{
+ "dataset": "NHTSA consumer complaint snapshot for vehicle defect surveillance",
+ "source": "api.nhtsa.gov/complaints/complaintsByVehicle",
+ "frozen_on": "2026-07-04",
+ "note": "Real NHTSA/ODI consumer complaint records. Each per-vehicle file holds a recent slice of complaints. Fetch vehicles/<vehicle_id>.json for each entry below.",
+ "vehicle_count": 72,
+ "vehicles": [
+  {
+   "vehicle_id": "honda_accord_2021",
+   "make": "Honda",
+   "model": "Accord",
+   "model_year": 2021,
+   "total_complaints_available": 206,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/honda_accord_2021.json"
+  },
+  {
+   "vehicle_id": "honda_civic_2021",
+   "make": "Honda",
+   "model": "Civic",
+   "model_year": 2021,
+   "total_complaints_available": 133,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/honda_civic_2021.json"
+  },
+  {
+   "vehicle_id": "honda_cr-v_2021",
+   "make": "Honda",
+   "model": "Cr-V",
+   "model_year": 2021,
+   "total_complaints_available": 305,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/honda_cr-v_2021.json"
+  },
+  {
+   "vehicle_id": "honda_pilot_2021",
+   "make": "Honda",
+   "model": "Pilot",
+   "model_year": 2021,
+   "total_complaints_available": 399,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/honda_pilot_2021.json"
+  },
+  {
+   "vehicle_id": "honda_odyssey_2021",
+   "make": "Honda",
+   "model": "Odyssey",
+   "model_year": 2021,
+   "total_complaints_available": 123,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/honda_odyssey_2021.json"
+  },
+  {
+   "vehicle_id": "toyota_camry_2021",
+   "make": "Toyota",
+   "model": "Camry",
+   "model_year": 2021,
+   "total_complaints_available": 152,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/toyota_camry_2021.json"
+  },
+  {
+   "vehicle_id": "toyota_corolla_2021",
+   "make": "Toyota",
+   "model": "Corolla",
+   "model_year": 2021,
+   "total_complaints_available": 181,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/toyota_corolla_2021.json"
+  },
+  {
+   "vehicle_id": "toyota_rav4_2021",
+   "make": "Toyota",
+   "model": "Rav4",
+   "model_year": 2021,
+   "total_complaints_available": 374,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/toyota_rav4_2021.json"
+  },
+  {
+   "vehicle_id": "toyota_highlander_2021",
+   "make": "Toyota",
+   "model": "Highlander",
+   "model_year": 2021,
+   "total_complaints_available": 469,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/toyota_highlander_2021.json"
+  },
+  {
+   "vehicle_id": "toyota_tacoma_2021",
+   "make": "Toyota",
+   "model": "Tacoma",
+   "model_year": 2021,
+   "total_complaints_available": 76,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/toyota_tacoma_2021.json"
+  },
+  {
+   "vehicle_id": "toyota_4runner_2019",
+   "make": "Toyota",
+   "model": "4Runner",
+   "model_year": 2019,
+   "total_complaints_available": 64,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/toyota_4runner_2019.json"
+  },
+  {
+   "vehicle_id": "toyota_sienna_2019",
+   "make": "Toyota",
+   "model": "Sienna",
+   "model_year": 2019,
+   "total_complaints_available": 45,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/toyota_sienna_2019.json"
+  },
+  {
+   "vehicle_id": "ford_explorer_2021",
+   "make": "Ford",
+   "model": "Explorer",
+   "model_year": 2021,
+   "total_complaints_available": 389,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/ford_explorer_2021.json"
+  },
+  {
+   "vehicle_id": "ford_escape_2021",
+   "make": "Ford",
+   "model": "Escape",
+   "model_year": 2021,
+   "total_complaints_available": 320,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/ford_escape_2021.json"
+  },
+  {
+   "vehicle_id": "ford_edge_2021",
+   "make": "Ford",
+   "model": "Edge",
+   "model_year": 2021,
+   "total_complaints_available": 93,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/ford_edge_2021.json"
+  },
+  {
+   "vehicle_id": "ford_bronco_2021",
+   "make": "Ford",
+   "model": "Bronco",
+   "model_year": 2021,
+   "total_complaints_available": 214,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/ford_bronco_2021.json"
+  },
+  {
+   "vehicle_id": "ford_mustang_2021",
+   "make": "Ford",
+   "model": "Mustang",
+   "model_year": 2021,
+   "total_complaints_available": 55,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/ford_mustang_2021.json"
+  },
+  {
+   "vehicle_id": "ford_ranger_2020",
+   "make": "Ford",
+   "model": "Ranger",
+   "model_year": 2020,
+   "total_complaints_available": 119,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/ford_ranger_2020.json"
+  },
+  {
+   "vehicle_id": "ford_expedition_2021",
+   "make": "Ford",
+   "model": "Expedition",
+   "model_year": 2021,
+   "total_complaints_available": 207,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/ford_expedition_2021.json"
+  },
+  {
+   "vehicle_id": "chevrolet_silverado-1500_2021",
+   "make": "Chevrolet",
+   "model": "Silverado 1500",
+   "model_year": 2021,
+   "total_complaints_available": 755,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/chevrolet_silverado-1500_2021.json"
+  },
+  {
+   "vehicle_id": "chevrolet_equinox_2021",
+   "make": "Chevrolet",
+   "model": "Equinox",
+   "model_year": 2021,
+   "total_complaints_available": 85,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/chevrolet_equinox_2021.json"
+  },
+  {
+   "vehicle_id": "chevrolet_malibu_2021",
+   "make": "Chevrolet",
+   "model": "Malibu",
+   "model_year": 2021,
+   "total_complaints_available": 74,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/chevrolet_malibu_2021.json"
+  },
+  {
+   "vehicle_id": "chevrolet_traverse_2021",
+   "make": "Chevrolet",
+   "model": "Traverse",
+   "model_year": 2021,
+   "total_complaints_available": 85,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/chevrolet_traverse_2021.json"
+  },
+  {
+   "vehicle_id": "chevrolet_tahoe_2021",
+   "make": "Chevrolet",
+   "model": "Tahoe",
+   "model_year": 2021,
+   "total_complaints_available": 419,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/chevrolet_tahoe_2021.json"
+  },
+  {
+   "vehicle_id": "chevrolet_colorado_2021",
+   "make": "Chevrolet",
+   "model": "Colorado",
+   "model_year": 2021,
+   "total_complaints_available": 66,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/chevrolet_colorado_2021.json"
+  },
+  {
+   "vehicle_id": "chevrolet_blazer_2021",
+   "make": "Chevrolet",
+   "model": "Blazer",
+   "model_year": 2021,
+   "total_complaints_available": 121,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/chevrolet_blazer_2021.json"
+  },
+  {
+   "vehicle_id": "jeep_grand-cherokee_2021",
+   "make": "Jeep",
+   "model": "Grand Cherokee",
+   "model_year": 2021,
+   "total_complaints_available": 396,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/jeep_grand-cherokee_2021.json"
+  },
+  {
+   "vehicle_id": "jeep_wrangler_2021",
+   "make": "Jeep",
+   "model": "Wrangler",
+   "model_year": 2021,
+   "total_complaints_available": 883,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/jeep_wrangler_2021.json"
+  },
+  {
+   "vehicle_id": "jeep_cherokee_2021",
+   "make": "Jeep",
+   "model": "Cherokee",
+   "model_year": 2021,
+   "total_complaints_available": 134,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/jeep_cherokee_2021.json"
+  },
+  {
+   "vehicle_id": "jeep_compass_2021",
+   "make": "Jeep",
+   "model": "Compass",
+   "model_year": 2021,
+   "total_complaints_available": 76,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/jeep_compass_2021.json"
+  },
+  {
+   "vehicle_id": "jeep_gladiator_2021",
+   "make": "Jeep",
+   "model": "Gladiator",
+   "model_year": 2021,
+   "total_complaints_available": 278,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/jeep_gladiator_2021.json"
+  },
+  {
+   "vehicle_id": "ram_1500_2021",
+   "make": "Ram",
+   "model": "1500",
+   "model_year": 2021,
+   "total_complaints_available": 653,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/ram_1500_2021.json"
+  },
+  {
+   "vehicle_id": "ram_2500_2021",
+   "make": "Ram",
+   "model": "2500",
+   "model_year": 2021,
+   "total_complaints_available": 102,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/ram_2500_2021.json"
+  },
+  {
+   "vehicle_id": "nissan_altima_2021",
+   "make": "Nissan",
+   "model": "Altima",
+   "model_year": 2021,
+   "total_complaints_available": 64,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/nissan_altima_2021.json"
+  },
+  {
+   "vehicle_id": "nissan_rogue_2021",
+   "make": "Nissan",
+   "model": "Rogue",
+   "model_year": 2021,
+   "total_complaints_available": 266,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/nissan_rogue_2021.json"
+  },
+  {
+   "vehicle_id": "nissan_sentra_2021",
+   "make": "Nissan",
+   "model": "Sentra",
+   "model_year": 2021,
+   "total_complaints_available": 127,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/nissan_sentra_2021.json"
+  },
+  {
+   "vehicle_id": "nissan_pathfinder_2020",
+   "make": "Nissan",
+   "model": "Pathfinder",
+   "model_year": 2020,
+   "total_complaints_available": 50,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/nissan_pathfinder_2020.json"
+  },
+  {
+   "vehicle_id": "nissan_frontier_2022",
+   "make": "Nissan",
+   "model": "Frontier",
+   "model_year": 2022,
+   "total_complaints_available": 109,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/nissan_frontier_2022.json"
+  },
+  {
+   "vehicle_id": "hyundai_elantra_2021",
+   "make": "Hyundai",
+   "model": "Elantra",
+   "model_year": 2021,
+   "total_complaints_available": 128,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/hyundai_elantra_2021.json"
+  },
+  {
+   "vehicle_id": "hyundai_sonata_2021",
+   "make": "Hyundai",
+   "model": "Sonata",
+   "model_year": 2021,
+   "total_complaints_available": 119,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/hyundai_sonata_2021.json"
+  },
+  {
+   "vehicle_id": "hyundai_tucson_2021",
+   "make": "Hyundai",
+   "model": "Tucson",
+   "model_year": 2021,
+   "total_complaints_available": 72,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/hyundai_tucson_2021.json"
+  },
+  {
+   "vehicle_id": "hyundai_santa-fe_2021",
+   "make": "Hyundai",
+   "model": "Santa Fe",
+   "model_year": 2021,
+   "total_complaints_available": 160,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/hyundai_santa-fe_2021.json"
+  },
+  {
+   "vehicle_id": "hyundai_palisade_2021",
+   "make": "Hyundai",
+   "model": "Palisade",
+   "model_year": 2021,
+   "total_complaints_available": 408,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/hyundai_palisade_2021.json"
+  },
+  {
+   "vehicle_id": "kia_sorento_2020",
+   "make": "Kia",
+   "model": "Sorento",
+   "model_year": 2020,
+   "total_complaints_available": 128,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/kia_sorento_2020.json"
+  },
+  {
+   "vehicle_id": "kia_sportage_2021",
+   "make": "Kia",
+   "model": "Sportage",
+   "model_year": 2021,
+   "total_complaints_available": 45,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/kia_sportage_2021.json"
+  },
+  {
+   "vehicle_id": "kia_telluride_2021",
+   "make": "Kia",
+   "model": "Telluride",
+   "model_year": 2021,
+   "total_complaints_available": 327,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/kia_telluride_2021.json"
+  },
+  {
+   "vehicle_id": "kia_forte_2021",
+   "make": "Kia",
+   "model": "Forte",
+   "model_year": 2021,
+   "total_complaints_available": 67,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/kia_forte_2021.json"
+  },
+  {
+   "vehicle_id": "kia_soul_2021",
+   "make": "Kia",
+   "model": "Soul",
+   "model_year": 2021,
+   "total_complaints_available": 218,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/kia_soul_2021.json"
+  },
+  {
+   "vehicle_id": "kia_optima_2020",
+   "make": "Kia",
+   "model": "Optima",
+   "model_year": 2020,
+   "total_complaints_available": 136,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/kia_optima_2020.json"
+  },
+  {
+   "vehicle_id": "subaru_outback_2021",
+   "make": "Subaru",
+   "model": "Outback",
+   "model_year": 2021,
+   "total_complaints_available": 290,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/subaru_outback_2021.json"
+  },
+  {
+   "vehicle_id": "subaru_forester_2021",
+   "make": "Subaru",
+   "model": "Forester",
+   "model_year": 2021,
+   "total_complaints_available": 205,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/subaru_forester_2021.json"
+  },
+  {
+   "vehicle_id": "subaru_crosstrek_2021",
+   "make": "Subaru",
+   "model": "Crosstrek",
+   "model_year": 2021,
+   "total_complaints_available": 107,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/subaru_crosstrek_2021.json"
+  },
+  {
+   "vehicle_id": "subaru_ascent_2021",
+   "make": "Subaru",
+   "model": "Ascent",
+   "model_year": 2021,
+   "total_complaints_available": 97,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/subaru_ascent_2021.json"
+  },
+  {
+   "vehicle_id": "subaru_impreza_2020",
+   "make": "Subaru",
+   "model": "Impreza",
+   "model_year": 2020,
+   "total_complaints_available": 85,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/subaru_impreza_2020.json"
+  },
+  {
+   "vehicle_id": "volkswagen_jetta_2021",
+   "make": "Volkswagen",
+   "model": "Jetta",
+   "model_year": 2021,
+   "total_complaints_available": 65,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/volkswagen_jetta_2021.json"
+  },
+  {
+   "vehicle_id": "volkswagen_tiguan_2021",
+   "make": "Volkswagen",
+   "model": "Tiguan",
+   "model_year": 2021,
+   "total_complaints_available": 126,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/volkswagen_tiguan_2021.json"
+  },
+  {
+   "vehicle_id": "volkswagen_atlas_2021",
+   "make": "Volkswagen",
+   "model": "Atlas",
+   "model_year": 2021,
+   "total_complaints_available": 442,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/volkswagen_atlas_2021.json"
+  },
+  {
+   "vehicle_id": "mazda_cx-5_2021",
+   "make": "Mazda",
+   "model": "Cx-5",
+   "model_year": 2021,
+   "total_complaints_available": 137,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/mazda_cx-5_2021.json"
+  },
+  {
+   "vehicle_id": "mazda_cx-9_2019",
+   "make": "Mazda",
+   "model": "Cx-9",
+   "model_year": 2019,
+   "total_complaints_available": 51,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/mazda_cx-9_2019.json"
+  },
+  {
+   "vehicle_id": "mazda_mazda3_2021",
+   "make": "Mazda",
+   "model": "Mazda3",
+   "model_year": 2021,
+   "total_complaints_available": 49,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/mazda_mazda3_2021.json"
+  },
+  {
+   "vehicle_id": "mazda_cx-30_2021",
+   "make": "Mazda",
+   "model": "Cx-30",
+   "model_year": 2021,
+   "total_complaints_available": 98,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/mazda_cx-30_2021.json"
+  },
+  {
+   "vehicle_id": "gmc_sierra-1500_2021",
+   "make": "Gmc",
+   "model": "Sierra 1500",
+   "model_year": 2021,
+   "total_complaints_available": 506,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/gmc_sierra-1500_2021.json"
+  },
+  {
+   "vehicle_id": "gmc_acadia_2021",
+   "make": "Gmc",
+   "model": "Acadia",
+   "model_year": 2021,
+   "total_complaints_available": 144,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/gmc_acadia_2021.json"
+  },
+  {
+   "vehicle_id": "gmc_terrain_2020",
+   "make": "Gmc",
+   "model": "Terrain",
+   "model_year": 2020,
+   "total_complaints_available": 179,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/gmc_terrain_2020.json"
+  },
+  {
+   "vehicle_id": "gmc_yukon_2021",
+   "make": "Gmc",
+   "model": "Yukon",
+   "model_year": 2021,
+   "total_complaints_available": 290,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/gmc_yukon_2021.json"
+  },
+  {
+   "vehicle_id": "dodge_durango_2021",
+   "make": "Dodge",
+   "model": "Durango",
+   "model_year": 2021,
+   "total_complaints_available": 181,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/dodge_durango_2021.json"
+  },
+  {
+   "vehicle_id": "dodge_charger_2020",
+   "make": "Dodge",
+   "model": "Charger",
+   "model_year": 2020,
+   "total_complaints_available": 57,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/dodge_charger_2020.json"
+  },
+  {
+   "vehicle_id": "dodge_challenger_2019",
+   "make": "Dodge",
+   "model": "Challenger",
+   "model_year": 2019,
+   "total_complaints_available": 57,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/dodge_challenger_2019.json"
+  },
+  {
+   "vehicle_id": "tesla_model-3_2021",
+   "make": "Tesla",
+   "model": "Model 3",
+   "model_year": 2021,
+   "total_complaints_available": 645,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/tesla_model-3_2021.json"
+  },
+  {
+   "vehicle_id": "tesla_model-y_2020",
+   "make": "Tesla",
+   "model": "Model Y",
+   "model_year": 2020,
+   "total_complaints_available": 271,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/tesla_model-y_2020.json"
+  },
+  {
+   "vehicle_id": "tesla_model-s_2021",
+   "make": "Tesla",
+   "model": "Model S",
+   "model_year": 2021,
+   "total_complaints_available": 174,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/tesla_model-s_2021.json"
+  },
+  {
+   "vehicle_id": "tesla_model-x_2022",
+   "make": "Tesla",
+   "model": "Model X",
+   "model_year": 2022,
+   "total_complaints_available": 122,
+   "complaints_included": 32,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nhtsa-defect-surveillance/vehicles/tesla_model-x_2022.json"
+  }
+ ]
+}
