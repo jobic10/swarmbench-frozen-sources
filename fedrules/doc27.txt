@@ -1,580 +1,522 @@
-[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
 [Rules and Regulations]
-[Pages 39388-39398]
+[Pages 38498-38502]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13217]
+[FR Doc No: 2026-12902]
 
 -----------------------------------------------------------------------
 
-DEPARTMENT OF TRANSPORTATION
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
 
-Federal Aviation Administration
+Food and Drug Administration
 
-14 CFR Part 39
+21 CFR Part 866
 
-[Docket No. FAA-2026-7203; Project Identifier AD-2026-00547-T; 
-Amendment 39-23394; AD 2026-13-11]
-RIN 2120-AA64
+[Docket No. FDA-2026-N-6712]
 
-Airworthiness Directives; The Boeing Company Airplanes
+Medical Devices; Immunology and Microbiology Devices; 
+Classification of the SARS-CoV-2 Serology Test
 
-AGENCY: Federal Aviation Administration (FAA), DOT.
+AGENCY: Food and Drug Administration, HHS.
 
-ACTION: Final rule; request for comments.
+ACTION: Final amendment; final order.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
-The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. This AD 
-was prompted by the determination that radio altimeters cannot be 
-relied upon to perform their intended function if they experience 
-interference from wireless broadband operations in the 3.7-3.98 GHz 
-frequency band (5G Lower C-Band) while operating in Canadian airspace, 
-and the determination that as a result of this interference, certain 
-airplane systems may not properly transition from AIR to GROUND mode 
-when landing on certain runways, resulting in a longer landing distance 
-than normal due to the effect on thrust reverser deployment, speedbrake 
-deployment, and increased idle thrust. This AD requires revising the 
-existing airplane flight manual (AFM) to incorporate limitations 
-prohibiting certain operations requiring radio altimeter data when 
-operating in Canadian airspace. The FAA is issuing this AD to address 
-the unsafe condition on these products.
+SUMMARY: The Food and Drug Administration (FDA) is classifying the 
+SARS-CoV-2 serology test into class II (special controls). The special 
+controls that apply to the device type are identified in this order and 
+will be part of the codified language for classification of the SARS-
+CoV-2 serology test. We are taking this action because we have 
+determined that classifying the device into class II will provide a 
+reasonable assurance of safety and effectiveness of the device. We 
+believe this action will also enhance patients' access to beneficial 
+innovative devices, in part by reducing regulatory burdens.
 
-DATES: This AD is effective July 1, 2026.
-    The FAA must receive comments on this AD by August 14, 2026.
+DATES: This order is effective June 26, 2026. The classification was 
+applicable on May 5, 2023.
 
-ADDRESSES: You may send comments, using the procedures found in 14 CFR 
-11.43 and 11.45, by any of the following methods:
-      Federal eRulemaking Portal: Go to  regulations.gov . Follow 
-the instructions for submitting comments.
-      Fax: 202-493-2251.
-      Mail: U.S. Department of Transportation, Docket 
-Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
-Jersey Avenue SE, Washington, DC 20590.
-      Hand Delivery: Deliver to Mail address above between 9 
-a.m. and 5 p.m., Monday through Friday, except Federal holidays.
-    AD Docket: You may examine the AD docket at  regulations.gov  by 
-searching for and locating Docket No. FAA-2026-7203; or in person at 
-Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
-except Federal holidays. The AD docket contains this final rule, any 
-comments received, and other information. The street address for Docket 
-Operations is listed above.
-
-FOR FURTHER INFORMATION CONTACT: Ken Fairhurst, Continued Operational 
-Safety Technical Advisor, FAA, 2200 South 216th St., Des Moines, WA 
-98198; phone: 817-222-5390; email:   [email&#160;protected]  .
+FOR FURTHER INFORMATION CONTACT: Maria Esteve-Gasent, Center for 
+Devices and Radiological Health, Food and Drug Administration, 10903 
+New Hampshire Ave., Bldg. 66, Rm. 3213, Silver Spring, MD 20993-0002, 
+301-837-7365,   [email&#160;protected]  .
 
 SUPPLEMENTARY INFORMATION:
 
-Comments Invited
+I. Background
 
-    The FAA invites you to send any written data, views, or arguments 
-about this final rule. Send your comments using a method listed under 
-the ADDRESSES section. Include Docket No. FAA-2026-7203 and Project 
-Identifier AD-2026-00547-T at the beginning of your comments. The most 
-helpful comments reference a specific portion of the final rule, 
-explain the reason for any recommended change, and include supporting 
-data. The FAA will consider all comments received by the closing date 
-and may amend this final rule because of those comments.
-    Except for Confidential Business Information (CBI) as described in 
-the following paragraph, and other information as described in 14 CFR 
-11.35, the FAA will post all comments received, without change, to 
- regulations.gov , including any personal information you provide. The 
-agency will also post a report summarizing each substantive verbal 
-contact received about this final rule.
+    Upon request, FDA (the Agency or we) has classified the SARS-CoV-2 
+serology test into class II (special controls), which we have 
+determined will provide a reasonable assurance of safety and 
+effectiveness of the device. In addition, we believe this action will 
+enhance patients' access to beneficial innovation, in part by reducing 
+regulatory burdens by placing the device into a lower device class than 
+the automatic class III assignment.
+    The automatic assignment of class III occurs by operation of law 
+and without any action by FDA, regardless of the level of risk posed by 
+the new device. Any device that was not in commercial distribution 
+before May 28, 1976, is automatically classified into, and remains 
+within, class III and requires premarket approval unless and until FDA 
+takes an action to classify or reclassify the device (21 U.S.C. 
+360c(f)(1)). We refer to these devices as ``postamendments devices'' 
+because they were not in commercial distribution prior to the date of 
+enactment of the Medical Device Amendments of 1976, which amended the 
+Federal Food, Drug, and Cosmetic Act (FD&C Act).
+    FDA may take a variety of actions in appropriate circumstances to 
+classify or reclassify a device into class I or II. We may issue an 
+order finding a new device to be substantially equivalent under section 
+513(i) of the FD&C Act (21 U.S.C. 360c(i)) to a predicate device that 
+does not require premarket approval. We determine whether a new device 
+is substantially equivalent to a predicate device by means of the 
+procedures for premarket notification under section 510(k) of the FD&C 
+Act (21 U.S.C. 360(k)) and part 807 (21 CFR part 807).
+    FDA may also classify a device through ``De Novo'' classification, 
+a common name for the process authorized under section 513(f)(2) of the 
+FD&C Act (see also part 860, subpart D (21 CFR part 860, subpart D)). 
+Section 207 of the Food and Drug Administration Modernization Act of 
+1997 (Pub. L. 105-115) established the first procedure for De Novo 
+classification. Section 607 of the Food and Drug Administration Safety 
+and Innovation Act (Pub. L. 112-144) modified the De Novo 
+classification process by adding a second procedure. A device sponsor 
+may utilize either procedure for De Novo classification.
+    Under the first procedure, the person submits a premarket 
+notification (510(k)) for a device that has not previously been 
+classified. After receiving an order from FDA classifying the device 
+into class III under section 513(f)(1) of the FD&C Act, the person then 
+requests a classification under section 513(f)(2).
+    Under the second procedure, rather than first submitting a 510(k) 
+and then a request for classification, if the person determines that 
+there is no legally marketed device upon which to base a determination 
+of substantial equivalence, that person requests a classification under 
+section 513(f)(2) of the FD&C Act.
+    Under either procedure for De Novo classification, FDA is required 
+to classify the device by written order within 120 days. The 
+classification will be according to the criteria under section 
+513(a)(1) of the FD&C Act. Although the device was automatically placed 
+within class III, the De Novo classification is considered to be the 
+initial classification of the device.
+    We believe this De Novo classification will enhance patients' 
+access to beneficial innovation, in part by reducing regulatory 
+burdens. When FDA classifies a device into class I or II via the De 
+Novo process, the device can serve as a predicate for future devices of 
+that type, including for 510(k)s (see section 513(f)(2)(B)(i) of the 
+FD&C Act). As a result, other device sponsors do not have to submit a 
+De Novo request or premarket approval application to market a 
+substantially equivalent device (see section 513(i) of the FD&C Act, 
+defining ``substantial equivalence''). Instead, sponsors can use the 
+less burdensome 510(k) process, when necessary, to market their device.
 
-Confidential Business Information
+II. De Novo Classification
 
-    CBI is commercial or financial information that is both customarily 
-and actually treated as private by its owner. Under the Freedom of 
-Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
-disclosure. If your comments responsive to this AD contain commercial 
-or financial information that is customarily treated as private, that 
-you actually treat as private, and that is relevant or responsive to 
-this AD, it is important that you clearly designate the submitted 
-comments as CBI. Please mark each page of your submission containing 
-CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
-confidential under the FOIA, and they will not be placed in the public 
-docket of this AD. Submissions containing CBI should be sent to Ken 
-Fairhurst, Continued Operational Safety Technical Advisor, FAA, 2200 
-South 216th St., Des Moines, WA 98198; phone: 817-222-5390; email: 
-  [email&#160;protected]  . Any commentary that the FAA receives that is 
-not specifically designated as CBI will be placed in the public docket 
-for this rulemaking.
+    On September 20, 2021, FDA received Ortho-Clinical Diagnostics, 
+Inc.'s request for De Novo classification of the VITROS 
+Immunodiagnostic Products Anti-SARS-CoV-2 IgG Reagent Pack and 
+Calibrator. On September 21, 2021, FDA received Ortho-Clinical 
+Diagnostics, Inc.'s request for De Novo classification of the VITROS 
+Immunodiagnostic Products Anti-SARS-CoV-2 Total Reagent Pack and 
+Calibrator. FDA reviewed both requests in order to classify the devices 
+under the criteria for classification set forth in section 513(a)(1) of 
+the FD&C Act.
+    We classify devices into class II if general controls by themselves 
+are insufficient to provide reasonable assurance of safety and 
+effectiveness of
 
-Background
+[[Page 38499]]
 
-    The FAA issued AD 2021-23-12, Amendment 39-21810 (86 FR 69984, 
-December 9, 2021) (AD 2021-23-12), for all transport and commuter 
-category airplanes equipped with a radio altimeter. AD 2021-23-12 was 
-prompted by a determination that radio altimeters cannot be relied upon 
-to perform their intended function if they
-
-[[Page 39389]]
-
-experience interference from wireless broadband operations in the 5G 
-Lower C-Band, which is close to the frequency bands used by radio 
-altimeters (4.2-4.4 GHz). AD 2021-23-12 required revising the 
-limitations section of the existing AFM to incorporate limitations 
-prohibiting certain operations requiring radio altimeter data when in 
-the presence of 5G Lower C-Band interference as identified by Notices 
-to Air Missions (NOTAMs). The agency issued AD 2021-23-12 because radio 
-altimeter anomalies that are undetected by the automation or pilot, 
-particularly close to the ground (e.g., landing flare), could lead to 
-loss of continued safe flight and landing.
-    The FAA subsequently identified an additional hazard presented by 
-5G Lower C-Band interference on Boeing Model 787-8, 787-9, and 787-10 
-airplanes and issued AD 2022-02-16, Amendment 39-21913 (87 FR 2692, 
-January 19, 2022) (AD 2022-02-16). AD 2022-02-16 was prompted by the 
-unsafe condition in AD 2021-23-12, as well as a determination that, 
-during landings, as a result of this interference, certain airplane 
-systems may not properly transition from AIR to GROUND mode when 
-landing on certain runways, resulting in degraded deceleration 
-performance and longer landing distance than normal due to the effect 
-on thrust reverser deployment, speedbrake deployment, and increased 
-idle thrust. AD 2022-02-16 required revising the limitations and 
-operating procedures sections of the existing AFM to incorporate 
-limitations prohibiting certain landings and the use of certain minimum 
-equipment list (MEL) items, and to incorporate operating procedures for 
-calculating landing distances, when in the presence of 5G Lower C-Band 
-interference as identified by NOTAM.
-    After the FAA issued AD 2021-23-12 and AD 2022-02-16, the agency 
-determined that additional limitations were needed due to the continued 
-deployment of new 5G Lower C-Band base stations whose signals were 
-expected to cover most of the contiguous U.S., as well as the 
-determination that radio altimeter anomalies could lead to increased 
-flightcrew workload and flightcrew desensitization to warnings. 
-Therefore, the FAA issued AD 2023-10-02, Amendment 39-22438 (88 FR 
-34065, May 26, 2023) (AD 2023-10-02), to supersede AD 2021-23-12, and 
-the FAA issued AD 2023-12-10, Amendment 39-22468 (88 FR 40071, June 21, 
-2023) (AD 2023-12-10), to supersede AD 2022-02-16.
-    Currently, AD 2023-12-10 requires revising the limitations section 
-of the existing AFM to incorporate limitations prohibiting certain 
-landings and the use of certain MEL items, in the entire contiguous 
-U.S. airspace instead of only in areas identified by NOTAM; however, AD 
-2023-12-10 permits radio altimeter tolerant airplanes to perform these 
-operations at 5G Lower C-Band mitigated airports as identified in an 
-FAA Domestic Notice.
-
-Actions Since AD 2023-12-10 Was Issued
-
-    Since the FAA issued AD 2023-12-10, Transport Canada, which is the 
-aviation authority for Canada, issued AD CF-2024-14, dated May 15, 2024 
-(Transport Canada AD CF-2024-14), to correct an unsafe condition for 
-all transport and commuter category airplanes with a radio altimeter. 
-Transport Canada AD CF-2024-14 states that in July 2023, Innovation, 
-Science and Economic Development Canada (ISED), Canada's spectrum 
-regulator, published Standard Radio System Plans (SRSP)-520 Issue 3 \1\ 
-and Radio Standard Specifications (RSS)-192 Issue 5,\2\ which define 
-the spectrum environment for the 3.45-3.90 GHz frequency band in 
-Canada. Transport Canada AD CF-2024-14 further states that spectrum 
-auctions for the 3.45-3.65 GHz and the 3.65-3.9 GHz band were completed 
-in 2021 and 2023, respectively.
+the device, but there is sufficient information to establish special 
+controls that, in combination with the general controls, provide 
+reasonable assurance of the safety and effectiveness of the device for 
+its intended use (see section 513(a)(1)(B) of the FD&C Act). After 
+review of the information submitted in the request, we determined that 
+the devices can be classified into class II with the establishment of 
+special controls. FDA has determined that these special controls, in 
+addition to the general controls, will provide reasonable assurance of 
+the safety and effectiveness of the devices.
+    Therefore, on May 5, 2023, FDA issued an order to the requester 
+classifying the devices into class II. In this final order, FDA is 
+codifying the classification of the devices by adding 21 CFR 
+866.3983.\1\ We have named the generic type of device ``SARS-CoV-2 
+serology test,'' and it is identified as a prescription in vitro 
+diagnostic device for the detection of specific binding antibodies to 
+SARS-CoV-2 in clinical specimens. The detection of SARS-CoV-2 
+antibodies is intended to aid in identifying individuals with an 
+adaptive immune response to SARS-CoV-2. The test is not intended for 
+the diagnosis of acute SARS-CoV-2 infection, nor screening blood, 
+plasma, cells, or tissue donors.
 ---------------------------------------------------------------------------
 
-    \1\  https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/standard-radio-system-plans/srsp-520-technical-requirements-fixed-andor-mobile-systems-including-flexible-use-broadband-systems .
-    \2\  https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-equipment-standards/radio-standards-specifications-rss/rss-192-flexible-use-broadband-equipment-operating-band-3450-3900-mhz .
+    \1\ FDA notes that the ``ACTION'' caption for this final order 
+is styled as ``Final amendment; final order,'' rather than ``Final 
+order.'' Beginning in December 2019, this editorial change was made 
+to indicate that the document ``amends'' the Code of Federal 
+Regulations. The change was made in accordance with the Office of 
+Federal Register's (OFR) interpretations of the Federal Register Act 
+(44 U.S.C. chapter 15), its implementing regulations (1 CFR 5.9 and 
+parts 21 and 22), and the Document Drafting Handbook.
 ---------------------------------------------------------------------------
 
-    In July 2023, ISED implemented measures to mitigate Lower C-Band 
-interference to radio altimeters, which provide the Canadian airspace 
-greater protection from 5G Lower C-Band interference to radio 
-altimeters as compared to the Lower C-Band environment in the 
-contiguous U.S. airspace. These measures include exclusion and 
-protection zones and airport effective isotropic radiated power (EIRP) 
-elevation mask (a restriction that requires nearby cell tower signals 
-to be angled downward so they do not interfere with aircraft 
-altimeters) at certain airport runways covering the majority of air 
-traffic in Canada, as well as nationwide reduced fundamental power 
-emissions based on the degree of antenna uptilt above the horizon to 
-minimize emissions from 5G base stations toward aircraft.
-    In late March 2026, Transport Canada notified the FAA that, 
-beginning July 1, 2026, changes in the 5G Lower C-Band protection 
-mitigations established by ISED in 2023 would result in a more severe 
-5G interference environment in the Canadian airspace. Exclusion and 
-protection zones at airports will no longer exist and updates to the 
-airport EIRP elevation mask, nationwide tilt restriction, emitter 
-height limitation and reduced spurious emissions will only protect 
-airplanes that are radio altimeter tolerant. The change in mitigations 
-will result in an unsafe condition in the Canadian 5G interference 
-environment.
-    Transport Canada determined that radio altimeters cannot be relied 
-upon to perform their intended function if they experience interference 
-from wireless broadband operations in the 3.45-3.98 GHz frequency band. 
-Transport Canada based its determination on the same unsafe condition 
-found by the FAA in AD 2023-10-02. As a result, Transport Canada AD CF-
-2024-14 requires revising the limitations section of the existing AFM 
-to incorporate limitations prohibiting certain operations requiring 
-radio altimeter data, due to the presence of 5G Lower C-Band 
-interference, while operating in Canadian airspace. As terminating 
-action for the operating limitations, Transport Canada AD CF-2024-14 
-provides that operators may upgrade their radio altimeters to 
-demonstrate the tolerances for emissions as specified in Transport 
-Canada AD CF-2024-14.
-    Boeing subsequently conducted an analysis of the expected changes 
-in the 5G Lower C-Band environment in Canada and the effects of 
-interference with radio altimeters with respect to the Boeing fleet. In 
-May 2026, Boeing reported that certain airplane configurations will not 
-demonstrate tolerance to radio altimeter interference in the new 5G 
-environment in Canada. Therefore, based on this information, the FAA 
-determined that the unsafe condition identified in AD 2023-12-10 exists 
-for Model 787-8, 787-9, and 787-10 airplanes when operating in the 
-Canadian airspace. As a result, operating limitations similar to the 
-limitations required by AD 2023-12-10 are necessary.
-    The FAA is issuing this AD to address the unsafe condition on these 
-products.
+    FDA has identified the risks to health associated with this type of 
+device and the measures required to mitigate these risks in table 1.
 
-FAA's Determination
+Table 1--Risks to Health and Mitigation Measures for SARS-CoV-2 Serology
+                                  Tests
+------------------------------------------------------------------------
+       Identified risks to health              Mitigation measures
+------------------------------------------------------------------------
+Risk of false test results.............  Certain labeling information
+                                          including limitations, device
+                                          descriptions, explanations of
+                                          procedures and performance
+                                          information identified in
+                                          special controls (1), (3), and
+                                          (5).
+                                         Use of certain specimen
+                                          collection devices identified
+                                          in special control (2).
+                                         Certain design verification and
+                                          validation including
+                                          documentation of device
+                                          descriptions, certain
+                                          analytical studies and
+                                          clinical studies, and risk
+                                          analysis strategies identified
+                                          in special control (4).
+                                         Testing of characterized
+                                          samples and labeling
+                                          information identified in
+                                          special control (6).
+Failure to correctly interpret the test  Certain labeling information
+ results.                                 including limitations, device
+                                          descriptions, explanations of
+                                          procedures and performance
+                                          information identified in
+                                          special controls (1), (3), and
+                                          (5).
+                                         Use of certain specimen
+                                          collection devices identified
+                                          in special control (2).
+                                         Certain design verification and
+                                          validation including
+                                          documentation of device
+                                          descriptions, certain
+                                          analytical studies and
+                                          clinical studies, and risk
+                                          analysis strategies identified
+                                          in special control (4).
+                                         Testing of characterized
+                                          samples and labeling
+                                          information identified in
+                                          special control (6).
+Failure to correctly operate the device  Certain labeling information
+                                          including limitations, device
+                                          descriptions, explanations of
+                                          procedures and performance
+                                          information identified in
+                                          special controls (1), (3), and
+                                          (5).
+                                         Use of certain specimen
+                                          collection devices identified
+                                          in special control (2).
+------------------------------------------------------------------------
 
-    The FAA is issuing this AD because the agency has determined the 
-unsafe condition described previously is likely to exist or develop in 
-other products of the same type design.
+    FDA has determined that special controls, in combination with the 
+general controls, address these risks to health and provide reasonable 
+assurance of safety and effectiveness of the device. For a device to 
+fall within this classification, and thus avoid automatic 
+classification in class III, it would have to comply with the special 
+controls named in this final order. The necessary special controls 
+appear in the regulation codified by this final order.
+    At the time of classification, SARS-CoV-2 serology tests are for 
+prescription use only. Therefore, these devices are subject to the 
+prescription labeling requirements for in vitro diagnostic (IVD) 
+products (see 21 CFR 809.10(a)(4) and (b)(5)(ii)).
+    Under the FD&C Act, submission of a premarket notification under 
+section 510(k) is required to reasonably assure the safety and 
+effectiveness of class II devices unless FDA determines that the device 
+type should be exempt under section 510(m) of the FD&C Act. At this 
+time FDA has not made this determination for SARS-CoV-2 serology tests. 
+This device is therefore subject to premarket notification requirements 
+under section 510(k) of the FD&C Act.
 
-[[Page 39390]]
+III. Analysis of Environmental Impact
 
-AD Requirements
+    The Agency has determined under 21 CFR 25.34(b) that this action is 
+of a type that does not normally have a significant effect on the human 
+environment. Therefore, neither an environmental assessment nor an 
+environmental impact statement is required.
 
-    For non-radio altimeter tolerant airplanes, this AD requires, 
-before further flight in Canadian airspace, revising the existing AFM 
-to incorporate limitations prohibiting certain landings and the use of 
-certain MEL items when operating in Canadian airspace. This AD provides 
-that modifying the airplane from a non-radio altimeter tolerant 
-airplane to a radio altimeter tolerant airplane terminates the AFM 
-operating limitations for that airplane.
-    While AD 2023-12-10 also prohibits certain landings and the use of 
-certain MEL items for radio altimeter tolerant airplanes except at 5G 
-Lower C-Band mitigated airports, this AD has no prohibitions for radio 
-altimeter tolerant airplanes. The interference environment at Canadian 
-airports after July 1, 2026, will be mitigated enough such that those 
-prohibitions are not necessary for radio altimeter tolerant airplanes. 
-The FAA also notes that most Model 787-8, 787-9, and 787-10 radio 
-altimeter tolerant airplanes are not subject to the prohibitions in AD 
-2023-12-10 under the provisions of an FAA-approved AMOC.
-    An airplane that is a radio altimeter tolerant airplane using a 
-method approved by the FAA for AD 2023-12-10 is also a radio altimeter 
-tolerant airplane for the purposes of paragraph (g)(1) of this AD. 
-Alternative methods of compliance (AMOC) listed in paragraph (j)(3) of 
-this AD are approved for this AD.
+IV. Paperwork Reduction Act of 1995
 
-Differences From Transport Canada AD CF-2024-14
+    This final order establishes special controls that refer to 
+previously approved collections of information found in other FDA 
+regulations and guidance. These collections of information are subject 
+to review by the Office of Management and Budget (OMB) under the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3521). The collections 
+of information in part 860, subpart D, regarding De Novo classification 
+have been approved under OMB control number 0910-0844; the collections 
+of information in 21 CFR part 814, subparts A through E, regarding 
+premarket approval have been approved under OMB control number 0910-
+0231; the collections of information in part 807, subpart E, regarding 
+premarket notification
 
-    Although Transport Canada AD CF-2024-14 specifies the fundamental 
-emissions are in the 3.45-3.98 GHz frequency band, the FAA has 
-identified an unsafe condition from wireless broadband transmissions in 
-the 3.7-3.98 GHz frequency band. AD 2023-10-02 and AD 2023-12-10 
-identified an unsafe condition from wireless broadband transmissions in 
-the 3.7-3.98 GHz frequency band, and this AD is based on that same 
-determination. In addition, an airplane determined to be a radio 
-altimeter tolerant airplane for the purposes of AD 2023-12-10, which 
-has demonstrated the performance tolerances for fundamental emissions 
-within the 3.7-3.98 GHz frequency band, would also be a radio altimeter 
-tolerant airplane for purposes of this AD. Frequencies less than 3.7 
-GHz are further away from the frequency bands used by radio altimeters 
-(4.2 to 4.4 GHz), so an airplane determined to be tolerant in the range 
-of 3.7-3.98 GHz is also tolerant to emissions less than 3.7 GHz.
+[[Page 38500]]
 
-Interim Action
+submissions have been approved under OMB control number 0910-0120; the 
+collections of information in 21 CFR part 820 regarding quality 
+management system regulation have been approved under OMB control 
+number 0910-0073; and the collections of information in 21 CFR parts 
+801 and 809 regarding labeling have been approved under OMB control 
+number 0910-0485.
 
-    The FAA considers this AD to be an interim action. The FAA may 
-consider further rulemaking if the Canadian 5G C-Band interference 
-environment changes or if Canada issues an operational rule to address 
-5G C-Band interference with radio altimeters.
+List of Subjects in 21 CFR Part 866
 
-Justification for Immediate Adoption and Determination of the Effective 
-Date
+    Biologics, Laboratories, Medical devices.
 
-    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
-551 et seq.) authorizes agencies to dispense with notice and comment 
-procedures for rules when the agency, for ``good cause,'' finds that 
-those procedures are ``impracticable, unnecessary, or contrary to the 
-public interest.'' Under this section, an agency, upon finding good 
-cause, may issue a final rule without providing notice and seeking 
-comment prior to issuance. Further, section 553(d) of the APA 
-authorizes agencies to make rules effective in less than thirty days, 
-upon a finding of good cause.
-    An unsafe condition exists that requires the immediate adoption of 
-this AD without providing an opportunity for public comments prior to 
-adoption. The FAA has found that the risk to the flying public 
-justifies forgoing notice and comment prior to adoption of this rule 
-because radio altimeters cannot be relied upon to perform their 
-intended function if they experience interference from wireless 
-broadband operations in the 5G Lower C-Band. During landings, as a 
-result of this interference, certain airplane systems may not properly 
-transition from AIR to GROUND mode when landing on certain runways, 
-resulting in a longer landing distance than normal due to the effect on 
-thrust reverser deployment, speedbrake deployment, and increased idle 
-thrust, which could lead to a runway excursion. The urgency is based on 
-a change in the 5G Lower C-Band environment in Canada, which is 
-scheduled to occur on July 1, 2026. Accordingly, notice and opportunity 
-for prior public comment are impracticable and contrary to the public 
-interest pursuant to 5 U.S.C. 553(b).
-    In addition, the FAA finds that good cause exists pursuant to 5 
-U.S.C. 553(d) for making this amendment effective in less than 30 days, 
-for the same reasons the FAA found good cause to forgo notice and 
-comment.
+    Therefore, under the Federal Food, Drug, and Cosmetic Act and under 
+authority delegated to the Commissioner of Food and Drugs, 21 CFR part 
+866 is amended as follows:
 
-Regulatory Flexibility Act
-
-    The requirements of the Regulatory Flexibility Act (RFA) do not 
-apply when an agency finds good cause pursuant to 5 U.S.C. 553 to adopt 
-a rule without prior notice and comment. Because the FAA has determined 
-that it has good cause to adopt this rule without notice and comment, 
-RFA analysis is not required.
-
-Costs of Compliance
-
-    The FAA notes that since operators must comply with this AD before 
-further flight in Canadian airspace, airplanes that do not operate in 
-Canada will not have to comply and therefore will have no costs under 
-this AD.
-    The FAA estimates that this AD affects 192 airplanes of U.S. 
-registry. The FAA expects that many of the affected airplanes have 
-upgraded radio altimeters; therefore, the FAA estimates the total 
-number of airplanes affected by this AD to be less than the total fleet 
-size provided in this AD. The FAA estimates the following costs to 
-comply with this AD:
-
-                                                 Estimated Costs
-----------------------------------------------------------------------------------------------------------------
-                                                                              Cost per          Cost on U.S.
-              Action                      Labor cost         Parts cost        product           operators
-----------------------------------------------------------------------------------------------------------------
-AFM revision for non-RAT airplanes  1 work-hour x $85 per              $0             $85  Up to $16,320.
-                                     hour = $85.
-----------------------------------------------------------------------------------------------------------------
-
-                                      Estimated Costs for Optional Actions
-----------------------------------------------------------------------------------------------------------------
-                Action                        Labor cost               Parts cost            Cost per product
-----------------------------------------------------------------------------------------------------------------
-Modification (radio altimeter          .......................  .......................  Up to $120,000
- replacement option).                                                                     (includes parts and
-                                                                                          labor).
-
-[[Page 39391]]
-
- 
-Modification (filter addition option)  24 work-hours x $85 per  $12,000 per filter.....  Up to $14,040 (includes
-                                        hour = $2,040 per                                 parts and labor).
-                                        filter.
-----------------------------------------------------------------------------------------------------------------
-
-Authority for This Rulemaking
-
-    Title 49 of the United States Code specifies the FAA's authority to 
-issue rules on aviation safety. Subtitle I, section 106, describes the 
-authority of the FAA Administrator. Subtitle VII: Aviation Programs 
-describes in more detail the scope of the Agency's authority.
-    The FAA is issuing this rulemaking under the authority described in 
-Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
-Under that section, Congress charges the FAA with promoting safe flight 
-of civil aircraft in air commerce by prescribing regulations for 
-practices, methods, and procedures the Administrator finds necessary 
-for safety in air commerce. This regulation is within the scope of that 
-authority because it addresses an unsafe condition that is likely to 
-exist or develop on products identified in this rulemaking action.
-
-Regulatory Findings
-
-    This AD will not have federalism implications under Executive Order 
-13132. This AD will not have a substantial direct effect on the States, 
-on the relationship between the national government and the States, or 
-on the distribution of power and responsibilities among the various 
-levels of government.
-    For the reasons discussed above, I certify that this AD:
-    (1) Is not a ``significant regulatory action'' under Executive 
-Order 12866, and
-    (2) Will not affect intrastate aviation in Alaska.
-
-List of Subjects in 14 CFR Part 39
-
-    Air transportation, Aircraft, Aviation safety, Incorporation by 
-reference, Safety.
-
-The Amendment
-
-    Accordingly, under the authority delegated to me by the 
-Administrator, the FAA amends 14 CFR part 39 as follows:
-
-PART 39--AIRWORTHINESS DIRECTIVES
+PART 866--IMMUNOLOGY AND MICROBIOLOGY DEVICES
 
 0
-1. The authority citation for part 39 continues to read as follows:
+1. The authority citation for part 866 continues to read as follows:
 
-    Authority: 49 U.S.C. 106(g), 40113, 44701.
-
-Sec.  39.13  [Amended]
+    Authority: 21 U.S.C. 351, 360, 360c, 360e, 360j, 360l, 371.
 
 0
-2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
-directive:
+2. Add Sec.  866.3983 to subpart D to read as follows:
 
-2026-13-11 The Boeing Company: Amendment 39-23394; Docket No. FAA-
-2026-7203; Project Identifier AD-2026-00547-T.
+Sec.  866.3983   SARS-CoV-2 serology test.
 
-(a) Effective Date
+    (a) Identification. A SARS-CoV-2 serology test is a prescription in 
+vitro diagnostic device for the detection of specific binding 
+antibodies to SARS-CoV-2 in clinical specimens. The detection of SARS-
+CoV-2 antibodies is intended to aid in identifying individuals with an 
+adaptive immune response to SARS-CoV-2. The test is not intended for 
+the diagnosis of acute SARS-CoV-2 infection, nor screening blood, 
+plasma, cells, or tissue donors.
+    (b) Classification. Class II (special controls). The special 
+controls for this device are:
+    (1) The intended use in the labeling required under Sec.  809.10 of 
+this chapter must include a description of the following: Analytes the 
+device detects, the specimen types tested, the results provided to the 
+end user, the clinical indications for which the test is to be used, 
+the specific intended population(s), the intended use locations 
+including testing location(s) where the device is to be used (if 
+applicable), and other conditions of use, as appropriate.
+    (2) If sample collection devices are used, any sample collection 
+device used must be FDA-cleared, -approved, or -classified as 510(k) 
+exempt (standalone or as part of a test system) for the collection of 
+specimen types claimed by this device; alternatively, the sample 
+collection device must be cleared in a premarket submission as a part 
+of this device.
+    (3) The labeling required under Sec.  809.10(b) of this chapter 
+must include:
+    (i) A detailed device description, including reagents, instruments, 
+ancillary materials, all control elements, and a detailed explanation 
+of the methodology, including all pre-analytical methods for processing 
+of specimens;
+    (ii) Detailed descriptions of the performance characteristics of 
+the device for each specimen type claimed in the intended use based on 
+analytical studies, including the following, as applicable: Assay 
+cutoff or limit of detection expressed in international standard units, 
+inclusivity, cross-reactivity, interfering substances, competitive 
+inhibition, carryover and cross contamination, matrix equivalency, hook 
+effect, specimen stability, precision, reproducibility, and clinical 
+studies, including the time period in which the clinical performance 
+was established and the variant(s) prevalent in the United States at 
+the time of performance validation;
+    (iii) Detailed descriptions of the test procedure(s), the 
+interpretation of test results for clinical specimens, and acceptance 
+criteria for any quality control testing;
+    (iv) When applicable, performance results of the analytical study 
+testing of a standardized reference material that FDA has determined is 
+appropriate;
+    (v) Limiting statements that indicate:
+    (A) A negative test result does not preclude the possibility of 
+infection;
+    (B) A negative result can occur if the quantity of the anti-SARS-
+CoV-2 antibodies present in the specimen is below the detection limits 
+of the assay, or the antibodies that are detected are not present 
+during the stage of disease in which a sample is collected;
+    (C) There is a risk of erroneous results (i.e., negative results) 
+due to the presence of novel emerging viral variants circulating in the 
+intended use population;
+    (D) The performance characteristics for that analyte were 
+established when [insert predominant strain, subtype, or variant] was 
+prevalent and that due to the propensity of the virus to mutate, new 
+strains emerge over time which may affect the performance of this 
+device and have serious public health implications;
+    (E) The test results should be interpreted in conjunction with 
+other clinical and laboratory data available to the healthcare provider 
+(as applicable);
+    (F) Positive and negative predictive values are highly dependent on 
+prevalence;
+    (G) Accurate results are dependent on adequate specimen collection, 
+transport, storage, and processing (as applicable). Failure to observe 
+proper procedures in any one of these steps can lead to incorrect 
+results;
+    (H) The test is not intended for donor screening; and
+    (I) The test is not intended to diagnose acute SARS-CoV-2 
+infection. An assay that directly detects the virus should be used to 
+evaluate individuals for acute COVID-19, particularly those who have 
+been in contact with the virus.
+    (vi) For devices intended for the quantitative detection of SARS-
+CoV-2 antibodies, labeling must include a prominent statement that 
+includes the following: the test calibrators' traceability to a 
+standardized reference material that FDA has determined is appropriate 
+and the limit of blank, limit of detection, and limit of quantitation, 
+with the defined analytical measuring interval.
+    (4) Design verification and validation must include:
+    (i) Detailed documentation of performance from a multisite clinical 
+study with an appropriate number of clinical samples (i.e., be 
+appropriately statistically powered) from individuals with recent or 
+prior SARS CoV-2 infection in which the results are compared to results 
+obtained from a comparator that FDA has determined to be appropriate. 
+This study must be conducted in the appropriate laboratory setting to 
+demonstrate clinical performance. For any SARS-CoV-2 serology test 
+intended for use in near-patient settings, a separate clinical study 
+must be conducted in near-patient settings. Documentation from these 
+studies must include study reports with study description, testing 
+results, and all statistical analyses, including an appropriate 
+justification describing how the sample set is representative of the 
+intended use population. These studies must compare the device 
+performance to results obtained from a comparator that FDA has 
+determined to be appropriate. These clinical studies must include 
+testing of unique prospective samples from subjects that are 
+representative of the intended use populations and may, when determined 
+to be acceptable by FDA, include additional characterized clinical 
+samples; or, as an alternative, when determined to be acceptable by 
+FDA, an equivalent sample set;
+    (ii) For any SARS-CoV-2 antibody test intended for use in near-
+patient settings, detailed documentation that demonstrates the 
+effectiveness of risk control measures and device robustness, including 
+flex studies, and performance with weakly-reactive samples when used by 
+the intended operators;
 
-    This airworthiness directive (AD) is effective July 1, 2026.
+[[Page 38501]]
 
-(b) Affected ADs
+    (iii) Risk analysis and documentation demonstrating how risk 
+control measures are implemented to address device system hazards, such 
+as failure modes effects analysis and hazard analysis. This 
+documentation must include a detailed description of a protocol 
+(including all procedures and methods) for the continuous monitoring, 
+identification, and handling of genetic mutations and/or novel 
+respiratory pathogen isolates or strains (e.g., regular review of 
+published literature and periodic in silico analysis of target amino 
+acid sequence(s) to detect possible mismatches) that may affect 
+detection of antibody. All results of this protocol, including any 
+findings, must be documented and must include any additional data 
+analysis that is requested by FDA in response to any performance 
+concerns identified under this section or identified by FDA during 
+routine evaluation. Additionally, if requested by FDA, these 
+evaluations must be submitted to FDA within 48 hours of the request for 
+FDA review, and any results that are reasonably interpreted to support 
+the conclusion that novel respiratory pathogen strains or isolates 
+impact the stated expected performance of the device must be sent to 
+FDA immediately to the email address provided in FDA's request;
+    (iv) Documentation of the specific amino acid sequence of the SARS-
+CoV-2 target protein(s) that the device utilizes to detect specific 
+antibodies to SARS-CoV-2;
+    (v) A detailed device description, including device components, 
+ancillary reagents required but not provided, and a detailed 
+explanation of the methodology, including protein sequence target(s) 
+for each analyte, design of target detection reagents, internal and 
+external controls, and computational path from collected raw data to 
+reported result (e.g., how collected raw signals are converted into a 
+reported signal and result), as applicable to the detection method and 
+device design;
+    (vi) For devices with associated software or instrumentation, 
+documentation must include a detailed description of device software, 
+including software applications and hardware-based devices that 
+incorporate software. The detailed description must include 
+documentation of verification, validation, and hazard analysis and risk 
+assessment activities, including an assessment of the impact of threats 
+and vulnerabilities on device functionality and end users and patients 
+as part of cybersecurity review;
+    (vii) For devices intended for the detection of SARS-CoV-2 
+antibodies for which a standardized reference material (that FDA has 
+determined is appropriate) is available, the performance results of an 
+analytical study testing this standardized reference material. Detailed 
+documentation of that study and its results must be provided, including 
+the study protocol, study report, testing results, and all statistical 
+analyses;
+    (viii) Detailed documentation of analytical studies conducted as 
+appropriate to the technology, specimen types tested, and intended use 
+of the device, including precision, endogenous interferences, cross 
+reactivity, carryover, matrix equivalency, class specificity, hook 
+effect, and sample and reagent stability. Samples selected for use in 
+analytical studies or used to prepare contrived samples for use in 
+analytical studies must be from subjects with clinically relevant 
+circulating antibodies to SARS-CoV-2 in the United States. Cross-
+reactivity studies must include samples from SARS-CoV-2 antibody 
+negative subjects with antibodies to viruses, high prevalence disease 
+agents, and normal or pathogenic flora. Endogenous interference studies 
+must include SARS-CoV-2 antibody negative and low positive samples with 
+endogenous interference substances, including antibodies present in 
+autoimmune diseases that are reasonably likely to be encountered in 
+clinical specimens under actual use conditions. In addition, for 
+devices intended for the quantitative detection of SARS-CoV-2 
+antibodies, the information provided must also include the metrological 
+calibration traceability hierarchy to a standardized reference material 
+that FDA has determined is appropriate. As appropriate to the 
+technology and specimen types tested, the information provided to 
+support quantitative tests must also include studies to support the 
+analytical measuring interval, including a limit of blank study, a 
+limit of detection study, an upper and lower limits of quantitation 
+study, a precision study, and a linearity study using clinical samples, 
+and, using a standardized reference material that FDA has determined is 
+appropriate, an accuracy study;
+    (ix) Detailed documentation of data and protocols, including 
+acceptance criteria, from a real-time reagent stability study must 
+include testing of samples with adequately challenging analyte 
+concentrations and must include shelf-life stability and shipping 
+stability, and, as applicable, in-use and open-kit stability and 
+freeze-thaw stability. The shelf-life stability assessment must include 
+a minimum of three lots;
+    (x) Detailed documentation of a multisite reproducibility study 
+with testing conducted at a minimum of three sites;
+    (xi) Final release criteria to be used for manufactured test lots 
+with appropriate evidence that lots released at the extremes of the 
+specifications will meet the claimed analytical and clinical 
+performance characteristics as well as the stability claims; and
+    (xii) Lot-to-lot precision studies, as appropriate.
+    (5) For any SARS-CoV-2 antibody test intended for use in near-
+patient settings, labeling must also include a brief reference sheet 
+(quick reference instructions) for the intended user(s) that includes, 
+at a minimum, the name and intended use of the test, easy to follow 
+step-by-step instructions of all control and sample testing procedures 
+for the claimed sample types, including graphic illustrations targeted 
+towards lay users (as applicable), the result(s) interpretation 
+guidance, warnings and limitation statements, toxicology information 
+and safety considerations for any hazardous materials, information for 
+troubleshooting (e.g., frequently asked questions), and technical 
+assistance with the device (e.g., helpline contact information).
+    (6) If one of the actions listed in section 564(b)(1)(A) through 
+(D) of the Federal Food, Drug, and Cosmetic Act occurs with respect to 
+one or more of the analytes claimed in the intended use, or if the 
+Secretary of Health and Human Services determines, under section 319(a) 
+of the Public Health Service Act, that a disease or disorder presents a 
+public health emergency, or that a public health emergency otherwise 
+exists, with respect to one or more of the analytes claimed in the 
+intended use:
+    (i) Within 30 days from the date that FDA notifies manufacturers 
+that characterized samples are available for test evaluation, the 
+manufacturer must have testing performed on the device with those 
+samples in accordance with a standardized protocol considered and 
+determined by FDA to be acceptable and appropriate; and
+    (ii) Within 60 days from the date that FDA notifies manufacturers 
+that characterized samples are available for test evaluation and 
+continuing until 3 years from that date, the results of the emergency 
+analytical reactivity testing, including the detailed information for 
+the samples tested as described in the certificate of authentication, 
+must be
 
-    None.
+[[Page 38502]]
 
-(c) Applicability
+included as part of the device's labeling in a tabular format.
 
-    This AD applies to all The Boeing Company Model 787-8, 787-9, 
-and 787-10 airplanes, certificated in any category.
-
-(d) Subject
-
-    Air Transport Association (ATA) of America Code 34, Navigation.
-
-(e) Unsafe Condition
-
-    This AD was prompted by the determination that radio altimeters 
-cannot be relied upon to perform their intended function if they 
-experience interference from wireless broadband operations in the 
-3.7-3.98 GHz frequency band (5G Lower C-Band) when operating in 
-Canadian airspace, and the determination that as a result of this 
-interference, certain airplane systems may not properly transition 
-from AIR to GROUND mode when landing on certain runways, resulting 
-in a longer landing distance than normal due to the effect on thrust 
-reverser deployment, speedbrake deployment, and increased idle 
-thrust. The FAA is issuing this AD to address degraded deceleration 
-performance and longer landing distance, which could lead to a 
-runway excursion.
-
-(f) Compliance
-
-    Comply with this AD within the compliance times specified, 
-unless already done.
-
-(g) Definitions
-
-    (1) For purposes of this AD, a ``radio altimeter tolerant 
-airplane'' is one for which the radio altimeter, as installed, 
-demonstrates the tolerances specified in paragraphs (g)(1)(i) and 
-(ii) of this AD, using a method approved by the FAA. No actions are 
-required by this AD for radio altimeter tolerant airplanes.
-    (i) Tolerance to radio altimeter interference, for the 
-fundamental emissions (3.7-3.98 GHz), at or above the power spectral 
-density (PSD) curve threshold specified in figure 1 to paragraph 
-(g)(1)(i) of this AD.
-
-Figure 1 to Paragraph (g)(1)(i)--Fundamental Effective Isotropic PSD at 
-Outside Interface of Aircraft Antenna
-
-[[Page 39392]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.051
-
-BILLING CODE 4910-13-P
-    (ii) Tolerance to radio altimeter interference, for the spurious 
-emissions (4.2-4.4 GHz), at or above the PSD curve threshold 
-specified in figure 2 to paragraph (g)(1)(ii) of this AD.
-
-Figure 2 to Paragraph (g)(1)(ii)--Spurious Effective Isotropic PSD at 
-Outside Interface of Aircraft Antenna
-
-[[Page 39393]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.052
-
-    (2) For purposes of this AD, a ``non-radio altimeter tolerant 
-airplane'' is one for which the radio altimeter, as installed, does 
-not demonstrate the tolerances specified in paragraphs (g)(1)(i) and 
-(ii) of this AD.
-    (3) Runway condition codes are defined in figure 3 to paragraph 
-(g)(3) of this AD.
-
-Figure 3 to Paragraph (g)(3)--Runway Condition Codes
-
-[[Page 39394]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.053
-
-(h) Airplane Flight Manual (AFM) Revision
-
-    For non-radio altimeter tolerant airplanes: Before further 
-flight in Canadian airspace, do the actions specified in paragraphs 
-(h)(1) and (2) of this AD.
-    (1) Revise the Limitations Section of the existing AFM to 
-include the information specified in figure 4 to paragraph (h)(1) of 
-this AD. This may be done by inserting a copy of figure 4 to 
-paragraph (h)(1) of this AD into the existing AFM.
-
-Figure 4 to Paragraph (h)(1)--AFM Limitations Revision for Non-Radio 
-Altimeter Tolerant Airplanes in Canadian Airspace
-[GRAPHIC] [TIFF OMITTED] TR30JN26.054
-
-[[Page 39395]]
-
-    (2) Revise the Operating Procedures Section of the existing AFM 
-to include the information specified in figure 5 to paragraph (h)(2) 
-of this AD. This may be done by inserting a copy of figure 5 to 
-paragraph (h)(2) of this AD into the existing AFM. An AFM with an 
-Operating Procedures Section that complies with paragraph (h)(2) of 
-AD 2023-12-10, Amendment 39-22468 (88 FR 40071, June 21, 2023) is 
-acceptable for compliance with the requirements of this paragraph of 
-this AD.
-
-Figure 5 to Paragraph (h)(2)--AFM Operating Procedures Revision
-
-[[Page 39396]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.055
-
-[[Page 39397]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.056
-
-[[Page 39398]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.057
-
-(i) Terminating Action for AFM Revision
-
-    (1) Modifying the airplane from a non-radio altimeter tolerant 
-airplane to a radio altimeter tolerant airplane terminates the 
-limitations in paragraph (h)(1) of this AD and the operating 
-procedures in paragraph (h)(2) of this AD for that airplane.
-    (2) After modifying the airplane to a radio altimeter tolerant 
-airplane, the limitations in paragraph (h)(1) of this AD and the 
-operating procedures in paragraph (h)(2) of this AD may be removed 
-from the AFM.
-
-(j) Alternative Methods of Compliance (AMOCs)
-
-    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
-FAA, has the authority to approve AMOCs for this AD, if requested 
-using the procedures found in 14 CFR 39.19. In accordance with 14 
-CFR 39.19, send your request to your principal inspector or 
-responsible Flight Standards Office, as appropriate. If sending 
-information directly to the manager of AIR-520, Continued 
-Operational Safety Branch, send it to the attention of the person 
-identified in paragraph (k) of this AD and email to:   [email&#160;protected]  .
-    (2) Before using any approved AMOC, notify your appropriate 
-principal inspector, or lacking a principal inspector, the manager 
-of the responsible Flight Standards Office.
-    (3) The following AMOCs approved previously for AD 2023-12-10, 
-Amendment 39-22463 (88 FR 40065, June 21, 2023) are approved as 
-AMOCs for paragraph (g)(1) of this AD: FAA AMOC letters 720-23-00137 
-and 720-23-00169.
-
-(k) Additional Information
-
-    For more information about this AD, contact Ken Fairhurst, 
-Continued Operational Safety Technical Advisor, FAA, 2200 South 
-216th St., Des Moines, WA 98198; phone: 817-222-5390; email: 
-  [email&#160;protected]  .
-
-(l) Material Incorporated by Reference
-
-    None.
-
-    Issued on June 25, 2026.
-Brian Knaup,
-Acting Deputy Director, Integrated Certificate Management Division, 
-Aircraft Certification Service.
-[FR Doc. 2026-13217 Filed 6-26-26; 4:15 pm]
-BILLING CODE 4910-13-C
+Grace R. Graham,
+Deputy Commissioner for Policy, Legislation, and International Affairs.
+[FR Doc. 2026-12902 Filed 6-25-26; 8:45 am]
+BILLING CODE 4164-01-P

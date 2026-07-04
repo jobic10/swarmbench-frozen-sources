@@ -1,498 +1,402 @@
-[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Federal Register Volume 91, Number 121 (Thursday, June 25, 2026)]
 [Rules and Regulations]
-[Pages 39489-39493]
+[Pages 38287-38289]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13185]
+[FR Doc No: 2026-12793]
 
-[[Page 39489]]
-
-=======================================================================
 -----------------------------------------------------------------------
 
-ENVIRONMENTAL PROTECTION AGENCY
+DEPARTMENT OF LABOR
 
-40 CFR Part 180
+Mine Safety and Health Administration
 
-[EPA-HQ-OPP-2021-0290; FRL-13187-01-OCSPP]
+30 CFR Part 75
 
-Chlormequat Chloride; Pesticide Tolerances
+[Docket No. MSHA-2025-0075]
+RIN 1219-AC06
 
-AGENCY: Environmental Protection Agency (EPA).
+Improving and Eliminating Regulations; Approved Conveyor Belts in 
+Underground Coal Mines
+
+AGENCY: Mine Safety and Health Administration (MSHA), Department of 
+Labor.
 
 ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: This regulation modifies existing tolerances for residues of 
-chlormequat chloride in or on barley, oats, triticale, and wheat 
-grains; and in or on multiple food and livestock commodities that are 
-identified and will be discussed in detail later in this document. 
-Taminco US LLC, a subsidiary of Eastman Chemical Company, requested 
-these tolerances under the Federal Food, Drug, and Cosmetic Act 
-(FFDCA).
+SUMMARY: MSHA is removing outdated flame-resistance approval 
+requirements for conveyor belts used in underground coal mines. These 
+requirements are being removed from MSHA's regulations because they 
+contain outdated effective dates and are no longer applicable.
 
-DATES: This regulation is effective June 30, 2026. Objections and 
-requests for hearings must be received on or before August 31, 2026 and 
-must be filed in accordance with the instructions provided in 40 CFR 
-part 178 (see also Unit I.C. of this document).
+DATES: Effective date: July 27, 2026.
 
-ADDRESSES: The docket for this action, identified by docket 
-identification (ID) number EPA-HQ-OPP-2021-0290, is available at 
- https://www.regulations.gov . Additional information about dockets 
-generally, along with instructions for visiting the dockets in person, 
-is available at  https://www.epa.gov/dockets .
+ADDRESSES: 
+    Docket: Access rulemaking documents electronically at  http://www.regulations.gov  [Docket No. MSHA-2025-0075]. Obtain a copy of 
+rulemaking documents from the Office of Standards, Regulations, and 
+Variances, MSHA, 200 Constitution Avenue NW, Washington, DC 20210, by 
+request to (202) 693-9440. This is not a toll-free number.
+    Email notification: To subscribe to receive email notification when 
+the Agency publishes rulemaking documents in the Federal Register, go 
+to  www.msha.gov .
 
-FOR FURTHER INFORMATION CONTACT: Charles Smith, Registration Division 
-(7505T), Office of Pesticide Programs, Environmental Protection Agency, 
-1200 Pennsylvania Ave., NW, Washington, DC 20460-0001; main telephone 
-number: (202) 566-1030; email address:   [email&#160;protected]  .
+FOR FURTHER INFORMATION CONTACT: Corliss A. Josephs-Conway, Acting 
+Director, Office of Standards, Regulations, and Variances, MSHA at 202-
+693-9440 (voice). This is not a toll-free number.
 
 SUPPLEMENTARY INFORMATION:
 
-I. Executive Summary
+I. Background
 
-A. Does this action apply to me?
+    On February 6, 2025, the President issued Executive Order (E.O.) 
+14192 ``Unleashing Prosperity Through Deregulation'' (90 FR 9065), 
+which directed agencies to alleviate unnecessary regulatory burdens. On 
+July 1, 2025, MSHA published a notice of proposed rulemaking (NPRM) 
+titled, ``Improving and Eliminating Regulations; Conveyor Belts in 
+Underground Coal Mines'' (90 FR 28424). In the NPRM, MSHA proposed to 
+remove outdated effective dates and requirements in 30 CFR 75.1108, 
+Approved conveyor belts.
+    MSHA received two comments on the NPRM during the public comment 
+period. One comment requested a 60-day extension of the public comment 
+period. The other comment supported MSHA's proposal. MSHA received no 
+comments opposing the proposed changes in the NPRM.
 
-    You may be potentially affected by this action if you are an 
-agricultural producer, food manufacturer, or pesticide manufacturer. 
-The following list of North American Industrial Classification System 
-(NAICS) codes is not intended to be exhaustive, but rather provides a 
-guide to help readers determine whether this document applies to them.
-      Crop production (NAICS code 111).
-      Animal production (NAICS code 112).
-      Food manufacturing (NAICS code 311).
-      Pesticide manufacturing (NAICS code 32532).
-    If you have any questions regarding the applicability of this 
-action to a particular entity, consult the person listed under FOR 
-FURTHER INFORMATION CONTACT.
+II. Discussion
 
-B. What is EPA's authority for taking this action?
+    In this final rule, unchanged from the proposal, MSHA is removing 
+the existing provisions in paragraphs (a) and (b) of Sec.  75.1108, 
+which list outdated flame-resistance requirements for approval of 
+conveyor belts in underground coal mines. Paragraph (c) contains the 
+current flame-resistance requirements for all conveyor belts to be 
+approved under 30 CFR part 14 and remains unchanged.
+    MSHA received one comment requesting an extension of the comment 
+period. The commenter stated a 30-day comment period did not provide 
+ample time for review, research, and development of meaningful 
+comments, and requested a 60-day extension. The same commenter stated 
+support for any effort that enhances health and safety protections for 
+miners; however, they noted the Agency could ensure this rule becomes a 
+success by allowing additional time for comments.
+    The Agency considered the comment extension request and determined 
+it was not necessary to extend the comment period. MSHA is making non-
+substantive changes that remove outdated requirements for approval of 
+conveyor belts in Sec.  75.1108(a) and (b) which have not been 
+applicable in underground coal mines since December 31, 2018.
+    The second commenter supported the proposal, stating that removing 
+outdated requirements for the approval process for conveyor belts used 
+in underground coal mines would streamline the current requirements for 
+underground coal operators while maintaining the same level of 
+protection for miners who work with such equipment.
+    MSHA agrees with the commenter and is removing the outdated 
+requirements in Sec.  75.1108(a) and (b). Specifically, as in the 
+proposed rule, the Agency is removing existing paragraphs (a) and (b) 
+and revising the language of existing paragraph (c) to remove the no 
+longer necessary compliance date of December 31, 2018. Revised 
+paragraph (c) contains the current requirements for the approval 
+process for the use of conveyor belts in underground coal mines. 
+Removing these provisions does not reduce protections afforded to 
+miners. Also, MSHA is reserving paragraphs (a) and (b) to maintain the 
+reference to paragraph (c) for the conveyor belt approval requirements 
+to avoid confusion for miners and mine operators.
 
-    EPA is issuing this rulemaking under section 408 of the Federal 
-Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. 346a. FFDCA section 
-408(b)(2)(A)(i) allows EPA to establish a tolerance (the legal limit 
-for a pesticide chemical residue in or on a food) only if EPA 
-determines that the tolerance is ``safe.'' FFDCA section 
-408(b)(2)(A)(ii) defines ``safe'' to mean that ``there is a reasonable 
-certainty that no harm will result from aggregate exposure to the 
-pesticide chemical residue, including all anticipated dietary exposures 
-and all other exposures for which there is reliable information.'' This 
-includes exposure through drinking water and in residential settings 
-but does not include occupational exposure. FFDCA section 408(b)(2)(C) 
-requires EPA to give special consideration to exposure of infants and 
-children to the pesticide chemical residue in establishing a tolerance 
-and to ``ensure that there is a reasonable certainty that no harm will 
-result to infants and children from aggregate exposure to the pesticide 
-chemical residue . . .''
+III. Procedural Issues and Regulatory Review
 
-C. How can I file an objection or hearing request?
+A. Review Under Executive Orders 12866 and 13563
 
-    Under FFDCA section 408(g), 21 U.S.C. 346a(g), any person may file 
-an objection to any aspect of this regulation and may also request a 
-hearing on those objections. If you fail to file an objection to the 
-final rule within the time period specified in the final rule, you will 
-have waived the right to raise any issues resolved in the final rule. 
-You must file your objection or request a hearing on this regulation in 
-accordance with the instructions provided in 40 CFR part 178. To ensure 
-proper receipt by EPA, you must identify docket ID number EPA-HQ-OPP-
-2021-0290 in the subject line on the first page of your submission. All 
-objections and requests for a hearing must be in writing, and must be 
-received by the Hearing Clerk on or before August 31, 2026.
-    The EPA's Administrative Law Judges Division (ALJD), in which the 
-Hearing Clerk is housed, urges parties to file and serve documents by 
-electronic means only, notwithstanding any other particular 
-requirements set forth in other procedural rules governing those 
-proceedings. See ``Order Urging Electronic Filing and Service,'' dated 
-December 3, 2025, which can be found at  https://www.epa.gov/system/files/documents/2025-12/2025-12-03-order-urging-electronic-filing-and-service.pdf . Although the EPA's regulations require submission via U.S. 
-Mail or hand delivery, the EPA intends to treat submissions filed via 
-electronic means as properly filed submissions; therefore, the EPA 
-believes the preference for submission via electronic means will not be 
-prejudicial. When submitting documents to the ALJD electronically, a 
-person should utilize the ALJD e-filing system at  https://yosemite.epa.gov/oa/eab/eab-alj_upload.nsf .
-    In addition to filing an objection or hearing request with the 
-Hearing Clerk as described in 40 CFR part 178, please submit a copy of 
-the filing (excluding any Confidential Business Information (CBI)) for 
-inclusion in the public docket at  https://www.regulations.gov . Follow 
-the online instructions for submitting comments. Do not submit 
-electronically any information you consider to be CBI or other 
-information whose disclosure is restricted by statute. If you wish to 
-include CBI in your request, please follow the applicable instructions 
-at  https://www.epa.gov/dockets/commenting-epa-dockets#rules  and clearly 
-mark the information that you claim to be CBI. Information not marked 
-confidential pursuant to 40 CFR part 2 may be disclosed publicly by EPA 
-without prior notice.
+    Executive Order (E.O.) 12866, ``Regulatory Planning and Review'' 58 
+FR 51735 (Oct. 4, 1993), requires agencies, to the extent permitted by 
+law, to (1) propose or adopt a regulation only upon a reasoned 
+determination that its benefits justify its costs (recognizing that 
+some benefits and costs are difficult to quantify); (2) tailor 
+regulations to impose the least burden on society, consistent with 
+obtaining regulatory objectives, taking into account, among other 
+things, and to the extent practicable, the costs of cumulative 
+regulations; (3) select, in choosing among alternative regulatory 
+approaches, those approaches that maximize net benefits; (4) to the 
+extent feasible, specify performance objectives, rather than specifying 
+the behavior or manner of compliance that regulated entities must 
+adopt; and (5) identify and assess available alternatives to direct 
+regulation, including providing economic incentives to encourage the 
+desired behavior, such as user fees or marketable permits, or providing 
+information upon which choices can be made by the public.
+    E.O. 13563, ``Improving Regulation and Regulatory Review,'' 76 FR 
+3821 (Jan. 21, 2011), requires agencies to use the best available 
+techniques to quantify anticipated present and future benefits and 
+costs as accurately as possible. E.O. 13563 reaffirms the principles of 
+E.O. 12866 while calling for improvements in the nation's regulatory 
+system to promote predictability, reduce uncertainty, and use the best, 
+most innovative, and least burdensome tools for achieving regulatory 
+ends. E.O. 13563 directs agencies to propose or adopt a regulation only 
+upon a reasoned determination that its benefits justify its costs; the 
+regulation is tailored to impose the least burden on society,
 
-II. Petitioned-For Tolerance
+[[Page 38288]]
 
-    In the Federal Register of August 24, 2021 (83 FR 47275) (FRL-8792-
-02-OCSPP), the Federal Register of October 21, 2021 (86 FR 58239) (FRL-
-8793-04-OCSPP), and the Federal Register of March 24, 2023 (88 FR 
-17778) (FRL-10579-02-OCSPP), EPA issued a document pursuant to FFDCA 
-section 408(d)(3), 21 U.S.C. 346a(d)(3), announcing the filing of a 
-pesticide petition (PP 0F8857) by Taminco US LLC, a subsidiary of 
-Eastman Chemical Company, 200 S Wilcox Drive, Kingsport, TN 37660-5147. 
-The petition requested that 40 CFR 180.698 be amended by establishing 
-tolerances for residues of the plant growth regulator chlormequat 
-chloride, [(2-chloroethyl) trimethylammonium chloride], in or on 
-Aspirated grain fractions (AGF) at 30 parts per million (ppm); barley 
-grain at 8 ppm; barley, hay at 90 ppm; barley, straw at 50 ppm; eggs at 
-0.1 ppm; horse, meat byproducts at 1 ppm; horse, meat at 0.2 ppm; meat 
-byproducts of cattle at 0.7 ppm; meat of cattle at 0.2 ppm; meat 
-byproducts of goats at 0.7 ppm; meat of
+consistent with achieving the regulatory objectives; and in choosing 
+among alternative regulatory approaches, the agency has selected those 
+approaches that maximize net benefits.
+    E.O. 12866 and E.O. 13563 direct agencies to assess all costs and 
+benefits of available regulatory alternatives and, if regulation is 
+necessary, to select regulatory approaches that maximize net benefits. 
+E.O. 13563 emphasizes the importance of quantifying both costs and 
+benefits, reducing costs, harmonizing rules, and promoting flexibility.
+    Removing the flame-resistance requirements for the approval of 
+conveyor belts will not impose new costs on underground coal mine 
+operators because the outdated requirements have not been applicable 
+since December 31, 2018. Removing the requirements will not reduce the 
+protections currently afforded to miners who work with conveyor belts; 
+instead, it will streamline current requirements and improve the 
+clarity of MSHA's standards for underground coal miners and mine 
+operators.
+    Under section 6(a) of E.O. 12866, the Office of Management and 
+Budget's (OMB's) Office of Information and Regulatory Affairs (OIRA) 
+determines whether a regulatory action is significant and whether 
+agencies are required to submit the regulatory action to OIRA for 
+review. Under section 3(f) of E.O. 12866, a ``significant regulatory 
+action'' is a regulatory action that is likely to result in a rule that 
+may:
+    (1) Have an annual effect on the economy of $100 million or more, 
+or adversely affect in a material way the economy, a sector of the 
+economy, productivity, competition, jobs, the environment, public 
+health or safety, or State, local, or tribal governments or communities 
+(also referred to as economically significant);
+    (2) Create a serious inconsistency or otherwise interfere with an 
+action taken or planned by another agency;
+    (3) Materially alter the budgetary impact of entitlements, grants, 
+user fees, or loan programs or the rights and obligations of 
+recipients; or
+    (4) Raise novel legal or policy issues arising out of legal 
+mandates, the President's priorities, or the principles set forth in 
+the E.O.
+    This final rule is determined to not constitute a ``significant 
+regulatory action'' because it does not meet any of the four 
+``significant regulatory action'' criteria under section 3(f) of E.O. 
+12866. Accordingly, this final rule was not submitted to OIRA for 
+review under E.O. 12866.
+    No alternatives were considered for this final deregulatory action.
 
-[[Page 39490]]
+B. Review Under the Regulatory Flexibility Act; Small Business 
+Regulatory Enforcement Fairness Act; and Executive Order 13272
 
-goats at 0.2 ppm; meat byproducts of hogs at 0.5 ppm; meat of hogs at 
-0.2 ppm; meat byproducts of sheep at 0.7 ppm; meat of sheep at 0.2 ppm; 
-milk at 0.5 ppm; oat, forage at 15 ppm; oat, hay at 100 ppm; oat, straw 
-at 50 ppm; poultry meat byproducts at 0.1 ppm, poultry meat at 0.05 
-ppm, oat grain at 40 ppm, triticale grain at 5 ppm; wheat, bran at 15 
-ppm; wheat, germ at 20 ppm; wheat grain at 5 ppm; wheat, forage at 30 
-ppm; wheat, hay at 90 ppm; and wheat, straw at 80 ppm.
-    Those documents referenced a summary of the petition prepared by 
-Taminco US LLC, a subsidiary of Eastman Chemical Company, the 
-petitioner, which is available in the docket (Docket ID Number EPA-HQ-
-OPP-2021-0290) at  https://www.regulations.gov .
-    Comments were received in response to the notices of filing, one 
-comment from the Center for Food Safety (CFS), one from Environmental 
-Working Group (EWG), and one from a private citizen which was non-
-substantive. EPA's response to the remaining comments is addressed in 
-the Comments on the NOF and EPA's Responses section of the document, 
-Response to Public Comments on EPA's Registration Decision to Approve 
-the First Outdoor Food Uses on Wheat, Triticale, Barley, and Oats for 
-Chlormequat Chloride, posted in Docket ID Number EPA-HQ-OPP-2021-0290 
-at  https://www.regulations.gov .
-    Based upon review of the data supporting the petition and in 
-accordance with its authority under FFDCA section 408(d)(4)(A)(i), EPA 
-is modifying the existing tolerances for residues at different levels 
-than requested. The reason for these changes is explained in Unit IV.C.
+    The Regulatory Flexibility Act (RFA) of 1980, as amended by the 
+Small Business Regulatory Enforcement Fairness Act (SBREFA) of 1996, 
+requires an agency to consider the impact of their rulemakings on small 
+entities. E.O. 13272, ``Proper Consideration of Small Entities in 
+Agency Rulemaking 67 FR 53461 (Aug. 16, 2002), requires Federal 
+agencies to assess the economic impacts of rules on small businesses, 
+small governmental jurisdictions, and small organizations, collectively 
+referred to as small entities.
+    MSHA reviewed this final rule, which eliminates regulatory 
+complexity, under the provisions of the RFA. MSHA concludes that this 
+final proposed rule will not have a ``significant economic impact on a 
+substantial number of small entities.'' MSHA will transmit this 
+certification and supporting statement of factual basis to the Chief 
+Counsel for Advocacy of the Small Business Administration for review 
+under 5 U.S.C. 605(b).
 
-III. Finale Tolerance Action
+C. Review Under the Paperwork Reduction Act
 
-A. Aggregate Risk Assessment and Determination of Safety
+    The Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) 
+provides for the Federal Government's collection, use, and 
+dissemination of information. The goals of the Paperwork Reduction Act 
+include minimizing paperwork and reporting burdens and ensuring the 
+maximum possible utility from the information that is collected under 5 
+CFR part 1320. The Paperwork Reduction Act requires Federal agencies to 
+obtain approval from OMB before requesting or requiring ``a collection 
+of information'' from the public.
+    This final rule imposes no new information collection or 
+recordkeeping requirements. Accordingly, OMB clearance is not required 
+under the Paperwork Reduction Act.
 
-    Section 408(b)(2)(A)(i) of FFDCA allows EPA to establish a 
-tolerance (the legal limit for a pesticide chemical residue in or on a 
-food) only if EPA determines that the tolerance is ``safe.'' Section 
-408(b)(2)(A)(ii) of FFDCA defines ``safe'' to mean that ``there is a 
-reasonable certainty that no harm will result from aggregate exposure 
-to the pesticide chemical residue, including all anticipated dietary 
-exposures and all other exposures for which there is reliable 
-information.'' This includes exposure through drinking water and in 
-residential settings but does not include occupational exposure. 
-Section 408(b)(2)(C) of FFDCA requires EPA to give special 
-consideration to exposure of infants and children to the pesticide 
-chemical residue in establishing a tolerance and to ``ensure that there 
-is a reasonable certainty that no harm will result to infants and 
-children from aggregate exposure to the pesticide chemical residue . . 
-. .''
-    Consistent with FFDCA section 408(b)(2)(D), and the factors 
-specified therein, EPA has reviewed the available scientific data and 
-other relevant information in support of this action. EPA has 
-sufficient data to assess the hazards of and to make a determination on 
-aggregate exposure for chlormequat chloride including exposure 
-resulting from the tolerances modified by this action. EPA's assessment 
-of exposures and risks associated with chlormequat chloride follows.
-    In an effort to streamline its publications in the Federal 
-Register, EPA is not reprinting sections of the rule that repeat what 
-has been previously published for tolerance rulemakings for the same 
-pesticide chemical. Where scientific information concerning a 
-particular chemical remains unchanged, the content of those sections 
-would not vary between tolerance rulemakings. EPA considers referral 
-back to those sections as sufficient to provide an explanation of the 
-information EPA considered in making its safety determination for the 
-new rulemaking.
-    EPA has previously published tolerance rulemakings for chlormequat 
-chloride in which EPA concluded, based on the available information, 
-that there is a reasonable certainty that no harm would result from 
-aggregate exposure to chlormequat chloride and established tolerances 
-for residues of that chemical. EPA is incorporating previously 
-published sections from those rulemakings as described further in this 
-rule, as they remain unchanged.
+D. Review Under Executive Order 13132
 
-B. Toxicological Profile
-
-    EPA has evaluated the available toxicity data and considered its 
-validity, completeness, and reliability as well as the relationship of 
-the results of the studies to human risk. EPA has also considered 
-available information concerning the variability of the sensitivities 
-of major identifiable subgroups of consumers, including infants and 
-children.
-    Specific information on the studies received and the nature of the 
-adverse effects caused by chlormequat chloride as well as the no-
-observed-adverse-effect-level (NOAEL) and the lowest-observed-adverse-
-effect-level (LOAEL) from the toxicity studies can be found at  https://www.regulations.gov  in the document, Chlormequat Chloride. Revised 
-Human Health Risk Assessment for the Section 3 Registration Action for 
-a New Use on Wheat, Triticale, Barley, Oats, and Grasses Grown for 
-Seed, in docket ID number EPA-HQ-OPP-2021-0290. This assessment 
-incorporated a subchronic 28-day inhalation study in rats. This study 
-showed decreases in body weight in males, increased incidence of 
-salivation, unsteady gait, tremors, flattened posture, and decreases in 
-white blood cells in both sexes at 0.3 mg/L.
-    For additional discussion of the Toxicological Profile of 
-chlormequat chloride see Unit III.A of the chlormequat chloride 
-tolerance rulemaking published in the Federal Register of April 25, 
-2018 (84 FR 17925) (FRL-9974-42).
-
-C. Toxicological Points of Departure/Levels of Concern
-
-    A summary of the toxicological endpoints used for the human health 
-risk assessment can be found in the document, Chlormequat Chloride. 
-Revised Human Health Risk Assessment for the Section 3 Registration 
-Action for a New Use on Wheat, Triticale, Barley, Oats, and Grasses 
-Grown for Seed, in docket ID number EPA-HQ-OPP-2021-0290.
-
-D. Exposure Assessment
-
-    Much of the exposure assessment remains the same although updates 
-have occurred to accommodate exposures from the petitioned-for 
-tolerances. These updates are discussed in this section. For a 
-description of the rest of the EPA approach to and assumptions for the 
-exposure assessment, please reference Unit III.C. of the April 25, 
-2018, rulemaking in the Federal Register (84 FR 17925) (FRL-9974-42).
-    1. Dietary exposure from food and feed uses. EPA's dietary exposure 
-assessments have been updated to include the additional petitioned-for 
-tolerances for residues of chlormequat chloride. In estimating acute 
-and chronic dietary exposure, the assessment was conducted using the 
-Dietary Exposure Evaluation Model software with the Food Commodity 
-Intake Database (DEEM-FCID, Version 4.02, EPA) which incorporates 2005-
-2010 food consumption information from the United States Department of 
-Agriculture's National Health and Nutrition Examination Survey, What We 
-Eat in America. The acute assessment is based on tolerance-level 
-residues and assumes 100 percent crop treated (PCT). The acute 
-assessment is unrefined. The chronic assessment is based on average 
-field trial values and assumes 100 PCT. The chronic assessment is 
-partially
-
-[[Page 39491]]
-
-refined. Empirical processing factors were included where available. 
-Otherwise, DEEM-FCID default processing factors were used. A cancer 
-dietary assessment was not conducted because chlormequat chloride is 
-classified as ``not likely to be carcinogenic to humans.''
-    EPA did not use refined PCT information in the dietary assessment 
-for chlormequat chloride, although average field trial values were 
-used. Section 408(b)(2)(E) of FFDCA authorizes EPA to use available 
-data and information on the anticipated residue levels of pesticide 
-residues in food and the actual levels of pesticide residues that have 
-been measured in food. If EPA relies on such information, EPA must 
-require, pursuant to FFDCA section 408(f)(1), that data be provided 5 
-years after the tolerance is established, modified, or left in effect, 
-demonstrating that the levels in food are not above the levels 
-anticipated. For the present action, EPA will issue such data call-ins 
-as are required by FFDCA section 408(b)(2)(E) and authorized under 
-FFDCA section 408(f)(1). Data will be required to be submitted no later 
-than 5 years from the date of issuance of these tolerances.
-    2. Dietary exposure from drinking water. Since the most recent 
-drinking water assessment was conducted, new metabolism data (aerobic 
-soil, aerobic aquatic, anaerobic aquatic) and terrestrial field 
-dissipation studies have been received, and refined modeling was 
-conducted. The drinking water model and their descriptions are 
-available at the EPA internet site:  https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/models-pesticide-risk-assessment . 
-The updated estimated drinking water concentrations (EDWCs) used in the 
-dietary risk assessment are 661.7 [micro]g/L for acute risk, and 240.2 
-[micro]g/L for chronic risk, all based on surface water sources of 
-drinking water.
-    3. From non-dietary exposure. Chlormequat chloride is not 
-registered for any specific use patterns that would result in 
-residential exposure.
-    4. Cumulative effects from substances with a common mechanism of 
-toxicity. Section 408(b)(2)(D)(v) of FFDCA requires that when 
-considering whether to establish, modify, leave in effect, or revoke a 
-tolerance, the Agency consider ``available information'' concerning the 
-cumulative effects of a particular pesticide's residues and ``other 
-substances that have a common mechanism of toxicity.''
-    Unlike other pesticides for which EPA has followed a cumulative 
-risk approach based on a common mechanism of toxicity, EPA has not made 
-a common mechanism of toxicity finding as to chlormequat chloride and 
-any other substances, and chlormequat chloride does not appear to 
-produce a toxic metabolite produced by other substances. For the 
-purposes of this tolerance action, therefore, EPA has not assumed that 
-chlormequat chloride has a common mechanism of toxicity with other 
-substances.
-
-E. Safety Factor for Infants and Children
-
-    EPA continues to conclude that there are reliable data to support 
-the reduction of the Food Quality Protection Act safety factor from 10X 
-to 1X. See Unit III.D. of the rulemaking published in the Federal 
-Register of April 25, 2018 (84 FR 17925) (FRL-9974-42), for a 
-discussion of the Agency's rationale for that determination.
-
-F. Aggregate Risks and Determination of Safety
-
-    EPA determines whether acute and chronic dietary pesticide 
-exposures are safe by comparing aggregate exposure estimates to the 
-acute population adjusted dose (aPAD) and chronic population adjusted 
-dose (cPAD). For linear cancer risks, EPA calculates the lifetime 
-probability of acquiring cancer given the estimated aggregate exposure. 
-Short-, intermediate-, and chronic-term risks are evaluated by 
-comparing the estimated aggregate food, water, and residential exposure 
-to the appropriate points of departure (PODs) to ensure that an 
-adequate margin of exposure (MOE) exists.
-    Acute dietary risks are below the Agency's level of concern of 100% 
-of the aPAD; they are 22% of the aPAD for infants ( https://www.epa.gov/laws-regulations/laws-and-executive-orders .
-
-A. Executive Order 12866: Regulatory Planning and Review
-
-    This action is exempt from review under Executive Order 12866 (58 
-FR 51735, October 4, 1993), because it establishes or modifies a 
-pesticide tolerance or a tolerance exemption under FFDCA section 408 in 
-response to a petition submitted to the Agency. The Office of 
-Management and Budget (OMB) has exempted these types of actions from 
-review under Executive Order 12866.
-
-B. Executive Order 14192: Unleashing Prosperity Through Deregulation
-
-    Executive Order 14192 (90 FR 9065, February 6, 2025) does not apply 
-because actions that establish a tolerance under FFDCA section 408 are 
-exempted from review under Executive Order 12866.
-
-C. Paperwork Reduction Act (PRA)
-
-    This action does not impose an information collection burden under 
-the PRA 44 U.S.C. 3501 et seq., because it does not contain any 
-information collection activities.
-
-D. Regulatory Flexibility Act (RFA)
-
-    Since tolerance actions that are established on the basis of a 
-petition under FFDCA section 408(d), such as the tolerance in this 
-final rule, do not require the issuance of a proposed rule, the 
-requirements of the RFA, 5 U.S.C. 601 et seq., do not apply to this 
-action.
-
-E. Unfunded Mandates Reform Act (UMRA)
-
-    This action does not contain an unfunded mandate of $100 million or 
-more (in 1995 dollars and adjusted annually for inflation) as described 
-in UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely 
-affect small governments. The action imposes no enforceable duty on any 
-State, local, or
-
-[[Page 39493]]
-
-Tribal governments or on the private sector.
-
-F. Executive Order 13132: Federalism
-
-    This action does not have federalism implications as specified in 
-Executive Order 13132 (64 FR 43255, August 10, 1999), because it will 
-not have substantial direct effects on the States, on the relationship 
-between the National Government and the States, or on the distribution 
+    E.O. 13132, ``Federalism'' 64 FR 43255 (August 10, 1999), imposes 
+certain requirements on Federal agencies formulating and implementing 
+policies or regulations that preempt State law or that have federalism 
+implications. The E.O. requires agencies to examine the constitutional 
+and statutory authority supporting any action that would limit the 
+policymaking discretion of the States and to carefully assess the 
+necessity for such actions. The E.O. also requires agencies to have an 
+accountable process to ensure meaningful and timely input by State and 
+local officials in the development of regulatory policies that have 
+federalism implications.
+    MSHA has examined this final rule and has determined that it will 
+not have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
 of power and responsibilities among the various levels of government.
 
-G. Executive Order 13175: Consultation and Coordination With Indian 
-Tribal Governments
+E. Review Under Executive Order 12988
 
-    This action does not have Tribal implications as specified in 
-Executive Order 13175 (65 FR 67249, November 9, 2000), because it will 
-not have substantial direct effects on Tribal governments, on the 
-relationship between the Federal government and the Indian Tribes, or 
-on the distribution of power and responsibilities between the Federal 
-government and Indian Tribes.
+    With respect to the review of existing regulations and the 
+promulgation of new regulations, section 3(a) of E.O. 12988, ``Civil 
+Justice Reform'' 61 FR 4729 (Feb. 7, 1996), imposes on Federal agencies 
+the general duty to adhere to the following requirements: (1) eliminate 
+drafting errors and ambiguity; (2) write regulations to minimize 
+litigation; (3) provide a clear legal standard for affected conduct 
+rather than a general standard; and (4) promote simplification and 
+burden reduction. Regarding the review required by section 3(a), 
+section 3(b) of E.O. 12988 specifically requires that Executive 
+agencies make every reasonable effort to ensure that the regulation: 
+(1) clearly specifies the preemptive effect, if any; (2) clearly 
+specifies any effect on existing Federal law or regulation; (3) 
+provides a clear legal standard for affected conduct while promoting 
+simplification and burden reduction; (4) specifies the retroactive 
+effect, if any; (5) adequately defines key terms; and (6) addresses 
+other important issues affecting clarity and general draftsmanship 
+under any guidelines issued by the Attorney General.
+    Section 3(c) of E.O. 12988 requires Executive agencies to review 
+regulations in light of applicable standards in section 3(a) and 
+section 3(b) to determine whether they are met or it is unreasonable to 
+meet one or more of them. MSHA has completed the required review and 
+determined that, to the extent permitted by law, this final rule meets 
+the relevant standards of E.O. 12988.
 
-H. Executive Order 13045: Protection of Children From Environmental 
-Health Risks and Safety Risks
+F. Review Under the Unfunded Mandates Reform Act
 
-    This action is not subject to Executive Order 13045 (62 FR 19885, 
-April 23, 1997) because tolerance actions like this one are exempt from 
-review under Executive Order 12866.
-    However, EPA's 2026 Policy on Children's Health applies to this 
-action. This rule finalizes tolerance actions under the FFDCA, which 
-requires EPA to give special consideration to exposure of infants and 
-children to the pesticide chemical residue in establishing a tolerance 
-and to ``ensure that there is a reasonable certainty that no harm will 
-result to infants and children from aggregate exposure to the pesticide 
-chemical residue . . .'' (FFDCA 408(b)(2)(C)). The Agency's 
-consideration is summarized in Unit III.E.
+    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires each Federal agency to assess the effects of Federal 
+regulatory actions on State, local, and Tribal governments and the 
+private sector. Public Law 104-4, sec. 201 (codified at 2 U.S.C. 1531). 
+For a regulatory action likely to result in a rule that may cause the 
+expenditure by
 
-I. Executive Order 13211: Actions Concerning Regulations That 
-Significantly Affect Energy Supply, Distribution or Use
+[[Page 38289]]
 
-    This action is not subject to Executive Order 13211 (66 FR 28355) 
-(May 22, 2001) because it is not a significant regulatory action under 
-Executive Order 12866.
+State, local, and Tribal governments, in the aggregate, or by the 
+private sector of $100 million or more in any one year (adjusted 
+annually for inflation), section 202 of UMRA requires Federal agencies 
+to publish a written statement that estimates the resulting costs, 
+benefits, and other effects on the national economy (2 U.S.C. 1532(a), 
+(b)). The UMRA also requires Federal agencies to develop an effective 
+process to permit timely input by elected officers of State, local, and 
+Tribal governments on a ``significant intergovernmental mandate,'' and 
+requires an agency plan for giving notice and opportunity for timely 
+input to potentially affected small governments before establishing any 
+requirements that might significantly or uniquely affect them.
+    MSHA examined this final rule according to UMRA and its statement 
+of policy and determined that it does not contain a Federal 
+intergovernmental mandate, nor is it expected to require expenditures 
+of $100 million or more in any one year by State, local, and Tribal 
+governments, in the aggregate, or by the private sector. As a result, 
+the analytical requirements of UMRA do not apply.
 
-J. National Technology Transfer Advancement Act (NTTAA)
+G. Review Under the National Environmental Policy Act
 
-    This action does not involve technical standards that would require 
-Agency consideration under NTTAA section 12(d), 15 U.S.C. 272.
+    The National Environmental Policy Act (NEPA) of 1969 (42 U.S.C. 
+4321 et seq.), requires each Federal agency to consider the 
+environmental effects of regulatory actions and to prepare an 
+environmental impact statement on agency actions that would 
+significantly affect the quality of the environment, unless the action 
+is considered categorically excluded under 29 CFR 11.10. MSHA reviewed 
+the final rule in accordance with NEPA requirements and the Department 
+of Labor's NEPA procedures (29 CFR part 11). As a result of this 
+review, MSHA has determined that this final rule will not have a 
+significant impact on air, water, or soil quality, plant or animal 
+life, the use of land or other aspects of the human environment. 
+Therefore, MSHA has not conducted an environmental assessment nor 
+provided an environmental impact statement.
 
-K. Congressional Review Act (CRA)
+H. Review Under the Treasury and General Government Appropriations Act, 
+1999
 
-    This action is subject to the CRA, 5 U.S.C. 801 et seq., and EPA 
-will submit a rule report to each House of the Congress and to the 
-Comptroller General of the United States. This action is not a ``major 
-rule'' as defined by 5 U.S.C. 804(2).
+    Section 654 of the Treasury and General Government Appropriations 
+Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family 
+Policymaking Assessment for any rule that may affect family well-being. 
+This final rule will not have any impact on the autonomy or integrity 
+of the family as an institution. Accordingly, MSHA has concluded that 
+it is not necessary to prepare a Family Policymaking Assessment.
 
-List of Subjects in 40 CFR Part 180
+I. Review Under Executive Order 12630
 
-    Environmental protection, Administrative practice and procedure, 
-Agricultural commodities, Pesticides and pests, Reporting and record 
-keeping requirements.
+    Pursuant to E.O. 12630, ``Governmental Actions and Interference 
+with Constitutionally Protected Property Rights'' 53 FR 8859 (March 18, 
+1988), MSHA has determined that this final rule will not result in any 
+takings that might require compensation under the Fifth Amendment to 
+the U.S. Constitution.
 
-    Dated: June 26, 2026.
-Leo Gueriguian,
-Acting Director, Office of Pesticide Programs.
-    For the reasons set forth in the preamble, 40 CFR chapter I is 
-amended as follows:
----------------------------------------------------------------------------
+J. Review Under the Treasury and General Government Appropriations Act, 
+2001
 
-    \1\ This tolerance expires December 30, 2026.
----------------------------------------------------------------------------
+    Section 515 of the Treasury and General Government Appropriations 
+Act, 2001 (44 U.S.C. 3516, note) provides for Federal agencies to 
+review most disseminations of information to the public under 
+information quality guidelines established by each agency pursuant to 
+general guidelines issued by OMB. OMB's guidelines were published at 67 
+FR 8452 (Feb. 22, 2002). MSHA has reviewed this final rule and has 
+concluded that it is consistent with applicable policies in the OMB 
+guidelines.
 
-PART 180--TOLERANCES AND EXEMPTIONS FOR PESTICIDE CHEMICAL RESIDUES 
-IN FOOD
+K. Review Under Executive Order 13175
 
-0
-1. The authority citation for part 180 continues to read as follows:
+    E.O. 13175, ``Consultation and Coordination with Indian Tribal 
+Governments'' 65 FR 67249 (Nov. 9, 2000), requires agencies to consult 
+with tribal officials when developing policies that may have ``tribal 
+implications.'' This final rule does not have ``tribal implications'' 
+because it does not ``have substantial direct effects on one or more 
+Indian tribes, on the relationship between the Federal Government and 
+Indian tribes, or on the distribution of power and responsibilities 
+between the Federal Government and Indian tribes.'' Accordingly, under 
+E.O. 13175, no further agency action or analysis is required.
 
-    Authority:  21 U.S.C. 321(q), 346a and 371.
+L. Review Under Executive Order 13211
 
-0
-2. In Sec.  180.698, revise the table in paragraph (a) to read as 
+    E.O. 13211, ``Actions Concerning Regulations That Significantly 
+Affect Energy Supply, Distribution, or Use'' 66 FR 28355 (May 22, 
+2001), requires agencies to publish a statement of energy effects when 
+a rule has a significant energy action that adversely affects energy 
+supply, distribution, or use. MSHA has reviewed this final rule for its 
+energy effects. For the energy analysis, this final rule will not 
+exceed the relevant criteria for adverse impact.
+
+M. Review Under Additional Executive Orders and Presidential Memoranda
+
+    MSHA has examined this final rule and has determined that it is 
+consistent with the policies and directives outlined in E.O. 14154, 
+``Unleashing American Energy'' 90 FR 8353 (Jan. 29, 2025); E.O. 14192, 
+``Unleashing Prosperity Through Deregulation'' 90 FR 9065 (Feb. 6, 
+2025), E.O. 14267, ``Reducing Anti-Competitive Regulatory Barriers'' 90 
+FR 15629 (Apr. 9, 2025); and the Presidential Memorandum, ``Delivering 
+Emergency Price Relief for American Families and Defeating the Cost-of-
+Living Crisis'' 90 FR 8245 (Jan. 28, 2025). This final rule is an E.O. 
+14192 deregulatory action.
+
+N. Congressional Notification
+
+    As required by 5 U.S.C. 801, MSHA will report to Congress on the 
+promulgation of this rule before its effective date. The report will 
+state that is has been determined that the rule is not a ``major rule'' 
+as defined by 5 U.S.C. 804(2).
+
+List of Subjects in 30 CFR part 75
+
+    Coal, Mine safety and health, Reporting and recordkeeping 
+requirements, Underground coal mines, Ventilation.
+
+    For the reasons set forth in the preamble, and under the authority 
+of the Federal Mine Safety and Health Act of 1977, as amended, MSHA 
+amends chapter I of title 30 of the Code of Federal Regulations as 
 follows:
 
-Sec.  180.698  Chlormequat chloride; tolerances for residues.
+PART 75--MANDATORY SAFETY STANDARDS--UNDERGROUND COAL MINES
 
-    (a) * * *
+0
+1. The authority citation for part 75 continues to read as follows:
 
-                        Table 1 to Paragraph (a)
-------------------------------------------------------------------------
-                                                             Parts per
-                        Commodity                             million
-------------------------------------------------------------------------
-Barley, bran............................................              20
-Barley, grain...........................................               8
-Barley, hay.............................................             150
-Barley, straw...........................................              60
-Cattle, meat byproducts.................................               1
-Cattle, meat............................................             0.2
-Egg.....................................................             0.1
-Goat, meat byproducts...................................               1
-Goat, meat..............................................             0.2
-Hog, meat byproducts\1\.................................             0.5
-Hog, meat\1\............................................             0.2
-Horse, meat byproducts..................................               1
-Horse, meat.............................................             0.2
-Milk....................................................             0.5
-Oat, grain..............................................              40
-Oat, forage.............................................              15
-Oat, hay................................................             150
-Oat, straw..............................................              50
-Poultry, meat byproducts................................             0.1
-Poultry, meat...........................................            0.05
-Sheep, meat byproducts..................................               1
-Sheep, meat.............................................             0.2
-Wheat, bran.............................................              15
-Wheat, germ.............................................              20
-Wheat, grain............................................               5
-Wheat, forage...........................................              30
-Wheat, hay..............................................             150
-Wheat, straw............................................              70
-------------------------------------------------------------------------
+    Authority: 30 U.S.C. 811, 813(h), 957.
+
+Subpart L--Fire Protection
+
+0
+2. Amend Sec.  75.1108 by removing and reserving paragraphs (a) and (b) 
+and revising paragraph (c) to read as follows:
+
+Sec.  75.1108  Approved conveyor belts.
 
 * * * * *
-[FR Doc. 2026-13185 Filed 6-29-26; 8:45 am]
-BILLING CODE 6560-50-P
+    (c) All conveyor belts used in underground coal mines shall be 
+approved under part 14 of this title.
+
+Wayne D. Palmer,
+Assistant Secretary of Labor for Mine Safety and Health Administration.
+[FR Doc. 2026-12793 Filed 6-24-26; 8:45 am]
+BILLING CODE 4520-43-P

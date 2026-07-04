@@ -1,545 +1,544 @@
-[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
 [Rules and Regulations]
-[Pages 39382-39388]
+[Pages 38526-38530]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13216]
-
-=======================================================================
------------------------------------------------------------------------
-
-DEPARTMENT OF TRANSPORTATION
-
-Federal Aviation Administration
-
-14 CFR Part 39
-
-[Docket No. FAA-2026-7202; Project Identifier AD-2026-00546-T; 
-Amendment 39-23393; AD 2026-13-10]
-RIN 2120-AA64
-
-Airworthiness Directives; The Boeing Company Airplanes
-
-AGENCY: Federal Aviation Administration (FAA), DOT.
-
-ACTION: Final rule; request for comments.
+[FR Doc No: 2026-12898]
 
 -----------------------------------------------------------------------
 
-SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
-The Boeing Company Model 747-8 and -8F series airplanes and Model 777-
-200, -200LR, -300, -300ER, and 777F series airplanes. This AD was 
-prompted by the determination that radio altimeters cannot be relied 
-upon to perform their intended function if they experience interference 
-from wireless broadband operations in the 3.7-3.98 GHz frequency band 
-(5G Lower C-Band) while operating in Canadian airspace, and the 
-determination that this interference may affect multiple other airplane 
-systems using radio altimeter data, including the pitch control laws, 
-including those that provide tail strike protection, regardless of the 
-approach type or weather. This AD requires revising the existing 
-airplane flight manual (AFM) to incorporate limitations prohibiting 
-certain operations requiring radio altimeter data when operating in 
-Canadian airspace. The FAA is issuing this AD to address the unsafe 
-condition on these products.
+ENVIRONMENTAL PROTECTION AGENCY
 
-DATES: This AD is effective July 1, 2026.
-    The FAA must receive comments on this AD by August 14, 2026.
+40 CFR Part 52
 
-ADDRESSES: You may send comments, using the procedures found in 14 CFR 
-11.43 and 11.45, by any of the following methods:
-      Federal eRulemaking Portal: Go to  regulations.gov . Follow 
-the instructions for submitting comments.
-      Fax: 202-493-2251.
-      Mail: U.S. Department of Transportation, Docket 
-Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
-Jersey Avenue SE, Washington, DC 20590.
-      Hand Delivery: Deliver to Mail address above between 9 
-a.m. and 5 p.m., Monday through Friday, except Federal holidays.
-    AD Docket: You may examine the AD docket at  regulations.gov  by 
-searching for and locating Docket No. FAA-2026-7202; or in person at 
-Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
-except Federal holidays. The AD docket contains this final rule, any 
-comments received, and other information. The street address for Docket 
-Operations is listed above.
+[EPA-R03-OAR-2025-0734; FRL-13009-02-R3]
 
-FOR FURTHER INFORMATION CONTACT: Ken Fairhurst, Continued Operational 
-Safety Technical Advisor, FAA, 2200 South 216th St., Des Moines, WA 
-98198; phone: 817-222-5390; email:   [email&#160;protected]  .
+Air Plan Approval; District of Columbia; Creation of Synthetic 
+Minor Permit Program
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Environmental Protection Agency (EPA) is approving a state 
+implementation plan (SIP) revision submitted by the Department of 
+Energy and Environment (DOEE) on behalf of the District of Columbia 
+(DC). The revision pertains to creating a synthetic minor permit 
+program and resolving the regulatory differences between DC's current 
+regulations and those regulations approved previously in Chapters 1 and 
+2 of the Air Quality Regulations codified in title 20 of the District 
+of Columbia Municipal Regulations (DCMR). The intended effect of this 
+action is to enable DC to create federally enforceable synthetic minor 
+permit conditions for sources of criteria pollutants. The EPA is 
+approving these revisions to the DC SIP in accordance with the 
+requirements of the Clean Air Act (CAA).
+
+DATES: This final rule is effective on July 27, 2026.
+
+ADDRESSES: The EPA has established a docket for this action under 
+Docket ID Number EPA-R03-OAR-2025-0734. All documents in the docket are 
+listed on the  www.regulations.gov  website. Although listed in the 
+index, some information is not publicly available, e.g., confidential 
+business information (CBI) or other information the disclosure of which 
+is restricted by statute. Certain other material, such as copyrighted 
+material, is not placed on the internet and will be publicly available 
+only in hard copy form. Publicly available docket materials are 
+available through  www.regulations.gov , or please contact the person 
+identified in the For Further Information Contact section for 
+additional availability information.
+
+FOR FURTHER INFORMATION CONTACT: Yongtian He, Permits Branch (3AD10), 
+Air & Radiation Division, U.S. Environmental Protection Agency, Region 
+III, 1600 John F Kennedy Boulevard, Philadelphia, Pennsylvania 19103. 
+The telephone number is (215) 814-2339. Mr. He can also be reached via 
+electronic mail at   [email&#160;protected]  .
 
 SUPPLEMENTARY INFORMATION:
 
-Comments Invited
+I. Background
 
-    The FAA invites you to send any written data, views, or arguments 
-about this final rule. Send your comments using a method listed under 
-the ADDRESSES section. Include Docket No. FAA-2026-7202 and Project 
-Identifier AD-2026-00546-T at the beginning of your comments. The most 
-helpful comments reference a specific portion of the final rule, 
-explain the reason for any recommended change, and include supporting 
-data. The FAA will consider all comments received by the closing date 
-and may amend this final rule because of those comments.
-    Except for Confidential Business Information (CBI) as described in 
-the following paragraph, and other information as described in 14 CFR 
-11.35, the FAA will post all comments received, without change, to 
- regulations.gov , including any personal information you provide. The 
-agency will also post a report summarizing each substantive verbal 
-contact received about this final rule.
+    On November 20, 2025 (90 FR 52305), the EPA published a notice of 
+proposed rulemaking (NPRM) for the District of Columbia. In the NPRM, 
+the EPA proposed the approval of a revision to the DC SIP to create a 
+synthetic minor permit program and to address regulatory differences 
+between DC's current regulations and those approved previously in 
+Chapters 1 and 2 of the Air Quality Regulations. The formal SIP 
+revision was submitted by DOEE on August 11, 2023.
+    A SIP-approved minor source permitting program can include 
+provisions for issuing permits that establish federally enforceable 
+emissions limits to restrict the Potential to Emit (PTE) of certain 
+pollutants below major stationary source and major modification 
+applicability thresholds. ``Synthetic minor'' permits establish these 
+federally enforceable emission limits for sources obtaining 
+construction permits and also establish these emission limits in the 
+corresponding operating permits.
+    This DC SIP revision is intended to create a synthetic minor permit 
+program through provisions in title 20 of the District of Columbia 
+Municipal Regulations (20 DCMR), specifically 20 DCMR Chapter 2 
+sections 200.6 and 200.7 as amended, in conjunction with other 
+provisions that already existed in 20 DCMR Chapters 1 and 2, that were 
+previously approved into the DC SIP. These provisions enable a new 
+source or modification of an existing source to limit its PTE below 
+major source thresholds in order to qualify as a minor source or minor 
+modification and to avoid applicability of major new source review 
+(NSR) requirements, including the requirements of the prevention of 
+significant deterioration (PSD) program in attainment areas and of the 
+nonattainment NSR (NNSR) program in nonattainment areas. These 
+provisions also allow new sources or modifications of existing sources 
+to avoid Title V major source status by limiting their PTE. The SIP 
+approved synthetic minor program will provide sources a mechanism to 
+avoid Title V and new source review major source applicability and make 
+those synthetic minor permit conditions both enforceable by DC and at 
+the Federal level.
 
-Confidential Business Information
+II. Summary of SIP Revision and EPA Analysis
 
-    CBI is commercial or financial information that is both customarily 
-and actually treated as private by its owner. Under the Freedom of 
-Information Act
+    The District of Columbia submitted a SIP revision to create a 
+synthetic minor permitting program. Section 200
 
-[[Page 39383]]
+[[Page 38527]]
 
-(FOIA) (5 U.S.C. 552), CBI is exempt from public disclosure. If your 
-comments responsive to this AD contain commercial or financial 
-information that is customarily treated as private, that you actually 
-treat as private, and that is relevant or responsive to this AD, it is 
-important that you clearly designate the submitted comments as CBI. 
-Please mark each page of your submission containing CBI as ``PROPIN.'' 
-The FAA will treat such marked submissions as confidential under the 
-FOIA, and they will not be placed in the public docket of this AD. 
-Submissions containing CBI should be sent to Ken Fairhurst, Continued 
-Operational Safety Technical Advisor, FAA, 2200 South 216th St., Des 
-Moines, WA 98198; phone: 817-222-5390; email: 
-  [email&#160;protected]  . Any commentary that the FAA receives that is 
-not specifically designated as CBI will be placed in the public docket 
-for this rulemaking.
+(General Permit Requirements) of 20 DCMR Chapter 2 (General and Non-
+attainment Area Permits) establishes synthetic minor program 
+provisions. Section 200.6 allows DOEE to establish a condition in a 
+permit issued pursuant to this chapter that limits, in a manner that is 
+enforceable as a practical matter, emissions from a source so as to 
+avoid applicability of the permitting requirements of section 300.1 
+(i.e., Title V). Essentially, this provision creates a synthetic minor 
+operating permit program, along with other provisions in 20 DCMR 
+Chapter 2. Similarly, section 200.7 effectively creates a synthetic 
+minor preconstruction permit program. Through provisions in sections 
+200.6, 200.7, and other sections in 20 DCMR Chapter 2, DOEE establishes 
+a synthetic minor program to issue synthetic minor operating permits 
+and synthetic minor preconstruction permits in DC.
+    In a June 28, 1989 Final Rule, the EPA established five criteria 
+for an approvable state operating permit program. See 54 FR 27274. 
+While that action is not directly applicable to the current DC SIP 
+revision, as discussed in the NPRM, those criteria are useful for 
+purposes of evaluating a State's synthetic minor program. The NPRM of 
+this action described in detail how DOEE's SIP submittal satisfies each 
+of these five criteria. See 90 FR 52305, November 20, 2025. In short, 
+DC's synthetic minor program is consistent with the five criteria for 
+approving a state operating permit program into a SIP. Permits issued 
+under an approved program are federally enforceable and may be used to 
+limit the PTE for sources of criteria air pollutants. In meeting those 
+five criteria in the 1989 Final Rule, DC's synthetic minor program also 
+meets the requirements of 40 CFR 51.160 through 51.165 on legally 
+enforceable procedures, public availability of information, 
+identification of responsible agency, administrative procedures, stack 
+height procedures, and permit requirements. The DC SIP submission also 
+meets the public notice and public hearing requirements of CAA section 
+110(l). The EPA finds that these revisions in the DC SIP will not 
+interfere with any applicable requirements concerning attainment and 
+reasonable further progress, or any other applicable CAA requirement. 
+Therefore, the DC SIP revision meets the requirements of section 110 of 
+the CAA.
+    Additional rationale for the EPA's now final action is explained in 
+the NPRM and will not be restated here.
 
-Background
+III. EPA's Response to Comments Received
 
-    The FAA issued AD 2021-23-12, Amendment 39-21810 (86 FR 69984, 
-December 9, 2021) (AD 2021-23-12), for all transport and commuter 
-category airplanes equipped with a radio altimeter. AD 2021-23-12 was 
-prompted by a determination that radio altimeters cannot be relied upon 
-to perform their intended function if they experience interference from 
-wireless broadband operations in the 5G Lower C-Band, which is close to 
-the frequency bands used by radio altimeters (4.2-4.4 GHz). AD 2021-23-
-12 required revising the limitations section of the existing AFM to 
-incorporate limitations prohibiting certain operations requiring radio 
-altimeter data when in the presence of 5G Lower C-Band interference as 
-identified by Notices to Air Missions (NOTAMs). The agency issued AD 
-2021-23-12 because radio altimeter anomalies that are undetected by the 
-automation or pilot, particularly close to the ground (e.g., landing 
-flare), could lead to loss of continued safe flight and landing.
-    The FAA subsequently identified an additional hazard presented by 
-5G Lower C-Band interference on The Boeing Company Model 747-8F and 
-747-8 series airplanes and Model 777 airplanes and issued AD 2022-03-
-05, Amendment 39-21922 (87 FR 4150, January 27, 2022) (AD 2022-03-05). 
-AD 2022-03-05 was prompted by the unsafe condition in AD 2021-23-12, as 
-well as a determination that interference from the 5G Lower C-Band may 
-affect multiple airplane systems using radio altimeter data, including 
-the pitch control laws, including those that provide tail strike 
-protection, regardless of the approach type or weather. AD 2022-03-05 
-required revising the limitations section of the existing AFM to 
-incorporate limitations prohibiting dispatching or releasing to 
-airports, and approaches or landings on runways, when in the presence 
-of 5G Lower C-Band interference as identified by NOTAMs.
-    After the FAA issued AD 2021-23-12 and AD 2022-03-05, the agency 
-determined that additional limitations were needed due to the continued 
-deployment of new 5G Lower C-Band base stations whose signals were 
-expected to cover most of the contiguous U.S., as well as the 
-determination that radio altimeter anomalies could lead to increased 
-flightcrew workload and flightcrew desensitization to warnings. 
-Therefore, the FAA issued AD 2023-10-02, Amendment 39-22438 (88 FR 
-34065, May 26, 2023) (AD 2023-10-02), to supersede AD 2021-23-12, and 
-the FAA issued AD 2023-12-05, Amendment 39-22463 (88 FR 40065, June 21, 
-2023) (AD 2023-12-05) to supersede AD 2022-03-05.
-    Currently, AD 2023-12-05 requires revising the limitations section 
-of the existing AFM to incorporate limitations prohibiting dispatching 
-or releasing to airports, and approaches or landings on runways, in the 
-entire contiguous U.S. airspace instead of only in areas identified by 
-NOTAM; however, AD 2023-12-05 permits radio altimeter tolerant 
-airplanes to perform these operations at 5G Lower C-Band mitigated 
-airports as identified in an FAA Domestic Notice.
+    The EPA received three sets of comments on its November 20, 2025 
+proposed action to approve revisions to the DC SIP. These comments, 
+provided by Earthjustice, Citizens Rulemaking Alliance, and an 
+anonymous concerned citizen, raised concerns with regard to the EPA's 
+November 20, 2025 proposed action. A full set of these comments is 
+provided in the docket for this final action. A summary of the comments 
+and the EPA's responses are provided below.
+    Earthjustice comment 1: The commenter raised concerns on the public 
+participation requirements in the proposed permitting program. The DC's 
+proposed SIP revision expressly waives public participation 
+requirements for individual applications for coverage by source 
+category permits (the DC's version of ``general'' permits or permits by 
+rule). The commenter asserts that the DC's submission also fails to 
+ensure effective public notice of proposed permits. The commenter 
+further asserts that provisions in section 210.4 arbitrarily assume 
+that providing notice by just one of these means will ``ensure 
+appropriate means of notification.''
+    EPA response: The EPA disagrees with the commenter. A ``General 
+Permit'' (or ``source category permit'' in DC) refers to a pre-approved 
+permit which applies to a specific class of significant sources. By 
+issuing a General Permit, DOEE indicates that it approves the 
+activities authorized by the General Permit, provided that the owner or 
+operator of the source registers with DOEE and meets the requirements 
+of the General Permit. The purpose of a General Permit is to improve 
+efficiency and consistency, i.e., to reduce the burden of individual 
+permits for minor sources, and to ensure all sources in a category meet 
+the same standards. General Permits or source category permits also 
+improve efficiency and reduce the administrative burden on air 
+permitting authorities; thus, it is a commonly adopted practice among 
+many State and local air permitting authorities to issue General 
+Permits. Public participation is typically conducted prior to the 
+issuance of a General Permit; public participation is not required when 
+an individual source applies to be covered by a source category permit 
+or General Permit.
+    The commenter incorrectly characterizes the requirements in the 
+DC's public participation provisions. In addition to section 210.4, 
+section 210.3 has further requirements for public participation. 
+Specifically, 20 DCMR 210.3 states that DOEE shall publish a notice 
+regarding the draft permit or denial in the DC Register and shall make 
+the information required by section 210.2 available for public 
+inspection at the DOEE's office and by one or more of the methods 
+described in section 210.4.
+    Earthjustice comment 2: The commenter is concerned that the DC's 
+submission provides a path for existing major sources to seek 
+reclassification to non-major source status without requiring continued 
+adherence to the more stringent controls required by the SIP under its 
+prior major source status. The commenter contends that the revision is 
+not in compliance with the EPA's rule governing synthetic minor 
+programs (54 FR 27274, 27282, June 28, 1989).
+    EPA response: The EPA disagrees with the commenter. The commenter 
+incorrectly characterizes how the synthetic minor permit program works, 
+because reclassification from a major source to a synthetic minor 
+source does not weaken any controls that may be required by the SIP for 
+a source under the source's prior major status. Classification of a 
+source either as a major source or synthetic minor source is based on 
+its PTE compared to the threshold that defines whether the source is a 
+major source or a minor source. The reclassification process does not 
+change the source's emission limits or requirements, and it does not 
+waive or make less stringent any applicable limitations and 
+requirements for the source. Thus, the reclassification process does 
+not weaken any more stringent controls that may be required by the SIP. 
+Therefore, this action does not violate any EPA rule governing the 
+synthetic minor program.
+    Earthjustice comment 3: The commenter asserts that the DC SIP 
+revision did not provide assurance of adequate resources for the 
+synthetic minor permit program. The Clean Air Act requires each SIP to 
+provide necessary assurances that the State will have adequate 
+personnel, funding, and authority under State (and, as appropriate, 
+local) law to carry out the plan. See 42 U.S.C. 7410(a)(2)(E)(i). The 
+commenter asserts that the DC's submission contains no such assurances.
+    EPA response: The EPA disagrees with the commenter. The synthetic 
+minor program is only a part of DOEE's air permit programs. Other 
+regulations in DC's SIP have been established by DC and approved by the 
+EPA to ensure that collectively, DOEE has adequate personnel, funding, 
+and authority to implement its air permit programs. For example, 
+sections 105 and 106 in
 
-Actions Since AD 2023-12-05 Was Issued
+[[Page 38528]]
 
-    Since the FAA issued AD 2023-12-05, Transport Canada, which is the 
-aviation authority for Canada, issued AD CF-2024-14, dated May 15, 2024 
-(Transport Canada AD CF-2024-14), to correct an unsafe condition for 
-all transport and commuter category airplanes with a radio altimeter. 
-Transport Canada AD CF-2024-14 states that in July 2023, Innovation, 
-Science and Economic Development Canada (ISED), Canada's spectrum 
-regulator, published Standard Radio System Plans (SRSP)-520 Issue 3 \1\ 
-and Radio Standard Specifications (RSS)-192 Issue 5,\2\ which define 
-the spectrum environment for the 3.45-3.90 GHz frequency band in 
-Canada. Transport Canada AD CF-2024-14 further states that spectrum 
-auctions for the 3.45-3.65 GHz and the 3.65-3.9 GHz band were completed 
-in 2021 and 2023, respectively.
+Chapter 1, sections 202 and 211 in Chapter 2, and section 305 in 
+Chapter 3 have codified requirements related to procedures, resources, 
+and the legal authority for implementation of synthetic minor permit 
+programs. Specifically, 20 DCMR section 105 details the procedures on 
+penalties, cost recovery, and injunctive relief for violations of any 
+air quality laws or regulations. 20 DCMR section 106 details the 
+enforcement process. 20 DCMR section 202 details the procedures for 
+amendment, suspension, revocation, and denial of permits. 20 DCMR 
+sections 211 and 305.5 detail the synthetic minor permit program's fee 
+requirements for the construction, modification, or operation of a 
+stationary source, or the installation, modification or operation of 
+any air pollution control device on a stationary source.
+    Earthjustice comment 4: The commenter asserts that DC needs to 
+clarify the procedures for judicial review provisions. The commenter 
+asserts that because 20 DCMR Chapter 2 does not contain its own 
+judicial review provisions within the chapter itself, the EPA must 
+reject DOEE's proposed revisions to the SIP and require that DOEE 
+revise and make clear the public's right to judicial review.
+    EPA response: The EPA disagrees with the commenter. The judicial 
+review provisions for DC synthetic minor permits, issued pursuant to 20 
+DCMR Chapter 2, are detailed in 20 DCMR Chapter 1, section 107.1. The 
+provisions of 20 DCMR Chapter 3, specifically section 300, do not 
+indicate that Chapter 3 is applicable to such permits. The period for 
+appeal in Chapter 1, section 107.1 is consistent with DC statute.
+    Anonymous concerned citizen comment 1: The commenter raises 
+concerns alleging structural failures of synthetic minor programs, 
+asserting that synthetic minor permitting regimes have a documented 
+history of abuse, under-enforcement, and emissions gaming.
+    EPA response: The comment is a broad comment about synthetic minor 
+permitting in general. The commenter did not identify any purported 
+flaws in DOEE's regulations, nor did they identify any specific issues 
+regarding the EPA's proposed approval. Therefore, the EPA does not 
+consider the comment to be relevant to this specific rulemaking and 
+will not respond further.
+    Anonymous concerned citizen comment 2: The commenter raises 
+concerns alleging that the SIP revision is an arbitrary and capricious 
+action under the Administrative Procedure Act (APA). The commenter 
+contends that the proposed action fails to adequately address the 
+cumulative emissions impacts of synthetic minor facilities, the 
+practical infeasibility of monitoring self-imposed limits, and the 
+documented history of noncompliance associated with such programs. The 
+commenter further asserts that the EPA also fails to explain any 
+departure from prior agency positions recognizing the inherent risks 
+posed by synthetic minor permitting, citing a report from the EPA's 
+Office of Inspector General that repeatedly identified deficiencies in 
+States' implementation of their minor source permitting programs.
+    EPA response: The comment is a broad comment on governmental agency 
+actions in general and does not identify issues specific to the 
+proposed action.
+    One of the main goals of the CAA is to assure the achievement and 
+maintenance of the NAAQS in every state of the US. The state and local 
+air districts establish laws, regulations, and specific air permitting 
+programs to regulate the air pollution emissions from industrial 
+sources so that the area under its jurisdiction can achieve and 
+maintain the NAAQS. Whether an area's air quality meets the NAAQS or 
+not is the ultimate criterion for evaluating the cumulative impacts of 
+all air emissions sources in the area (including synthetic minor 
+sources, which are the focus of this rulemaking). This action is 
+neither arbitrary nor capricious since the SIP revision's underlying 
+rationale and purpose will help DC achieve and maintain the NAAQS and 
+enable DC to implement its CAA programs more efficiently. Furthermore, 
+there is a rational connection between the facts and the agency action 
+proposed in the NPRM, as well as the procedural requirements followed 
+for public notice and comment by the EPA, that sufficiently demonstrate 
+that the EPA did not act arbitrarily and capriciously in proposing to 
+approve the DC synthetic minor permit program; therefore, this action 
+did not violate the APA.
+    The EPA disagrees with the comment that this NPRM deviates from 
+prior agency positions recognizing risks posed by synthetic minor 
+permitting. The EPA does agree that the identification of deficiencies 
+in States' implementation of their minor source permitting programs by 
+the EPA's Office of Inspector General helps strengthen some aspects of 
+States' synthetic minor programs such as monitoring, recordkeeping, and 
+enforcement by highlighting these deficiencies so that States can 
+address them.
+    Anonymous concerned citizen comment 3: The commenter raises 
+concerns of environmental justice and public health impacts of the SIP 
+revision. The commenter asserts that synthetic minor programs 
+disproportionately affect communities already burdened by industrial 
+pollution, and that the SIP revision's failure to assess these 
+disparate impacts is inconsistent with Executive Order 12898 and the 
+EPA's stated environmental justice obligations.
+    EPA response: The EPA disagrees with the commenter. This action is 
+consistent with Executive Order (E.O.) 14173 of January 21, 2025 
+(Ending Illegal Discrimination and Restoring Merit-Based Opportunity), 
+which rescinded E.O. 12898 on environmental justice, and Executive 
+Order 14148 of January 20, 2025, (Initial Rescissions of Harmful 
+Executive Orders and Actions) which rescinded E.O. 14096 ``Revitalizing 
+Our Nation's Commitment to Environmental Justice for All''.
+    Citizens Rulemaking Alliance comment 1: The commenter asserts that 
+the Regulatory Flexibility Act (RFA)/the Small Business Regulatory 
+Enforcement Fairness Act (SBREFA) showing made by the EPA is inadequate 
+because the EPA's proposal appears to rely on standard SIP-approval 
+boilerplate language stating that such actions ``merely approve state 
+law and do not impose additional requirements''. The commenter further 
+asserts that the EPA should either prepare an Initial Regulatory 
+Flexibility Analysis (IRFA) or provide a record-supported 5 U.S.C. 
+605(b) certification that squarely addresses the incremental 
+federalization of obligations and enforcement exposure, and that the 
+EPA should also convene a SBREFA panel if an IRFA is required.
+    EPA response: The EPA disagrees with the commenter. The RFA and 
+SBREFA are inapplicable to this rulemaking because the EPA has 
+certified that this rule will not have a significant economic impact on 
+a substantial number of small entities. The regulatory analysis 
+provisions of the RFA are only triggered by a threshold determination 
+by the Agency that this rule will have a significant economic impact on 
+a substantial number of small entities. Because the Agency has 
+certified this rule will not have a significant economic impact on a 
+substantial number of small entities, sections 603 and 604 of the RFA 
+do not apply to this rulemaking. See 5 U.S.C. 605(b).
+    Citizens Rulemaking Alliance comment 2: The commenter contends that 
+there are Paperwork Reduction Act
+
+[[Page 38529]]
+
+(PRA) issues with this action. The commenter asserts that the EPA 
+should identify the specific monitoring, recordkeeping, and reporting 
+(MRR) provisions being approved, determine whether they constitute 
+``collections of information'' required by or for the EPA, and either: 
+(a) obtain an Office of Management and Budget (OMB) control number 
+before finalizing this action, or (b) provide a reasoned explanation, 
+grounded in the text of the approved provisions and OMB's regulations, 
+for why the PRA does not apply to this action.
+    EPA response: The EPA disagrees with the commenter. The EPA has 
+complied with the PRA by certifying in the rule that the PRA does not 
+apply because the action does not involve an information collection 
+burden as defined by the Act. See 44 U.S.C. 3502(2).
+    Citizens Rulemaking Alliance comment 3: The commenter asserts that 
+the EPA should provide a reasoned explanation for its assessment 
+regarding E.O. 12866, including any Office of Information and 
+Regulatory Affairs (OIRA) significance determination, or submit the 
+action for review if it has not already done so.
+    EPA response: A ``significant regulatory action,'' as defined by 
+E.O. 12866, generally is any regulatory action that is likely to result 
+in a rule that may: (1) have an annual effect on the economy of $100 
+million or more; or adversely affect in a material way the economy, a 
+sector of the economy, productivity, competition, jobs, the 
+environment, public health or safety, or State, local, territorial, or 
+Tribal governments or communities; (2) create a serious inconsistency 
+or otherwise interfere with an action taken or planned by another 
+agency; (3) materially alter the budgetary impact of entitlements, 
+grants, user fees, or loan programs or the rights and obligations of 
+recipients thereof; or (4) raise novel legal or policy issues arising 
+out of legal mandates, the President's priorities, or the principles 
+set forth in E.O. 12866. This rulemaking does not meet any of these 
+four criteria that define a ``significant regulatory action.'' The EPA 
+has complied with E.O. 12866 by determining that this rulemaking is not 
+a significant regulatory action as defined in E.O. 12866.
+    Citizens Rulemaking Alliance comment 4: The commenter asserts that 
+the proposal contains only conclusory statements that SIP approvals do 
+not impose ``unfunded mandates'' as pertinent to the Unfunded Mandates 
+Reform Act (UMRA). At minimum, the commenter asserts that the EPA 
+should explain whether this approval ``may result in the expenditure by 
+the private sector of $100,000,000 or more in any one year'' (see 2 
+U.S.C. 1532) and provide its underlying calculations or the basis for 
+concluding the threshold is not approached in DC.
+    EPA response: The EPA has complied with the UMRA. This action does 
+not impose an unfunded mandate and the EPA has made its own 
+determination that this rule will not result in expenditures of $100M 
+or more in any one year by state, local, or tribal governments, in the 
+aggregate, or by the private sector, and therefore the Agency does not 
+need to complete a statement under 2 U.S.C. 1532.
+
+IV. Final Action
+
+    The EPA is approving the changes to the DOEE's permit program in 20 
+DCMR Chapter 2 to create a synthetic minor permit program as a revision 
+to the District of Columbia SIP, pursuant to the CAA and the approval 
+criteria specified in the June 28, 1989 Federal Register document (54 
+FR 27274 through 27286, June 28, 1989).
+
+V. Incorporation by Reference
+
+    In this document, the EPA is finalizing regulatory text that 
+includes incorporation by reference. In accordance with requirements of 
+1 CFR 51.5, the EPA is finalizing the incorporation by reference of the 
+DC air quality regulations in Chapter 2 of 20 DCMR, as described in 
+section II of this preamble. The EPA has made, and will continue to 
+make, these materials generally available through  www.regulations.gov  
+and at the EPA Region III Office (please contact the person identified 
+in the For Further Information Contact section of this preamble for 
+more information). Therefore, these materials have been approved by the 
+EPA for inclusion in the SIP, have been incorporated by reference by 
+the EPA into that plan, are fully federally enforceable under sections 
+110 and 113 of the CAA as of the effective date of the final rulemaking 
+of the EPA's approval, and will be incorporated by reference in the 
+next update to the SIP compilation.\1\
 ---------------------------------------------------------------------------
 
-    \1\  https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/standard-radio-system-plans/srsp-520-technical-requirements-fixed-andor-mobile-systems-including-flexible-use-broadband-systems .
-    \2\  https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-equipment-standards/radio-standards-specifications-rss/rss-192-flexible-use-broadband-equipment-operating-band-3450-3900-mhz .
+    \1\ 62 FR 27968 (May 22, 1997).
 ---------------------------------------------------------------------------
 
-    In July 2023, ISED implemented measures to mitigate Lower C-Band 
-interference to radio altimeters, which provide the Canadian airspace 
-greater protection from 5G Lower C-Band interference to radio 
-altimeters as compared to the Lower C-Band environment in the 
-contiguous U.S. airspace. These measures include exclusion and 
-protection zones and airport effective isotropic radiated power (EIRP) 
-elevation mask (a restriction that requires nearby cell tower signals 
-to be angled downward so they do not interfere with aircraft 
-altimeters) at certain airport runways covering the majority of air 
-traffic in Canada, as well as nationwide reduced fundamental power 
-emissions based on the degree of antenna uptilt above the horizon to 
-minimize emissions from 5G base stations toward aircraft.
-    In late March 2026, Transport Canada notified the FAA that, 
-beginning July 1, 2026, changes in the 5G Lower C-band protection 
-mitigations established by ISED in 2023 would result in a more severe 
-5G interference environment in the Canadian airspace. Exclusion and 
-protection zones at airports will no longer exist and updates to the 
-airport EIRP elevation mask, nationwide tilt restriction, emitter 
-height limitation and reduced spurious emissions will only protect 
-airplanes that are radio altimeter tolerant. The change in mitigations 
-will result in an unsafe condition in the Canadian 5G interference 
-environment.
-    Transport Canada determined that radio altimeters cannot be relied 
-upon to perform their intended function if they experience interference 
-from wireless broadband operations in the 3.45-3.98 GHz frequency band. 
-Transport Canada based its determination on the same unsafe condition 
-found by the FAA in AD 2023-10-02. As a result, Transport Canada AD CF-
-2024-14 requires revising the limitations section of the existing AFM 
-to incorporate limitations prohibiting certain operations requiring 
-radio altimeter data, due to the presence of 5G Lower C-Band 
-interference, while operating in Canadian airspace. As terminating 
-action for the operating limitations, Transport Canada AD CF-2024-14 
-provides that operators may
+V. Statutory and Executive Order Reviews
 
-[[Page 39384]]
+    Under the Clean Air Act, the Administrator is required to approve a 
+SIP submission that complies with the provisions of the Clean Air Act 
+and applicable Federal regulations. 42 U.S.C. 7410(k); 40 CFR 52.02(a). 
+Thus, in reviewing SIP submissions, the EPA's role is to approve State 
+choices, provided that they meet the criteria of the Clean Air Act. 
+Accordingly, this action merely approves State law as meeting Federal 
+requirements and does not impose additional requirements beyond those 
+imposed by State law. For that reason, this action:
+      Is not a significant regulatory action subject to review 
+by the Office of Management and Budget under Executive Order 12866 (58 
+FR 51735, October 4, 1993);
+      Is not subject to Executive Order 14192 (90 FR 9065, 
+February 6, 2025) because SIP actions are exempt from review under 
+Executive Order 12866;
+      Does not impose an information collection burden under the 
+provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
+      Is certified as not having a significant economic impact 
+on a substantial number of small entities under the Regulatory 
+Flexibility Act (5 U.S.C. 601 et seq.);
+      Does not contain any unfunded mandate or significantly or 
+uniquely affect small governments, as described in the Unfunded 
+Mandates Reform Act of 1995 (Pub. L. 104-4);
+      Does not have federalism implications as specified in 
+Executive Order 13132 (64 FR 43255, August 10, 1999);
+      Is not subject to Executive Order 13045 (62 FR 19885, 
+April 23, 1997) because it approves a State program;
+      Is not a significant regulatory action subject to 
+Executive Order 13211 (66 FR 28355, May 22, 2001); and
+      Is not subject to requirements of section 12(d) of the 
+National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
+note) because application of those requirements would be inconsistent 
+with the Clean Air Act.
+    In addition, the SIP is not approved to apply on any Indian 
+reservation land or in any other area where the EPA or an Indian Tribe 
+has demonstrated that a Tribe has jurisdiction. In those areas of 
+Indian country, the rule does not have Tribal implications and will not 
+impose substantial direct costs on Tribal governments or preempt Tribal 
+law as specified by Executive Order 13175 (65 FR 67249, November 9, 
+2000).
+    This action is subject to the Congressional Review Act, and the EPA 
+will submit a rule report to each House of the Congress and to the 
+Comptroller General of the United States. This action is not a ``major 
+rule'' as defined by 5 U.S.C. 804(2).
+    Under section 307(b)(1) of the Clean Air Act, petitions for 
+judicial review of this action must be filed in the United States Court 
+of Appeals for the
 
-upgrade their radio altimeters to demonstrate the tolerances for 
-emissions as specified in Transport Canada AD CF-2024-14.
-    Boeing subsequently conducted an analysis of the expected changes 
-in the 5G Lower C-Band environment in Canada and the effects of 
-interference with radio altimeters with respect to the Boeing fleet. In 
-May 2026, Boeing reported that certain airplane configurations will not 
-demonstrate tolerance to radio altimeter interference in the new 5G 
-environment in Canada. Therefore, based on this information, the FAA 
-determined that the unsafe condition identified in AD 2023-12-05 exists 
-for Model 747-8F and 747-8 series airplanes and Model 777 airplanes 
-when operating in the Canadian airspace. As a result, operating 
-limitations similar to the limitations required by AD 2023-12-05 are 
-necessary.
-    The FAA is issuing this AD to address the unsafe condition on these 
-products.
+[[Page 38530]]
 
-FAA's Determination
+appropriate circuit by August 25, 2026. Filing a petition for 
+reconsideration by the Administrator of this final rule does not affect 
+the finality of this action for the purposes of judicial review nor 
+does it extend the time within which a petition for judicial review may 
+be filed and shall not postpone the effectiveness of such rule or 
+action. This action to approve the revisions to the DC SIP may not be 
+challenged later in proceedings to enforce its requirements. (See CAA 
+section 307(b)(2).)
 
-    The FAA is issuing this AD because the agency has determined the 
-unsafe condition described previously is likely to exist or develop in 
-other products of the same type design.
+List of Subjects in 40 CFR Part 52
 
-AD Requirements
+    Environmental protection, Air pollution control, Carbon monoxide, 
+Incorporation by reference, Intergovernmental relations, Nitrogen 
+dioxide, Ozone, Particulate matter, Reporting and recordkeeping 
+requirements, Sulfur oxides, Volatile organic compounds.
 
-    For non-radio altimeter tolerant airplanes, this AD requires, 
-before further flight in Canadian airspace, revising the existing AFM 
-to incorporate limitations prohibiting dispatching or releasing to 
-airports, and approaches or landings on runways when operating in 
-Canadian airspace. This AD provides that modifying the airplane from a 
-non-radio altimeter tolerant airplane to a radio altimeter tolerant 
-airplane terminates the AFM operating limitations for that airplane.
-    While AD 2023-12-05 also prohibits dispatching or releasing to 
-airports and approaches or landings on runways for radio altimeter 
-tolerant airplanes except at 5G Lower C-Band mitigated airports, this 
-AD has no prohibitions for radio altimeter tolerant airplanes. The 
-interference environment at Canadian airports after July 1, 2026, will 
-be mitigated enough such that those prohibitions are not necessary for 
-radio altimeter tolerant airplanes. The FAA also notes that most Boeing 
-Model 747-8, 747-8F, and 777 radio altimeter tolerant airplanes are not 
-subject to the prohibitions in AD 2023-12-05 under the provisions of an 
-FAA-approved AMOC.
-    An airplane that is a radio altimeter tolerant airplane using a 
-method approved by the FAA for AD 2023-12-05 is also a radio altimeter 
-tolerant airplane for the purposes of paragraph (g)(1) of this AD. 
-Alternative methods of compliance (AMOC) listed in paragraph (j)(3) of 
-this AD are approved for this AD.
+Amy Van Blarcom-Lackey,
+Regional Administrator, Region III.
 
-Differences From Transport Canada AD CF-2024-14
+    For the reasons stated in the preamble, the EPA amends 40 CFR part 
+52 as follows:
 
-    Transport Canada AD CF-2024-14 specifies the fundamental emissions 
-are in the 3.45-3.98 GHz frequency band, while this AD specifies the 
-3.7-3.98 GHz frequency band. AD 2023-10-02 and AD 2023-12-05 identified 
-an unsafe condition from wireless broadband transmissions in the 3.7-
-3.98 GHz frequency band, and this AD is based on that same 
-determination. In addition, an airplane determined to be a radio 
-altimeter tolerant airplane for the purposes of AD 2023-12-05, which 
-has demonstrated the performance tolerances for fundamental emissions 
-within the 3.7-3.98 GHz frequency band, would also be a radio altimeter 
-tolerant airplane for purposes of this AD. Frequencies less than 3.7 
-GHz are further away from the frequency bands used by radio altimeters 
-(4.2-4.4 GHz), so an airplane determined to be tolerant in the range of 
-3.7-3.98 GHz is also tolerant to emissions less than 3.7 GHz.
-
-Interim Action
-
-    The FAA considers this AD to be an interim action. The FAA may 
-consider further rulemaking if the Canadian 5G C-Band interference 
-environment changes or if Canada issues an operational rule to address 
-5G C-Band interference with radio altimeters.
-
-Justification for Immediate Adoption and Determination of the Effective 
-Date
-
-    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
-551 et seq.) authorizes agencies to dispense with notice and comment 
-procedures for rules when the agency, for ``good cause,'' finds that 
-those procedures are ``impracticable, unnecessary, or contrary to the 
-public interest.'' Under this section, an agency, upon finding good 
-cause, may issue a final rule without providing notice and seeking 
-comment prior to issuance. Further, section 553(d) of the APA 
-authorizes agencies to make rules effective in less than thirty days, 
-upon a finding of good cause.
-    An unsafe condition exists that requires the immediate adoption of 
-this AD without providing an opportunity for public comments prior to 
-adoption. The FAA has found that the risk to the flying public 
-justifies forgoing notice and comment prior to adoption of this rule 
-because radio altimeters cannot be relied upon to perform their 
-intended function if they experience interference from wireless 
-broadband operations in the 5G Lower C-Band. This interference may 
-affect other airplane systems using radio altimeter data, including the 
-pitch control laws, including those that provide tail strike 
-protection, regardless of the approach type or weather, which, in 
-combination with multiple flight deck effects, could lead to loss of 
-continued safe flight and landing. The urgency is based on a change in 
-the 5G Lower C-Band environment in Canada, which is scheduled to occur 
-on July 1, 2026. Accordingly, notice and opportunity for prior public 
-comment are impracticable and contrary to the public interest pursuant 
-to 5 U.S.C. 553(b).
-    In addition, the FAA finds that good cause exists pursuant to 5 
-U.S.C. 553(d) for making this amendment effective in less than 30 days, 
-for the same reasons the FAA found good cause to forgo notice and 
-comment.
-
-Regulatory Flexibility Act
-
-    The requirements of the Regulatory Flexibility Act (RFA) do not 
-apply when an agency finds good cause pursuant to 5 U.S.C. 553 to adopt 
-a rule without prior notice and comment. Because the FAA has determined 
-that it has good cause to adopt this rule without notice and comment, 
-RFA analysis is not required.
-
-Costs of Compliance
-
-    The FAA notes that since operators must comply with this AD before 
-further flight in Canadian airspace, airplanes that do not operate in 
-Canada will not have to comply and therefore will have no costs under 
-this AD.
-    The FAA estimates that this AD affects 390 airplanes of U.S. 
-registry. The FAA expects that many of the affected airplanes have 
-upgraded radio altimeters; therefore, the FAA estimates the total 
-number of airplanes affected by this AD to be less than the total fleet 
-size provided in this AD. The FAA estimates the following costs to 
-comply with this AD:
-
-[[Page 39385]]
-
-                                                 Estimated Costs
-----------------------------------------------------------------------------------------------------------------
-                                                                              Cost per          Cost on U.S.
-              Action                      Labor cost         Parts cost        product           operators
-----------------------------------------------------------------------------------------------------------------
-AFM revision for non-RAT airplanes  1 work-hour x $85 per              $0             $85  Up to $33,150.
-                                     hour = $85.
-----------------------------------------------------------------------------------------------------------------
-
-                                      Estimated Costs for Optional Actions
-----------------------------------------------------------------------------------------------------------------
-                Action                        Labor cost               Parts cost            Cost per product
-----------------------------------------------------------------------------------------------------------------
-Modification (radio altimeter          .......................  .......................  Up to $120,000
- replacement option).                                                                     (includes parts and
-                                                                                          labor).
-Modification (filter addition option)  24 work-hours x $85 per  $12,000 per filter.....  Up to $14,040 (includes
-                                        hour = $2,040 per                                 parts and labor).
-                                        filter.
-----------------------------------------------------------------------------------------------------------------
-
-Authority for This Rulemaking
-
-    Title 49 of the United States Code specifies the FAA's authority to 
-issue rules on aviation safety. Subtitle I, section 106, describes the 
-authority of the FAA Administrator. Subtitle VII: Aviation Programs 
-describes in more detail the scope of the Agency's authority.
-    The FAA is issuing this rulemaking under the authority described in 
-Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
-Under that section, Congress charges the FAA with promoting safe flight 
-of civil aircraft in air commerce by prescribing regulations for 
-practices, methods, and procedures the Administrator finds necessary 
-for safety in air commerce. This regulation is within the scope of that 
-authority because it addresses an unsafe condition that is likely to 
-exist or develop on products identified in this rulemaking action.
-
-Regulatory Findings
-
-    This AD will not have federalism implications under Executive Order 
-13132. This AD will not have a substantial direct effect on the States, 
-on the relationship between the national government and the States, or 
-on the distribution of power and responsibilities among the various 
-levels of government.
-    For the reasons discussed above, I certify that this AD:
-    (1) Is not a ``significant regulatory action'' under Executive 
-Order 12866, and
-    (2) Will not affect intrastate aviation in Alaska.
-
-List of Subjects in 14 CFR Part 39
-
-    Air transportation, Aircraft, Aviation safety, Incorporation by 
-reference, Safety.
-
-The Amendment
-
-    Accordingly, under the authority delegated to me by the 
-Administrator, the FAA amends 14 CFR part 39 as follows:
-
-PART 39--AIRWORTHINESS DIRECTIVES
+PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
 
 0
-1. The authority citation for part 39 continues to read as follows:
+1. The authority citation for part 52 continues to read as follows:
 
-    Authority: 49 U.S.C. 106(g), 40113, 44701.
+    Authority: 42 U.S.C. 7401 et seq.
 
-Sec.  39.13   [Amended]
+Subpart J--District of Columbia
 
 0
-2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
-directive:
+2. In Sec.  52.470, the table in paragraph (c) is amended by revising 
+the entries for ``Section 200'', ``Section 202'', and ``Section 210'' 
+to read as follows:
 
-2026-13-10 The Boeing Company: Amendment 39-23393; Docket No. FAA-
-2026-7202; Project Identifier AD-2026-00546-T.
+Sec.  52.470   Identification of plan.
 
-(a) Effective Date
+* * * * *
+    (c) * * *
 
-    This airworthiness directive (AD) is effective July 1, 2026.
+                      EPA-Approved Regulations and Statutes in the District of Columbia SIP
+----------------------------------------------------------------------------------------------------------------
+                                                       State
+       State citation            Title/subject       effective      EPA approval date     Additional explanation
+                                                       date
+----------------------------------------------------------------------------------------------------------------
+                    District of Columbia Municipal Regulations (DCMR), Title 20--Environment
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+                                Chapter 2 General and Non-attainment Area Permits
+----------------------------------------------------------------------------------------------------------------
+Section 200................  General Permit           6/5/2020  6/26/2026, 91 FR [INSERT  Revised subsections
+                              Requirements.                      Federal Register PAGE     200.6, 200.7, 200.8,
+                                                                 WHERE THE DOCUMENT        200.9, 200.10,
+                                                                 BEGINS].                  200.11, 200.12, and
+                                                                                           200.13. Added
+                                                                                           subsections 200.14
+                                                                                           and 200.15.
+ 
+                                                  * * * * * * *
+Section 202................  Amendment,               6/5/2020  6/26/2026, 91 FR [INSERT  Revised subsections
+                              Suspensions,                       Federal Register PAGE     202.1 and 202.2.
+                              Revocation, and                    WHERE THE DOCUMENT        Added subsections
+                              Denial of Permits.                 BEGINS].                  202.6,202.7, and
+                                                                                           202.8.
+ 
+                                                  * * * * * * *
+Section 210................  Notice and Comment       6/5/2020  6/26/2026, 91 FR [INSERT  Revised subsections
+                              Prior to Permit                    Federal Register PAGE     210.3, 210.4, and
+                              Issuance.                          WHERE THE DOCUMENT        210.5. Added
+                                                                 BEGINS].                  subsection 210.6.
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
 
-(b) Affected ADs
-
-    None.
-
-(c) Applicability
-
-    This AD applies to all The Boeing Company Model 747-8 and -8F 
-series airplanes, and Model 777-200, -200LR, -300, -300ER, and 777F 
-series airplanes, certificated in any category.
-
-(d) Subject
-
-    Air Transport Association (ATA) of America Code 34, Navigation.
-
-(e) Unsafe Condition
-
-    This AD was prompted by the determination that radio altimeters 
-cannot be relied upon to perform their intended function if they 
-experience interference from wireless broadband operations in the 
-3.7-3.98 GHz frequency band (5G Lower C-Band) when operating in 
-Canadian airspace, and the determination that this interference may 
-affect other airplane systems using radio altimeter data, including 
-the pitch control laws, including those that provide tail strike 
-protection, regardless of the approach type or weather. The FAA is 
-issuing this AD to address missing or erroneous radio altimeter 
-data, which, in combination with multiple flight deck effects, could 
-lead to loss of continued safe flight and landing.
-
-(f) Compliance
-
-    Comply with this AD within the compliance times specified, 
-unless already done.
-
-(g) Definitions
-
-    (1) For purposes of this AD, a ``radio altimeter tolerant 
-airplane'' is one for which the radio altimeter, as installed, 
-demonstrates the tolerances specified in paragraphs (g)(1)(i) and 
-(ii) of this AD, using a method approved by the FAA. No actions are 
-required by this AD for radio altimeter tolerant airplanes.
-    (i) Tolerance to radio altimeter interference, for the 
-fundamental emissions (3.7-3.98 GHz), at or above the power spectral 
-density (PSD) curve threshold specified in figure 1 to paragraph 
-(g)(1)(i) of this AD.
-BILLING CODE 4910-13-P
-
-Figure 1 to Paragraph (g)(1)(i)--Fundamental Effective Isotropic PSD at 
-Outside Interface of Aircraft Antenna
-
-[[Page 39386]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.048
-
-    (ii) Tolerance to radio altimeter interference, for the spurious 
-emissions (4.2-4.4 GHz), at or above the PSD curve threshold 
-specified in figure 2 to paragraph (g)(1)(ii) of this AD.
-BILLING CODE 4910-13-P
-
-Figure 2 to Paragraph (g)(1)(ii)--Spurious Effective Isotropic PSD at 
-Outside Interface of Aircraft Antenna
-
-[[Page 39387]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.049
-
-BILLING CODE 4910-13-C
-    (2) For purposes of this AD, a ``non-radio altimeter tolerant 
-airplane'' is one for which the radio altimeter, as installed, does 
-not demonstrate the tolerances specified in paragraphs (g)(1)(i) and 
-(ii) of this AD.
-
-(h) Airplane Flight Manual (AFM) Revision
-
-    For non-radio altimeter tolerant airplanes: Before further 
-flight in Canadian airspace, revise the Limitations Section of the 
-existing AFM to include the information specified in figure 3 to 
-paragraph (h) of this AD. This may be done by inserting a copy of 
-figure 3 to paragraph (h) of this AD into the existing AFM.
-
-Figure 3 to Paragraph (h)--AFM Limitations Revision for Non-Radio 
-Altimeter Tolerant Airplanes in Canadian Airspace
-[GRAPHIC] [TIFF OMITTED] TR30JN26.050
-
-[[Page 39388]]
-
-(i) Terminating Action for AFM Revision
-
-    (1) Modifying the airplane from a non-radio altimeter tolerant 
-airplane to a radio altimeter tolerant airplane terminates the 
-limitations in paragraph (h) of this AD for that airplane.
-    (2) After modifying the airplane to a radio altimeter tolerant 
-airplane, the limitations specified by paragraph (h) of this AD may 
-be removed from the AFM.
-
-(j) Alternative Methods of Compliance (AMOCs)
-
-    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
-FAA, has the authority to approve AMOCs for this AD, if requested 
-using the procedures found in 14 CFR 39.19. In accordance with 14 
-CFR 39.19, send your request to your principal inspector or 
-responsible Flight Standards Office, as appropriate. If sending 
-information directly to the manager of AIR-520, Continued 
-Operational Safety Branch, send it to the attention of the person 
-identified in paragraph (k) of this AD and email to:   [email&#160;protected]  .
-    (2) Before using any approved AMOC, notify your appropriate 
-principal inspector, or lacking a principal inspector, the manager 
-of the responsible Flight Standards Office.
-    (3) The following AMOCs approved previously for AD 2023-12-05, 
-Amendment 39-22463 (88 FR 40065, June 21, 2023) are approved as 
-AMOCs for paragraph (g)(1) of this AD: FAA AMOC letters 720-23-
-00137, 720-23-00138, 720-23-00169, and 720-25-00031.
-
-(k) Additional Information
-
-    For more information about this AD, contact Ken Fairhurst, 
-Continued Operational Safety Technical Advisor, FAA, 2200 South 
-216th St., Des Moines, WA 98198; phone: 817-222-5390; email: 
-  [email&#160;protected]  .
-
-(l) Material Incorporated by Reference
-
-    None.
-
-    Issued on June 25, 2026.
-Brian Knaup,
-Acting Deputy Director, Integrated Certificate Management Division, 
-Aircraft Certification Service.
-[FR Doc. 2026-13216 Filed 6-26-26; 4:15 pm]
-BILLING CODE 4910-13-P
+* * * * *
+[FR Doc. 2026-12898 Filed 6-25-26; 8:45 am]
+BILLING CODE 6560-50-P

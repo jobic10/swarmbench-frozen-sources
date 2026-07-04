@@ -1,571 +1,593 @@
-[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
 [Rules and Regulations]
-[Pages 39446-39452]
+[Pages 38535-38540]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13218]
+[FR Doc No: 2026-12913]
 
 -----------------------------------------------------------------------
 
-DEPARTMENT OF TRANSPORTATION
+ENVIRONMENTAL PROTECTION AGENCY
 
-Federal Aviation Administration
+40 CFR Part 180
 
-14 CFR Part 39
+[EPA-HQ-OPP-2025-0816; FRL-13411-01-OCSPP]
 
-[Docket No. FAA-2026-7207; Project Identifier AD-2026-00556-T; 
-Amendment 39-23399; AD 2026-13-16]
-RIN 2120-AA64
+Cinnamaldehyde in Pesticide Formulations; Exemption From the 
+Requirement for a Tolerance
 
-Airworthiness Directives; The Boeing Company Airplanes
+AGENCY: Environmental Protection Agency (EPA).
 
-AGENCY: Federal Aviation Administration (FAA), DOT.
-
-ACTION: Final rule; request for comments.
+ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
-The Boeing Company Model 757 airplanes and Model 767 airplanes. This AD 
-was prompted by the determination that radio altimeters cannot be 
-relied upon to perform their intended function if they experience 
-interference from wireless broadband operations in the 3.7-3.98 GHz 
-frequency band (5G Lower C-Band) while operating in Canadian airspace, 
-and a determination that, during approach, landings, and go-arounds, as 
-a result of this interference, certain airplane systems may not 
-properly function, resulting in increased flightcrew workload while on 
-approach with the flight director, autothrottle, or autopilot engaged, 
-which could result in reduced ability of the flightcrew to maintain 
-safe flight and landing of the airplane. This AD requires revising the 
-existing airplane flight manual (AFM) to incorporate limitations 
-prohibiting certain operations requiring radio altimeter data when 
-operating in Canadian airspace. The FAA is issuing this AD to address 
-the unsafe condition on these products.
+SUMMARY: This regulation establishes an exemption from the requirement 
+of a tolerance for residues of cinnamaldehyde (CAS Reg. No. 104-55-2) 
+when used as an inert ingredient (preservative/stabilizer) on growing 
+crops and raw agricultural commodities pre- and post-harvest, limited 
+to no more than 100 parts per million (ppm) in the end-use pesticide 
+formulation. Wagner Regulatory Associates, Inc., on behalf of Minagro, 
+submitted a petition to EPA under the Federal Food, Drug, and Cosmetic 
+Act (FFDCA), requesting establishment of an exemption from the 
+requirement of a tolerance. This regulation eliminates the need to 
+establish a maximum permissible level for residues of cinnamaldehyde, 
+when used in accordance with the terms of this exemption.
 
-DATES: This AD is effective July 1, 2026.
-    The FAA must receive comments on this AD by August 14, 2026.
+DATES: This regulation is effective June 26, 2026. Objections and 
+requests for hearings must be received on or before August 25, 2026 and 
+must be filed in accordance with the instructions provided in 40 CFR 
+part 178 (see also Unit I.C. of this document).
 
-ADDRESSES: You may send comments, using the procedures found in 14 CFR 
-11.43 and 11.45, by any of the following methods:
-      Federal eRulemaking Portal: Go to  regulations.gov . Follow 
-the instructions for submitting comments.
-      Fax: 202-493-2251.
-      Mail: U.S. Department of Transportation, Docket 
-Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
-Jersey Avenue SE, Washington, DC 20590.
-      Hand Delivery: Deliver to Mail address above between 9 
-a.m. and 5 p.m., Monday through Friday, except Federal holidays.
-    AD Docket: You may examine the AD docket at  regulations.gov  by 
-searching for and locating Docket No. FAA-2026-7207; or in person at 
-Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
-except Federal holidays. The AD docket contains this final rule, any 
-comments received, and other information. The street address for Docket 
-Operations is listed above.
+ADDRESSES: The docket for this action, identified by docket 
+identification (ID) number EPA-HQ-OPP-2025-0816, is available online at 
+ https://www.regulations.gov . Additional information about dockets 
+generally, along with instructions for visiting the docket in person, 
+is available at  https://www.epa.gov/dockets .
 
-FOR FURTHER INFORMATION CONTACT: Ken Fairhurst, Continued Operational 
-Safety Technical Advisor, FAA, 2200 South 216th St., Des Moines, WA 
-98198; phone: 817-222-5390; email:   [email&#160;protected]  .
+FOR FURTHER INFORMATION CONTACT: Charles Smith, Registration Division 
+(7505T), Office of Pesticide Programs, Environmental Protection Agency, 
+1200 Pennsylvania Ave. NW, Washington, DC 20460-0001; main telephone 
+number: (202) 566-1030; email address:   [email&#160;protected]  .
 
-SUPPLEMENTARY INFORMATION:
+SUPPLEMENTARY INFORMATION: 
 
-Comments Invited
+I. General Information
 
-    The FAA invites you to send any written data, views, or arguments 
-about this final rule. Send your comments using a method listed under 
-the ADDRESSES section. Include Docket No. FAA-2026-7207 and Project 
-Identifier AD-2026-00556-T at the beginning of your comments. The most 
-helpful comments reference a specific portion of the final rule, 
-explain the reason for any recommended change, and include supporting 
-data. The FAA will consider all comments received by the closing date 
-and may amend this final rule because of those comments.
-    Except for Confidential Business Information (CBI) as described in 
-the following paragraph, and other information as described in 14 CFR 
-11.35, the FAA will post all comments received, without change, to 
- regulations.gov , including any personal information you provide. The 
-agency will also post a report summarizing each substantive verbal 
-contact received about this final rule.
+A. Does this action apply to me?
 
-Confidential Business Information
+    You may be potentially affected by this action if you are an 
+agricultural producer, food manufacturer, or pesticide manufacturer. 
+The following list of North American Industrial Classification System 
+(NAICS) codes is not intended to be exhaustive, but rather provides a 
+guide to help readers determine whether this document applies to them.
+      Crop production (NAICS code 111).
+      Animal production (NAICS code 112).
+      Food manufacturing (NAICS code 311).
+      Pesticide manufacturing (NAICS code 32532).
+    If you have any questions regarding the applicability of this 
+proposed action to a particular entity, consult the person listed under 
+FOR FURTHER INFORMATION CONTACT.
 
-    CBI is commercial or financial information that is both customarily 
-and actually treated as private by its owner. Under the Freedom of 
-Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
-disclosure. If your comments responsive to this AD contain commercial 
-or financial information that is customarily treated as private, that 
-you actually treat as private, and that is relevant or responsive to 
-this AD, it is important that you clearly designate the submitted 
-comments as CBI. Please mark each page of your submission containing 
-CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
-confidential under the FOIA, and they will not be placed in the public 
-docket of this AD. Submissions containing CBI should be sent to Ken 
-Fairhurst, Continued Operational Safety Technical Advisor, FAA, 2200 
-South 216th St., Des Moines, WA 98198; phone: 817-222-5390; email: 
-  [email&#160;protected]  . Any commentary that the FAA receives that is 
-not specifically designated as CBI will be placed in the public docket 
-for this rulemaking.
+B. What is EPA's authority for taking this action?
 
-Background
+    EPA is issuing this rulemaking under section 408 of the FFDCA, 21 
+U.S.C. 346a. FFDCA section 408(c)(2)(A)(i) allows EPA to establish an 
+exemption from the requirement for a tolerance (the legal limit for a 
+pesticide chemical residue in or on a food) only if EPA determines that 
+the exemption is ``safe.'' FFDCA section 408(c)(2)(A)(ii) defines 
+``safe'' to mean that ``there is a reasonable certainty that no harm 
+will result from aggregate exposure to the pesticide chemical residue, 
+including all anticipated dietary exposures and all other exposures for 
+which there is reliable information.'' This includes exposure through 
+drinking water and in residential settings but does not include 
+occupational exposure. Pursuant to FFDCA section 408(c)(2)(B), in 
+establishing or maintaining in effect an exemption from the requirement 
+of a tolerance, EPA must take into account the factors set forth in 
+FFDCA section 408(b)(2)(C), which require EPA to give special 
+consideration to exposure of infants and children to the pesticide 
+chemical residue in establishing a tolerance and to ``ensure that there 
+is a
 
-    The FAA issued AD 2021-23-12, Amendment 39-21810 (86 FR 69984, 
-December 9, 2021) (AD 2021-23-12), for all transport and commuter 
-category airplanes equipped with a radio altimeter. AD 2021-23-12 was 
-prompted by a determination that radio altimeters cannot be relied upon 
-to perform their intended function if they experience interference from 
-wireless broadband operations in the 5G Lower C-Band, which is close to 
-the frequency bands used by radio altimeters (4.2-4.4 GHz). AD 2021-23-
-12 required revising the limitations section of the existing AFM to 
-incorporate limitations prohibiting certain operations requiring radio 
-altimeter data when in the presence of 5G Lower C-Band interference as 
-identified by Notices to Air Missions (NOTAMs). The agency issued AD 
-2021-23-12 because radio altimeter anomalies that are undetected by the 
-automation or pilot, particularly close to the ground (e.g., landing 
-flare), could lead to loss of continued safe flight and landing.
-    The FAA subsequently identified an additional hazard presented by 
-5G Lower C-Band interference on Boeing Model 757 and Model 767 
-airplanes and issued AD 2022-04-05, Amendment 39-21947 (87 FR 8152, 
-February 14, 2022) (AD 2022-04-05). AD 2022-04-05 was prompted by the 
-unsafe condition in AD 2021-23-12, as well as a determination that, 
-during approach, landings, and go-arounds, as a result of interference 
-from the 5G Lower C-Band, certain airplane systems may not properly 
-function, resulting in increased flightcrew workload while on approach 
-with the flight director, autothrottle, or autopilot engaged, which 
-could result in reduced ability of the flightcrew to maintain safe 
-flight and landing of the airplane. AD 2022-04-05 required revising the 
-limitations section of the existing AFM to incorporate limitations 
-requiring specific operating procedures
+[[Page 38536]]
 
-[[Page 39447]]
+reasonable certainty that no harm will result to infants and children 
+from aggregate exposure to the pesticide chemical residue. . . . '' 
+Additionally, FFDCA section 408(b)(2)(D) requires that the Agency 
+consider, among other things, ``available information concerning the 
+cumulative effects of a particular pesticide's residues'' and ``other 
+substances that have a common mechanism of toxicity.''
 
-for landing distance calculations, instrument landing system (ILS) 
-approaches, non-precision approaches, speedbrake deployment, and go-
-around and missed approaches for dispatch or release to airports, and 
-approach, landing, and go-around on runways, when in the presence of 5G 
-Lower C-Band interference as identified by NOTAMs.
-    After the FAA issued AD 2021-23-12 and AD 2022-04-05, the agency 
-determined that additional limitations were needed due to the continued 
-deployment of new 5G Lower C-Band base stations whose signals were 
-expected to cover most of the contiguous U.S., as well as the 
-determination that radio altimeter anomalies could lead to increased 
-flightcrew workload and flightcrew desensitization to warnings. 
-Therefore, the FAA issued AD 2023-10-02, Amendment 39-22438 (88 FR 
-34065, May 26, 2023) (AD 2023-10-02), to supersede AD 2021-23-12, and 
-the FAA issued AD 2023-12-12, Amendment 39-22470, (88 FR 40058, June 
-21, 2023) (AD 2023-12-12), to supersede AD 2022-04-05.
-    Currently, AD 2023-12-12 requires revising the limitations section 
-of the existing AFM to incorporate limitations requiring specific 
-operating procedures for dispatch or release to airports, and approach, 
-landing, and go-around on runways at all airports in the entire 
-contiguous U.S. airspace instead of only in areas identified by NOTAM; 
-however, AD 2023-12-12 permits radio altimeter tolerant airplanes to 
-perform these operations at 5G Lower C-Band mitigated airports as 
-identified in an FAA Domestic Notice.
+C. How can I file an objection or hearing request?
 
-Actions Since AD 2023-12-12 Was Issued
+    Under FFDCA section 408(g), 21 U.S.C. 346a(g), any person may file 
+an objection to any aspect of this regulation and may also request a 
+hearing on those objections. If you fail to file an objection to the 
+final rule within the time period specified in the final rule, you will 
+have waived the right to raise any issues resolved in the final rule. 
+You must file your objection or request a hearing on this regulation in 
+accordance with the instructions provided in 40 CFR part 178. To ensure 
+proper receipt by EPA, you must identify the docket ID number EPA-HQ-
+OPP-2025-0816 in the subject line on the first page of your submission. 
+All objections and requests for a hearing must be in writing and must 
+be received by the Hearing Clerk on or before August 25, 2026.
+    EPA's Administrative Law Judges Division (ALJD), in which the 
+Hearing Clerk is housed, urges parties to file and serve documents by 
+electronic means only, notwithstanding any other particular 
+requirements set forth in other procedural rules governing those 
+proceedings. See ``Order Urging Electronic Filing and Service,'' dated 
+December 3, 2025, which can be found at  https://www.epa.gov/system/files/documents/2025-12/2025-12-03-order-urging-electronic-filing-and-service.pdf . Although EPA's regulations require submission via U.S. 
+Mail or hand delivery, EPA intends to treat submissions filed via 
+electronic means as properly filed submissions; therefore, EPA believes 
+the preference for submission via electronic means will not be 
+prejudicial. When submitting documents to the ALJD electronically, a 
+person should utilize the e-filing system at  https://yosemite.epa.gov/oa/eab/eab-alj_upload.nsf .
+    In addition to filing an objection or hearing request with the 
+Hearing Clerk as described in 40 CFR part 178, please submit a copy of 
+the filing (excluding any Confidential Business Information (CBI)) for 
+inclusion in the public docket at  https://www.regulations.gov . Follow 
+the online instructions for submitting comments. Do not submit 
+electronically any information you consider to be CBI or other 
+information whose disclosure is restricted by statute. If you wish to 
+include CBI in your request, please follow the applicable instructions 
+at  https://www.epa.gov/dockets/commenting-epa-dockets#rules  and clearly 
+mark the information that you claim to be CBI. Information not marked 
+confidential pursuant to 40 CFR part 2 may be disclosed publicly by EPA 
+without prior notice.
 
-    Since the FAA issued AD 2023-12-12, Transport Canada, which is the 
-aviation authority for Canada, issued AD CF-2024-14, dated May 15, 2024 
-(Transport Canada AD CF-2024-14), to correct an unsafe condition for 
-all transport and commuter category airplanes with a radio altimeter. 
-Transport Canada AD CF-2024-14 states that in July 2023, Innovation, 
-Science and Economic Development Canada (ISED), Canada's spectrum 
-regulator, published Standard Radio System Plans (SRSP)-520 Issue 3 \1\ 
-and Radio Standard Specifications (RSS)-192 Issue 5,\2\ which define 
-the spectrum environment for the 3.45-3.90 GHz frequency band in 
-Canada. Transport Canada AD CF-2024-14 further states that spectrum 
-auctions for the 3.45-3.65 GHz and the 3.65-3.9 GHz band were completed 
-in 2021 and 2023, respectively.
----------------------------------------------------------------------------
+II. Petitioned for Exemption
 
-    \1\  https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/standard-radio-system-plans/srsp-520-technical-requirements-fixed-andor-mobile-systems-including-flexible-use-broadband-systems .
-    \2\  https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-equipment-standards/radio-standards-specifications-rss/rss-192-flexible-use-broadband-equipment-operating-band-3450-3900-mhz .
----------------------------------------------------------------------------
+    In the Federal Register of December 15, 2025 (90 FR 57944, FRL-
+12474-08-OCSPP), EPA issued a document pursuant to FFDCA section 408, 
+21 U.S.C. 346a, announcing the filing of a pesticide petition (PP IN-
+11993) by Wagner Regulatory Associates, Inc. (7217 Lancaster Pike, 
+Hockessin, DE 19707) on behalf of Minagro (1, avenue Jean Monnet 1348 
+Louvain-la-Neuve Belgium). The petition requested that 40 CFR 180.910 
+be amended by establishing an exemption from the requirement of a 
+tolerance for residues of cinnamaldehyde (CAS Reg. No. 104-55-2) when 
+used as an inert ingredient (preservative/stabilizer) in pesticide 
+formulations applied to growing crops or raw agricultural commodities 
+pre- and post-harvest, limited to no more than 100 ppm in the end-use 
+pesticide formulation. That document referenced a summary of the 
+petition prepared by the petitioner, which is available in the docket. 
+There were no comments received in response to the notice of filing.
 
-    In July 2023, ISED implemented measures to mitigate Lower C-Band 
-interference to radio altimeters, which provide the Canadian airspace 
-greater protection from 5G Lower C-Band interference to radio 
-altimeters as compared to the Lower C-Band environment in the 
-contiguous U.S. airspace. These measures include exclusion and 
-protection zones and airport effective isotropic radiated power (EIRP) 
-elevation mask (a restriction that requires nearby cell tower signals 
-to be angled downward so they do not interfere with aircraft 
-altimeters) at certain airport runways covering the majority of air 
-traffic in Canada, as well as nationwide reduced fundamental power 
-emissions based on the degree of antenna uptilt above the horizon to 
-minimize emissions from 5G base stations toward aircraft.
-    In late March 2026, Transport Canada notified the FAA that, 
-beginning July 1, 2026, changes in the 5G Lower C-Band protection 
-mitigations established by ISED in 2023 would result in a more severe 
-5G interference environment in the Canadian airspace. Exclusion and 
-protection zones at airports will no longer exist and updates to the 
-airport EIRP elevation mask, nationwide tilt restriction, emitter 
-height limitation and reduced spurious emissions will only protect 
-airplanes that are radio altimeter tolerant. The change in mitigations 
-will result in an unsafe condition in the Canadian 5G interference 
-environment.
-    Transport Canada determined that radio altimeters cannot be relied 
-upon to perform their intended function if they experience interference 
-from wireless broadband operations in the 3.45-3.98 GHz frequency band. 
-Transport Canada based its determination on the same unsafe condition 
-found by the FAA in AD 2023-10-02. As a result, Transport Canada AD CF-
-2024-14 requires revising the limitations section of the existing AFM 
-to incorporate limitations prohibiting certain operations requiring 
-radio altimeter data, due to the presence of 5G Lower C-Band 
-interference, while operating in Canadian airspace. As terminating 
-action for the operating limitations, Transport Canada AD CF-2024-14 
-provides that operators may upgrade their radio altimeters to 
-demonstrate the tolerances for emissions as specified in Transport 
-Canada AD CF-2024-14.
-    Boeing subsequently conducted an analysis of the expected changes 
-in the 5G Lower C-Band environment in Canada and the effects of 
-interference with radio altimeters with respect to the Boeing fleet. In 
-May 2026, Boeing reported that certain airplane configurations will not 
-demonstrate tolerance to radio altimeter interference in the new 5G 
-environment in Canada. Therefore, based on this information, the FAA 
-determined that the unsafe condition identified in AD 2023-12-12 exists 
-for Model 757 and Model 767 airplanes when operating in the Canadian 
-airspace. As a result, operating limitations similar to the limitations 
-required by AD 2023-12-12 are necessary.
-    The FAA is issuing this AD to address the unsafe condition on these 
-products.
+III. Inert Ingredient Definition
 
-FAA's Determination
+    Inert ingredients are all ingredients that are not active 
+ingredients as defined in 40 CFR 153.125 and include, but are not 
+limited to, the following types of ingredients (except when they have a 
+pesticidal efficacy of their own): solvents such as alcohols and 
+hydrocarbons; surfactants such as polyoxyethylene polymers and fatty 
+acids; carriers such as clay and diatomaceous earth; thickeners such as 
+carrageenan and modified cellulose; wetting, spreading, and dispersing 
+agents; propellants in aerosol dispensers; microencapsulating agents; 
+and emulsifiers. The term ``inert'' is not intended to imply 
+nontoxicity; the ingredient may or may not be chemically active. 
+Generally, EPA has exempted inert ingredients from the requirement of a 
+tolerance based on the low toxicity of the individual inert 
+ingredients.
 
-    The FAA is issuing this AD because the agency has determined the 
-unsafe condition described previously is likely to exist or develop in 
-other products of the same type design.
+IV. Aggregate Risk Assessment and Determination of Safety
 
-AD Requirements
+    EPA establishes exemptions from the requirement of a tolerance only 
+in those cases where it can be clearly demonstrated that the risks from 
+aggregate exposure to pesticide chemical residues under reasonably 
+foreseeable circumstances will pose no harm to human health. In order 
+to determine the risks from aggregate exposure to pesticide inert 
+ingredients, the Agency considers the toxicity of the inert in 
+conjunction with possible exposure to residues of the inert ingredient 
+through food, drinking water, and through other exposures that occur as 
+a result of pesticide use in residential settings. If EPA is able to 
+determine that a finite tolerance is not necessary to ensure that there 
+is a reasonable certainty that no harm will result from aggregate 
+exposure to the inert ingredient, an exemption from the requirement of 
+a tolerance may be established.
+    Consistent with FFDCA section 408(c)(2)(A), and the factors 
+specified in FFDCA section 408(c)(2)(B), EPA has reviewed the available 
+scientific data and other relevant information in support of this 
+action. EPA has sufficient data to assess the hazards of and to make a 
+determination on aggregate exposure for cinnamaldehyde, including 
+exposure resulting from the exemption established by this action. EPA's 
+assessment of exposures and risks associated with cinnamaldehyde 
+follows.
 
-    For non-radio altimeter tolerant airplanes, this AD requires, 
-before further flight in Canadian airspace, revising the existing AFM 
-to incorporate limitations for dispatch or release to airports, and 
-approach, landing, and go-around on runways when operating in Canadian 
-airspace. This AD provides that modifying the airplane from a non-radio 
-altimeter tolerant airplane to a radio altimeter tolerant airplane 
-terminates the AFM operating limitations for that airplane.
-    While AD 2023-12-12 also specifies limitations for dispatch or 
-release to airports, and approach, landing, and go-around on runways 
-for radio altimeter tolerant airplanes except at 5G Lower C-Band 
-mitigated airports, this AD has no limitations for radio altimeter 
-tolerant airplanes. The interference environment at Canadian airports 
-after July 1, 2026, will be mitigated enough such that those 
-limitations are not necessary for radio altimeter tolerant airplanes. 
-The FAA also notes that most Model 757 and Model 767 radio altimeter 
-tolerant airplanes are not subject to the limitations in AD 2023-12-12 
-under the provisions of an FAA-approved AMOC.
-    An airplane that is a radio altimeter tolerant airplane using a 
-method
+A. Toxicological Profile
 
-[[Page 39448]]
+    EPA has evaluated the available toxicity data and considered their 
+validity, completeness, and reliability as well as the relationship of 
+the results of the studies to human risk. EPA has also considered 
+available information concerning the variability of the sensitivities 
+of major identifiable subgroups of consumers, including infants and 
+children. Specific information on the studies received and the nature 
+of the adverse effects caused by cinnamaldehyde as well as the no-
+observed-adverse-effect-level (NOAEL) and the lowest-observed-adverse-
+effect-level (LOAEL) from the toxicity studies are discussed in this 
+unit.
+    The toxicological database of cinnamaldehyde is supported by data 
+regarding trans-cinnamaldehyde. Based on the available human health 
+toxicity data of the two substances, EPA has determined that it is 
+appropriate to bridge trans-cinnamaldehyde data to assess 
+cinnamaldehyde due to
 
-approved by the FAA for AD 2023-12-12 is also a radio altimeter 
-tolerant airplane for the purposes of paragraph (g)(1) of this AD. 
-Alternative methods of compliance (AMOC) listed in paragraph (j)(3) of 
-this AD are approved for this AD.
+[[Page 38537]]
 
-Differences From Transport Canada AD CF-2024-14
+similarities in the structure and physical/chemical properties.
+    Cinnamaldehyde exhibits low levels of acute toxicity via the oral, 
+dermal, and inhalation routes of exposure. It is a moderate dermal and 
+eye irritant, and a strong dermal sensitizer. Decreased body weight in 
+female rats was observed at 4100 ppm (200 mg/kg/day) in a 2-year 
+chronic/carcinogenicity study. No increased offspring susceptibility 
+was observed in the available studies as offspring effects (reduced 
+fetal body weights) were only observed in the presence of parental 
+toxicity (increased incidence of clinical signs of toxicity, reduced 
+pregnancy rate, and pathological changes in the stomach) at 500 mg/kg/
+day. The established chronic reference dose (1.0 mg/kg/day) will be 
+protective of offspring effects. No evidence of neurotoxicity or 
+immunotoxicity was observed in the available studies. Concern for 
+carcinogenicity is low, based on the absence of treatment-related 
+neoplastic lesions or tumors in chronic/carcinogenicity studies in rats 
+and mice, and negative results in mutagenicity studies.
 
-    Transport Canada AD CF-2024-14 specifies the fundamental emissions 
-are in the 3.45-3.98 GHz frequency band, while this AD specifies the 
-3.7-3.98 GHz frequency band. AD 2023-10-02 and AD 2023-12-12 identified 
-an unsafe condition from wireless broadband transmissions in the 3.7-
-3.98 GHz frequency band, and this AD is based on that same 
-determination. In addition, an airplane determined to be a radio 
-altimeter tolerant airplane for the purposes of AD 2023-12-12, which 
-has demonstrated the performance tolerances for fundamental emissions 
-within the 3.7-3.98 GHz frequency band, would also be a radio altimeter 
-tolerant airplane for purposes of this AD. Frequencies less than 3.7 
-GHz are further away from the frequency bands used by radio altimeters 
-(4.2 to 4.4 GHz), so an airplane determined to be tolerant in the range 
-of 3.7-3.98 GHz is also tolerant to emissions less than 3.7 GHz.
+B. Toxicological Points of Departure/Levels of Concern
 
-Interim Action
+    Once a pesticide's toxicological profile is determined, EPA 
+identifies toxicological points of departure (POD) and levels of 
+concern to use in evaluating the risk posed by human exposure to the 
+pesticide. For hazards that have a threshold below which there is no 
+appreciable risk, the toxicological POD is used as the basis for 
+derivation of reference values for risk assessment. PODs are developed 
+based on a careful analysis of the doses in each toxicological study to 
+determine the NOAEL and the LOAEL. Uncertainty/safety factors are used 
+in conjunction with the POD to calculate a safe exposure level, 
+generally referred to as a population-adjusted dose (PAD) or a 
+reference dose, and a safe margin of exposure (MOE). For non-threshold 
+risks, the Agency assumes that any amount of exposure will lead to some 
+degree of risk. Thus, the Agency estimates risk in terms of the 
+probability of an occurrence of the adverse effect expected in a 
+lifetime. For more information on the general principles EPA uses in 
+risk characterization and a complete description of the risk assessment 
+process, see  https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/overview-risk-assessment-pesticide-program .
+    An acute dietary endpoint was not selected because no effect 
+attributable to a single dose was identified in the database. The 2-
+year chronic/carcinogenicity study in rats was selected for the chronic 
+dietary exposure scenario as well as short- and intermediate-term 
+incidental oral, dermal and inhalation exposure scenarios. The NOAEL of 
+2100 ppm (100 mg/kg/day) and LOAEL of 4100 ppm (200 mg/kg/day), based 
+on decreased body weight in female rats, were selected for risk 
+assessment. The study is appropriate for the duration of exposure and 
+is protective of all chronic effects, including for the general 
+population and the most sensitive lifestage (children). The standard 
+inter- and intra-species uncertainty factors of 10x are applied (total 
+uncertainty factor = 100x). The default factor of 100% is applied for 
+the dermal and inhalation absorption rates.
 
-    The FAA considers this AD to be an interim action. The FAA may 
-consider further rulemaking if the Canadian 5G C-Band interference 
-environment changes or if Canada issues an operational rule to address 
-5G C-Band interference with radio altimeters.
+C. Exposure Assessment
 
-Justification for Immediate Adoption and Determination of the Effective 
-Date
+    1. Dietary Exposure from Food and Feed Uses. In evaluating dietary 
+exposure to cinnamaldehyde, EPA considered exposure under the existing 
+and proposed exemptions from the requirement of a tolerance. EPA 
+assessed dietary exposures from cinnamaldehyde in food as follows.
+    Dietary exposure (food and drinking water) may occur from the 
+existing and proposed pesticidal uses of cinnamaldehyde (e.g., eating 
+foods treated with pesticide formulations containing cinnamaldehyde, 
+and drinking water exposures). Dietary exposure may also occur from 
+non-pesticidal uses (e.g., household, personal care, cosmetics, and 
+food additive), but no reliable information is available for non-
+pesticidal exposures. Therefore, EPA assessed dietary exposures from 
+pesticidal uses of cinnamaldehyde only.
+    In conducting the dietary exposure assessment, EPA used the Dietary 
+Exposure Evaluation Model software using the Food Commodity Intake 
+Database, Version 4.02, which uses food consumption information from 
+the U.S. Department of Agriculture's 2005-2010 National Health and 
+Nutrition Examination Survey, What We Eat in America. As to residue 
+levels in food, no residue data were submitted for cinnamaldehyde. In 
+the absence of specific residue data, EPA has developed an approach 
+which uses surrogate information to derive upper bound exposure 
+estimates for the subject inert ingredient. Upper bound exposure 
+estimates are based on the highest tolerance for a given commodity from 
+a list of high-use insecticides, herbicides, and fungicides. A complete 
+description of the general approach taken to assess inert ingredient 
+risks in the absence of residue data is contained in the December 21, 
+2021, memorandum ``Update to D361707: Dietary Exposure and Risk 
+Assessments for the Inerts,'' which can be found at  http://www.regulations.gov  in docket ID number EPA-HQ-OPP-2018-0090.
+    In the dietary exposure assessment, the Agency assumed that the 
+residue level of the inert ingredient would be no higher than the 
+highest tolerance for a given commodity. Implicit in this assumption is 
+that there would be similar rates of degradation (if any) between the 
+active and inert ingredient and that the concentration of inert 
+ingredient in the scenarios leading to these highest levels of 
+tolerances would be no higher than the concentration of the active 
+ingredient.
+    The Agency believes the assumptions used to estimate dietary 
+exposures lead to an extremely conservative assessment of dietary risk 
+due to a series of compounded conservatisms. First, assuming that the 
+level of residue for an inert ingredient is equal to the level of 
+residue for the active ingredient will overstate exposure. When used as 
+an active ingredient, the concentrations of cinnamaldehyde in 
+agricultural products are generally at least 50 percent of the product 
+and often can be much higher. Further, pesticide products rarely have a 
+single inert ingredient; rather, there is generally a combination of 
+different inert ingredients used which additionally reduces the 
+concentration of any single inert ingredient in the pesticide product 
+in relation to that of the active ingredient. In the case of 
+cinnamaldehyde, EPA made a specific adjustment to the dietary exposure 
+assessment to account for the limit on the amount of cinnamaldehyde 
+that can be used in pesticide formulations (100 ppm), rather than 
+assuming that cinnamaldehyde will be present at equal quantities with 
+the active ingredient.
+    For the purpose of the screening level dietary risk assessment, a 
+conservative drinking water concentration value of 100 parts per 
+billion based on screening level modeling was used to assess the 
+contribution to drinking water for the chronic dietary risk assessments 
+for cinnamaldehyde.
+    2. From Non-Dietary Exposure. The term ``residential exposure'' is 
+used in this document to refer to non-occupational, non-dietary 
+exposure (e.g., textiles (clothing and diapers), carpets, swimming 
+pools, and hard surface disinfection on walls, floors, tables).
+    Cinnamaldehyde can be used as an inert ingredient in pesticide 
+products that are registered for specific uses that
 
-    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
-551 et seq.) authorizes agencies to dispense with notice and comment 
-procedures for rules when the agency, for ``good cause,'' finds that 
-those procedures are ``impracticable, unnecessary, or contrary to the 
-public interest.'' Under this section, an agency, upon finding good 
-cause, may issue a final rule without providing notice and seeking 
-comment prior to issuance. Further, section 553(d) of the APA 
-authorizes agencies to make rules effective in less than thirty days, 
-upon a finding of good cause.
-    An unsafe condition exists that requires the immediate adoption of 
-this AD without providing an opportunity for public comments prior to 
-adoption. The FAA has found that the risk to the flying public 
-justifies forgoing notice and comment prior to adoption of this rule 
-because radio altimeters cannot be relied upon to perform their 
-intended function if they experience interference from wireless 
-broadband operations in the 5G Lower C-Band. This interference can 
-cause other airplane systems to not properly function, resulting in 
-increased flightcrew workload while on approach with the flight 
-director, autothrottle, or autopilot engaged, which could result in 
-reduced ability of the flightcrew to maintain safe flight and landing 
-of the airplane. The urgency is based on a change in the 5G Lower C-
-Band environment in Canada, which is scheduled to occur on July 1, 
-2026. Accordingly, notice and opportunity for prior public comment are 
-impracticable and contrary to the public interest pursuant to 5 U.S.C. 
-553(b).
-    In addition, the FAA finds that good cause exists pursuant to 5 
-U.S.C. 553(d) for making this amendment effective in less than 30 days, 
-for the same reasons the FAA found good cause to forgo notice and 
-comment.
+[[Page 38538]]
 
-Regulatory Flexibility Act
+may result in residential exposure, such as pesticides used in and 
+around the home. Therefore, screening level residential handler and 
+post-application risk assessments have been performed for common 
+residential exposure scenarios, using assumptions detailed in the 2012 
+Residential Standard Operating Procedures, which is available at 
+ https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/standard-operating-procedures-residential-pesticide .
+    3. Cumulative Effects from Substances with a Common Mechanism of 
+Toxicity. Section 408(b)(2)(D)(v) of FFDCA requires that, when 
+considering whether to establish, modify, or revoke a tolerance, the 
+Agency consider ``available information'' concerning the cumulative 
+effects of a particular pesticide's residues and ``other substances 
+that have a common mechanism of toxicity.''
+    EPA has not found cinnamaldehyde to share a common mechanism of 
+toxicity with any other substances, and cinnamaldehyde does not appear 
+to produce a toxic metabolite produced by other substances. For the 
+purposes of this tolerance exemption, therefore, EPA has assumed that 
+cinnamaldehyde does not have a common mechanism of toxicity with other 
+substances. Information regarding EPA's efforts to determine which 
+chemicals have a common mechanism of toxicity and to evaluate the 
+cumulative effects of such chemicals is available at  https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/cumulative-assessment-risk-pesticides .
 
-    The requirements of the Regulatory Flexibility Act (RFA) do not 
-apply when an agency finds good cause pursuant to 5 U.S.C. 553 to adopt 
-a rule without prior notice and comment. Because the FAA has determined 
-that it has good cause to adopt this rule without notice and comment, 
-RFA analysis is not required.
+D. Additional Safety Factor for the Protection of Infants and Children
 
-Costs of Compliance
+    Section 408(b)(2)(C) of FFDCA provides that EPA shall apply an 
+additional tenfold (10X) margin of safety for infants and children in 
+the case of threshold effects to account for prenatal and postnatal 
+toxicity and the completeness of the database on toxicity and exposure 
+unless EPA determines based on reliable data that a different margin of 
+safety will be safe for infants and children. This additional margin of 
+safety is commonly referred to as the Food Quality Protection Act 
+(FQPA) safety factor. In applying this provision, EPA either retains 
+the default value of 10X or uses a different additional safety factor 
+when reliable data available to EPA support the choice of a different 
+factor.
+    Based on the evaluation of available toxicity studies, there is low 
+concern for pre- and postnatal susceptibility from exposure to 
+cinnamaldehyde. The FQPA safety factor has been reduced to 1X because: 
+(1) the toxicity database is adequate to characterize potential pre- 
+and postnatal risk; (2) the established POD of 2100 ppm (100 mg/kg/day) 
+will be protective of reduced fetal body weight seen at 4100 ppm (500 
+mg/kg/day) in the developmental toxicity study in rats; (3) no evidence 
+of neurotoxicity was observed in the database; and (4) the assumptions 
+for the exposure assessment are conservative and unlikely to 
+underestimate risk.
 
-    The FAA notes that since operators must comply with this AD before 
-further flight in Canadian airspace, airplanes that do not operate in 
-Canada will not have to comply and therefore will have no costs under 
-this AD.
-    The FAA estimates that this AD affects 1,084 airplanes of U.S. 
-registry. The FAA expects that many of the affected airplanes have 
-upgraded radio altimeters; therefore, the FAA estimates the total 
-number of airplanes affected by this AD to be less than the total fleet 
-size provided in this AD. The FAA estimates the following costs to 
-comply with this AD:
+E. Aggregate Risks and Determination of Safety
 
-                                                 Estimated Costs
-----------------------------------------------------------------------------------------------------------------
-                                                                              Cost per
-               Action                        Labor cost         Parts cost    product     Cost on U.S. operators
-----------------------------------------------------------------------------------------------------------------
-AFM revision for non-RAT airplanes..  1 work-hour x $85 per             $0          $85  Up to $92,140.
-                                       hour = $85.
-----------------------------------------------------------------------------------------------------------------
+    EPA determines whether acute and chronic dietary pesticide 
+exposures are safe by comparing aggregate exposure estimates to the 
+acute PAD (aPAD) and chronic PAD (cPAD). For linear cancer risks, EPA 
+calculates the lifetime probability of acquiring cancer given the 
+estimated aggregate exposure. Short-, intermediate-, and chronic-term 
+risks are evaluated by comparing the estimated aggregate food, water, 
+and residential exposure to the appropriate PODs to ensure that an 
+adequate MOE exists.
+    1. Acute Risk. An acute aggregate risk assessment takes into 
+account acute exposure estimates from dietary consumption of food and 
+drinking water. No adverse effect resulting from a single oral exposure 
+was identified, and no acute dietary endpoint was selected. Therefore, 
+cinnamaldehyde is not expected to pose an acute risk.
+    2. Chronic Risk. Using the exposure assumptions described in this 
+unit for chronic exposure, EPA has concluded that chronic exposure to 
+cinnamaldehyde from food and water will utilize approximately 1% and 2% 
+of the cPAD for the U.S. population and children 1-2 years old (the 
+most highly exposed populations). Therefore, cinnamaldehyde is not 
+expected to pose a chronic risk.
+    3. Short- and Intermediate-Term Risks. Short- and intermediate-term 
+aggregate exposures take into account short- and intermediate-term 
+residential exposures plus chronic exposures to food and water 
+(considered to be a background exposure level).
+    Cinnamaldehyde can be used as an inert ingredient in pesticide 
+products that are registered for uses that could result in short-term 
+residential exposure, and the Agency has determined that it is 
+appropriate to aggregate chronic exposure through food and water with 
+short-term residential exposures to cinnamaldehyde.
+    Using the exposure assumptions described in this unit for short- 
+and intermediate-term exposures, EPA has concluded the combined short- 
+and intermediate-term food, water, and residential exposures result in 
+an aggregate MOE of 12658 for adults. Adult residential exposure 
+combines high-end dermal and inhalation residential handler exposure 
+from aerosol spray/trigger pump application with high-end post-
+application dermal exposure from contact with treated lawns. The 
+combined short- and intermediate-term aggregated food, water, and 
+residential pesticide exposures result in an aggregate MOE of 3154 for 
+children. Children's residential exposure is based on total exposures 
+associated with contact with treated lawns (dermal and hand-to-mouth 
+exposures). Because EPA's level of concern for cinnamaldehyde is an MOE 
+of 100 or below, these MOEs are not of concern.
+    4. Cancer Risk. EPA has not identified any concerns for 
+carcinogenicity relating to cinnamaldehyde. Therefore, cinnamaldehyde 
+is not expected to pose a cancer risk.
 
-                                      Estimated Costs for Optional Actions
-----------------------------------------------------------------------------------------------------------------
-                Action                        Labor cost               Parts cost            Cost per product
-----------------------------------------------------------------------------------------------------------------
-Modification (radio altimeter          .......................  .......................  Up to $120,000
- replacement option).                                                                     (includes parts and
-                                                                                          labor).
-Modification (filter addition option)  24 work-hours x $85 per  $12,000 per filter.....  Up to $14,040 (includes
-                                        hour = $2,040 per                                 parts and labor).
-                                        filter.
-----------------------------------------------------------------------------------------------------------------
+F. Analytical Enforcement Methodology
 
-Authority for This Rulemaking
+    An analytical method is not required for enforcement purposes since 
+the Agency is not establishing a numerical tolerance for residues of 
+cinnamaldehyde in or on any food commodities. EPA is establishing a 
+limitation on the amount of cinnamaldehyde that may be used in 
+pesticide formulations. This limitation will be enforced through the 
+pesticide registration process under the Federal Insecticide, 
+Fungicide, and Rodenticide Act, 7 U.S.C. 136 et seq. EPA will not 
+register any pesticide formulation for food use that exceeds 100 ppm 
+cinnamaldehyde in the final pesticide formulation to be applied pre- or 
+post-harvest.
 
-    Title 49 of the United States Code specifies the FAA's authority to 
-issue rules on aviation safety. Subtitle I, section 106, describes the 
-authority of the FAA Administrator. Subtitle VII: Aviation Programs 
-describes in more detail the scope of the Agency's authority.
-    The FAA is issuing this rulemaking under the authority described in 
-Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
-Under that section, Congress charges the FAA with promoting safe flight 
-of civil aircraft in air commerce by prescribing regulations for 
-practices, methods, and procedures the Administrator finds necessary 
-for safety in air commerce. This regulation is within the scope of that 
-authority because it addresses an unsafe condition that is likely to 
-exist or develop on products identified in this rulemaking action.
+G. Conclusions
 
-[[Page 39449]]
+    Therefore, an exemption from the requirement of a tolerance is 
+established for residues of cinnamaldehyde (CAS Reg. No. 104-55-2) when 
+used as an inert ingredient (preservative/stabilizer) in pesticide 
+formulations applied to growing crops and raw agricultural commodities 
+after harvest under 40 CFR 180.910, limited to no more than 100 ppm in 
+the end-use pesticide formulation.
 
-Regulatory Findings
+V. Statutory and Executive Order Reviews
 
-    This AD will not have federalism implications under Executive Order 
-13132. This AD will not have a substantial direct effect on the States, 
-on the relationship between the national government and the States, or 
-on the distribution of power and responsibilities among the various 
-levels of government.
-    For the reasons discussed above, I certify that this AD:
-    (1) Is not a ``significant regulatory action'' under Executive 
-Order 12866, and
-    (2) Will not affect intrastate aviation in Alaska.
+    Additional information about these statutes and Executive Orders 
+can be found at  https://www.epa.gov/laws-regulations/and-executive-orders .
 
-List of Subjects in 14 CFR Part 39
+[[Page 38539]]
 
-    Air transportation, Aircraft, Aviation safety, Incorporation by 
-reference, Safety.
+A. Executive Order 12866: Regulatory Planning and Review
 
-The Amendment
+    This action is exempt from review under Executive Order 12866 (58 
+FR 51735, October 4, 1993), because it establishes or modifies a 
+pesticide tolerance or a tolerance exemption under FFDCA section 408 in 
+response to a petition submitted to the Agency. The Office of 
+Management and Budget (OMB) has exempted these types of actions from 
+review under Executive Order 12866.
 
-    Accordingly, under the authority delegated to me by the 
-Administrator, the FAA amends 14 CFR part 39 as follows:
+B. Executive Order 14192: Unleashing Prosperity Through Deregulation
 
-PART 39--AIRWORTHINESS DIRECTIVES
+    Executive Order 14192 (90 FR 9065, February 6, 2025) does not apply 
+because actions that establish a tolerance or a tolerance exemption 
+under FFDCA section 408 are exempted from review under Executive Order 
+12866.
+
+C. Paperwork Reduction Act (PRA)
+
+    This action does not impose an information collection burden under 
+the PRA 44 U.S.C. 3501 et seq., because it does not contain any 
+information collection activities.
+
+D. Regulatory Flexibility Act (RFA)
+
+    This action is not subject to the RFA, 5 U.S.C. 601 et seq. The RFA 
+applies only to rules subject to notice and comment rulemaking 
+requirements under the Administrative Procedure Act (APA), 5 U.S.C. 
+553, or any other statute. This rule is not subject to the APA but is 
+subject to FFDCA section 408(d), which does not require notice and 
+comment rulemaking to take this action in response to a petition.
+
+E. Unfunded Mandates Reform Act (UMRA)
+
+    This action does not contain an unfunded mandate of $100 million or 
+more (in 1995 dollars and adjusted annually for inflation) as described 
+in UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely 
+affect small governments. The action imposes no enforceable duty on any 
+State, local or Tribal governments or the private sector.
+
+F. Executive Order 13132: Federalism
+
+    This action does not have federalism implications as specified in 
+Executive Order 13132 (64 FR 43255, August 10, 1999), because it will 
+not have substantial direct effects on the States, on the relationship 
+between the National Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+
+G. Executive Order 13175: Consultation and Coordination With Indian 
+Tribal Governments
+
+    This action does not have Tribal implications as specified in 
+Executive Order 13175 (65 FR 67249, November 9, 2000), because it will 
+not have substantial direct effects on Tribal governments, on the 
+relationship between the Federal Government and the Indian Tribes, or 
+on the distribution of power and responsibilities between the Federal 
+Government and Indian Tribes.
+
+H. Executive Order 13045: Protection of Children From Environmental 
+Health Risks and Safety Risks
+
+    This action is not subject to Executive Order 13045 (62 FR 19885, 
+April 23, 1997) because it is not a significant regulatory action under 
+section 3(f)(1) of Executive Order 12866 (See Unit VI.A.), and because 
+EPA does not believe the environmental health or safety risks addressed 
+by this action present a disproportionate risk to children.
+    However, EPA's 2026 Policy on Children's Health applies to this 
+action. This rule finalizes tolerance actions under the FFDCA, which 
+requires EPA to give special consideration to exposure of infants and 
+children to the pesticide chemical residue in establishing a tolerance 
+and to ``ensure that there is a reasonable certainty that no harm will 
+result to infants and children from aggregate exposure to the pesticide 
+chemical residue . . .'' (FFDCA 408(b)(2)(C)). The Agency's 
+consideration is documented in Unit IV and the pesticide-specific 
+review documents, located in the applicable docket at  https://www.regulations.gov .
+
+I. Executive Order 13211: Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution or Use
+
+    This action is not subject to Executive Order 13211 (66 FR 28355) 
+(May 22, 2001) because it is not a significant regulatory action under 
+Executive Order 12866.
+
+J. National Technology Transfer Advancement Act (NTTAA)
+
+    This action does not involve technical standards that would require 
+Agency consideration under NTTAA section 12(d), 15 U.S.C. 272.
+
+K. Congressional Review Act (CRA)
+
+    This action is subject to the CRA, 5 U.S.C. 801 et seq., and EPA 
+will submit a rule report to each House of the Congress and to the 
+Comptroller General of the United States. This action is not a ``major 
+rule'' as defined by 5 U.S.C. 804(2).
+
+List of Subjects in 40 CFR Part 180
+
+    Environmental protection, Administrative practice and procedure, 
+Agricultural commodities, Pesticides and pests, Reporting and 
+recordkeeping requirements.
+
+    Dated: June 9, 2026.
+Charles Smith,
+Director, Registration Division, Office of Pesticide Programs.
+    For the reasons stated in the preamble, EPA is amending 40 CFR 
+chapter I as follows:
+
+PART 180--TOLERANCES AND EXEMPTIONS FOR PESTICIDE CHEMICAL RESIDUES 
+IN FOOD
 
 0
-1. The authority citation for part 39 continues to read as follows:
+1. The authority citation for part 180 continues to read as follows:
 
-    Authority:  49 U.S.C. 106(g), 40113, 44701.
-
-Sec.  39.13   [Amended]
+    Authority:  21 U.S.C. 321(q), 346a and 371.
 
 0
-2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
-directive:
-2026-13-16 The Boeing Company: Amendment 39-23399; Docket No. FAA-
-2026-7207; Project Identifier AD-2026-00556-T.
+2. In Sec.  180.910, amend Table 1 to Sec.  180.910 by adding, in 
+alphabetical order, an entry for ``cinnamaldehyde'' to read as follows:
 
-(a) Effective Date
+Sec.  180.910  Inert ingredients used pre- and post-harvest; exemptions 
+from the requirement of a tolerance.
 
-    This airworthiness directive (AD) is effective July 1, 2026.
+* * * * *
 
-(b) Affected ADs
+                           Table 1 to 180.910
+------------------------------------------------------------------------
+        Inert ingredients               Limits               Uses
+------------------------------------------------------------------------
+ 
+                              * * * * * * *
+Cinnamaldehyde (CAS Reg. No. 104- Not more than 100   Preservative/
+ 55-2).                            ppm in the end-     Stabilizer.
+                                   use pesticide
+                                   formulation.
+ 
+                              * * * * * * *
+------------------------------------------------------------------------
 
-    None.
+[[Page 38540]]
 
-(c) Applicability
-
-    This AD applies to all The Boeing Company airplanes identified 
-in paragraphs (c)(1) and (2) of this AD, certificated in any 
-category.
-    (1) Model 757-200, -200PF, -200CB, and -300 series airplanes.
-    (2) Model 767-200, -300, -300F, -400ER, and -2C series 
-airplanes.
-
-(d) Subject
-
-    Air Transport Association (ATA) of America Code 34, Navigation.
-
-(e) Unsafe Condition
-
-    This AD was prompted by the determination that radio altimeters 
-cannot be relied upon to perform their intended function if they 
-experience interference from wireless broadband operations in the 
-3.7-3.98 GHz frequency band (5G Lower C-Band) when operating in 
-Canadian airspace, and a determination that, during approach, 
-landings, and go-arounds, as a result of this interference, certain 
-airplane systems may not properly function, resulting in increased 
-flightcrew workload while on approach with the flight director, 
-autothrottle, or autopilot engaged. The FAA is issuing this AD to 
-address 5G Lower C-Band interference that could result in increased 
-flightcrew workload and could lead to reduced ability of the 
-flightcrew to maintain safe flight and landing of the airplane.
-
-(f) Compliance
-
-    Comply with this AD within the compliance times specified, 
-unless already done.
-
-(g) Definitions
-
-    (1) For purposes of this AD, a ``radio altimeter tolerant 
-airplane'' is one for which the radio altimeter, as installed, 
-demonstrates the tolerances specified in paragraphs (g)(1)(i) and 
-(ii) of this AD, using a method approved by the FAA. No actions are 
-required by this AD for radio altimeter tolerant airplanes.
-    (i) Tolerance to radio altimeter interference, for the 
-fundamental emissions (3.7-3.98 GHz), at or above the power spectral 
-density (PSD) curve threshold specified in figure 1 to paragraph 
-(g)(1)(i) of this AD.
-
-Figure 1 to Paragraph (g)(1)(i)--Fundamental Effective Isotropic PSD at 
-Outside Interface of Aircraft Antenna
-
-BILLING CODE 4910-13-P
-[GRAPHIC] [TIFF OMITTED] TR30JN26.081
-
-[[Page 39450]]
-
-    (ii) Tolerance to radio altimeter interference, for the spurious 
-emissions (4.2-4.4 GHz), at or above the PSD curve threshold 
-specified in figure 2 to paragraph (g)(1)(ii) of this AD.
-
-Figure 2 to Paragraph (g)(1)(ii)--Spurious Effective Isotropic PSD at 
-Outside Interface of Aircraft Antenna
-[GRAPHIC] [TIFF OMITTED] TR30JN26.082
-
-    (2) For purposes of this AD, a ``non-radio altimeter tolerant 
-airplane'' is one for which the radio altimeter, as installed, does 
-not demonstrate the tolerances specified in paragraphs (g)(1)(i) and 
-(ii) of this AD.
-
-(h) Airplane Flight Manual (AFM) Revision
-
-    For non-radio altimeter tolerant airplanes: Before further 
-flight in Canadian airspace, do the actions specified in paragraphs 
-(h)(1) and (2) of this AD.
-    (1) Revise the Limitations Section of the existing AFM to 
-include the information specified in figure 3 to paragraph (h)(1) of 
-this AD. This may be done by inserting a copy of figure 3 to 
-paragraph (h)(1) of this AD into the existing AFM.
-
-Figure 3 to Paragraph (h)(1)--AFM Limitations Revision for Non-Radio 
-Altimeter Tolerant Airplanes in Canadian Airspace
-
-[[Page 39451]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.083
-
-    (2) Revise the Operating Procedures Section of the existing AFM 
-to include the information specified in figure 4 to paragraph (h)(2) 
-of this AD. This may be done by inserting a copy of figure 4 to 
-paragraph (h)(2) of this AD into the existing AFM. An AFM with an 
-Operating Procedures Section that complies with paragraph (k) of AD 
-2023-12-12, Amendment 39-22470 (88 FR 40058, June 21, 2023) is 
-acceptable for compliance with the requirements of this paragraph of 
-this AD.
-
-Figure 4 to Paragraph (h)(2)--AFM Operating Procedures Revision
-
-[[Page 39452]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.084
-
-BILLING CODE 4910-13-C
-
-(i) Terminating Action for AFM Revision
-
-    (1) Modifying the airplane from a non-radio altimeter tolerant 
-airplane to a radio altimeter tolerant airplane terminates the 
-limitations in paragraph (h)(1) of this AD and the operating 
-procedures in paragraph (h)(2) of this AD for that airplane.
-    (2) After modifying the airplane to a radio altimeter tolerant 
-airplane, the limitations in paragraph (h)(1) of this AD and the 
-operating procedures in paragraph (h)(2) of this AD may be removed 
-from the AFM.
-
-(j) Alternative Methods of Compliance (AMOCs)
-
-    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
-FAA, has the authority to approve AMOCs for this AD, if requested 
-using the procedures found in 14 CFR 39.19. In accordance with 14 
-CFR 39.19, send your request to your principal inspector or 
-responsible Flight Standards Office, as appropriate. If sending 
-information directly to the manager of AIR-520, Continued 
-Operational Safety Branch, send it to the attention of the person 
-identified in paragraph (k) of this AD and email to:   [email&#160;protected]  .
-    (2) Before using any approved AMOC, notify your appropriate 
-principal inspector, or lacking a principal inspector, the manager 
-of the responsible Flight Standards Office.
-    (3) The following AMOCs approved previously for AD 2023-12-12, 
-Amendment 39-22470, (88 FR 40058, June 21, 2023) are approved as 
-AMOCs for paragraph (g)(1) of this AD: FAA AMOC letters 720-23-
-00137, 720-23-00138, 720-23-00169, 720-23-00191, 720-23-00192, and 
-720-24-00012.
-
-(k) Additional Information
-
-    For more information about this AD, contact Ken Fairhurst, 
-Continued Operational Safety Technical Advisor, FAA, 2200 South 
-216th St., Des Moines, WA 98198; phone: 817-222-5390; email: 
-  [email&#160;protected]  .
-
-(l) Material Incorporated by Reference
-
-    None.
-
-    Issued on June 25, 2026.
-Brian Knaup,
-Acting Deputy Director, Integrated Certificate Management Division, 
-Aircraft Certification Service.
-[FR Doc. 2026-13218 Filed 6-26-26; 4:15 pm]
-BILLING CODE 4910-13-P
+[FR Doc. 2026-12913 Filed 6-25-26; 8:45 am]
+BILLING CODE 6560-50-P

@@ -1,8 +1,8 @@
-[Federal Register Volume 91, Number 123 (Monday, June 29, 2026)]
+[Federal Register Volume 91, Number 119 (Tuesday, June 23, 2026)]
 [Rules and Regulations]
-[Pages 38997-39002]
+[Pages 37771-37773]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13060]
+[FR Doc No: 2026-12592]
 
 -----------------------------------------------------------------------
 
@@ -10,656 +10,347 @@ DEPARTMENT OF TRANSPORTATION
 
 Federal Aviation Administration
 
-14 CFR Part 39
+14 CFR Part 93
 
-[Docket No. FAA-2025-3999; Project Identifier MCAI-2025-00176-R; 
-Amendment 39-23380; AD 2026-12-10]
-RIN 2120-AA64
+[Docket No. FAA-2006-25755]
 
-Airworthiness Directives; Airbus Helicopters
+Operating Limitations at New York LaGuardia Airport
 
-AGENCY: Federal Aviation Administration (FAA), DOT.
+AGENCY: Department of Transportation, Federal Aviation Administration 
+(FAA).
 
-ACTION: Final rule.
+ACTION: Extension of order.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
-Airbus Helicopters Model AS350B, AS350BA, AS350B1, AS350B2, AS350B3, 
-and AS350D helicopters. This AD was prompted by a report of non-
-conformity of a certain cargo hook. This AD requires inspecting the gap 
-between the filler and the side plates of the affected cargo hook and, 
-depending on the results, replacing the cargo hook. This AD also 
-prohibits installing an affected cargo hook on any helicopter. The FAA 
-is issuing this AD to address the unsafe condition on these products.
+SUMMARY: This action extends the Order Limiting Operations at New York 
+LaGuardia Airport (LGA) published on December 27, 2006, as most 
+recently extended May 13, 2024. The Order remains effective until 
+October 28, 2028.
 
-DATES: This AD is effective August 3, 2026.
-    The Director of the Federal Register approved the incorporation by 
-reference of a certain publication listed in this AD as of August 3, 
-2026.
+ADDRESSES: Requests may be submitted by mail to Slot Administration 
+Office, System Operations Services, AJR-0, Room 300W, 800 Independence 
+Avenue SW, Washington, DC 20591, or by email to:   [email&#160;protected]  .
 
-ADDRESSES: 
-    AD Docket: You may examine the AD docket at  regulations.gov  under 
-Docket No. FAA-2025-3999; or in person at Docket Operations between 9 
-a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
-docket contains this final rule, the mandatory continuing airworthiness 
-information (MCAI), any comments received, and other information. The 
-address for Docket Operations is U.S. Department of Transportation, 
-Docket Operations, M-91, West Building Fifth Floor, Room W58-213, 1200 
-New Jersey Avenue SE, Washington, DC 20590.
-    Material Incorporated by Reference:
-      For European Union Aviation Safety Agency (EASA) material 
-identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
-Cologne, Germany; phone: +49 221 8999 000; email:   [email&#160;protected]  ; 
-website: easa.europa.eu. You may find this material on the EASA website 
-at ad.easa.europa.eu.
-      You may view this material at the FAA, Airworthiness 
-Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
-Fort Worth, TX 76177. For information on the availability of this 
-material at the FAA, call (817) 222-5110. It is also available at 
- regulations.gov  under Docket No. FAA-2025-3999.
-
-FOR FURTHER INFORMATION CONTACT: Yves Petiote, Aviation Safety 
-Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
-phone: (202) 975-4867; email:   [email&#160;protected]  .
+FOR FURTHER INFORMATION CONTACT: Al Meilus, Manager, Slot 
+Administration and Capacity Analysis, AJR-G, Federal Aviation 
+Administration, 800 Independence Avenue SW, Washington, DC 20591; 
+telephone (202) 267-2822; email   [email&#160;protected]  .
 
 SUPPLEMENTARY INFORMATION:
 
+Availability of Relevant Documents
+
+    You may obtain an electronic copy of this notice using the internet 
+by:
+    (1) Searching the Federal eRulemaking Portal at 
+ www.regulations.gov ;
+    (2) Visiting the FAA's Dynamic Regulatory System website at  https://drs.faa.gov ; or
+    (3) Accessing the Government Publishing Office's website at 
+ www.GovInfo.gov .
+    You also may obtain a copy by sending a request to the Federal 
+Aviation Administration, Capacity Analysis and Slot Administration 
+Office, AJR-G5, 800 Independence Avenue SW, Washington, DC 20591, or by 
+calling (202) 267-2822. Make sure to identify docket number FAA-2006-
+25755.
+
 Background
 
-    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
-CFR part 39 by adding an AD that would apply to Airbus Helicopters 
-Model AS-350B, AS 350BA, AS 350B1, AS 350B2, AS 350B3, and AS-350D 
-helicopters. The NPRM was published in the Federal Register on November 
-18, 2025 (90 FR 51620). The NPRM was prompted by EASA AD 2025-0036, 
-dated February 12, 2025 (EASA AD 2025-0036) (also referred to as the 
-MCAI), issued by EASA, which is the Technical Agent for the Member 
-States of the European Union. The MCAI states that a non-conformity 
-issue concerning
-
-[[Page 38998]]
-
-the gap between the filler and the side plates on the cargo hook of a 
-helicopter was reported. The unsafe condition, if not addressed, could 
-result in loosening of the cargo hook, loss of the load, and consequent 
-injury to people on the ground.
-    In the NPRM, the FAA proposed to require procedures for inspecting 
-certain cargo hooks to measure the gap between the filler and the front 
-and rear side plate assemblies and, depending on the results, replacing 
-the cargo hook with a cargo hook that is not affected. In the NPRM, the 
-FAA also proposed to prohibit installing an affected cargo hook on any 
-helicopter. The FAA is issuing this AD to address the unsafe condition 
-on these products.
-    You may examine the MCAI in the AD docket at  regulations.gov  under 
-Docket No. FAA-2025-3999.
-
-Discussion of Final Airworthiness Directive
-
-Comments
-
-    The FAA received comments from the Citizens Rulemaking Alliance. 
-The following presents the comments received on the NPRM and the FAA's 
-response to each comment.
-
-Request To Justify Forgoing Notice and Comment or Issue an NPRM
-
-    The commenter asserted that the FAA bypassed notice and comment and 
-requested that the FAA convert this action to an NPRM or provide at a 
-minimum a 60-day delayed effective date to allow the FAA to evaluate 
-comments. The commenter asserted the FAA has not adequately justified 
-use of the good cause exception to bypass notice and comment and the 
-30-day delayed effective date.
-    The FAA notes the comment was submitted in response to an NPRM for 
-which the FAA provided a 45-day comment period. This final rule is 
-effective 35 days after its publication in the Federal Register. 
-Therefore, no change to this AD is necessary.
-
-Request To Make Incorporation by Reference (IBR) Materials Reasonably 
-Available
-
-    The Citizens Rulemaking Alliance stated that the FAA's current 
-practices for IBR frequently fail to meet the legal and regulatory 
-standards for reasonable availability. The commenter called on the FAA 
-to guarantee that all IBR materials are freely and electronically 
-accessible to the public and to condition future IBR approval in 
-rotorcraft ADs on original equipment manufacturer commitment to free 
-public access during the life of the AD.
-    The FAA clarifies that this AD only incorporates by reference EASA 
-AD 2025-0036, not the manufacturer service information referenced in 
-that EASA AD. The FAA posted EASA AD 2025-0036 to the AD docket when 
-the NPRM was published in the Federal Register. The material referenced 
-in EASA AD 2025-0036 may only be posted before the final rule's 
-publication if it is already publicly available or if there is written 
-consent from the owner of that material. Additionally, the FAA provided 
-notice in the NPRM that the material referenced in EASA AD 2025-0036 
-will be available in the AD docket after this AD is published. 
-Therefore, the FAA did not change this AD as a result of this comment.
-
-Request To Provide Additional Cost Information and Consider Impact on 
-Small Entities
-
-    The Citizens Rulemaking Alliance requested that the FAA add to the 
-AD docket an explicit statement supporting its conclusion that the AD 
-is not significant under Executive Order 12866 and the Unfunded 
-Mandates Reform Act (UMRA). The commenter stated that the FAA should 
-also provide the parts cost and any assumed downtime or out-of-service 
-impacts. The commenter also requested that the FAA invite small-entity 
-feedback on practical compliance alternatives.
-
-No Additional Cost Impacts
-
-    In the Costs of Compliance section of the proposed AD, the FAA 
-disclosed the number of affected helicopters on the U.S. registry, the 
-estimated work hours, and the estimated cost of parts. The labor and 
-parts estimates were provided by the manufacturer. Additionally, the 
-FAA considered the impact that this AD will have on affected operators 
-and determined this AD will not trigger any downtime costs because the 
-requirements of this AD can be performed during regularly scheduled 
-maintenance. Since the FAA assessed and disclosed the total known costs 
-of the AD requirements in the Costs of Compliance section of the 
-proposed AD, and the commenter did not provide additional cost data for 
-the FAA to consider in its cost analysis, it is not necessary to 
-provide additional information in the AD docket.
-
-Small Entities to Which This AD Applies
-
-    The Regulatory Flexibility Act (RFA) of 1980, Public Law 96-354, 94 
-Stat. 1164 (5 U.S.C. 601-612), as amended by the Small Business 
-Regulatory Enforcement Fairness Act of 1996 (Pub. L. 104-121, 110 Stat. 
-857, Mar. 29, 1996) and the Small Business Jobs Act of 2010 (Pub. L. 
-111-240, 124 Stat. 2504, Sept. 27, 2010), requires Federal agencies to 
-consider the effects of the regulatory action on small business and 
-other small entities and to minimize any significant economic impact. 
-The term ``small entities'' comprises small businesses and not-for-
-profit organizations that are independently owned and operated and are 
-not dominant in their fields, and governmental jurisdictions with 
-populations of less than 50,000.
-    The FAA used the definition of small entities in the RFA for this 
-analysis. The RFA defines small entities as small businesses, small 
-governmental jurisdictions, or small organizations. In 5 U.S.C. 601(3), 
-the RFA defines ``small business'' to have the same meaning as ``small 
-business concern'' under section 3 of the Small Business Act. The Small 
-Business Act authorizes the Small Business Administration (SBA) to 
-define ``small business'' by issuing regulations.
-    The SBA (2023) has established size standards for various types of 
-economic activities, or industries, under the North American Industry 
-Classification System (NAICS). These size standards generally define 
-small businesses based on the number of employees or annual receipts. 
-The following table provides the SBA size standards for all industries 
-with at least one entity impacted by this AD. Note that the SBA 
-definition of a small business applies to the parent company and all 
-affiliates as a single entity.
-
-                      Small Business Size Standards
-------------------------------------------------------------------------
-      NAICS code                Description             Size standard
-------------------------------------------------------------------------
-111199................  All Other Grain Farming...  $2.25 million.
-112111................  Beef Cattle Ranching and    $2.5 million.
-                         Farming.
-221122................  Electric Power              1,100 employees.
-                         Distribution.
-236220................  Commercial and              $45.0 million.
-                         Institutional Building
-                         Construction.
-
-[[Page 38999]]
-
- 
-237110................  Water and Sewer Line and    $45.0 million.
-                         Related Structures
-                         Construction.
-327320................  Ready[dash]Mix Concrete     500 employees.
-                         Manufacturing.
-334511................  Search, Detection,          1,350 employees.
-                         Navigation, Guidance,
-                         Aeronautical, and
-                         Nautical System and
-                         Instrument Manufacturing.
-336411................  Aircraft Manufacturing....  1,500 employees.
-336413................  Other Aircraft Part and     1,250 employees.
-                         Auxiliary Equipment
-                         Manufacturing.
-423860................  Transportation Equipment    175 employees.
-                         and Supplies Merchant
-                         Wholesalers.
-441210................  Recreational Vehicle        $40.0 million.
-                         Dealers.
-441227................  Motorcycle, ATV, and All    $40.0 million.
-                         Other Motor Vehicle
-                         Dealers.
-481111................  Scheduled Passenger Air     1,500 employees.
-                         Transportation.
-481211................  Nonscheduled Chartered      1,500 employees.
-                         Passenger Air
-                         Transportation.
-481212................  Nonscheduled Chartered      1,500 employees.
-                         Freight Air
-                         Transportation.
-481219................  Other Nonscheduled Air      $25.0 million.
-                         Transportation.
-484110................  General Freight Trucking,   $34.0 million.
-                         Local.
-486110................  Pipeline Transportation of  1,500 employees.
-                         Crude Oil.
-486210................  Pipeline Transportation of  $41.5 million.
-                         Natural Gas.
-487990................  Scenic and Sightseeing      $25.0 million.
-                         Transportation, Other.
-488119................  Other Airport Operations..  $40.0 million.
-488190................  Other Support Activities    $40.0 million.
-                         for Air Transportation.
-512110................  Motion Picture and Video    $40.0 million.
-                         Production.
-516120................  Television Broadcasting     $47.0 million.
-                         Stations.
-517111................  Wired Telecommunications    1,500 employees.
-                         Carriers.
-531390................  Other Activities Related    $19.5 million.
-                         to Real Estate.
-532411................  Commercial Air, Rail, and   $45.5 million.
-                         Water Transportation
-                         Equipment Rental and
-                         Leasing.
-532490................  Other Commercial and        $40.0 million.
-                         Industrial Machinery and
-                         Equipment Rental and
-                         Leasing.
-541360................  Geophysical Surveying and   $28.5 million.
-                         Mapping Services.
-541370................  Surveying and Mapping       $19.0 million.
-                         (except Geophysical)
-                         Services.
-541512................  Computer Systems Design     $34.0 million.
-                         Services.
-541611................  Administrative Management   $24.5 million.
-                         and General Management
-                         Consulting Services.
-551112................  Offices of Other Holding    $45.5 million.
-                         Companies.
-561710................  Exterminating and Pest      $17.5 million.
-                         Control Services.
-611512................  Flight Training...........  $34.0 million.
-621910................  Ambulance Services........  $22.5 million.
-N/A...................  Public Administration--     Population fewer
-                         Federal, state, and local   than 50,000.
-                         government agencies which
-                         administer and oversee
-                         government programs and
-                         activities that are not
-                         performed by private
-                         establishments.
-------------------------------------------------------------------------
-
-    To identify small entities, the FAA first identified the primary 
-NAICS of the entity or parent company, and then used data from 
-different sources (e.g., company annual reports, Bureau of 
-Transportation Statistics) to determine whether the entity meets the 
-applicable size standard. The table below provides the estimated number 
-of small entities affected by this AD:
-
-                                       Estimated Number of Small Entities
-----------------------------------------------------------------------------------------------------------------
-                                                                     Number of       Number of     Percent small
-                           Description                             entities \1\   small entities     entities
-----------------------------------------------------------------------------------------------------------------
-All Other Grain Farming.........................................               1               0               0
-Beef Cattle Ranching and Farming................................               1               1             100
-Electric Power Distribution.....................................               2               1              50
-Commercial and Institutional Building Construction..............               2               2             100
-Water and Sewer Line and Related Structures Construction........               1               1             100
-Ready[dash]Mix Concrete Manufacturing...........................               1               1             100
-Search, Detection, Navigation, Guidance, Aeronautical, and                     1               0               0
- Nautical System and Instrument Manufacturing...................
-Aircraft Manufacturing..........................................               3               0               0
-Other Aircraft Part and Auxiliary Equipment Manufacturing.......               1               1             100
-Transportation Equipment and Supplies Merchant Wholesalers......               1               1             100
-Motorcycle, ATV, and All Other Motor Vehicle Dealers............               1               1             100
-Other Gasoline Stations.........................................               1               0               0
-Scheduled Passenger Air Transportation..........................               1               1             100
-Nonscheduled Chartered Passenger Air Transportation.............             102              85              83
-Nonscheduled Chartered Freight Air Transportation...............               1               1             100
-Other Nonscheduled Air Transportation...........................               6               5              83
-General Freight Trucking, Local.................................               1               1             100
-Pipeline Transportation of Crude Oil............................               1               0               0
-Pipeline Transportation of Natural Gas..........................               1               0               0
-Scenic and Sightseeing Transportation, Other....................              15              12              80
-
-[[Page 39000]]
-
- 
-Other Airport Operations........................................               2               2             100
-Other Support Activities for Air Transportation.................               7               5              71
-Motion Picture and Video Production.............................               1               1             100
-Other Activities Related to Real Estate.........................               1               0               0
-Commercial Air, Rail, and Water Transportation Equipment Rental               19              19             100
- and Leasing....................................................
-Other Commercial and Industrial Machinery and Equipment Rental                 1               1             100
- and Leasing....................................................
-Geophysical Surveying and Mapping Services......................               1               1             100
-Surveying and Mapping (except Geophysical) Services.............               1               0               0
-Computer Systems Design Services................................               1               0               0
-Administrative Management and General Management Consulting                    1               1             100
- Services.......................................................
-Offices of Other Holding Companies..............................               4               4             100
-Exterminating and Pest Control Services.........................               1               1             100
-Flight Training.................................................               1               1             100
-Ambulance Services..............................................              10               5              50
-Public Administration...........................................              79               0               0
-----------------------------------------------------------------------------------------------------------------
-\1\ Excludes individual owners, foreign companies, and entities lacking available data.
-
-Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-    The FAA estimates operators will incur either a one-time inspection 
-cost of $85 or an inspection and one-time replacement cost of $62,561 
-per helicopter. The FAA has no way to determine if each helicopter will 
-require this replacement cost. The FAA analyzes the cost of each 
-compliance method with the annual revenue of each small entity. The 
-following table shows the estimated compliance costs by each NAICS 
-industry.
-
-                                      Costs of Compliance per Small Entity
-----------------------------------------------------------------------------------------------------------------
-                                                                                   Average one-    Average one-
-                                                 Average annual   Average number       time            time
-                 Description                      revenue \1\       of aircraft     inspection      replacement
-                                                                                       cost          cost \2\
-----------------------------------------------------------------------------------------------------------------
-Beef Cattle Ranching and Farming.............           $123,540               1             $85         $62,561
-Electric Power Distribution..................         22,740,000               3             255         187,683
-Commercial and Institutional Building                  2,162,465               1              85          62,561
- Construction................................
-Water and Sewer Line and Related Structures               89,940               1              85          62,561
- Construction................................
-Ready[dash]Mix Concrete Manufacturing........             53,280               1              85          62,561
-Other Aircraft Part and Auxiliary Equipment            Not found               1              85          62,561
- Manufacturing...............................
-Transportation Equipment and Supplies                    540,000               1              85          62,561
- Merchant Wholesalers........................
-Motorcycle, ATV, and All Other Motor Vehicle             660,000               1              85          62,561
- Dealers.....................................
-Scheduled Passenger Air Transportation.......          6,960,000               6             510         375,366
-Nonscheduled Chartered Passenger Air                 393,944,724             2.2             187         137,634
- Transportation..............................
-Nonscheduled Chartered Freight Air                     5,740,000               4             340         250,244
- Transportation..............................
-Other Nonscheduled Air Transportation........         12,618,333             5.8             493         362,854
-General Freight Trucking, Local..............          6,060,000               1              85          62,561
-Scenic and Sightseeing Transportation, Other.         44,092,097             2.7             230         168,915
-Other Airport Operations.....................            195,085               1              85          62,561
-Other Support Activities for Air                   1,010,503,660             1.1              94          68,817
- Transportation..............................
-Motion Picture and Video Production..........            242,860               1              85          62,561
-Commercial Air, Rail, and Water                          561,355               1              85          62,561
- Transportation Equipment Rental and Leasing.
-Other Commercial and Industrial Machinery and            520,000               1              85          62,561
- Equipment Rental and Leasing................
-Geophysical Surveying and Mapping Services...            163,430               1              85          62,561
-Administrative Management and General                     52,300               1              85          62,561
- Management Consulting Services..............
-Offices of Other Holding Companies...........            323,825               1              85          62,561
-Exterminating and Pest Control Services......          9,760,000               4             340         250,244
-Flight Training..............................          3,480,000               5             425         312,805
-Ambulance Services...........................          1,076,832             5.6             476         350,342
-----------------------------------------------------------------------------------------------------------------
-\1\ Source: Dun & Bradstreet. D&B Hoovers. Retrieved May 7, 2026.  app.hoovers.dnb.com .
-\2\ One-time replacement cost includes both inspection and replacement costs, as replacement is contingent upon
-  inspection results.
-
-Significant Alternatives Considered
-
-    FAA evaluated the alternative of not promulgating this AD but 
-determined that taking no regulatory action would allow a significant 
-safety hazard to persist. A non-conformity exists regarding the gap 
-between the filler and the side plates on the helicopter's cargo hook. 
-This unsafe condition, if not addressed, could result in the loosening 
-of the cargo hook, loss of the external
-
-[[Page 39001]]
-
-load, and consequent injury to people on the ground.
-
-Small Entity Impacts
-
-    Based on the analysis, this AD is not a significant regulatory 
-action under Executive Order 12866 or UMRA. The FAA did not change this 
-AD as a result of this comment.
-
-Conclusion
-
-    These products have been approved by the civil aviation authority 
-of another country and are approved for operation in the United States. 
-Pursuant to the FAA's bilateral agreement with this State of Design 
-Authority, that authority has notified the FAA of the unsafe condition 
-described in the MCAI referenced above. The FAA reviewed the relevant 
-data, considered any comments received, and determined that air safety 
-requires adopting this AD as proposed. Accordingly, the FAA is issuing 
-this AD to address the unsafe condition on these products. Except for 
-minor editorial changes, this AD is adopted as proposed in the NPRM. 
-None of the changes will increase the economic burden on any operator.
-
-Material Incorporated by Reference Under 1 CFR Part 51
-
-    The FAA reviewed EASA AD 2025-0036, which specifies procedures for 
-inspecting certain cargo hooks to measure the gap between the filler 
-and the front and rear side plate assemblies and, depending on the 
-results, replacing the cargo hook with a cargo hook that is not 
-affected. Additionally, EASA AD 2025-0036 prohibits installing an 
-affected cargo hook on any helicopter. This material is reasonably 
-available because the interested parties have access to it through 
-their normal course of business or by the means identified in the 
-ADDRESSES section.
-
-Differences Between This AD and the MCAI
-
-    The MCAI applies to Airbus Helicopters Model AS 350BB helicopters, 
-whereas this AD does not because that model does not have an FAA type 
-certificate.
-
-Costs of Compliance
-
-    The FAA estimates that this AD affects 898 helicopters of U.S. 
-registry. The FAA estimates the following costs to comply with this AD.
-
-                                                 Estimated Costs
-----------------------------------------------------------------------------------------------------------------
-                                                                                     Cost per      Cost on U.S.
-                Action                         Labor cost           Parts cost        product        operators
-----------------------------------------------------------------------------------------------------------------
-Inspect cargo hook....................  1 work-hour x $85 per                 $0             $85         $76,330
-                                         hour \1\ = $85.
-----------------------------------------------------------------------------------------------------------------
-\1\ The FAA estimated operators will incur $85 in costs per labor hour, which is the weighted average fiscal
-  year (FY) 2026 fully loaded wage of an aircraft mechanic ($69.85) working 60% of the labor hours and a general
-  and operations manager ($108.15) working 40% of the labor hours. The FAA estimated these wages by taking the
-  average of the FY 2024 Bureau of Labor Statistics (BLS) air transportation industry average wage for aircraft
-  mechanics and general and operations managers (See: Occupational Employment and Wage Statistics Query System,
-  BLS (May 2024),  data.bls.gov/oes/ ); multiplying each wage by a fringe benefit factor of 1.42 (See: Employer
-  Cost for Employee Compensation--December 2024, BLS (2024),  bls.gov/news.release/archives/ecec_03142025.pdf );
-  and adjusting these 2024 wages to 2026 dollars using an implicit Gross Domestic Product (GDP) Price Deflator
-  of 2.8% (See: Gross Domestic Product: Implicit Price Deflator, FRED (2026)  fred.stlouisfed.org/series/GDPDEF ).
-
-    The FAA estimates the following costs to do any replacements 
-required based on the results of the inspection. The agency has no way 
-of determining the number of helicopters that might need this 
-replacement.
-
-                                               On Condition Costs
-----------------------------------------------------------------------------------------------------------------
-                                                                                                     Cost per
-                    Action                                 Labor cost               Parts cost        product
-----------------------------------------------------------------------------------------------------------------
-Replace cargo hook............................  4 work-hours x $85 per hour =            $62,136         $62,476
-                                                 $340.
-----------------------------------------------------------------------------------------------------------------
-
-Authority for This Rulemaking
-
-    Title 49 of the United States Code specifies the FAA's authority to 
-issue rules on aviation safety. Subtitle I, section 106, describes the 
-authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
-describes in more detail the scope of the Agency's authority.
-    The FAA is issuing this rulemaking under the authority described in 
-Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
-Under that section, Congress charges the FAA with promoting safe flight 
-of civil aircraft in air commerce by prescribing regulations for 
-practices, methods, and procedures the Administrator finds necessary 
-for safety in air commerce. This regulation is within the scope of that 
-authority because it addresses an unsafe condition that is likely to 
-exist or develop on products identified in this rulemaking action.
-
-Regulatory Findings
-
-    This AD will not have federalism implications under Executive Order 
-13132. This AD will not have a substantial direct effect on the States, 
-on the relationship between the national government and the States, or 
-on the distribution of power and responsibilities among the various 
-levels of government.
-    For the reasons discussed above, I certify that this AD:
-    (1) Is not a ``significant regulatory action'' under Executive 
-Order 12866,
-    (2) Will not affect intrastate aviation in Alaska, and
-    (3) Will not have a significant economic impact, positive or 
-negative, on a substantial number of small entities under the criteria 
-of the Regulatory Flexibility Act.
-
-List of Subjects in 14 CFR Part 39
-
-    Air transportation, Aircraft, Aviation safety, Incorporation by 
-reference, Safety.
-
-The Amendment
-
-    Accordingly, under the authority delegated to me by the 
-Administrator, the FAA amends 14 CFR part 39 as follows:
-
-[[Page 39002]]
-
-PART 39--AIRWORTHINESS DIRECTIVES
-
-0
-1. The authority citation for part 39 continues to read as follows:
-
-    Authority:  49 U.S.C. 106(g), 40113, 44701.
-
-Sec.  39.13  [Amended]
-
-0
-2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
-directive:
-
-2026-12-10 Airbus Helicopters: Amendment 39-23380; Docket No. FAA-
-2025-3999; Project Identifier MCAI-2025-00176-R.
-
-(a) Effective Date
-
-    This airworthiness directive (AD) is effective August 3, 2026.
-
-(b) Affected ADs
-
-    None.
-
-(c) Applicability
-
-    This AD applies to Airbus Helicopters Model AS350B, AS350BA, 
-AS350B1, AS350B2, AS350B3, and AS350D helicopters, certificated in 
-any category.
-
-    Note 1 to paragraph (c):  Helicopters with AS350B3e designation 
-are Model AS350B3 helicopters.
-
-(d) Subject
-
-    Joint Aircraft System Component (JASC) Code 2500, Equipment/
-Furnishings.
-
-(e) Unsafe Condition
-
-    This AD was prompted by a report of a non-conformity of the 
-cargo hook. The FAA is issuing this AD to detect and correct a non-
-conformity of the cargo hook. The unsafe condition, if not 
-addressed, could result in loosening of the cargo hook, loss of the 
-load, and consequent injury to people on the ground.
-
-(f) Compliance
-
-    Comply with this AD within the compliance times specified, 
-unless already done.
-
-(g) Requirements
-
-    Except as specified in paragraph (h) of this AD: Comply with all 
-required actions and compliance times specified in, and in 
-accordance with, European Union Aviation Safety Agency AD 2025-0036, 
-dated February 12, 2025 (EASA AD 2025-0036).
-
-(h) Exceptions to EASA AD 2025-0036
-
-    (1) Where EASA AD 2025-0036 refers to its effective date, this 
-AD requires using the effective date of this AD.
-    (2) Where EASA AD 2025-0036 defines sling cycles, for the 
-purposes of this AD, a sling cycle is defined as one release with 
-load on ground equals one sling cycle, and one release with load in-
-flight equals three sling cycles.
-    (3) Where the material referenced in EASA AD 2025-0036 specifies 
-``check'', this AD requires replacing that text with ``inspect''.
-    (4) Where the material referenced in EASA AD 2025-0036 specifies 
-to return parts for repair, this AD does not require those actions.
-    (5) This AD does not adopt the ``Remarks'' section of EASA AD 
-2025-0036.
-
-(i) Special Flight Permits
-
-    Special flight permits may be issued in accordance with 14 CFR 
-21.197 and 21.199, provided there are no external load operations.
-
-(j) Alternative Methods of Compliance (AMOCs)
-
-    (1) The Manager, International Validation Branch, FAA, has the 
-authority to approve AMOCs for this AD, if requested using the 
-procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
-send your request to your principal inspector or responsible Flight 
-Standards Office, as appropriate. If sending information directly to 
-the manager of the International Validation Branch, send it to the 
-attention of the person identified in paragraph (k) of this AD and 
-email to:   [email&#160;protected]  .
-    (2) Before using any approved AMOC, notify your appropriate 
-principal inspector, or lacking a principal inspector, the manager 
-of the responsible Flight Standards Office.
-
-(k) Additional Information
-
-    For more information about this AD, contact Yves Petiote, 
-Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
-Westbury, NY 11590; phone: (202) 975-4867; email: 
-  [email&#160;protected]  .
-
-(l) Material Incorporated by Reference
-
-    (1) The Director of the Federal Register approved the 
-incorporation by reference of the material listed in this paragraph 
-under 5 U.S.C. 552(a) and 1 CFR part 51.
-    (2) You must use this material as applicable to do the actions 
-required by this AD, unless the AD specifies otherwise.
-    (i) European Union Aviation Safety Agency (EASA) AD 2025-0036, 
-dated February 12, 2025.
-    (ii) [Reserved]
-    (3) For EASA material identified in this AD, contact EASA, 
-Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 8999 
-000; email:   [email&#160;protected]  ; website: easa.europa.eu. You may 
-find this material on the EASA website at ad.easa.europa.eu.
-    (4) You may view this material at the FAA, Airworthiness 
-Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
-Fort Worth, TX 76177. For information on the availability of this 
-material at the FAA, call (817) 222-5110.
-    (5) You may view this material at the National Archives and 
-Records Administration (NARA). For information on the availability 
-of this material at NARA, visit  www.archives.gov/federal-register/cfr/ibr-locations  or email   [email&#160;protected]  .
-
-    Issued on June 11, 2026.
-Steven W. Thompson,
-Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
-Certification Service.
-[FR Doc. 2026-13060 Filed 6-26-26; 8:45 am]
+    Before 2007, the FAA limited the number of arrivals and departures 
+at LGA pursuant to the High Density Rule (HDR). The Aviation Investment 
+and Reform Act for the 21st Century (AIR-21), enacted in April 2000, 
+directed the phase-out of the HDR at LGA on January 1, 2007.\1\ The FAA 
+issued the Order Limiting Operations at New York LaGuardia Airport on 
+December 27, 2006, adopting temporary limits on scheduled and 
+unscheduled operations at LGA to address congestion at the airport upon 
+the termination of the HDR.\2\
+---------------------------------------------------------------------------
+
+    \1\ AIR-21, Public Law 106-181 (Apr. 5, 2000), codified at 49 
+U.S.C. 41715(a)(2).
+    \2\ Operating Limitations at New York LaGuardia Airport; Notice 
+of Order, 71 FR 77854 (Dec. 27, 2006).
+---------------------------------------------------------------------------
+
+    At the time, the order was adopted on a temporary basis as the FAA 
+noted it was pending the completion of rulemaking to replace the HDR 
+that would address long-term limits and related policies. On October 
+10, 2008, the FAA published the Congestion Management Rule for 
+LaGuardia Airport, which would have become effective on December 9, 
+2008.\3\ That rule was stayed by the U.S. Court of Appeals for the 
+District of Columbia Circuit and subsequently rescinded by the FAA.\4\
+---------------------------------------------------------------------------
+
+    \3\ Congestion Management Rule for LaGuardia Airport, 73 FR 
+60574 (Oct. 10, 2008), amended by Congestion Management Rule for 
+LaGuardia Airport; Correction, 73 FR 66517 (Nov. 10, 2008).
+    \4\ Congestion Management Rule for LaGuardia Airport, 74 FR 
+52132 (Oct. 9, 2009).
+---------------------------------------------------------------------------
+
+    Meanwhile, the December 27, 2006, Order was amended on November 8, 
+2007, and August 19, 2008.\5\ Under the amended Order, the FAA limited 
+scheduled and unscheduled operations at the airport to prevent 
+congestion-related delays associated with LaGuardia's limited runway 
+capacity. The FAA extended the expiration date of the amended Order on 
+October 7, 2009, April 4, 2011, May 14, 2013, March 27, 2014, May 25, 
+2016, September 18, 2018, September 18, 2020, October 28, 2022, and May 
+13, 2024.\6\
+---------------------------------------------------------------------------
+
+    \5\ Operating Limitations at New York LaGuardia Airport; Notice 
+of Order, 72 FR 63224 (Nov. 8, 2007); Operating Limitations at New 
+York LaGuardia Airport; Notice of Order, 73 FR 48428 (Aug. 19, 
+2008).
+    \6\ Operating Limitations at LaGuardia Airport, 74 FR 51653 
+(Oct. 7, 2009); Operating Limitations at New York LaGuardia Airport, 
+76 FR 18616 (April 4, 2011), amended by Operating Limitations at New 
+York LaGuardia Airport; Technical Amendment, 77 FR 30585 (May 23, 
+2012); Operating Limitations at New York LaGuardia Airport, 78 FR 
+28278 (May 14, 2013); Operating Limitations at New York LaGuardia 
+Airport, 79 FR 17222 (March 27, 2014); Operating Limitations at New 
+York LaGuardia Airport, 81 FR 33126 (May 25, 2016); Operating 
+Limitations at New York LaGuardia Airport, 83 FR 47065 (Sept. 18, 
+2018); Operating Limitations at New York LaGuardia Airport, 85 FR 
+58255 (Sept. 18, 2020); Operating Limitations at New York LaGuardia 
+Airport, 87 FR 65159 (Oct. 28, 2022); Operating Limitations at New 
+York LaGuardia Airport, 89 FR 41484 (May 13, 2024).
+
+---------------------------------------------------------------------------
+
+[[Page 37772]]
+
+    Under this Order, as previously amended, the FAA (1) maintains the 
+current hourly limits of 71 for scheduled operations and three for 
+unscheduled operations at LGA during the slot-controlled hours; (2) 
+imposes an 80 percent minimum usage requirement for Operating 
+Authorizations (OAs) \7\ with defined exceptions; (3) provides a 
+mechanism for withdrawal of OAs for FAA operational reasons; (4) 
+provides for a lottery to reallocate withdrawn, surrendered, or 
+unallocated OAs; and (5) allows for trades and leases of OAs for 
+consideration for the duration of the Order, with FAA approval.
+---------------------------------------------------------------------------
+
+    \7\ Also known as ``slots''.
+---------------------------------------------------------------------------
+
+    The reasons for retaining the Order have not changed appreciably 
+since its initial issuance. Runway capacity at LGA remains limited, 
+while demand for access to LGA remains high. The FAA has determined 
+that the operational limitations imposed by this Order are appropriate 
+and necessary. Without the operational limitations imposed by this 
+Order, the FAA expects severe congestion-related delays due to the 
+anticipated demand of new operations and the retiming of existing 
+flights into more desirable hours. During the effective period of this 
+Order, the FAA will continue to monitor demand, performance, and runway 
+capacity at LGA, to determine if changes are warranted.
+    In 2009, the FAA reduced the scheduling limits under this Order 
+from 75 operations per hour to 71 per hour to provide an opportunity to 
+improve operations.\8\ The FAA did not require a reduction of historic 
+slots to reach the new hourly limits. Instead, historic allocations 
+were honored. However, slots voluntarily returned or withdrawn per the 
+terms of the Order are not reallocated if the hourly totals exceed the 
+revised 71 hourly scheduling limit. As a result of this historic 
+practice, between 72 and 75 slots remain authorized in most slot-
+controlled hours. The FAA, in coordination with the Office of the 
+Secretary of Transportation (OST), will continue to consider potential 
+rulemaking to codify policies for slot-controlled airports.
+---------------------------------------------------------------------------
+
+    \8\ Operating Limitations at New York's LaGuardia Airport; 
+Notice of Order, 74 FR 2646 (Jan. 15, 2009).
+---------------------------------------------------------------------------
+
+    Accordingly, the FAA is extending the expiration date of this Order 
+until October 28, 2028. This expiration date coincides with the 
+extended expiration date for the Order limiting operations at JFK, as 
+also extended by action published elsewhere in this issue of the 
+Federal Register. The FAA will continue to monitor demand, performance, 
+and runway capacity at LGA, to determine if changes are warranted 
+during the effective period of this Order. The FAA continues to study 
+and analyze airport runway configurations, capacity, delays with 
+alternative demand scenarios, as well as consider a number of the 
+complexities associated with LGA operations, including interaction with 
+other nearby airports and operational growth limitations due to the 
+busy airspace surrounding the New York Area.
+    The FAA finds that notice and comment procedures under 5 U.S.C. 
+553(b) are impracticable, unnecessary, and contrary to the public 
+interest, as carriers have begun planning schedules for the Winter 
+2026/2027 scheduling season and no changes are included in this action. 
+The provisions of this Order have been in place largely unchanged 
+through multiple extensions over the course of many years and are 
+familiar to scheduled carriers operating at LGA. For these reasons, the 
+FAA also finds that it is impracticable and contrary to the public 
+interest to delay the effective date of this action under 5 U.S.C. 
+553(d).
+
+The Amended Order
+
+    The Order, as previously amended, is recited below in its entirety.
+
+A. Scheduled Operations
+
+    With respect to scheduled operations at LaGuardia:
+    1. The Order governs scheduled arrivals and departures at LaGuardia 
+from 6 a.m. through 9:59 p.m., Eastern Time, Monday through Friday and 
+from 12 noon through 9:59 p.m., Eastern Time, Sunday. Seventy-one (71) 
+Operating Authorizations are available per hour and will be assigned by 
+the FAA on a 30-minute basis. The FAA will permit additional, existing 
+operations above this threshold; however, the FAA will retire Operating 
+Authorizations that are surrendered to the FAA, withdrawn for non-use, 
+or unassigned during each affected hour until the number of Operating 
+Authorizations in that hour reaches seventy-one (71).
+    2. The Order took effect on January 1, 2007, and will expire on 
+October 28, 2028.
+    3. The FAA will assign operating authority to conduct an arrival or 
+a departure at LaGuardia during the affected hours to the air carrier 
+that holds equivalent slot or slot exemption authority under the High 
+Density Rule of FAA slot exemption rules as of January 1, 2007; to the 
+primary marketing air carrier in the case of AIR-21 small hub/non-hub 
+airport slot exemptions; or to the air carrier operating the flights as 
+of January 1, 2007, in the case of a slot held by a non carrier. The 
+FAA will not assign operating authority under the Order to any person 
+or entity other than a certificated U.S. or foreign air carrier with 
+appropriate economic authority and with operating authority from FAA 
+under 14 CFR part 121, 129 or 135.
+    4. For administrative tracking purposes only, the FAA will assign 
+an identification number to each Operating Authorization.
+    5. An air carrier may lease or trade an Operating Authorization to 
+another carrier for any consideration, not to exceed the duration of 
+the Order. Notice of a trade or lease under this paragraph must be 
+submitted in writing to the FAA Slot Administration Office, email 7-
+ [email&#160;protected] , must come from a designated representative of 
+each carrier, and is subject to FAA review. The FAA must confirm and 
+approve these transactions in writing prior to the effective date of 
+the transaction. However, the FAA expects to approve transfers between 
+carriers under the same marketing control up to 5 business days after 
+the actual operation. This post-transfer approval is limited to 
+accommodate operational disruptions that occur on the same day of the 
+scheduled operation. The FAA's approval of a trade or lease does not 
+constitute a commitment by the FAA to grant the associated historical 
+rights to any operator in the event that slot controls continue at LGA 
+after this Order expires.
+    6. Each air carrier holding an Operating Authorization must forward 
+in writing to the FAA Slot Administration Office a list of all 
+Operating Authorizations held by the carrier along with a listing of 
+the Operating Authorizations actually operated for each day of the two-
+month reporting period, within 14 days after the last day of the two-
+month reporting period beginning January 1 and every two months 
+thereafter. Any Operating Authorization not used at least 80 percent of 
+the time over a two-month period will be withdrawn by the FAA except:
+    A. The FAA will treat as used any Operating Authorization held by 
+an air carrier on Thanksgiving Day, the Friday following Thanksgiving 
+Day, and the period from December 24 through the first Saturday in 
+January.
+    B. The FAA will treat as used any Operating Authorization obtained 
+by an air carrier through a lottery under
+
+[[Page 37773]]
+
+paragraph 7 for the first 120 days after allocation in the lottery.
+    C. The Administrator of the FAA may waive the 80 percent usage 
+requirement in the event of a highly unusual and unpredictable 
+condition which is beyond the control of the air carrier and which 
+affects carrier operations for a period of five consecutive days or 
+more.
+    7. In the event that Operating Authorizations are withdrawn for 
+nonuse, are surrendered to the FAA, or are unassigned, the FAA will 
+determine whether any of the available Operating Authorizations should 
+be reallocated. If so, the FAA will conduct a lottery using the 
+provisions specified under 14 CFR 93.225. The FAA may retime an 
+Operating Authorization prior to reallocation in order to address 
+operational needs.
+    8. If the FAA determines that a reduction in the number of 
+allocated Operating Authorizations is required to meet operational 
+needs, such as reduced airport capacity, the FAA will conduct a 
+weighted lottery to withdraw Operating Authorizations to meet a reduced 
+hourly or half-hourly limit for scheduled operations. The FAA will 
+provide at least 45 days' notice unless otherwise required by 
+operational needs. Any Operating Authorization that is withdrawn or 
+temporarily suspended will, if reallocated, be reallocated to the air 
+carrier from which it was taken, provided that the air carrier 
+continues to operate scheduled service at LaGuardia.
+    9. The Vice President, System Operations Services, in coordination 
+with the Chief Counsel of the FAA, is the final decision maker for 
+determinations under this Order.
+    10. The FAA may modify or withdraw any provision in this Order on 
+its own or on application by any carrier for good cause shown.
+
+B. Unscheduled Operations  9 
+---------------------------------------------------------------------------
+
+    \9\ Unscheduled operations are operations other than those 
+regularly conducted by an air carrier between LaGuardia and another 
+service point. Unscheduled operations include general aviation, 
+public aircraft, military, irregular charter, ferry, and positioning 
+flights. Regularly conducted commercial flights require an Operating 
+Authorization and may not use unscheduled operation reservations. 
+Helicopter operations are excluded from the reservation requirement. 
+Unscheduled flights operating under visual flight rules (VFR) may be 
+accommodated by the local air traffic control facilities and are not 
+included in the hourly limits.
+---------------------------------------------------------------------------
+
+    With respect to unscheduled flight operations at LaGuardia, the FAA 
+adopts the following:
+    1. The Order applies to all operators of unscheduled flights, 
+except helicopter operations, at LaGuardia from 6 a.m. through 9:59 
+p.m., Eastern Time, Monday through Friday and from 12 noon through 9:59 
+p.m., Eastern Time, Sunday.
+    2. The Order took effect on January 1, 2007, and will expire on 
+October 28, 2028.
+    3. No person can operate an aircraft other than a helicopter to or 
+from LaGuardia unless the operator has received, for that unscheduled 
+operation, a reservation that is assigned by the David J. Hurley Air 
+Traffic Control System Command Center's Airport Reservation Office 
+(ARO), or for unscheduled visual flight rule operations, received 
+clearance from ATC. Additional information on procedures for obtaining 
+a reservation is available via the internet at  http://www.fly.faa.gov/ecvrs .
+    4. Three (3) reservations are available per hour for unscheduled 
+operations at LaGuardia. The ARO will assign reservations on a 30-
+minute basis.
+    5. The ARO receives and processes all reservation requests. 
+Reservations are assigned on a ``first-come, first-served'' basis, 
+determined as of the time that the ARO receives the request. A 
+cancellation of any reservation that will not be used as assigned is 
+required.
+    6. Filing a request for a reservation does not constitute the 
+filing of an instrument flight rules (IFR) flight plan, as separately 
+required by regulation. After the reservation is obtained, an IFR 
+flight plan can be filed. The IFR flight plan must include the 
+reservation number in the ``remarks'' section.
+    7. Air Traffic Control will accommodate declared emergencies 
+without regard to reservations. Nonemergency flights in direct support 
+of national security, law enforcement, military aircraft operations, or 
+public aircraft operations will be accommodated above the reservation 
+limits with the prior approval of the Vice President, System Operations 
+Services, Air Traffic Organization. Procedures for obtaining the 
+appropriate reservation for such flights are available via the internet 
+at  http://www.fly.faa.gov/ecvrs .
+    8. Notwithstanding the limits in paragraph 4, if the Air Traffic 
+Organization determines that air traffic control, weather, and capacity 
+conditions are favorable and significant delay is not likely, the FAA 
+can accommodate additional reservations over a specific period. Unused 
+operating authorizations can also be temporarily made available for 
+unscheduled operations. Reservations for additional operations are 
+obtained through the ARO.
+    9. Reservations cannot be bought, sold, or leased.
+    10. The Vice President, System Operations Services, in coordination 
+with the Chief Counsel of the FAA, is the final decision maker for 
+determinations under this Order.
+    11. The FAA may modify or withdraw any provision in this Order on 
+its own or on application by any carrier for good cause shown.
+
+C. Enforcement
+
+    The FAA may enforce the Order through an enforcement action seeking 
+a civil penalty under 49 U.S.C. 46301(a). The FAA or Department of 
+Justice also could file a civil action in U.S. District Court, under 49 
+U.S.C. 46106 or 46107, respectively, seeking to enjoin any carrier from 
+violating the terms of the Order.
+
+    Issued in Washington, DC, on June 18, 2026.
+Gian Burdhimo,
+Acting Deputy Vice President, System Operations Services.
+[FR Doc. 2026-12592 Filed 6-18-26; 4:15 pm]
 BILLING CODE 4910-13-P

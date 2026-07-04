@@ -1,505 +1,389 @@
-[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
+[Federal Register Volume 91, Number 119 (Tuesday, June 23, 2026)]
 [Rules and Regulations]
-[Pages 38517-38521]
+[Pages 37319-37321]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-12920]
+[FR Doc No: 2026-12544]
 
 =======================================================================
 -----------------------------------------------------------------------
 
 ENVIRONMENTAL PROTECTION AGENCY
 
-40 CFR Part 52
+40 CFR Part 268
 
-[EPA-R05-OAR-2025-0237; FRL-13273-02-R5]
+[EPA-R08-RCRA-2025-0420; FRL-12863-02-R8]
 
-Air Plan Approval; Ohio; Source-Specific Non-CTG RACT
+No-Migration Variance From Land Disposal Restrictions for Clean 
+Harbors Grassy Mountain, Utah
 
 AGENCY: Environmental Protection Agency (EPA).
 
-ACTION: Final rule.
+ACTION: Final approval.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The Environmental Protection Agency (EPA) is approving source-
-specific State Implementation Plan (SIP) revisions submitted by Ohio. 
-These revisions address major source volatile organic compound (VOC) 
-and nitrogen oxide (NO X ) reasonably available control 
-technology (RACT) requirements for the Cleveland, OH Moderate 
-nonattainment area (Cuyahoga, Geauga, Lake, Lorain, Medina, Portage, 
-and Summit counties) for the 2015 ozone National Ambient Air Quality 
-Standard (NAAQS or standard). The affected facilities include Lubrizol, 
-Henkel, and Cleveland-Cliffs Cleveland Works. With this approval, Ohio 
-has fully satisfied the Moderate area RACT requirements of the Clean 
-Air Act (CAA) with respect to the 2015 ozone standard for the Cleveland 
-area.
+SUMMARY: The Environmental Protection Agency (EPA) is approving with 
+conditions, no-migration variances for four categories/groups of 
+wastes, containing up to a combined 250 temporary disposal units (``put 
+piles'') at any one time, from the Resource Conservation and Recovery 
+Act (RCRA) Land Disposal Restrictions (LDR) standards at Clean Harbors' 
+Grassy Mountain (Clean Harbors) commercial treatment, storage and 
+disposal facility (TSDF) in Tooele County, Utah. These variances will 
+allow Clean Harbors to temporarily store treated hazardous wastes that 
+are awaiting LDR compliance verification in put piles within its 
+Subtitle C (hazardous waste) landfill. The petitioner demonstrated, to 
+a reasonable degree of certainty, that there will be no migration of 
+hazardous constituents from the put piles for as long as the wastes 
+remain hazardous. Additionally, once LDR compliance is verified, the 
+put piles will be disposed within the onsite RCRA hazardous waste 
+landfill cell and will be subject to the conditions set out in the 
+Compliance Monitoring Plan section of this document.
 
-DATES: This final rule is effective on June 26, 2026.
+DATES: The final approval is effective July 23, 2026.
 
-ADDRESSES: The EPA has established a docket for this action under 
-Docket ID No. EPA-R05-OAR-2025-0237. All documents in the docket are 
-listed on the  https://www.regulations.gov  website. Although listed in 
-the index, some information is not publicly available, i.e., 
-Confidential Business Information (CBI), Proprietary Business 
-Information (PBI), or other information whose disclosure is restricted 
-by statute. Certain other material, such as copyrighted material, is 
-not placed on the internet and will be publicly available only in hard 
-copy form. Publicly available docket materials are available either 
-through  https://www.regulations.gov  or please contact the person 
-identified in the FOR FURTHER INFORMATION CONTACT section for 
-additional information.
+FOR FURTHER INFORMATION CONTACT: Jesse Newland; Land, Chemicals and 
+Redevelopment Division; EPA Region 8; 1595 Wynkoop Street, Denver, 
+Colorado 80202-1129; Mail Code: 8LCR-RC-P; telephone number: (303) 312-
+6353; and email:   [email&#160;protected]  .
 
-FOR FURTHER INFORMATION CONTACT: Katie Caskey, Air and Radiation 
-Division (AR18J), Environmental Protection Agency, Region 5, 77 West 
-Jackson Boulevard, Chicago, Illinois 60604, telephone number: (312) 
-353-3490, email address:   [email&#160;protected]  .
+SUPPLEMENTARY INFORMATION:
 
-SUPPLEMENTARY INFORMATION: Throughout this document whenever ``we,'' 
-``us,'' or ``our'' is used, we mean the EPA.
+I. General Information
 
-I. Background Information
+A. Does this document apply to me?
 
-    On April 10, 2026, the EPA proposed to approve source-specific SIP 
-revisions that address major source VOC and NO X  RACT 
-requirements for the Cleveland, OH 2015 ozone Moderate nonattainment 
-area.\1\ An explanation of the CAA requirements, a detailed analysis of 
-the revisions, and the EPA's reasons for proposing approval were 
-provided in the notice of proposed rulemaking and will not be restated 
-in this action. The public comment period for this proposed rule closed 
-on May 11, 2026. The EPA received one adverse comment.
+    This action applies only to Clean Harbors' Grassy Mountain Facility 
+(Clean Harbors) located in Tooele County, Utah.
+
+B. What action is the Agency taking?
+
+    The EPA is finalizing no-migration variances (NMVs) for up to a 
+combined 250 put piles at any one time for the 4 categories/groups of 
+wastes identified in The Petition section of this approval as requested 
+by Clean Harbors in their July 16, 2024 petition, for the Grassy 
+Mountain facility. For the reasons described in the December 31, 2025 
+(90 FR 61356) preamble to the proposed approval and in the Agency's 
+response to the three comments received on the proposal, the EPA is 
+finalizing the variance without alteration. The term of this NMV shall 
+be no longer than the term of the RCRA Subtitle C permit for the 
+permitted landfill.
+
+C. What is the Agency's authority for taking this action?
+
+    Sections 3004(d) through (g) of the Resource Conservation and 
+Recovery Act (RCRA), 42 U.S.C. 6294(d) through (g), prohibit the land 
+disposal of hazardous wastes unless such wastes meet the LDR treatment 
+standards (``treatment standards'') established by EPA (``Agency'').
+    However, RCRA 3004(d)(1),\1\ and its implementing regulations found 
+at 40 CFR 268.6, provide an option for land disposal of hazardous waste 
+that does not meet the applicable treatment standards where EPA has 
+approved an NMV petition. Specifically, 40 CFR 268.6(a) describes the 
+components that a demonstration of no migration must address; 268.6(b) 
+specifies certain criteria that must be satisfied for that 
+demonstration, and 268.6(c) describes the monitoring program that will 
+be used to verify that the conditions of the NMV are being met.
 ---------------------------------------------------------------------------
 
-    \1\ 91 FR 18349 (April 10, 2026).
+    \1\ RCRA 3004(d)(1)(c) states: ``. . . For the purposes of this 
+paragraph, a method of land disposal may not be determined to be 
+protective of human health and the environment for a hazardous waste 
+referred to in paragraph (2) . . . unless, upon application by an 
+interested person, it has been demonstrated to the Administrator, to 
+a reasonable degree of certainty, that there will be no migration of 
+hazardous constituents from the disposal unit or injection zone for 
+as long as the wastes remain hazardous.''
 ---------------------------------------------------------------------------
 
-    Comment: The commenter asserted that the EPA failed to assess the 
-emission impacts of potential RACT measures and did not explain the 
-significance of the emission reduction potential for those measures for 
-all the non-CTG sources in the proposal.
-    Response: The CAA does not require, and thus the proposal does not 
-include, a separate, standalone evaluation of emission impacts for 
-potential RACT measures.
-    CAA section 172(c)(1) requires the implementation of RACT measures 
-as expeditiously as practicable and shall provide for attainment of the 
-NAAQS.
+II. Background
 
-[[Page 38518]]
+A. The Petition
 
-Reductions in emissions from existing sources is part of that stated 
-purpose, but the language does not specify or require an evaluation of 
-the emissions impacts.
-    CAA section 182(b)(2) requires implementation of RACT for Moderate 
-ozone nonattainment areas, and references CAA section 172(c)(1). The 
-EPA has long defined RACT as the lowest emission limitation a source 
-can meet through application of control technology that is reasonably 
-available, considering technological and economic feasibility.\2\
----------------------------------------------------------------------------
+    On July 16, 2024, Clean Harbors submitted an NMV petition to the 
+EPA for its Grassy Mountain facility in Tooele County, Utah, seeking an 
+exemption from the LDR prohibition on placing hazardous waste on the 
+ground if that waste does not meet the prescribed LDR standards of 40 
+CFR 268.40, by demonstrating that for as long as the waste remains 
+hazardous, there will be no migration of hazardous constituents from 
+the disposal units. In response to EPA requests following the original 
+November 2023 submission, Clean Harbors provided supplemental 
+information for the Agency's evaluation of Clean Harbors' no-migration 
+demonstration. The original petition and associated responses to Agency 
+information requests (together referred to as ``the petition'') can be 
+found in the docket (EPA-R08-RCRA-2025-0420).
 
-    \2\ 44 FR 53762 (September 17, 1979).
----------------------------------------------------------------------------
+III. Summary of Conditions for the NMV
 
-    Consistent with this definition, major source RACT is evaluated at 
-the source level by determining whether additional control technologies 
-are technologically feasible and economically reasonable for that 
-source. Ohio evaluated various available control options for each 
-source, including feasibility, emission reduction efficiency, and cost, 
-and determined whether more stringent controls met this standard. Each 
-of these analyses were considered by the EPA and were part of the 
-docket for this rulemaking.
-    Emission reduction potential is inherently reflected in the 
-evaluation of control technologies, including consideration of control 
-efficiency; however, the CAA does not require a separate or independent 
-analysis of the significance of emission reductions in determining 
-RACT. Instead, RACT determinations focus on whether controls are 
-technologically feasible and economically reasonable for that source.
-    The EPA reviewed Ohio's analysis and confirmed that Ohio evaluated 
-available control options and did not rely solely on existing controls 
-without analysis. Therefore, the EPA finds that Ohio's RACT 
-determinations are consistent with CAA requirements.
-    Comment: The commenter asserted that the EPA failed to provide a 
-reasoned explanation for its economic feasibility determinations, 
-failed to justify cost-effectiveness values or establish a benchmark, 
-failed to explain why certain technologically feasible controls are not 
-economically feasible, failed to consider emission reduction potential 
-in evaluating cost, and relied on conclusions that are inconsistent 
-with prior EPA analyses and cost-effectiveness ranges.
-    Response: The EPA disagrees that the explanation of economic 
-feasibility determinations in the proposed approval is inconsistent 
-with the CAA. Under the CAA, RACT requires implementation of control 
-technologies that are technologically feasible and economically 
-reasonable. The EPA evaluates economic feasibility on a case-by-case, 
-source-specific basis, considering a variety of factors, including, but 
-not limited to, source configuration, emission unit type, control 
-technology, baseline emissions, geographic location, and economic 
-conditions.
-    The EPA does not establish or apply a cost-effectiveness metric for 
-RACT. The commenter asserts that the EPA chose to apply such a metric. 
-The States may establish and apply their own cost-effectiveness 
-metrics, but the EPA does not adopt these metrics. Instead, the EPA 
-uses cost-effectiveness as one tool to determine whether a control 
-technology is economically reasonable for a specific source. What 
-constitutes reasonable cost-effectiveness varies depending on the 
-characteristics of the source and the control technology.
-    The EPA reviewed Ohio's source-specific analyses for each non-CTG 
-major source. In each analysis, Ohio evaluated available control 
-technologies, including emission reduction efficiency and associated 
-costs, and determined whether those technologies were economically 
-reasonable for each source. Where Ohio determined that certain 
-technologically feasible controls were not economically reasonable, the 
-EPA reviewed those determinations and found that the record supports 
-those conclusions.
-    The commenter compares cost-effectiveness values in this action to 
-values from other EPA analyses, including the EPA's ``Regulatory Impact 
-Analysis of the Final revisions to the National Ambient Air Quality 
-Standards for Ground-Level Ozone'' (September 2015), the Federal 
-Implementation Plan Addressing Regional Ozone Transport for the 2015 
-Ozone National Ambient Air Quality Standard (88 FR 36654, June 5, 
-2023), and the EPA's study ``The Benefits and Costs of the Clean Air 
-Act from 1990 to 2020: Final Report--Rev. A'' (April 2011). Those 
-analyses were developed for different statutory purposes and broader 
-regulatory contexts and do not establish applicable cost benchmarks for 
-source-specific RACT determinations.
-    The commenter identified each facility specifically and asserted 
-that more stringent controls should have been required. The EPA 
-reviewed the source-specific analyses for these facilities and finds 
-that Ohio evaluated technically feasible control options and associated 
-costs and determined which controls are economically reasonable for 
-each source.
-    Therefore, the EPA finds that the economic analyses in Ohio's RACT 
-demonstrations satisfy RACT requirements under the CAA.
-    Comment: The commenter also asserted that the EPA failed to ensure 
-that non-CTG sources subject to RACT are subject to sufficient 
-reporting and recordkeeping requirements, that existing requirements 
-are unclear or insufficient to demonstrate compliance, that reliance on 
-deviation reporting is inadequate, that the proposal does not 
-adequately explain how compliance with RACT limits will be enforced, 
-and that the lack of publicly accessible information limits effective 
-enforcement, including citizen enforcement.
-    Response: The EPA disagrees with the commenter's assertions. Ohio 
-has established reporting and recordkeeping requirements for sources 
-subject to RACT through Ohio Administrative Code (OAC) rule 3745-15-03, 
-which the EPA has approved into the Ohio SIP.\3\ This rule requires 
-periodic reporting sufficient to demonstrate compliance with applicable 
-limits.
----------------------------------------------------------------------------
+A. Types of Wastes and Maximum Quantity of Put Piles Covered by This 
+NMV
 
-    \3\ 91 FR 2308, (January 20, 2026).
----------------------------------------------------------------------------
+    Clean Harbors' no migration demonstration applies to the following 
+four categories/groups of wastes stored in up to a combined 250 put 
+piles at any one time located within the facility's Subtitle C Landfill 
+cell, known as ``Cell 8.''
+    (1) general metals (1) general metals (D002, D004-D011);
+    (2) cyanide/sulfide with metals (D002, D004 through D011, F006 
+through F012, F019);
+    (3) high-chromium wastes (D002, D004 through D011, F006);
+    (4) ammonia (D002, D004-D011).
 
-    The EPA is not relying on deviation reporting alone to satisfy CAA 
-requirements. Ohio's framework relies on periodic reporting under OAC 
-rule 3745-15-03 along with source-specific permit conditions that are 
-approved into the Ohio SIP. These requirements allow compliance to be 
-determined on an ongoing basis. The emission limitations and associated 
-monitoring, recordkeeping, and reporting requirements in Ohio's SIP and 
-permits are federally enforceable, and information submitted to the 
-State under OAC rule 3745-15-03 is available to the public through 
-applicable public records processes, including the Freedom of 
-Information Act. The EPA reviewed Ohio's SIP and permitting framework 
-and finds that it provides enforceable mechanisms to ensure compliance.
-    Thus, the EPA finds that Ohio's reporting and permitting 
-requirements are sufficient to meet the CAA and regulatory 
-enforceability requirements.
+B. Duration of Temporary Storage
 
-II. Final Action
+    While the basis for EPA's final approval is that Clean Harbors 
+demonstrated to a reasonable degree of certainty that no hazardous 
+constituents will migrate from the put piles for as long as the wastes 
+remain hazardous, this NMV is conditioned upon the temporary nature of 
+the put piles within Landfill Cell 8 and is intended for situations 
+where the put piles are used as part of an overall strategy to confirm 
+consistent and compliant treatment that meets the applicable LDR 
+treatment standards.
+    The Agency concludes that Clean Harbors has provided sufficient 
+analytical data to justify a six (6)-month duration (i.e. 180 days) for 
+storage of a put pile from the time the pile is first staged until 
+final disposal in the working face of the Landfill Cell 8. If an issue 
+arises where greater than 180 days temporary staging of a put pile is 
+necessary, the Utah DEQ may issue an extension, if warranted.
 
-    The EPA is approving the following as meeting RACT in the Cleveland 
-Moderate nonattainment area for the 2015 ozone standard:
+[[Page 37320]]
 
-Cleveland-Cliffs Cleveland Works
+C. Required Put Pile Engineered Controls
 
-      NO X  RACT--the following provisions, as detailed 
-in permit numbers P0138036, P0138136, and P0138521, issued 11/13/2025, 
-effective 11/13/2025:
+    This section describes engineered controls required for put piles, 
+in addition to site-wide engineered controls described in the petition 
+and proposed approval found in the docket under Docket ID No. EPA-R08-
+RCRA-2025-0420.
+    All put piles must be temporarily stored in a designated area of 
+Landfill Cell 8 until LDR compliance has been confirmed. The put piles 
+must then be moved to the working face of Landfill Cell 8.
+    The put piles must be encapsulated (liner below and Posi-
+Shell[supreg] atop) by the unit-specific engineered barriers discussed 
+below to prevent migration of hazardous constituents beyond the put 
+pile boundary. These unit-specific barriers are distinct from the 
+existing landfill controls for Landfill Cell 8, such as run-on and run-
+off controls, that were considered in the overall prevention of 
+migration of hazardous constituents.
+1. Liners
+    A liner of at least 20-mil thickness polyethylene geomembrane must 
+be used as a barrier to vertical and lateral migration for the put 
+piles. The liner beneath the pile will provide a barrier for vertical 
+migration. Because the layout of the put piles is accommodated within 
+the standard width of a prefabricated geomembrane roll, the liner must 
+be one solid piece without the need for welding of seams. The lack of 
+seams lends to additional assurance that hazardous constituents will 
+not migrate through a broken seam. The Agency concludes that a liner of 
+at least 20-mil thickness, in conjunction with the inspection program 
+described in the Compliance Monitoring Program section, is appropriate 
+for use in this temporary disposal scenario; however, there must always 
+be at least 12 inches of the liner visible on all sides of the put pile 
+to prevent potential horizontal migration of the waste from the edge of 
+the liner.
+    Before placing the put piles in the temporary storage area of 
+Landfill Cell 8, Clean Harbors must grade the temporary storage area 
+where put piles will be located. The grading must be relatively flat 
+but with a slight positive grade to preclude ponding of water on the 
+polyethylene liners.
+2. Covers
+    Clean Harbors must use a Posi-Shell[supreg] cover to act as a rain 
+and wind barrier for put piles, to ensure no migration of hazardous 
+constituents from the put piles occurs via lateral migration or air 
+pathways. Posi-Shell[supreg] is a spray-applied mortar applied as a 
+coating to the surface of the put piles, with a minimum cover thickness 
+of \3/8\-inch. Because Posi-Shell[supreg] is a mortar, curing is 
+necessary to allow it to harden. Curing typically occurs within 12-24 
+hours in dry weather, forming a relatively impermeable thin layer of 
+durable, hardened mortar. However, if moderate to heavy rainfall occurs 
+unexpectedly or is imminent, sustained freezing temperatures are 
+expected for more than one day, or the temperature falls below 30 
+[deg]F, the Posi-Shell[supreg] will not harden sufficiently. During 
+these times of inclement weather, Clean Harbors must temporarily cover 
+the put piles with polyethylene sheeting of at least 20-mil thickness, 
+anchored with sandbags around its edges, until the adverse weather 
+conditions abate, and the Posi-Shell[supreg] coating can be applied. 
+Within twenty-four (24) hours of weather conditions amenable to Posi-
+Shell[supreg] application, Clean Harbors must apply the coating.
+3. Run-On/Run-Off Controls
+    Upgradient of the staging area for each put pile, Clean Harbors 
+must construct and/or maintain a diversion berm of sufficient height/
+width to direct run-on away from each of the put piles. As Landfill 
+Cell 8 is filled, if the waste grade changes adjacent to the put pile 
+temporary storage area, additional diversion berms must be added, if 
+necessary to divert stormwater run-on and run-off to isolate the 
+staging area on the working face of Landfill Cell 8. To control run-
+off, in addition to the Posi-shell[supreg] coating, Clean Harbors must 
+include, at a minimum, ditches around the inside perimeter of Landfill 
+Cell 8 embankments and must remove ponded stormwater that accumulates 
+on top of the put piles.
+4. Compliance Monitoring Plan
+    In accordance with 40 CFR 268.6(a)(4), Clean Harbors must maintain 
+at the facility, a put pile monitoring plan that includes, at a 
+minimum, components 1-16 below, many of which were included by Clean 
+Harbors in the petition and the Agency adopts as proposed.
+    Deficiencies identified during inspection must be remedied/repaired 
+to ensure no migration of hazardous constituents occurs. Deficiencies 
+may include cracking, breakdown, or insufficient application of the 
+Posi-Shell cover; gaps, tears, or holes in plastic sheeting utilized 
+for the management of the unit; presence of stormwater run-on flow and/
+or ponded water; visibly exposed waste; and poor overall pile 
+condition. Deficiencies must be remedied within one (1) week of 
+discovery, and remedies must be recorded in the facility's operating 
+record.
+    Deficiencies described by this section must be remedied regardless 
+of whether Clean Harbors determines that a migration of hazardous 
+constituents has occurred or may have occurred if LDR compliance 
+verification of the waste in the unit is not yet available. If Clean 
+Harbors determines that there has been a migration of hazardous 
+constituents from any of the put piles or is unable to remedy any 
+deficiency within one (1) week of discovery, Clean Harbors must 
+immediately suspend receipt of waste at the affected put pile and 
+notify the Region 8 Administrator, in writing, within ten (10) days of 
+the determination that a release has occurred or that a deficiency was 
+unable to be remedied within one (1) week.
+    Clean Harbors must:
+    1. Review and track LDR standard ``pass rates'' for put piles. To 
+ensure that the waste piles are only being ``temporarily stored,'' as 
+described in the February 2023 guidance, if the failure rate of the 
+initial verification test for treated put piles exceeds 5% in a 
+calendar month, Clean Harbors must conduct a root cause analysis and 
+adjust the treatment protocol for the affected category of waste.
+    2. Inspect the temporary staging area for put piles prior to 
+deploying the 20-mil polyethylene liner. The underlying area must be 
+free of large or rigid objects that may damage the liner.
+    3. Observe that the liner is not displaced or damaged during 
+placement of the waste piles on the liner to confirm the integrity of 
+the liner beneath a waste pile. A damaged liner must be replaced with a 
+new liner.
+    4. Perform daily inspection of covered waste piles to verify 
+integrity of the liner, cover, and overall pile condition. Inspectors 
+must, at a minimum, check for (1) signs of stormwater run-on flow that 
+has or is migrating towards a put pile, or other signs of potential for 
+put pile erosion, undermining, or washout of the waste encapsulation 
+barriers; (2) damage from strong winds, heavy rain, or other extreme 
+weather events (e.g., in particular, causing holes, uplift, or other 
+breaches in the Posi-Shell[supreg] cover) within 24 hours of such 
+event; (3) visible exposed waste; (4) releases of waste (washout/
+undermining, displacement/movement of the pile such as shifting or 
+slumping, windblown waste particles, etc.); (5) other indications of 
+potential for migration or actual observed migration of hazardous 
+constituents from the pile
 
-[[Page 38519]]
+[[Page 37321]]
 
-      Reheat Furnaces (P046-P048): Requirement to submit updated 
-NO X  RACT study per 3745-110-03(J) if NO X  
-emissions exceed 348.3 tpy per furnace on a 12-month rolling average.
-      Batch annealing Furnaces (P049 and P050): Continued 
-operation of existing LNBs and compliance with existing NO X  
-limit of 0.10 lb/MMBtu.
-      HDGL Annealing Furnace (Unit P071): Continued use of the 
-existing LNBs and compliance with the 0.23 lb/MMBtu NO X  
-limit.
-      Blast Furnaces (P903 and P904): Continued use of low-
-NO X  BFG; Casthouse and Flare--install, maintain, and operate 
-the source in accordance with manufacturer specifications and with good 
-operating practices for the control of NO X  emissions; Blast 
-furnace stoves--Continued compliance with existing NO X  limit 
-of 0.06 lb/MMBtu.
-      Basic Oxygen Furnaces and Ladle Preheaters (P905/P906 and 
-P925/P926): BOFs--install, maintain, and operate the source in 
-accordance with the manufacturer's specifications and with good 
-operating practices for the control of NO X  emissions; Ladle 
-Preheaters--Continued use of the existing inherently low-NO X  
-burners and continued compliance of the site-specific NO X  
-limit of 0.10 lb/MMBtu.
-      VOC RACT--the following provisions, as detailed in permit 
-numbers P0138035, P0138036, and P0138136, issued 11/13/2025, effective 
-11/13/2025:
-      Combustion Units (B001-B007, B046-B050, P903-P906): 
-Operate the source in accordance with the manufacturer's specifications 
-and with good operating practices for the control of VOC emissions.
-      Tandem Mill (P107): Continued operation of chevron-style 
-oil demister in accordance with good engineering practices; Compliance 
-with existing VOC BAT limit of 138.91 tons per rolling 12-month period; 
-Compliance with the following VOC content limits for rolling oils--
-Rolling Oil:  https://www.regulations.gov , and at the EPA Region 5 Office (please contact the 
-person identified in the FOR FURTHER INFORMATION CONTACT section of 
-this preamble for more information). Therefore, these materials have 
-been approved by the EPA for inclusion in the SIP, have been 
-incorporated by reference by the EPA into that plan, are fully 
-federally enforceable under sections 110 and 113 of the CAA as of the 
-effective date of the final rulemaking of the EPA's approval, and will 
-be incorporated by reference in the next update to the SIP 
-compilation.\4\
----------------------------------------------------------------------------
+(e.g., liquid seeps on the waste pile slopes or emanating from its 
+base); and (6) cracks in the Posi-Shell[supreg].
+    5. Ensure Appropriate Posi-Shell[supreg] application. Adhering to 
+inclement weather application prohibitions as recommended by the 
+manufacturer. If a waste pile is unable to be immediately covered with 
+a Posi-Shell[supreg] (e.g., moderate to heavy rainfall occurs 
+unexpectedly or is imminent), the waste pile must be temporarily 
+covered with polyethylene sheeting of at least 20-mil thickness and 
+anchored with sandbags around its edges until the adverse weather 
+conditions abate and the Posi-Shell[supreg] coating can then be 
+applied. Posi-Shell[supreg] should not be applied when temperatures at 
+or below 32 [deg]F are expected for more than one day or for any length 
+of time when temperatures are below 30 [deg]F.
+    6. Verify that 100% coverage of Posi-Shell[supreg] is achieved over 
+the entire put pile (no bare or thin spots).
+    7. Confirm that the minimum \3/8\-in thickness of Posi-
+Shell[supreg] is achieved.
+    8. Confirm that the Posi-Shell[supreg] cover is sufficiently set 
+(hardened) before a moderate to heavy rainfall event.
+    9. Promptly re-apply Posi-Shell[supreg] cover if any deficiencies 
+are identified during application, including but not limited to lack of 
+coverage, thickness, or hardening.
+    10. Check for loss of 100% coverage of Posi-Shell[supreg] or other 
+signs of cover degradation (imminent potential for loss of barrier 
+effectiveness or thickness).
+    Landfill Cell 8-specific remediation requirements:
+    11. Remove ponded water on the landfill surface that could affect 
+the put piles.
+    12. Modify, as needed, run-on controls to continue to divert 
+surface water around each put pile staging area.
+    13. Maintain or alter, as appropriate, landfill grading to prevent 
+put pile run-on.
+    14. Isolate the four waste categories/groups of put piles from each 
+other to prevent potential commingling.
+    15. Maintain landfill equipment.
+    16. Submit a duplicate copy of the RCRA annual report required by 
+40 CFR 268.6(c)(3). This will include all LDR verification sampling, 
+resampling, and retreatment to EPA Region 8 at: Jesse Newland; Land, 
+Chemicals and Redevelopment Division; EPA Region 8; 1595 Wynkoop 
+Street, Denver, Colorado 80202-1129, Mail Code: 8LCR-RC-P; telephone 
+number: (303) 312-6353.
 
-    \4\ 62 FR 27968 (May 22, 1997).
----------------------------------------------------------------------------
+IV. Future Amendments to This NMV
 
-IV. Statutory and Executive Order Reviews
+    If Clean Harbors anticipates needing to exceed 250 put piles at any 
+one time, it must request approval from EPA Region 8 Administrator 
+prior to creating new put piles. Clean Harbors also requested that this 
+variance proactively apply to future put piles of identical waste 
+characteristics that would be staged in future proposed and permitted 
+Subtitle C landfill cells.
+    While this Final Approval applies only to those put piles placed 
+within existing Landfill Cell 8, upon permit approval of new cells, 
+Clean Harbors may submit to EPA Region 8 an addendum to this petition 
+to expand this NMV and all of its conditions and requirements, for the 
+put piles located within the new landfill cell if:
+    1. Clean Harbors is in compliance with the approved NMV;
+    2. The new landfill cell uses the same disposal unit engineered 
+controls (e.g., landfill cell interior berms for run-on and run-off 
+control) as approved in this variance;
+    3. The duration of temporary placement remains at six (6) months or 
+less and complies with the conditions established herein;
+    4. The waste categories remain the same; and
+    5. The monitoring program (e.g., groundwater monitoring) is 
+expanded to include the new landfill cell.
+    Additionally, 40 CFR 268.6(e) acknowledges the potential for post-
+approval changes in conditions at the no migration unit(s) and/or the 
+environment around the no migration unit(s). For the purpose of this 
+NMV, all changes that significantly depart from the conditions 
+described in the petition and proposed approval found in Docket ID No. 
+EPA-R08-RCRA-2025-0420 must be reported to the Region 8 Administrator 
+if the changes have the potential to affect migration of hazardous 
+constituents from the put piles:
+    1. If Clean Harbors plans to make changes to the unit(s)' design, 
+construction, or operation, such a change must be proposed, in writing, 
+and include a demonstration to the Region 8 Administrator at least 30 
+days prior to making the change. The Region 8 Administrator will 
+determine whether the proposed change invalidates the terms of the 
+approved variance and will determine the appropriate response. A 
+proposed change must first be approved by the Region 8 Administrator 
+before taking any action.
+    2. If Clean Harbors discovers a site condition that does not occur 
+as modeled or predicted in the petition, this change must be reported, 
+in writing, to the Region 8 Administrator within 10 days of discovery. 
+The Region 8 Administrator will determine whether the reported change 
+from expected conditions alters the terms of the approved variance and 
+thus requires further action.
 
-    Under the CAA, the Administrator is required to approve a SIP 
-submission that complies with the provisions of the CAA and applicable 
-Federal regulations. 42 U.S.C. 7410(k); 40 CFR 52.02(a). Thus, in 
-reviewing SIP submissions, the EPA's role is to approve State choices, 
-provided that they meet the criteria of the CAA. Accordingly, this 
-action merely approves State law as meeting Federal requirements and 
-does not impose additional requirements beyond those imposed by State 
-law. For that reason, this action:
-      Is not a significant regulatory action subject to review 
-by the Office of Management and Budget under Executive Order 12866 (58 
-FR 51735, October 4, 1993);
-      Is not an Executive Order 14192 (90 FR 9065, February 6, 
-2025) regulatory action because this action is not significant under 
-Executive Order 12866;
-      Does not impose an information collection burden under the 
-provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
-      Is certified as not having a significant economic impact 
-on a substantial number of small entities under the Regulatory 
-Flexibility Act (5 U.S.C. 601 et seq.);
-      Does not contain any unfunded mandate or significantly or 
-uniquely affect small governments, as described in the Unfunded 
-Mandates Reform Act of 1995 (Pub. L. 104-4);
-      Does not have federalism implications as specified in 
-Executive Order 13132 (64 FR 43255, August 10, 1999);
-      Is not subject to Executive Order 13045 (62 FR 19885, 
-April 23, 1997) because it approves a State program;
-      Is not a significant regulatory action subject to 
-Executive Order 13211 (66 FR 28355, May 22, 2001); and
-      Is not subject to requirements of section 12(d) of the 
-National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
-note) because application of those requirements would be inconsistent 
-with the CAA.
-    In addition, the SIP is not approved to apply on any Indian 
-reservation land or in any other area where the EPA or an Indian Tribe 
-has demonstrated that a Tribe has jurisdiction. In those areas of 
-Indian country, the rule does not have Tribal implications and will not 
-impose substantial direct costs on Tribal
+V. Public Comment Period
 
-[[Page 38520]]
+    EPA announced its proposal to approve the Clean Harbors NMV 
+petition and provided 30-day public comment period on December 1, 2025. 
+The comment period closed on January 30, 2026 (90 FR 61356, December 
+31, 2025). EPA received three comments in response to the proposed NMV 
+approval. The public comments and EPA's responses are available in the 
+docket for this action (EPA-R08-RCRA-2025-0420). Portions of the three 
+comments were outside the scope of this action; EPA addresses the 
+relevant issues in the Response to Comments document provided in the 
+docket.
 
-governments or preempt Tribal law as specified by Executive Order 13175 
-(65 FR 67249, November 9, 2000).
-    This rule is exempt from the Congressional Review Act because it is 
-a rule of particular applicability.
-    Under section 307(b)(1) of the CAA, petitions for judicial review 
-of this action must be filed in the United States Court of Appeals for 
-the appropriate circuit by August 25, 2026. Filing a petition for 
-reconsideration by the Administrator of this final rule does not affect 
-the finality of this action for the purposes of judicial review nor 
-does it extend the time within which a petition for judicial review may 
-be filed, and shall not postpone the effectiveness of such rule or 
-action. This action may not be challenged later in proceedings to 
-enforce its requirements. (See section 307(b)(2).)
+VI. Conclusion
 
-List of Subjects in 40 CFR Part 52
+    The agency concludes that Clean Harbors has demonstrated, to a 
+reasonable degree of certainty, that there will be no migration of 
+hazardous constituents beyond the unit boundary for treated hazardous 
+wastes temporarily stored in put piles within permitted Subtitle C 
+hazardous waste Landfill Cell 8 while awaiting verification of 
+compliance with the LDR standards. Accordingly, EPA hereby approves the 
+NMV for Clean Harbors' Grassy Mountain facility, subject to the terms 
+and conditions stated herein and as presented in the petition found in 
+the docket.
 
-    Environmental protection, Air pollution control, Incorporation by 
-reference, Intergovernmental relations, Nitrogen oxides, Ozone, 
-Volatile organic compounds.
+List of Subjects in 40 CFR Part 268
 
-    Dated: June 15, 2026.
-Anne Vogel,
-Regional Administrator, Region 5.
+    Environmental protection, Hazardous waste, Variances.
 
-    For the reasons stated in the preamble, title 40 CFR part 52 is 
-amended as follows:
-
-PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
-
-0
-1. The authority citation for part 52 continues to read as follows:
-
-    Authority:  42 U.S.C. 7401 et seq.
-
-0
-2. In Sec.  52.1870, the table in paragraph (d) is amended by:
-0
-a. Adding four entries for ``Cleveland-Cliffs Cleveland Works'' before 
-the entry for ``Excello Specialty'';
-0
-b. Adding an entry for ``Henkel'' before the entry for ``Hilton 
-Davis''; and
-0
-c. Adding an entry for ``Lubrizol'' before the entry for ``Luria 
-Brothers''.
-    The additions read as follows:
-
-Sec.  52.1870  Identification of plan.
-
-* * * * *
-    (d) * * *
-
-                                  EPA-Approved Ohio Source-Specific Provisions
-----------------------------------------------------------------------------------------------------------------
-                                                           Ohio
-          Name of source                  No.            effective      EPA approval date         Comments
-                                                           date
-----------------------------------------------------------------------------------------------------------------
- 
-                                                  * * * * * * *
-Cleveland-Cliffs Cleveland Works.  P0138035.........      11/13/2025  6/26/2026, 91 FR      Only sections
-                                                                       [INSERT FEDERAL       C.1.b)(1)e.,
-                                                                       REGISTER PAGE WHERE   C.1.b)(2)a.,
-                                                                       THE DOCUMENT          C.1.d)(2),
-                                                                       BEGINS].              C.1.d)(3),
-                                                                                             C.1.d)(4),
-                                                                                             C.1.e)(2),
-                                                                                             C.1.e)(3),
-                                                                                             C.1.e)(5),
-                                                                                             C.1.f)(1)d.,
-                                                                                             C.1.f)(1)f., and
-                                                                                             C.1.f)(2).
-Cleveland-Cliffs Cleveland Works.  P0138036.........      11/13/2025  6/26/2026, 91 FR      Only sections
-                                                                       [INSERT FEDERAL       C.1.b)(1)i.,
-                                                                       REGISTER PAGE WHERE   C.1.b)(1) j.,
-                                                                       THE DOCUMENT          C.1.b)(1) k.,
-                                                                       BEGINS].              C.1.b)(2)g.,
-                                                                                             C.1.b)(2)h.,
-                                                                                             C.1.d)(6).,
-                                                                                             C.1.d)(7).,
-                                                                                             C.1.e)(6), and
-                                                                                             C.1.f)(1)g.
-Cleveland-Cliffs Cleveland Works.  P0138136.........      11/13/2025  6/26/2026, 91 FR      Only sections B.11.,
-                                                                       [INSERT FEDERAL       C.1.b)(1)g.,
-                                                                       REGISTER PAGE WHERE   C.1.d)(7),
-                                                                       THE DOCUMENT          C.1.e)(5),
-                                                                       BEGINS].              C.2.b)(1)g,
-                                                                                             C.2.d)(9),
-                                                                                             C.2.e)(6),
-                                                                                             C.3.b)(1)e.,
-                                                                                             C.3.d)(4),
-                                                                                             C.3.e)(4),
-                                                                                             C.4.b)(1)f.,
-                                                                                             C.4.d)(9),
-                                                                                             C.4.e)(6),
-                                                                                             C.5.b)(1)d.,
-                                                                                             C.5.b)(1)e.,
-                                                                                             C.5.b)(1)f.,
-                                                                                             C.5.b)(2)d.,
-                                                                                             C.5.d)(4),
-                                                                                             C.5.d)(5),
-                                                                                             C.5.e)(4),
-                                                                                             C.5.e)(5),
-                                                                                             C.5.e)(6),
-                                                                                             C.5.f)(1)e.,
-                                                                                             C.6.b)(1)d.,
-                                                                                             C.6.b)(1)e.,
-                                                                                             C.6.b)(1)f.,
-                                                                                             C.6.b)(2)d,
-                                                                                             C.6.d)(3),
-                                                                                             C.6.e)(4),
-                                                                                             C.6.f)(1)b,
-                                                                                             C.7.b)(1)h.,
-                                                                                             C.7.b)(1)i.,
-                                                                                             C.7.b)(1)j.,
-                                                                                             C.7.b)(2)f.,
-                                                                                             C.7.d)(5),
-                                                                                             C.7.d)(6),
-                                                                                             C.7.d)(7),
-                                                                                             C.7.e)(6),
-                                                                                             C.7.e)(7),
-                                                                                             C.7.f)(1)e.,
-                                                                                             C.8.b)(1)e.,
-                                                                                             C.8.b)(1)f.,
-                                                                                             C.8.b)(1)g.,
-                                                                                             C.8.b)(2)e.,
-                                                                                             C.8.d)(2),
-                                                                                             C.8.d)(3),
-                                                                                             C.8.e)(4),
-                                                                                             C.8.e)(5),
-                                                                                             C.8.f)(1)d.,
-                                                                                             C.9.b)(1)e.,
-                                                                                             C.9.b)(1)f.,
-                                                                                             C.9.b)(2)f.,
-                                                                                             C.9.d)(3),
-                                                                                             C.9.e)(4), and
-                                                                                             C.9.f)(1)e.
-Cleveland-Cliffs Cleveland Works.  P0138521.........      11/13/2025  6/26/2026, 91 FR      Only sections
-                                                                       [INSERT FEDERAL       C.1.b)(1)e.,
-                                                                       REGISTER PAGE WHERE   C.1.b)(1)f.,
-                                                                       THE DOCUMENT          C.1.b)(2)c., and
-                                                                       BEGINS].              C.1.f)(1).
- 
-                                                  * * * * * * *
-Henkel...........................  P0138691.........      11/18/2025  6/26/2026, 91 FR      Only sections B.4.,
-                                                                       [INSERT FEDERAL       C.1.b)(1).g.,
-                                                                       REGISTER PAGE WHERE   C.1.c)(2),
-                                                                       THE DOCUMENT          C.1.d)(5),
-                                                                       BEGINS].              C.1.e)(7),
-                                                                                             C.1.f)(2),
-                                                                                             C.2.b)(1)f.,
-                                                                                             C.2.c)(2),
-                                                                                             C.2.d)(6),
-                                                                                             C.2.e)(7),
-                                                                                             C.2.f)(2),
-                                                                                             C.3.b)(1)g.,
-                                                                                             C.3.c)(2),
-                                                                                             C.3.d)(5),
-                                                                                             C.3.e)(7),
-                                                                                             C.3.f)(2),
-                                                                                             C.4.b)(1)g.,
-                                                                                             C.4.c)(4),
-                                                                                             C.4.d)(5),
-                                                                                             C.4.e)(6),
-                                                                                             C.4.f)(2),
-                                                                                             C.5.b)(1)j.,
-                                                                                             C.5.c)(3),
-                                                                                             C.5.d)(6),
-                                                                                             C.5.e)(9),
-                                                                                             C.5.f)(2),
-                                                                                             C.6.b)(1)d.,
-                                                                                             C.6.c)(2),
-                                                                                             C.6.d)(2),
-                                                                                             C.6.e)(4),
-                                                                                             C.6.f)(3),
-                                                                                             C.7.b)(1)d.,
-                                                                                             C.7.c)(2),
-                                                                                             C.7.d)(2),
-                                                                                             C.7.e)(4), and
-                                                                                             C.7.f)(3).
- 
-
-[[Page 38521]]
-
- 
-                                                  * * * * * * *
-Lubrizol.........................  P0138405.........      10/01/2025  6/26/2026, 91 FR      Only sections B.2,
-                                                                       [INSERT FEDERAL       B.3., B.4., B.5.,
-                                                                       REGISTER PAGE WHERE   C.1.b)(1)b.,
-                                                                       THE DOCUMENT          C.1.b)(2)a.,
-                                                                       BEGINS].              C.1.d)(1),
-                                                                                             C.1.e)(1), and
-                                                                                             C.1.f)(2).
- 
-                                                  * * * * * * *
-----------------------------------------------------------------------------------------------------------------
-
-* * * * *
-
-[FR Doc. 2026-12920 Filed 6-25-26; 8:45 am]
+    Dated: June 8, 2026.
+Cyrus Western,
+Regional Administrator, Region 8.
+[FR Doc. 2026-12544 Filed 6-22-26; 8:45 am]
 BILLING CODE 6560-50-P

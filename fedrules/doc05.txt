@@ -1,2471 +1,617 @@
-[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
+[Federal Register Volume 91, Number 119 (Tuesday, June 23, 2026)]
 [Rules and Regulations]
-[Pages 38543-38563]
+[Pages 37336-37341]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-12951]
+[FR Doc No: 2026-12576]
 
-=======================================================================
 -----------------------------------------------------------------------
 
 DEPARTMENT OF THE INTERIOR
 
 Fish and Wildlife Service
 
-50 CFR Part 20
+50 CFR Part 92
 
-[Docket No. FWS-HQ-MB-2026-1421; FF09M32000-267-FXMB1231099BPP0]
-RIN 1018-BI04
+[Docket No. FWS-R7-MB-2025-1694; FXMB12610700000-267-FF07M01000]
+RIN 1018-BI70
 
-Process for Authorizing Seasonal Migratory Game Bird Hunting
+Migratory Bird Subsistence Harvest in Alaska
 
 AGENCY: Fish and Wildlife Service, Interior.
 
-ACTION: Direct final rule; request for comments.
+ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: This direct final rule changes the administrative process for 
-authorizing seasonal migratory game bird hunting in the United States. 
-Migratory game bird hunting regulations are currently promulgated 
-annually to provide opportunities for recreation and sustenance; aid 
-Federal, State, and Tribal governments in the management of migratory 
-game birds; and allow harvests at levels compatible with migratory game 
-bird population status and habitat conditions.The U.S. Fish and 
-Wildlife Service (Service or we) is adopting a more efficient 
-administrative process for authorizing seasonal migratory game bird 
-hunting. The Service will issue a memorandum for migratory game bird 
-hunting once every 3 years. The Service will continue to make annual 
-decisions on harvest levels and will update the memorandum sooner than 
-3 years if changes are prescribed by our decision frameworks. The 
-process eliminates the need for subsequent annual Federal regulation 
-promulgation and rulemaking and is expected to increase efficiency; 
-better meet State, Tribal, and Federal rulemaking constraints; and 
-reduce the complexity and costs. Our goal is to better serve State 
-partners and the hunting public while continuing to meet the legal and 
-conservation purposes of the Migratory Bird Treaty Act.Tribes are 
-already authorized under a similar process.
+SUMMARY: We, the U.S. Fish and Wildlife Service (Service), are revising 
+the migratory bird subsistence harvest regulations in Alaska. 
+Subsistence harvest regulations allow for the continuation of customary 
+and traditional subsistence uses of migratory birds in Alaska and 
+establish when and where the harvesting of certain migratory birds may 
+occur within each subsistence region. Subsistence harvest regulations, 
+including the changes set forth in this document, were developed 
+through a cooperative process involving the Service, the Alaska 
+Department of Fish and Game, and Alaska Native representatives.
 
-DATES: This final rule is effective on August 25, 2026, without further 
-action, unless significant adverse comments are received by July 27, 
-2026. If significant adverse comments are received, we will publish a 
-notification in the Federal Register before the effective date either 
-withdrawing all or part of the rule or issuing a new final rule that 
-responds to any significant adverse comments.
+DATES: This rule takes effect on June 23, 2026.
 
-ADDRESSES: 
+ADDRESSES: You may inspect the comments received on the March 9, 2026, 
+proposed rule at the Federal eRulemaking Portal:  http://www.regulations.gov  in Docket No. FWS-R7-MB-2025-1694.
 
-[[Page 38544]]
-
-    Comment submission: All submissions must include the docket number 
-(FWS-HQ-MB-2026-1421) for this document. You may submit comments by one 
-of the following methods:
-      Electronic submission: Federal eRulemaking Portal at: 
- https://www.regulations.gov . In the Search box, enter FWS-HQ-MB-2026-
-1421, which is the docket number for this action. Then click the Search 
-button. On the resulting page, you may submit a comment by clicking on 
-``Comment.'' Please ensure that you have found the correct document 
-before submitting your comments.
-      U.S. mail: Public Comments Processing, Attn: Docket No. 
-FWS-HQ-MB-2026-1421, Policy and Regulations Branch, U.S. Fish and 
-Wildlife Service, MS: PRB (JAO/3W), 5275 Leesburg Pike, Falls Church, 
-VA 22041-3803.
-    Comments submitted through any method not authorized in this 
-document, or sent to an address not listed here, will not be 
-considered. We will not accept comments via email, fax, or hand 
-delivery. We are not required to consider comments that are submitted 
-after the comment period ends or that are submitted via a method 
-outside of these instructions. Comments containing profanity, 
-vulgarity, threats, or other inappropriate content will not be 
-considered.
-    We will post all comments at  https://www.regulations.gov . You may 
-request that we withhold personal identifying information from public 
-review; however, we cannot guarantee that we will be able to do so.
-    Document availability: Comments and materials we receive, as well 
-as supporting documentation we used in preparing this final rule, will 
-be available for public inspection on  https://www.regulations.gov  at 
-Docket No. FWS-HQ-MB-2026-1421, or by appointment, during normal 
-business hours, at the U.S. Fish and Wildlife Service, Division of 
-Migratory Bird Management, 5275 Leesburg Pike, Falls Church, Virginia.
-
-FOR FURTHER INFORMATION CONTACT: Jerome Ford, U.S. Fish and Wildlife 
-Service, Department of the Interior, (703) 358-2606. Individuals in the 
-United States who are deaf, deafblind, hard of hearing, or have a 
-speech disability may dial 711 (TTY, TDD, or TeleBraille) to access 
-telecommunications relay services. Individuals outside the United 
-States should use the relay services offered within their country to 
-make international calls to the point of contact in the United States. 
-Please see Docket No. FWS-HQ-MB-2026-1421 on  https://www.regulations.gov  for a document that summarizes this final rule.
+FOR FURTHER INFORMATION CONTACT: Wendy Loya, U.S. Fish and Wildlife 
+Service, 1011 E. Tudor Road, Mail Stop 201, Anchorage, AK 99503; (907) 
+227-2942. Individuals in the United States who are deaf, deafblind, 
+hard of hearing, or have a speech disability may dial 711 (TTY, TDD, or 
+TeleBraille) to access telecommunications relay services. Individuals 
+outside the United States should use the relay services offered within 
+their country to make international calls to the point of contact in 
+the United States.
 
 SUPPLEMENTARY INFORMATION:
 
-Why is the Service using a direct final rule?
-
-    The Service is issuing this rule as a direct final rule. Although 
-the Administrative Procedure Act (APA; 5 U.S.C. 551-559) generally 
-requires agencies to engage in notice and comment rulemaking, the APA 
-provides an exception when the agency ``for good cause finds'' that 
-notice and comment are ``impracticable, unnecessary, or contrary to the 
-public interest'' (5 U.S.C. 553(b)(B)). The Service has determined that 
-notice and comment are unnecessary because this rule is 
-noncontroversial; of a minor, technical nature; involves little agency 
-discretion; and is unlikely to receive any significant adverse 
-comments. Significant adverse comments are those that oppose the 
-revision of this direct final rule and raise, alone or in combination, 
-(1) reasons why the revision of the rule is inappropriate, including 
-challenges to the revision's underlying premise; or (2) serious 
-unintended consequences of the revision. A comment recommending an 
-addition to the rule will not be considered significant and adverse 
-unless the comment explains how this direct final rule would be 
-ineffective without the addition.
-    The Service is publishing this rule concurrently with a proposed 
-rule because we view this as a noncontroversial action and anticipate 
-no adverse comment since this is a change only in internal 
-administrative process to increase efficiency in authorizing seasonal 
-migratory game bird hunting. If we receive significant adverse comments 
-by July 27, 2026, we may withdraw all or part of this direct final rule 
-or issue a revised final rule. For further information about commenting 
-on this rule, see the ADDRESSES section above.
-
 Background
 
-    Migratory game birds are species designated in the conventions 
-between the United States and several foreign nations for the 
-protection and management of migratory birds. The conventions restrict 
-migratory game bird hunting to the fall-winter period (1 September-10 
-March) and not more than 3.5 months (interpreted as 107 days) for any 
-species. Under the Migratory Bird Treaty Act (MBTA; 16 U.S.C. 703-712), 
-the Secretary of the Interior is authorized and directed to determine 
-when and to what extent ``hunting, taking, capture, killing, 
-possession, sale, purchase, shipment, transportation, carriage, or 
-export of any such bird, or any part, nest, or egg'' of migratory game 
-birds can take place compatible with the terms of the conventions, and 
-to adopt regulations for this purpose (16 U.S.C. 704(a)). The Secretary 
-is authorized and directed to give ``due regard to the zones of 
-temperature and to the distribution, abundance, economic value, 
-breeding habits, and times and lines of migratory flight of such 
-birds'' (16 U.S.C. 704(a)). This responsibility has been delegated to 
-the Service as the lead Federal agency for managing and conserving 
-migratory birds in the United States.
-    The Service established regulations governing migratory game bird 
-hunting at title 50 part 20 of the Code of Federal Regulations (50 CFR 
-20). Currently, the Service publishes additional annual regulations (50 
-CFR 20 subpart K) to authorize migratory game bird hunting for the 
-season. These regulations set the parameters for open seasons including 
-season dates, season lengths, shooting hours, daily bag and possession 
-limits, areas where hunting may occur, and other restrictions based on 
-biological data. The annual regulations ensure that harvest occurs at 
-levels compatible with migratory game bird population demographics, 
-including production and survival, which vary in space and time with 
-habitat conditions. These conditions may differ over North America, and 
-within the United States. (For purposes of our regulations, and in this 
-final rule, the term ``States'' includes the territories of Puerto Rico 
-and the U.S. Virgin Islands, consistent with 50 CFR 10.12).
-    Migratory game birds use four primary migratory routes in North 
-America. Because of the unique biological characteristics and the 
-relative number of hunters in these routes, the Service adopted the 
-flyway structure for administering migratory bird resources within the 
-United States, referred to as the flyways (Atlantic, Mississippi, 
-Central, and Pacific). The current annual migratory bird hunting 
-regulations at 50 CFR part 20 subpart K establish regulations for each 
-administrative flyway including all or portions of States in the 48 
-conterminous United States. We may have separate regulations in Alaska, 
-Hawaii, Puerto Rico, and the U.S. Virgin Islands.
-    Each administrative flyway has a Flyway Council, a formal 
-organization established through the Association of Fish and Wildlife 
-Agencies. Flyway Councils are administrative bodies that
-
-[[Page 38545]]
-
-forge cooperation among public wildlife agencies for the purpose of 
-protecting and conserving migratory birds that inhabit North America. 
-Flyway Councils are composed of one member from each State within the 
-Flyway, as well as States in Mexico and Provinces in Canada that share 
-migratory bird populations. The Flyway Councils coordinate and collect 
-information on the status of migratory game birds, establish regulatory 
-decision frameworks, review available biological information, and make 
-recommendations for appropriate parameters for migratory game bird 
-hunting regulations. However, voting members are only those 
-representing States and Territories within the United States. Service 
-representatives participate in the Flyway Councils. Meetings typically 
-occur every March and September and are open to the public.
-    To support the annual regulation process, Service biologists 
-gather, analyze, and interpret biological survey data and provide this 
-information to all those involved in the process through a series of 
-published status reports and presentations to Flyway Councils and other 
-interested parties. The Service considers abundance of migratory game 
-birds and other biological factors; and therefore, undertake several 
-surveys throughout the year in conjunction with Service Regional 
-Offices, the Canadian Wildlife Service, and State and Provincial 
-wildlife management agencies. To determine the appropriate annual 
-regulations authorizing hunting for certain game bird species and 
-populations, we consider factors such as population size and trend, 
-geographical distribution, reproductive capacity, condition of breeding 
-and wintering habitat, number of hunters, and anticipated harvest.
-    The Service Migratory Bird Regulations Committee (SRC) and Flyway 
-Councils recommend to the Service appropriate parameters for State and 
-Tribal migratory game bird hunting regulations. The SRC conducts 
-meetings, generally in the spring and fall, to review and discuss 
-information on the status of migratory game birds and recommendations 
-from the four Flyway Councils and the Service. The SRC then develops 
-recommendations for parameters for annual State and Tribal migratory 
-game bird hunting regulations. In accordance with current regulations 
-at 50 CFR 20.153, these meetings are open to public observation, and 
-observers may submit written comments to the Service on the matters to 
-be discussed. The SRC then submits recommendations to the Service for 
-review. If approved, they are published in one of the several annual 
-rulemaking documents for public comment.
-
-Current Process for Authorizing Migratory Game Bird Hunting
-
-    The current administrative process for authorizing seasonal 
-migratory game bird hunting requires annual promulgation of State-
-specific Federal regulations to open the hunting season. These annual 
-regulations expire at the end of the hunting season. The process 
-involves publishing a series of at least four proposed and final 
-rulemaking documents in the Federal Register including the following:
-
-    (1) A proposed rule (preliminary) that provides the process, 
-regulatory schedule, and initial proposals for seasons, limits, and 
-other regulations for annual migratory game bird hunting.
-    (2) A proposed rule that proposes the parameters within which 
-States may select hunting seasons. The parameters specify season 
-dates, season lengths, shooting hours, daily bag and possession 
-limits, areas where hunting may occur, and other restrictions.
-    (3) A final rule that establishes the final parameters within 
-which States and Tribes may select hunting seasons, including season 
-dates, season length, shooting hours, daily bag and possessions 
-limits, areas where hunting may occur, and other restrictions. This 
-final rule incorporates public comments received on the proposed 
-frameworks rule and recommendations from the Flyway Councils.
-    (4) A final rule that sets forth the annual regulations in 
-subpart K of 50 CFR part 20 to authorize the migratory game bird 
-hunting seasons in each State. This final rule is developed based on 
-a process where each State submits their selection of annual hunting 
-seasons within our parameters.
-
-    The process of establishing annual migratory game bird hunting 
-regulations is both complex and time intensive. It begins with 
-extensive data collection from May through December of the preceding 
-calendar year, followed by several months of coordination with state 
-agencies through the Flyway Councils. These efforts culminate in 
-regulatory decisions made by the SRC. Each phase of this process is 
-tightly sequenced, limiting flexibility in the timing of regulatory 
-actions. Additionally, the targeted opening date of September 1 for 
-hunting seasons imposes a hard deadline under which regulations must be 
-finalized through the federal rulemaking process before any seasons can 
-legally begin. This provides only a few months to complete a 4-
-publication rulemaking process every year. The Service has narrowly met 
-publication deadlines in the last 8 years (2018-2025 hunting seasons; 
-average publication of final rule 7 days prior to the start of the 
-hunting season), placing undue strain on States, the public, and the 
-Service. We provided a detailed overview of the current process and 
-administrative schedule in our August 6, 2015, proposed rule for the 
-2016-17 migratory game bird hunting season (80 FR 47388).
-
-New Process for Authorizing Seasonal Migratory Game Bird Hunting
-
-    To alleviate the time constraint issues, the Service is issuing 
-this direct final rule to change the process for authorizing seasonal 
-migratory game bird hunting. This rule will codify in Federal 
-regulations a streamlined annual process for authorizing migratory game 
-bird hunting. This will replace the need for annual Federal regulation 
-promulgation and reduce the need for future rulemaking in the Federal 
-Register. The process will be codified in our regulations at 50 CFR 
-part 20, subparts H and K, and include the following:
-
-    (1) The process for determining the parameters (``authorization 
-conditions'') within which States and Tribes may establish their 
-annual regulations;
-    (2) The process for communicating the authorization conditions 
-to States and Tribes through a Migratory Game Bird Hunting (MGBH) 
-memorandum and notice of availability in the Federal Register; and
-    (3) Authorization for States and Tribes to establish migratory 
-game bird hunting regulations in accordance with the authorization 
-conditions set forth in the MGBH memorandum and regulations at 50 
-CFR part 20.
-
-    Federal regulation of migratory game bird hunting has been in place 
-since 1918 under the MBTA, which directs the Secretary of the Interior 
-to authorize hunting based on periodic assessments of bird population 
-status and habitat conditions. The original regulatory process was 
-straightforward due to limited biological information and relatively 
-low hunter participation. As scientific understanding, data 
-availability, and hunter participation increased, the regulatory 
-process expanded in complexity to ensure resultant regulations were 
-based on sound biological principles for conservation and hunting 
-opportunities.
-    Over time, the annual rulemaking process has become increasingly 
-burdensome for States, the public, and the Service due to compressed 
-publication timelines, administrative inefficiencies, and the growing 
-volume of technical material required to support annual updates. These 
-challenges have constrained transparency and limit the ability of 
-States, Tribes, and the public to plan effectively.
-    The new process maintains all statutory obligations under the MBTA
-
-[[Page 38546]]
-
-while improving administrative efficiency. Section 704(a) grants the 
-Secretary broad discretion to issue regulations governing take and does 
-not require annual rulemaking. Likewise, section 704(c)(3) imposes no 
-annual requirement and ensures consistency with amendments enacted in 
-the Dingell Act of 2019, including the January 31 framework closing 
-date for hunting ducks, mergansers, and coots. Together, these 
-provisions allow continued flexibility in how regulatory decisions are 
-issued while fully adhering to statutory direction. The new approach 
-retains annual biological assessments and decision-making but 
-eliminates unnecessary repetition in the administrative process, 
-thereby enhancing timeliness, clarity, and public accessibility.
-    By codifying these provisions in regulations, annual rulemaking 
-will no longer be required to authorize seasonal migratory game bird 
-hunting. Future rulemaking will be infrequent and undertaken only if 
-changes to the underlying process are warranted. The process is similar 
-to that established for Tribes (50 CFR 20.110) where Tribes are 
-authorized to establish hunting regulations within our basic 
-regulations and annual parameters. The process also aligns with the 
-regulations at 50 CFR 92 authorizing Alaska subsistence hunting, where 
-the regulations do not expire and thus do not have to be established 
-annually before seasonal hunting may occur.
-    We are not making any changes to the biological approach or the 
-process used to determine the appropriate parameters from which States 
-and Tribes may establish their migratory game bird hunting regulations. 
-The Service will continue biological monitoring and assessment 
-consistent with the programmatic document, ``Second Final Supplemental 
-Environmental Impact Statement: Issuance of Annual Regulations 
-Permitting the Sport Hunting of Migratory Birds (EIS 20130139).
-    This rulemaking changes the administrative process for authorizing 
-seasonal migratory game bird hunting. We are making these changes to 
-increase efficiency; better meet Federal, State, and Tribal rulemaking 
-constraints; and reduce the complexity and costs associated with 
-promulgating annual migratory game bird hunting regulations. Our goal 
-is to better serve State and Tribal partners and the hunting public 
-while continuing to meet the legal and conservation purposes of the 
-MBTA.
-    The nationwide economic effects generated by migratory game bird 
-hunting are substantial, as detailed in the most recent annual 
-rulemaking, estimated at about $2.7 billion in associated economic 
-activity. Small, incremental adjustments made to Federal migratory bird 
-hunting authorization conditions (limits) are not expected to 
-materially alter those underlying economic inputs nor impose additional 
-Federal costs. As a result, preparing a full Regulatory Impact Analysis 
-for every annual MGBH memorandum would provide limited additional value 
-for Federal decision-making. Annual adjustments to season lengths or 
-bag limits have historically produced minimal and highly variable 
-economic effects, and available evidence shows hunter participation 
-remains stable despite such changes. As all previous annual rulemakings 
-under the current administrative process have been ``economically 
-significant'' actions under section 3(f)(1) of E.O. 12866, we intend to 
-continue preparing a full Regulatory Impact Analysis, following the 
-directives in E.O. 12866 for economically significant actions and the 
-guidelines in Circular A-4, for the primary MGBH memorandum issued 
-every 3 years under the new process to ensure continued sustainable 
-harvest levels while also minimizing negative economic impacts.
-    Table 1 provides a comparison between the existing and new 
-processes for each major component in the process of authorizing 
-seasonal migratory game bird hunting. The following sections describe 
-the changes in greater detail.
-
-              Table 1--Proposed Changes to the Process for Authorizing Migratory Game Bird Hunting
-----------------------------------------------------------------------------------------------------------------
-              Component                        Purpose              Current process          Proposed process
-----------------------------------------------------------------------------------------------------------------
-Regulations (50 CFR Part 20 subpart    Authorize seasonal       Promulgated annually as  Codifies the underlying
- K).                                    migratory game bird      State hunting seasons    process for
-                                        hunting based on         in a series of four      authorizing migratory
-                                        biological data.         rulemaking documents.    game bird hunting.
-Decision Frameworks..................  Provide the structured   Described in preambles   No change.
-                                        set of procedures,       in rulemaking
-                                        rules, models, and       documents and adjusted
-                                        information criteria     through rulemaking or
-                                        that govern how          technical updates.
-                                        authorization
-                                        conditions are
-                                        selected.
-Authorization Conditions.............  Establish the            Set annually based on    Determined by applying
-                                        parameters (season       biological data;         annual biological data
-                                        dates, lengths, daily    published as proposed    to decision
-                                        bag and possession       and final rules in the   frameworks; published
-                                        limits, shooting         Federal Register.        as a memorandum and
-                                        hours, hunting areas,                             notice in the Federal
-                                        and other                                         Register every 3 years
-                                        restrictions) from                                (or sooner if changes
-                                        which States and                                  are prescribed by
-                                        Tribes may establish                              decision frameworks).
-                                        their annual hunting
-                                        seasons.
-Migratory Game Bird Hunting            Communicate the          N/A....................  Issued every 3 years
- memorandum.                            authorization                                     (or sooner if changes
-                                        conditions to States                              are prescribed by
-                                        and Tribes via our                                decision frameworks);
-                                        website; announced in                             availability announced
-                                        the Federal Register.                             in the Federal
-                                                                                          Register as a notice
-                                                                                          with a 30-day comment
-                                                                                          period.
-----------------------------------------------------------------------------------------------------------------
-
-Regulation Promulgation
-
-    This rulemaking changes 50 CFR 20 subparts H, K, and N. In subpart 
-H, we revise Sec. Sec.  20.71 and 20.72 to provide that a violation of 
-our regulations or of any State or Tribal law or regulation for 
-migratory game bird hunting constitutes a violation of Federal law. 
-However, we retain existing language in subpart H that prohibits take 
-of migratory game birds except as provided in Federal, State, and 
-Tribal hunting regulations.
-    In subpart K, we remove the regulations at Sec. Sec.  20.100-20.107 
-(annual
-
-[[Page 38547]]
-
-seasons and limits) and replace them with the procedures and provisions 
-most recently adopted in earlier rules for establishing annual 
-regulations for migratory game bird hunting, and we will no longer 
-establish these through an annual rulemaking process. We retain in 
-subpart K the current regulations in Sec.  20.108 (nontoxic shot zones) 
-and Sec.  20.110 (regulations for certain Federal Indian reservations 
-and ceded lands), as the regulations in these sections are outside the 
-scope of this rulemaking action. We also codify in our regulations at 
-Sec.  20.109 (extended seasons for taking migratory game birds by 
-falconry) the unchanged parameters for special falconry seasons 
-previously specified annually in preambles to rulemaking documents 
-since at least the 2000-01 season. For the most recent final rule 
-adopting the season parameters see 89 FR 68500 at 68518 (under Q. 
-Special Falconry Regulations, August 26, 2024).
-    We eliminate subpart N by moving the existing regulations regarding 
-the Service Migratory Bird Regulations Committee and Flyway Councils to 
-subpart K, which describes the administrative process for authorizing 
-States and Tribes to establish their regulations for migratory game 
-bird hunting.
-    We are also making minor, nonsubstantive terminology changes to 
-subpart B at Sec.  20.11, subpart C at Sec.  20.21 and Sec.  20.23, and 
-subpart K at Sec.  20.110 to align with the new process. At Sec.  
-20.11, we are making additional nonsubstantive edits to correct two 
-typographical errors. We further update subpart C at Sec.  20.21 to 
-recognize the split of cackling goose (Branta hutchinsii) from Canada 
-goose (Branta canadensis) as separate species (see 85 FR 21282, April 
-16, 2020, and 85 FR 51854 at 51860, August 21, 2020) and to clarify the 
-regulatory language consistent with the final rule on hunting methods 
-for resident Canada geese (73 FR 65274, November 3, 2008).
-
-Migratory Game Bird Hunting Memorandum
-
-    The Service will publish the Migratory Game Bird Hunting (MGBH) 
-memorandum and notice in the Federal Register setting forth the 
-authorization conditions from which States and Tribes may establish 
-their migratory game bird hunting regulations. Authorization conditions 
-include season dates, season lengths, shooting hours, daily bag and 
-possession limits, areas where hunting may occur, and other 
-restrictions for migratory game bird hunting.
-    The MGBH memorandum will authorize seasonal hunting for certain 
-designated migratory game bird groups or species of in the conterminous 
-United States, Alaska, Hawaii, Puerto Rico, and the U.S. Virgin 
-Islands. Migratory game birds are defined in regulations at 50 CFR part 
-20, subpart B, at Sec.  20.11 as those species included in the terms of 
-the Conventions for the protection of migratory birds and belonging to 
-five families of birds and for which open seasons are authorized in 50 
-CFR part 20. Open hunting seasons may include certain designated 
-members of the avian families Anatidae (ducks, geese, and swans); 
-Columbidae (doves and pigeons); Gruidae (cranes); Rallidae (rails, 
-coots, and gallinules); and Scolopacidae (shorebirds including woodcock 
-and snipe). The Service maintains a list at 50 CFR 10.13 of all species 
-considered migratory birds and protected by the MBTA, and we review and 
-update this list regularly (see 88 FR 49310, July 31, 2023, for the 
-most recent update). There are currently 185 migratory game bird 
-species that may be subject to open hunting seasons based on the game 
-bird families identified in Sec.  20.11 and associated species at Sec.  
-10.13. The regulations for the 2024-25 hunting seasons established open 
-hunting seasons in at least some part of the United States for 93 of 
-these species. We will not authorize hunting through the MGBH 
-memorandum for any migratory game bird species group (e.g., ducks) or 
-specific species that was not authorized in the 2024-25 hunting season 
-(89 FR 68500, August 26, 2024) without initiating a rulemaking. We do 
-not currently expect that there will be a need to add any species to 
-the list of game birds with open hunting seasons as this has generally 
-been unchanged for decades.
-    To determine the authorization conditions, we will apply the most 
-current information on game bird demographics and habitat conditions to 
-the decision frameworks previously adopted through rulemaking or notice 
-published in the Federal Register to establish the authorization 
-conditions. Decision frameworks are the structured set of procedures, 
-rules, models, and information criteria that govern the selection of 
-appropriate annual regulations from a set of alternatives based on the 
-status of migratory game bird populations and habitat conditions. 
-Decision frameworks are described in more detail below under 
-``Determination of the Authorization Conditions for Migratory Game Bird 
-Hunting.'' This rulemaking does not change the decision frameworks or 
-their use in making determinations, consistent with the MBTA and the 
-four associated conventions.
-    We will make available the MGBH memorandum at the address indicated 
-in FOR FURTHER INFORMATION CONTACT and on our website at  https://www.fws.gov/program/migratory-birds . The notice will include references 
-to the supporting biological data we used in preparing the MGBH 
-memorandum. The MGBH memorandum will include recommendations from the 
-Flyway Councils, if applicable. The Service will issue the MGBH 
-memorandum to set the authorization conditions for migratory game bird 
-hunting once every 3 years on or before February 28. The Service will 
-continue to make annual decisions on harvest levels and will update the 
-memorandum sooner than 3 years if changes are prescribed by our 
-decision frameworks. In this case, we will publish an updated notice 
-and MGBH memorandum on or before February 28 with the specific changes. 
-With respect to the 2026-27 season, the MGBH memorandum will be 
-available shortly after the publication of this rulemaking, no later 
-than August 31 (and the provision at Sec.  20.121(b) will become 
-effective for the next season); the comment period will still be 30 
-days.
-    The notice of availability of the MGBH memorandum in the Federal 
-Register will provide for a comment period of at least 30 days. We will 
-consider all comments received but may not respond in detail to 
-nonsubstantive comments. Consistent with our current process, we will 
-summarize all relevant, substantive comments that we receive during the 
-comment period. If comments warrant changes to the MGBH memorandum or 
-if administrative or nonsubstantive corrections are identified, we will 
-update the memorandum clearly identifying such changes without further 
-public comment. Substantive comments that are determined by the Service 
-to not warrant changes may be responded to after the closing date in 
-any subsequent notice or MGBH memorandum.
-    States and Tribes will establish regulations for migratory game 
-bird hunting seasons through their own development processes that are 
-within the Federal authorization conditions set forth in the MGBH 
-memorandum and in accordance with Federal regulations. State and Tribal 
-regulations for migratory game bird hunting will be federally 
-authorized provided they are within the Federal authorization 
-conditions provided in the MGBH memorandum and notice in the Federal 
-Register, our regulations at 50 CFR part
-
-[[Page 38548]]
-
-20, and any other applicable Federal regulations.
-    The Service will no longer continue the current practice of 
-publishing State annual hunting regulations as Federal regulations. We 
-recognize that this may be a transition for some states. Therefore, the 
-Service may continue to publish State annual hunting regulations for up 
-to 3 years for those few States that do not currently have their own 
-processes for issuing annual migratory game bird hunting regulations. 
-These State annual regulations will be published as a Federal policy 
-memorandum, separate from the MGBH memorandum, available at the address 
-indicated in FOR FURTHER INFORMATION CONTACT and on our website at 
- https://www.fws.gov/program/migratory-birds  when they become available 
-in about July each year.
-
-Proposed Administrative Schedule
-
-    The Service will continue to have public Flyway and SRC meetings, 
-public review of notifications in the Federal Register, and public 
-review of the MGBH memorandum. The schedule will continue to be based 
-on the current (2013) ``Second Final Supplemental Environmental Impact 
-Statement: Issuance of Annual Regulations Permitting the Sport Hunting 
-of Migratory Birds'' (see full reference in Required Determinations, 
-National Environmental Policy Act (42 U.S.C. 4321 et seq.)). The 
-substantive process for biological monitoring and assessment to 
-determine the appropriate parameters from which States and Tribes may 
-establish their migratory game bird hunting regulations will remain 
-unchanged and will still occur annually whether a new MGBH memorandum 
-is due to be published that year.
-      April-May: As necessary, SRC meeting for proposed changes 
-to the decision frameworks or hunting regulations, which we expect to 
-be infrequent.
-      April-June: Spring game bird population surveys.
-      August: Completion of game bird population status reports 
-and hunter activity and harvest report.
-      September: Biological data are applied to federally 
-established decision frameworks. Preliminary outcomes from the decision 
-frameworks are prepared as the draft authorization conditions for 
-migratory game bird hunting.
-      September: Flyway Council meetings.
-      October: As necessary, SRC meeting for proposed deviations 
-and changes to the decision frameworks or hunting regulations, which we 
-expect to be infrequent.
-      December-January: Winter game bird population surveys.
-      January: The draft annual authorization conditions for 
-migratory game bird hunting are updated to account for new data.
-      On or before February 28 (every 3 years): The 
-authorization conditions for annual migratory game bird hunting are set 
-forth and communicated via the MGBH memorandum and notice of 
-availability is published in the Federal Register with a public comment 
-period of not less than 30 days. An off-year MGBH memorandum may be 
-published if changes are prescribed by our decision frameworks.
-      March: Flyway Council meetings.
-      April: If warranted, the MGBH memorandum may be revised 
-for administrative corrections.
-      May: Each State's proposed annual regulations for 
-migratory game bird hunting is due to the Service by May 31.
-      July: Federal policy memorandum with State annual hunting 
-regulations posted on the Service website annually for up to 3 years 
-after the final rule, upon request by the States.
-      February-August: States and Tribes develop their 
-regulations for annual migratory game bird hunting.
-      1 September-10 March: Annual migratory game bird hunting 
-occurs.
-
-Determination of the Authorization Conditions for Migratory Game Bird 
-Hunting
-
-    Like the current administrative process, we will determine 
-authorization conditions using decision frameworks based on the U.S. 
-Code and the Code of Federal Regulations or adopted in the Federal 
-Register as a final rule or notice. Decision frameworks refer to 
-principles, processes, and practices that inform actions and outcomes 
-(Lockie and Rockloff, 2005). In general, a decision framework 
-identifies key components necessary for an organization or individual 
-to make a decision and provides an overview of the process and 
-transparency in decision making. By adhering to decision frameworks, 
-decisionmakers can improve consistency, reduce biases, and ensure 
-alignment with overarching goals and values. Our decision frameworks 
-account for our goals and objectives, are developed in cooperation with 
-State and Tribal governments, foster healthy and productive populations 
-of game birds, and provide appropriate opportunities for the public to 
-hunt those species. Some of our decision frameworks are complex, while 
-others are simple, due to varying amounts of data and our understanding 
-of population demographics and relationships to environmental 
-conditions. In this final rule, we define a decision framework as a 
-structured set of procedures, rules, models, and information criteria 
-for selecting the appropriate authorization conditions from a fixed set 
-of regulatory alternatives, each with a different expected harvest 
-level, based on the harvest management objectives and status, 
-demographics, and environmental conditions of the applicable migratory 
-game bird population.
-    The authorization conditions for 24 species or species groups are 
-currently established based on 16 decision frameworks, and some have 
-been in use for 30 years. For example, adaptive harvest management 
-(AHM) decision frameworks for duck harvest management, a specific kind 
-of decision framework including a formal mechanism for reducing 
-uncertainty over time, were first implemented in 1995. The decision 
-frameworks for determination of authorization conditions for hunting 
-migratory game birds are listed in Table 2 below. We will maintain a 
-list of current decision frameworks used to determine authorization 
-conditions and post these on the Service's website  https://www.fws.gov/program/migratory-birds  with the MGBH memorandum setting forth the 
-authorization conditions.
-
-     Table 2--Decision Frameworks for Determination of Authorization
-      Conditions (Federal Limits) for Hunting Migratory Game Birds
-------------------------------------------------------------------------
- Species, species group, or
-           season              Decision framework        References
-------------------------------------------------------------------------
-Special youth and veterans-   16 U.S.C. 704(c)....  16 U.S.C. 704(c); 84
- active military personnel                           FR 42996, August
- waterfowl hunting days.                             19, 2019.
-Special early teal seasons    Special early teal    90 FR 40178, August
- in the Atlantic,              season guidelines.    18, 2025.
- Mississippi, and Central
- flyways.
-
-[[Page 38549]]
-
- 
-Special early teal-wood duck  Special early teal-   90 FR 40178, August
- seasons in the Atlantic and   wood duck season      18, 2025.
- Mississippi flyways.          guidelines.
-Bonus blue-winged teal bag    Bonus blue-winged     90 FR 40178, August
- limits.                       teal bag limit        18, 2025.
-                               guidelines.
-Ducks in the Atlantic Flyway  AHM protocol for      16 U.S.C. 704(c); 83
-                               eastern ducks.        FR 47868, September
-                                                     21, 2018; 65 FR
-                                                     58152, September
-                                                     27, 2000.
-Ducks in the Mississippi and  AHM protocol for mid- 16 U.S.C. 704(c); 85
- Central flyways.              continent mallards.   FR 15870, March 19,
-                                                     2020; 73 FR 43290,
-                                                     July 24, 2008; 65
-                                                     FR 58152, September
-                                                     27, 2000; 60 FR
-                                                     37314, July 19,
-                                                     1995.
-Ducks in the Pacific Flyway.  AHM protocol for      16 U.S.C. 704(c); 73
-                               western mallards.     FR 43290, July 24,
-                                                     2008.
-Northern pintail............  AHM protocol for      90 FR 17300, April
-                               northern pintail.     24, 2025; 75 FR
-                                                     44856, July 29,
-                                                     2010.
-Scaup.......................  AHM protocol for      73 FR 43290, July
-                               scaup.                24, 2008; 73 FR
-                                                     51124, August 29,
-                                                     2008.
-Black ducks in the Atlantic   International AHM     77 FR 49868, August
- and Mississippi flyways.      protocol for black    17, 2012.
-                               ducks.
-Eastern mallards in the       AHM protocol for      87 FR 66247,
- Atlantic Flyway.              eastern mallards.     November 3, 2022;
-                                                     88 FR 6054, January
-                                                     30, 2023.
-Canvasbacks.................  Canvasback decision   81 FR 17302, March
-                               support tool.         28, 2016.
-Brant seasons in the Pacific  Pacific brant         90 FR 40178, August
- Flyway.                       harvest strategy.     18, 2025; 85 FR
-                                                     51854, August 21,
-                                                     2020; 84 FR 42996,
-                                                     August 19, 2019.
-Dove seasons in the Eastern,  National mourning     78 FR 52658, August
- Central, and Western          dove harvest          23, 2013.
- management units.             strategy.
-Sandhill crane seasons in     Rocky Mountain        80 FR 51090, August
- the Central and Pacific       population sandhill   21, 2015.
- flyways.                      crane harvest
-                               strategy.
-American woodcock seasons in  American woodcock     80 FR 51090, August
- the Eastern and Central       harvest strategy.     21, 2015 (removed
- management units.                                   ``interim'' label
-                                                     from the strategy,
-                                                     which was then
-                                                     considered
-                                                     operational); 75 FR
-                                                     52873, August 30,
-                                                     2010.
-------------------------------------------------------------------------
-
-    Currently, determination of some authorization conditions depends 
-on Flyway Council recommendations based on formal Council harvest 
-strategies (e.g., goose and swan seasons) and ad hoc decisions (e.g., 
-coot and gallinule seasons). These Flyway Council harvest strategies 
-and ad hoc decisions have been consolidated into five general decision 
-frameworks, one for each of the four flyways and one for seasons that 
-span multiple flyways. These five decision frameworks are being adopted 
-by the Service in this rulemaking. These general decision frameworks 
-prescribe authorization conditions that generally do not change among 
-years and are based on the authorization conditions most recently 
-published as a final rule in the Federal Register (89 FR 68500, August 
-26, 2024). These authorization conditions have been demonstrated to be 
-sustainable over the range of migratory game bird population status and 
-habitat conditions. A copy of the Service's general decision frameworks 
-is available at the address indicated in FOR FURTHER INFORMATION 
-CONTACT, or at  https://www.regulations.gov , or from our website at 
- https://www.fws.gov/program/migratory-birds .
-    As with the current administrative process, this new process 
-applies biological data (e.g., game bird abundance, habitat conditions, 
-hunter activity, and harvest information) to decision frameworks to 
-inform appropriate selections of regulatory alternatives for the 
-authorization conditions for migratory game bird hunting. We will adopt 
-the outcome of the decision frameworks as the authorization conditions 
-for migratory game bird hunting. In circumstances where urgent 
-biological considerations arise, selecting more conservative 
-authorization conditions may be necessary to support resource 
-protection. In such instances, we would coordinate closely with the 
-Flyway Councils and SRC and provide explanations through the MGBH 
-memorandum, all which are open for public comment. These situations are 
-expected to be infrequent and would inform subsequent updates to the 
-decision frameworks through the formal rulemaking process. Examples 
-provided below illustrate how such circumstances have been infrequent 
-and addressed historically.
-    We note that the Service and Flyway Councils have not recommended 
-deviation from the prescriptions of the general duck season decision 
-frameworks since they were first implemented in 1995. Thus, for nearly 
-30 years, we have applied current biological data to established 
-decision frameworks and accepted the outcomes as the authorization 
-conditions for the general duck seasons. However, a notable example of 
-a more restrictive deviation from a species-specific decision framework 
-occurred for the northern pintail season in 2002 (67 FR 59110, 
-September 19, 2002) and 2003 (68 FR 55784, September 26, 2003), when 
-unforeseen circumstances (record low numbers, combined with the poor 
-production forecast) indicated that a departure from the pintail 
-decision framework was justified and consistent with the Council 
-recommendations we received in those years. The Councils and Service 
-revised the decision framework for northern pintails in 2004 to 
-incorporate the new information (69 FR 52970, August 30, 2004). Also, 
-the Atlantic Flyway Council and Service recommended more restrictive 
-authorization conditions for the Atlantic Flyway population of Canada 
-geese for the 2022-23 hunting season in deviation from the Council's 
-harvest strategy (87
-
-[[Page 38550]]
-
-FR 42598 at 42603 (Atlantic Flyway Council recommendations under 4.B.), 
-July 15, 2022). This restrictive deviation was based on unforeseen 
-circumstances including an unusually high degree of uncertainty in the 
-population estimate that year (95 percent confidence interval of 
-92,000-235,000 pairs), lack of population status data in 2020 and 2021 
-due to the coronavirus, and the lack of productivity data.
-    The two cases of restrictive deviations from decision frameworks in 
-at least the last 30 years indicate that such departures are unlikely. 
-Restrictive deviations are unlikely because unforeseen circumstances 
-rarely occur given the long-term nature of monitoring programs, some 
-since 1955, and our decision frameworks are developed based on observed 
-long-term demographic data. If the Councils and SRC recommend any 
-liberalization beyond the authorization conditions prescribed by the 
-decision framework, those changes will be reviewed by the Service, and, 
-if supported, we will initiate a rulemaking to revise the decision 
-framework.
-    In some cases, for reasons outside our control, we may need to 
-temporarily and minimally deviate from our decision frameworks to 
-address missing data. For example, due to the coronavirus pandemic and 
-associated travel restrictions and human health concerns in the United 
-States and Canada, certain migratory bird monitoring surveys were 
-cancelled in 2020 and 2021. As such, the Waterfowl Breeding Population 
-and Habitat Survey, which provides status information for many species 
-of waterfowl, including those used in our AHM decision frameworks, were 
-cancelled during those years. When unforeseen data gaps occur, as in 
-2020 and 2021, the Service may need to use time series forecasting 
-tools and population and habitat models to make inference to current 
-population status as needed in established decision frameworks. Such 
-deviations would be limited to those necessary to determine appropriate 
-authorization conditions in existing decision frameworks. Any deviation 
-would be described in the MGBH memorandum, with any longer-term 
-adjustments to decision frameworks addressed through future rulemaking. 
-Temporary deviations from decision frameworks to address data gaps fall 
-within the scope of existing regulatory authority and maintain intent 
-of established decision frameworks. These temporary adjustments apply 
-the best available data and scientific methods within the established 
-framework and are critical to making informed decisions about 
-appropriate authorization conditions for the current season when this 
-would otherwise not be possible in the case of missing data. The 
-compulsory, minimal, and urgent nature of these temporary deviations 
-are appropriately communicated through the MGBH memorandum rather than 
-through a separate rulemaking.
-    Any technical updates or adjustments to the federally established 
-decision frameworks will be published in a notice in the Federal 
-Register to allow for public review and comment. This is similar to the 
-current process for determining authorization conditions and hunting 
-regulations, pursuant to which technical updates to decision frameworks 
-are not adopted through rulemaking; rather, they are recommended by the 
-SRC and supported by the Flyway Councils. In a recent example, the 
-Service approved technical updates to the AHM decision framework for 
-mid-continent mallards in 2020 (85 FR 51854 at 51855-51856 (under 
-1.A.), August 21, 2020) and the national mourning dove harvest strategy 
-for the Eastern Management Unit in 2023 (SRC transcripts; May 31, 
-2023), Central Management Unit in 2024 (SRC transcripts; May 14, 2024), 
-and Western Management Unit in 2024 (SRC transcripts; November 19, 
-2024) based on recommendations from the Flyway Councils with 
-application in the same regulatory cycle. All four of these decision 
-framework technical updates involved replacement of the predictive 
-population models with updated state-of-the-art models cooperatively 
-developed by the Service, Flyway Councils, and university researchers.
-    These technical updates are discussed at public meetings including 
-the Flyway Council and SRC meetings and are open to public comment. 
-After receiving support from the Flyway Councils and SRC, technical 
-updates or changes to decision frameworks will be published in a 
-Federal Register via notice or rulemaking and in the MGBH memorandum 
-and made available for public comment. We expect changes to decision 
-frameworks to be infrequent and will consider timing of Federal 
-Register publication based on urgency and possible combination with 
-other actions to minimize need for future publications.
-
-Population Status and Harvest
-
-    We periodically publish reports that provide detailed information 
-on the status and harvest of certain migratory game bird species. These 
-reports contain descriptions of species population segments referenced 
-in status assessments. These reports are available at the address 
-indicated in FOR FURTHER INFORMATION CONTACT or from our website at 
- https://www.fws.gov/library/collections/population-status ,  https://www.fws.gov/library/collections/migratory-bird-hunting-activity-and-harvest-reports , and  https://www.fws.gov/project/adaptive-harvest-management .
-    We will use the most recently published reports in the development 
-of annual authorization conditions for migratory game bird hunting. 
-These reports currently include the following:
-      Adaptive Harvest Management;
-      American Woodcock Population Status;
-      Band-tailed Pigeon Population Status;
-      Migratory Bird Hunting Activity and Harvest;
-      Mourning Dove Population Status;
-      Status and Harvests of Sandhill Cranes, Mid-continent, 
-Rocky Mountain, Lower Colorado River Valley and Eastern Populations; 
-and
-      Waterfowl Population Status.
-    Additional information, status reports, and special assessments may 
-be provided by the Service and each of the four Flyway Councils.
-    Our long-term objectives continue to include providing 
-opportunities to harvest portions of certain migratory game bird 
-populations and to limit harvests to levels compatible with each 
-population's ability to maintain healthy, viable numbers. The Service's 
-goals and objectives for migratory game bird harvest management are 
-specified in a 2013 supplemental environmental impact statement (notice 
-of availability published at 78 FR 32686, May 31, 2013) and the 
-proposed rule that published at 52 FR 7900, March 13, 1987. Migratory 
-game bird hunting seasons provide opportunities for recreation and 
-sustenance, and aid Federal, State, and Tribal governments in the 
-management of migratory game birds.
-
-Review of Public Comments and Flyway Council Recommendations
-
-    We periodically receive recommendations on the authorization 
-conditions and other policies and regulations for migratory game bird 
-hunting from the four Flyway Councils at the SRC meetings, generally 
-held in spring and fall. We may also receive public comments from the 
-SRC meetings and notices published in the Federal Register. We consider 
-all comments we receive but may provide detailed responses only to 
-substantive comments. Based on such comments, and any additional 
-information we receive, we may change the
-
-[[Page 38551]]
-
-authorization conditions, particularly for administrative corrections, 
-or we may defer any changes until the next MGBH memorandum. Any 
-administrative corrections to the authorization conditions will be made 
-immediately through the MGBH memorandum available at the address 
-indicated in FOR FURTHER INFORMATION CONTACT or on the Service's 
-Migratory Bird Program website. These corrections will be identified 
-either in the response to public comments or published in a revised 
-notice if warranted based on the nature of the public comments. These 
-corrections will include any errors made in the authorization 
-conditions based on the application of biological data to established 
-decision frameworks or significant typographical errors. Any 
-recommendations for changes to regulations will be considered through a 
-rulemaking process with at least a 30-day public review and comment 
-period.
-
-Adaptive Harvest Management Approach for Duck Harvest Management
-
-    We will continue to use our AHM decision frameworks to determine 
-appropriate regulatory alternatives for annual duck hunting as 
-described in earlier rulemaking for annual migratory game bird hunting 
-regulations (89 FR 68500, August 26, 2024). AHM is a tool that permits 
-sound resource decisions in the face of uncertain regulatory impacts 
-and provides a mechanism for reducing that uncertainty over time. We 
-use an AHM decision framework to evaluate four regulatory alternatives, 
-each with a different expected harvest level, and choose the optimal 
-alternative for duck hunting authorization conditions based on the 
-status and demographics of mallards for the Mississippi, Central, and 
-Pacific Flyways, and based on the status and demographics of four duck 
-species (green-winged teal, common goldeneye, ring-necked duck, and 
-wood duck) in the Atlantic Flyway. We have species-specific AHM 
-decision frameworks that guide appropriate authorization conditions for 
-species of special concern, including black ducks, scaup, northern 
-pintails, and mallards in the Atlantic Flyway (eastern mallards), 
-within the general duck hunting regulations. These protocols have 
-species-specific regulatory alternatives but share some aspects of the 
-regulatory alternatives for the general duck seasons.
-    We currently use independent optimizations to determine the 
-appropriate regulatory alternative based on the status of mallards in 
-the Mississippi, Central, and Pacific Flyways and status of the four 
-duck species mentioned above in the Atlantic Flyway. This means that we 
-develop authorization conditions for mid-continent mallards, western 
-mallards, and eastern ducks independently based on the breeding ducks 
-that contribute primarily to each Flyway. These species-populations are 
-a surrogate for the status of ducks in general in each flyway. We 
-provided an overview of the AHM decision frameworks for general duck 
-hunting authorization conditions in each Flyway in an August 26, 2024, 
-rule (89 FR 68500).
-    The regulatory alternatives considered in the general duck season 
-AHM decision frameworks associated with each flyway were described in a 
-January 21, 2025, proposed rule (90 FR 7056). Regulatory alternatives 
-include opening and closing dates, season lengths, daily bag limits, 
-and shooting hours. Current regulatory alternatives for each of the 
-four flyways include restrictive (relatively short seasons and low 
-daily bag limits), moderate (intermediate season lengths and daily bag 
-limits), liberal (longer seasons, higher daily bag limits), and closed 
-seasons. The authorization conditions within each of these alternatives 
-may vary by flyway. The differences in season lengths and daily bag 
-limits among flyways reflect the historic differences in waterfowl 
-abundance and hunter numbers in these regions. Each regulatory 
-alternative has an associated target harvest rate for one or more 
-species as a representative of all duck species.
-    AHM decision frameworks are used with the most current population 
-status, habitat, and harvest survey data to govern the selection of one 
-of the regulatory alternatives (i.e., closed, restrictive, moderate, or 
-liberal). These regulatory alternatives apply to all duck species 
-except those for which species-specific decision frameworks exist or, 
-in some cases, for species or population segments in which additional 
-restrictions have been established. For example, additional 
-restrictions within the general duck seasons are used to limit the 
-harvest of certain less abundant species (e.g., scaup, northern 
-pintail, black duck, eastern mallards, canvasback, redhead, wood duck, 
-and mottled duck).
-    The basic structure of the current regulatory alternatives for AHM 
-was adopted in 1997 (beginning with the 1997-98 general duck hunting 
-season; 62 FR 31298, June 6, 1997). Changes to these alternatives have 
-been infrequent and are detailed in the January 21, 2025, proposed rule 
-(90 FR 7056). The alternatives were last revised beginning with the 
-2021-22 hunting season based on recommendations of the Flyway Councils 
-(85 FR 51854, August 21, 2020).
-    We anticipate that, under the AHM approach, the regulatory 
-alternatives will remain the same over time, because the optimization 
-process assumes that the expected harvest rates resulting from the 
-various alternatives remain constant over long-term (about 100 years) 
-forecasting. That process accounts for the uncertainty resulting from 
-the difference between projected harvest rates and actual harvest rates 
-in any given year. Recognizing that constituents may favor periodic 
-adjustments to the regulatory alternatives, we will adopt a regular 
-process to review and incorporate possible modifications.
-    Although in the past the Service adopted the regulatory 
-alternatives annually, that process does not account for the need to 
-maintain predictable harvest projections for the optimization step in 
-the current AHM process. We expect annual changes to the regulatory 
-alternatives to have a negative impact on our ability to predict the 
-harvest associated with each regulatory alternative. This approach 
-would result in greater uncertainty in forecasting the impacts of the 
-regulatory alternatives for a given set of environmental and biological 
-conditions.
-    We will adopt in regulations the same regulatory alternatives for 
-the general duck seasons that have been in effect since the 2021-22 
-season. (See 90 FR 17300 at 17302 (under B. Regulatory Alternatives), 
-April 24, 2025, for the most recent rulemaking document that adopted 
-the alternatives used prior to this final rule and 90 FR 7056 at 7061 
-(under B. Regulatory Alternatives), January 21, 2025, for a description 
-of the alternatives and their history.) We also will codify in 
-regulations restrictions on the frequency of changes to these 
-regulatory alternatives because of the need to maintain predictable 
-harvest projections for the optimization step in the AHM decision 
-frameworks. We intend to have the first open review and possible 
-modification of these regulatory alternatives no sooner than 2026. The 
-last modification occurred in 2021. Establishing duck regulatory 
-alternatives for 5-year periods was the preferred alternative in the 
-``Second Final Supplemental Environmental Impact Statement: Issuance of 
-Annual Regulations Permitting the Sport Hunting of Migratory Birds'' 
-(see full reference in Required Determinations, National Environmental 
-Policy Act (42 U.S.C. 4321 et seq.)).
-    The intent for open review and possible modification of these 
-regulatory alternatives should begin
-
-[[Page 38552]]
-
-with an announcement of the intent by either the Service or Flyway 
-Councils at an SRC meeting at least 1 year prior to possible adoption 
-of modifications. The modification of the regulatory alternatives for 
-general duck seasons will be a rulemaking process with both proposed 
-and final rules. We would include a regulatory impact analysis as part 
-of these periodic rulemakings and continue work to expand the 
-robustness of the analyses we completed in earlier rulemaking actions 
-under the current hunting regulations process (see the 2025-26 hunting 
-season final rule, 90 FR 40178 at 40192, August 18, 2025, and economic 
-analysis at  https://www.regulations.gov  at Docket No. FWS-HQ-MB-2024-
-0127).
-    We note that we are codifying the alternatives for general duck 
-hunting in regulations. However, regulatory alternatives from other 
-decision frameworks are specified only in the preambles to rulemaking 
-documents, not in the Code of Federal Regulations. We are codifying the 
-duck hunting alternatives because the alternatives for general duck 
-hunting apply in some aspects to multiple decision frameworks including 
-those for duck species of special concern (e.g., black ducks, 
-canvasbacks, eastern mallards, northern pintail, scaup), some brant and 
-goose seasons, special youth and veterans-active military personnel 
-waterfowl hunting days, merganser seasons, and some webless species 
-(e.g., snipe, coots). Also, regulatory alternatives for general duck 
-hunting have in part been prescribed by Congress in an amendment to the 
-MBTA (16 U.S.C. 704(c); 84 FR 42996, August 19, 2019), and because we 
-are codifying in regulations restrictions on the frequency of changes 
-to these regulatory alternatives to facilitate the AHM process.
-
-Duck Zones and Split Seasons
-
-Background
-    Zones and split seasons are designed to distribute hunting 
-opportunities and harvests according to temporal, geographic, and 
-demographic variability in waterfowl and other migratory game bird 
-populations. For ducks, States have been allowed the option of 
-splitting their allotted hunting days into two or three temporal 
-segments to take advantage of species-specific peaks of abundance or to 
-satisfy hunters in different areas who want to hunt during the peak of 
-waterfowl abundance in their area. However, the split-season option 
-does not fully satisfy many States that wish to provide a more 
-equitable distribution of harvest opportunities. Therefore, we also 
-have allowed the establishment of independent seasons in up to four 
-geographic zones within States for the purpose of providing more 
-equitable distribution of harvest opportunity for hunters throughout 
-the State.
-    In 1978, we prepared an environmental assessment (EA) on the use of 
-zones to set duck hunting regulations. A primary tenet of the 1978 EA 
-was that zoning would be used to provide equitable distribution of duck 
-hunting opportunities within a State or region. The intent was not to 
-increase total annual waterfowl harvest in the zoned areas; target 
-harvest levels were to be adjusted downward if they exceeded 
-traditional levels because of zoning.
-    In 1990, we conducted a review of the use of zones and split 
-seasons. We determined that the ability to detect the impacts of zones 
-and splits on waterfowl demographics and harvest was poor because of 
-the absence of adequate study designs and experimental controls, 
-limitations in monitoring capacities, imprecise parameter estimates, 
-and low power to detect changes in parameter estimates. Substantial 
-concern remained about the unknown consequences of zones and split 
-seasons on duck populations and harvest redistribution among States and 
-flyways, potential reduced effectiveness of regulations (season length 
-and bag limit) to reduce duck harvest if needed, and the administrative 
-burden associated with changing regulations annually. Consequently, we 
-established guidelines to provide a framework for controlling the 
-proliferation of zones and split seasons. The guidelines identified a 
-limited number of zone and split-season configurations that could be 
-used for duck hunting and restricted the frequency of changes in State 
-selection among these configurations to the first year of each 5-year 
-interval (e.g., 2021 for the 2021-25 hunting seasons). The first 
-hunting season that States could change their zone and split-season 
-configurations was in 1991, with subsequent opportunities in the 1996, 
-2001, 2006, 2011-2012, 2016-2017, and 2021 hunting seasons. The Service 
-approved extension of the general 1-year period for States to change 
-their zone and split-season configurations in 2011 and 2016 to 2 years 
-due to special circumstances.
-    In 2011, we prepared a new EA analyzing proposed changes to the 
-guidelines for zones and split seasons. Revised guidelines were 
-finalized in the preamble to a 2011 proposed rule (76 FR 53536, August 
-26, 2011). In 2020, at the request of the four Flyway Councils, we 
-modified the existing guidelines for duck zones and split seasons to 
-allow an additional configuration including two zones with up to three 
-season segments per zone for use beginning with the 2021 duck hunting 
-season (85 FR 51854, August 21, 2020). States that select this new 
-configuration must conduct an evaluation of impacts to hunter dynamics 
-(e.g., hunter numbers, satisfaction) and harvest during the 5-year 
-period it is implemented (e.g., 2021-25 hunting seasons) and need to 
-involve human dimensions specialists in the assessment. The purpose of 
-the evaluation was to provide information to allow the Service and 
-States to better understand how the additional zone and split-season 
-configurations might influence hunter recruitment, retention, and 
-reactivation (also known as R3) efforts, and whether additional options 
-run counter to our mutual objectives including the desire to simplify 
-regulations and waterfowl population concerns.
-    Previously, we established guidelines for duck zones and split 
-seasons for each 5-year period via rulemaking (proposed and final 
-rules) regardless of changes to the guidelines. We now will codify the 
-existing guidelines for duck zones and split seasons (85 FR 51854, 
-August 21, 2020), with minor clarifications, in our regulations. By 
-codifying existing guidelines in regulations, we will need to undertake 
-rulemaking only if we decide to modify the guidelines. To modify the 
-guidelines for duck zones and split seasons, we will initiate a new 
-rulemaking and issue proposed and final rules. Any changes to the 
-guidelines will apply beginning the first year of the subsequent 5-year 
-interval to maintain consistency in configurations within the 
-intervals. At least 1 year prior to the possible adoption of any 
-modifications, either the Service or Flyway Councils will announce at 
-an SRC meeting their intent to review and possibly modify the 
-guidelines.
-Special Case Duck Zone and Split Seasons
-    When we first implemented guidelines for duck zones and split 
-seasons in 1991, several States had completed experiments with zone and 
-split-season arrangements different from our original options. We 
-offered those States a one-time opportunity to continue those 
-arrangements, with the stipulation that only minor changes could be 
-made to zone boundaries. If any of those States now wish to change 
-their zone and split arrangement:
-
-[[Page 38553]]
-
-    (1) The new arrangement must conform to one of the currently 
-allowable configurations; and
-    (2) The State may not revert to the special case arrangement that 
-it previously had in place.
-Guidelines for Duck Zones and Split Seasons
-    The following guidelines for zones and split seasons apply only for 
-the regular duck season:
-
-    (1) A zone is a geographic area or portion of a State, with a 
-contiguous boundary, for which independent dates may be selected for 
-the regular duck season.
-    (2) States wishing to change their duck zone and split-season 
-configurations may do so the first year of the 5-year period that it 
-would apply (i.e., 2026, 2031, 2036, 2041, and continuing at 5-year 
-intervals).
-    (3) Once a zone and split-season configuration is selected, it 
-must remain in place for 5 consecutive years.
-    (4) Only minor (less than one county in size) zone boundary 
-changes are allowed for any special case arrangement, and such 
-changes are allowed only the first year of the 5-year period during 
-which it would apply.
-    (5) Minor (less than one county in size) zone boundary changes 
-may be allowed for any State to resolve law enforcement or other 
-boundary clarification issues resulting from implication of a new 
-configuration. Changes would be evaluated on a case-by-case basis 
-and must be approved by the respective Flyway Council and the SRC.
-    (6) Consideration of changes for management-unit boundaries is 
-not subject to the guidelines and provisions governing the use of 
-zones and split seasons for ducks.
-Configurations for Duck Zones and Split Seasons
-    Any State may continue their zone and split-season configuration 
-used in the previous 5-year period. If changes are made, the zone and 
-split-season configuration must conform to one of the following five 
-options:
-
-    (1) One zone (same as no zones) with up to three season 
-segments;
-    (2) Two zones with up to two season segments in each zone;
-    (3) Two zones with up to three season segments in each zone;
-    (4) Three zones with up to two season segments in each zone; or
-    (5) Four zones with a continuous season (i.e., no segments) in 
-each zone.
-
-    Because the two zones and three season segments configuration is 
-new, States that select this configuration must conduct a one-time 
-evaluation of impacts to hunter dynamics (e.g., hunter numbers, 
-satisfaction) and harvest during the 5-year period it is implemented 
-(e.g., 2021-25 period).
-Mallard Management Units
-    For the States that have a recognized management unit (Columbia 
-Basin Management Unit in the Pacific Flyway, High Plains Management 
-Unit in the Central Flyway) and include a non-management unit portion, 
-an independent two-segment duck season with no zones can be selected 
-for the management unit. The remainder of the State in the non-
-management unit portion can be zoned and have split seasons according 
-to existing guidelines. In the Central Flyway, additional duck season 
-days afforded to the management unit must occur on or after the 
-Saturday nearest December 10.
-Process for Selecting Duck Zone and Split-Season Configurations
-    States wishing to change their duck hunting zone and split-season 
-configuration selection from within our established guidelines must 
-provide their selected configuration and zone descriptions to the 
-Service's Migratory Bird Program by the end of August in the year prior 
-to the first year of the 5-year period that the selection would apply. 
-However, we encourage States to submit their selections and zone 
-boundaries as soon as possible. The Service's Migratory Bird Program 
-will approve State selections once they are determined to be consistent 
-with the above guidelines and zones and split-season configurations and 
-boundary descriptions are complete. Any discrepancies between the State 
-selections and the zone and split-season guidelines and configurations 
-will be addressed by the SRC at their fall meeting, generally held in 
-October. States may continue their zone and split-season configuration 
-used in the previous 5-year period, and we will assume this is the case 
-unless we receive configuration selections and zone descriptions from 
-the State by the deadline for requesting configuration changes. We will 
-publish State-selected duck zone and split-season configurations and 
-zone descriptions in the MGBH memorandum.
-
-Dove Zones and Split Seasons
-
-Background
-    In 2004, we recognized the need to work with the States to review 
-our current policy regarding zoning for dove hunting (69 FR 52970, 
-August 30, 2004). We asked the Flyway Councils and Mourning Dove 
-Management Unit Technical Committees to review the current policies 
-regarding the use of zones and split seasons for dove hunting, with a 
-view toward establishing guidelines for the use of these harvest-
-management tools, as has been done for ducks. Items considered included 
-the number of zone and split-season configurations among which each 
-State may choose, the frequency with which each State may change their 
-configuration selection, and the need for a restricted framework 
-opening date in southern zones. In 2006, we adopted a set of guidelines 
-for dove zones and split seasons applicable in the Eastern and Central 
-Mourning Dove Management Units (EMU and CMU) based on recommendations 
-of the Atlantic, Mississippi, and Central Flyway Councils for use 
-beginning with the 2007 hunting season and conforming to those 5-year 
-periods used for ducks, for example, 2021-25 hunting seasons (71 FR 
-51406, August 29, 2006). These guidelines were not extended to the 
-Western Management Unit (WMU) at the time because they were not 
-endorsed by the Pacific Flyway Council and no dove zones occurred in 
-the WMU. Furthermore, the framework season length in the WMU was 30 
-consecutive days, except in Arizona and California where the season 
-length was 60 days and could be split into two segments.
-    The season length in the WMU was expanded to 60 days beginning with 
-the 2014 hunting season (78 FR 52658 at 52662, August 23, 2013, and 79 
-FR 51402 at 51405, August 28, 2014). The Pacific Flyway Council 
-requested the same flexibility for zones and split seasons that we have 
-afforded the EMU and CMU, with the exception that the WMU would be 
-allowed only two season segments in one or both zones rather than 
-three. Thus, in 2020, we extended the guidelines for dove zones and 
-split seasons to the WMU, with the exception that seasons may be split 
-into no more than two segments (85 FR 51854, August 21, 2020).
-    Similar to the situation for ducks, described above, we previously 
-established guidelines for dove zones and split seasons for each 5-year 
-period via rulemaking (proposed and final rules) regardless of changes 
-to the guidelines. We now adopt the existing guidelines for dove zones 
-and split seasons (85 FR 51854, August 21, 2020), with minor 
-clarifications, in our regulations. By codifying existing guidelines in 
-regulations, we will need to undertake rulemaking only if we decide to 
-modify the guidelines. To modify the guidelines for dove zones and 
-split seasons, we will initiate a new rulemaking and issue proposed and 
-final rules. Any changes to the guidelines will apply beginning the 
-first year of the 5-year interval to maintain consistency in 
-configurations within the intervals. At least 1 year prior to the 
-possible adoption of any modifications, either the Service or Flyway 
-Councils
-
-[[Page 38554]]
-
-will announce at an SRC meeting their intent to review and possibly 
-modify the guidelines.
-Special Case Dove Zone and Split Seasons
-    When we first implemented the guidelines for dove zones and split 
-seasons in 2006, some States had completed experiments with zone and 
-split-season arrangements different from our original options. We 
-offered those States a one-time opportunity to continue those 
-arrangements (special case), with the stipulation that only minor 
-changes could be made to zone boundaries. If any of those States now 
-wish to change their zone and split arrangement:
-
-    (1) The new arrangement must conform to one of the currently 
-allowable configurations; and
-    (2) The State may not revert to the special case arrangement 
-that it previously had in place.
-Guidelines for Dove Zones and Split Seasons
-    The following guidelines for zones and split seasons apply only for 
-the regular dove season:
-
-    (1) A zone is a geographic area or portion of a State, with a 
-contiguous boundary, for which independent seasons may be selected 
-for the regular dove season.
-    (2) States wishing to change their dove zone and split-season 
-configurations may do so the first year of the 5-year period that it 
-would apply (i.e., 2026, 2031, 2036, 2041, and continuing at 5-year 
-intervals).
-    (3) Once a zone and split-season configuration is selected, it 
-must remain in place for 5 consecutive years.
-    (4) Only minor (less than one county in size) zone boundary 
-changes would be allowed for any special case arrangement, and such 
-changes are allowed only beginning the first year of the 5-year 
-period during which it would apply.
-    (5) Minor (less than one county in size) zone boundary changes 
-may be allowed for any State to resolve law enforcement or other 
-boundary clarification issues resulting from implication of a new 
-configuration. Changes will be evaluated on a case-by-case basis and 
-must be approved by the respective Flyway Council and the SRC.
-
-Configurations for Dove Zones and Split Seasons
-    Any State may continue their dove zone and split-season 
-configuration selected in the previous 5-year period. If changes are 
-made, the zone and split-season configuration must conform to one of 
-the following two options:
-
-    (1) One zone (same as no zones) with up to three season 
-segments; or
-    (2) Two zones with up to three season segments in each zone, 
-except in the WMU where the season in one or both zones may be split 
-into two segments.
-
-Process for Selecting Dove Zone and Split-Season Configurations
-    The process for States to select their dove hunting zone and split-
-season configuration is the same as that for selecting the duck hunting 
-zone and split-season configuration. States wishing to change their 
-dove zone and split-season configuration selection from within our 
-established guidelines must provide their selected configuration and 
-zone descriptions to the Service's Migratory Bird Program by the end of 
-August in the year prior to the first year of the 5-year period that 
-the selection would apply. However, we encourage States to submit their 
-selections and zone boundaries as soon as possible. The Service's 
-Migratory Bird Program will approve State selections once they are 
-determined to be consistent with the above guidelines and zones and 
-split-season configurations and boundary descriptions are complete. Any 
-discrepancies between the State selections and the zone and split-
-season guidelines and configurations will be addressed by the SRC at 
-their fall meeting, generally held in October. States may continue 
-their zone and split-season configuration used in the previous 5-year 
-period, and we will assume this is the case unless we receive 
-configuration selections and zone descriptions from the State by the 
-deadline for requesting configuration changes. We will publish State-
-selected dove zone and split-season configurations and zone 
-descriptions in the MGBH memorandum.
-
-Special Seasons
-
-    Special seasons may be used for species considered to be 
-underutilized, to address nuisance problems with overabundant species, 
-or to provide special hunting opportunities. Special seasons differ 
-from regular seasons in that they entail additional hunting opportunity 
-outside the established regular seasons but within the 107-day limit 
-mandated by the MBTA. Special seasons are used only for species whose 
-migration and distribution provide opportunities outside the period in 
-which regular seasons are held and when harvest can be achieved without 
-appreciable impacts to nontarget species. An important tenet of special 
-seasons is that harvest pressure can be effectively directed primarily 
-at target species or population segments that can be temporally and 
-geographically isolated to avoid nontarget take. Currently, special 
-seasons include: (1) Early teal seasons in the Atlantic, Mississippi, 
-and Central Flyways; (2) bonus blue-winged teal bag limits in certain 
-States in the Mississippi and Central Flyways; (3) early teal and wood 
-duck seasons in Florida, Kentucky, and Tennessee; (4) waterfowl hunting 
-days for youth and veterans-active military personnel; and (5) early 
-seasons on overabundant resident Canada and cackling geese.
-    The Service has required that States implementing special seasons 
-conduct experiments to assess the biological impacts of those seasons 
-on both target and nontarget species. However, the Service eliminated 
-experimental evaluation requirements for special seasons on 
-overabundant resident Canada and cackling geese, except: (1) in areas 
-where previous evaluations indicate an unacceptable level of take of 
-migrant Canada and cackling geese; and (2) in areas where evaluations 
-have not been conducted and one could reasonably expect an unacceptable 
-level of take of migrant Canada and cackling geese (e.g., areas in 
-northern States). All special seasons require Flyway Council 
-endorsement, and Flyway Councils may request evaluation of any special 
-season as part of the approval process if they believe such evaluations 
-to be warranted. Additionally, if conditions are believed to have 
-changed, new evaluations can be conducted for areas in which prior 
-evaluations failed with respect to the take of migrant Canada and 
-cackling geese. The Service may periodically reevaluate special seasons 
-on a case-by-case basis to determine whether they are still justified 
-and will continue to require experiments for any new special seasons 
-other than those described for overabundant resident Canada and 
-cackling geese. Any new special seasons will be established through a 
-new rulemaking process, which we expect to be infrequent, involving a 
-proposed and final rule.
-
-Experimental Seasons
-
-    Experimental seasons are used to evaluate expansion of regular 
-seasons to new areas; the use of zones and splits in duck, dove, and, 
-in some cases, goose seasons; special seasons; and alternative 
-regulations for regular or special seasons. The Service may require 
-implementing States to conduct research for at least 3 years to assess 
-the environmental effects of experimental seasons, including on target 
-and nontarget species. The Service may also require a memorandum of 
-understanding with any State that implements experimental seasons. 
-Experimental seasons may be authorized for up to 5 years, after which a 
-new request must be submitted. A season may be offered on an
-
-[[Page 38555]]
-
-experimental basis or change from experimental status to operational 
-status upon approval by the respective Flyway Council(s) and the SRC. 
-Any new experimental season will be established through a new 
-rulemaking process, which we expect to be infrequent, involving a 
-proposed and final rule. Change in season status from experimental to 
-operational will be included in the MGBH memorandum.
-
-Relationship to Regulations for Crow Hunting
-
-    Crows are in the family Corvidae and were not initially identified 
-as a migratory bird in the four bilateral conventions for the 
-protection of migratory birds. The family was added to the list of 
-migratory birds with the convention amendment with Mexico in 1972. 
-However, crows were not identified as a game bird; Corvidae are not one 
-of the five families that comprise migratory game birds. At the time 
-Federal protection was extended to Corvidae, some States had existing 
-hunting seasons for crows. Therefore, Federal regulations were 
-established to allow crow hunting; see 50 CFR part 20, subpart L, at 
-Sec.  20.133, hunting regulations for crows. Federal regulations allow 
-States to establish dates and durations of hunting seasons, bag and 
-possession limits, and methods of taking crows, subject to limitations 
-defined in Sec.  20.133. The hunting season on crows can have a maximum 
-of 124 days within a calendar year because of specific provisions 
-included in the convention with Mexico and must be outside the peak 
-crow nesting period. Some States allow crow hunting 4 days a week, 
-extending the open season nearly 8 months. Most States have no daily 
-bag limit on crows. Crows may also be taken under a depredation order 
-as defined in Sec.  21.150, the depredation order for blackbirds, 
-cowbirds, crows, grackles, and magpies.
-    Migratory bird hunting regulations at 50 CFR part 20 apply to game 
-birds and crows. Thus, we make the distinction in our regulations 
-between migratory bird hunting (crows included) and migratory game bird 
-hunting (crows excluded). Thus, crow hunting regulations (Sec.  20.133) 
-are not affected by this rulemaking regarding the administrative 
-process for authorizing migratory game bird hunting. However, this 
-rulemaking action revises Sec.  20.133 to authorize Tribes to establish 
-crow hunting regulations along with the States to be consistent with 
-our Tribal migratory game bird hunting regulations at Sec.  20.110 (see 
-88 FR 60375, September 1, 2023).
-
-Flyways and Management Units
-
-    We generally establish the authorization conditions for migratory 
-game bird hunting for the conterminous U.S. States by flyway or 
-management unit/region. We will include the authorization conditions 
-for Alaska, Hawaii, Puerto Rico, and the U.S. Virgin Islands in 
-separate sections near the end of the MGBH memorandum. The States 
-included in the flyways and management units/regions are described 
-below:
-Flyways
-    Atlantic Flyway: Includes Connecticut, Delaware, Florida, Georgia, 
-Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, 
-North Carolina, Pennsylvania, Rhode Island, South Carolina, Vermont, 
-Virginia, and West Virginia.
-    Mississippi Flyway: Includes Alabama, Arkansas, Illinois, Indiana, 
-Iowa, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, 
-Ohio, Tennessee, and Wisconsin.
-    Central Flyway: Includes Colorado (east of the Continental Divide), 
-Kansas, Montana (Counties of Blaine, Carbon, Fergus, Judith Basin, 
-Stillwater, Sweetgrass, Wheatland, and all counties east thereof), 
-Nebraska, New Mexico (east of the Continental Divide except the 
-Jicarilla Apache Indian Reservation), North Dakota, Oklahoma, South 
-Dakota, Texas, and Wyoming (east of the Continental Divide).
-    Pacific Flyway: Includes Arizona, California, Idaho, Nevada, 
-Oregon, Utah, Washington, and those portions of Colorado, Montana, New 
-Mexico, and Wyoming not included in the Central Flyway.
-Mallard Management Units
-    High Plains Management Unit: Roughly defined as that portion of the 
-Central Flyway that lies west of the 100th meridian.
-    Columbia Basin Management Unit: In Washington, all areas east of 
-the Pacific Crest Trail and east of the Big White Salmon River in 
-Klickitat County; and in Oregon, the counties of Gilliam, Morrow, and 
-Umatilla.
-Mourning Dove Management Units
-    Eastern Management Unit: All States east of the Mississippi River, 
-and Louisiana.
-    Central Management Unit: Arkansas, Colorado, Iowa, Kansas, 
-Minnesota, Missouri, Montana, Nebraska, New Mexico, North Dakota, 
-Oklahoma, South Dakota, Texas, and Wyoming.
-    Western Management Unit: Arizona, California, Idaho, Nevada, 
-Oregon, Utah, and Washington.
-Woodcock Management Regions
-    Eastern Management Region: Connecticut, Delaware, Florida, Georgia, 
-Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, 
-North Carolina, Pennsylvania, Rhode Island, South Carolina, Vermont, 
-Virginia, and West Virginia.
-    Central Management Region: Alabama, Arkansas, Illinois, Indiana, 
-Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, 
-Missouri, Nebraska, North Dakota, Ohio, Oklahoma, South Dakota, 
-Tennessee, Texas, and Wisconsin.
+    The Migratory Bird Treaty Act of 1918 (MBTA, 16 U.S.C. 703 et seq.) 
+was enacted to protect migratory birds and gives the Secretary of the 
+Interior (Secretary) the authority to regulate the harvest of certain 
+migratory birds. The law further authorizes the Secretary to issue 
+regulations to ensure that the indigenous inhabitants of the State of 
+Alaska may take certain migratory birds and collect their eggs for 
+nutritional and other essential needs during seasons established by the 
+Secretary to provide for the preservation and maintenance of these 
+migratory birds (16 U.S.C. 712(1)).
+    The take of migratory birds for subsistence uses in Alaska occurs 
+primarily during the spring and summer, a timeframe not included in the 
+fall and winter general migratory game bird hunting regulations for the 
+United States. Regulations governing the subsistence harvest of 
+migratory birds in Alaska are located in title 50 of the Code
+
+[[Page 37337]]
+
+of Federal Regulations (CFR) in part 92. These regulations allow for 
+the continuation of customary and traditional subsistence uses of 
+migratory birds and establish when and where the harvesting of certain 
+birds in Alaska may occur within each subsistence region.
+    The migratory bird subsistence harvest regulations are developed 
+cooperatively. The Alaska Migratory Bird Co-Management Council (Council 
+or AMBCC) consists of the Service, the Alaska Department of Fish and 
+Game (ADFG), and Alaska Native representatives. The Council's primary 
+purpose is to develop recommendations pertaining to the subsistence 
+harvest of migratory birds.
+    This rule incorporates changes to the subsistence harvest 
+regulations that were recommended by the Council in 2025 as described 
+below.
+
+Comments Received on the Proposed Rule
+
+    Per the collaborative process described above, we published a 
+proposed rule on March 9, 2026, to update the regulations for the 
+taking of migratory birds for subsistence uses in Alaska during spring 
+and summer (91 FR 11266). By the end of the comment period on April 8, 
+2026, we received six comments pertaining to the proposed rule. We made 
+no changes to the proposed rule as a result of input we received via 
+the public comments, however, we added further discussion to this rule 
+regarding the regulatory revisions based on public comments we 
+received. See Final Regulations, below, for more information.
+    Issue: One commenter believed that there should be no legal 
+subsistence harvest opportunity for migratory birds in Alaska.
+    Response: For millennia, Indigenous peoples of Alaska have 
+harvested migratory birds for subsistence purposes during the spring 
+and summer months. The U.S. treaties with Canada and Mexico were 
+amended for the express purpose of allowing subsistence harvest of 
+migratory birds during these months. The MBTA allows for the lawful and 
+sustainable harvest of migratory birds and their eggs per regulations.
+    Issue: Four commenters expressed support of the process presented 
+in the proposed rule that was used to incorporate local input and 
+Indigenous Knowledge in determining a meaningful region name and more 
+appropriate harvest season dates.
+    Response: The Service appreciates the commenters' support for 
+involvement of Tribal regional representatives in developing regulatory 
+changes.
+    Issue: One commenter recommended the Service collect subsistence 
+harvest data to measure the effect of the proposed regulatory change.
+    Response: Harvest of waterfowl and cranes by rural residents within 
+the Upper Copper River/Ahtna Territory region represents less than 0.2 
+percent of the statewide harvest (Naves and Schamber 2024) and the 
+population of the eight eligible communities in the region represents 
+about 1.3 percent of the statewide population in eligible subsistence 
+harvest areas ( https://live.laborstats.alaska.gov/landing/pop-cen.html ). In addition, there are no threatened eiders or species of 
+conservation concern (e.g., emperor geese) present in this region. 
+These factors suggest that any increase in regional subsistence harvest 
+due to the proposed change in season dates is unlikely to have any 
+measurable effect on harvest or population size of migratory birds in 
+Alaska. Past subsistence harvest surveys in Alaska have lacked the 
+precision to detect small changes in statewide harvest and would incur 
+an unnecessary burden on subsistence harvesters.
+    Issue: One commenter recommended implementation of flexible harvest 
+closure dates based on annual environmental conditions.
+    Response: The use of static closure dates that approximate the 
+primary nesting periods for their respective geographic areas may not 
+align the timing of nesting activity with closure dates for some 
+species in some years. However, static closure dates increase the 
+clarity of regulations for subsistence harvesters and law enforcement 
+and have been implemented successfully in 10 of the 12 regions, 
+including the Upper Copper River/Ahtna Territory region. The co-
+management process allows a region to petition the AMBCC to change to a 
+flexible closure date process, as two regions have already done, but 
+the Upper Copper River/Ahtna Territory has not proposed such changes.
+    Issue: One commenter recommended that urban residents be restricted 
+from the subsistence harvest of migratory birds and eggs during spring 
+and summer.
+    Response: Residents of urban areas are generally restricted from 
+harvest of migratory birds in spring and summer per regulation (50 CFR 
+92.5).
+    Issue: One commenter recommended records of all Tribal 
+consultations be included in the final rule.
+    Response: To date, no requests for formal or informal Tribal 
+consultation on the proposed rule have been requested.
+    Issue: One commenter recommended that sources of Indigenous 
+Knowledge be credited under the discussion in Revisions to Subpart D in 
+the final rule.
+    Response: The Service appreciates the commenter's suggestion to 
+recognize the source of Indigenous Knowledge in the development of 
+harvest regulations. The source of Indigenous Knowledge that supports 
+the proposed change in harvest season dates was submitted in a proposal 
+to the AMBCC in December 2025 (AMBCC Proposal No. 2026-02) and 
+originated from members of the Copper River Migratory Bird Co-
+Management Council, through the Ahtna Intertribal Resource Commission. 
+Oral testimony from the Ahtna Intertribal Resource Commission in 
+support of the proposal was presented at the May 9, 2025, AMBCC meeting 
+in Anchorage, Alaska.
+    Issue: One commenter recommended the Service ensure adaptive 
+management strategies are in place to respond to climate-driven shifts 
+in nesting chronology.
+    Response: The Service adapts its management strategies for the 
+spring-summer subsistence harvest of migratory birds and their eggs 
+through participation in the AMBCC. The AMBCC meets twice annually and 
+provides an opportunity for regional Alaska Native representatives to 
+describe observations from the communities they represent. Such 
+observations include changes in the abundance and species of birds, 
+harvest, climate, bird migration patterns, and nesting activity. From 
+these observations and other supporting data, the Council can identify 
+where regulatory proposals may be needed to change 30-day closure dates 
+to adequately protect birds during the principal nesting period.
+    Issue: One commenter recommended the Service implement a 3-year 
+evaluation period to measure the effect of the proposed change in 
+subsistence harvest season dates on migratory bird species harvested 
+during the spring-summer season in this region.
+    Response: The Service does not believe a 3-year evaluation period 
+is necessary to assess the effect of the proposed change in subsistence 
+harvest season dates on migratory bird populations in this region. This 
+region has low harvest levels and few hunters, making any increase in 
+subsistence harvest due to the proposed changes unlikely to have any 
+population level effects (see response above to third issue for 
+additional information). Implementation of a 3-year evaluation period 
+would incur an unnecessary burden on subsistence hunters and cost
+
+[[Page 37338]]
+
+to the public. The Service evaluates the status of migratory birds 
+annually throughout North America using aerial waterfowl population 
+surveys (U.S. Fish and Wildlife Service 2025), including within the 
+region described in the proposed action, and together with partners in 
+the AMBCC will evaluate all available information and propose 
+regulatory changes where warranted.
+
+Final Regulations
+
+    We are making no changes to the regulatory revisions proposed in 
+our March 9, 2026, proposed rule (91 FR 11266) as a result of the input 
+we received via the public comments.
+    The rule sets forth the following revisions to the regulations for 
+the taking of certain migratory birds for subsistence uses in Alaska 
+during the spring and summer.
+
+Revisions to Subpart A
+
+    In 50 CFR part 92, subpart A (general provisions), we change the 
+name of the Upper Copper River region to the Ahtna Territory region in 
+Sec.  92.5. The Upper Copper River region is one of 12 geographic 
+regions (called regional management areas) in Alaska based on common 
+subsistence resource use patterns and the 12 Alaska Native regional 
+corporation boundaries established under the Alaska Native Claims 
+Settlement Act (ANCSA, 43 U.S.C. 1606). The Upper Copper River region 
+has eight eligible communities whose harvest area includes Alaska State 
+Game Management Units (GMUs) 11, 12, and 13. The Copper River Migratory 
+Bird Co-Management Council submitted a proposal to the AMBCC requesting 
+their region be renamed Ahtna Territory to reflect the desires of 
+member communities to self-identify with an appropriate regional name. 
+The current name inaccurately reflects the region's community 
+membership and eligible harvest area, as the community of Cantwell is 
+not located in the Copper River drainage and its traditional hunting 
+areas are within the watersheds of other major rivers (e.g., the Yukon 
+and Susitna). Renaming this region as the Ahtna Territory will help 
+clarify Ahtna Tribal communities included in the region and better 
+identify those eligible to participate in the spring-summer subsistence 
+harvest.
+    The AMBCC recommended an amendment to the regulations to change the 
+name of the Upper Copper River region to the Ahtna Territory region on 
+April 9, 2025. This regulatory amendment was supported by the Pacific 
+Flyway Council on September 12, 2025, and the SRC on December 16, 2025, 
+and intended for implementation beginning with the 2026 subsistence 
+season.
+
+Revision to Subpart B
+
+    In 50 CFR part 92, subpart B (program structure), we change the 
+name of the Upper Copper River region to the Ahtna Territory region in 
+Sec.  92.11 as described above for subpart A.
+
+Revisions to Subpart D
+
+    In 50 CFR part 92, subpart D (annual regulations governing 
+subsistence harvest), we make several changes for the Upper Copper 
+River region: changing the region's name, clarifying language regarding 
+the harvest area, and modifying the season dates.
+    First, we change the name of the Upper Copper River region to the 
+Ahtna Territory region in Sec.  92.31(i) as described above for subpart 
+A.
+    Second, we clarify and simplify the language in Sec.  92.31(i) 
+regarding which GMUs are included in the harvest area for the Upper 
+Copper River region. Currently, Sec.  92.31(i) states that the harvest 
+area for the eight eligible communities--Gulkana, Chitina, Tazlina, 
+Copper Center, Gakona, Mentasta Lake, Chistochina, and Cantwell--
+includes GMUs 11 and 13. However, Sec.  92.31(i)(3) later adds GMU 12 
+as a harvest area for the Copper River Basin communities listed in 
+Sec.  92.31(i). This creates confusion, as one of the communities 
+(Cantwell) is not located in the Copper River Basin. The current 
+language implies that GMUs 11, 12, and 13 are open for the seven Copper 
+River Basin communities, while Cantwell's harvest area is limited to 
+GMUs 11 and 13. However, Cantwell is located north of the Alaska Range, 
+which qualifies it as an ``included area'' under Sec.  92.5(a). As 
+such, its residents are eligible to harvest birds during the spring-
+summer season in areas north of the Alaska Range, like GMU 12. To 
+clarify the regulations, we add GMU 12 to the list of GMUs in Sec.  
+92.31(i) for all eight communities. We also remove Sec.  92.31(i)(3), 
+as it would become redundant following this change and the season date 
+revisions described below.
+    Third, we modify the season dates within the Upper Copper River 
+region listed in Sec.  92.31(i)(1) and (i)(2). This change will 
+simplify the regulations and better align season dates with bird 
+presence in the region. The Upper Copper River region's harvest area 
+includes GMUs 11, 12, and 13 as described above, but currently the 
+hunting and egg gathering seasons for GMUs 11 and 13 are different from 
+those in GMU 12. The Copper River Migratory Bird Co-Management Council 
+proposed changing the season dates for GMUs 11 and 13 (currently: April 
+15-May 26 and June 27-August 31; closure: May 27-June 26) to match 
+those in GMU 12 (season: April 2-June 14 and July 16-August 31; egg 
+gathering May 1-June 14 only; closure: June 15-July 15). The change 
+will better align the season dates in GMUs 11 and 13 with the 
+availability of birds in the region and improve alignment of the 30-day 
+nesting closure with the principal nesting period. The change would 
+also simplify regulations for the region by establishing consistent 
+season dates in all three GMUs (11, 12, and 13) and, along with the 
+clarification described above, allows the removal of Sec.  92.31(i)(3).
+    Harvest of waterfowl and cranes by rural residents within the Upper 
+Copper River/Ahtna Territory region represents less than 0.2 percent of 
+the statewide harvest (Naves and Schamber 2024) and the population of 
+the eight eligible communities in the region represents about 1.3 
+percent of the statewide population in eligible subsistence harvest 
+areas ( https://live.laborstats.alaska.gov/landing/pop-cen.html ). In 
+addition, there are no threatened eiders or species of conservation 
+concern (e.g., emperor geese) present in this region. These factors 
+suggest that any increase in harvest due to these changes is unlikely 
+to have any population level effects. The AMBCC relied on Indigenous 
+Knowledge from the region to substantiate the necessity of adjusting 
+season dates.
+    On April 9, 2025, the AMBCC recommended an amendment to the 
+regulations to change the season dates for GMUs 11 and 13 in the Upper 
+Copper River region to April 2-June 14 and July 16-August 31; egg 
+gathering May 1-June 14 only; closure: June 15-July 15 to match those 
+in GMU 12. The word ``only'' is used after the egg gathering season 
+dates to be consistent with the current regulations, e.g., at Sec.  
+92.31(h) for the Interior region. This regulatory amendment was 
+supported by the Pacific Flyway Council on September 12, 2025, and the 
+SRC on December 16, 2025, and intended for implementation beginning 
+with the 2026 subsistence season.
+
+Compliance With the MBTA and the Endangered Species Act
+
+    The Service has dual objectives and responsibilities for 
+authorizing a subsistence harvest while protecting migratory birds and 
+threatened species. Although these objectives are challenging, they are 
+not irreconcilable, provided that: (1) regulations continue to protect 
+threatened species, (2) measures to address documented threats are 
+implemented, and (3) the
+
+[[Page 37339]]
+
+subsistence community and other conservation partners commit to working 
+together.
+    Mortality, sickness, and poisoning from lead exposure have been 
+documented in many waterfowl species, including threatened spectacled 
+eiders (Somateria fischeri) and the Alaska-breeding population of 
+Steller's eiders (Polysticta stelleri). While lead shot has been banned 
+nationally for waterfowl hunting since 1991, Service staff have 
+documented the availability of lead shot in waterfowl ammunition for 
+sale in communities on the Yukon-Kuskokwim Delta and North Slope. The 
+Service continues to work with partners to increase education, 
+outreach, and enforcement efforts to ensure that subsistence waterfowl 
+hunting is conducted using nontoxic shot.
+
+Conservation Under the MBTA
+
+    Based on long-term monitoring of harvest and population size of the 
+migratory bird species taken for subsistence, we find that this final 
+rule will provide for the preservation and maintenance of migratory 
+birds as required by the MBTA. Communication and coordination with the 
+AMBCC and the Pacific Flyway Council have aided in the establishment of 
+hunting regulations to ensure the long-term viability of the migratory 
+birds exposed to harvest.
+
+Endangered Species Act Consideration
+
+    Spectacled eiders and the Alaska-breeding population of Steller's 
+eiders are listed as threatened species under the Endangered Species 
+Act of 1973, as amended (ESA, 16 U.S.C. 1531 et seq.). Their migration 
+and breeding distribution overlap with areas where the spring and 
+summer subsistence migratory bird harvest is open in Alaska. However, 
+neither eider species is present in the Upper Copper River region where 
+this final rule applies. In addition, both species are closed to 
+subsistence harvest and under Sec. Sec.  92.21 and 92.32 the Service 
+may implement emergency closures, if necessary, to protect Steller's 
+eiders or any other endangered or threatened species or migratory bird 
+population.
+    Section 7 of the ESA requires the Secretary to review other 
+programs administered by the Department of the Interior and utilize 
+such programs in furtherance of the purposes of the ESA. The Secretary 
+is further required to ensure that any action authorized, funded, or 
+carried out by the Department of the Interior is not likely to 
+jeopardize the continued existence of any endangered species or 
+threatened species or result in the destruction or adverse modification 
+of critical habitat.
+    The Service's Alaska Region Migratory Bird Management Program 
+conducted an intra-agency consultation with the Service's Northern 
+Alaska Fish and Wildlife Field Office on the proposed rule (91 FR 
+11266; March 9, 2026). Given the absence of listed eiders in the action 
+area, a no effect determination was made. Therefore, the Service will 
+not need to issue a letter of concurrence or biological opinion, and we 
+have determined that this rule complies with the ESA.
+
+Immediate Effective Date
+
+    This rule takes effect on the date set forth above in DATES. To 
+respect the subsistence hunt of many rural Alaskans, either for their 
+cultural or religious exercise, for providing sustenance, or for 
+acquiring materials for cultural use (e.g., handicrafts), the 
+Department of the Interior finds that it is in the public interest to 
+make this rule effective as soon as possible. Delaying the effective 
+date for 30 days would have detrimental effects on Alaskans seeking to 
+conduct subsistence harvest of migratory birds. Within the terms of 5 
+U.S.C. 553(d)(1) of the Administrative Procedure Act (APA), the 
+regulations in 50 CFR part 92 recognize a statutory exemption provided 
+to rural Alaskans for the subsistence harvest of migratory birds. For 
+these reasons, under the authority of the APA and the MBTA, this rule 
+takes effect immediately upon publication in the Federal Register.
 
 Required Determinations
 
-National Environmental Policy Act (42 U.S.C. 4321 et seq.)
-
-    The programmatic document, ``Second Final Supplemental 
-Environmental Impact Statement: Issuance of Annual Regulations 
-Permitting the Sport Hunting of Migratory Birds (EIS 20130139),'' filed 
-with the Environmental Protection Agency (EPA) on May 24, 2013, 
-addresses criteria of the National Environmental Policy Act (NEPA; 42 
-U.S.C. 4321 et seq.) compliance by the Service for issuance of the 
-annual framework regulations for hunting of migratory game bird 
-species. We published a notice of availability in the Federal Register 
-on May 31, 2013 (78 FR 32686), and our Record of Decision on July 26, 
-2013 (78 FR 45376). This EIS and Record of Decision continue to apply 
-to the new process for authorizing seasonal game bird hunting. Further, 
-the new hunting regulations process is more compliant with these NEPA 
-documents than the current process. Specifically, there were two 
-preferred alternatives in the NEPA documents that are only now being 
-implemented with the new process. These include the frequency of review 
-and adoption of duck regulatory packages and zones and split season 
-guidelines. The preferred alternative in both cases is to establish 
-these packages and guidelines for at least a 5-year period, with 
-changes limited to not sooner than every 5 years, and then after that 
-only when necessary (see above under Adaptive Harvest Management 
-Approach for Duck Harvest Management, and Duck Zones and Split Seasons, 
-and Dove Zones and Split Seasons for more details). We currently 
-propose and finalize these regulations every year or 5 years regardless 
-of changes. We address NEPA compliance for zones and split hunting 
-seasons through the preparation of environmental assessments, the most 
-recent being the Zones and Split Seasons for Duck Hunting and its
-
-[[Page 38556]]
-
-corresponding 2011 finding of no significant impact.
-    This direct final rule is administrative in nature and is 
-categorically excluded. It revises the process for transmitting 
-authorization conditions for seasonal migratory game bird hunting to 
-States and Tribes. Importantly, it does not alter the substantive 
-annual biological monitoring and assessment process that determines 
-those conditions.
-    The categorical exclusion determination is based on primarily 43 
-CFR 46.210(i) (in addition to 43 CFR 46.205 and 46.215), which provides 
-that policies, directives, regulations, and guidelines of 
-administrative, financial, legal, technical, or procedural nature 
-qualify for categorical exclusion. The environmental effects of this 
-action are too broad or speculative to lend themselves to meaningful 
-analysis and are addressed in an environmental action statement, which 
-is part of the record for this direct final rule and available for 
-public inspection as provided in ADDRESSES, Document availability.
-
-Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.)
-
-    Section 7 of the Endangered Species Act of 1973, as amended (16 
-U.S.C. 1531 et seq.), provides that the Secretary shall insure that any 
-action authorized, funded, or carried out is not likely to jeopardize 
-the continued existence of any endangered species or threatened species 
-or result in the destruction or adverse modification of critical 
-habitat. We conducted a formal consultation to ensure that actions 
-resulting from these regulations will not likely jeopardize the 
-continued existence of endangered or threatened species or result in 
-the destruction or adverse modification of their critical habitat. 
-Findings from this consultation are included in a biological opinion, 
-which concludes that the regulations are not likely to jeopardize the 
-continued existence of any endangered or threatened species. The 
-biological opinion resulting from this section 7 consultation is part 
-of the record for this rule and available for public inspection as 
-provided in ADDRESSES, Document availability.
-
-Regulatory Planning and Review (Executive Order (E.O.) 12866), 
-Improving Regulation and Regulatory Review (E.O. 13563), and Unleashing 
-Prosperity Through Deregulation (E.O. 14192)
+Regulatory Planning and Review (Executive Orders (E.O.s) 12866 and 
+13563)
 
     E.O. 12866 provides that the Office of Information and Regulatory 
-Affairs (OIRA) in the Office of Management and Budget (OMB) reviews all 
-significant rules as defined by that E.O. This rulemaking action will 
-serve only to change the administrative process for authorizing States 
-and Tribes to establish their regulations for migratory game bird 
-hunting. OIRA has determined that this rule is significant under 
-section 3(f) of E.O. 12866.
+Affairs (OIRA) in the Office of Management and Budget (OMB) will review 
+all significant rules. OIRA has determined that this rule is not 
+significant.
     E.O. 13563 reaffirms the principles of E.O. 12866 while calling for 
 improvements in the Nation's regulatory system to promote 
 predictability, to reduce uncertainty, and to use the best, most 
 innovative, and least burdensome tools for achieving regulatory ends. 
-E.O. 13653 directs agencies to consider regulatory approaches that 
+E.O. 13563 directs agencies to consider regulatory approaches that 
 reduce burdens and maintain flexibility and freedom of choice for the 
 public where these approaches are relevant, feasible, and consistent 
 with regulatory objectives. E.O. 13563 emphasizes further that 
 regulations must be based on the best available science and that the 
 rulemaking process must allow for public participation and an open 
-exchange of ideas. By eliminating annual rulemaking, the Service will 
-save about $80,000 per year in printing costs, reduce staff workload by 
-at least 50 percent, and reduce 200 hours of managerial workload 
-reviewing and surnaming documents.
-    We have developed this direct final rule in a manner consistent 
-with these requirements. This final rule is an E.O. 14192 deregulatory 
-action.
+exchange of ideas. We have developed these revisions to the CFR in a 
+manner consistent with these requirements.
 
-Regulatory Flexibility Act (5 U.S.C. 601 et seq.)
+Regulatory Flexibility Act
 
-    Under the Regulatory Flexibility Act (5 U.S.C. 601 et seq.), as 
-amended by the Small Business Regulatory Enforcement Fairness Act 
-(SBREFA) of 1996 (Pub. L. 104-121)), whenever an agency is required to 
-publish a notice of rulemaking for any proposed or final rule, it must 
-prepare and make available for public comment a regulatory flexibility 
-analysis that describes the effect of the rule on small businesses, 
-small organizations, and small government jurisdictions. However, no 
-regulatory flexibility analysis is required if the head of an agency 
-certifies the rule will not have a significant economic impact on a 
-substantial number of small entities.
-    We have examined this final rule's potential effects on small 
-entities as required by the Regulatory Flexibility Act and determined 
-that this action will not have an economic impact on any small 
-entities. This final rule is administrative in nature, and the affected 
-entities are State and Tribal governments. The rulemaking action 
-changes only our internal administrative process for authorizing States 
-and Tribes to establish seasonal migratory game bird hunting 
-regulations. The annual process is largely a cooperative effort between 
-the Service and the States. The change in our administrative process 
-eliminates the need for annual rulemaking and is expected to increase 
-efficiency; better meet State, Tribal, and Federal rulemaking 
-constraints; and reduce the complexity and costs associated with 
-promulgating annual migratory game bird hunting regulations.
-    This is not a major rule under SBREFA (5 U.S.C. 804(2)). This 
-direct final rule will not have an annual effect on the economy of $100 
-million or more; will not cause a major increase in costs or prices for 
-consumers, individual industries, or Federal, State, or local 
-government agencies, or geographic regions; and will not have 
-significant adverse effects on competition, employment, investment, 
-productivity, innovation, or the ability of U.S.-based enterprises to 
-compete with foreign-based enterprises.
+    The Department of the Interior certifies that this rule will not 
+have a significant economic impact on a substantial number of small 
+entities as defined under the Regulatory Flexibility Act (5 U.S.C. 601 
+et seq.). A regulatory flexibility analysis is not required.
+    Accordingly, a small entity compliance guide is not required. The 
+regulations at 50 CFR part 92 legalize a preexisting subsistence 
+activity. The commodities that are regulated under these regulations 
+are migratory birds, and the resources harvested are consumed. This 
+final rule makes only modest changes to the current regulations.
 
 Congressional Review Act
 
-    Pursuant to subtitle E of the Small Business Regulatory Enforcement 
-Fairness Act (also known as the Congressional Review Act or CRA, 5 
-U.S.C. 801 et seq.), OIRA designated this action as a major rule, as 
-defined by 5 U.S.C. 804(2), because it is likely to result in an annual 
-effect on the economy of $100 million or more. However, because this 
-final rule establishes a regulatory program for activity related to 
-hunting and because hunting seasons are time sensitive, we establish 
-the effective date of this final rule using the exemption in the CRA at 
-5 U.S.C. 808(1).
+    This final rule is not a major rule under 5 U.S.C. 804(2), the 
+Congressional Review Act. This final rule:
+    (a) Would not have an annual effect on the economy of $100 million 
+or more. The regulations at 50 CFR part 92 legalize the subsistence 
+harvest of migratory birds and, as such, do not involve commodities 
+traded in the marketplace. This final rule would not result in a 
+substantial increase in subsistence harvest or a significant change in 
+harvesting patterns.
+    (b) Would not cause a major increase in costs or prices for 
+consumers; individual industries; Federal, State, or local government 
+agencies; or geographic regions. This final rule does not deal with 
+traded commodities and, therefore, would not have an impact on prices 
+for consumers.
+    (c) Would not have significant adverse effects on competition, 
+employment, investment, productivity, innovation, or the ability of 
+U.S.-based enterprises to compete with foreign-based enterprises. This 
+final rule deals with the harvesting of wildlife for personal 
+consumption. It would not regulate the marketplace in any way to 
+generate substantial effects on the economy or the ability of 
+businesses to compete.
 
-Paperwork Reduction Act (44 U.S.C. 3501 et seq.)
+Unfunded Mandates Reform Act
 
-    This direct final rule does not contain any new collection of 
-information that requires approval by the Office of Management and 
-Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 
-et seq.). OMB has previously approved the information collection 
-requirements associated with migratory game bird surveys and the 
-procedures for establishing annual migratory bird hunting seasons under 
-the following OMB control numbers:
-      1018-0019, ``North American Woodcock Singing Ground 
-Survey'' (expires 02/28/2027).
-      1018-0023, ``Migratory Bird Surveys, 50 CFR 20.20'' 
-(expires 09/30/2028). Includes Migratory Bird Harvest Information 
-Program, Migratory Bird Hunter Surveys, Sandhill Crane Survey, and 
-Parts Collection Survey.
+    We have determined and certified under the Unfunded Mandates Reform 
+Act (2 U.S.C. 1501 et seq.) that this final rule would not impose a 
+cost of $100 million or more in any given year on local, State, or 
+Tribal governments or private entities. The final rule would not have a 
+significant or unique effect on local, State, or Tribal governments or 
+the private sector. A statement
 
-[[Page 38557]]
+[[Page 37340]]
 
-      1018-0171, ``Establishment of Annual Migratory Bird 
-Hunting Seasons, 50 CFR part 20'' (expires 10/30/2027).
-    You may view the information collection request(s) at  http://www.reginfo.gov/public/do/PRAMain . An agency may not conduct or 
-sponsor, and a person is not required to respond to, a collection of 
-information unless it displays a currently valid OMB control number.
+containing the information required by the Unfunded Mandates Reform Act 
+is not required. Participation on regional management bodies and the 
+Council requires travel expenses for some Alaska Native organizations 
+and local governments. In addition, they assume some expenses related 
+to coordinating involvement of village councils in the regulatory 
+process. Total coordination and travel expenses for all Alaska Native 
+organizations are estimated to be less than $300,000 per year. When 
+funding permits, the Service makes annual grant agreements available to 
+the partner organizations and the ADFG to help offset their expenses. 
+However, this final rule would not revise any regulations pertaining to 
+participation in the regulatory process.
 
-Unfunded Mandates Reform Act (2 U.S.C. 1501 et seq.)
+Takings (E.O. 12630)
 
-    We have determined and certify, in compliance with the requirements 
-of the Unfunded Mandates Reform Act, 2 U.S.C. 1502 et seq., that this 
-final rulemaking does not include any Federal mandate that may result 
-in the expenditure by State, local, and Tribal governments, in the 
-aggregate, or by the private sector, of $100 million or more (adjusted 
-for inflation) in any one year and does not significantly or uniquely 
-affect small governments.
+    Under the criteria in E.O. 12630, this final rule would not have 
+significant takings implications. The changes to the regulations at 50 
+CFR part 92 are not specific to particular landownership but instead 
+apply to the harvesting of migratory bird resources in portions of 
+Alaska. A takings implication assessment is not required.
+
+Federalism (E.O. 13132)
+
+    In accordance with E.O. 13132 (Federalism), this final rule does 
+not have significant federalism implications to warrant the preparation 
+of a federalism summary impact statement. The Service worked with the 
+State of Alaska to develop these regulations. Therefore, a federalism 
+summary impact statement is not required.
 
 Civil Justice Reform (E.O. 12988)
 
-    The Department, in promulgating this direct final rule, has 
-determined that this rulemaking action will not unduly burden the 
-judicial system and that it meets the requirements of sections 3(a) and 
-3(b)(2) of E.O. 12988.
+    The Department, in promulgating this final rule, has determined 
+that it would not unduly burden the judicial system and that it meets 
+the requirements of sections 3(a) and 3(b)(2) of E.O. 12988.
 
-Takings Implication Assessment (E.O. 12630)
-
-    In accordance with E.O. 12630, this direct final rule, authorized 
-by the MBTA, does not have significant takings implications and does 
-not affect any constitutionally protected property rights. This direct 
-final rule will not result in the physical occupancy of property, the 
-physical invasion of property, or the regulatory taking of any 
-property. In fact, this final rulemaking action would allow hunters to 
-exercise otherwise unavailable privileges and, therefore, will reduce 
-restrictions on the use of private and public property.
-
-Energy Effects (E.O. 13211)
-
-    E.O. 13211 requires agencies to prepare statements of energy 
-effects when undertaking certain actions. This rule is not likely to 
-have a significant adverse effect on the supply, distribution, or use 
-of energy and has not been designated by OIRA as a significant energy 
-action. Therefore, no statement of energy effects is required.
-
-Government-to-Government Relationship With Tribes
+Government-to-Government Relations With Native American Tribal 
+Governments
 
     In accordance with E.O. 13175 (``Consultation and Coordination with 
-Native American Indian Tribal Governments'') and the Department of the 
-Interior's manual at 512 DM 2, we considered possible effects of this 
-direct final rule on federally recognized Indian Tribes with respect to 
-impacts to Tribes' treaty rights to hunt waterfowl. We have determined 
-that there are de minimis effects on Indian Tribes for that aspect of 
-their treaty rights. Through this process to establish and announce 
-authorization conditions for migratory game bird hunting, we regularly 
-coordinate with Tribes that are affected. Tribes could attend spring 
-and fall Flyway Council meetings, participate in SRC meetings, and 
-provide comments on Federal Register publications concerning 
-authorization conditions for migratory game bird hunting, and, whenever 
-needed, we hold informal consultations with Tribes regarding trust 
-resources, trust assets, health, and safety. This final rule will not 
-have substantial direct effects on one or more Indian Tribes, on the 
-relationship between the Federal Government and Indian Tribes, or on 
-the distribution of power and responsibilities between the Federal 
-Government and Indian Tribes.
-    This direct final rule is administrative in nature and does not 
-directly affect any specific Tribal lands, treaty rights, or Tribal 
-trust resources. In addition, this direct final rule will not interfere 
-with the ability of Tribes to manage themselves or their funds or to 
-regulate migratory bird activities on Tribal lands. Therefore, we 
-preliminarily conclude that this rulemaking action does not have 
-``Tribal implications'' under section 1(a) of E.O. 13175. Thus, formal 
-government-to-government consultation is not required by E.O. 13175 and 
-related policies of the Department of the Interior. We will continue to 
-collaborate with Tribes on concerns related to migratory game bird 
-hunting regulations.
-    We routinely provide Federal Register publications and biological 
-status reports pertaining to migratory bird management, authorization 
-conditions, and regulations online for all States and Tribes, and other 
-interested parties. Upon being notified of any concern regarding 
-proposed and final regulations, we have initiated consultation, and we 
-will continue to consult with Tribes when necessary and requested by 
-Tribes
+Indian Tribal Governments''), and the Department of the Interior's 
+manual chapters at 512 DM 2, 512 DM 4, and 512 DM 6, we readily 
+acknowledge our responsibility to communicate meaningfully with 
+federally recognized Tribes and Alaska Native Corporations on a 
+government-to-government basis. We sent letters via electronic mail to 
+all 229 federally recognized Indian Tribes in Alaska. Consistent with 
+512 DM 5 and 512 DM 7, we also sent letters to approximately 200 Alaska 
+Native Corporations and other Tribal entities in Alaska soliciting 
+their input as to whether or not they would like the Service to consult 
+with them on the proposed changes to the migratory bird subsistence 
+harvest regulations.
+    We implemented the amended treaty with Canada with a focus on local 
+involvement. The treaty calls for the creation of management bodies to 
+ensure an effective and meaningful role for Alaska's indigenous 
+inhabitants in the conservation of migratory birds. According to the 
+Letter of Submittal, management bodies are to include Alaska Native, 
+Federal, and State of Alaska representatives as equals. They develop 
+recommendations for, among other things: seasons and bag limits, 
+methods and means of take, law enforcement policies, population and 
+harvest monitoring, educational programs, research and use of 
+traditional knowledge, and habitat protection. The management bodies 
+involve village councils to the maximum extent possible in all aspects 
+of management. To ensure maximum input at the village level, we 
+required each of the 11 participating regions to create regional 
+management bodies consisting of at least one representative from the 
+participating villages. The regional management bodies meet up to twice 
+annually to review and/or submit proposals to the statewide body.
 
-Federalism Effects (E.O. 13132)
+Paperwork Reduction Act of 1995 (PRA)
 
-    Due to the migratory nature of certain species of birds, the 
-Federal Government has been given responsibility over these species by 
-the MBTA. We prescribe authorization conditions from which States and 
-Tribes may establish their annual regulations for migratory game bird 
-hunting seasons. This final rule changes only the Federal internal 
-administrative process for establishing the authorization conditions 
-and preserves the ability of the States and Tribes to establish hunting 
-seasons that meet their individual needs. We maintain our regulations 
-at 50 CFR 20.110 (Regulations for certain Federal Indian reservations 
-and ceded lands) recognizing Tribal sovereignty to exercise reserved 
-hunting rights and, for some Tribes, recognition of their authority to 
-regulate hunting by both Tribal and nontribal members on their 
-reservation. Consistent with our longstanding policy, we continue to 
-recognize that, in certain cases, conflicts may arise between specific 
-States and Tribes on aspects of Tribal treaty rights. The Service 
-actively supports the parties reaching a mutually agreeable solution to 
-such conflicts.
-    Any State or Tribe may be more restrictive in its regulations than 
-the Federal authorization conditions and regulations at any time. The 
-authorization conditions are developed in a cooperative process with 
-the States and the Flyway Councils. This process allows States to 
-participate in the development of the authorization conditions from 
-which they will establish their own hunting regulations. This final 
-rule will not have substantial direct effects on the States, on the 
-relationship between the national government and the States, or on the 
-distribution of power and responsibilities among the various levels of 
-government. Therefore, in accordance with E.O. 13132, these regulations 
-do not have federalism implications and do not warrant the preparation 
-of a federalism summary impact statement.
+    This final rule does not contain any new collection of information 
+that requires approval by the OMB under the Paperwork Reduction Act of 
+1995 (44 U.S.C. 3501 et seq.). An agency may not conduct or sponsor, 
+and a person is not required to respond to, a collection of information 
+unless it displays a currently valid OMB control number. OMB has 
+previously approved the information collection requirements associated 
+with subsistence harvest reporting and assigned the following OMB 
+control numbers:
+      Alaska Migratory Bird Subsistence Harvest Household 
+Survey, OMB Control Number 1018-0124 (expires July 31, 2027), and
+      Regulations for the Taking of Migratory Birds for 
+Subsistence Uses in Alaska, 50 CFR part 92, OMB Control Number 1018-
+0178 (expires July 31, 2027).
 
-Reference Cited
+National Environmental Policy Act Consideration (42 U.S.C. 4321 et 
+seq.)
 
-Lockie, S., and S. Rockloff. 2005. Decision Frameworks: Assessment of 
-the social aspects of decision frameworks and development of a 
-conceptual model. Coastal CRC Discussion Paper. Norman Gardens, 
-Australia: Central Queensland University.
+    The regulations at 50 CFR part 92 and options are considered in the 
+Finding of No Significant Impact, ``Migratory Bird Subsistence Harvest 
+in Alaska; Harvest Regulations for Migratory Birds in Alaska During the 
+2026 Spring/Summer Season.'' Copies are available online at:  https://www.fws.gov/media/usfws-finding-no-significant-impact-2026 .
 
-List of Subjects in 50 CFR Part 20
+Energy Supply, Distribution, or Use (E.O. 13211)
 
-    Exports, Hunting, Imports, Reporting and recordkeeping 
-requirements, Transportation, Wildlife.
+    E.O. 13211 requires agencies to prepare statements of energy 
+effects when undertaking certain actions. This final rule is not a 
+significant regulatory action under this E.O.; it allows only for 
+traditional subsistence harvest and improves conservation of migratory 
+birds by allowing effective regulation of this harvest. This final rule 
+would not have any effect on energy supplies, distribution, or use. 
+Therefore, this action is not a significant energy action under 
+Executive Order 13211, and a statement of energy effects is not 
+required.
+
+References Cited
+
+Naves, Liliana C. and Jason L. Schamber. 2024. Harvest of waterfowl 
+and Sandhill Crane in rural Alaska: Geographic and seasonal 
+patterns. PLoS ONE 19(7): e0307135.
+U.S. Fish and Wildlife Service. 2025. Waterfowl population status, 
+2025. U.S. Department of the Interior, Washington, DC USA.
+
+List of Subjects in 50 CFR Part 92
+
+    Hunting, Treaties, Wildlife.
 
 Regulation Promulgation
 
-    Accordingly, for the reasons described in the preamble, the U.S. 
-Fish and Wildlife Service is amending title 50, chapter I, subchapter 
-B, part 20, of the
+    For the reasons set out in the preamble, the U.S. Fish and Wildlife 
+Service amends 50 CFR part 92 as set forth below:
 
-[[Page 38558]]
-
-Code of Federal Regulations as set forth below:
-
-PART 20--MIGRATORY BIRD HUNTING
+PART 92--MIGRATORY BIRD SUBSISTENCE HARVEST IN ALASKA
 
 0
-1. The authority citation for part 20 is revised to read as follows:
+1. The authority citation for part 92 continues to read as follows:
 
-    Authority: 16 U.S.C. 703 et seq. and 742a-j.
+    Authority:  16 U.S.C. 703-712.
 
-Subpart B--Definitions
-
-0
-2. Amend Sec.  20.11 by:
-0
-a. Revising the introductory text and paragraph (a) introductory text;
-0
-b. In paragraph (b)(1), removing the word ``precribed'' and adding in 
-its place the word ``prescribed''; and
-0
-c. In paragraph (c)(5), removing the word ``aggegate'' and adding in 
-its place the word ``aggregate''.
-    These revisions read as follows:
-
-Sec.  20.11  What terms do I need to understand?
-
-    In addition to definitions contained in part 10 of this chapter, as 
-used in this part, the following terms will be construed, respectively, 
-to mean and to include:
-    (a) Migratory game birds means those migratory birds included in 
-the terms of conventions between the United States and any foreign 
-country for the protection of migratory birds, for which hunting is 
-authorized in this part and which belong to the following families:
-* * * * *
-
-Subpart C--Taking
+Sec.  92.5  [Amended]
 
 0
-3. Amend Sec.  20.21 by revising paragraphs (b)(2) and (g)(2) to read 
-as follows:
+2. In Sec.  92.5 amend paragraphs (a)(2)(i) and (d)(2) by removing the 
+words ``Upper Copper River Region'' and adding in their place the words 
+``Ahtna Territory Region''.
 
-Sec.  20.21  What hunting methods are illegal?
+Sec.  92.11  [Amended]
+
+0
+3. In Sec.  92.11 amend paragraph (a)(11) by removing the words ``Upper 
+Copper River'' and adding in their place the words ``Ahtna Territory''.
+
+0
+4. Amend Sec.  92.31 by revising paragraph (i) to read as follows:
+
+Sec.  92.31  Region-specific regulations.
 
 * * * * *
-    (b) * * *
-    (2) A hunting season only for Canada and cackling geese during the 
-period of September 1 to September 30, provided:
-    (i) The season occurs within the Atlantic, Central, and Mississippi 
-Flyways (see Sec.  20.107 for definitions of the flyways);
-    (ii) All other waterfowl and crane hunting seasons, excluding 
-falconry, are closed; and
-    (iii) The State notifies the Service's Migratory Bird Program by 
-May 31 each year of its intention to authorize the additional hunting 
-method in its regulations for the seasonal hunting of migratory game 
-birds.
+    (i) Ahtna Territory region (Harvest Area: Game Management Units 11, 
+12, and 13) (Eligible communities: Gulkana, Chitina, Tazlina, Copper 
+Center,
+
+[[Page 37341]]
+
+Gakona, Mentasta Lake, Chistochina and Cantwell).
+    (1) Season: April 2-June 14 and July 16-August 31; egg gathering 
+May 1-June 14 only.
+    (2) Closure: June 15-July 15.
 * * * * *
-    (g) * * *
-    (2) A hunting season only for Canada and cackling geese during the 
-period of September 1 to September 30, provided:
-    (i) The season occurs within the Atlantic, Central, and Mississippi 
-Flyways (see Sec.  20.107 for definitions of the flyways);
-    (ii) All other waterfowl and crane hunting seasons, excluding 
-falconry, are closed; and
-    (iii) The State notifies the Service's Migratory Bird Program by 
-May 31 each year of its intention to authorize the additional hunting 
-method in its regulations for the seasonal hunting of migratory game 
-birds.
-* * * * *
-
-0
-4. Revise Sec.  20.23 to read as follows:
-
-Sec.  20.23  Shooting and hawking hours.
-
-    No person may take migratory game birds except during the hours 
-open to shooting, which includes hawking (taking by falconry), as 
-prescribed in subpart K of this part and 50 CFR 21.180 and 21.183 of 
-this chapter.
-
-Subpart H--Federal, State, and Foreign Law
-
-0
-5. Revise Sec.  20.71 to read as follows:
-
-Sec.  20.71  Violation of Federal law.
-
-    No person shall at any time, by any means or in any manner, take, 
-possess, transport, or export any migratory bird, or any part, nest, or 
-egg of any such bird, in violation of any act of Congress or any 
-regulation, including the regulations in this part and the 
-authorization conditions (see Sec.  20.107 for a definition) for 
-migratory bird hunting and in accordance with Sec.  20.125(a), issued 
-pursuant thereto.
-
-0
-6. Revise Sec.  20.72 to read as follows:
-
-Sec.  20.72  Violation of State and Tribal law.
-
-    No person shall at any time, by any means or in any manner, take, 
-possess, transport, or export any migratory bird, or any part, nest, or 
-egg of any such bird, in violation of any applicable law or regulation 
-of any State or Tribe. A violation of State or Tribal law or 
-regulation, including State regulations in a Federal policy memorandum 
-posted on a Service website, for migratory bird hunting constitutes a 
-violation of Federal law.
-
-0
-7. Revise subpart K to read as follows:
-Subpart K--Process for Issuing Authorization Conditions for Migratory 
-Game Bird Hunting
-Sec.
-20.100 General provisions.
-20.107 Definitions.
-20.108 Nontoxic shot zones.
-20.109 Extended seasons, limits, and hours for taking migratory game 
-birds by falconry.
-20.110 Regulations for certain Federal Indian reservations and ceded 
-lands.
-20.115 Duck and dove zone and split-season configurations.
-20.117 Duck season regulatory alternatives.
-20.119 Establishing the authorization conditions.
-20.121 Notification of the authorization conditions.
-20.123 Special and experimental seasons.
-20.125 Requirements for States.
-20.127 Requirements for hunters.
-20.129 Service Migratory Bird Regulations Committee.
-20.130 Flyway Councils.
-
-Sec.  20.100  General provisions.
-
-    (a) The taking, possession, transportation, and other uses of 
-migratory birds is prohibited unless it is specifically provided for in 
-regulations developed in accordance with the Migratory Bird Treaty Act. 
-Consequently, migratory game bird hunting is prohibited except as 
-authorized in regulations in this part and in accordance with the 
-authorization conditions (see Sec.  20.107 for a definition) for State 
-and Tribal migratory bird hunting regulations.
-    (b) Authorization conditions will be based on data including, but 
-not limited to, migratory game bird population status and trends, 
-habitat conditions, and anticipated harvest. The authorization 
-conditions will be periodically adjusted to account for bird abundance 
-and other biological factors.
-    (c) In the Atlantic Flyway States of Connecticut, Maine, Maryland, 
-Massachusetts, New Jersey, North Carolina, and Pennsylvania, if Sunday 
-hunting of migratory game birds is prohibited statewide by State law or 
-regulation, all Sundays are closed to the take of all migratory game 
-birds.
-
-Sec.  20.107  Definitions.
-
-    For the purpose of this subpart, the following terms will be 
-construed, respectively, to mean and to include:
-    Area means a federally established geographic boundary within which 
-migratory game bird hunting may occur.
-    Authorization conditions means the selected Federal regulatory 
-alternatives from our decision frameworks within which States and 
-Tribes may establish regulations for the seasonal hunting of migratory 
-game birds in accordance with Federal regulations.
-    (1) The selected regulatory alternatives may change periodically 
-based on the status of populations and environmental conditions and 
-will include the regulatory parameters most directly related to 
-maintaining harvests at levels compatible with a game bird population's 
-ability to be self-sustaining.
-    (2) Authorization conditions specify the bracket dates, season 
-lengths,
-
-[[Page 38559]]
-
-shooting hours, bag and possession limits, areas where hunting may 
-occur, and other restrictions, conditions, and requirements associated 
-with the seasonal hunting of migratory game birds.
-    Bracket dates means the earliest and latest dates for migratory 
-game bird hunting open seasons.
-    Decision framework means a structured set of procedures, rules, 
-models, and information criteria for selecting the appropriate 
-authorization conditions from a fixed set of regulatory alternatives, 
-each with a different expected harvest level, based on the harvest 
-management objectives and status, demographics, and environmental 
-conditions of the applicable migratory game bird population. Decision 
-frameworks used by the Service are based on the U.S. Code and Code of 
-Federal Regulations or published in the Federal Register as a final 
-rule.
-    Flyway means a geographically bounded administrative region.
-    (1) Atlantic Flyway is Connecticut, Delaware, Florida, Georgia, 
-Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, 
-North Carolina, Pennsylvania, Rhode Island, South Carolina, Vermont, 
-Virginia, and West Virginia.
-    (2) Mississippi Flyway is Alabama, Arkansas, Illinois, Indiana, 
-Iowa, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, 
-Ohio, Tennessee, and Wisconsin.
-    (3) Central Flyway is Colorado (east of the Continental Divide), 
-Kansas, Montana (Counties of Blaine, Carbon, Fergus, Judith Basin, 
-Stillwater, Sweetgrass, Wheatland, and all counties east thereof), 
-Nebraska, New Mexico (east of the Continental Divide except the 
-Jicarilla Apache Indian Reservation), North Dakota, Oklahoma, South 
-Dakota, Texas, and Wyoming (east of the Continental Divide).
-    (4) Pacific Flyway is Arizona, California, Idaho, Nevada, Oregon, 
-Utah, Washington, and those portions of Colorado, Montana, New Mexico, 
-and Wyoming not included in the Central Flyway.
-    Flyway Council means the representatives from each State within 
-that Flyway. Additionally, representatives from Puerto Rico and the 
-U.S. Virgin Islands are included in the Atlantic Flyway Council, and 
-representatives from Alaska are included in the Pacific Flyway Council.
-    (1) The Council recommends actions necessary for science-based and 
-sustainable harvest management of migratory birds to the Service.
-    (2) The Flyway Councils are advised by the Flyway technical 
-committees, which evaluate population and habitat information and make 
-recommendations to the Councils on matters of migratory bird 
-conservation.
-    Hunting permit means a federally authorized, State-issued license 
-authorizing specific limited take for hunting migratory game birds, 
-valid only for the individual whose name and address appears on the 
-authorization.
-    Migratory Game Bird Hunting Memorandum means the policy memorandum 
-that sets forth and communicates the authorization conditions within 
-which States and Tribes may establish regulations for the seasonal 
-hunting of migratory game birds in accordance with Federal regulations.
-    Season length means the maximum number of days hunting may occur 
-within the bracket dates for migratory game bird hunting seasons.
-    Season segment means a consecutive-day period within the total 
-season length for migratory game bird hunting seasons.
-    Service Migratory Bird Regulations Committee means the Service 
-Migratory Bird Regulations Committee (Service Regulations Committee or 
-SRC), which is responsible for considering recommendations from the 
-Service and Flyway Councils and recommending authorization conditions 
-and modifications to decision frameworks and migratory game bird 
-hunting regulations to the Director of the Service.
-    Zone means a geographic contiguous boundary for which an 
-independent hunting season for a species or group of species may be 
-established to distribute hunting opportunities and harvests according 
-to temporal, geographic, and demographic variability in game bird 
-populations. Zones are established by States and approved by the 
-Service.
-    Zone and split-season configurations means an alternative 
-combination of zones and season segments that a State may use for duck 
-and dove hunting in a 5-year period, as provided in Sec.  20.115.
-
-Sec.  20.108  Nontoxic shot zones.
-
-    Beginning September 1, 1991, the contiguous 48 United States, and 
-the States of Alaska and Hawaii, the Territories of Puerto Rico and the 
-Virgin Islands, and the territorial waters of the United States, are 
-designated for the purpose of Sec.  20.21(j) as nontoxic shot zones for 
-hunting waterfowl, coots, and certain other species. ``Certain other 
-species'' refers to those species, other than waterfowl or coots, that 
-are affected by reason of being included in aggregate bags and 
-concurrent seasons.
-
-Sec.  20.109  Extended seasons, limits, and hours for taking migratory 
-game birds by falconry.
-
-    (a) In accordance with 50 CFR 21.82, falconry is a permitted means 
-of taking migratory game birds in any State except for Hawaii. General 
-hunting regulations, including seasons and shooting hours, apply to 
-falconry.
-    (b) States and Tribes may establish an extended season for taking 
-migratory game birds in accordance with the following:
-    (1) Bracket dates: September 1-March 10.
-    (2) Season lengths: For all hunting methods combined, the combined 
-length of the extended season, regular season, and any special or 
-experimental seasons must not exceed 107 days for any species or group 
-of species in a geographical area. Each extended season may be split 
-into three segments.
-    (3) Daily bag limits: Falconry daily bag limits for all permitted 
-migratory game birds must not exceed 3 birds in the aggregate during 
-extended falconry seasons, any special or experimental seasons, and 
-regular hunting seasons in each State or Tribe, including those that do 
-not establish an extended falconry season. Regular season bag limits do 
-not apply to falconry. The falconry bag limit is not in addition to 
-shooting limits.
-    (4) Hawking hours: One-half hour before sunrise until sunset except 
-as otherwise restricted by State or Tribal regulations.
-
-Sec.  20.110  Regulations for certain Federal Indian reservations and 
-ceded lands.
-
-    (a) Tribal sovereignty. The Service recognizes Tribal sovereignty 
-to exercise reserved hunting rights and, for some Tribes, recognition 
-of their authority to regulate hunting by both Tribal and nontribal 
-members on their reservation. Accordingly, Tribes may independently 
-establish special (separate from the State or States in which the 
-reservation is located) migratory game bird hunting regulations. 
-Migratory birds may be taken if the take is consistent with the 
-regulations in this section and applicable Tribal hunting regulations.
-    (b) Applicability. Special Tribal migratory game bird hunting 
-regulations may be established by Tribes that have reserved hunting 
-rights on Federal Indian reservations (including off-reservation trust 
-lands) and ceded lands. These regulations also may be applied to the 
-establishment of migratory game bird hunting regulations for nontribal 
-members on all lands within the reservations where Tribes have full
-
-[[Page 38560]]
-
-wildlife-management authority over such hunting, or where the Tribes 
-and affected States otherwise have reached agreement over hunting by 
-nontribal members on non-Indian lands within the reservation.
-    (c) Special regulations. Special Tribal migratory game bird hunting 
-regulations must be consistent with the annual March 11 to August 31 
-closed season mandated by the 1916 Convention Between the United States 
-and Great Britain (for Canada) for the Protection of Migratory Birds, 
-as amended by the Protocol Between the Government of Canada and the 
-Government of the United States of America Amending the 1916 Convention 
-Between the United Kingdom and the United States of America for the 
-Protection of Migratory Birds in Canada and the United States, and with 
-these provisions:
-    (1) Tribes may establish on-reservation hunting regulations, for 
-both Tribal and nontribal members, with hunting seasons that may differ 
-from those in the State(s) in which the reservations are located.
-    (i) Regulations for both Tribal and nontribal members: Opening and 
-closing dates, season length, and daily bag and possession limits for 
-nontribal members on the reservations must be within the authorization 
-conditions for migratory game bird hunting, and all Federal hunting 
-regulations in this part also apply to nontribal hunters. Tribes may 
-choose to set the same opening and closing dates, season length, and 
-daily bag and possession limits for hunting by Tribal members and 
-nontribal members on their reservations, or, in accordance with the 
-provisions in paragraph (c)(1)(ii) of this section, Tribes may choose 
-to establish regulations for Tribal members only.
-    (ii) Regulations for Tribal members only: Tribes may establish on-
-reservation hunting regulations by Tribal members only, with hunting 
-regulations that may differ from the authorization conditions for 
-bracket dates, season length, and daily bag and possession limits. All 
-Federal hunting regulations in this part apply.
-    (A) For a short-term experimental hunting season, a Tribe and the 
-Service may formally agree on allowed methods of take, notwithstanding 
-the regulations in Sec.  20.21, for on-reservation and ceded lands 
-hunting by Tribal members. The Service will make public any such formal 
-agreement.
-    (B) A Tribe that would like to make an additional hunting method 
-operational would need to provide data to the Service for 
-consideration. If the Service agrees with the Tribe's proposal, the 
-Service will conduct rulemaking to amend the regulations in this part 
-to allow Tribal members to use the additional hunting method.
-    (2) Tribes may establish off-reservation hunting regulations by 
-Tribal members on ceded lands, with hunting seasons that may differ 
-from the authorization conditions for season dates, season length, and 
-daily bag and possession limits.
-    (d) Provisions for ceded lands. Tribes that have special migratory 
-game bird hunting regulations for Tribal members on ceded lands must 
-send a copy of the Tribal regulations to officials in the affected 
-State(s) as soon as reasonably possible prior to the season opening.
-
-Sec.  20.115  Duck and dove zone and split-season configurations.
-
-    The alternative combinations of zones and season segments that a 
-State may use for duck and dove hunting in a 5-year period are 
-described in paragraphs (a) and (b) of this section. The SRC may 
-approve a deviation from the 5-year period length for all four flyways.
-    (a) Duck hunting zone and split-season configurations include:
-    (1) One zone (same as no zones) with up to three season segments;
-    (2) Two zones with up to two season segments in each zone;
-    (3) Two zones with up to three season segments in each zone;
-    (4) Three zones with up to two season segments in each zone; or
-    (5) Four zones with a continuous season (i.e., no segments) in each 
-zone.
-    (b) Dove hunting zone and split-season configurations include:
-    (1) One zone (same as no zones) with up to three season segments; 
-or
-    (2) Two zones with up to three season segments in each zone, except 
-in the Western Management Unit where the season in one or both zones 
-may be split into two segments.
-
-Sec.  20.117  Duck season regulatory alternatives.
-
-    For the general duck season authorization conditions, each Flyway 
-has four possible regulatory alternatives (closed, restrictive, 
-moderate, and liberal), each with a different expected harvest level. 
-The open season alternatives are specified as:
-    (a) For Atlantic Flyway:
-
-                                            Table 1 to Paragraph (a)
-----------------------------------------------------------------------------------------------------------------
-                                                                      Alternative
-       Authorization conditions       --------------------------------------------------------------------------
-                                             Restrictive                Moderate                 Liberal
-----------------------------------------------------------------------------------------------------------------
-Bracket dates........................  Oct. 1-Jan. 31.........  Saturday nearest Sep.    Saturday nearest Sep.
-                                                                 24-Jan. 31.              24-Jan. 31.
-Season length (days).................  30.....................  45.....................  60.
-Daily bag limit......................  3......................  6......................  6.
-----------------------------------------------------------------------------------------------------------------
-
-    (b) For Mississippi Flyway:
-
-                                            Table 2 to Paragraph (b)
-----------------------------------------------------------------------------------------------------------------
-                                                                      Alternative
-       Authorization conditions       --------------------------------------------------------------------------
-                                             Restrictive                Moderate                 Liberal
-----------------------------------------------------------------------------------------------------------------
-Bracket dates........................  Saturday nearest Sep.    Saturday nearest Sep.    Saturday nearest Sep.
-                                        24-Jan. 31.              24-Jan. 31.              24-Jan. 31.
-Season length (days).................  30.....................  45.....................  60.
-Daily bag limit......................  3......................  6......................  6.
-Mallard restriction..................  2......................  4......................  4.
-Mallard female restriction...........  1......................  1......................  2.
-----------------------------------------------------------------------------------------------------------------
-
-[[Page 38561]]
-
-    (c) For Central Flyway:
-
-                                            Table 3 to Paragraph (c)
-----------------------------------------------------------------------------------------------------------------
-                                                                      Alternative
-       Authorization conditions       --------------------------------------------------------------------------
-                                             Restrictive                Moderate                 Liberal
-----------------------------------------------------------------------------------------------------------------
-Bracket dates........................  Saturday nearest Sep.    Saturday nearest Sep.    Saturday nearest Sep.
-                                        24-Jan. 31.              24-Jan. 31.              24-Jan. 31.
-Season length (days).................  39.....................  60.....................  74.
-Daily bag limit......................  3......................  6......................  6.
-Mallard restriction..................  3......................  5......................  5.
-Mallard female restriction...........  1......................  1......................  2.
-----------------------------------------------------------------------------------------------------------------
-
-    (d) For Pacific Flyway, except Alaska:
-
-                                            Table 4 to Paragraph (d)
-----------------------------------------------------------------------------------------------------------------
-                                                                      Alternative
-       Authorization conditions       --------------------------------------------------------------------------
-                                             Restrictive                Moderate                 Liberal
-----------------------------------------------------------------------------------------------------------------
-Bracket dates........................  Saturday nearest Sep.    Saturday nearest Sep.    Saturday nearest Sep.
-                                        24-Jan. 31.              24-Jan. 31.              24-Jan. 31.
-Season length (days).................  60.....................  86.....................  107.
-Daily bag limit......................  4......................  7......................  7.
-Mallard restriction..................  3......................  5......................  7.
-Mallard female restriction...........  1......................  2......................  2.
-----------------------------------------------------------------------------------------------------------------
-
-    (e) For Alaska:
-
-                                            Table 5 to Paragraph (e)
-----------------------------------------------------------------------------------------------------------------
-                                                                      Alternative
-       Authorization conditions       --------------------------------------------------------------------------
-                                             Restrictive                Moderate                 Liberal
-----------------------------------------------------------------------------------------------------------------
-Bracket dates........................  Sep. 1-Jan. 26.........  Sep. 1-Jan. 26.........  Sep. 1-Jan. 26.
-Season length (days).................  107....................  107....................  107.
-Daily bag limit......................  5, except Gulf Coast     7, except Gulf Coast     7, except Gulf Coast
-                                        Zone is 6 and North      Zone is 8 and North      Zone is 8 and North
-                                        Zone is 8.               Zone is 10.              Zone is 10.
-----------------------------------------------------------------------------------------------------------------
-
-    (f) Shooting and hawking hours are from one-half hour before 
-sunrise to sunset daily.
-    (g) In the Central Flyway High Plains Mallard Management Unit, the 
-season length may be extended 12 additional days in the restrictive 
-alternative and 23 additional days in the moderate and liberal 
-alternatives; additional days must be on or after the Saturday nearest 
-December 10.
-    (h) In the Pacific Flyway Columbia Basin Mallard Management Unit, 
-the season length may be extended 7 additional days in the restrictive 
-and moderate alternatives.
-    (i) Additional species-specific restrictions may be established in 
-the authorization conditions.
-    (j) Duck season regulatory alternatives are fixed for a period of 
-not less than 5 years.
-
-Sec.  20.119  Establishing the authorization conditions.
-
-    (a) The authorization conditions will be determined using available 
-biological and habitat information and decision frameworks. A list of 
-current decision frameworks is posted on the Service's website with the 
-Migratory Game Bird Hunting Memorandum. The Service will apply 
-available biological and habitat information to the relevant decision 
-framework for that species and will announce the outcomes as the 
-authorization conditions within which States and Tribes may establish 
-their migratory game bird hunting regulations in accordance with the 
-regulations in this part and other applicable Federal regulations.
-    (b) Consistent with the Migratory Bird Treaty Act, the 
-authorization conditions for any migratory game bird season must:
-    (1) Not start prior to September 1;
-    (2) Not end after March 10, except the season for ducks, 
-mergansers, and coots may not end later than January 31 (16 U.S.C. 
-704(c)(1)(B)); and
-    (3) Not exceed 107 days.
-    (c) The Service and Flyway Councils may establish decision 
-frameworks for the determination of authorization conditions that are 
-more restrictive than the provisions in the Migratory Bird Treaty Act.
-
-Sec.  20.121  Notification of the authorization conditions.
-
-    (a) The Service will communicate the authorization conditions in 
-the Migratory Game Bird Hunting Memorandum. The memorandum and any 
-supporting documentation will be made publicly available in the Federal 
-Register through a notice of availability and posted on the Service's 
-website.
-    (b) The Service may update the Migratory Game Bird Hunting 
-Memorandum and notice of availability annually if changes are 
-prescribed by decision frameworks. Updates would occur no later than 
-February 28 of each
-
-[[Page 38562]]
-
-calendar year. If the Service does not issue a new memorandum and 
-notice of availability by February 28, then the authorization 
-conditions in the most recent memorandum will remain in effect.
-    (c) The notice of availability will open a public comment period of 
-not less than 30 days. The Service may revise the Migratory Game Bird 
-Hunting Memorandum based on public comment and, if so, the revised 
-memorandum will be made publicly available in the Federal Register 
-through a notice of availability and posted on the Service's website.
-
-Sec.  20.123  Special and experimental seasons.
-
-    (a) Special seasons authorize additional hunting opportunity 
-outside the regular season but within the 107-day limit mandated by the 
-MBTA. Special seasons are authorized to promote harvest of 
-underutilized species, address overabundance of nuisance species, or 
-provide special hunting opportunities. Experimental seasons are 
-authorized to evaluate expansion of regular and special seasons to new 
-areas, evaluate use of zones and splits, or evaluate alternative 
-seasons.
-    (b) Special or experimental season requests may be made by the 
-Flyway Council(s) or requested by a State. Requests must be submitted 
-by September 1 prior to the requested hunting season. If the Service 
-approves a special or experimental season, it will be authorized in the 
-Migratory Game Bird Hunting Memorandum.
-    (c) To approve special and experimental seasons, the Service must 
-find:
-    (1) The Flyway Council(s) where the hunting will take place endorse 
-the special or experimental season;
-    (2) Species migration and distribution provide sufficient hunting 
-opportunity outside the regular season;
-    (3) There is no or negligible impact to nontarget species; and
-    (4) Authorizations are consistent with existing environmental 
-compliance determinations.
-    (d) Approved experimental seasons may be valid for up to 5 years, 
-after which a new request must be submitted. The Service may require 
-implementing States to collect data for at least 3 years to assess the 
-environmental effects of special or experimental seasons, including 
-effects on target and nontarget species.
-
-Sec.  20.125  Requirements for States.
-
-    (a) States may authorize migratory game bird hunting provided the 
-State establishes hunting regulations in accordance with Federal 
-authorization conditions and regulations. State hunting regulations 
-must be at least as restrictive as the Federal authorization conditions 
-and regulations. Hunting that occurs outside the State regulations or 
-Federal authorization conditions and regulations constitutes a 
-violation of Federal law pursuant to Sec.  20.71.
-    (b) No later than May 31 of each calendar year, States must submit 
-their proposed migratory game bird hunting regulations implementing the 
-Federal authorization conditions to the Service's Migratory Bird 
-Program for review.
-    (c) Areas and zones for which open seasons are specified in a 
-State's hunting regulations must be described, delineated, and 
-designated as such in each State's hunting regulations, and these areas 
-must also be included in the Migratory Game Bird Hunting Memorandum.
-    (d) Unless otherwise specified, States may establish hunting 
-seasons by zones as defined in Sec.  20.107. Zones for certain duck 
-seasons (and associated youth and veterans-active military waterfowl 
-hunting days, gallinule seasons, and snipe seasons) and dove seasons 
-must comply with Federal zone and split-season configurations. Changes 
-among configurations may occur in the first year of the 5-year period 
-that it would apply and according to the following guidelines:
-    (1) States seeking to change their duck or dove hunting zone and 
-split-season configuration selection must provide their selection and 
-zone descriptions to the Service by August 31 of the year prior to the 
-5-year interval during which they would apply.
-    (2) States with approved special case arrangements to change their 
-zone and split-season configuration must conform to the current 
-configurations and may not revert to the special case arrangements that 
-they previously had in place.
-    (3) Only minor (less than one county in size) zone boundary changes 
-will be allowed for any special case arrangement, and such changes are 
-allowed only in the first year of the 5-year period during which it 
-would apply.
-    (4) Minor (less than one county in size) zone boundary changes may 
-be allowed for any State to resolve law enforcement or other boundary 
-clarification issues resulting from implication of a new configuration. 
-Changes will be evaluated on a case-by-case basis and must be approved 
-by the respective Flyway Council and the Service Migratory Bird 
-Regulations Committee.
-    (5) Consideration of changes for management-unit boundaries is not 
-subject to the guidelines and provisions governing the use of zones and 
-split seasons for ducks and doves.
-    (e) States may issue hunting permits for migratory game bird 
-hunting at levels predicted to result in the amount of take authorized 
-by the authorization conditions. Federally authorized, State-issued 
-hunting permits are valid only for the individual whose name and 
-address appears on the hunting permit and must specify a take 
-authorization.
-    (f) States may select 2 days per duck-hunting zone, designated as 
-``Youth Waterfowl Hunting Days,'' and 2 days per duck-hunting zone, 
-designated as ``Veterans and Active Military Personnel Waterfowl 
-Hunting Days,'' in addition to their regular duck seasons.
-    (1) The days may be held concurrently or may be nonconsecutive. 
-Days may be held up to 14 days before or after any regular duck-season 
-bracket dates in the authorization conditions or within any split of a 
-regular duck season, or within any other open season on migratory game 
-birds. Youth Waterfowl Hunting Days must be held outside any regular 
-duck season on weekends, holidays, or other non-school days when youth 
-hunters would have the maximum opportunity to participate.
-    (2) Youth hunters must be younger than 18 years of age. States may 
-specify a more restrictive age definition. An adult 18 years of age or 
-older must accompany the youth hunter into the field. This adult may 
-not duck hunt but may participate in other seasons that are open on the 
-special youth day. Permitted species may be taken only by participants 
-possessing applicable hunting permits.
-    (3) Veterans (as defined in 38 U.S.C. 101) and members of the U.S. 
-Armed Forces on active duty, including members of the National Guard 
-and Reserves on active duty (other than for training), may participate. 
-Permitted species may be taken only by participants possessing 
-applicable hunting permits.
-
-Sec.  20.127  Requirements for hunters.
-
-    (a) Any individual hunting must comply with the regulations in this 
-part, Federal authorization conditions, and any applicable State or 
-Tribal hunting regulations. Violation of any applicable Federal, State, 
-Tribal, or local law or regulation is a violation of Federal law 
-pursuant to Sec.  20.71 and Sec.  20.72.
-    (b) Any individual hunting under a federally authorized, State-
-issued hunting permit must adhere to the provisions of the hunting 
-permit,
-
-[[Page 38563]]
-
-Federal regulations, and State regulations. The hunting permit must be 
-carried by the permittee when exercising the provisions of the hunting 
-permit and must be presented to any law enforcement officer upon 
-request. The hunting permit specifies the individual's name and 
-address. The hunting permit is not transferable or assignable to any 
-other person, and may not be sold, bartered, traded, or otherwise 
-provided to any other person. The hunting permit will be invalid if it 
-is altered or defaced in any way.
-
-Sec.  20.129  Service Migratory Bird Regulations Committee.
-
-    (a) Purpose. The Service Migratory Bird Regulations Committee 
-(Service Regulations Committee or SRC) is responsible for considering 
-recommendations from the Service and Flyway Councils and recommending 
-authorization conditions and modifications to decision frameworks and 
-regulations for migratory game bird hunting to the Director of the 
-Service.
-    (b) Notice of meetings. Some SRC meetings may be attended by any 
-person outside the Department of the Interior. Notices of these 
-meetings will be published on the Service's Migratory Bird Program 
-website at least 2 weeks before the meeting. The notice will state the 
-time, place, and general subject(s) of the meeting, as well as the 
-extent of public involvement such as observation, written comment, or 
-participation. Minutes will be maintained for each meeting of the SRC 
-for which notice is published.
-    (c) Public observation and written comment. Each meeting of the SRC 
-for which notice is published will be open to the public for 
-observation, and the public may submit written comments to the 
-Service's Migratory Bird Program at least 1 week prior to the meeting.
-
-Sec.  20.130  Flyway Councils.
-
-    Notice of each meeting of a Flyway Council to be attended by any 
-official of the Department of the Interior will be announced online on 
-the Service's Migratory Bird Program website at least 2 weeks before 
-the meeting or as soon as practicable after the Department of the 
-Interior learns of the meeting. The notice will state the time, place, 
-and general subject(s) of the meeting.
-
-Subpart L--Administrative and Miscellaneous Provisions
-
-0
-8. Revise Sec.  20.133 to read as follows:
-
-Sec.  20.133  Hunting regulations for crows.
-
-    (a) Crows may be taken, possessed, transported, exported, or 
-imported, only in accordance with such laws or regulations as may be 
-prescribed by a State or Tribe pursuant to this section.
-    (b) Except in the State of Hawaii, where take of crows is 
-prohibited, States and Tribes may by statute or regulation prescribe a 
-hunting season for crows. Such State and Tribal statutes or regulations 
-may set forth the method of taking, the bag and possession limits, the 
-dates and duration of the hunting season, and such other regulations as 
-may be deemed appropriate, subject to the following limitations for 
-each State or Tribe:
-    (1) Crows must not be hunted from aircraft;
-    (2) The hunting season or seasons on crows must not exceed a total 
-of 124 days during a calendar year;
-    (3) Hunting must not be permitted during the peak crow nesting 
-period within a State; and
-    (4) Crows may be taken only by firearms, bow and arrow, and 
-falconry.
-
-Subpart N [Removed and Reserved]
-
-0
-9. Remove and reserve subpart N, which consists of Sec.  20.151 through 
-Sec.  20.155.
 
 Kevin Lilly,
 Principal Deputy Assistant Secretary for Fish and Wildlife and Parks, 
 Exercising the Delegated Authority of the Assistant Secretary for Fish 
 and Wildlife and Parks.
-[FR Doc. 2026-12951 Filed 6-25-26; 8:45 am]
+[FR Doc. 2026-12576 Filed 6-22-26; 8:45 am]
 BILLING CODE 4333-15-P

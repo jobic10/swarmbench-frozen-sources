@@ -1,388 +1,1047 @@
-[Federal Register Volume 91, Number 127 (Monday, July 6, 2026)]
+[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
 [Rules and Regulations]
-[Pages 40892-40896]
+[Pages 39493-39501]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13568]
+[FR Doc No: 2026-13174]
 
 -----------------------------------------------------------------------
 
-DEPARTMENT OF HOMELAND SECURITY
+ENVIRONMENTAL PROTECTION AGENCY
 
-Coast Guard
+40 CFR Part 180
 
-33 CFR Part 165
+[EPA-HQ-OPP-2023-0555; FRL-13412-01]
 
-[Docket Number USCG-2026-0633]
-RIN 1625-AA11
+Bifenthrin; Pesticide Tolerances
 
-Regulated Navigation Area; Hudson River, Albany, NY
+AGENCY: Environmental Protection Agency (EPA).
 
-AGENCY: Coast Guard, Department of Homeland Security.
-
-ACTION: Temporary interim rule and request for comments.
+ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The Coast Guard is establishing a temporary regulated 
-navigation area (RNA) for navigable waters on the Hudson River near 
-Albany, NY. This RNA prohibits entry of vessels or persons during full 
-enforcement unless specifically authorized by the Captain of the Port, 
-Sector New York, or their designated representative, imposes a ``Slow-
-No Wake'' speed restriction, and sets forth other limitations. This 
-rule is necessary to protect personnel, vessels, and the marine 
-environment from potential hazards associated with construction of the 
-new Livingston Avenue Railroad Swing Bridge and demolition of the 
-existing bridge.
+SUMMARY: This regulation establishes tolerances for residues of 
+bifenthrin in or on multiple commodities which are identified and 
+discussed later in this document. Interregional Project Number 4 (IR-4) 
+submitted a petition to EPA requesting that EPA establish a maximum 
+permissible level for residues of this pesticide in or on the 
+identified commodities.
 
-DATES: This rule is effective from July 12, 2026, through October 31, 
-2029. Comments and related material must be received by the Coast Guard 
-on or before August 5, 2026.
+DATES: This regulation is effective June 30, 2026. Objections and 
+requests for hearings must be received on or before August 31, 2026, 
+and must be filed in accordance with the instructions provided in 40 
+CFR part 178 (see also Unit I.C. of this document).
 
-ADDRESSES: To submit comments and view available documents, go to 
- https://www.regulations.gov  and search for USCG-2026-0633.
+ADDRESSES: The docket for this action, identified by docket 
+identification (ID) number EPA-HQ-OPP-2023-0555, is available at 
+ https://www.regulations.gov .
+    Additional information about dockets generally, along with 
+instructions for visiting the docket in person, is available at  https://www.epa.gov/dockets .
 
-FOR FURTHER INFORMATION CONTACT: If you have questions about this rule, 
-contact Mr. Jeffrey Yunker, Sector New York Waterways Management 
-Division, U.S. Coast Guard; telephone 571-607-2628, or email 
+FOR FURTHER INFORMATION CONTACT: Charles Smith, Director, Registration 
+Division (7505T), Office of Pesticide Programs, Environmental 
+Protection Agency, 1200 Pennsylvania Ave. NW, Washington, DC 20460-
+0001; main telephone number: (202) 566-1030; email address: 
   [email&#160;protected]  .
 
 SUPPLEMENTARY INFORMATION:
 
-I. Table of Abbreviations
+I. General Information
 
-CFR Code of Federal Regulations
-COTP Captain of the Port New York
-DHS Department of Homeland Security
-FR Federal Register
-LAB JV Livingston Avenue Bridge Joint Venture
-NPRM Notice of proposed rulemaking
-RNA Regulated Navigation Area
-Sec.  Section
-U.S.C. United States Code
+A. Does this action apply to me?
 
-II. Background and Authority
+    You may be potentially affected by this action if you are an 
+agricultural producer, food manufacturer, or
 
-    The Coast Guard received notification that Skanska Koch LAB JV will 
-be constructing a new Livingston Avenue Bridge and demolishing the 
-existing bridge within the Hudson River near Albany, NY. Hazards from 
-this project include but are not limited to deployment of heavy 
-equipment which will obstruct vessel traffic, heavy lift operations, 
-installation of transfer bents for new bridge spans staging prior to 
-installation, and multiple tugboats and barges staged throughout the 
-project with daily movements. The Northeast Coast Guard District 
-Commander has determined that potential hazards associated with 
-construction of a new
+[[Page 39494]]
 
-[[Page 40893]]
+pesticide manufacturer. The following list of North American Industrial 
+Classification System (NAICS) codes is not intended to be exhaustive, 
+but rather provides a guide to help readers determine whether this 
+document applies to them:
+      Crop production (NAICS code 111).
+      Animal production (NAICS code 112).
+      Food manufacturing (NAICS code 311).
+      Pesticide manufacturing (NAICS code 32532).
+    If you have any questions regarding the applicability of this 
+action to a particular entity, consult the person listed under FOR 
+FURTHER INFORMATION CONTACT.
 
-bridge, and demolition of the existing bridge, are a safety concern for 
-anyone within the work area. Therefore, the Northeast Coast Guard 
-District Commander is issuing this rule under the authority in 46 
-U.S.C. 70034, which is necessary to protect personnel, vessels, and the 
-marine environment in the navigable waters within the RNA.
-    Because of these potential hazards, the Coast Guard is issuing this 
-rule without prior notice and comment. As authorized by 5 U.S.C. 
-553(b)(B), the Coast Guard finds that good cause exists for not 
-publishing a notice of proposed rulemaking (NPRM) with respect to this 
-rule because it is impracticable. The Coast Guard was not notified of 
-this revised project schedule and Limited Access Area request with 
-sufficient notice prior to when the RNA is needed on July 12, 2026, to 
-protect personnel, vessels, and the marine environment. Therefore, we 
-do not have enough time to solicit and respond to comments.
-    Because of the potential hazards associated with the bridge 
-construction, the Coast Guard finds that under 5 U.S.C. 553(d)(3), good 
-cause exists for making this rule effective less than 30 days after 
-publication in the Federal Register.
-    Although this regulation is published as a temporary interim rule 
-without prior notice, public comment is nevertheless desirable to 
-ensure that the regulation is both workable and reasonable. 
-Accordingly, persons wishing to comment may do so by submitting written 
-comments as set out under the ADDRESSES section in this preamble. 
-Commenters should include their names and addresses, identify the 
-docket number for the regulation, and give reasons for their comments. 
-If the Coast Guard determines that changes to the temporary interim 
-rule are necessary, we will publish a temporary final rule or other 
-appropriate document.
+B. What is EPA's authority for taking this action?
 
-III. Discussion of the Rule
+    EPA is issuing this rulemaking under section 408 of the Federal 
+Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. 346a. FFDCA section 
+408(b)(2)(A)(i) allows EPA to establish a tolerance (the legal limit 
+for a pesticide chemical residue in or on a food) only if EPA 
+determines that the tolerance is ``safe.'' FFDCA section 
+408(b)(2)(A)(ii) defines ``safe'' to mean that ``there is a reasonable 
+certainty that no harm will result from aggregate exposure to the 
+pesticide chemical residue, including all anticipated dietary exposures 
+and all other exposures for which there is reliable information.'' This 
+includes exposure through drinking water and in residential settings 
+but does not include occupational exposure. FFDCA section 408(b)(2)(C) 
+requires EPA to give special consideration to exposure of infants and 
+children to the pesticide chemical residue in establishing a tolerance 
+and to ``ensure that there is a reasonable certainty that no harm will 
+result to infants and children from aggregate exposure to the pesticide 
+chemical residue. . .''
 
-    This rule establishes an RNA from 7 a.m. on July 12, 2026, until 
-11:59 p.m. on October 31, 2029. The Coast Guard is creating a RNA as 
-shown in figure 1, to include all navigable waters of the Hudson River, 
-mile 146.2, in the vicinity of the Livingston Avenue Railroad Swing 
-Bridge, Albany, NY, surface to bottom, shoreline to shoreline, south of 
-a line drawn from 42[deg]39'23.50'' N, 73[deg]44'31.12'' W thence to 
-42[deg]39'18.25'' N, 73[deg]44'17.41'' W, approximately 600 feet north 
-of the existing bridge, and north of a line drawn from 
-42[deg]39'09.46'' N, 73[deg]44'41.01'' W thence to 42[deg]39'04.22'' N, 
-73[deg]44'29.72'' W, approximately 1,000 feet south of the existing 
-bridge. These coordinates are based on the World Geodetic System (WGS 
-84)/North American Datum 83 (NAD 83).
+C. How can I file an objection or hearing request?
 
-Figure 1 Chartlet Showing the Boundaries of the RNA
+    Under FFDCA section 408(g), 21 U.S.C. 346a(g), any person may file 
+an objection to any aspect of this regulation and may also request a 
+hearing on those objections. If you fail to file an objection to the 
+final rule within the time period specified in the final rule, you will 
+have waived the right to raise any issues resolved in the final rule. 
+You must file your objection or request a hearing on this regulation in 
+accordance with the instructions provided in 40 CFR part 178. To ensure 
+proper receipt by EPA, you must identify the docket ID number EPA-HQ-
+OPP-2023-0555 in the subject line on the first page of your submission. 
+All objections and requests for a hearing must be in writing and must 
+be received by the Hearing Clerk on or before August 31, 2026.
+    The EPA's Office of Administrative Law Judges (OALJ), in which the 
+Hearing Clerk is housed, urges parties to file and serve documents by 
+electronic means only, notwithstanding any other particular 
+requirements set forth in other procedural rules governing those 
+proceedings. See ``Order Urging Electronic Filing and Service,'' dated 
+December 3, 2025, which can be found at  https://www.epa.gov/system/files/documents/2025-12/2025-12-03-order-urging-electronic-filing-and-service.pdf . Although the EPA's regulations require submission via U.S. 
+Mail or hand delivery, the EPA intends to treat submissions filed via 
+electronic means as properly filed submissions; therefore, the EPA 
+believes the preference for submission via electronic means will not be 
+prejudicial. When submitting documents to the OALJ electronically, a 
+person should utilize the OALJ e-filing system at  https://yosemite.epa.gov/oa/eab/eab-alj_upload.nsf .
+    In addition to filing an objection or hearing request with the 
+Hearing Clerk as described in 40 CFR part 178, please submit a copy of 
+the filing (excluding any Confidential Business Information (CBI)) for 
+inclusion in the public docket at  https://www.regulations.gov . Follow 
+the online instructions for submitting comments. Do not submit 
+electronically any information you consider to be CBI or other 
+information whose disclosure is restricted by statute. If you wish to 
+include CBI in your request, please follow the applicable instructions 
+at  https://www.epa.gov/dockets/commenting-epa-dockets#rules  and clearly 
+mark the information that you claim to be CBI. Information not marked 
+confidential pursuant to 40 CFR part 2 may be disclosed publicly by EPA 
+without prior notice.
 
-[[Page 40894]]
+II. Summary of Petitioned-For Tolerance
 
-[GRAPHIC] [TIFF OMITTED] TR06JY26.002
+    In the Federal Register of January 13, 2025 (90 FR 2661) (FRL-
+11682-11), EPA issued a document pursuant to FFDCA section 408(d)(3), 
+21 U.S.C. 346a(d)(3), announcing the filing of a pesticide petition (PP 
+3E9078) by the Interregional Research Project Number 4 (IR-4), 1730 
+Varsity Drive, Venture IV, Suite 210, Raleigh, NC 27606. The petition 
+requested that 40 CFR 180.442 be amended by establishing tolerances for 
+residues of the insecticide bifenthrin, in or on the raw agricultural 
+commodities: celtuce at 3 ppm; citrus, oil at 0.75 ppm; clover, forage 
+(regional tolerance) at 7 ppm; clover, hay (regional tolerance) at 30 
+ppm; coffee, green bean at 0.05 ppm; cottonseed subgroup 20C at 0.5 
+ppm; edible podded bean subgroup 6-22A at 0.6 ppm; edible podded pea 
+subgroup 6-22B at 0.6 ppm; fennel, Florence, fresh leaves and stalks at 
+3 ppm; kiwifruit, fuzzy at 1.5 ppm; kohlrabi at 0.6 ppm; leaf petiole 
+vegetable subgroup 22B at 3 ppm; pulses, dried shelled bean, except 
+soybean, subgroup 6-22E at 0.3 ppm; pulses, dried shelled pea subgroup 
+6-22F at 0.3 ppm; rapeseed subgroup 20A at 0.05 ppm; safflower at 0.2 
+ppm; succulent shelled bean subgroup 6-22C at 0.05 ppm; succulent 
+shelled pea subgroup 6-22D at 0.05 ppm; Swiss chard at 3 ppm; tropical 
+and subtropical, palm fruit, edible peel, subgroup 23C at 3 ppm; and 
+vegetable, brassica, head and stem, group 5-16 except cabbage at 0.6 
+ppm.
+    Additionally, the petition requested, upon approval of the above 
+tolerances, to remove the existing tolerances in 40 CFR 180.442 in or 
+on brassica, head and stem, subgroup 5A, (except cabbage) at 0.6 ppm; 
+cotton, undelinted seed at 0.5 ppm; leafy petioles subgroup 4B at 3.0 
+ppm; pea and bean, dried shelled, except soybean, subgroup 6C at 0.15 
+ppm; pea and bean, succulent shelled, subgroup 6B at 0.05 ppm; 
+rapeseed, seed at 0.05 ppm; and vegetable, legume, edible podded, 
+subgroup 6A at 0.6 ppm. That document referenced a summary of the 
+petition prepared by IR-4, the petitioner, which is available in the 
+docket,  https://www.regulations.gov . There were no comments received in 
+response to the notice of filing.
+    Based upon review of the data supporting the petition, EPA is 
+establishing some tolerances as requested and some that vary from what 
+was requested. The reasons for these changes are explained in Unit 
+IV.C.
 
-    The RNA will establish the following operating restrictions on 
-vessels:
-    (1) In addition to the general RNA regulations in Sec.  165.13, the 
-following regulations apply to the RNA described in paragraph (a) of 
-this section.
-    (2) Nothing in this regulation relieves any vessel, owner, 
-operator, charterer, master, or person directing the movement of a 
-vessel, from the consequences of any neglect to comply with this part 
-or any other applicable law or regulation (i.e. the International 
-Regulations for Prevention of Collisions at Sea, 1972 (72 COLREGS) or 
-33 CFR part 84--Subchapter E, Inland Navigation Rules) or of the 
-neglect of any precaution which may be required by the ordinary 
-practice of seamen, or by the special circumstances of the case.
-    (3) Entry and movement within the RNA is subject to a ``Slow-No 
-Wake'' speed limit. All vessels may not produce a wake and may not 
-attain speeds greater than five (5) knots unless a higher minimum speed 
-is necessary to maintain bare steerageway.
-    (4) Any vessel transiting through the RNA must make a direct 
-passage. No vessel may stop, fish, moor, anchor, or loiter within the 
-RNA at any time.
-    (5) Vessels may not pass (overtake) another vessel within the RNA.
-    (6) Except when transiting through the navigation channel, no 
-vessel or craft may operate within 20 feet of the bridge(s).
-    (7) The operator of any vessel transiting in the RNA must comply 
-with all lawful directions given to them by the COTP or the COTP's on-
-scene representative.
-    (8) When a full enforcement period of the regulated area is 
-activated, only vessels authorized by COTP may enter or remain within 
-the RNA.
-    Restrictions (1) through (7) will be enforced throughout the entire 
-effective period. Restriction (8) will be enforced during limited 
-periods (referred to as ``full enforcement'' periods).
-    Full enforcement periods, which entail prohibiting all vessel entry 
-within the regulated area, will be implemented only during hazardous 
-construction operations involving multiple tugs and large barges 
-maneuvering in, or near, and obstructing the navigable channel for 
-heavy lift, construction, or demolition activities at the Livingston 
-Avenue Railroad Swing Bridge (mile 146.2). These intermittent full 
-closures are anticipated to occur between July 12, 2026, and October 
-27, 2027.
-    Currently, up to 20 full enforcement periods are planned, during 
-which all
+III. Aggregate Risk Assessment and Determination of Safety
 
-[[Page 40895]]
+    Consistent with FFDCA section 408(b)(2)(D), and the factors 
+specified in FFDCA section 408(b)(2)(D), EPA has reviewed the available 
+scientific data and other relevant information in support of this 
+action. EPA has sufficient data to assess the hazards of and to make a 
+determination on aggregate exposure for bifenthrin including exposure 
+resulting from the tolerances established by this action. EPA's 
+assessment of exposures and risks associated with bifenthrin is 
+summarized in this unit.
 
-vessel transits through the regulated area will be prohibited. These 
-dates are tentative and subject to change due to weather, construction 
-or supply chain delays, or other unforeseen circumstances. SKANSKA KOCH 
-will provide email updates to all stakeholders as the project 
-progresses and as the full closure dates and times are finalized based 
-on construction progress.
-    Full enforcement periods prohibiting vessels from entering the 
-regulated area are planned during the following approximate dates:
-      July 2026 through December 2026, up to five full waterway 
-closures lasting one day each to install drilled shafts, precast pile 
-caps, and cast-in-place pier walls.
-      October 2026 through November 2026, no anticipated 
-waterway closures, but work occurs within the proposed RNA to install 
-piles and grillage for transfer bent south of existing bridge.
-      September 2026 through February 2027, up to six full 
-waterway closures lasting one day each to install new lift span towers 
-between new piers three and four.
-      January 2027 through February 2027, up to five full 
-waterway closures lasting one day each, and one full waterway closure 
-lasting two or three days to set lift span truss onto transfer bent and 
-float truss into final position between new piers three and four.
-      March 2027, up to three full waterway closures lasting one 
-day each and one full waterway closure lasting two or three days to 
-float truss span into final position between new piers two and three.
-      March 2027 through September 2027, no waterway closures, 
-but work occurs within the RNA to install mechanical equipment of lift 
-span and erection of approach girders.
-      August 2027 through September 2027, one full waterway 
-closure lasting 14 days and five full waterway closures lasting one day 
-each to set west flanking span truss onto transfer bent and float truss 
-into final position between new piers four and five.
-      October 2027 through February 2029, Navigation opening 
-will be reduced to 84 feet for an estimated 30-day to 60-day period 
-around October 2027 following the 14-day navigational channel closure, 
-demolition of superstructure and substructure of the existing 
-Livingston Avenue Bridge.
-    The dates and times of the full enforcement periods, during which 
-all vessel transits through the regulated area will be prohibited, will 
-be published in the Local Notice to Mariners, posted on the Coast Guard 
-Navigation Center Maritime Safety Information Products page at  https://www.navcen.uscg.gov/msi , and issued in a Broadcast Notice to Mariners 
-via marine channel 16 (VHF-FM) as soon as practicable in response to an 
-emergency or hazardous condition.
-    This rule will remain in effect through October 31, 2029, which 
-should accommodate the possibility of project delays due to unforeseen 
-circumstances. If the project is completed before October 31, 2029, 
-enforcement of the regulated navigation area will be suspended, and 
-notice will be provided via the Local Notice to Mariners.
-    The Coast Guard Northeast District Local Notice to Mariners can be 
-found at:  https://www.navcen.uscg.gov/maritime-safety-information .
+A. Toxicological Profile
 
-IV. Regulatory Analyses
+    EPA has evaluated the available toxicity data and considered its 
+validity, completeness, and reliability as well as
 
-    We developed this rule after considering numerous statutes and 
-Executive orders related to rulemaking. Below we summarize our analyses 
-based on a number of these statutes and Executive orders.
+[[Page 39495]]
 
-A. Impact on Small Entities
+the relationship of the results of the studies to human risk. EPA has 
+also considered available information concerning the variability of the 
+sensitivities of major identifiable subgroups of consumers, including 
+infants and children. The database of experimental toxicology studies 
+available for bifenthrin provides a robust characterization of the 
+hazard potential for adults and children. The bifenthrin database is 
+considered complete for risk assessment.
+    Bifenthrin has been evaluated for a variety of toxic effects in 
+guideline experimental toxicity studies. Predominantly, behavioral 
+changes characteristic of Type I pyrethroids, such as muscle tremors, 
+were seen in most of the bifenthrin experimental toxicology studies, 
+consistent with its mode-of-action (MOA) to activate sodium channels. 
+This observation was noted in several bifenthrin toxicology studies 
+across various species at different durations, and different routes of 
+exposure and lifestages. The published acute Wolansky study provided 
+robust data on locomotor activity, due to the fact that it utilized 
+nine dose groups and a benchmark dose data analysis method to address 
+dose spacing effects.
+    The Wolansky study is considerably conservative, using the most 
+sensitive rat strain, plus gavage dosing utilizing a vehicle and volume 
+producing the most adverse responses (i.e., 1 mL/kg corn oil). Muscle 
+tremors were observed in nearly all experimental studies in all species 
+and durations; however, motor activity was not measured in most of 
+these studies. The decreased locomotor activity observed in the acute 
+Wolansky study was the most sensitive endpoint identified in the study 
+and therefore, was selected as the endpoint for acute dietary and 
+short-term incidental oral risk assessment. In the acute Wolansky 
+study, tremors were not observed at doses less than 8 mg/kg of 
+bifenthrin, while decreased motor activity was significant at doses of 
+4 mg/kg and above. Further, the Wolansky study monitored the toxicology 
+at the time of peak effects, unlike most of the guideline studies. 
+Additional effects seen in one or more studies included: muscle 
+twitching, decreased grip strength, altered landing foot splay, 
+depressed respiration, increased grooming counts, loss of muscle 
+coordination, staggered gait, exaggerated hind limb flexion, and 
+convulsions at high doses. Decreased body weight and food consumption 
+were also noted in repeat-dosing dietary studies. There was no clear 
+evidence in the database that either gender was more sensitive to 
+bifenthrin.
+    Clinical signs of neurotoxicity were also reported in the route-
+specific dermal and inhalation toxicity studies. In a 21-day dermal 
+study in rabbits, loss of muscle coordination and increased incidence 
+of tremors were seen at the highest dose tested (442 mg/kg/day) and in 
+a 21-day dermal study in rats, a staggered gait and exaggerated limb 
+flexion was noted at 93 mg/kg/day. In a 28-day inhalation study in 
+rats, increased tremors and increased respiration were seen at the 
+highest concentration tested (0.0196 mg/L/day).
+    Bifenthrin has been evaluated for potential developmental effects 
+in the rat (following gavage and dietary administration) and in the 
+rabbit (gavage administration). Maternal toxicity included neurological 
+effects (tremors in rats and rabbits; head and forelimb twitching in 
+rabbits). There were no developmental effects of biological 
+significance in either species. A Developmental Neurotoxicity (DNT) 
+study is available, which establishes a clear no observed adverse 
+effect level (NOAEL) for the adult and offspring toxicity. The NOAEL in 
+adults and offspring is similar in magnitude, and the lowest observed 
+adverse effect level (LOAEL) are based on the clinical signs of 
+neurotoxicity (dams had tremors and convulsions, offspring had 
+increased grooming counts). Based on targeted testing in the DNT study 
+for common endpoints for bifenthrin, there was no increase in 
+sensitivity in rat pups. However, the Agency has reviewed existing 
+pyrethroid data and concludes that the DNT is not a particularly 
+sensitive study for comparing the sensitivity of young and adult 
+animals to pyrethroids. The reproductive toxicity of bifenthrin was 
+examined in a two-generation reproduction dietary study in the rat. 
+Tremors were noted only in females of both generations, with one 
+parental generation rat observed to have clonic convulsions, and no 
+observed effects in the offspring. Overall, there is no indication of 
+increased juvenile sensitivity specifically to bifenthrin.
+    Bifenthrin has low acute toxicity via the dermal (Category III) and 
+inhalation routes (Category III-IV) of exposure and has high acute 
+toxicity via the oral route (Category I). It is not a skin irritant 
+(Category IV) but is a moderate eye irritant (Category III) and is a 
+dermal sensitizer.
+    Bifenthrin is classified as ``Group C--Possible Human Carcinogen,'' 
+based on an increased incidence of urinary bladder tumors in mice. 
+However, EPA has determined that quantification of risk using a non-
+linear approach (i.e., reference dose (RfD)) will adequately account 
+for all chronic toxicity, including potential carcinogenicity, that 
+could result from exposure to bifenthrin for the following reasons. 
+First, the bladder tumors may not be uncommon in Swiss Webster mice and 
+are not likely to be malignant. Second, these tumors were observed only 
+in male mice at the highest dose. Third, no evidence of carcinogenicity 
+was observed in bifenthrin carcinogenicity studies in rats. Finally, 
+there is a low concern for mutagenicity based on the overall results of 
+the available mutagenicity tests of bifenthrin.
+    Specific information on the studies received and the nature of the 
+adverse effects caused by bifenthrin, as well as the NOAEL and the 
+LOAEL from the toxicity studies, can be found at  http://www.regulations.gov  in the document titled ``Bifenthrin. Human Health 
+Risk Assessment for the Section 3 Registration of Bifenthrin on Clover 
+(Grown For Seed); Coffee; Fuzzy Kiwifruit; Safflower; Tropical And 
+Subtropical Palm Fruit (Subgroup 23C); and Crop Group Expansions/
+Conversions for Brassica, Head and Stem Vegetables (Group 5-16); 
+Kohlrabi; Succulent Peas and Beans (Subgroups 6-22A, B, C, and D); 
+Dried Beans and Peas (Subgroups 6-22E and F); Rapeseed (Subgroup 20A); 
+Cottonseed (Subgroup 20C); Leaf Petiole Vegetables (Subgroup 22B); 
+Celtuce; Florence Fennel; and Swiss Chard.'' in docket ID number EPA-
+HQ-OPP-2023-0555.
 
-    The regulatory flexibility analysis provisions of the Regulatory 
-Flexibility Act of 1980, 5 U.S.C. 601-612, do not apply to rules that 
-are not subject to notice and comment. Because the Coast Guard has, for 
-good cause, waived the notice and comment requirement that would 
-otherwise apply to this rulemaking, the Regulatory Flexibility Act's 
-flexibility analysis provisions do not apply here.
-    Under section 213(a) of the Small Business Regulatory Enforcement 
-Fairness Act of 1996 (Pub. L. 104-121), if this rule will affect your 
-small business, organization, or governmental jurisdiction and you have 
-questions, contact the person listed in the FOR FURTHER INFORMATION 
-CONTACT section.
-    Small businesses may send comments to the Small Business and 
-Agriculture Regulatory Enforcement Ombudsman and the Regional Small 
-Business Regulatory Fairness Boards by calling 1-888-REG-FAIR (1-888-
-734-3247). The Coast Guard will not retaliate against small entities 
-that question or complain about this rule or any policy or action of 
-the Coast Guard.
+B. Toxicological Points of Departure/Levels of Concern
 
-B. Collection of Information
+    Once a pesticide's toxicological profile is determined, EPA 
+identifies toxicological points of departure (POD) and levels of 
+concern to use in evaluating the risk posed by human exposure to the 
+pesticide. For hazards that have a threshold below which there is no 
+appreciable risk, the toxicological POD is used as the basis for 
+derivation of reference values for risk assessment. PODs are developed 
+based on a careful analysis of the doses in each toxicological study to 
+determine the NOAEL and the LOAEL. Uncertainty/safety factors are used 
+in conjunction with the POD to calculate a safe exposure level--
+generally referred to as a population-adjusted dose (PAD) or RfD--and a 
+safe margin of exposure (MOE). For non-threshold risks, the Agency 
+assumes that any amount of exposure will lead to some degree of risk. 
+Thus, the Agency estimates risk in terms of the probability of an 
+occurrence of the adverse effect expected in a lifetime.
 
-    This rule will not call for a new collection of information under 
-the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3520).
+[[Page 39496]]
 
-C. Federalism and Indian Tribal Governments
+    A summary of the toxicological endpoints for bifenthrin used for 
+human risk assessment can be found in the document titled ``Bifenthrin. 
+Human Health Risk Assessment for the Section 3 Registration of 
+Bifenthrin on Clover (Grown For Seed); Coffee; Fuzzy Kiwifruit; 
+Safflower; Tropical And Subtropical Palm Fruit (Subgroup 23C); and Crop 
+Group Expansions/Conversions for Brassica, Head and Stem Vegetables 
+(Group 5-16); Kohlrabi; Succulent Peas and Beans (Subgroups 6-22A, B, 
+C, and D); Dried Beans and Peas (Subgroups 6-22E and F); Rapeseed 
+(Subgroup 20A); Cottonseed (Subgroup 20C); Leaf Petiole Vegetables 
+(Subgroup 22B); Celtuce; Florence Fennel; and Swiss Chard.'' in docket 
+ID number EPA-HQ-OPP-2023-0555.
 
-    We have analyzed this rule under Executive Order 13132, Federalism, 
-and have determined that it is consistent with the fundamental 
-federalism principles and preemption requirements described in that 
-Order.
-    Also, this rule does not have tribal implications under Executive 
-Order 13175, Consultation and Coordination with Indian Tribal 
-Governments, because it does not have a substantial direct effect on 
-one or more Indian tribes, on the relationship between the Federal 
-Government and Indian tribes, or on the distribution of power and 
-responsibilities between the Federal Government and Indian tribes.
+C. Exposure Assessment
 
-D. Unfunded Mandates Reform Act
+1. Dietary Exposure From Food and Feed Uses
+    In evaluating dietary exposure to bifenthrin, EPA considered 
+exposure under the petitioned-for tolerances as well as all existing 
+bifenthrin tolerances in 40 CFR 180.442. EPA assessed dietary exposures 
+from bifenthrin in food as follows:
+i. Acute Exposure
+    Quantitative acute dietary exposure and risk assessments are 
+performed for a food-use pesticide, if a toxicological study has 
+indicated the possibility of an effect of concern occurring as a result 
+of a 1-day or single exposure.
+    Such effects were identified for bifenthrin. In estimating acute 
+dietary exposure, EPA used food consumption information from the United 
+States Department of Agriculture's (USDA) National Health and Nutrition 
+Examination Survey, What We Eat in America (NHANES/WWEIA). As to 
+residue levels in food, EPA used USDA Pesticide Data Program (PDP) 
+monitoring data, field trial data, and empirical processing factors, 
+where available, and incorporated percent crop treated (PCT) estimates 
+in the refined acute dietary exposure assessment.
+ii. Chronic Exposure
+    A chronic dietary endpoint has not been selected for bifenthrin 
+because repeated exposure does not result in a POD lower than that 
+resulting from acute exposure; therefore, the acute dietary risk 
+assessment is protective of chronic dietary risk. However, a refined 
+chronic dietary exposure assessment was conducted to determine the 
+background exposure of food plus drinking water to support the 
+bifenthrin aggregate risk assessment. The assessment was refined using 
+point estimates derived from PDP monitoring data, field trial data, PCT 
+data, and empirical processing factors.
+iii. Cancer
+    As discussed in Unit III.A., EPA has determined that the acute RfD 
+will adequately account for all repeated exposure/chronic toxicity, 
+including potential carcinogenicity, which could result from exposure 
+to bifenthrin. A separate cancer exposure assessment was not conducted.
+iv. Anticipated Residue and Percent Crop Treated (Pct) Information
+    Section 408(b)(2)(E) of FFDCA authorizes EPA to use available data 
+and information on the anticipated residue levels of pesticide residues 
+in food and the actual levels of pesticide residues that have been 
+measured in food. If EPA relies on such information, EPA must require 
+pursuant to FFDCA section 408(f)(1) that data be provided 5 years after 
+the tolerance is established, modified, or left in effect, 
+demonstrating that the levels in food are not above the levels 
+anticipated. For the present action, EPA will issue such data call-ins 
+as are required by FFDCA section 408(b)(2)(E) and authorized under 
+FFDCA section 408(f)(1). Data will be required to be submitted no later 
+than 5 years from the date of issuance of these tolerances.
+    Section 408(b)(2)(F) of FFDCA states that the Agency may use data 
+on the actual percent of food treated for assessing chronic dietary 
+risk only if:
+      Condition A: The data used are reliable and provide a 
+valid basis to show what percentage of the food derived from such crop 
+is likely to contain the pesticide residue.
+      Condition B: The exposure estimate does not underestimate 
+exposure for any significant subpopulation group.
+      Condition C: Data are available on pesticide use and food 
+consumption in a particular area, the exposure estimate does not 
+understate exposure for the population in such area.
+    In addition, the Agency must provide for periodic evaluation of any 
+estimates used. To provide for the periodic evaluation of the estimate 
+of PCT as required by FFDCA section 408(b)(2)(F), EPA may require 
+registrants to submit data on PCT.
+    The acute dietary assessment used the following maximum PCT 
+estimates: almonds: 40%, apples: 10%; artichokes: 65%; avocados: 2.5%; 
+beans (snap, bush, pole, string): 60%; blueberries: 40%; broccoli: 25%; 
+cabbage: 45%; caneberries: 50%; canola (oil rapeseed): 25%; 
+cantaloupes: 55%; carrots: 10%; cauliflower: 45%; celery: 45%; chicory: 
+10%; citron: 10%; citrus hybrids: 10%; corn: 15%; cotton: 25%; 
+cucumbers: 35%; dry beans/peas: 10%; eggplants: 45%; grapefruit: 2.5%; 
+grapes, raisin: 2.5%; grapes, table: 2.5%; grapes, wine: 10%; honeydew: 
+90%; kumquats: 10%; lemons: 2.5%; lettuce: 20%; lima beans: 40%; limes: 
+10%; pomelos: 10%; okra: 45%; oranges: 10%; peanuts: 20%; pears: 2.5%; 
+peas (fresh/green/sweet): 50%; pecans: 20%; peppers: 35%; pistachios: 
+55%; pomegranates: 50%; potatoes: 15%; pumpkins: 30%; soybeans: 15%; 
+spinach: 15%; squash: 25%; strawberries: 70%; sunflowers: 2.5%; sweet 
+corn: 50%; tangerines: 5%; tomatoes: 45%; walnuts: 40%; watermelons: 
+30%.
+    The following average PCT estimates for bifenthrin were used to 
+refine the chronic dietary exposure assessment for the following crops: 
+almonds: 35%, apples: 2.5%; artichokes: 35%; avocados: 1%; beans (snap, 
+bush, pole, string): 40%; blueberries: 35%; broccoli: 15%; cabbage: 
+30%; caneberries: 30%; canola (oil rapeseed): 15%; cantaloupes: 45%; 
+carrots: 2.5%; cauliflower: 15%; celery: 20%; chicory: 2.5%; citron: 
+2.5%; citrus hybrids: 2.5%; corn: 10%; cotton: 20%; cucumbers: 15%; dry 
+beans/peas: 5%; eggplants: 35%; grapefruit: 1%; grapes, raisin: 1%; 
+grapes, table: 1%; grapes, wine: 2.5%; honeydew: 80%; kumquats: 2.5%; 
+lemons: 2.5%; lettuce: 10%; lima beans: 15%; limes: 2.5%; pomelos: 
+2.5%; okra: 35%; oranges: 2.5%; peanuts: 10%; pears: 1%; peas (fresh/
+green/sweet): 25%; pecans: 10%; peppers: 20%; pistachios: 50%; 
+pomegranates: 30%; potatoes: 10%; pumpkins: 15%; soybeans: 10%; 
+spinach: 1%; squash: 20%; strawberries: 50%; sunflowers: 1%; sweet 
+corn: 40%; tangerines: 2.5%; tomatoes: 35%; walnuts: 30%; watermelons: 
+15%.
+    A default of 100% CT was used for all livestock and game 
+commodities, freshwater finfish, and all other registered uses where no 
+maximum/average PCT estimates were available. All other commodities 
+included for depicting food handling establishment (FHE) uses were 
+refined with the upper bound estimate of 4.65% for non-fumigant 
+treatments made in FHEs.
+    In most cases, EPA uses available data from United States 
+Department of Agriculture/National Agricultural Statistics Service 
+(USDA/NASS), proprietary market surveys, and the California Department 
+of Pesticide Regulation (CalDPR) Pesticide Use Reporting (PUR) for the 
+chemical/crop combination for the most recent 10 years. EPA uses an 
+average PCT for chronic dietary risk analysis. The
 
-    As required by The Unfunded Mandates Reform Act of 1995 (2 U.S.C. 
-1531-1538), the Coast Guard certifies that this rule will not result in 
-an annual expenditure of $100,000,000 or more (adjusted for inflation) 
-by a State, local, or tribal government, in the aggregate, or by the 
-private sector.
+[[Page 39497]]
 
-E. Environment
+average PCT figure for each existing use is derived by combining 
+available public and private market survey data for that use, averaging 
+across all observations, and rounding to the nearest 5%, except for 
+those situations in which the average PCT is less than one. In those 
+cases, 1% is used as the average PCT and 2.5% is used as the maximum 
+PCT. EPA uses a maximum PCT for acute dietary risk analysis. The 
+maximum PCT figure is the highest observed maximum value reported 
+within the recent 10 years of available public and private market 
+survey data for the existing use and rounded up to the nearest multiple 
+of 5%.
+    The Agency believes that the three conditions discussed in Unit 
+III.C.1.iv. have been met. With respect to Condition A, PCT estimates 
+are derived from Federal and private market survey data, which are 
+reliable and have a valid basis. The Agency is reasonably certain that 
+the percentage of the food treated is not likely to be an 
+underestimation. As to Conditions B and C, regional consumption 
+information and consumption information for significant subpopulations 
+is taken into account through EPA's computer-based model for evaluating 
+the exposure of significant subpopulations including several regional 
+groups. Use of this consumption information in EPA's risk assessment 
+process ensures that EPA's exposure estimate does not understate 
+exposure for any significant subpopulation group and allows the Agency 
+to be reasonably certain that no regional population is exposed to 
+residue levels higher than those estimated by the Agency. Other than 
+the data available through national food consumption surveys, EPA does 
+not have reliable information available on the regional consumption of 
+food to which bifenthrin may be applied in a particular area.
+2. Dietary Exposure From Drinking Water
+    The Agency used screening-level water exposure models in the 
+dietary exposure analysis and risk assessment for bifenthrin in 
+drinking water. These simulation models take into account data on the 
+physical, chemical, and fate/transport characteristics of bifenthrin. 
+Further information regarding EPA drinking water models used in 
+pesticide exposure assessment can be found at  https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks .
+    The estimated drinking water concentrations (EDWCs) were 
+incorporated directly into the dietary assessment; water residues were 
+incorporated in the Dietary Exposure Evaluation Model software with the 
+Food Commodity Intake Database (DEEM-FCID) into the food categories 
+``water, direct, all sources'' and ``water, indirect, all sources.'' 
+Ground water EDWCs were calculated with Pesticide in Water Calculator 
+(PWC) 2 for citrus as the highest exposure scenarios using chemical 
+input parameters from previous drinking water assessments. Citrus 
+continues to generate no breakthrough for EDWCs despite the increased 
+annual application rates in the proposed labels. Therefore, the EDWC 
+used in the dietary exposure assessment (acute and chronic) is the 
+bifenthrin limit of solubility of 0.000014 ppm, i.e., the maximum 
+possible residues that could occur in drinking water based on the 
+chemical properties of the compound.
+3. From Non-Dietary Exposure
+    The term ``residential exposure'' is used in this document to refer 
+to non-occupational, non-dietary exposure (e.g., for lawn and garden 
+pest control, indoor pest control, termiticides, and flea and tick 
+control on pets). Bifenthrin is currently registered for the following 
+uses that could result in residential exposures: Lawns/turf, indoor 
+environments, gardens/trees, pets (dog shampoo), termiticide and 
+indoor/outdoor surface treatment for various residential and commercial 
+premises.
+    Residential exposures are not expected from the proposed new uses; 
+however, there are existing residential uses that have been previously 
+assessed. Non-occupational exposures from spray drift (dermal [adults 
+and children] and incidental oral [children only]) are expected to be 
+short-term (1 to 30 days) only. Occupational (dermal and inhalation) 
+handler and post-application exposure is expected to be both short- and 
+intermediate-term (1 to 6 months) based on information provided on the 
+proposed labels. These uses were assessed previously, remain current, 
+and are not of concern (i.e., margins of exposure (MOEs) > the level of 
+concern (LOC)).
+    A quantitative non-occupational spray drift assessment was not 
+conducted for bifenthrin because the proposed use pattern is likely to 
+result in spray drift exposures (i.e., aerial, groundboom, and 
+airblast) that are equal to or less than those assessed in the previous 
+bifenthrin exposure and risk assessment conducted in support of 
+registration review. The previous spray drift assessment concluded that 
+there were no risk estimates of concern at the edge of the field for 
+bifenthrin based on the use patterns assessed and are protective of the 
+currently proposed use patterns.
+4. Cumulative Effects From Substances With a Common Mechanism of 
+Toxicity
+    Section 408(b)(2)(D)(v) of FFDCA requires that, when considering 
+whether to establish, modify, or revoke a tolerance, the Agency 
+consider ``available information'' concerning the cumulative effects of 
+a particular pesticide's residues and ``other substances that have a 
+common mechanism of toxicity.''
+    The Agency is required to consider the cumulative risks of 
+chemicals sharing a common mechanism of toxicity. The Agency has 
+determined that the pyrethroids and pyrethrins share a common mechanism 
+of toxicity ( https://www.regulations.gov ; EPA-HQ-OPP-2008-0489-0006). 
+As explained in that document, the members of this group share the 
+ability to interact with voltage-gated sodium channels ultimately 
+leading to neurotoxicity. In 2011, after establishing a common 
+mechanism grouping for the pyrethroids and pyrethrins, the Agency 
+conducted a cumulative risk assessment (CRA) which is available at 
+ https://www.regulations.gov ; EPA-HQ-OPP-2011-0746. In that document, 
+the Agency concluded that cumulative exposures to pyrethroids (based on 
+pesticidal uses registered at the time the assessment was conducted) 
+did not present risks of concern. For information regarding EPA's 
+efforts to evaluate the risk of exposure to this class of chemicals, 
+refer to  https://www.epa.gov/ingredients-used-pesticide-products/pyrethrins-and-pyrethroids .
+    Since the 2011 CRA, for each new pyrethroid and pyrethrin use, the 
+Agency has conducted a screen to evaluate any potential impacts on the 
+CRA prior to registration of that use. A new turf use for the 
+pyrethroid, tau-fluvalinate, was assessed after completion of the 
+cumulative, which did impact the worst-case non-dietary risk estimates 
+identified in the 2011 CRA for the turf scenario (H. DeLeon, D450820, 
+16-DEC-2019). However, EPA has determined that the overall finding 
+(i.e., that the pyrethroid cumulative risk is below the Agency's level 
+of concern) would not change upon registration of this new use.
+    The new uses of bifenthrin proposed by IR-4 will not significantly 
+impact the cumulative assessment because dietary exposures make a minor 
+contribution to total pyrethroid exposure relative to residential 
+exposures in the 2011 cumulative risk assessment. Therefore, the 
+results of the 2011 CRA are still valid and there are no cumulative 
+risks
 
-    We have analyzed this rule under Department of Homeland Security 
-Directive 023-01, Rev. 1, associated implementing instructions, and 
-Environmental Planning COMDTINST 5090.1 (series), which guide the Coast 
-Guard in complying with the National Environmental Policy Act of 1969 
-(42 U.S.C. 4321 et seq.), and have determined that this action is one 
-of a category of actions that do not individually or cumulatively have 
-a significant effect on the human environment.
-    This rule is a regulated navigation area. It is categorically 
-excluded from further review under paragraph L60(a) of Appendix A, 
-Table 1 of DHS Instruction Manual 023-01-001-01, Rev. 1. A Record of 
-Environmental Consideration supporting this determination is available 
-in the docket.
+[[Page 39498]]
 
-List of Subjects in 33 CFR Part 165
+of concern for the pyrethroids/pyrethrins.
 
-    Harbors, Marine safety, Navigation (water), Reporting and 
-recordkeeping requirements, Security measures, Waterways.
+D. Safety Factor for Infants and Children
 
-    For the reasons discussed in the preamble, the Coast Guard amends 
-33 CFR part 165 as follows:
+1. In General
+    Section 408(b)(2)(C) of FFDCA provides that EPA shall apply an 
+additional tenfold (10X) margin of safety for infants and children in 
+the case of threshold effects to account for prenatal and postnatal 
+toxicity and the completeness of the database on toxicity and exposure 
+unless EPA determines based on reliable data that a different margin of 
+safety will be safe for infants and children. This additional margin of 
+safety is commonly referred to as the FQPA Safety Factor (SF). In 
+applying this provision, EPA either retains the default value of 10X, 
+or uses a different additional safety factor when reliable data are 
+available to EPA to support the choice of a different factor.
+2. Prenatal and Postnatal Sensitivity
+    Bifenthrin has been evaluated for potential developmental effects 
+in the rat (following gavage and dietary administration) and in the 
+rabbit (gavage administration). Maternal toxicity included neurological 
+effects (tremors in rats and rabbits; head and forelimb twitching in 
+rabbits). There were no developmental effects of biological 
+significance in either species. A DNT study was available, which 
+establishes a clear NOAEL for the adult and offspring toxicity. The 
+NOAEL in adults and offspring is similar in magnitude, and the LOAELs 
+are based on the clinical signs of neurotoxicity (dams had tremors and 
+convulsions, offspring had increased grooming counts). Based on 
+targeted testing in the DNT study for common endpoints for bifenthrin, 
+there was no increase in sensitivity in rat pups. However, the Agency 
+has reviewed existing pyrethroid data and concludes that the DNT is not 
+a particularly sensitive study for comparing the sensitivity of young 
+and adult animals to pyrethroids. Some literature studies indicated 
+susceptibility for other pyrethroids, but in context, these studies 
+were conducted at relatively high doses, which may not reflect 
+environmental exposures. The reproductive toxicity of bifenthrin was 
+examined in a 2-generation reproduction dietary study in the rat. 
+Tremors were noted only in females of both generations, with one 
+parental generation rat observed to have clonic convulsions, and no 
+observed effects in the offspring. Overall, there is no indication of 
+increased juvenile sensitivity specifically to bifenthrin.
+3. Conclusion
+    EPA has determined that reliable data show the safety of infants 
+and children would be adequately protected if the FQPA SF were reduced 
+to 1X. No new information has been available since the last assessment; 
+therefore the Agency concludes that the default 10X FQPA safety factor 
+can be reduced to 1X for all populations for the pyrethroid pesticides. 
+More information regarding the FQPA SF can be found in the 2021 rule 
+(86 FR 68150) (FRL-8945-01-OCSPP).
 
-PART 165--REGULATED NAVIGATION AREAS AND LIMITED ACCESS AREAS
+E. Aggregate Risks and Determination of Safety
+
+    EPA determines whether acute and chronic dietary pesticide 
+exposures are safe by comparing aggregate exposure estimates to the 
+acute PAD (aPAD) and chronic PAD (cPAD). For linear cancer risks, EPA 
+calculates the lifetime probability of acquiring cancer given the 
+estimated aggregate exposure. Short-, intermediate-, and chronic-term 
+risks are evaluated by comparing the estimated aggregate food, water, 
+and residential exposure to the appropriate PODs to ensure that an 
+adequate MOE exists.
+1. Acute Risk
+    Using the exposure assumptions discussed in this unit for acute 
+exposure, the acute dietary exposure from food and water to bifenthrin 
+will occupy 12% of the aPAD for children 1-2 years old, the population 
+group receiving the greatest exposure. The acute aggregate risk 
+assessment combines exposures to bifenthrin in food and drinking water 
+only and is equivalent to the acute dietary assessment. There are no 
+acute aggregate risks estimates of concern.
+2. Chronic Risk
+    The chronic dietary (food and drinking water) exposure assessment 
+for bifenthrin was conducted solely for the purpose of obtaining an 
+average dietary exposure estimate for use in the short-term aggregate 
+assessment. The population subgroup with the highest chronic dietary 
+exposure estimate is children 1 to 2 years old (0.000123 mg/kg/day). A 
+chronic aggregate risk assessment was not conducted since single dose 
+and repeat dosing bifenthrin studies show that repeat exposures do not 
+result in lower PODs (i.e., there is no evidence of increasing toxicity 
+with an increased duration of exposure). Therefore, only acute and 
+short-term aggregate risk assessments are conducted for bifenthrin, and 
+these are protective of scenarios in which exposure occurs for longer 
+durations.
+3. Short-Term Risk
+    Short-term aggregate exposure takes into account short-term 
+residential exposure plus chronic exposure to food and water 
+(considered to be a background exposure level). Bifenthrin is currently 
+registered for uses that could result in short-term residential 
+exposure, and the Agency has determined that it is appropriate to 
+aggregate chronic exposure through food and water with short-term 
+residential exposures to bifenthrin.
+    Using the exposure assumptions described in this unit for short-
+term exposures, EPA has concluded the combined short-term food, water, 
+and residential exposures result in an aggregate MOE of 520 for adults 
+(treated gardens). The short-term aggregate assessment for children 1 
+to less than 2 years old resulted in an MOE of 170 (high contact lawn 
+activities). The short-term aggregate assessment for children 6 to less 
+than 11 years old and children 11 to 16 years old resulted in MOEs of 
+1,600 (treated gardens) and 7,500 (golfing), respectively. Because 
+EPA's level of concern for bifenthrin is an MOE of 100 or lower, these 
+MOEs are not of concern.
+4. Intermediate-Term Risk
+    Intermediate-term aggregate exposure takes into account 
+intermediate-term residential exposure plus chronic exposure to food 
+and water (considered to be a background exposure level). While there 
+is potential intermediate-term residential exposure, because the single 
+dose and repeat dosing bifenthrin studies show that repeat exposures do 
+not result in lower points of departure, the residential assessments 
+are conducted as a series of acute exposures, and the same endpoint is 
+used regardless of duration. Therefore, the short-term aggregate 
+assessment is considered protective of any intermediate-term exposures.
+5. Aggregate Cancer Risk for U.S. Population
+    EPA has concluded that the acute RfD will adequately account for 
+all repeated exposures, including carcinogenicity, which could result 
+from exposure to bifenthrin.
+6. Determination of Safety
+    Based on these risk assessments, EPA concludes that there is a 
+reasonable certainty that no harm will result to the general 
+population, or to infants and children from aggregate exposure to 
+bifenthrin residues.
+
+[[Page 39499]]
+
+IV. Other Considerations
+
+A. Analytical Enforcement Methodology
+
+    Adequate enforcement methodology (gas chromatography with an 
+electron capture detector (GC/ECD) analyses for determining bifenthrin 
+residues in both plant and livestock commodities) is available to 
+enforce the tolerance expression. The method may be requested from: 
+Chief, Analytical Chemistry Branch, Environmental Science Center, 701 
+Mapes Rd., Ft. Meade, MD 20755-5350; telephone number: (410) 305-2905; 
+email address:   [email&#160;protected]  .
+
+B. International Residue Limits
+
+    In making its tolerance decisions, EPA seeks to harmonize U.S. 
+tolerances with international standards whenever possible, consistent 
+with U.S. food safety standards and agricultural practices. EPA 
+considers the international maximum residue limits (MRLs) established 
+by the Codex Alimentarius Commission (Codex), as required by FFDCA 
+section 408(b)(4). The Codex Alimentarius is a joint United Nations 
+Food and Agriculture Organization/World Health Organization food 
+standards program, and it is recognized as an international food safety 
+standards-setting organization in trade agreements to which the United 
+States is a party. EPA may establish a tolerance that is different from 
+a Codex MRL; however, FFDCA section 408(b)(4) requires that EPA explain 
+the reasons for departing from the Codex level.
+    EPA is establishing tolerance levels that are not harmonized with 
+Codex MRLs for the following commodities/subgroups: kohlrabi; 
+vegetable, brassica, head and stem, group 5-16, except cabbage; and 
+vegetable, legume, pea, edible podded, subgroup 6-22B.
+    For kohlrabi, vegetable, brassica, head and stem, group 5-16, 
+except cabbage, and vegetable, legume, pea, edible podded, subgroup 6-
+22B tolerances, harmonization to the corresponding Codex MRLs is not 
+possible as the Codex MRLs are lower than the established tolerances 
+for these groups. Reducing the U.S. tolerance would put U.S. growers at 
+risk of having violative residues despite legal use of the pesticide 
+according to the label.
+    EPA is establishing tolerances for cottonseed subgroup 20C; milk; 
+milk fat; ruminant (cattle, goat, and sheep) and horse fat; ruminant 
+and horse meat byproducts; rapeseed subgroup 20A; vegetable, legume, 
+pea, succulent shelled, subgroup 6-22D; vegetable, legume, pulse, bean, 
+dried shelled, except soybean, subgroup 6-22E; and vegetable, legume, 
+pulse, pea, dried shelled, subgroup 6-22F that are harmonized with the 
+corresponding Codex MRLs.
+
+C. Revisions to Petitioned-For Tolerances
+
+    Several revisions to the petitioned-for tolerances are explained in 
+this section. Tolerance determinations were based on use of the 
+Organization for Economic Cooperation and Development (OECD) Maximum 
+Residue Limit (MRL) calculation procedures for plant commodities or 
+anticipated residue calculations for livestock commodities. 
+Additionally, international harmonization and data translations were 
+considered where appropriate.
+    Following the OECD Rounding Classes, EPA is establishing a 
+tolerance of 0.8 ppm for fruit, citrus, group 10-10, oil rather than 
+the proposed tolerance of 0.75 ppm. Also, EPA is establishing the 
+tolerance for tropical and subtropical, palm fruit, edible peel, 
+subgroup 23C based on the date field trials, which differs from the 
+proposed tolerance. Because the decline data for date showed increasing 
+residues past the label-indicated preharvest interval (PHI), the 
+highest residue, found at the 20-day PHI, was selected for use in 
+tolerance determination for that trial; this resulted in a tolerance of 
+4 ppm, rather than the proposed tolerance of 3 ppm.
+    Several commodity definitions have also been updated to align with 
+the U.S. EPA Health Effects Division (HED) Preferred Tolerance 
+Vocabulary, including fennel, florence, fresh leaves and stalk; fruit, 
+citrus, group 10-10, oil; safflower, seed; vegetable, brassica, head 
+and stem, group 5-16, except cabbage; vegetable, legume, bean, edible 
+podded, subgroup 6-22A; vegetable, legume, bean, succulent shelled, 
+subgroup 6-22C; vegetable, legume, pea, edible podded, subgroup 6-22B; 
+vegetable, legume, pea, succulent shelled, subgroup 6-22D; vegetable, 
+legume, pulse, bean, dried shelled, except soybean, subgroup 6-22E; and 
+vegetable, legume, pulse, pea, dried shelled, subgroup 6-22F.
+    EPA is establishing the tolerance at different levels than 
+requested for: kohlrabi; vegetable, brassica, head and stem, group 5-
+16, except cabbage; vegetable, legume, bean, edible podded, subgroup 6-
+22A; and vegetable, legume, pea, edible podded, subgroup 6-22B, to 
+harmonize with the corresponding Canadian MRLs. The proposed tolerance 
+for kohlrabi is 0.6 ppm; EPA is establishing the tolerance at 0.9 ppm. 
+For crop group 5-16, the proposed tolerance is 0.6 ppm; EPA is 
+establishing the tolerance at 0.9 ppm. For both subgroup 6-22A and 
+subgroup 6-22B, the proposed tolerance is 0.6 ppm; EPA is establishing 
+the tolerance for both subgroups at 0.8 ppm.
+    Finally, EPA is increasing the tolerances for milk, milk fat, 
+ruminant and horse fat, and ruminant and horse meat byproducts due to 
+the increased dietary burden resulting from the new uses. Although 
+adjustments to these tolerances were not requested in the petition 
+submitted, EPA has stated that before establishing tolerances in raw 
+agricultural commodities, EPA considers the possibility of residues in 
+livestock commodities, e.g., meat, and meat byproducts, from animals 
+eating those treated commodities (40 CFR 180.6(a)). Where the data show 
+that there are residues in livestock feed commodities, EPA will 
+establish the tolerances on the raw agricultural feed item only where 
+the tolerances can be established on the livestock items at the same 
+time (40 CFR 180.6(b)). The commodity definitions for milk and milk fat 
+have also been separated and updated to align with the HED Preferred 
+Tolerance vocabulary. More information on these tolerance 
+determinations can be found in the document titled ``Bifenthrin. Human 
+Health Risk Assessment for the Section 3 Registration of Bifenthrin on 
+Clover (Grown For Seed); Coffee; Fuzzy Kiwifruit; Safflower; Tropical 
+And Subtropical Palm Fruit (Subgroup 23C); and Crop Group Expansions/
+Conversions for Brassica, Head and Stem Vegetables (Group 5-16); 
+Kohlrabi; Succulent Peas and Beans (Subgroups 6-22A, B, C, and D); 
+Dried Beans and Peas (Subgroups 6-22E and F); Rapeseed (Subgroup 20A); 
+Cottonseed (Subgroup 20C); Leaf Petiole Vegetables (Subgroup 22B); 
+Celtuce; Florence Fennel; and Swiss Chard.'' in docket ID number EPA-
+HQ-OPP-2023-0555.
+
+V. Conclusion
+
+    Tolerances are established for residues of bifenthrin, in or on the 
+following commodities: cattle, fat at 3 ppm; cattle, meat byproducts at 
+0.2 ppm; celtuce at 3 ppm; coffee, green bean at 0.05 ppm; cottonseed 
+subgroup 20C at 0.5 ppm; fennel, florence, fresh leaves and stalk at 3 
+ppm; fruit, citrus, group 10-10, oil at 0.8 ppm; goat, fat at 3 ppm; 
+goat, meat byproducts at 0.2 ppm; horse, fat at 3 ppm; horse, meat 
+byproducts at 0.2 ppm; kiwifruit, fuzzy at 1.5 ppm; kohlrabi at 0.9 
+ppm; leaf petiole vegetable subgroup 22B at 3 ppm; milk at 0.2 ppm; 
+milk, fat at 3 ppm; rapeseed subgroup 20A at 0.05 ppm; safflower, seed 
+at 0.2 ppm; sheep, fat at 3 ppm; sheep, meat byproducts at
+
+[[Page 39500]]
+
+0.2 ppm; Swiss chard at 3 ppm; tropical and subtropical, palm fruit, 
+edible peel, subgroup 23C at 4 ppm; vegetable, brassica, head and stem, 
+group 5-16, except cabbage at 0.9 ppm; vegetable, legume, bean, edible 
+podded, subgroup 6-22A at 0.8 ppm; vegetable, legume, bean, succulent 
+shelled, subgroup 6-22C at 0.05 ppm; vegetable, legume, pea, edible 
+podded, subgroup 6-22B at 0.8 ppm; vegetable, legume, pea, succulent 
+shelled, subgroup 6-22D at 0.05 ppm; vegetable, legume, pulse, bean, 
+dried shelled, except soybean, subgroup 6-22E at 0.3 ppm; and 
+vegetable, legume, pulse, pea, dried shelled, subgroup 6-22F at 0.3 
+ppm. The following regional tolerances are established for clover, 
+forage at 7 ppm and clover, hay at 30 ppm.
+    The following tolerances are removed as unnecessary due to the 
+establishment of the above tolerances: brassica, head and stem, 
+subgroup 5A, except cabbage at 0.6 ppm; cotton, undelinted seed at 0.5 
+ppm; leafy petioles subgroup 4B at 3.0 ppm; milk, fat (reflecting 0.1 
+ppm in whole milk) at 1.0 ppm; pea and bean, dried shelled, except 
+soybean, subgroup 6C at 0.15 ppm; pea and bean, succulent shelled, 
+subgroup 6B at 0.05 ppm; rapeseed, seed at 0.05 ppm; and vegetable, 
+legume, edible podded, subgroup 6A at 0.6 ppm. EPA is also removing, as 
+a housekeeping measure, the tolerance for Groundcherry, since that 
+expired on June 1, 2022, and is no longer effective.
+
+VI. Statutory and Executive Order Reviews
+
+    Additional information about these statutes and Executive Orders 
+can be found at  https://www.epa.gov/regulations/and-executive-orders .
+
+A. Executive Order 12866: Regulatory Planning and Review
+
+    This action is exempt from review under Executive Order 12866 (58 
+FR 51735, October 4, 1993), because it establishes or modifies a 
+pesticide tolerance or a tolerance exemption under FFDCA section 408 in 
+response to a petition submitted to the Agency. The Office of 
+Management and Budget (OMB) has exempted these types of actions from 
+review under Executive Order 12866.
+
+B. Executive Order 14192: Unleashing Prosperity Through Deregulation
+
+    Executive Order 14192 (90 FR 9065, February 6, 2025) does not apply 
+because actions that establish a tolerance under FFDCA section 408 are 
+exempted from review under Executive Order 12866.
+
+C. Paperwork Reduction Act (PRA)
+
+    This action does not impose an information collection burden under 
+the PRA 44 U.S.C. 3501 et seq., because it does not contain any 
+information collection activities.
+
+D. Regulatory Flexibility Act (RFA)
+
+    Since tolerance actions that are established on the basis of a 
+petition under FFDCA section 408(d), such as the tolerance in this 
+final rule, do not require the issuance of a proposed rule, the 
+requirements of the RFA, 5 U.S.C. 601 et seq., do not apply to this 
+action.
+
+E. Unfunded Mandates Reform Act (UMRA)
+
+    This action does not contain an unfunded mandate of $100 million or 
+more (in 1995 dollars and adjusted annually for inflation) as described 
+in UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely 
+affect small governments. The action imposes no enforceable duty on any 
+State, local, or Tribal governments or on the private sector.
+
+F. Executive Order 13132: Federalism
+
+    This action does not have federalism implications as specified in 
+Executive Order 13132 (64 FR 43255, August 10, 1999), because it will 
+not have substantial direct effects on the States, on the relationship 
+between the National Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+
+G. Executive Order 13175: Consultation and Coordination With Indian 
+Tribal Governments
+
+    This action does not have Tribal implications as specified in 
+Executive Order 13175 (65 FR 67249, November 9, 2000), because it will 
+not have substantial direct effects on Tribal governments, on the 
+relationship between the Federal Government and the Indian Tribes, or 
+on the distribution of power and responsibilities between the Federal 
+Government and Indian Tribes.
+
+H. Executive Order 13045: Protection of Children From Environmental 
+Health Risks and Safety Risks
+
+    This action is not subject to Executive Order 13045 (62 FR 19885, 
+April 23, 1997) because tolerance actions like this one are exempt from 
+review under Executive Order 12866. However, EPA's 2026 Policy on 
+Children's Health applies to this action. This rule finalizes tolerance 
+actions under the FFDCA, which requires EPA to give special 
+consideration to exposure of infants and children to the pesticide 
+chemical residue in establishing a tolerance and to ``ensure that there 
+is a reasonable certainty that no harm will result to infants and 
+children from aggregate exposure to the pesticide chemical residue . . 
+. '' (FFDCA 408(b)(2)(C)). The Agency's consideration is summarized in 
+Unit III.D.
+
+I. Executive Order 13211: Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution or Use
+
+    This action is not subject to Executive Order 13211 (66 FR 28355) 
+(May 22, 2001) because it is not a significant regulatory action under 
+Executive Order 12866.
+
+J. National Technology Transfer Advancement Act (NTTAA)
+
+    This action does not involve technical standards that would require 
+Agency consideration under NTTAA section 12(d), 15 U.S.C. 272.
+
+K. Congressional Review Act (CRA)
+
+    This action is subject to the CRA, 5 U.S.C. 801 et seq., and EPA 
+will submit a rule report to each House of the Congress and to the 
+Comptroller General of the United States. This action is not a ``major 
+rule'' as defined by 5 U.S.C. 804(2).
+
+List of Subjects in 40 CFR Part 180
+
+    Environmental protection, Administrative practice and procedure, 
+Agricultural commodities, Pesticides and pests, Reporting and 
+recordkeeping requirements.
+
+    Dated: June 26, 2026.
+Charles Smith,
+Director, Registration Division, Office of Pesticide Programs.
+
+    For the reasons set forth in the preamble, 40 CFR chapter I is 
+amended as follows:
+
+PART 180--TOLERANCES AND EXEMPTIONS FOR PESTICIDE CHEMICAL RESIDUES 
+IN FOOD
 
 0
-1. The authority citation for part 165 continues to read as follows:
+1. The authority citation for part 180 continues to read as follows:
 
-[[Page 40896]]
-
-    Authority:  46 U.S.C. 70034, 70051, 70124; 33 CFR 1.05-1, 6.04-
-1, 6.04-6, and 160.5; DHS Delegation No. 00170.1, Revision No. 01.4.
+    Authority: 21 U.S.C. 321(q), 346a and 371.
 
 0
-2. Add Sec.  165.T01-0633 to read as follows:
+2. Amend Sec.  180.442 by revising the table in paragraphs (a)(1) and 
+(c) to read as follows:
 
-Sec.  165.T01-0633  Regulated Navigation Area; Hudson River, Albany, 
-NY.
+Sec.  180.442  Bifenthrin; tolerances for residues.
 
-    (a) Location. The following area is a Regulated Navigation Area 
-(RNA): All waters of the Hudson River, mile 146.2, in the vicinity of 
-the Livingston Avenue Railroad Swing Bridge, Albany, NY, from surface 
-to bottom, shoreline to shoreline, south of a line drawn from 
-42[deg]39'23.50'' N, 73[deg]44'31.12'' W thence to 42[deg]39'18.25'' N, 
-73[deg]44'17.41'' W, approximately 600 feet north of the existing 
-bridge, and north of a line drawn from 42[deg]39'09.46'' N, 
-73[deg]44'41.01'' W thence to 42[deg]39'04.22'' N, 73[deg]44'29.72'' W, 
-approximately 1,000 feet south of the existing bridge. These 
-coordinates are based on the World Geodetic System (WGS 84)/North 
-American Datum 83 (NAD 83).
-    (b) Definitions. As used in this section, designated representative 
-means a Coast Guard Patrol Commander, including a Coast Guard coxswain, 
-petty officer, or other officer operating a Coast Guard vessel and a 
-Federal, State, and local officer designated by or assisting the 
-Northeast Coast Guard District Commander in the enforcement of the 
-regulated area. Local officer means any officer, agent, or employee of 
-a unit of local government authorized by law or by a local government 
-agency to engage in or supervise the prevention, detection, 
-investigation, or prosecution of any violation of criminal law.
-    (c) Regulations. (1) In addition to the general RNA regulations in 
-Sec.  165.13, the following regulations apply to the RNA described in 
-paragraph (a) of this section.
-    (2) Nothing in this regulation relieves any vessel, owner, 
-operator, charterer, master, or person directing the movement of a 
-vessel, from the consequences of any neglect to comply with this part 
-or any other applicable law or regulation (i.e. the International 
-Regulations for Prevention of Collisions at Sea, 1972 (72 COLREGS) or 
-33 CFR part 84--Subchapter E, Inland Navigation Rules) or of the 
-neglect of any precaution which may be required by the ordinary 
-practice of seamen, or by the special circumstances of the case.
-    (3) Entry and movement within the RNA is subject to a ``Slow-No 
-Wake'' speed limit. All vessels may not produce a wake and may not 
-attain speeds greater than five (5) knots unless a higher minimum speed 
-is necessary to maintain bare steerageway.
-    (4) Any vessel transiting through the RNA must make a direct 
-passage. No vessel may stop, fish, moor, anchor, or loiter within the 
-RNA at any time.
-    (5) Vessels may not pass (overtake) another vessel within the RNA.
-    (6) Except when transiting through the navigation channel, no 
-vessel or craft may operate within 20 feet of the bridge(s).
-    (7) The operator of any vessel transiting in the RNA must comply 
-with all lawful directions given to them by the COTP or the COTP's on-
-scene representative.
-    (8) When a full enforcement period of the regulated area is 
-activated, only vessel authorized by COTP may enter or remain within 
-the RNA.
-    (d) Enforcement period. The following enforcement periods and 
-requirements apply to this RNA.
-    (1) This section will be enforced from 7 a.m. on July 12, 2026, to 
-11:59 p.m. on October 31, 2029.
-    (2) The ``Slow-No Wake'' speed limit, and other restrictions--
-except for the limited full enforcement period prohibiting vessels from 
-entering the regulated area--will be enforced throughout the entire 
-enforcement period.
-    (3) Full enforcement periods of the regulated area, prohibiting all 
-vessel entry, will be enforced only during hazardous construction 
-operations involving multiple tugs and large barges maneuvering in and 
-obstructing the navigable channels, or near the navigable channels, for 
-heavy lift, construction, or demolition activities. The Coast Guard 
-will issue information on full enforcement periods through Local Notice 
-to Mariners, the Coast Guard Navigation Center Maritime Safety 
-Information Products page at  https://www.navcen.uscg.gov/msi , and 
-Broadcast Notice to Mariners via marine channel 16 (VHF-FM) as soon as 
-practicable.
-    (4) Persons or vessels seeking to deviate from the restrictions 
-described in section (c) of this section or to enter the regulated area 
-during a full enforcement period must request authorization from the 
-COTP or the COTP's on-scene designated representative on VHF-16 or via 
-phone at (718) 354-4353.
+    (a) * * *
+    (1) * * *
 
-Michael E. Platt,
-Rear Admiral, U.S. Coast Guard, Commander, Northeast District.
-[FR Doc. 2026-13568 Filed 7-2-26; 8:45 am]
-BILLING CODE 9110-04-P
+[[Page 39501]]
+
+                       Table 1 to Paragraph (a)(1)
+------------------------------------------------------------------------
+                                                             Parts per
+                        Commodity                             million
+------------------------------------------------------------------------
+Almond, hulls...........................................             2.0
+Apple, wet pomace.......................................             1.5
+Artichoke, globe........................................             1.0
+Avocado.................................................             0.5
+Banana \1\..............................................             0.1
+Beet, garden, roots.....................................            0.45
+Beet, garden, tops......................................              15
+Berry, low growing, subgroup 13-07G.....................               3
+Brassica, leafy greens, subgroup 4-16B..................               4
+Bushberry subgroup 13-07B...............................             1.8
+Cabbage.................................................             4.0
+Caneberry subgroup 13-07A...............................               1
+Cattle, fat.............................................               3
+Cattle, meat byproducts.................................             0.2
+Cattle, meat............................................             0.5
+Celtuce.................................................               3
+Coffee, green bean......................................            0.05
+Coriander, dried leaves.................................              25
+Coriander, leaves.......................................             6.0
+Coriander, seed.........................................             5.0
+Corn, field, forage.....................................             3.0
+Corn, field, grain......................................            0.05
+Corn, field, stover.....................................             5.0
+Corn, pop, grain........................................            0.05
+Corn, pop, stover.......................................             5.0
+Corn, sweet, forage.....................................             3.0
+Corn, sweet, kernel plus cob with husk removed..........            0.05
+Corn, sweet, stover.....................................             5.0
+Cottonseed subgroup 20C.................................             0.5
+Egg.....................................................            0.05
+Fennel, florence, fresh leaves and stalk................               3
+Fruit, citrus, group 10-10..............................            0.05
+Fruit, citrus, group 10-10, oil.........................             0.8
+Fruit, pome, group 11-10, except mayhaw.................             0.9
+Fruit, small, vine climbing, except fuzzy kiwifruit,                 0.3
+ subgroup 13-07F........................................
+Goat, fat...............................................               3
+Goat, meat byproducts...................................             0.2
+Goat, meat..............................................             0.5
+Grain, aspirated fractions..............................              70
+Herb subgroup 19A.......................................            0.05
+Hog, fat................................................             1.0
+Hog, meat byproducts....................................            0.10
+Hog, meat...............................................             0.5
+Hop, dried cones........................................            10.0
+Horse, fat..............................................               3
+Horse, meat byproducts..................................             0.2
+Horse, meat.............................................             0.5
+Kiwifruit, fuzzy........................................             1.5
+Kohlrabi................................................             0.9
+Leaf petiole vegetable subgroup 22B.....................               3
+Lettuce, head...........................................             3.0
+Mayhaw..................................................             1.4
+Milk....................................................             0.2
+Milk, fat...............................................               3
+Nut, tree, group 14-12..................................            0.05
+Peach subgroup 12-12B...................................             0.7
+Peanut..................................................            0.05
+Pepper/eggplant subgroup 8-10B..........................             0.5
+Pomegranate.............................................             0.5
+Poultry, fat............................................            0.05
+Poultry, meat byproducts................................            0.05
+Poultry, meat...........................................            0.05
+Radish, tops............................................             4.5
+Rapeseed subgroup 20A...................................            0.05
+Safflower, seed.........................................             0.2
+Sheep, fat..............................................               3
+Sheep, meat byproducts..................................             0.2
+Sheep, meat.............................................             0.5
+Soybean, hulls..........................................            0.50
+Soybean, refined oil....................................            0.30
+Soybean, seed...........................................             0.2
+Spinach.................................................             0.2
+Sunflower subgroup 20B..................................            0.05
+Swiss chard.............................................               3
+Tea, dried \1\..........................................              30
+Tomato subgroup 8-10A...................................             0.3
+Tropical and subtropical, palm fruit, edible peel,                     4
+ subgroup 23C...........................................
+Vegetable, brassica, head and stem, group 5-16, except               0.9
+ cabbage................................................
+Vegetable, cucurbit, group 9............................             0.4
+Vegetable, legume, bean, edible podded, subgroup 6-22A..             0.8
+Vegetable, legume, bean, succulent shelled, subgroup 6-             0.05
+ 22C....................................................
+Vegetable, legume, pea, edible podded, subgroup 6-22B...             0.8
+Vegetable, legume, pea, succulent shelled, subgroup 6-              0.05
+ 22D....................................................
+Vegetable, legume, pulse, bean, dried shelled, except                0.3
+ soybean, subgroup 6-22E................................
+Vegetable, legume, pulse, pea, dried shelled, subgroup 6-            0.3
+ 22F....................................................
+Vegetable, root, subgroup 1B except sugar beet and                  0.10
+ garden beet............................................
+Vegetable, tuberous and corm, subgroup 1C...............            0.05
+------------------------------------------------------------------------
+\1\ There are no U.S. registrations.
+
+* * * * *
+    (c) * * *
+
+                        Table 2 to Paragraph (c)
+------------------------------------------------------------------------
+                                                             Parts per
+                        Commodity                             million
+------------------------------------------------------------------------
+Clover, forage..........................................               7
+Clover, hay.............................................              30
+Grass, forage...........................................             4.0
+Grass, hay..............................................              15
+------------------------------------------------------------------------
+
+* * * * *
+[FR Doc. 2026-13174 Filed 6-29-26; 8:45 am]
+BILLING CODE 6560-50-P

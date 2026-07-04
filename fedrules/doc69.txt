@@ -1,0 +1,489 @@
+[Federal Register Volume 91, Number 126 (Thursday, July 2, 2026)]
+[Rules and Regulations]
+[Pages 40353-40356]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13481]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-4661; Project Identifier MCAI-2025-01530-E; 
+Amendment 39-23388; AD 2026-13-06]
+RIN 2120-AA64
+
+Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG 
+Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2024-25-
+10, which applied to certain Rolls-Royce Deutschland Ltd & Co KG (RRD) 
+Model Trent XWB-97 engines. AD 2024-25-10 required a one-time set of 
+visual and dimensional inspections of the main fuel hose assembly of 
+the fuel manifold to confirm softness, compliance, and lack of 
+resistance, and for shrinkage, cracks, chafing, dents, kinks, necking, 
+and degradation of the hose braid wire; and, if necessary, replacement 
+of the main fuel hose assembly of the fuel manifold. Since the FAA 
+issued AD 2024-25-10, the FAA has determined that additional engine 
+models are affected by the unsafe condition and that the required 
+inspections should be repetitive. This AD requires, for certain 
+engines, a one-time set of on-wing visual and dimensional inspections 
+of the main fuel hose assembly of the fuel manifold to confirm 
+softness, compliance, and lack of resistance, and for shrinkage, 
+cracks, chafing, dents, kinks, necking, and degradation of the hose 
+braid wire and, if necessary, replacement of the main fuel hose 
+assembly of the fuel manifold. This AD also requires, for certain other 
+engines, on-wing and in-shop repetitive visual and dimensional 
+inspections of the main fuel hose assembly of the fuel manifold to 
+confirm softness, compliance, and lack of resistance, and for 
+shrinkage, cracks, chafing, dents, kinks, necking, and degradation of 
+the hose braid wire and, if necessary, replacement of the main fuel 
+hose assembly of the fuel manifold. This AD also expands the 
+applicability to include certain RRD Model Trent XWB-75, Trent XWB-79, 
+Trent XWB-79B, and Trent XWB-84 engines. This AD also provides criteria 
+for installation of an affected part and optional terminating action 
+for the repetitive visual and dimensional inspections. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective July 17, 2026.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of July 17, 
+2026.
+    The FAA must receive comments on this AD by August 17, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+      Federal eRulemaking Portal: Go to  regulations.gov . Follow 
+the instructions for submitting comments.
+      Fax: (202) 493-2251.
+      Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+      Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at  regulations.gov  under 
+Docket No. FAA-2026-4661; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+      For European Union Aviation Safety Agency (EASA) material 
+identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
+Cologne, Germany; phone: +49 221 8999 000; email:   [email&#160;protected]  ; 
+website: easa.europa.eu. You may find this material on the EASA website 
+at ad.easa.europa.eu.
+      You may view this material at the FAA, Operational Safety 
+Branch, 1200 District Avenue, Burlington, MA 01803. For information on 
+the availability of this material at the FAA, call (817) 222-5110. It 
+is also available at  regulations.gov  under Docket No. FAA-2026-4661.
+
+[[Page 40354]]
+
+FOR FURTHER INFORMATION CONTACT: Barbara Caufield, Aviation Safety 
+Engineer, FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: 
+(781) 238-7146; email:   [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments using a method listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2026-4661; Project 
+Identifier MCAI-2025-01530-E'' at the beginning of your comments. The 
+most helpful comments reference a specific portion of the final rule, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+ regulations.gov , including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to Barbara 
+Caufield, Aviation Safety Engineer, FAA, 2200 South 216th Street, Des 
+Moines, WA 98198. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA issued AD 2024-25-10, Amendment 39-22912 (90 FR 8661, 
+January 31, 2025) (AD 2024-25-10), for certain RRD Model Trent XWB-97 
+engines. AD 2024-25-10 was prompted by an emergency AD originated by 
+EASA, which is the Technical Agent for the Member States of the 
+European Union. EASA issued EASA Emergency AD 2024-0174-E, dated 
+September 5, 2024 (EASA Emergency AD 2024-0174-E) to correct an unsafe 
+condition identified as damage to the main fuel hose assembly of the 
+fuel manifold. AD 2024-25-10 required a one-time set of visual and 
+dimensional inspections of the main fuel hose assembly of the fuel 
+manifold to confirm softness, compliance, and lack of resistance, and 
+for shrinkage, cracks, chafing, dents, kinks, necking, and degradation 
+of the hose braid wire; and, if necessary, replacement of the main fuel 
+hose assembly of the fuel manifold. The FAA issued AD 2024-25-10 to 
+prevent damage to the main fuel hose assembly of the fuel manifold.
+
+Actions Since EASA Emergency AD 2024-0174-E Was Issued
+
+    EASA superseded EASA Emergency AD 2024-0174-E and issued EASA AD 
+2024-0182, dated September 19, 2024 (later revised) (EASA AD 2024-
+0182); EASA AD 2024-0182R1, dated October 9, 2024 (superseded) (EASA AD 
+2024-0182R1); EASA AD 2025-0128, dated June 3, 2025 (later revised) 
+(EASA AD 2025-0128); and EASA AD 2025-0128R1, dated June 17, 2025 (EASA 
+AD 2025-0128R1) (also referred to as the MCAI).
+    EASA AD 2024-0182 included new service material, specified that a 
+certain cleaning process available during engine refurbishment may lead 
+to degradation of the main fuel hose assembly of the fuel manifold, 
+that additional engine model groups were affected by the unsafe 
+condition, and that repetitive inspections were necessary. EASA AD 
+2024-0182R1 included a revision to the service material and clarified 
+the terminating action for the repetitive inspections. EASA AD 2025-
+0128, included a revision to the service material and identified an 
+additional population of engines affected by the unsafe condition and 
+required repetitive inspections and corrective actions for those 
+engines.
+    The MCAI states that damage to a fuel manifold main fuel hose was 
+reported, which led to a controlled, temporary engine fire and heat 
+damage to the exterior and interior of the engine nacelle (thrust 
+reverser C-ducts). The occurrence resulted in an in-flight shutdown. 
+In-service and in-shop inspections identified a specific cleaning 
+process available during engine refurbishment that may lead to 
+degradation of the main fuel hose assembly of the fuel manifold. 
+Additionally, multiple additional populations of affected engines were 
+identified, and a determination was made that the initial population of 
+affected engines could be reduced to exclude certain engine serial 
+numbers. To address this potential unsafe condition, the manufacturer 
+published service information that specifies procedures for a one-time 
+set of visual and dimensional inspections of the fuel manifold main 
+fuel hoses and corrective action instructions. This condition, if not 
+addressed, in combination with additional failures, could lead to an 
+engine fire and damage to the airplane.
+    You may examine the MCAI in the AD docket at  regulations.gov  under 
+Docket No. FAA-2026-4661.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2025-0128R1, which specifies procedures 
+for a one-time set of on-wing visual and dimensional inspections of the 
+main fuel hose assembly of the fuel manifold to confirm softness, 
+compliance, and lack of resistance, and for shrinkage, cracks, chafing, 
+dents, kinks, necking, and degradation of the hose braid wire and, if 
+necessary, replacement of the main fuel hose assembly of the fuel 
+manifold, and reporting the inspection results to RRD. EASA AD 2025-
+0128R1 also specifies procedures for on-wing and in-shop repetitive 
+visual and dimensional inspections of the main fuel hose assembly of 
+the fuel manifold to confirm softness, compliance, and lack of 
+resistance, and for shrinkage, cracks, chafing, dents, kinks, necking, 
+and degradation of the hose braid wire and, if necessary, replacement 
+of the main fuel hose assembly of the fuel manifold, and reporting the 
+inspection results to RRD. EASA AD 2025-0128R1 also allows installation 
+of an affected part on any airplane provided that the part is 
+serviceable and allows installation of an affected engine provided that 
+the engine passed the required inspections, or the findings were 
+corrected. EASA AD 2025-0128R1 also includes optional terminating 
+action for the repetitive visual and dimensional inspections provided 
+that the engine has passed an inspection with no findings or the 
+findings are corrected, or the engine has not yet reached the threshold 
+of the required inspections.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+[[Page 40355]]
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+(CAA) of another country and are approved for operation in the United 
+States. Pursuant to the FAA's bilateral agreement with this State of 
+Design Authority, that authority has notified the FAA of the unsafe 
+condition described in the MCAI referenced above. The FAA is issuing 
+this AD after determining that the unsafe condition described 
+previously is likely to exist or develop on other products of the same 
+type design.
+
+AD Requirements
+
+    This AD requires accomplishing the actions specified in EASA AD 
+2025-0128R1, described previously, as incorporated by reference, except 
+for any differences identified as exceptions in the regulatory text of 
+this AD.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some CAA ADs as the primary 
+source of information for compliance with requirements for 
+corresponding FAA ADs. The FAA has been coordinating this process with 
+manufacturers and CAAs. As a result, EASA AD 2025-0128R1 is 
+incorporated by reference in this AD. This AD requires compliance with 
+EASA AD 2025-0128R1 in its entirety through that incorporation, except 
+for any differences identified as exceptions in the regulatory text of 
+this AD. Using common terms that are the same as the heading of a 
+particular section in EASA AD 2025-0128R1 does not mean that operators 
+need comply only with that section. For example, where the AD 
+requirement refers to ``all required actions and compliance times,'' 
+compliance with this AD requirement is not limited to the section 
+titled ``Required Action(s) and Compliance Time(s)'' in EASA AD 2025-
+0128R1. Material required by EASA AD 2025-0128R1 for compliance will be 
+available at  regulations.gov  under Docket No. FAA-2026-4661 after this 
+AD is published.
+
+Interim Action
+
+    The preamble to AD 2024-25-10 specifies that the FAA considers that 
+AD to be an ``interim action'' and that the FAA might consider further 
+rulemaking depending on the results of the investigation. The 
+manufacturer has since developed such repetitive inspections and, if 
+necessary, replacement of the main fuel hose assembly of the fuel 
+manifold for certain engines, which is optional terminating action to 
+the repetitive inspections required by AD 2024-25-10. The FAA has 
+determined that these actions must be required to mitigate the unsafe 
+condition.
+
+Justification for Immediate Adoption and Determination of the Effective 
+Date
+
+    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
+551 et seq.) authorizes agencies to dispense with notice and comment 
+procedures for rules when the agency, for ``good cause,'' finds that 
+those procedures are ``impracticable, unnecessary, or contrary to the 
+public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    The FAA justifies waiving notice and comment prior to adoption of 
+this rule because no domestic operators use this product. It is 
+unlikely that the FAA will receive any adverse comments or useful 
+information about this AD from any U.S. operator.
+    Accordingly, notice and opportunity for prior public comment are 
+unnecessary, pursuant to 5 U.S.C. 553(b). In addition, for the 
+foregoing reason(s), the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days.
+
+Regulatory Flexibility Act
+
+    The requirements of the Regulatory Flexibility Act (RFA) do not 
+apply when an agency finds good cause pursuant to 5 U.S.C. 553 to adopt 
+a rule without prior notice and comment. Because FAA has determined 
+that it has good cause to adopt this rule without prior notice and 
+comment, RFA analysis is not required.
+
+Costs of Compliance
+
+    There are no costs of compliance with this AD because there are no 
+engines with this type certificate on the U.S. Registry.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive 2024-25-10, Amendment 39-22912 (90 
+FR 8661, January 31, 2025); and
+0
+b. Adding the following new airworthiness directive:
+
+2026-13-06 Rolls-Royce Deutschland Ltd & Co KG: Amendment 39-23388; 
+Docket No. FAA-2026-4661; Project Identifier MCAI-2025-01530-E.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective July 17, 2026.
+
+ (b) Affected ADs
+
+    This AD replaces AD 2024-25-10, Amendment 39-22912 (90 FR 8661, 
+January 31, 2025) (AD 2024-25-10).
+
+[[Page 40356]]
+
+ (c) Applicability
+
+    This AD applies to certain Rolls-Royce Deutschland Ltd & Co KG 
+Model Trent XWB-75, Trent XWB-79, Trent XWB-79B, Trent XWB-84, and 
+Trent XWB-97 engines, as identified in European Union Aviation 
+Safety Agency (EASA) AD 2025-0128R1, dated June 17, 2025 (EASA AD 
+2025-0128R1).
+
+ (d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7200, Engine 
+(Turbine/Turboprop); 7310, Engine Fuel Distribution.
+
+ (e) Unsafe Condition
+
+    This AD was prompted by a report of damage to the main fuel hose 
+assembly of the fuel manifold, which led to a controlled, temporary 
+engine fire and heat damage to the exterior and interior of the 
+engine nacelle (thrust reverser C-ducts), and resulted in a 
+commanded in-flight engine shut down. The FAA is issuing this AD to 
+prevent damage to the main fuel hose assembly of the fuel manifold. 
+The unsafe condition, if not addressed, in combination with 
+additional failures, could lead to an engine fire and result in 
+damage to the airplane.
+
+ (f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+ (g) Required Actions
+
+    Except as specified in paragraphs (h) and (i) of this AD: Do all 
+required actions within the compliance times specified in, and in 
+accordance with, EASA AD 2025-0128R1.
+
+ (h) Exceptions to EASA AD 2025-0128R1
+
+    (1) Where EASA AD 2025-0128R1 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2025-0128R1 refers to September 1, 2024, this 
+AD requires using the effective date of this AD.
+    (3) Where EASA AD 2025-0128R1 refers to September 9, 2024 (the 
+effective date of EASA Emergency AD 2024-0174-E), this AD requires 
+using February 18, 2025 (the effective date of AD 2024-25-10).
+    (4) Where EASA AD 2025-0128R1 refers to October 3, 2024 (the 
+effective date of the original issue of EASA AD 2024-0182), this AD 
+requires using the effective date of this AD.
+    (5) Where EASA AD 2025-0128R1 refers to June 10, 2025 (the 
+effective date of the EASA AD 2025-0128, dated June 3, 2025), this 
+AD requires using the effective date of this AD.
+    (6) Where EASA AD 2025-0128R1 refers to the applicable date 
+listed in Appendix 1 of the Non-Modification Service Bulletin for 
+Group B engines, this AD requires using the effective date of this 
+AD.
+    (7) Where EASA AD 2025-0128R1 states ``engine flying hours 
+(EFH)'', this AD requires replacing that text with ``engine flight 
+hours (EFH)''.
+    (8) Where EASA AD 2025-0128R1 states ``engine flying cycles 
+(EFC)'', this AD requires replacing that text with ``engine flight 
+cycles (EFC)''.
+    (9) This AD does not adopt the ``Remarks'' paragraph of EASA AD 
+2025-0128R1.
+
+ (i) No Reporting Requirement
+
+    Although EASA AD 2025-0128R1 specifies to submit certain 
+information to the manufacturer, this AD does not include that 
+requirement.
+
+ (j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520 Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the AIR-520 Continued 
+Operational Safety Branch, send it to the attention of the person 
+identified in paragraph (k) of this AD and email to:   [email&#160;protected]  .
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+ (k) Additional Information
+
+    For more information about this AD, contact Barbara Caufield, 
+Aviation Safety Engineer, FAA, 2200 South 216th Street, Des Moines, 
+WA 98198; phone: (781) 238-7146; email:   [email&#160;protected]  .
+
+ (l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2025-0128R1, 
+dated June 17, 2025.
+    (ii) [Reserved].
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 8999 
+000; email:   [email&#160;protected]  ; website: easa.europa.eu. You may 
+find this material on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Operational Safety 
+Branch, 1200 District Avenue, Burlington, MA 01803. For information 
+on the availability of this material at the FAA, call (817) 222-
+5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit  www.archives.gov/federal-register/cfr/ibr-locations  or email   [email&#160;protected]  .
+
+    Issued on June 18, 2026.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-13481 Filed 7-1-26; 8:45 am]
+BILLING CODE 4910-13-P

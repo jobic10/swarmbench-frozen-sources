@@ -1,499 +1,618 @@
-[Federal Register Volume 91, Number 123 (Monday, June 29, 2026)]
+[Federal Register Volume 91, Number 120 (Wednesday, June 24, 2026)]
 [Rules and Regulations]
-[Pages 38994-38997]
+[Pages 37822-37826]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13064]
+[FR Doc No: 2026-12654]
 
 -----------------------------------------------------------------------
 
-DEPARTMENT OF TRANSPORTATION
+DEPARTMENT OF JUSTICE
 
-Federal Aviation Administration
+Drug Enforcement Administration
 
-14 CFR Part 39
+21 CFR Part 1308
 
-[Docket No. FAA-2025-5026; Project Identifier MCAI-2024-00168-R; 
-Amendment 39-23382; AD 2026-12-12]
-RIN 2120-AA64
+[Docket No. DEA-1641]
 
-Airworthiness Directives; Airbus Helicopters
+Schedules of Controlled Substances: Temporary Placement of O-
+Desmethyltramadol in Schedule I
 
-AGENCY: Federal Aviation Administration (FAA), DOT.
+AGENCY: Drug Enforcement Administration, Department of Justice.
 
-ACTION: Final rule.
+ACTION: Proposed amendment; notice of intent.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
-Airbus Helicopters Model H160-B helicopters. This AD was prompted by a 
-discovery during a maintenance operation that several self-locking nuts 
-of the window jettisoning system could be loosened by hand due to a 
-non-conformity in certain cable kits. This AD requires modifying each 
-affected window into a serviceable window. This AD also prohibits 
-installing an affected window or an affected door on any helicopter. 
-The FAA is issuing this AD to address the unsafe condition on these 
-products.
+SUMMARY: The Administrator of the Drug Enforcement Administration is 
+issuing this notice of intent to publish a temporary order to schedule 
+O-desmethyltramadol (other names: O-DSMT; desmetramadol; 3-[(1R,2R)-2-
+[(dimethylamino)methyl]-1-hydroxycyclohexyl]phenol), including its 
+isomers, esters, ethers, salts, and salts of isomers, esters and 
+ethers, in schedule I of the Controlled Substances Act. When it is 
+issued, the temporary scheduling order will impose the regulatory 
+controls and administrative, civil, and criminal sanctions applicable 
+to schedule I controlled substances on persons who handle (manufacture, 
+distribute, reverse distribute, import, export, engage in research, 
+conduct instructional activities or chemical analysis with, or possess) 
+or propose to handle O-DSMT.
 
-DATES: This AD is effective August 3, 2026.
-    The Director of the Federal Register approved the incorporation by 
-reference of a certain publication listed in this AD as of August 3, 
-2026.
+DATES: June 24, 2026.
 
-ADDRESSES: 
-    AD Docket: You may examine the AD docket at  regulations.gov  under 
-Docket No. FAA-2025-5026; or in person at Docket Operations between 9 
-a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
-docket contains this final rule, the mandatory continuing airworthiness 
-information (MCAI), any comments received, and other information. The 
-address for Docket Operations is U.S. Department of Transportation, 
-Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
-New Jersey Avenue SE, Washington, DC 20590.
-    Material Incorporated by Reference:
-      For European Union Aviation Safety Agency (EASA) material 
-identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
-Cologne, Germany; phone: +49 221 8999 000; email:   [email&#160;protected]  ; 
-website: easa.europa.eu. You may find the EASA material on the EASA 
-website at ad.easa.europa.eu.
-      You may view this material at the FAA, Airworthiness 
-Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
-Fort Worth, TX 76177. For information on the availability of this 
-material at the FAA, call (817) 222-5110. It is also available at 
- regulations.gov  under Docket No. FAA-2025-5026.
+ADDRESSES: 8701 Morrissette Drive, Springfield, Virginia 22152.
 
-FOR FURTHER INFORMATION CONTACT: Eric Rivera, Aviation Safety Engineer, 
-FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; phone: (773) 
-412-9048; email:   [email&#160;protected]  .
+FOR FURTHER INFORMATION CONTACT: Dr. Terrence L. Boos, Drug and 
+Chemical Evaluation Section, Diversion Control Division, Drug 
+Enforcement Administration; Mailing Address: 8701 Morrissette Drive, 
+Springfield, Virginia 22152; Telephone: (571) 362-3249.
 
-SUPPLEMENTARY INFORMATION:
+SUPPLEMENTARY INFORMATION: The notice of intent contained in this 
+document is issued pursuant to the temporary scheduling provisions of 
+21 U.S.C. 811(h). The Drug Enforcement Administration (DEA) intends to 
+issue a temporary scheduling order \1\ (in the form of a temporary 
+amendment) to add O-desmethyltramadol (other names: O-DSMT; 
+desmetramadol), its isomers, esters, ethers, salts, and salts of 
+isomers, esters and ethers, to schedule I under the Controlled 
+Substances Act (CSA). The temporary scheduling order will be published 
+in the Federal Register on or after July 24, 2026.
+---------------------------------------------------------------------------
+
+    \1\ Though DEA has used the term ``final order'' with respect to 
+temporary scheduling orders in the past, this notice of intent 
+adheres to the statutory language of 21 U.S.C. 811(h), which refers 
+to a ``temporary scheduling order.'' No substantive change is 
+intended.
+---------------------------------------------------------------------------
+
+Legal Authority
+
+    The CSA provides the Attorney General with the authority to 
+temporarily place a substance in schedule I of the CSA for two years 
+without regard to the requirements of 21 U.S.C. 811(b), if he finds 
+that such action is necessary to avoid an imminent hazard to the public 
+safety.\2\ In addition, if proceedings to control a substance are 
+initiated under 21 U.S.C. 811(a)(1) while the substance is temporarily 
+controlled under section 811(h), the Attorney General may extend the 
+temporary scheduling for up to one year.\3\
+---------------------------------------------------------------------------
+
+    \2\ 21 U.S.C. 811(h)(1).
+    \3\ 21 U.S.C. 811(h)(2).
+---------------------------------------------------------------------------
+
+    Where the necessary findings are made, a substance may be 
+temporarily scheduled if it is not listed in any other schedule under 
+21 U.S.C. 812, or if there is no exemption or approval in effect for 
+the substance under section 505 of the Federal Food, Drug, and Cosmetic 
+Act, 21 U.S.C. 355.\4\ The Attorney General has delegated scheduling 
+authority under 21 U.S.C. 811 to the Administrator of DEA 
+(Administrator).\5\
+---------------------------------------------------------------------------
+
+    \4\ 21 U.S.C. 811(h)(1); 21 CFR part 1308.
+    \5\ 28 CFR 0.100.
+---------------------------------------------------------------------------
 
 Background
 
-    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
-CFR part 39 by adding an AD that would apply to all Airbus Helicopters 
-Model H160-B helicopters. The NPRM was published in the Federal 
-Register on November 20, 2025 (90 FR 52264). The NPRM was prompted by 
-EASA AD 2024-0063, dated March 7, 2024 (EASA AD 2024-0063) (also 
-referred to as the MCAI), issued by EASA, which is the Technical Agent 
-for the Member States of the European Union. The MCAI states that 
-during a maintenance operation, several self-locking nuts of the window 
-jettisoning system could be loosened by hand. The MCAI further states 
-that the function of these nuts is to hold the threaded axis and the 
-associated cable tightly together, as part of the passenger window 
-jettisoning system. The MCAI also states that certain cable kits which 
-are part of the window jettisoning system may not be in conformance 
-with applicable specifications.
-    In the NPRM, the FAA proposed to require modifying each affected 
-window into a serviceable window. The NPRM also proposed to prohibit 
-installing an affected window or an affected door on any helicopter. 
-The FAA is issuing this AD to prevent failure of the jettisoning 
-function of the window which, if not addressed, could result in the 
-inability to evacuate helicopter occupants during an emergency 
-situation.
-    You may examine the MCAI in the AD docket at  regulations.gov  under 
-Docket No. FAA-2025-5026.
+    The CSA requires the Administrator to notify the Secretary of 
+Health and Human Services (HHS) of an intent to
 
-Discussion of Final Airworthiness Directive
+[[Page 37823]]
 
-Comments
+temporarily place a substance in schedule I of the CSA (i.e., to issue 
+a temporary scheduling order).\6\ By letter dated May 27, 2025, the 
+previous Acting Administrator transmitted the required notice to place 
+O-DSMT in schedule I on a temporary basis to the then-Acting Assistant 
+Secretary for HHS (Assistant Secretary).\7\ On June 11, 2025, the 
+previous Acting Assistant Secretary responded to this notice and 
+advised DEA that, based on a review by the Food and Drug Administration 
+(FDA), there were currently no investigational new drug applications 
+(INDs) or approved new drug applications (NDAs) for O-DSMT. The 
+previous Assistant Secretary also stated that HHS had no objection to 
+the temporary placement of O-DSMT in schedule I of the CSA. O-DSMT is 
+not currently listed in any schedule under the CSA.
+---------------------------------------------------------------------------
 
-    The FAA received comments from the Citizens Rulemaking Alliance. 
-The following presents the comments received on the NPRM and the FAA's 
-response to each comment.
+    \6\ 21 U.S.C. 811(h)(4).
+    \7\ The Secretary of HHS has delegated to the Assistant 
+Secretary for Health of HHS the authority to make domestic drug 
+scheduling recommendations. Comprehensive Drug Abuse Prevention and 
+Control Act of 1970, Public Law 91-513, As Amended; Delegation of 
+Authority, 58 FR 35460 (July 1, 1993).
+---------------------------------------------------------------------------
 
-Request To Justify Forgoing Notice and Comment or Issue an NPRM
+    To find that temporarily placing a substance in schedule I of the 
+CSA is necessary to avoid an imminent hazard to the public safety, the 
+Administrator must consider three of the eight factors set forth in 21 
+U.S.C. 811(c): the substance's history and current pattern of abuse; 
+the scope, duration, and significance of abuse; and what, if any, risk 
+there is to the public health.\8\ This consideration includes any 
+information indicating actual abuse, diversion from legitimate 
+channels, and clandestine importation, manufacture, or distribution of 
+O-DSMT.\9\
+---------------------------------------------------------------------------
 
-    The Citizens Rulemaking Alliance requested that the FAA either 
-provide its justification for finding good cause to bypass notice and 
-comment procedures, convert this action to an NPRM, or at a minimum 
-reopen the comment period to allow comments. The commenter asserted the 
-FAA has not adequately justified use of the good cause exemption to 
-bypass notice and comment and the 30-day delayed effective date.
-    The FAA notes the comment was submitted in response to an NPRM for 
-which the FAA provided a 45-day comment period. This final rule is 
-effective 35 days after its publication in the Federal Register. 
-Therefore, no change to this AD is necessary.
+    \8\ 21 U.S.C. 811(c)(4)-6), (h)(3).
+    \9\ 21 U.S.C. 811(h)(3).
+---------------------------------------------------------------------------
 
-Request To Consider Impact on Small Entities
+    Substances meeting the statutory requirements for temporary 
+scheduling may only be placed in schedule I.\10\ Substances in schedule 
+I have high potential for abuse, no currently accepted medical use in 
+treatment in the United States, and a lack of accepted safety for use 
+of the drug under medical supervision.\11\
+---------------------------------------------------------------------------
 
-    The Citizens Rulemaking Alliance requested the FAA to either 
-supplement the docket with a factual basis that complies with the 
-Regulatory Flexibility Act (RFA) or withdraw the certification and 
-conduct an initial regulatory flexibility analysis. The commenter 
-stated that the analysis should consider the costs related to parts, 
-labor, aircraft downtime, and the impact on small entities, and should 
-involve reopening the comment period. Furthermore, the commenter asked 
-the FAA to explore less burdensome options for small operators, such as 
-implementing phased inspection intervals, extending compliance periods, 
-granting credit for previous actions, and providing alternative methods 
-of compliance (AMOC) templates.
-    The FAA has considered the AD's impact on small entities and 
-provides the following factual basis for its RFA certification.
-    The Regulatory Flexibility Act of 1980, Public Law 96-354, 94 Stat. 
-1164 (5 U.S.C. 601-612), as amended by the Small Business Regulatory 
-Enforcement
+    \10\ 21 U.S.C. 811(h)(1).
+    \11\ 21 U.S.C. 812(b)(1).
+---------------------------------------------------------------------------
 
-[[Page 38995]]
+O-Desmethyltramadol (O-DSMT)
 
-Fairness Act of 1996 (Pub. L. 104-121, 110 Stat. 857, Mar. 29, 1996) 
-and the Small Business Jobs Act of 2010 (Pub. L. 111-240, 124 Stat. 
-2504, Sept. 27, 2010), requires Federal agencies to consider the 
-effects of the regulatory action on small business and other small 
-entities and to minimize any significant economic impact. The term 
-``small entities'' comprises small businesses and not-for-profit 
-organizations that are independently owned and operated and are not 
-dominant in their fields, and governmental jurisdictions with 
-populations of less than 50,000.
-    The FAA identified two domestic entities, one pharmaceutical 
-preparation manufacturer and one nonscheduled air transportation 
-operator, that will be affected by this AD. Based on the Small Business 
-Administration (SBA) size standard (displayed in the following table), 
-both entities are large businesses.
+    O-DSMT is a mu-opioid agonist that is being abused for its 
+psychoactive effects. O-DSMT is one of two metabolites produced by 
+liver enzymes following the ingestion of the parent compound tramadol. 
+Tramadol, in and of itself, prior to being metabolized, is active as a 
+norepinephrine and serotonergic reuptake inhibitor, in addition to 
+being a weak mu-opioid receptor agonist. While the second metabolite, 
+N-DSMT, is inactive, O-DSMT is an active metabolite of tramadol with a 
+strong affinity for the mu-opioid receptor. O-DSMT is responsible for 
+the majority of the opioidergic effects following the ingestion of the 
+parent compound tramadol.
+    In the United States, since tramadol is only approved as a pill 
+formulation, a user must ingest tramadol orally, thus allowing the drug 
+to be metabolized via the liver, to experience the analgesic effects. 
+In the absence of any approved medical product or identified lawful 
+commercial source of O-DSMT in the United States due to its lack of 
+accepted medical use, understanding of the metabolism of tramadol and 
+its opioidergic metabolite has resulted in the clandestine production 
+of O-DSMT. Data has demonstrated that O-DSMT has a significantly higher 
+affinity for opioid receptors (K i -3.4 nM) than the parent 
+drug tramadol (K i -2400 nM) and is more potent in producing 
+analgesia. In addition, overdoses and deaths, both internationally and 
+within the United States, have been documented involving O-DSMT. With 
+no approved medical use and limited safety or toxicological 
+information, O-DSMT has emerged in the designer drug market, and the 
+abuse of this substance is a significant public health concern in the 
+United States.
+    Available data and information for O-DSMT, summarized below, 
+indicate that this substance has a high potential for abuse, no 
+currently accepted medical uses in treatment in the United States,\12\ 
+and a lack of accepted safety for use under medical supervision. DEA's 
+Three-Factor analysis is available in its entirety under ``Supporting 
+and Related Material'' of the public docket for this action at 
+ www.regulations.gov  under Docket Number DEA-1641.
+---------------------------------------------------------------------------
 
-                    Small Business Size Standards \1\
-------------------------------------------------------------------------
-        NAICS \2\ code                Description         Size standard
-------------------------------------------------------------------------
-325412........................  Pharmaceutical          1,300 employees.
-                                 Preparation
-                                 Manufacturing.
-481219........................  Other Nonscheduled Air  $25.0 million.
-                                 Transportation.
-------------------------------------------------------------------------
-\1\ Sources:  sba.gov : Table of Small Business Size Standards. Dun &
-  Bradstreet; D&B Hoovers; Retrieved May 15, 2026;  app.hoovers.dnb.com .
-\2\ NAICS = North American Industrial Classification System.
+    \12\ When finding schedule I placement on a temporary basis is 
+necessary to avoid imminent hazard to the public, 21 U.S.C. 811(h) 
+does not require DEA to consider whether the substance has a 
+currently accepted medical use in treatment in the United States. 
+Nonetheless, there is no evidence suggesting that O-DSMT has a 
+currently accepted medical use in treatment in the United States. 
+First, DEA looks to whether the drug or substance has FDA approval. 
+When no FDA approval exists, DEA has traditionally applied a five-
+part test to determine whether a drug or substances has a currently 
+accepted medical use: (1) The drug's chemistry must be known and 
+reproducible; (2) there must be adequate safety studies; (3) there 
+must be adequate and well-controlled studies proving efficacy; (4) 
+the drug must be accepted by qualified experts; and (5) the 
+scientific evidence must be widely available. See Marijuana 
+Scheduling Petition; Denial of Petition; Remand, 57 FR 10499 (Mar. 
+26, 1992), pet. for rev. denied, Alliance for Cannabis Therapeutics 
+v. Drug Enforcement Admin., 15 F.3d 1131, 1135 (D.C. Cir. 1994). DEA 
+applied the traditional five-part test and concluded the test was 
+not satisfied. In a recent published letter in a different context, 
+HHS applied an additional two-part test to determine currently 
+accepted medical use for substances that do not satisfy the five-
+part test: (1) whether there exists widespread, current experience 
+with medical use of the substance by licensed health care providers 
+operating in accordance with implemented jurisdiction-authorized 
+programs, where medical use is recognized by entities that regulate 
+the practice of medicine, and, if so, (2) whether there exists some 
+credible scientific support for at least one of the medical 
+conditions for which part (1) is satisfied. On April 11, 2024, the 
+Department of Justice's Office of Legal Counsel (OLC) issued an 
+opinion, which, among other things, concluded that HHS's two-part 
+test would be sufficient to establish that a drug has a currently 
+accepted medical use. Office of Legal Counsel, Memorandum for 
+Merrick B. Garland Attorney General Re: Questions Related to the 
+Potential Rescheduling of Marijuana at 3 (April 11, 2024). For 
+purposes of this notice of intent, there is no evidence that health 
+care providers have widespread experience with medical use of O-DSMT 
+or that the use of O-DSMT is recognized by entities that regulate 
+the practice of medicine, so the two-part test also is not 
+satisfied. By letter dated June 11, 2025, DEA has been advised by 
+HHS that there are currently no approved new drug applications or 
+investigational new drug applications for O-DSMT. Additionally, HHS 
+communicated no objections to the temporary placement of O-DSMT into 
+Schedule I of the CSA.
+---------------------------------------------------------------------------
 
-    If an agency determines that a rulemaking action will not result in 
-a significant economic impact on a substantial number of small 
-entities, the head of the agency may certify under section 605(b) of 
-the RFA. Therefore, as provided in section 605(b) and based on the RFA, 
-the head of the FAA certifies that this AD will not result in a 
-significant economic impact on a substantial number of small entities. 
-Therefore, the FAA did not change this AD as a result of this comment.
+Factor 4. Its History and Current Pattern of Abuse
 
-Request To Comply With the Paperwork Reduction Act (PRA)
+    As described previously, O-DSMT is a major metabolite of tramadol. 
+O-Demethylation of the parent drug tramadol results in the formation of 
+O-DSMT, which is primarily catalyzed by the liver enzyme CYP2D6. 
+Individuals of various backgrounds have been identified as either 
+ultrarapid metabolizers, normal metabolizers, intermediate 
+metabolizers, or poor metabolizers of tramadol based upon genotyping of 
+the cytochrome P450 enzyme CYP2D6. The current Clinical 
+Pharmacogenetics Implementation Consortium guidelines recommend 
+avoiding tramadol in CYP2D6 ultrarapid metabolizers (due to possible 
+toxicity from increased formation of O-DSMT) and CYP2D6 poor 
+metabolizers (due to possible lack of efficacy from decreased formation 
+of O-DSMT). Ultrarapid metabolizers have approximately 40 percent 
+greater serum concentration of O-DSMT and subsequently experience a 
+stronger opioid response compared with poor metabolizers.
+    O-DSMT has been encountered in various forms, including as a solid 
+powder, pressed into pills or tablets, in a capsule, as a semi-solid 
+paste/slurry, and in liquid formulations. Direct ingestion of O-DSMT 
+avoids the need for metabolic activation via liver enzymes, resulting 
+in a compound that is pharmacologically active at the mu-opioid 
+receptor. Injection or insufflation by drug abusers of tramadol would 
+be devoid of most immediate opioid
 
-    The Citizens Rulemaking Alliance requested that the FAA clarify 
-whether the AD contains any reporting requirements and revise the AD to 
-comply with the PRA if reporting is required or suspend any reporting 
-provisions until PRA requirements are satisfied.
-    The FAA notes that paragraph (i) of this AD specifies that this AD 
-does not require reporting. If an AD were to require reporting, the 
-preamble of the AD would include a paragraph titled ``Paperwork 
-Reduction Act'' that would provide the applicable OMB control number, 
-required PRA statements, and the estimated time to collect the required 
-information (burden). Any costs associated with the reporting 
-requirement would be included in the Costs of Compliance section in the 
-preamble of the AD. Therefore, the FAA did not change this AD as a 
-result of this comment.
+[[Page 37824]]
 
-Request To Make Incorporation by Reference (IBR) Materials Reasonably 
-Available
+activity due to the parent compound having little affinity for the 
+opioid receptors. As further described in Factor 5, drug seizures have 
+demonstrated O-DSMT both alone and in combination with multiple other 
+drugs. In a randomized, double-blind, placebo and active comparator-
+controlled trial, the pharmacokinetics and analgesic properties of O-
+DSMT, as compared to tramadol, in 103 healthy participants were 
+investigated. The study also investigated CYP2D6 inhibition on the 
+ability of both tramadol and O-DSMT to influence analgesia. The results 
+showed that 20 mg of O-DSMT was equivalent in its analgesic potency as 
+compared to 50 mg of tramadol following chronic dosing at steady state, 
+whereby both were significantly greater than placebo (see Three-Factor 
+analysis).
 
-    The Citizens Rulemaking Alliance stated that the FAA's current 
-practices for IBR frequently fail to meet the legal and regulatory 
-standards for reasonable availability. The commenter called on the FAA 
-to guarantee that all IBR materials are easily and freely accessible to 
-the public during the comment period and to reopen the comment period 
-for at least 30 days after access is provided. Alternatively, the 
-commenter requested that the FAA provide a detailed appendix 
-summarizing all substantive requirements provided in the IBR material.
-    The FAA clarifies that this AD only incorporates by reference EASA 
-AD 2024-0063, not the manufacturer service information referenced in 
-that EASA AD. The FAA posted EASA AD 2024-0063 to the AD docket when 
-the NPRM was published in the Federal Register making it available 
-during the comment period. The material referenced in EASA AD 2024-0063 
-may only be posted before the final rule's publication if it is already 
-publicly available or if there is written consent from the owner of 
-that material. Additionally, the FAA provided notice in the NPRM that 
-the material referenced in EASA AD 2024-0063 will be available in the 
-AD docket after this AD is published. Therefore, the FAA did not change 
-this AD as a result of this comment.
+Factor 5. The Scope, Duration, and Significance of Abuse
 
-Request To Provide Additional Cost Information
+    With the first encounters appearing in 2011, law enforcement 
+continues to report seizures of O-DSMT. The threat of serious injury to 
+the individual and the imminent threat to public safety following the 
+ingestion of O-DSMT persists. DEA's National Forensic Laboratory 
+Information System (NFLIS) \13\ has reported 148 encounters of O-DSMT 
+across 30 states to date.\14\ Because not every forensic laboratory has 
+the capacity to test for O-DSMT, it is likely that encounters of O-DSMT 
+are underreported.
+---------------------------------------------------------------------------
 
-    The Citizens Rulemaking Alliance requested that the FAA add to the 
-AD docket a fuller analysis of the estimated costs of the proposed AD 
-and reopen the comment period for public input on the additional cost 
-information, especially from small operators.
-    The FAA recognizes that, in doing the actions required by an AD, 
-operators might incur indirect or incidental costs in addition to the 
-direct costs. The cost analysis in an AD typically describes only the 
-direct costs of the specific actions required by an AD, which does not 
-include indirect or incidental costs such as downtime, loss of revenue, 
-planning, or time necessitated by other administrative actions since 
-those costs might vary significantly among operators. The number of 
-work hours necessary to do the required actions of an AD is provided by 
-the manufacturer. This number represents the time necessary to perform 
-only the actions actually required by an AD. The cost of parts or 
-special tools, if necessary, to complete the actions required by an AD 
-is also provided by the manufacturer. Further, when the FAA is informed 
-that the manufacturer may cover some or all of the estimated costs of 
-an AD under warranty, the FAA indicates that in the AD.
-    In the Costs of Compliance section of the proposed AD, the FAA 
-disclosed the estimated number of work hours, the number of helicopters 
-affected on the U.S. registry (which has been updated in this final 
-rule), estimated parts cost, and the aggregate costs for the U.S. 
-fleet. Since the FAA has assessed and disclosed the total known costs 
-of the AD requirements in the Costs of Compliance section of the 
-proposed AD, and the commenter did not provide additional cost data for 
-the FAA to consider in its cost analysis, it is not necessary to reopen 
-the comment period or provide additional information in the AD docket.
+    \13\ NFLIS-Drug is a national forensic laboratory reporting 
+system that systematically collects results from drug chemistry 
+analyses conducted by state, local, and federal forensic 
+laboratories in the United States. NFLIS-Drug represents an 
+important resource in monitoring illicit drug trafficking, including 
+the diversion of legally manufactured pharmaceuticals into illegal 
+markets. NFLIS-Drug is a comprehensive information system that 
+includes data from forensic laboratories that handle more than 96 
+percent of an estimated 1.0 million distinct annual State and local 
+drug analysis cases. NFLIS-Drug includes drug chemistry results from 
+completed analyses only. While NFLIS data is not direct evidence of 
+abuse, it can lead to an inference that a drug has been diverted and 
+abused. See Schedules of Controlled Substances: Placement of 
+Carisoprodol Into Schedule IV, 76 FR 77330, 77332 (Dec. 12, 2011).
+    \14\ NFLIS-Drug query date: May 22, 2026. Reports to NFLIS-Drug 
+are still pending for 2025 and 2026.
+---------------------------------------------------------------------------
+
+    Among these various reports, O-DSMT has been found as the only drug 
+in a majority of these encounters (n=118 of 148, 79.7 percent), or co-
+reported with various other substances to include mitragynine (kratom 
+alkaloid), heroin, isopropyl-U-47700 (synthetic opioid), 
+methamphetamine, fentanyl, acetyl fentanyl, 5F-AEB (synthetic 
+cannabinoid), methoxyacetyl fentanyl, N-benzylfuranylfentanyl, 3-OH-PCE 
+(synthetic hallucinogen), tramadol, bromazolam, para-fluorofentanyl, 
+dipentylone (synthetic cathinone), and/or cocaine, among others. O-DSMT 
+has also been identified in conjunction with other substances, as 
+evidenced by toxicology reports (see Factor 6). O-DSMT was found to be 
+mixed with the kratom plant as determined by packaging material and the 
+confirmation of both O-DSMT and mitragynine in toxicology results of 
+individuals.
+
+Factor 6. What, if Any, Risk There Is to the Public Health
+
+    Public health risks associated with O-DSMT abuse relates to its 
+pharmacological similarities with known opioids such as morphine, 
+oxycodone, and fentanyl. The ingestion of O-DSMT has resulted in 
+serious adverse effects including lung congestion, brain edema, and 
+death. The following four examples discussed briefly below can be found 
+in their entirety in DEA's Three-Factor analysis at  www.regulations.gov  
+under Docket Number DEA-1641.
+    In 2009, reports in Sweden described nine deaths due to 
+intoxication with O-DSMT combined with mitragynine and confirmed via 
+forensic autopsies. Occurring between October 2009 and October 2010, 
+ten forensic medical investigations found concomitant use of O-DSMT and 
+mitragynine in the blood of these deceased individuals. It was noted 
+that in nine of these cases, the death was explained by intoxication 
+with O-DSMT. Other substances were identified, but it was stated that 
+these substances were not at toxic levels. Ages of the individuals 
+ranged between 22-35 years old, concentrations of O-DSMT ranged between 
+0.4 and 4.3 [micro]g/g in blood, and all the individuals died before 
+arriving at a hospital. Deaths for all individuals were noted to be 
+accidental. Additional information in the reports detailed significant 
+lung congestion and edema following use of ``Krypton'' (a mix of kratom 
+and O-DSMT).
+    Around the same time as the deaths were reported in Sweden, a group 
+in Germany were asked to analyze urine samples for ``Krypton'' in a 
+former opiate-addicted woman. The woman's clinical picture included 
+miosis, itchiness, agitation, and moderate euphoria following three 
+months of use. Both immunoassays and liquid chromatography-tandem mass 
+spectrometry (LC-MS/MS) were conducted on the samples. Results were 
+negative for tramadol or its metabolites using the immunoassays. LC-MS/
+MS detected the kratom alkaloids mitragynine, speciociliatine, 
+speciogynine, mitraciliatine, and paynantheine and approximately 9 mg/L 
+O-DSMT, but no tramadol nor N-desmethyltramadol. Once confronted with 
+these results, the woman admitted to having drunk ``3-4 infusions of 
+Krypton'' during the past week. The researchers ruled out the use of 
+tramadol because both tramadol and N-desmethyltramadol were not 
+detectable. It was concluded that the most likely source of the O-DSMT 
+was the ``Krypton'' product, containing both kratom alkaloids and O-
+DSMT.
+    In 2021 in Portugal, a 25-year-old male was found dead in his room 
+at a boarding house where he lived. He was a chemistry student who, 
+according to relatives, was ``trying to find a cure to his illness 
+using chemical products bought by himself.'' Drug paraphernalia found 
+at the scene included a spoon, a syringe, and six different plastic 
+bags found with powders inside. It was noted that all six bags were 
+labeled with the supposed name of the compounds. Further testing 
+confirmed that the labels were accurate for each substance, including 
+O-DSMT. His past medical history included schizophrenia and bipolar 
+disorder. In addition, needle puncture marks in the victim's arms, 
+indicative of drug abuse, were noted during autopsy.
+    In 2021 in Kansas City, Kansas, a 19-year-old male with a history 
+of anxiety and depression was last observed by a roommate lying on his 
+bed and reported to be ``snoring and sweaty.'' The autopsy did not 
+reveal any significant anatomical abnormalities. Drug evidence at the 
+scene was noted to be labeled as clonazolam, flubromazolam, O-
+desmethyltramadol (O-DSMT), and 2-methyl-AP-237. Toxicological analysis 
+of whole blood from autopsy identified the following: 2-methyl AP-237 
+(379 ng/mL), delta-9 THC (56.8 ng/mL), 11-nor-9-carboxy-delta-9-THC 
+(141 ng/mL), 8-aminoclonazolam (4.6 ng/mL), O-DSMT (10.9 ng/mL), and 
+mitragynine (2.7 ng/mL). 7-Amino clonazepam, diphenhydramine, 
+fluoxetine, norfluoxetine, trazodone, and propranolol were also 
+identified but not quantified.
+    As noted in Factor 5, counterfeit pills pressed to resemble 
+tramadol may contain O-DSMT either alone or in combination with other 
+substances. Clandestine manufacturers will commonly use legitimate 
+markings when producing counterfeit pills. Should a user ingest a pill 
+marked as tramadol that was surreptitiously produced with O-DSMT, the 
+individual might experience serious adverse effects due to the stronger 
+analgesic potential of O-DSMT as compared to tramadol.
+    As users obtain these drugs through unknown sources, the identity 
+and
+
+[[Page 37825]]
+
+purity of these substances is uncertain and inconsistent, thus posing 
+significant adverse health risks to users. O-DSMT is being encountered 
+on the illicit drug market in the United States, has no accepted 
+medical use in the United States, and continues to be available and 
+abused for its psychoactive properties. In summary, O-DSMT has been 
+reported to cause serious adverse effects, including death, following 
+its use.
+
+Finding of Necessity of Schedule I Placement To Avoid Imminent Hazard 
+to Public Safety
+
+    In accordance with 21 U.S.C. 811(h)(3), based on the available data 
+and information summarized above, the uncontrolled manufacture, 
+distribution, reverse distribution, importation, exportation, conduct 
+of research and chemical analysis, possession, and abuse of O-DSMT 
+poses an imminent hazard to public safety. O-DSMT has not been approved 
+by the FDA and has not been marketed in the United States, and DEA is 
+not aware of any currently accepted medical uses for O-DSMT in the 
+United States. A substance meeting the statutory requirements for 
+temporary scheduling, found in 21 U.S.C. 811(h)(1), may only be placed 
+in schedule I. Substances in schedule I must have a high potential for 
+abuse, no currently accepted medical use in treatment in the United 
+States, and a lack of accepted safety for use under medical 
+supervision. Available data and information for O-DSMT indicate that 
+this substance meets the three statutory criteria.
+    As required by 21 U.S.C. 811(h)(4), in a letter dated May 27, 2025, 
+the previous Acting Administrator notified the previous Acting 
+Assistant Secretary of DEA's intention to temporarily place O-DSMT in 
+schedule I. In a letter dated June 11, 2025, the previous Acting 
+Assistant Secretary did not object to the temporary placement of O-DSMT 
+in schedule I.
 
 Conclusion
 
-    These products have been approved by the civil aviation authority 
-of another country and are approved for operation in the United States. 
-Pursuant to the FAA's bilateral agreement with this State of Design 
-Authority, that authority has notified the FAA of the unsafe condition 
-described in the MCAI referenced above. The FAA reviewed the relevant 
-data, considered any comments received, and determined that air safety 
-requires adopting this AD as proposed. Accordingly, the FAA is issuing 
-this AD to address the unsafe
+    This notice of intent provides the 30-day notice pursuant to 21 
+U.S.C. 811(h)(1) of DEA's intent to issue a temporary scheduling order. 
+In accordance with 21 U.S.C. 811(h)(1) and (3), the Administrator 
+considered available data and information, herein sets forth the 
+grounds for his determination that it is necessary to temporarily 
+schedule O-DSMT in schedule I of the CSA, and finds that placement of 
+this substance in schedule I is necessary to avoid an imminent hazard 
+to the public safety.
+    The temporary placement of O-DSMT in schedule I of the CSA will 
+take effect upon publication of a temporary scheduling order in the 
+Federal Register, which will not be issued before July 24, 2026. 
+Because the Administrator hereby finds this temporary scheduling order 
+necessary to avoid an imminent hazard to the public safety, it will 
+take effect on the date the order is published in the Federal Register 
+and it will remain in effect for two years, with a possible extension 
+of an additional year, pending completion of the regular (permanent) 
+scheduling process.\15\ The Administrator intends to issue a temporary 
+scheduling order as soon as possible after the expiration of 30 days 
+from the date of publication of this document. Upon the temporary 
+order's publication, O-DSMT will then be subject to the CSA's schedule 
+I regulatory controls and to administrative, civil, and criminal 
+sanctions applicable to the manufacture, distribution, reverse 
+distribution, importation, exportation, research, conduct of 
+instructional activities and chemical analysis, and possession.
+---------------------------------------------------------------------------
 
-[[Page 38996]]
+    \15\ 21 U.S.C. 811(h)(1) and (2).
+---------------------------------------------------------------------------
 
-condition on these products. Except for minor editorial changes, a 
-correction to the revision level of Vision Systems Vendor Service 
-Bulletin No. 02-050-015 from Revision 10 to Revision 0 and any other 
-changes described previously, this AD is adopted as proposed in the 
-NPRM. None of the changes will increase the economic burden on any 
-operator.
+    The CSA sets forth specific criteria for scheduling drugs or other 
+substances. Regular scheduling actions in accordance with 21 U.S.C. 
+811(a) are subject to formal rulemaking procedures ``on the record 
+after opportunity for a hearing'' conducted pursuant to the provisions 
+of 5 U.S.C. 556 and 557.\16\ The regular scheduling process of formal 
+rulemaking affords interested parties appropriate process and the 
+government any additional relevant information needed to make a 
+determination. Final decisions that conclude the regular scheduling 
+process of formal rulemaking are subject to judicial review.\17\ 
+Temporary scheduling orders are not subject to judicial review.\18\
+---------------------------------------------------------------------------
 
-Material Incorporated by Reference Under 1 CFR Part 51
+    \16\ 21 U.S.C. 811.
+    \17\ 21 U.S.C. 877.
+    \18\ 21 U.S.C. 811(h)(6).
+---------------------------------------------------------------------------
 
-    The FAA reviewed EASA AD 2024-0063, which specifies procedures for 
-replacing each affected passenger window with a serviceable window or 
-modifying an affected window into a serviceable window, which consists 
-of removing and installing a certain part-numbered cable kit. EASA AD 
-2024-0063 also prohibits installing an affected window or an affected 
-door on any helicopter. This material is reasonably available because 
-the interested parties have access to it through their normal course of 
-business or by the means identified in the ADDRESSES section.
+Regulatory Analyses
 
-Costs of Compliance
+    The CSA provides for expedited temporary scheduling actions where 
+necessary to avoid an imminent hazard to public safety. Under 21 U.S.C. 
+811(h)(1), the Administrator (as delegated by the Attorney General) 
+may, by order, temporarily schedule substances in schedule I. Such 
+orders may not be issued before the expiration of 30 days from: (1) the 
+publication of a notice in the Federal Register of the intent to issue 
+such order and the grounds upon which such order is to be issued, and 
+(2) the date that notice of the proposed temporary scheduling order is 
+transmitted to the Assistant Secretary, as delegated by the Secretary 
+of HHS.\19\
+---------------------------------------------------------------------------
 
-    The FAA estimates that this AD affects 10 helicopters of U.S. 
-registry. The FAA estimates the following costs to comply with this AD.
+    \19\ 21 U.S.C. 811(h)(1).
+---------------------------------------------------------------------------
 
-                                                 Estimated Costs
-----------------------------------------------------------------------------------------------------------------
-                                                                                       Cost per    Cost on U.S.
-                  Action                          Labor cost \1\         Parts cost    product       operators
-----------------------------------------------------------------------------------------------------------------
-Modify windows (4 per helicopter)........  13 work-hours x $85 per           $3,132       $4,237         $42,370
-                                            hour = $1,105.
-----------------------------------------------------------------------------------------------------------------
-\1\ The FAA estimated operators will incur $85 in costs per labor hour, which is the weighted average fiscal
-  year (FY) 2026 fully loaded wage of an aircraft mechanic ($69.85) working 60% of the labor hours and a general
-  and operations manager ($108.15) working 40% of the labor hours. The FAA estimated these wages by taking the
-  average of the FY 2024 Bureau of Labor Statistics (BLS) air transportation industry average wage for aircraft
-  mechanics and general and operations managers (See: Occupational Employment and Wage Statistics Query System,
-  BLS (May 2024),  data.bls.gov/oes/ ); multiplying each wage by a fringe benefit factor of 1.42 (See: Employer
-  Cost for Employee Compensation--December 2024, BLS (2024),  bls.gov/news.release/archives/ecec_03142025.pdf );
-  and adjusting these 2024 wages to 2026 dollars using an implicit Gross Domestic Product (GDP) Price Deflator
-  of 2.8% (See: Gross Domestic Product: Implicit Price Deflator, FRED (2026)  fred.stlouisfed.org/series/GDPDEF ).
+    Inasmuch as section 811(h) directs that temporary scheduling 
+actions be issued by order and sets forth the procedures by which such 
+orders are to be issued, including the requirement to publish in the 
+Federal Register a notice of intent, the notice-and-comment 
+requirements of the Administrative Procedure Act (APA), 5 U.S.C. 553, 
+do not apply to this notice of intent. The APA expressly differentiates 
+between an order and a rule, as it defines an ``order'' to mean a 
+``final disposition, whether affirmative, negative, injunctive, or 
+declaratory in form, of an agency in a matter other than rule making.'' 
+\20\ This contrasts with permanent scheduling actions, which are 
+subject to formal rulemaking procedures done ``on the record after 
+opportunity for a hearing,'' and final decisions that conclude the 
+scheduling process and are subject to judicial review.\21\ The specific 
+language chosen by Congress indicates its intent that DEA issue orders 
+instead of proceeding by rulemaking when temporarily scheduling 
+substances. Given that Congress specifically requires the Administrator 
+(as delegated by the Attorney General) to follow rulemaking procedures 
+for other kinds of scheduling actions,\22\ it is noteworthy that, in 
+section 811(h)(1), Congress authorized the issuance of temporary 
+scheduling actions by order rather than by rule.
+---------------------------------------------------------------------------
 
-    The FAA has included all known costs in its cost estimate. 
-According to the manufacturer, however, some of the costs of this AD 
-may be covered under warranty, thereby reducing the cost impact on 
-affected operators.
+    \20\ 5 U.S.C. 551(6) (emphasis added).
+    \21\ 21 U.S.C. 811(a) and 877.
+    \22\ See 21 U.S.C. 811(a).
+---------------------------------------------------------------------------
 
-Authority for This Rulemaking
+    Even assuming that this notice of intent is subject to the notice-
+and-comment requirements of the APA, the Administrator finds that there 
+is good cause to forgo the notice-and-comment requirements pursuant to 
+5 U.S.C. 553(b)(B), as any further delays in the process for issuing 
+temporary scheduling orders would be impracticable and contrary to the 
+public interest given the manifest urgency to avoid an imminent hazard 
+to public safety.
+    Although DEA believes this notice of intent to issue a temporary 
+scheduling order is not subject to the notice-and-comment requirements 
+of the APA, DEA notes that in accordance with 21 U.S.C. 811(h)(4), the 
+Administrator took into consideration comments submitted by the 
+previous Acting Assistant Secretary in response to the notice that DEA 
+transmitted to the previous Acting Assistant Secretary pursuant to such 
+subsection.
 
-    Title 49 of the United States Code specifies the FAA's authority to 
-issue rules on aviation safety. Subtitle I, section 106, describes the 
-authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
-describes in more detail the scope of the Agency's authority.
-    The FAA is issuing this rulemaking under the authority described in 
-Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
-Under that section, Congress charges the FAA with promoting safe flight 
-of civil aircraft in air commerce by prescribing regulations for 
-practices, methods, and procedures the Administrator finds necessary 
-for safety in air commerce. This regulation is within the scope of that 
-authority because it addresses an unsafe condition that is likely to 
-exist or develop on products identified in this rulemaking action.
+[[Page 37826]]
 
-Regulatory Findings
+    Further, DEA believes that this temporary scheduling action is not 
+a ``rule'' as defined by 5 U.S.C. 601(2), and, accordingly, is not 
+subject to the requirements of the Regulatory Flexibility Act (RFA). 
+The requirements for the preparation of an initial regulatory 
+flexibility analysis in 5 U.S.C. 603(a) are not applicable where, as 
+here, DEA is not required by the APA or any other law to publish a 
+general notice of proposed rulemaking. As discussed above, DEA is 
+issuing this notice of intent pursuant to DEA's authority to issue a 
+temporary scheduling order.\23\ Therefore, in this instance, since DEA 
+believes this temporary scheduling action is not a ``rule,'' it is not 
+subject to the requirements of the RFA when issuing this temporary 
+action.
+---------------------------------------------------------------------------
 
-    This AD will not have federalism implications under Executive Order 
-13132. This AD will not have a substantial direct effect on the States, 
-on the relationship between the national government and the States, or 
+    \23\ 21 U.S.C. 811(h)(1).
+---------------------------------------------------------------------------
+
+    In accordance with the principles of Executive Orders (E.O.) 12866 
+and 13563, this action is not a significant regulatory action. E.O. 
+12866 directs agencies to assess all costs and benefits of available 
+regulatory alternatives and, if regulation is necessary, to select 
+regulatory approaches that maximize net benefits (including potential 
+economic, environmental, public health, and safety effects; 
+distributive impacts; and equity). E.O. 13563 is supplemental to and 
+reaffirms the principles, structures, and definitions governing 
+regulatory review as established in E.O. 12866. Because this is not a 
+rulemaking action, this is not a significant regulatory action as 
+defined in Section 3(f) of E.O. 12866. In addition, DEA scheduling 
+actions are not subject to either E.O. 14192, Unleashing Prosperity 
+Through Deregulation, or E.O. 14294, Fighting Overcriminalization in 
+Federal Regulations.
+    This action will not have substantial direct effects on the states, 
+on the relationship between the national government and the states, or 
 on the distribution of power and responsibilities among the various 
-levels of government.
-    For the reasons discussed above, I certify that this AD:
-    (1) Is not a ``significant regulatory action'' under Executive 
-Order 12866,
-    (2) Will not affect intrastate aviation in Alaska, and
-    (3) Will not have a significant economic impact, positive or 
-negative, on a substantial number of small entities under the criteria 
-of the Regulatory Flexibility Act.
+levels of government. Therefore, in accordance with E.O. 13132, it is 
+determined that this action does not have sufficient federalism 
+implications to warrant the preparation of a Federalism Assessment.
 
-List of Subjects in 14 CFR Part 39
+List of Subjects in 21 CFR Part 1308
 
-    Air transportation, Aircraft, Aviation safety, Incorporation by 
-reference, Safety.
+    Administrative practice and procedure, Drug traffic control, 
+Reporting and recordkeeping requirements.
 
-The Amendment
+    For the reasons set out above, DEA proposes to amend 21 CFR part 
+1308 as follows:
 
-    Accordingly, under the authority delegated to me by the 
-Administrator, the FAA amends 14 CFR part 39 as follows:
-
-PART 39--AIRWORTHINESS DIRECTIVES
+PART 1308--SCHEDULES OF CONTROLLED SUBSTANCES
 
 0
-1. The authority citation for part 39 continues to read as follows:
+1. The authority citation for part 1308 continues to read as follows:
 
-    Authority:  49 U.S.C. 106(g), 40113, 44701.
-
-Sec.  39.13   [Amended]
+    Authority: 21 U.S.C. 811, 812, 871(b), 956(b), unless otherwise 
+noted.
 
 0
-2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
-directive:
+2. In Sec.  1308.11, add paragraph (h)(88) to read as follows:
 
-2026-12-12 Airbus Helicopters: Amendment 39-23382; Docket No. FAA-
-2025-5026; Project Identifier MCAI-2024-00168-R.
+Sec.  1308.11  Schedule I
 
-(a) Effective Date
+* * * * *
+    (h) * * *
 
-    This airworthiness directive (AD) is effective August 3, 2026.
+------------------------------------------------------------------------
+ 
+------------------------------------------------------------------------
+ 
+                              * * * * * * *
+(88) O-Desmethyltramadol (other names: O-DSMT; desmetramadol; 3-    9677
+ [(1R,2R)-2-[(dimethylamino)methyl]-1-hydroxycyclohexyl]phenol)
+ 
+                              * * * * * * *
+------------------------------------------------------------------------
 
-(b) Affected ADs
+Signing Authority
 
-    None.
+    This document of the Drug Enforcement Administration was signed on 
+June 16, 2026, by DEA Administrator Terrance C. Cole. That document 
+with the original signature and date is maintained by DEA. For 
+administrative purposes only, and in compliance with requirements of 
+the Office of the Federal Register, the undersigned DEA Federal 
+Register Liaison Officer has been authorized to sign and submit the 
+document in electronic format for publication, as an official document 
+of DEA. This administrative process in no way alters the legal effect 
+of this document upon publication in the Federal Register.
 
-(c) Applicability
-
-    This AD applies to all Airbus Helicopters Model H160-B 
-helicopters, certificated in any category.
-
-(d) Subject
-
-    Joint Aircraft System Component (JASC) Code 5630, Door windows.
-
-(e) Unsafe Condition
-
-    This AD was prompted by a discovery during a maintenance 
-operation that several self-locking nuts of the window jettisoning 
-system could be loosened by hand due to a non-conformity in certain 
-cable kits. The FAA is issuing this AD to prevent failure of the 
-jettisoning function of the window. The unsafe condition, if not 
-addressed, could result in the inability to evacuate helicopter 
-occupants during an emergency situation.
-
-(f) Compliance
-
-    Comply with this AD within the compliance times specified, 
-unless already done.
-
-(g) Requirements
-
-    Except as specified in paragraphs (h) and (i) of this AD: Comply 
-with all required actions and compliance times specified in, and in 
-accordance with, European Union Aviation Safety Agency AD 2024-0063, 
-dated March 7, 2024 (EASA AD 2024-0063).
-
-(h) Exceptions to EASA AD 2024-0063
-
-    (1) Where EASA AD 2024-0063 refers to its effective date, this 
-AD requires using the effective date of this AD.
-    (2) Where EASA AD 2024-0063 requires compliance in terms of 
-flight hours, this AD requires using hours time-in-service.
-    (3) Where EASA AD 2024-0063 defines ``affected passenger 
-window'', and refers to ``a Part Number as listed in the ASB and a
-
-[[Page 38997]]
-
-s/n as listed in the vendor SB'', this AD requires replacing that 
-text with ``a part number identified in the Component Affected 
-section of Airbus Helicopters Alert Service Bulletin ASB H160-52-20-
-0001, Issue 001, dated January 25, 2024; and a serial number 
-identified in the Appendix: Applicable serial number, of Vision 
-Systems Vendor Service Bulletin No. 02-050-015, Revision 0, dated 
-January 24, 2024, as applicable''.
-    (4) Where EASA AD 2024-0063 specifies ``replace each affected 
-passenger window with a serviceable window'', this AD requires 
-replacing that text with ``modify each affected passenger window 
-into a serviceable window''.
-    (5) Where the material referenced in EASA AD 2024-0063 specifies 
-``check'', this AD requires replacing that text with ``inspect''.
-    (6) Where the material referenced in EASA AD 2024-0063 specifies 
-``throw away'', this AD requires replacing that text with ``remove 
-from service''.
-    (7) Where the material referenced in EASA AD 2024-0063 specifies 
-``respect the screwing order'', this AD requires replacing that text 
-with ``follow the screwing order''.
-    (8) Where the material referenced in EASA AD 2024-0063 specifies 
-``screw the nuts'', this AD requires replacing that text with 
-``secure the nuts into place''.
-    (9) Where the material referenced in EASA AD 2024-0063 specifies 
-``fine tuning the pull-up cables in locked position (finger)'', this 
-AD requires replacing that text with ``put the pull-up cables into 
-the locked position and make small adjustments to the nuts to ensure 
-cable tension and prevent twisting, coiling, or crossing of 
-cables''.
-    (10) This AD does not adopt the ``Remarks'' section of EASA AD 
-2024-0063.
-
-(i) No Reporting Requirement
-
-    Although the material referenced in EASA AD 2024-0063 specifies 
-to submit certain information to the manufacturer, this AD does not 
-require that action.
-
-(j) Special Flight Permits
-
-    Special flight permits may be issued in accordance with 14 CFR 
-21.197 and 21.199, provided there are no flights over water.
-
-(k) Alternative Methods of Compliance (AMOCs)
-
-    (1) The Manager, International Validation Branch, FAA, has the 
-authority to approve AMOCs for this AD, if requested using the 
-procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
-send your request to your principal inspector or local Flight 
-Standards District Office, as appropriate. If sending information 
-directly to the manager of the International Validation Branch, send 
-it to the attention of the person identified in paragraph (l) of 
-this AD and email to:   [email&#160;protected]  .
-    (2) Before using any approved AMOC, notify your appropriate 
-principal inspector, or lacking a principal inspector, the manager 
-of the local flight standards district office/certificate holding 
-district office.
-
-(l) Additional Information
-
-    For more information about this AD, contact Eric Rivera, 
-Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
-Westbury, NY 11590; phone: (773) 412-9048; email: 
-  [email&#160;protected]  .
-
-(m) Material Incorporated by Reference
-
-    (1) The Director of the Federal Register approved the 
-incorporation by reference of the material listed in this paragraph 
-under 5 U.S.C. 552(a) and 1 CFR part 51.
-    (2) You must use this material as applicable to do the actions 
-required by this AD, unless the AD specifies otherwise.
-    (i) European Union Aviation Safety Agency (EASA) AD 2024-0063, 
-dated March 7, 2024.
-    (ii) [Reserved]
-    (3) For EASA material identified in this AD, contact EASA, 
-Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 8999 
-000; email:   [email&#160;protected]  ; website: easa.europa.eu. You may 
-find the EASA material on the EASA website at ad.easa.europa.eu.
-    (4) You may view this material at the FAA, Airworthiness 
-Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
-Fort Worth, TX 76177. For information on the availability of this 
-material at the FAA, call (817) 222-5110.
-    (5) You may view this material at the National Archives and 
-Records Administration (NARA). For information on the availability 
-of this material at NARA, visit  www.archives.gov/federal-register/cfr/ibr-locations  or email   [email&#160;protected]  .
-
-    Issued on June 12, 2026.
-Steven W. Thompson,
-Acting Deputy Director, Compliance & Airworthiness Division,Aircraft 
-Certification Service.
-[FR Doc. 2026-13064 Filed 6-26-26; 8:45 am]
-BILLING CODE 4910-13-P
+Heather Achbach,
+Federal Register Liaison Officer, Drug Enforcement Administration.
+[FR Doc. 2026-12654 Filed 6-23-26; 8:45 am]
+BILLING CODE 4410-09-P

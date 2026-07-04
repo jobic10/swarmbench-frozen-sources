@@ -1,1899 +1,665 @@
-[Federal Register Volume 91, Number 126 (Thursday, July 2, 2026)]
+[Federal Register Volume 91, Number 123 (Monday, June 29, 2026)]
 [Rules and Regulations]
-[Pages 40409-40426]
+[Pages 38997-39002]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13398]
+[FR Doc No: 2026-13060]
 
 -----------------------------------------------------------------------
 
-ENVIRONMENTAL PROTECTION AGENCY
+DEPARTMENT OF TRANSPORTATION
 
-40 CFR Part 52
+Federal Aviation Administration
 
-[EPA-R06-OAR-2024-0031; FRL-12970-02-R6]
+14 CFR Part 39
 
-Air Plan Approval; Oklahoma; Updates to the State Implementation 
-Plan for New Source Review Permitting and General SIP Provisions
+[Docket No. FAA-2025-3999; Project Identifier MCAI-2025-00176-R; 
+Amendment 39-23380; AD 2026-12-10]
+RIN 2120-AA64
 
-AGENCY: Environmental Protection Agency (EPA).
+Airworthiness Directives; Airbus Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
 
 ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: Pursuant to the Federal Clean Air Act (CAA or the Act), the 
-Environmental Protection Agency (EPA) is approving identified portions 
-of revisions to the Oklahoma State Implementation Plan (SIP) submitted 
-by the State of Oklahoma designee between 2002 and 2025 to update the 
-Oklahoma New Source Review (NSR) permit program and make general 
-updates to the Oklahoma SIP.
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus Helicopters Model AS350B, AS350BA, AS350B1, AS350B2, AS350B3, 
+and AS350D helicopters. This AD was prompted by a report of non-
+conformity of a certain cargo hook. This AD requires inspecting the gap 
+between the filler and the side plates of the affected cargo hook and, 
+depending on the results, replacing the cargo hook. This AD also 
+prohibits installing an affected cargo hook on any helicopter. The FAA 
+is issuing this AD to address the unsafe condition on these products.
 
-DATES: This rule is effective on August 3, 2026.
+DATES: This AD is effective August 3, 2026.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of August 3, 
+2026.
 
-ADDRESSES: The EPA has established a docket for this action under 
-Docket ID No. EPA-R06-OAR-2024-0031. All documents in the docket are 
-listed on the  https://www.regulations.gov  website. Although listed in 
-the index, some information is not publicly available, e.g., 
-Confidential Business Information or other information whose disclosure 
-is restricted by statute. Certain other material, such as copyrighted 
-material, is not placed on the internet. Publicly available docket 
-materials are available electronically through  https://www.regulations.gov .
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at  regulations.gov  under 
+Docket No. FAA-2025-3999; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-91, West Building Fifth Floor, Room W58-213, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+      For European Union Aviation Safety Agency (EASA) material 
+identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
+Cologne, Germany; phone: +49 221 8999 000; email:   [email&#160;protected]  ; 
+website: easa.europa.eu. You may find this material on the EASA website 
+at ad.easa.europa.eu.
+      You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110. It is also available at 
+ regulations.gov  under Docket No. FAA-2025-3999.
 
-FOR FURTHER INFORMATION CONTACT: Adina Wiley; EPA Region 6 Office; Air 
-Permits Section (ARPE); telephone number: (214) 665-2115; email 
-address:   [email&#160;protected]  .
+FOR FURTHER INFORMATION CONTACT: Yves Petiote, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: (202) 975-4867; email:   [email&#160;protected]  .
 
-SUPPLEMENTARY INFORMATION: Throughout this document ``we,'' ``us,'' and 
-``our'' means the EPA.
+SUPPLEMENTARY INFORMATION:
 
-I. Background
+Background
 
-    The background for this action is discussed in detail in our 
-November 17, 2025, proposal (90 FR 51247). In that document we proposed 
-approving identified portions of revisions to the Oklahoma SIP 
-submitted by the State of Oklahoma designee between 2002 and 2025 to 
-update the Oklahoma NSR permit program and make general updates to the 
-Oklahoma SIP. We received comments on our proposal. Our responses to 
-the comments follow.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to Airbus Helicopters 
+Model AS-350B, AS 350BA, AS 350B1, AS 350B2, AS 350B3, and AS-350D 
+helicopters. The NPRM was published in the Federal Register on November 
+18, 2025 (90 FR 51620). The NPRM was prompted by EASA AD 2025-0036, 
+dated February 12, 2025 (EASA AD 2025-0036) (also referred to as the 
+MCAI), issued by EASA, which is the Technical Agent for the Member 
+States of the European Union. The MCAI states that a non-conformity 
+issue concerning
 
-II. Response to Comments
+[[Page 38998]]
 
-    Comment: Citizens Rulemaking Alliance requests that the EPA 
-withdraw any final action until it either (a) prepares and dockets an 
-Initial Regulatory Flexibility Analysis (IRFA) for this action or (b) 
-supplements the record with a reasoned factual basis supporting a 
-certification under 5 U.S.C. 605(b) that the action will not have a 
-significant economic impact on a substantial number of small entities, 
-including data specific to Oklahoma NSR applicability and permitting 
-costs.
-    Response: The EPA disagrees with this comment. The regulatory 
-analysis provisions of the Regulatory Flexibility Act (RFA) are only 
-triggered by a threshold determination by the Agency that this rule 
-will have a significant economic impact on a substantial number of 
-small entities. This action merely approves Oklahoma's choices for 
-implementing the air permitting requirements of the Clean Air Act and 
-does not impose any additional requirements beyond those required by 
-State law. Because the Agency has certified this rule will not have a 
-significant economic impact, sections 603 and 604 of the RFA do not 
-apply to this rulemaking. See 5 U.S.C. 605(b). No changes have been 
-made to the final rule because of this comment.
-    Comment: Citizens Rulemaking Alliance requests that the EPA prepare 
-and docket an Unfunded Mandates Reform Act (UMRA) statement or, at a 
-minimum, a non-conclusory analysis explaining why this action does not 
-impose a ``Federal private sector mandate'' or meet the expenditure 
-threshold and why UMRA section 202 does not apply, given that EPA's 
-approval renders the NSR requirements federally enforceable on private 
-parties.
-    Response: The EPA disagrees that this action triggers any 
-obligation to prepare and docket an UMRA statement. The UMRA 
-requirements are triggered if the direct cost of all Federal private 
-sector mandates will exceed $100 million annually. This action merely 
-approves the State of Oklahoma's choices of revisions as meeting Clean 
-Air Act requirements. This action does not impose any Federal private 
-sector mandate on Oklahoma as that term is defined in 2 U.S.C. 658.
-    Comment: Citizens Rulemaking Alliance requests that EPA identify 
-the applicable Office of Management and Budget (OMB) control number(s) 
-for any information collection requirements (ICR) implicated by the 
-approved NSR program (e.g., permit applications, monitoring, 
-recordkeeping, reporting, public notice submissions), and explain 
-whether the SIP revisions increase or otherwise alter the burden under 
-the Paperwork Reduction Act (PRA). If the burden changes, submit the 
-necessary ICR revision to OMB.
-    Response: The PRA generally provides that every Federal agency must 
-obtain OMB approval before using identical questions to collect 
-information from 10 or more persons. See 44 U.S.C. 3502(2); 3507. The 
-EPA is not conducting nor sponsoring the collection of information from 
-10 or more persons. The EPA approves the
+the gap between the filler and the side plates on the cargo hook of a 
+helicopter was reported. The unsafe condition, if not addressed, could 
+result in loosening of the cargo hook, loss of the load, and consequent 
+injury to people on the ground.
+    In the NPRM, the FAA proposed to require procedures for inspecting 
+certain cargo hooks to measure the gap between the filler and the front 
+and rear side plate assemblies and, depending on the results, replacing 
+the cargo hook with a cargo hook that is not affected. In the NPRM, the 
+FAA also proposed to prohibit installing an affected cargo hook on any 
+helicopter. The FAA is issuing this AD to address the unsafe condition 
+on these products.
+    You may examine the MCAI in the AD docket at  regulations.gov  under 
+Docket No. FAA-2025-3999.
 
-[[Page 40410]]
+Discussion of Final Airworthiness Directive
 
-revisions to the Oklahoma permitting programs and general SIP updates, 
-thereby approving State choices as meeting the Clean Air Act. The EPA 
-has complied with the PRA by certifying that the PRA does not apply to 
-this action. This approval does not impose any additional requirements 
-beyond those required by State law. No changes have been made to the 
-final rule because of this comment.
-    Comment: Citizens Rulemaking Alliance requests that EPA confirm it 
-is not invoking the Administrative Procedure Act's good cause 
-exceptions to shorten the effective date or bypass ordinary notice-and-
-comment, or else provide a specific, record-supported good cause 
-showing.
-    Response: The EPA's November 17, 2025 (90 FR 51247), proposed 
-rulemaking included a 30-day public comment period which closed on 
-December 17, 2025. In this action, we are finalizing our November 17, 
-2025, proposed rulemaking. The EPA did not invoke or rely on the good 
-cause exceptions at Administrative Procedure Act Section 553(b). No 
-changes have been made to the final rule because of this comment.
-    Comment: Citizens Rulemaking Alliance requests that the EPA provide 
-a side-by-side of the SIP-approved NSR text and the proposed 
-replacement, with a plain-language explanation of practical impacts on 
-applicability, exemptions, monitoring/recordkeeping, and public notice.
-    Response: Section II of the November 17, 2025 (90 FR 51247 at 
-51249), preamble states ``the accompanying Technical Support Document 
-for this action includes a detailed analysis of the submitted revisions 
-to the Oklahoma SIP which are the subject of this proposed 
-rulemaking.'' The November 17, 2025 (90 FR 51247), proposed rulemaking 
-included instructions on how to access the rulemaking docket on 
- www.regulations.gov . The rulemaking docket includes our Technical 
-Support Document, which provides a side-by-side comparison of the 
-existing SIP requirements and the proposed revisions, the EPA's 
-evaluation of each proposed revision and the EPA's justification for 
-approval. The Technical Support Document was available in the 
-rulemaking docket for the entirety of the 30-day public comment period. 
-No changes have been made to the final rule because of this comment.
-    Comment: Citizens Rulemaking Alliance requests that the EPA extend 
-the comment period at least 30 days after the EPA dockets the 
-supplemental RFA/UMRA/PRA materials.
-    Response: The EPA published a proposed rule on November 17, 2025 
-(90 FR 51247), in the Federal Register proposing action on Oklahoma's 
-SIP submissions. This proposed rulemaking included significant detail 
-in the preamble regarding the nature of the proposed action and the 
-EPA's basis for approving the Oklahoma submissions under the Clean Air 
-Act. The proposed rulemaking provided a 30-day comment period for the 
-public to submit data, views, or arguments regarding the EPA's proposed 
-action. As demonstrated by the responses to comments in this document, 
-the EPA has considered all relevant comments received on its proposal. 
-The EPA has no obligation to extend the comment period because no 
-supplemental materials have been added to the docket. No changes have 
-been made to the final rule because of this comment.
-    Comment: During a discussion on December 5, 2025, the Oklahoma 
-Department of Environmental Quality (ODEQ) provided the following 
-requests for clarification and typographical errors for the EPA's 
-consideration: \1\
----------------------------------------------------------------------------
+Comments
 
-    \1\ The EPA has docketed the Record of Communication of the 
-December 5, 2025, discussion with ODEQ in our rulemaking docket, 
-EPA-R06-OAR-2024-0031, accessible on  https://www.regulations.gov .
----------------------------------------------------------------------------
+    The FAA received comments from the Citizens Rulemaking Alliance. 
+The following presents the comments received on the NPRM and the FAA's 
+response to each comment.
 
-    1. The discussion at 90 FR 51249 providing the general overview of 
-the Oklahoma tiering system could be misinterpreted to indicate that 
-all Tier I applications require web public notice (90 FR 51247, 
-November 17, 2025). The Tier I web notice only applies to specific air 
-quality permit applications as indicated elsewhere in the preamble 
-rather than broadly to all Tier I applications.
-    2. There is a typographical error in the submittal date for the 
-reasonable possibility in recordkeeping rulemaking. See 90 FR 51247 at 
-90 FR 51250, ``On January 24, 2023, Oklahoma submitted revisions to OAC 
-252:100-8-36.2 adopted on June 21, 2002, effective September 15, 
-2022.'' (emphasis added)
-    3. The overview description of the general permitting program at 90 
-FR 51249, incorrectly states that general permits apply to facilities 
-between 40 TPY and 100 TPY in an industry group for which a general 
-permit has been issued (90 FR 51247, November 17, 2025). The ODEQ 
-clarified that the general permit does not have a lower TPY limit.
-    4. The ODEQ requests that the EPA update the description of permit 
-exempt overview at 90 FR 51255 to more closely reflect the rule 
-language and avoid any misinterpretation (90 FR 51247, November 17, 
-2025). Suggested edits would be:
-    A permit exempt facility cannot be subject to any major source 
-permitting requirement under OAC 252:100-8, any work practice standard, 
-equipment standard, or emission standard under either (a) New Source 
-Performance Standards in 40 CFR part 60, or (b) National Emissions 
-Standards for Hazardous Air Pollutants at 40 CFR part 63.
-    Response: The EPA appreciates the clarifications and typographical 
-corrections to the November 17, 2025 (90 FR 51247), proposed rulemaking 
-identified by the ODEQ. We agree that each clarification and 
-typographical correction of the proposed rulemaking preamble is 
-appropriate and instruct the public to read the November 17, 2025 (90 
-FR 51247), preamble with these clarifications and corrections. No 
-changes have been made to this final rule because of these comments.
-    Comment: The Quapaw Nation requested clarification on how the EPA 
-expects the State of Oklahoma to implement the SIP in certain areas of 
-Indian Country pursuant to the Safe, Accountable, Flexible, Efficient 
-Transportation Equity Act of 2005 (``SAFETEA''). Specifically, the 
-Quapaw Nation requested clarification on the EPA's expectations for the 
-State with respect to engaging the Quapaw Nation on issues that may 
-affect the Nation's members or resources.
-    Response: As explained in section III. Impact on Areas of Indian 
-Country in the November 17, 2025 (90 FR 51247), proposed rulemaking and 
-again in this final action, on May 12, 2025, the EPA approved the State 
-of Oklahoma's request under section 10211(a) of SAFETEA to administer 
-all of the State's EPA-approved environmental regulatory programs--
-including the State's SIP--in certain areas of Indian country. This 
-means the ODEQ will implement the SIP-approved requirements for the 
-Indian country lands included in the SAFETEA approval that are located 
-within the Quapaw Nation reservation. Neither the May 12, 2025, SAFETEA 
-decision, nor the approval of the State's SIP under the CAA, requires 
-the State to engage with affected Tribes. However, although not 
-required by the EPA's approvals, consistent with longstanding Agency 
-policy, the EPA encourages Tribes and States to coordinate on 
-environmental matters of mutual concern and believes such coordination 
-may be particularly useful in this case, where the State is 
-administering a program in Indian country. Thus, the EPA encourages the 
-Quapaw Nation and other interested Tribes to coordinate
+Request To Justify Forgoing Notice and Comment or Issue an NPRM
 
-[[Page 40411]]
+    The commenter asserted that the FAA bypassed notice and comment and 
+requested that the FAA convert this action to an NPRM or provide at a 
+minimum a 60-day delayed effective date to allow the FAA to evaluate 
+comments. The commenter asserted the FAA has not adequately justified 
+use of the good cause exception to bypass notice and comment and the 
+30-day delayed effective date.
+    The FAA notes the comment was submitted in response to an NPRM for 
+which the FAA provided a 45-day comment period. This final rule is 
+effective 35 days after its publication in the Federal Register. 
+Therefore, no change to this AD is necessary.
 
-with the State on issues relating to implementation of the SIP. The 
-Nation specifically raised permitting as an example where State/Tribal 
-engagement would be useful. The EPA notes that because the Nation has 
-CAA Treatment as a State (TAS) approval under sections 126 and 
-505(a)(2) of the CAA, the State is required to comply with affected 
-State status notifications to neighboring States, which includes the 
-Nation. No changes have been made to our final rule because of this 
-comment.
-    Comment: The Quapaw Nation does not support, and requests that the 
-EPA disapprove, the expansion of the ``permit exempt facility'' 
-categories for minor new source review permitting under OAC 252:100-7-
-1.1 and OAC 252:100-7-2. The Quapaw Nation states that Oklahoma should 
-``be imposing more stringent permitting requirements rather than 
-expanding exemptions, even for minor contributors to air pollution.''
-    Response: The EPA disagrees with the commenter. As stated in the 
-November 17, 2025 (90 FR 51247), proposed rulemaking, ``State agencies 
-have discretion to determine the scope of the State's minor NSR 
-program, provided that the program continues to satisfy the 
-requirements of 40 CFR 51.160-51.164.'' See 90 FR 51247 at 90 FR 51255. 
-The EPA provided our evaluation of the Oklahoma permit exempt program, 
-including the technical justification provided by the ODEQ regarding 
-the impact of the permit exempt program on air quality. No changes have 
-been made to our final rule because of this comment.
-    Comment: The Quapaw Nation does not support, and requests that the 
-EPA disapprove, the revisions to OAC 252:100, Subchapters 7 and 8 that 
-would allow permit applicants to begin construction prior to receiving 
-the construction permit. The Quapaw Nation expressed concern ``that 
-allowing a project to move forward up to this stage of construction, 
-after significant resources are expended but before a requisite permit 
-is granted, could create unnecessary pressure on the permit decision-
-makers that would not otherwise be present.''
-    Response: The EPA appreciates the concern presented by the 
-commenter but disagrees that the provisions for allowing construction 
-prior to permit issuance will create unnecessary pressure on the permit 
-decision-makers. The November 17, 2025 (90 FR 51247 at 90 FR 51254 
-through 51255), proposed rulemaking provides our analysis of the 
-provisions for construction prior to minor NSR permit issuance and 
-demonstrates consistency with the requirements of the CAA and the EPA's 
-regulations. The SIP-approved language at OAC 252:100-7-2(b)(5) and OAC 
-252:100-8-4(a)(1)(D) expressly provides that the Oklahoma DEQ retains 
-the authority to deny the permit application without consideration of 
-and regardless of any investment made by the permit applicant prior to 
-permit issuance. No changes have been made to the final rule because of 
-this comment.
+Request To Make Incorporation by Reference (IBR) Materials Reasonably 
+Available
 
-III. Impact on Areas of Indian Country
+    The Citizens Rulemaking Alliance stated that the FAA's current 
+practices for IBR frequently fail to meet the legal and regulatory 
+standards for reasonable availability. The commenter called on the FAA 
+to guarantee that all IBR materials are freely and electronically 
+accessible to the public and to condition future IBR approval in 
+rotorcraft ADs on original equipment manufacturer commitment to free 
+public access during the life of the AD.
+    The FAA clarifies that this AD only incorporates by reference EASA 
+AD 2025-0036, not the manufacturer service information referenced in 
+that EASA AD. The FAA posted EASA AD 2025-0036 to the AD docket when 
+the NPRM was published in the Federal Register. The material referenced 
+in EASA AD 2025-0036 may only be posted before the final rule's 
+publication if it is already publicly available or if there is written 
+consent from the owner of that material. Additionally, the FAA provided 
+notice in the NPRM that the material referenced in EASA AD 2025-0036 
+will be available in the AD docket after this AD is published. 
+Therefore, the FAA did not change this AD as a result of this comment.
 
-    Following the U.S. Supreme Court decision in McGirt v. Oklahoma, 
-140 S. Ct. 2452 (2020), the Governor of the State of Oklahoma requested 
-approval under section 10211(a) of the Safe, Accountable, Flexible, 
-Efficient Transportation Equity Act of 2005: A Legacy for Users, Public 
-Law 109-59, 119 Stat. 1144, 1937 (August 10, 2005) (``SAFETEA''), to 
-administer in certain areas of Indian country (as defined at 18 U.S.C. 
-1151) the State's environmental regulatory programs that were 
-previously approved by the EPA outside of Indian country. The State's 
-request excluded certain areas of Indian country further described 
-below. In addition, the State only sought approval to the extent that 
-such approval was necessary for the State to administer a program in 
-light of Oklahoma Dept. of Environmental Quality v. EPA, 740 F.3d 185 
-(D.C. Cir. 2014).\2\
----------------------------------------------------------------------------
+Request To Provide Additional Cost Information and Consider Impact on 
+Small Entities
 
-    \2\ In ODEQ v. EPA, the D.C. Circuit held that under the CAA, 
-States have the authority to implement a SIP in non-reservation 
-areas of Indian country in the State, unless there has been a 
-demonstration of Tribal jurisdiction. Under the D.C. Circuit's 
-decision, the CAA does not provide authority to States to implement 
-SIPs in Indian reservations.
----------------------------------------------------------------------------
+    The Citizens Rulemaking Alliance requested that the FAA add to the 
+AD docket an explicit statement supporting its conclusion that the AD 
+is not significant under Executive Order 12866 and the Unfunded 
+Mandates Reform Act (UMRA). The commenter stated that the FAA should 
+also provide the parts cost and any assumed downtime or out-of-service 
+impacts. The commenter also requested that the FAA invite small-entity 
+feedback on practical compliance alternatives.
 
-    The EPA has approved Oklahoma's SAFETEA request to administer all 
-of the State's EPA-approved environmental regulatory programs in the 
-requested areas of Indian country. As requested by Oklahoma, the EPA's 
-approval under SAFETEA does not include Indian country lands, including 
-rights-of-way running through the same, that: (1) qualify as Indian 
-allotments, the Indian titles to which have not been extinguished, 
-under 18 U.S.C. 1151(c); (2) are held in trust by the United States on 
-behalf of an individual Indian or Tribe; or (3) are owned in fee by a 
-Tribe, if the Tribe (a) acquired that fee title to such land, or an 
-area that included such land, in accordance with a treaty with the 
-United States to which such Tribe was a party, and (b) never allotted 
-the land to a member or citizen of the Tribe (collectively ``excluded 
-Indian country lands'').
-    The EPA's approval under SAFETEA expressly provided that to the 
-extent the EPA's prior approvals of Oklahoma's environmental programs 
-excluded Indian country, any such exclusions are superseded for the 
-geographic areas of Indian country covered by the EPA's approval of 
-Oklahoma's SAFETEA request.\3\ The approval also provided that future 
-revisions or amendments to Oklahoma's approved environmental regulatory 
-programs would extend to the covered areas of Indian country (without 
-any further need for additional requests under SAFETEA).
----------------------------------------------------------------------------
+No Additional Cost Impacts
 
-    \3\ The EPA's prior approvals relating to Oklahoma's SIP 
-frequently noted that the SIP was not approved to apply in areas of 
-Indian country (except as explained in the D.C. Circuit's decision 
-in ODEQ v. EPA) located in the State. See, e.g., 85 FR 20178 at 85 
-FR 20180 (April 10, 2020). Such prior expressed limitations are 
-superseded by the EPA's approval of Oklahoma's SAFETEA request.
----------------------------------------------------------------------------
+    In the Costs of Compliance section of the proposed AD, the FAA 
+disclosed the number of affected helicopters on the U.S. registry, the 
+estimated work hours, and the estimated cost of parts. The labor and 
+parts estimates were provided by the manufacturer. Additionally, the 
+FAA considered the impact that this AD will have on affected operators 
+and determined this AD will not trigger any downtime costs because the 
+requirements of this AD can be performed during regularly scheduled 
+maintenance. Since the FAA assessed and disclosed the total known costs 
+of the AD requirements in the Costs of Compliance section of the 
+proposed AD, and the commenter did not provide additional cost data for 
+the FAA to consider in its cost analysis, it is not necessary to 
+provide additional information in the AD docket.
 
-    As explained above, the EPA is approving revisions to the Oklahoma 
-air permitting program which will apply statewide in Oklahoma. 
-Consistent with the D.C. Circuit's decision in ODEQ v. EPA and with the 
-EPA's SAFETEA approval, these SIP revisions will apply to areas of 
-Indian country as follows: (1) pursuant to the SAFETEA approval, the 
-SIP revisions will apply to all Indian country in the State of Oklahoma 
-other than the excluded Indian country lands as described above; and 
-(2) pursuant to the D.C. Circuit's decision in ODEQ v. EPA, the SIP 
-revisions will also apply to any Indian allotments or dependent Indian 
-communities that are located outside of any Indian reservation over 
-which there has been no demonstration of Tribal authority.
+Small Entities to Which This AD Applies
 
-IV. Final Action
+    The Regulatory Flexibility Act (RFA) of 1980, Public Law 96-354, 94 
+Stat. 1164 (5 U.S.C. 601-612), as amended by the Small Business 
+Regulatory Enforcement Fairness Act of 1996 (Pub. L. 104-121, 110 Stat. 
+857, Mar. 29, 1996) and the Small Business Jobs Act of 2010 (Pub. L. 
+111-240, 124 Stat. 2504, Sept. 27, 2010), requires Federal agencies to 
+consider the effects of the regulatory action on small business and 
+other small entities and to minimize any significant economic impact. 
+The term ``small entities'' comprises small businesses and not-for-
+profit organizations that are independently owned and operated and are 
+not dominant in their fields, and governmental jurisdictions with 
+populations of less than 50,000.
+    The FAA used the definition of small entities in the RFA for this 
+analysis. The RFA defines small entities as small businesses, small 
+governmental jurisdictions, or small organizations. In 5 U.S.C. 601(3), 
+the RFA defines ``small business'' to have the same meaning as ``small 
+business concern'' under section 3 of the Small Business Act. The Small 
+Business Act authorizes the Small Business Administration (SBA) to 
+define ``small business'' by issuing regulations.
+    The SBA (2023) has established size standards for various types of 
+economic activities, or industries, under the North American Industry 
+Classification System (NAICS). These size standards generally define 
+small businesses based on the number of employees or annual receipts. 
+The following table provides the SBA size standards for all industries 
+with at least one entity impacted by this AD. Note that the SBA 
+definition of a small business applies to the parent company and all 
+affiliates as a single entity.
 
-    We are approving under section 110 of the CAA, revisions to the 
-Oklahoma SIP that update the Oklahoma NSR programs to maintain 
-consistency with Federal requirements and revise the incorporation by 
-reference dates for Federal requirements. We have determined that the 
-following revisions were developed in accordance with the CAA and the 
-EPA's regulations, policy, and guidance for SIP development and NSR 
-permitting. The EPA approves the following as revisions to the Oklahoma 
-SIP:
-      Removal of Regulations 1.4.1(a)-(c) and 1.4.2(a)-(d), (f), 
-and (g) adopted on March 30, 1994, submitted May 16, 1994.
-      Revisions to OAC 252:4-7-13, Notices, adopted on June 11, 
-2021, effective September 15, 2021, and submitted to the EPA on 
-September 13, 2022.
-      Revisions to OAC 252:100-4-7-32, Air quality 
-applications--Tier I, adopted on March 25, 2003, effective
+                      Small Business Size Standards
+------------------------------------------------------------------------
+      NAICS code                Description             Size standard
+------------------------------------------------------------------------
+111199................  All Other Grain Farming...  $2.25 million.
+112111................  Beef Cattle Ranching and    $2.5 million.
+                         Farming.
+221122................  Electric Power              1,100 employees.
+                         Distribution.
+236220................  Commercial and              $45.0 million.
+                         Institutional Building
+                         Construction.
 
-[[Page 40412]]
+[[Page 38999]]
 
-June 1, 2003, and submitted to the EPA on May 24, 2018.
-      Revisions to OAC 252:100-4-7-32, Air quality 
-applications--Tier I, adopted on June 11, 2021, effective September 15, 
-2021, and submitted to the EPA on September 13, 2022.
-      Revisions to OAC 252:100-4-7-33, Air quality 
-applications--Tier II, adopted on June 11, 2021, effective September 
-15, 2021, and submitted to the EPA on September 13, 2022.
-      Repeal of OAC 252:4, Appendix C--Permitting Process 
-Summary, adopted on June 11, 2001.
-      New OAC 252:4, Appendix C--Permitting Process Summary, 
-adopted on June 11, 2021, effective September 15, 2021, and submitted 
-to the EPA on September 13, 2022.
-      Revisions to OAC 252:100-1-2, Statutory definitions, 
-adopted on June 25, 2020, effective September 15, 2020, and submitted 
-to the EPA on February 9, 2021.
-      Revisions to OAC 252:100-1-3, Definitions, adopted on June 
-11, 2021, effective September 15, 2021, and submitted to the EPA on 
-September 13, 2022.
-      Revisions to OAC 252:100-1-3, Definitions, adopted on June 
-21, 2022, effective September 15, 2022, and submitted to the EPA on May 
-30, 2025.
-      Revisions to OAC 252:100-1-4, Units, abbreviations and 
-acronyms, adopted on June 11, 2021, effective September 15, 2021, and 
-submitted to the EPA on September 13, 2022.
-      Revisions to OAC 252:100-2-3, Incorporation by reference, 
-adopted on May 31, 2023, effective September 15, 2023, and submitted to 
-the EPA on January 16, 2024.
-      Revisions to OAC 252:100-2-3, Incorporation by reference, 
-adopted on June 21, 2024, effective September 16, 2024, and submitted 
-to the EPA on May 30, 2025.
-      Repeal of OAC 252:100, Appendix Q--Incorporation by 
-reference, adopted on September 15, 2022.
-      New OAC 252:100, Appendix Q--Incorporation by reference, 
-adopted on June 21, 2024, effective September 16, 2024, and submitted 
-to the EPA on May 30, 2025.
-      Revisions to OAC 252:100-5-1.1, Definitions, adopted on 
-May 1, 2009, effective July 1, 2009, and submitted to the EPA on July 
-27, 2010.
-      Revisions to OAC 252:100-7-1.1, Definitions, adopted on 
-May 1, 2003, effective June 12, 2003, and submitted to the EPA on 
-September 9, 2022.
-      Revisions to OAC 252:100-7-1.1, Definitions, adopted on 
-April 28, 2004, effective June 11, 2004, and submitted to the EPA on 
-September 9, 2022.
-      Revisions to OAC 252:100-7-1.1, Definitions, adopted on 
-March 27, 2007, effective June 15, 2007, and submitted to the EPA on 
-September 9, 2022.
-      Revisions to OAC 252:100-7-1.1, Definitions, adopted on 
-June 9, 2016, effective September 15, 2016, and submitted to the EPA on 
-September 9, 2022.
-      Revisions to OAC 252:100-7-1.1, Definitions, adopted on 
-June 18, 2018, effective September 15, 2018, and submitted to the EPA 
-on September 9, 2022.
-      Revisions to OAC 252:100-7-1.1, Definitions, adopted on 
-June 11, 2021, effective September 15, 2021, and submitted to the EPA 
-on September 13, 2022.
-      Revisions to OAC 252:100-7-1.1, Definitions, adopted on 
-June 21, 2022, effective September 15, 2022, and submitted to the EPA 
-on May 30, 2025.
-      Revisions to OAC 252:100-7-2, Requirement for permits for 
-minor facilities, adopted on April 28, 2004, effective June 11, 2004, 
-and submitted to the EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-2, Requirement for permits for 
-minor facilities, adopted on March 30, 2005, effective June 15, 2005, 
-and submitted to the EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-2, Requirement for permits for 
-minor facilities, adopted on March 27, 2008, effective July 1, 2008, 
-and submitted to the EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-2, Requirement for permits for 
-minor facilities, adopted on June 9, 2016, effective September 15, 
-2016, and submitted to the EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-2, Requirement for permits for 
-minor facilities, adopted on June 18, 2018, effective September 15, 
-2018, and submitted to the EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-2, Requirement for permits for 
-minor facilities, adopted on June 21, 2022, effective September 15, 
-2022, and submitted to the EPA on May 30, 2025.
-      Revisions to OAC 252:100-7-15, Construction permit, 
-adopted on March 28, 2002, effective June 1, 2002, and submitted to the 
-EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-15, Construction permit, 
-adopted on April 28, 2004, effective June 11, 2004, and submitted to 
-the EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-15, Construction permit, 
-adopted on March 27, 2008, effective July 1, 2008, and submitted to the 
-EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-15, Construction permit, 
-adopted on May 1, 2012, effective July 1, 2012, and submitted to the 
-EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-15, Construction permit, 
-adopted on June 11, 2021, effective September 15, 2021, and submitted 
-to the EPA on September 13, 2022.
-      Revisions to OAC 252:100-7-15, Construction permit, 
-adopted on June 21, 2022, effective September 15, 2022, and submitted 
-to the EPA on May 30, 2025.
-      Revisions to OAC 252:100-7-18, Operating permit, adopted 
-on April 28, 2004, effective June 11, 2004, and submitted to the EPA on 
-September 9, 2022.
-      Revisions to OAC 252:100-7-18, Operating permit, adopted 
-on March 27, 2008, effective July 1, 2008, and submitted to the EPA on 
-September 9, 2022.
-      Revisions to OAC 252:100-7-18, Operating permit, adopted 
-on May 1, 2012, effective July 1, 2012, and submitted to the EPA on 
-September 9, 2022.
-      Revisions to OAC 252:100-7-18, Operating permit, adopted 
-on June 11, 2021, effective September 15, 2021, and submitted to the 
-EPA on September 13, 2022.
-      Revisions to OAC 252:100-7-60, Permit by rule, adopted on 
-June 19, 2024, effective September 12, 2014, and submitted to the EPA 
-on September 9, 2022.
-      Revisions to OAC 252:100-7-60.6, Emergency engine 
-facilities, adopted on June 9, 2016, effective September 15, 2016, and 
-submitted to the EPA on September 9, 2022.
-      Revisions to OAC 252:100-7-60.7, Gasoline dispensing 
-facilities and gasoline dispensing facilities with emergency engines, 
-adopted on June 18, 2018, effective September 15, 2018, and submitted 
-to the EPA on September 9, 2022.
-      Revisions to OAC 252:100-8-1.1, Definitions, adopted on 
-March 27, 2008, effective July 1, 2008, and submitted to the EPA on 
-June 24, 2010.
-      Revisions to OAC 252:100-8-2, Definitions, adopted on 
-March 25, 2003, effective June 1, 2003, and submitted to the EPA on 
-June 24, 2010.
-      Revisions to OAC 252:100-8-2, Definitions, adopted on 
-March 30, 2005, effective on June 15, 2005, and submitted to the EPA on 
-June 24, 2010.
-      Revisions to OAC 252:100-8-2, Definitions, adopted on 
-April 28, 2006,
+ 
+237110................  Water and Sewer Line and    $45.0 million.
+                         Related Structures
+                         Construction.
+327320................  Ready[dash]Mix Concrete     500 employees.
+                         Manufacturing.
+334511................  Search, Detection,          1,350 employees.
+                         Navigation, Guidance,
+                         Aeronautical, and
+                         Nautical System and
+                         Instrument Manufacturing.
+336411................  Aircraft Manufacturing....  1,500 employees.
+336413................  Other Aircraft Part and     1,250 employees.
+                         Auxiliary Equipment
+                         Manufacturing.
+423860................  Transportation Equipment    175 employees.
+                         and Supplies Merchant
+                         Wholesalers.
+441210................  Recreational Vehicle        $40.0 million.
+                         Dealers.
+441227................  Motorcycle, ATV, and All    $40.0 million.
+                         Other Motor Vehicle
+                         Dealers.
+481111................  Scheduled Passenger Air     1,500 employees.
+                         Transportation.
+481211................  Nonscheduled Chartered      1,500 employees.
+                         Passenger Air
+                         Transportation.
+481212................  Nonscheduled Chartered      1,500 employees.
+                         Freight Air
+                         Transportation.
+481219................  Other Nonscheduled Air      $25.0 million.
+                         Transportation.
+484110................  General Freight Trucking,   $34.0 million.
+                         Local.
+486110................  Pipeline Transportation of  1,500 employees.
+                         Crude Oil.
+486210................  Pipeline Transportation of  $41.5 million.
+                         Natural Gas.
+487990................  Scenic and Sightseeing      $25.0 million.
+                         Transportation, Other.
+488119................  Other Airport Operations..  $40.0 million.
+488190................  Other Support Activities    $40.0 million.
+                         for Air Transportation.
+512110................  Motion Picture and Video    $40.0 million.
+                         Production.
+516120................  Television Broadcasting     $47.0 million.
+                         Stations.
+517111................  Wired Telecommunications    1,500 employees.
+                         Carriers.
+531390................  Other Activities Related    $19.5 million.
+                         to Real Estate.
+532411................  Commercial Air, Rail, and   $45.5 million.
+                         Water Transportation
+                         Equipment Rental and
+                         Leasing.
+532490................  Other Commercial and        $40.0 million.
+                         Industrial Machinery and
+                         Equipment Rental and
+                         Leasing.
+541360................  Geophysical Surveying and   $28.5 million.
+                         Mapping Services.
+541370................  Surveying and Mapping       $19.0 million.
+                         (except Geophysical)
+                         Services.
+541512................  Computer Systems Design     $34.0 million.
+                         Services.
+541611................  Administrative Management   $24.5 million.
+                         and General Management
+                         Consulting Services.
+551112................  Offices of Other Holding    $45.5 million.
+                         Companies.
+561710................  Exterminating and Pest      $17.5 million.
+                         Control Services.
+611512................  Flight Training...........  $34.0 million.
+621910................  Ambulance Services........  $22.5 million.
+N/A...................  Public Administration--     Population fewer
+                         Federal, state, and local   than 50,000.
+                         government agencies which
+                         administer and oversee
+                         government programs and
+                         activities that are not
+                         performed by private
+                         establishments.
+------------------------------------------------------------------------
 
-[[Page 40413]]
+    To identify small entities, the FAA first identified the primary 
+NAICS of the entity or parent company, and then used data from 
+different sources (e.g., company annual reports, Bureau of 
+Transportation Statistics) to determine whether the entity meets the 
+applicable size standard. The table below provides the estimated number 
+of small entities affected by this AD:
 
-effective June 15, 2006, and submitted to the EPA on July 16, 2010.
-      Revisions to OAC 252:100-8-2, Definitions, adopted on 
-March 24, 2009, effective on July 1, 2009, and submitted to the EPA on 
-June 24, 2010.
-      Revisions to OAC 252:100-8-2, Definitions, adopted on May 
-3, 2011, effective on July 1, 2011, and submitted to the EPA on 
-February 6, 2012.
-      Revisions to OAC 252:100-8-2, Definitions, adopted on 
-March 29, 2012, effective on July 1, 2012, and submitted to the EPA on 
-January 18, 2013.
-      Revisions to OAC 252:100-8-2, Definitions, adopted on June 
-13, 2017, effective September 15, 2017, and submitted to the EPA on 
-January 8, 2018.
-      Revisions to OAC 252:100-8-2, Definitions, adopted on 
-March 1, 2021, effective September 15, 2021, and submitted to the EPA 
-on September 13, 2022.
-      Revisions to OAC 252:100-8-4, Requirements for 
-construction and operating permits, adopted on March 30, 2005, 
-effective June 15, 2005, and submitted to the EPA on June 24, 2010.
-      Revisions to OAC 252:100-8-4, Requirements for 
-construction and operating permits, adopted on March 24, 2009, 
-effective July 1, 2009, and submitted to the EPA on June 24, 2010.
-      Revisions to OAC 252:100-8-4, Requirements for 
-construction and operating permits, adopted on March 29, 2012, 
-effective July 1, 2012, and submitted to the EPA on January 18, 2013.
-      Revisions to OAC 252:100-8-4, Requirements for 
-construction and operating permits, adopted on June 11, 2021, effective 
-September 15, 2021, and submitted to the EPA on September 13, 2022.
-      Revisions to OAC 252:100-8-4, Requirements for 
-construction and operating permits, adopted on June 21, 2022, effective 
-September 15, 2022, and submitted to the EPA on May 30, 2025.
-      Revisions to OAC 252:100-8-5, Permit applications, adopted 
-on March 25, 2003, effective June 1, 2003, and submitted to the EPA on 
-June 24, 2010.
-      Revisions to OAC 252:100-8-5, Permit applications, adopted 
-on June 11, 2021, effective September 15, 2021, and submitted to the 
-EPA on September 13, 2022.
-      Revisions to OAC 252:100-8-6, Permit content, adopted on 
-March 30, 2005, effective June 15, 2005, and submitted to the EPA on 
-June 24, 2010.
-      Revisions to OAC 252:100-8-6.1, General permits, adopted 
-on March 30, 2005, effective June 15, 2005, and submitted to the EPA on 
-June 24, 2010.
-      Revisions to OAC 252:100-8-7, Permit issuance, adopted on 
-March 30, 2005, effective June 15, 2005, and submitted to the EPA on 
-June 24, 2010.
-      Revisions to OAC 252:100-8-7.2, Administrative permit 
-amendments and permit modifications, adopted on March 25, 2003, 
-effective June 1, 2003, and submitted to the EPA on June 24, 2010.
-      Revisions to OAC 252:100-8-7.2, Administrative permit 
-amendments and permit modifications, adopted on June 15, 2021, 
-effective September 15, 2021, and submitted to the EPA on September 13, 
-2022.
-      Revisions to OAC 252:100-8-8, Permit review by EPA and 
-affected states, adopted on March 28, 2002, effective June 1, 2002, and 
-submitted to the EPA on June 24, 2010.
-      Revisions to OAC 252:100-8-8, Permit review by EPA and 
-affected states, adopted on June 11, 2021, effective September 15, 
-2021, and submitted to the EPA on September 13, 2022.
-      Revisions to OAC 252:100-8-36.1, Public participation, 
-adopted on June 21, 2022, effective September 15, 2022, and submitted 
-to the EPA on January 24, 2023.
-      Revisions to OAC 252:100-8-36.2, Source obligation, 
-adopted on June 21, 2022, effective September 15, 2022, and submitted 
-to the EPA on January 24, 2023.
-      Revisions to OAC 252:100-23-3(a), Applicability, general 
-requirements, adopted on June 21, 2024, effective September 16, 2024, 
-and submitted to the EPA on May 30, 2025.
-      Revisions to OAC 252:100-35-1, Purpose, adopted on June 
-21, 2024, effective September 16, 2024, submitted to the EPA on May 30, 
-2025.
-      Definitions of ``Air contaminants,'' ``Air pollution,'' 
-``Council,'' ``Director,'' and ``Person'' at 27A Oklahoma Statutes 
-(O.S.) 2-5-104.
-      Definitions of ``Department,'' ``Executive Director,'' and 
-``Person'' at 27A 2-1-102.
-    The EPA finds that the provisions in OAC 252:4-7-1, 4-7-2, 4-7-3, 
-4-7-4, 4-7-5, 4-7-6, 4-7-7, 4-7-8, 4-7-9, 4-7-10, 4-7-11, 4-7-12, 4-7-
-13, 4-7-14, 4-7-15, 4-7-16, 4-7-17, 4-7-18, 4-7-19, and 4-7-31 are 
-applicable to the entirety of the Oklahoma air permit program and the 
-amendatory language table at 40 CFR 52.1920(c) will be modified to 
-reflect this finding and remove the comments from the Explanation 
-column.
-    The EPA is removing OAC 252:100-5-2.2 from the Oklahoma SIP at 40 
-CFR 52.1920(c) because the CAA section 110(a)(2)(L) fee requirement has 
-been superseded by the approved Oklahoma part 70 program.
-    The EPA is removing definitions of ``affected source,'' ``affected 
-unit,'' paragraph (E) of ``applicable requirement,'' ``designated 
-representative,'' ``responsible official,'' ``small unit,'' and 
-``unit'' from OAC 252:100-8-2, OAC 252:100-8-4(b)(9), OAC 252:100-8-
-6(a)(5), and OAC 252:100-8-6.3 from the Oklahoma SIP at 40 CFR 
-52.1920(c) because these provisions pertain solely to Acid Rain program 
-requirements that are implemented through the approved Oklahoma part 70 
-program.
-    The EPA is updating the amendatory language table at 40 CFR 
-52.1920(c) to correct the citation for OAC 252:100-7-60.1, Cotton gins, 
-and correct the State effective dates for OAC 252:100-5-1, OAC 252:100-
-8-1, OAC 252:100-8-1.2, OAC 252:100-8-1.3, OAC 252:100-8-1.4, OAC 
-252:100-8-1.5, OAC 252:100-8-3, OAC 252:100-8-6.2, OAC 252:100-8-7.3, 
-OAC 252:100-8-7.4, OAC 252:100-8-7.5, OAC 252:100-8-30, OAC 252:100-8-
-37, OAC 252:100-8-38, OAC 252:100-8-50, OAC 252:100-8-53, OAC 252:100-
-8-54.1, OAC 252:100-8-55, OAC 252:100-8-56.
-    The EPA is also taking ministerial action to correct an error in 
-our final rule published on January 26, 2026 (91 FR 3046), effective 
-February 25, 2026. In this rule, the EPA finalized our approval of all 
-the revisions to the Open Burning provisions OAC 252:100-13 submitted 
-on November 22, 2024. We inadvertently excluded inclusion of OAC 
-252:100-13-8.1 from the amendatory instructions for 40 CFR 52.1920(c). 
-We are correcting this omission in this final approval.
+                                       Estimated Number of Small Entities
+----------------------------------------------------------------------------------------------------------------
+                                                                     Number of       Number of     Percent small
+                           Description                             entities \1\   small entities     entities
+----------------------------------------------------------------------------------------------------------------
+All Other Grain Farming.........................................               1               0               0
+Beef Cattle Ranching and Farming................................               1               1             100
+Electric Power Distribution.....................................               2               1              50
+Commercial and Institutional Building Construction..............               2               2             100
+Water and Sewer Line and Related Structures Construction........               1               1             100
+Ready[dash]Mix Concrete Manufacturing...........................               1               1             100
+Search, Detection, Navigation, Guidance, Aeronautical, and                     1               0               0
+ Nautical System and Instrument Manufacturing...................
+Aircraft Manufacturing..........................................               3               0               0
+Other Aircraft Part and Auxiliary Equipment Manufacturing.......               1               1             100
+Transportation Equipment and Supplies Merchant Wholesalers......               1               1             100
+Motorcycle, ATV, and All Other Motor Vehicle Dealers............               1               1             100
+Other Gasoline Stations.........................................               1               0               0
+Scheduled Passenger Air Transportation..........................               1               1             100
+Nonscheduled Chartered Passenger Air Transportation.............             102              85              83
+Nonscheduled Chartered Freight Air Transportation...............               1               1             100
+Other Nonscheduled Air Transportation...........................               6               5              83
+General Freight Trucking, Local.................................               1               1             100
+Pipeline Transportation of Crude Oil............................               1               0               0
+Pipeline Transportation of Natural Gas..........................               1               0               0
+Scenic and Sightseeing Transportation, Other....................              15              12              80
 
-V. Incorporation by Reference
+[[Page 39000]]
 
-    In this rule, the EPA is finalizing regulatory text that includes 
-incorporation by reference. In accordance with requirements of 1 CFR 
-51.5, the EPA is finalizing the incorporation by reference of revisions 
-to the Oklahoma regulations for air permitting as described in section 
-IV of this preamble. The EPA has made, and will continue to make, these 
-materials generally available through  https://www.regulations.gov  a 
-(please contact the person identified in the FOR FURTHER INFORMATION 
-CONTACT section of this preamble for more information). Therefore, 
-these materials have been approved by EPA for inclusion in the SIP, 
-have been incorporated by reference by EPA into that plan, are fully 
-federally enforceable under sections 110 and 113 of the CAA as of the 
-effective date of the final action of EPA's approval, and will be
+ 
+Other Airport Operations........................................               2               2             100
+Other Support Activities for Air Transportation.................               7               5              71
+Motion Picture and Video Production.............................               1               1             100
+Other Activities Related to Real Estate.........................               1               0               0
+Commercial Air, Rail, and Water Transportation Equipment Rental               19              19             100
+ and Leasing....................................................
+Other Commercial and Industrial Machinery and Equipment Rental                 1               1             100
+ and Leasing....................................................
+Geophysical Surveying and Mapping Services......................               1               1             100
+Surveying and Mapping (except Geophysical) Services.............               1               0               0
+Computer Systems Design Services................................               1               0               0
+Administrative Management and General Management Consulting                    1               1             100
+ Services.......................................................
+Offices of Other Holding Companies..............................               4               4             100
+Exterminating and Pest Control Services.........................               1               1             100
+Flight Training.................................................               1               1             100
+Ambulance Services..............................................              10               5              50
+Public Administration...........................................              79               0               0
+----------------------------------------------------------------------------------------------------------------
+\1\ Excludes individual owners, foreign companies, and entities lacking available data.
 
-[[Page 40414]]
+Projected Reporting, Recordkeeping, and Other Compliance Requirements
 
-incorporated by reference in the next update to the SIP compilation.
+    The FAA estimates operators will incur either a one-time inspection 
+cost of $85 or an inspection and one-time replacement cost of $62,561 
+per helicopter. The FAA has no way to determine if each helicopter will 
+require this replacement cost. The FAA analyzes the cost of each 
+compliance method with the annual revenue of each small entity. The 
+following table shows the estimated compliance costs by each NAICS 
+industry.
 
-VI. Statutory and Executive Order Reviews
+                                      Costs of Compliance per Small Entity
+----------------------------------------------------------------------------------------------------------------
+                                                                                   Average one-    Average one-
+                                                 Average annual   Average number       time            time
+                 Description                      revenue \1\       of aircraft     inspection      replacement
+                                                                                       cost          cost \2\
+----------------------------------------------------------------------------------------------------------------
+Beef Cattle Ranching and Farming.............           $123,540               1             $85         $62,561
+Electric Power Distribution..................         22,740,000               3             255         187,683
+Commercial and Institutional Building                  2,162,465               1              85          62,561
+ Construction................................
+Water and Sewer Line and Related Structures               89,940               1              85          62,561
+ Construction................................
+Ready[dash]Mix Concrete Manufacturing........             53,280               1              85          62,561
+Other Aircraft Part and Auxiliary Equipment            Not found               1              85          62,561
+ Manufacturing...............................
+Transportation Equipment and Supplies                    540,000               1              85          62,561
+ Merchant Wholesalers........................
+Motorcycle, ATV, and All Other Motor Vehicle             660,000               1              85          62,561
+ Dealers.....................................
+Scheduled Passenger Air Transportation.......          6,960,000               6             510         375,366
+Nonscheduled Chartered Passenger Air                 393,944,724             2.2             187         137,634
+ Transportation..............................
+Nonscheduled Chartered Freight Air                     5,740,000               4             340         250,244
+ Transportation..............................
+Other Nonscheduled Air Transportation........         12,618,333             5.8             493         362,854
+General Freight Trucking, Local..............          6,060,000               1              85          62,561
+Scenic and Sightseeing Transportation, Other.         44,092,097             2.7             230         168,915
+Other Airport Operations.....................            195,085               1              85          62,561
+Other Support Activities for Air                   1,010,503,660             1.1              94          68,817
+ Transportation..............................
+Motion Picture and Video Production..........            242,860               1              85          62,561
+Commercial Air, Rail, and Water                          561,355               1              85          62,561
+ Transportation Equipment Rental and Leasing.
+Other Commercial and Industrial Machinery and            520,000               1              85          62,561
+ Equipment Rental and Leasing................
+Geophysical Surveying and Mapping Services...            163,430               1              85          62,561
+Administrative Management and General                     52,300               1              85          62,561
+ Management Consulting Services..............
+Offices of Other Holding Companies...........            323,825               1              85          62,561
+Exterminating and Pest Control Services......          9,760,000               4             340         250,244
+Flight Training..............................          3,480,000               5             425         312,805
+Ambulance Services...........................          1,076,832             5.6             476         350,342
+----------------------------------------------------------------------------------------------------------------
+\1\ Source: Dun & Bradstreet. D&B Hoovers. Retrieved May 7, 2026.  app.hoovers.dnb.com .
+\2\ One-time replacement cost includes both inspection and replacement costs, as replacement is contingent upon
+  inspection results.
 
-    Under the Clean Air Act, the Administrator is required to approve a 
-SIP submission that complies with the provisions of the Act and 
-applicable Federal regulations. 42 U.S.C. 7410(k); 40 CFR 52.02(a). 
-Thus, in reviewing SIP submissions, the EPA's role is to approve State 
-choices, provided that they meet the criteria of the Clean Air Act. 
-Accordingly, this action merely approves State law as meeting Federal 
-requirements and does not impose additional requirements beyond those 
-imposed by State law. For that reason, this action:
-      Is not a significant regulatory action subject to review 
-by the Office of Management and Budget under Executive Order 12866 (58 
-FR 51735, October 4, 1993);
-      Is not an Executive Order 14192 (90 FR 9065, February 6, 
-2025) regulatory action because this action is not significant under 
-Executive Order 12866;
-      Does not impose an information collection burden under the 
-provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
-      Is certified as not having a significant economic impact 
-on a substantial number of small entities under the Regulatory 
-Flexibility Act (5 U.S.C. 601 et seq.);
-      Does not contain any unfunded mandate or significantly or 
-uniquely affect small governments, as described in the Unfunded 
-Mandates Reform Act of 1995 (Pub. L. 104-4);
-      Does not have federalism implications as specified in 
-Executive Order 13132 (64 FR 43255, August 10, 1999);
-      Is not subject to Executive Order 13045 (62 FR 19885, 
-April 23, 1997) because it approves a State program;
-      Is not a significant regulatory action subject to 
-Executive Order 13211 (66 FR 28355, May 22, 2001); and
-      Is not subject to requirements of section 12(d) of the 
-National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
-note) because application of those requirements would be inconsistent 
-with the Clean Air Act.
-    This approval of revisions to the Oklahoma SIP that that update the 
-Oklahoma regulations for air permitting will apply to certain areas of 
-Indian country throughout Oklahoma as discussed in the preamble, and 
-therefore has Tribal implications as specified in E.O. 13175 (65 FR 
-67249, November 9, 2000). However, this action will neither impose 
-substantial direct compliance costs on federally recognized Tribal 
-governments, nor preempt Tribal law. This action will not impose 
-substantial direct compliance costs on federally recognized Tribal 
-governments because no actions will be required of Tribal governments. 
-This action will also not preempt Tribal law as no Oklahoma Tribe 
-implements a regulatory program under the CAA, and thus does not have 
-applicable or related Tribal laws. Consistent with the EPA Policy on 
-Consultation and Coordination with Indian Tribes (December 7, 2023), 
-the EPA offered consultation to Tribal governments that may be affected 
-by this action and provided information about this action. The EPA 
-received no requests for Tribal consultation on the proposed rule.
-    This action is subject to the Congressional Review Act, and the EPA 
-will submit a rule report to each House of the Congress and to the 
-Comptroller General of the United States. This action is not a ``major 
-rule'' as defined by 5 U.S.C. 804(2).
-    Under section 307(b)(1) of the Clean Air Act, petitions for 
-judicial review of this action must be filed in the United States Court 
-of Appeals for the appropriate circuit by August 31, 2026. Filing a 
-petition for reconsideration by the Administrator of this final rule 
-does not affect the finality of this action for the purposes of 
-judicial review nor does it extend the time within which a petition for 
-judicial review may be filed, and shall not postpone the effectiveness 
-of such rule or action. This action may not be challenged later in 
-proceedings to enforce its requirements. (See CAA section 307(b)(2).)
+Significant Alternatives Considered
 
-List of Subjects in 40 CFR Part 52
+    FAA evaluated the alternative of not promulgating this AD but 
+determined that taking no regulatory action would allow a significant 
+safety hazard to persist. A non-conformity exists regarding the gap 
+between the filler and the side plates on the helicopter's cargo hook. 
+This unsafe condition, if not addressed, could result in the loosening 
+of the cargo hook, loss of the external
 
-    Environmental protection, Air pollution control, Carbon monoxide, 
-Incorporation by reference, Intergovernmental relations, Lead, Nitrogen 
-dioxide, Ozone, Particulate matter, Reporting and recordkeeping 
-requirements, Sulfur oxides, Volatile organic compounds.
+[[Page 39001]]
 
-    Dated: June 23, 2026.
-Walter Mason,
-Regional Administrator, Region 6.
+load, and consequent injury to people on the ground.
 
-    For the reasons stated in the preamble, the Environmental 
-Protection Agency amends 40 CFR part 52 as follows:
+Small Entity Impacts
 
-PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
+    Based on the analysis, this AD is not a significant regulatory 
+action under Executive Order 12866 or UMRA. The FAA did not change this 
+AD as a result of this comment.
+
+Conclusion
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA reviewed the relevant 
+data, considered any comments received, and determined that air safety 
+requires adopting this AD as proposed. Accordingly, the FAA is issuing 
+this AD to address the unsafe condition on these products. Except for 
+minor editorial changes, this AD is adopted as proposed in the NPRM. 
+None of the changes will increase the economic burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2025-0036, which specifies procedures for 
+inspecting certain cargo hooks to measure the gap between the filler 
+and the front and rear side plate assemblies and, depending on the 
+results, replacing the cargo hook with a cargo hook that is not 
+affected. Additionally, EASA AD 2025-0036 prohibits installing an 
+affected cargo hook on any helicopter. This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Differences Between This AD and the MCAI
+
+    The MCAI applies to Airbus Helicopters Model AS 350BB helicopters, 
+whereas this AD does not because that model does not have an FAA type 
+certificate.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 898 helicopters of U.S. 
+registry. The FAA estimates the following costs to comply with this AD.
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspect cargo hook....................  1 work-hour x $85 per                 $0             $85         $76,330
+                                         hour \1\ = $85.
+----------------------------------------------------------------------------------------------------------------
+\1\ The FAA estimated operators will incur $85 in costs per labor hour, which is the weighted average fiscal
+  year (FY) 2026 fully loaded wage of an aircraft mechanic ($69.85) working 60% of the labor hours and a general
+  and operations manager ($108.15) working 40% of the labor hours. The FAA estimated these wages by taking the
+  average of the FY 2024 Bureau of Labor Statistics (BLS) air transportation industry average wage for aircraft
+  mechanics and general and operations managers (See: Occupational Employment and Wage Statistics Query System,
+  BLS (May 2024),  data.bls.gov/oes/ ); multiplying each wage by a fringe benefit factor of 1.42 (See: Employer
+  Cost for Employee Compensation--December 2024, BLS (2024),  bls.gov/news.release/archives/ecec_03142025.pdf );
+  and adjusting these 2024 wages to 2026 dollars using an implicit Gross Domestic Product (GDP) Price Deflator
+  of 2.8% (See: Gross Domestic Product: Implicit Price Deflator, FRED (2026)  fred.stlouisfed.org/series/GDPDEF ).
+
+    The FAA estimates the following costs to do any replacements 
+required based on the results of the inspection. The agency has no way 
+of determining the number of helicopters that might need this 
+replacement.
+
+                                               On Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replace cargo hook............................  4 work-hours x $85 per hour =            $62,136         $62,476
+                                                 $340.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+[[Page 39002]]
+
+PART 39--AIRWORTHINESS DIRECTIVES
 
 0
-1. The authority citation for part 52 continues to read as follows:
+1. The authority citation for part 39 continues to read as follows:
 
-    Authority:  42 U.S.C. 7401 et seq.
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
 
-Subpart LL--Oklahoma
+Sec.  39.13  [Amended]
 
 0
-2. In Sec.  52.1920:
-0
-a. In paragraph (c), revise and republish the table titled, ``EPA 
-Approved Oklahoma Regulations''; and
-0
-b. In paragraph (e), amend the second table titled ``EPA Approved 
-Statutes in the Oklahoma SIP'' by adding the entries for ``27A O.S. 2-
-1-102'' and ``27A O.S. 2-5-104'' in numerical order.
-    The revision and addition read as follows:
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
 
-Sec.  52.1920  Identification of plan.
+2026-12-10 Airbus Helicopters: Amendment 39-23380; Docket No. FAA-
+2025-3999; Project Identifier MCAI-2025-00176-R.
 
-* * * * *
-    (c) * * *
+(a) Effective Date
 
-                                        EPA Approved Oklahoma Regulations
-----------------------------------------------------------------------------------------------------------------
-                                                            State
-         State citation              Title/subject     effective date    EPA approval date       Explanation
-----------------------------------------------------------------------------------------------------------------
-                  OKLAHOMA ADMINISTRATIVE CODE, TITLE 252. DEPARTMENT OF ENVIRONMENTAL QUALITY
-----------------------------------------------------------------------------------------------------------------
-                             CHAPTER 4 (OAC 252:4). RULES OF PRACTICE AND PROCEDURE
-----------------------------------------------------------------------------------------------------------------
-                                        Subchapter 1. General Provisions
-----------------------------------------------------------------------------------------------------------------
-252:4-1-1......................  Purpose and               06/11/2001  04/10/2020, 85 FR
-                                  authority.                            20178.
-252:4-1-2......................  Definitions.........      09/15/2016  04/10/2020, 85 FR
-                                                                        20178.
-252:4-1-3......................  Organization........      09/15/2016  04/10/2020, 85 FR
-                                                                        20178.
-252:4-1-4......................  Office location and       06/11/2001  04/10/2020, 85 FR
-                                  hours;                                20178.
-                                  communications.
-252:4-1-5......................  Availability of a         07/01/2013  04/10/2020, 85 FR
-                                  record.                               20178.
+    This airworthiness directive (AD) is effective August 3, 2026.
 
-[[Page 40415]]
+(b) Affected ADs
 
- 
-252:4-1-6......................  Administrative fees.      06/15/2005  04/10/2020, 85 FR
-                                                                        20178.
-252:4-1-7......................  Fee credits for           06/11/2001  04/10/2020, 85 FR
-                                  regulatory fees.                      20178.
-252:4-1-8......................  Board and councils..      06/11/2001  04/10/2020, 85 FR
-                                                                        20178.
-252:4-1-9......................  Severability........      06/11/2001  04/10/2020, 85 FR
-                                                                        20178.
-----------------------------------------------------------------------------------------------------------------
-                                    Subchapter 3. Meetings and Public Forums
-----------------------------------------------------------------------------------------------------------------
-252:4-3-1......................  Meetings............      06/15/2007  04/10/2020, 85 FR
-                                                                        20178.
-252:4-3-2......................  Public forums.......      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-----------------------------------------------------------------------------------------------------------------
-                                            Subchapter 5. Rulemaking
-----------------------------------------------------------------------------------------------------------------
-252:4-5-1......................  Adoption and              06/11/2001  12/29/2008, 73 FR
-                                  revocation.                           79400.
-252:4-5-2......................  Rule development....      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-5-3......................  Petitions for             06/11/2001  12/29/2008, 73 FR
-                                  rulemaking.                           79400.
-252:4-5-4......................  Notice of permanent       06/11/2001  12/29/2008, 73 FR
-                                  rulemaking.                           79400.
-252:4-5-5......................  Rulemaking hearings.      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-5-6......................  Council actions.....      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-5-7......................  Presentation to           06/11/2001  12/29/2008, 73 FR
-                                  Board.                                79400.
-252:4-5-8......................  Board actions.......      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-5-9......................  Rulemaking record...      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-----------------------------------------------------------------------------------------------------------------
-                                   Subchapter 7. Environmental Permit Process
-----------------------------------------------------------------------------------------------------------------
-                                               PART 1. THE PROCESS
-----------------------------------------------------------------------------------------------------------------
-252:4-7-1......................  Authority...........      06/11/2001  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-2......................  Preamble............      06/11/2001  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-3......................  Compliance..........      06/11/2001  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-4......................  Filing an                 06/11/2001  07/02/2026, 91 FR
-                                  application.                          [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-5......................  Fees and fee refunds      09/15/2017  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-6......................  Receipt of                06/11/2001  07/02/2026, 91 FR
-                                  applications.                         [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-7......................  Administrative            06/11/2001  07/02/2026, 91 FR
-                                  completeness review.                  [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-8......................  Technical review....      06/11/2001  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-9......................  When review times         06/11/2001  07/02/2026, 91 FR
-                                  stop.                                 [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-10.....................  Supplemental time...      06/11/2001  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-11.....................  Extensions..........      06/11/2001  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
+    None.
 
-[[Page 40416]]
+(c) Applicability
 
- 
-252:4-7-12.....................  Failure to meet           06/11/2001  07/02/2026, 91 FR
-                                  deadline.                             [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-13.....................  Notices.............      09/15/2021  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-14.....................  Withdrawing               06/11/2001  07/02/2026, 91 FR
-                                  applications.                         [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-15.....................  Permit issuance or        07/01/2013  07/02/2026, 91 FR
-                                  denial.                               [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-16.....................  Tier II and III           06/11/2001  07/02/2026, 91 FR
-                                  modifications.                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-17.....................  Permit decision-          06/11/2001  07/02/2026, 91 FR
-                                  making authority.                     [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-18.....................  Pre-issuance permit       07/01/2013  07/02/2026, 91 FR
-                                  review and                            [INSERT FEDERAL
-                                  correction.                           REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-19.....................  Consolidation of          06/11/2001  07/02/2026, 91 FR
-                                  permitting process.                   [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-20.....................  Agency review of          07/01/2013  04/10/2020, 85 FR
-                                  final permit                          20178.
-                                  decisions.
-----------------------------------------------------------------------------------------------------------------
-                                PART 3. AIR QUALITY DIVISION TIERS AND TIME LINES
-----------------------------------------------------------------------------------------------------------------
-252:4-7-31.....................  Air quality time          06/11/2001  07/02/2026, 91 FR
-                                  lines.                                [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-32.....................  Air quality               09/15/2021  07/02/2026, 91 FR
-                                  applications--Tier                    [INSERT FEDERAL
-                                  I.                                    REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-33.....................  Air quality               09/15/2021  07/02/2026, 91 FR
-                                  applications--Tier                    [INSERT FEDERAL
-                                  II.                                   REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4-7-34.....................  Air quality               06/11/2001  11/26/2010, 75 FR
-                                  applications--Tier                    72695.
-                                  III.
-----------------------------------------------------------------------------------------------------------------
-                                    Subchapter 9. Administrative Proceedings
-----------------------------------------------------------------------------------------------------------------
-                                               PART 1. ENFORCEMENT
-----------------------------------------------------------------------------------------------------------------
-252:4-9-1......................  Notice of Violation       06/11/2001  12/29/2008, 73 FR
-                                  (``NOV'').                            79400.
-252:4-9-2......................  Administrative            06/11/2001  12/29/2008, 73 FR
-                                  compliance orders.                    79400.
-252:4-9-3......................  Determining penalty.      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-4......................  Assessment orders...      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-5......................  Considerations for        06/11/2001  12/29/2008, 73 FR
-                                  self-reporting of                     79400.
-                                  noncompliance.
-----------------------------------------------------------------------------------------------------------------
-                                         PART 3. INDIVIDUAL PROCEEDINGS
-----------------------------------------------------------------------------------------------------------------
-252:4-9-31.....................  Individual                06/11/2001  12/29/2008, 73 FR
-                                  proceedings filed                     79400.
-                                  by DEQ.
-252:4-9-32.....................  Individual                07/01/2013  04/10/2020, 85 FR
-                                  proceedings filed                     20178.
-                                  by others.
-252:4-9-33.....................  Scheduling and            06/11/2001  12/29/2008, 73 FR
-                                  notice of hearings.                   79400.
+    This AD applies to Airbus Helicopters Model AS350B, AS350BA, 
+AS350B1, AS350B2, AS350B3, and AS350D helicopters, certificated in 
+any category.
 
-[[Page 40417]]
+    Note 1 to paragraph (c):  Helicopters with AS350B3e designation 
+are Model AS350B3 helicopters.
 
- 
-252:4-9-34.....................  Administrative Law        06/11/2001  12/29/2008, 73 FR
-                                  Judges and Clerks.                    79400.
-252:4-9-35.....................  Service.............      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-36.....................  Responsive pleading.      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-37.....................  Prehearing                06/11/2001  12/29/2008, 73 FR
-                                  conferences.                          79400.
-252:4-9-38.....................  Discovery...........      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-39.....................  Subpoenas...........      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-40.....................  Record..............      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-41.....................  Motions.............      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-42.....................  Continuances........      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-43.....................  Summary judgment....      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-44.....................  Default.............      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-45.....................  Withdrawal and            06/11/2001  12/29/2008, 73 FR
-                                  dismissal.                            79400.
-252:4-9-46.....................  Orders in                 06/11/2001  12/29/2008, 73 FR
-                                  administrative                        79400.
-                                  hearings.
-----------------------------------------------------------------------------------------------------------------
-                                  PART 5. AIR QUALITY ADVISORY COUNCIL HEARINGS
-----------------------------------------------------------------------------------------------------------------
-252:4-9-51.....................  In general..........      06/01/2004  04/10/2020, 85 FR
-                                                                        20178.
-252:4-9-52.....................  Individual                06/01/2004  04/10/2020, 85 FR
-                                  proceedings.                          20178.
-252:4-9-53.....................  Variance............      06/11/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:4-9-54.....................  State implementation      06/11/2001  12/29/2008, 73 FR     NOT in SIP: in the
-                                  plan hearings.                        79400.                first sentence,
-                                                                                              the phrase ``under
-                                                                                              252:100-11'' and
-                                                                                              the last sentence
-                                                                                              which begins with
-                                                                                              ``Additional
-                                                                                              requirements for a
-                                                                                              SIP hearing * *
-                                                                                              *.''
-----------------------------------------------------------------------------------------------------------------
-                                       Subchapter 17. Electronic Reporting
-----------------------------------------------------------------------------------------------------------------
-252:4-17-1.....................  Purpose, authority        06/15/2007  04/10/2020, 85 FR
-                                  and applicability.                    20178.
-252:4-17-2.....................  Definitions.........      09/15/2016  04/10/2020, 85 FR
-                                                                        20178.
-252:4-17-3.....................  Use of electronic         06/15/2007  04/10/2020, 85 FR
-                                  document receiving                    20178.
-                                  system.
-252:4-17-4.....................  Electronic signature      09/15/2016  04/10/2020, 85 FR
-                                  agreement.                            20178.
-252:4-17-5.....................  Valid electronic          06/15/2007  04/10/2020, 85 FR
-                                  signature.                            20178.
-252:4-17-6.....................  Effect of electronic      06/15/2007  04/10/2020, 85 FR
-                                  signature.                            20178.
-252:4-17-7.....................  Enforcement.........      06/15/2007  04/10/2020, 85 FR
-                                                                        20178.
-----------------------------------------------------------------------------------------------------------------
-                                        Appendices for OAC 252: Chapter 4
-----------------------------------------------------------------------------------------------------------------
-252:4, Appendix A..............  Petition for              06/11/2001  12/29/2008, 73 FR
-                                  Rulemaking Before                     79400.
-                                  the Environmental
-                                  Quality Board.
-252:4, Appendix B..............  Petition for              06/11/2001  12/29/2008, 73 FR
-                                  Declaratory Ruling.                   79400.
-252:4, Appendix C..............  Permitting Process        09/15/2021  07/02/2026, 91 FR
-                                  Summary.                              [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:4, Appendix D..............  Style of the Case in      06/11/2001  12/29/2008, 73 FR
-                                  an Individual                         79400.
-                                  Proceeding.
-----------------------------------------------------------------------------------------------------------------
-                                CHAPTER 100 (OAC 252:100). AIR POLLUTION CONTROL
-----------------------------------------------------------------------------------------------------------------
-                                        Subchapter 1. General Provisions
-----------------------------------------------------------------------------------------------------------------
-252:100-1-1....................  Purpose.............      06/12/2003  09/28/2016, 81 FR
-                                                                        66535.
-252:100-1-2....................  Statutory                 09/15/2020  07/02/2026, 91 FR
-                                  definitions.                          [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-1-3....................  Definitions.........      09/15/2022  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-1-4....................  Units, abbreviations      09/15/2021  07/02/2026, 91 FR
-                                  and acronyms.                         [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-----------------------------------------------------------------------------------------------------------------
+(d) Subject
 
-[[Page 40418]]
+    Joint Aircraft System Component (JASC) Code 2500, Equipment/
+Furnishings.
 
- 
-                                    Subchapter 2: Incorporation by Reference
-----------------------------------------------------------------------------------------------------------------
-252:100-2-1....................  Purpose.............      07/01/2012  09/28/2016, 81 FR
-                                                                        66535.
-252:100-2-3....................  Incorporation by          09/16/2024  07/02/2026, 91 FR
-                                  reference.                            [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-----------------------------------------------------------------------------------------------------------------
-                               Subchapter 3. Air Quality Standards and Increments
-----------------------------------------------------------------------------------------------------------------
-252:100-3-1....................  Purpose.............      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-252:100-3-2....................  Primary standards...      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-252:100-3-3....................  Secondary standards.      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-252:100-3-4....................  Significant               07/01/2011  09/28/2016, 81 FR
-                                  deterioration                         66535.
-                                  increments.
-----------------------------------------------------------------------------------------------------------------
-                    Subchapter 5: Registration, Emission Inventory and Annual Operating Fees
-----------------------------------------------------------------------------------------------------------------
-252:100-5-1....................  Purpose.............      06/12/2000  04/10/2020, 85 FR
-                                                                        20178.
-252:100-5-1.1..................  Definitions.........      07/01/2009  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-5-2....................  Registration of           09/12/2014  08/30/2018, 83 FR
-                                  potential sources                     44236.
-                                  of air contaminants.
-252:100-5-2.1..................  Emission inventory..      09/15/2016  08/30/2018, 83 FR
-                                                                        44236.
-252:100-5-3....................  Confidentiality of        09/12/2014  08/30/2018, 83 FR
-                                  proprietary                           44236.
-                                  information.
-----------------------------------------------------------------------------------------------------------------
-                                   Subchapter 7. Permits for Minor Facilities
-----------------------------------------------------------------------------------------------------------------
-                                           PART 1. GENERAL PROVISIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-7-1....................  Purpose.............      06/25/1998  05/15/2017, 82 FR
-                                                                        22281.
-252:100-7-1.1..................  Definitions.........      09/15/2022  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-7-2....................  Requirement for           09/15/2022  07/02/2026, 91 FR
-                                  permits for minor                     [INSERT FEDERAL
-                                  facilities.                           REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-----------------------------------------------------------------------------------------------------------------
-                                          PART 3. CONSTRUCTION PERMITS
-----------------------------------------------------------------------------------------------------------------
-252:100-7-15...................  Construction permit.      09/15/2022  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-----------------------------------------------------------------------------------------------------------------
-                                            PART 4. OPERATING PERMITS
-----------------------------------------------------------------------------------------------------------------
-252:100-7-17...................  Relocation permits        06/25/1998  05/15/2017, 82 FR
-                                  for portable                          22281.
-                                  sources.
-252:100-7-18...................  Operating permit....      09/15/2021  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-----------------------------------------------------------------------------------------------------------------
-                                             PART 9. PERMITS BY RULE
-----------------------------------------------------------------------------------------------------------------
-252:100-7-60...................  Permit by rule......      09/12/2014  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-7-60.1.................  Cotton gins.........      06/11/1999  05/15/2017, 82 FR
-                                                                        22231.
-252:100-7-60.2.................  Grain elevators.....      06/11/1999  05/15/2017, 82 FR
-                                                                        22231.
-252:100-7-60.6.................  Emergency engine          09/15/2016  07/02/2026, 91 FR
-                                  facilities.                           [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
+(e) Unsafe Condition
 
-[[Page 40419]]
+    This AD was prompted by a report of a non-conformity of the 
+cargo hook. The FAA is issuing this AD to detect and correct a non-
+conformity of the cargo hook. The unsafe condition, if not 
+addressed, could result in loosening of the cargo hook, loss of the 
+load, and consequent injury to people on the ground.
 
- 
-252:100-7-60.7.................  Gasoline dispensing       09/15/2018  07/02/2026, 91 FR
-                                  facilities and                        [INSERT FEDERAL
-                                  gasoline dispensing                   REGISTER PAGE WHERE
-                                  facilities with                       THE DOCUMENT
-                                  emergency engines.                    BEGINS].
-----------------------------------------------------------------------------------------------------------------
-                                    Subchapter 8. Permits for Part 70 Sources
-----------------------------------------------------------------------------------------------------------------
-                                           PART 1. GENERAL PROVISIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-8-1....................  Purpose.............      06/25/1998  11/26/2010, 75 FR
-                                                                        72695.
-252:100-8-1.1..................  Definitions.........      07/01/2008  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-8-1.2..................  General information.      06/25/1998  11/26/2010, 75 FR
-                                                                        72695.
-252:100-8-1.3..................  Duty to comply......      06/25/1998  11/26/2010, 75 FR
-                                                                        72695.
-252:100-8-1.4..................  Cancellation or           06/01/2001  11/26/2010, 75 FR
-                                  extension of a                        72695.
-                                  construction permit
-                                  or authorization
-                                  under a general
-                                  construction permit.
-252:100-8-1.5..................  Stack height              06/01/2001  11/26/2010, 75 FR
-                                  limitations.                          72695.
-----------------------------------------------------------------------------------------------------------------
-                                       PART 5. PERMITS FOR PART 70 SOURCES
-----------------------------------------------------------------------------------------------------------------
-252:100-8-2....................  Definitions.........      09/15/2021  07/02/2026, 91 FR     NOT in SIP:
-                                                                        [INSERT FEDERAL       ``affected
-                                                                        REGISTER PAGE WHERE   source,''
-                                                                        THE DOCUMENT          ``affected unit,''
-                                                                        BEGINS].              paragraph (E) of
-                                                                                              ``applicable
-                                                                                              requirement,''
-                                                                                              ``designated
-                                                                                              representative,''
-                                                                                              ``responsible
-                                                                                              official,''
-                                                                                              ``small unit,''
-                                                                                              and ``unit''
-252:100-8-3....................  Applicability.......      06/01/2001  11/26/2010, 75 FR
-                                                                        72695.
-252:100-8-4....................  Requirements for          09/15/2022  07/02/2026, 91 FR     NOT in SIP: OAC
-                                  construction and                      [INSERT FEDERAL       252:100-8-4(b)(9)
-                                  operating permits.                    REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-8-5....................  Permit applications.      09/15/2021  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-8-6....................  Permit content......      06/15/2005  07/02/2026, 91 FR     NOT in SIP: OAC
-                                                                        [INSERT FEDERAL       252:100-8-6(a)(5)
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-8-6.1..................  General permits.....      06/15/2005  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-8-6.2..................  Temporary sources...      06/25/1998  11/26/2010, 75 FR
-                                                                        72695.
-252:100-8-7....................  Permit issuance.....      06/15/2005  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-8-7.1..................  Permit renewal and        06/11/2001  11/26/2010, 75 FR
-                                  expiration.                           72695.
-252:100-8-7.2..................  Administrative            09/15/2021  07/02/2026, 91 FR
-                                  permit amendments                     [INSERT FEDERAL
-                                  and permit                            REGISTER PAGE WHERE
-                                  modifications.                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-8-7.3..................  Reopening of              06/25/1998  11/26/2010, 75 FR
-                                  operating permits                     72695.
-                                  for cause.
-252:100-8-7.4..................  Revocations of            06/25/1998  11/26/2010, 75 FR
-                                  operating permits.                    72695.
-252:100-8-7.5..................  Judicial review.....      06/25/1998  11/26/2010, 75 FR
-                                                                        72695.
-252:100-8-8....................  Permit review by EPA      09/15/2021  07/02/2026, 91 FR
-                                  and affected states.                  [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-----------------------------------------------------------------------------------------------------------------
-             PART 7. PREVENTION OF SIGNIFICANT DETERIORATION (PSD) REQUIREMENTS FOR ATTAINMENT AREAS
-----------------------------------------------------------------------------------------------------------------
-252:100-8-30...................  Applicability.......      07/01/2009  09/28/2016, 81 FR
-                                                                        66535.
-252:100-8-31...................  Definitions.........      09/15/2017  04/10/2020, 85 FR
-                                                                        20178.
+(f) Compliance
 
-[[Page 40420]]
+    Comply with this AD within the compliance times specified, 
+unless already done.
 
- 
-252:100-8-32.1.................  Ambient air               06/15/2006  09/28/2016, 81 FR
-                                  increments and                        66535.
-                                  ceilings.
-252:100-8-32.2.................  Exclusion from            06/15/2006  09/28/2016, 81 FR
-                                  increment                             66535.
-                                  consumption.
-252:100-8-32.3.................  Stack heights.......      06/15/2006  09/28/2016, 81 FR
-                                                                        66535.
-252:100-8-33...................  Exemptions..........      09/15/2017  04/10/2020, 85 FR
-                                                                        20178.
-252:100-8-34...................  Control technology        06/15/2006  09/28/2016, 81 FR
-                                  review.                               66535.
-252:100-8-35...................  Air quality impact         9/15/2018  04/10/2020, 85 FR
-                                  evaluation.                           20178.
-252:100-8-35.1.................  Source information..      06/15/2006  09/28/2016, 81 FR
-                                                                        66535.
-252:100-8-35.2.................  Additional impact         06/15/2006  09/28/2016, 81 FR
-                                  analyses.                             66535.
-252:100-8-36...................  Source impacting          06/15/2006  09/28/2016, 81 FR
-                                  Class I areas.                        66535.
-252:100-8-36.1.................  Public participation      09/15/2022  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-8-36.2.................  Source obligation...      09/15/2022  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-8-37...................  Innovative control        07/01/2009  09/28/2016, 81 FR
-                                  technology.                           66535.
-252:100-8-38...................  Actuals PALs........      07/01/2009  09/28/2016, 81 FR
-                                                                        66535.
-252:100-8-39...................  Severability........      06/15/2006  09/28/2016, 81 FR
-                                                                        66535.
-----------------------------------------------------------------------------------------------------------------
-                               PART 9. MAJOR SOURCES AFFECTING NONATTAINMENT AREAS
-----------------------------------------------------------------------------------------------------------------
-252:100-8-50...................  Applicability.......      07/01/2009  09/28/2016, 81 FR
-                                                                        66535.
-252:100-8-50.1.................  Incorporation by          07/01/2011  09/28/2016, 81 FR
-                                  reference.                            66535.
-252:100-8-51...................  Definitions.........      07/01/2011  09/28/2016, 81 FR
-                                                                        66535.
-252:100-8-51.1.................  Emission reductions       09/15/2017  04/10/2020, 85 FR
-                                  and offsets.                          20178.
-252:100-8-52...................  Applicability             07/01/2011  09/28/2016, 81 FR
-                                  determination for                     66535.
-                                  sources in
-                                  attainment areas
-                                  causing or
-                                  contributing to
-                                  NAAQS violations.
-252:100-8-53...................  Exemptions..........      07/01/2009  09/28/2016, 81 FR
-                                                                        66535.
-252:100-8-54...................  Requirements for          06/15/2006  09/28/2016, 81 FR
-                                  sources located in                    66535.
-                                  nonattainment areas.
-252:100-8-54.1.................  Ozone and PM10            07/01/2009  09/28/2016, 81 FR
-                                  precursors.                           66535.
-252:100-8-55...................  Source obligation...      07/01/2009  09/28/2016, 81 FR
-                                                                        66535.
-252:100-8-56...................  Actuals PALS........      07/01/2009  09/28/2016, 81 FR
-                                                                        66535.
-252:100-8-57...................  Severability........      06/15/2006  09/28/2016, 81 FR
-                                                                        66535.
-----------------------------------------------------------------------------------------------------------------
-                                    PART 11. VISIBILITY PROTECTION STANDARDS
-----------------------------------------------------------------------------------------------------------------
-252:100-8-70 to 252:100-8-77...  Visibility                06/15/2007  12/28/2011, 76 FR
-                                  Protection                            81728.
-                                  Standards.
-----------------------------------------------------------------------------------------------------------------
-                                           Subchapter 13. Open Burning
-----------------------------------------------------------------------------------------------------------------
-252:100-13-1...................  Purpose.............      06/12/2000  12/29/2008, 73 FR
-                                                                        79400.
-252:100-13-2...................  Definitions.........      09/15/2020  04/25/2023, 88 FR
-                                                                        24918.
-252:100-13-5...................  Open burning              09/15/2020  04/25/2023, 88 FR
-                                  prohibited.                           24918.
-252:100-13-7...................  Allowed open burning      09/15/2022  01/26/2026, 90 FR
-                                                                        3046.
-252:100-13-8...................  Use of air curtain        09/15/2022  01/26/2026, 90 FR
-                                  incinerators.                         3046.
-252:100-13-8.1.................  Transported material      09/15/2022  01/26/2026, 91 FR
-                                                                        3046.
-252:100-13-9...................  General conditions        09/15/2020  04/25/2023, 88 FR
-                                  and requirements                      24918.
-                                  for allowed open
-                                  burning.
-252:100-13-10..................  Disaster relief.....      06/12/2000  12/29/2008, 73 FR
-                                                                        79400.
-252:100-13-11..................  Responsibility for        06/12/2000  12/29/2008, 73 FR
-                                  consequences of                       79400.
-                                  open burning.
-----------------------------------------------------------------------------------------------------------------
-                                           Subchapter 17. Incinerators
-----------------------------------------------------------------------------------------------------------------
-                                           PART 1. GENERAL PROVISIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-17-1...................  Purpose.............      07/11/2010  11/03/2015, 80 FR
-                                                                        67650.
-252:100-17-1.1.................  Reference to 40 CFR.      07/11/2010  11/03/2015, 80 FR
-                                                                        67650.
-252:100-17-1.3.................  Incinerators and          07/11/2010  11/03/2015, 80 FR
-                                  fuel-burning                          67650.
-                                  equipment or units.
-----------------------------------------------------------------------------------------------------------------
+(g) Requirements
 
-[[Page 40421]]
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency AD 2025-0036, 
+dated February 12, 2025 (EASA AD 2025-0036).
 
- 
-                                      PART 3. GENERAL PURPOSE INCINERATORS
-----------------------------------------------------------------------------------------------------------------
-252:100-17-2...................  Applicability.......      09/12/2014  08/01/2019, 84 FR
-                                                                        37579.
-252:100-17-2.1.................  Exemptions..........      07/11/2010  11/03/2015, 80 FR
-                                                                        67650.
-252:100-17-2.2.................  Definitions.........      07/11/2010  11/03/2015, 80 FR
-                                                                        67650.
-252:100-17-3...................  Opacity.............      06/25/1998  12/29/2008, 73 FR
-                                                                        79400.
-252:100-17-4...................  Particulate matter..      07/11/2010  11/03/2015, 80 FR
-                                                                        67650.
-252:100-17-5...................  Incinerator design        07/11/2010  11/03/2015, 80 FR
-                                  and operation                         67650.
-                                  requirements.
-252:100-17-5.1.................  Alternative               07/11/2010  11/03/2015, 80 FR
-                                  incinerator design                    67650.
-                                  requirements.
-252:100-17-7...................  Test methods........      07/11/2010  11/03/2015, 80 FR
-                                                                        67650.
-----------------------------------------------------------------------------------------------------------------
-                                      PART 4. BIOMEDICAL WASTE INCINERATORS
-----------------------------------------------------------------------------------------------------------------
-252:100-17-8...................  Applicability.......      07/01/2011  11/03/2015, 80 FR
-                                                                        67650.
-252:100-17-9...................  Definitions.........      07/01/2011  11/03/2015, 80 FR
-                                                                        67650.
-252:100-17-10..................  Design and operation      07/01/2011  11/03/2015, 80 FR
-                                                                        67650.
-252:100-17-11..................  Emission limits.....      07/01/2011  11/03/2015, 80 FR
-                                                                        67650.
-----------------------------------------------------------------------------------------------------------------
-                            Subchapter 19. Control of Emission of Particulate Matter
-----------------------------------------------------------------------------------------------------------------
-252:100-19-1...................  Purpose.............      06/01/2000  12/29/2008, 73 FR
-                                                                        79400.
-252:100-19-1.1.................  Definitions.........      07/01/2009  11/03/2015, 80 FR
-                                                                        67650.
-252:100-19-4...................  Allowable                 06/01/2000  12/29/2008, 73 FR
-                                  particulate matter                    79400.
-                                  emission rates from
-                                  fuel-burning units.
-252:100-19-10..................  Allowable                 06/01/2000  12/29/2008, 73 FR
-                                  particulate matter                    79400.
-                                  emission rates from
-                                  indirectly fired
-                                  wood fuel-burning
-                                  units.
-252:100-19-11..................  Allowable                 07/01/2009  11/03/2015, 80 FR
-                                  particulate matter                    67650.
-                                  emission rates from
-                                  combined wood fuel
-                                  and fossil fuel
-                                  fired steam
-                                  generating units.
-252:100-19-12..................  Allowable                 06/01/2000  12/29/2008, 73 FR
-                                  particulate matter                    79400.
-                                  emission rates from
-                                  directly fired fuel-
-                                  burning units and
-                                  industrial
-                                  processes.
-252:100-19-13..................  Permit by rule......      06/01/2000  12/29/2008, 73 FR
-                                                                        79400.
-----------------------------------------------------------------------------------------------------------------
-                              Subchapter 23. Control of Emissions From Cotton Gins
-----------------------------------------------------------------------------------------------------------------
-252:100-23-1...................  Purpose.............      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-23-2...................  Definitions.........      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-23-3...................  Applicability,            09/16/2024  07/02/2026, 91 FR     NOT in SIP:
-                                  general                               [INSERT FEDERAL       paragraph (b)(2)
-                                  requirements.                         REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-23-4...................  Visible emissions         06/01/1999  12/29/2008, 73 FR
-                                  (opacity) and                         79400.
-                                  particulates.
-252:100-23-5...................  Emission control          06/01/1999  12/29/2008, 73 FR
-                                  equipment.                            79400.
-252:100-23-6...................  Fugitive dust             06/01/1999  12/29/2008, 73 FR
-                                  controls.                             79400.
-252:100-23-7...................  Permit by rule......      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-----------------------------------------------------------------------------------------------------------------
-                 Subchapter 24. Particulate Matter Emissions From Grain, Feed or Seed Operations
-----------------------------------------------------------------------------------------------------------------
-252:100-24-1...................  Purpose.............      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-24-2...................  Definitions.........      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-24-3...................  Applicability,            06/01/2000  12/29/2008, 73 FR     NOT in SIP:
-                                  general                               79400.                paragraph (b)(2).
-                                  requirements.
-252:100-24-4...................  Visible emissions         06/01/1999  12/29/2008, 73 FR
-                                  (opacity) limit.                      79400.
-252:100-24-5...................  Certification.......      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-24-6...................  Fugitive dust             06/01/1999  12/29/2008, 73 FR
-                                  controls.                             79400.
-252:100-24-7...................  Permit by rule......      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-----------------------------------------------------------------------------------------------------------------
-                                Subchapter 25. Visible Emissions and Particulates
-----------------------------------------------------------------------------------------------------------------
-252:100-25-1...................  Purpose.............      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-25-2...................  General prohibition.      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-25-2.1.................  Definitions.........      06/01/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-25-3...................  Opacity limit.......      07/01/2009  11/03/2015, 80 FR
-                                                                        67650.
-252:100-25-4...................  Alternative for           06/01/1999  12/29/2008, 73 FR
-                                  particulates.                         79400.
+(h) Exceptions to EASA AD 2025-0036
 
-[[Page 40422]]
+    (1) Where EASA AD 2025-0036 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2025-0036 defines sling cycles, for the 
+purposes of this AD, a sling cycle is defined as one release with 
+load on ground equals one sling cycle, and one release with load in-
+flight equals three sling cycles.
+    (3) Where the material referenced in EASA AD 2025-0036 specifies 
+``check'', this AD requires replacing that text with ``inspect''.
+    (4) Where the material referenced in EASA AD 2025-0036 specifies 
+to return parts for repair, this AD does not require those actions.
+    (5) This AD does not adopt the ``Remarks'' section of EASA AD 
+2025-0036.
 
- 
-252:100-25-5...................  Continuous emission       07/01/2013  08/01/2019, 84 FR
-                                  monitoring for                        37579.
-                                  opacity.
-----------------------------------------------------------------------------------------------------------------
-                                     Subchapter 29. Control of Fugitive Dust
-----------------------------------------------------------------------------------------------------------------
-252:100-29-1...................  Purpose.............      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-252:100-29-2...................  General provisions..      06/01/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:100-29-3...................  Precautions required      06/01/2001  12/29/2008, 73 FR
-                                  in maintenance or                     79400.
-                                  nonattainment areas.
-252:100-29-4...................  Exception for             05/26/1994  11/03/1999, 64 FR
-                                  agricultural                          59629.
-                                  purposes.
-----------------------------------------------------------------------------------------------------------------
-                             Subchapter 31. Control of Emission of Sulfur Compounds
-----------------------------------------------------------------------------------------------------------------
-                                           PART 1. GENERAL PROVISIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-31-1...................  Purpose.............      07/01/2012  08/01/2019, 84 FR
-                                                                        37579.
-252:100-31-2...................  Definitions.........      07/01/2012  08/01/2019, 84 FR
-                                                                        37579.
-----------------------------------------------------------------------------------------------------------------
-   PART 2. AMBIENT AIR CONCENTRATION LIMITS OR IMPACTS FOR NEW AND EXISTING EQUIPMENT, SOURCES, OR FACILITIES
-----------------------------------------------------------------------------------------------------------------
-252:100-31-7...................  Allowable hydrogen        07/01/2012  08/01/2019, 84 FR
-                                  sulfide (H2S)                         37579.
-                                  ambient air
-                                  concentrations for
-                                  new and existing
-                                  sources.
-----------------------------------------------------------------------------------------------------------------
-                                      PART 3. EXISTING EQUIPMENT STANDARDS
-----------------------------------------------------------------------------------------------------------------
-252:100-31-13..................  Requirements for          07/01/2012  08/01/2019, 84 FR
-                                  existing sulfuric                     37579.
-                                  acid plants.
-252:100-31-15..................  Requirements for          07/01/2012  08/01/2019, 84 FR
-                                  existing kraft pulp                   37579.
-                                  mills.
-252:100-31-16..................  Requirements for          07/01/2012  08/01/2019, 84 FR
-                                  existing fossil                       37579.
-                                  fuel-fired steam
-                                  generators.
-----------------------------------------------------------------------------------------------------------------
-                                         PART 5. NEW EQUIPMENT STANDARDS
-----------------------------------------------------------------------------------------------------------------
-252:100-31-25..................  Requirements for new      07/01/2013  08/01/2019, 84 FR
-                                  fuel-burning                          37579.
-                                  equipment.
-252:100-31-26..................  Requirements for new      07/01/2012  08/01/2019, 84 FR
-                                  petroleum and                         37579.
-                                  natural gas
-                                  processes.
-----------------------------------------------------------------------------------------------------------------
-                              Subchapter 33. Control of Emission of Nitrogen Oxides
-----------------------------------------------------------------------------------------------------------------
-252:100-33-1...................  Purpose.............      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-252:100-33-1.1.................  Definitions.........      06/01/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:100-33-1.2.................  Applicability.......      06/01/2001  12/29/2008, 73 FR
-                                                                        79400.
-252:100-33-2...................  Emission limits.....      06/01/2001  12/29/2008, 73 FR
-                                                                        79400.
-----------------------------------------------------------------------------------------------------------------
-                              Subchapter 35. Control of Emission of Carbon Monoxide
-----------------------------------------------------------------------------------------------------------------
-252:100-35-1...................  Purpose.............      09/16/2024  07/02/2026, 91 FR
-                                                                        [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-252:100-35-1.1.................  Definitions.........      06/01/2000  12/29/2008, 73 FR
-                                                                        79400.
-252:100-35-2...................  Emission limits.....      06/01/2000  12/29/2008, 73 FR
-                                                                        79400.
-----------------------------------------------------------------------------------------------------------------
-                     Subchapter 37. Control of Emission of Volatile Organic Compounds (VOC)
-----------------------------------------------------------------------------------------------------------------
-                                           PART 1. GENERAL PROVISIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-37-1...................  Purpose.............      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-37-2...................  Definitions.........      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-37-3...................  Applicability and         06/11/1999  12/29/2008, 73 FR
-                                  compliance.                           79400.
-252:100-37-4...................  Exemptions..........      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-37-5...................  Operation and             06/11/1999  12/29/2008, 73 FR
-                                  maintenance.                          79400.
-----------------------------------------------------------------------------------------------------------------
-                            PART 3. CONTROL OF VOCS IN STORAGE AND LOADING OPERATIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-37-15..................  Storage of VOCs.....      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
+(i) Special Flight Permits
 
-[[Page 40423]]
+    Special flight permits may be issued in accordance with 14 CFR 
+21.197 and 21.199, provided there are no external load operations.
 
- 
-252:100-37-16..................  Loading of VOCs.....      09/15/2020  12/28/2023, 88 FR
-                                                                        89589.
-----------------------------------------------------------------------------------------------------------------
-                                  PART 5. CONTROL OF VOCS IN COATING OPERATIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-37-25..................  Coating of parts and      06/11/1999  12/29/2008, 73 FR
-                                  products.                             79400.
-252:100-37-26..................  Clean up with VOCs..      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-37-27..................  Control of emission       09/15/2020  04/25/2023, 88 FR
-                                  of VOCs from                          24918.
-                                  aerospace
-                                  industries coatings
-                                  operations.
-----------------------------------------------------------------------------------------------------------------
-                                      PART 7. CONTROL OF SPECIFIC PROCESSES
-----------------------------------------------------------------------------------------------------------------
-252:100-37-35..................  Waste gas disposal..      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-37-36..................  Fuel-burning and          06/11/1999  12/29/2008, 73 FR
-                                  refuse-burning                        79400.
-                                  equipment.
-252:100-37-37..................  Effluent water            06/11/1999  12/29/2008, 73 FR
-                                  separators.                           79400.
-252:100-37-38..................  Pumps and                 06/11/1999  12/29/2008, 73 FR
-                                  compressors.                          79400.
-----------------------------------------------------------------------------------------------------------------
-                          PART 9. PERMIT BY RULE FOR VOC STORAGE AND LEADING FACILITIES
-----------------------------------------------------------------------------------------------------------------
-252:100-37-41..................  Applicability.......      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-37-42..................  Permit-by-rule            06/11/1999  12/29/2008, 73 FR
-                                  requirements.                         79400.
-----------------------------------------------------------------------------------------------------------------
-  Subchapter 39. Emission of Volatile Organic Compounds (VOCS) in Nonattainment Areas and Former Nonattainment
-                                                      Areas
-----------------------------------------------------------------------------------------------------------------
-                                           PART 1. GENERAL PROVISIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-39-1...................  Purpose.............      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-39-2...................  Definitions.........      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-39-3...................  General                   06/11/1999  12/29/2008, 73 FR
-                                  applicability.                        79400.
-252:100-39-4...................  Exemptions..........      09/15/2019  07/29/2022, 87 FR
-                                                                        45654.
-----------------------------------------------------------------------------------------------------------------
-                                      PART 3. PETROLEUM REFINERY OPERATIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-39-15..................  Petroleum refinery        06/11/1999  12/29/2008, 73 FR
-                                  equipment leaks.                      79400.
-252:100-39-16..................  Petroleum refinery        09/15/2019  7/29/2022, 87 FR
-                                  process unit                          45654.
-                                  turnaround.
-252:100-39-17..................  Petroleum refinery        06/11/1999  12/29/2008, 73 FR
-                                  vacuum producing                      79400.
-                                  system.
-252:100-39-18..................  Petroleum refinery        06/11/1999  12/29/2008, 73 FR
-                                  effluent water                        79400.
-                                  separators.
-----------------------------------------------------------------------------------------------------------------
-                                    PART 5. PETROLEUM PROCESSING AND STORAGE
-----------------------------------------------------------------------------------------------------------------
-252:100-39-30..................  Petroleum liquid          06/11/1999  12/29/2008, 73 FR
-                                  storage in vessels                    79400.
-                                  with external
-                                  floating roofs.
-----------------------------------------------------------------------------------------------------------------
-                                           PART 7. SPECIFIC OPERATIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-39-40..................  Cutback asphalt           09/15/2019  07/29/2022, 87 FR
-                                  (paving).                             45654.
-252:100-39-41..................  Storage, loading and      09/15/2019  07/29/2022, 87 FR
-                                  transport/delivery                    45654.
-                                  of VOCs.
-252:100-39-42..................  Metal cleaning......      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-39-43..................  Graphic arts systems      06/11/1999  12/29/2008, 73 FR
-                                                                        79400.
-252:100-39-44..................  Manufacture of            06/11/1999  12/29/2008, 73 FR
-                                  pneumatic rubber                      79400.
-                                  tires.
-252:100-39-45..................  Petroleum (solvent)       09/15/2020  12/28/2023, 88 FR
-                                  dry cleaning.                         89589.
-252:100-39-46..................  Coating of parts and      06/11/1999  12/29/2008, 73 FR
-                                  products.                             79400.
-252:100-39-47..................  Control of VOC            09/15/2020  04/25/2023, 88 FR
-                                  emissions from                        24918.
-                                  aerospace
-                                  industries coatings
-                                  operations.
-----------------------------------------------------------------------------------------------------------------
-                                   Subchapter 43. Sampling and Testing Methods
-----------------------------------------------------------------------------------------------------------------
-                                           PART 1. GENERAL PROVISIONS
-----------------------------------------------------------------------------------------------------------------
-252:100-43-1...................  Purpose.............      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-252:100-43-2...................  Test procedures.....      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-252:100-43-3...................  Conduct of tests....      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-----------------------------------------------------------------------------------------------------------------
+(j) Alternative Methods of Compliance (AMOCs)
 
-[[Page 40424]]
+    (1) The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the manager of the International Validation Branch, send it to the 
+attention of the person identified in paragraph (k) of this AD and 
+email to:   [email&#160;protected]  .
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
 
- 
-                                            PART 3. SPECIFIC METHODS
-----------------------------------------------------------------------------------------------------------------
-252:100-43-15..................  Gasoline vapor leak       05/26/1994  11/03/1999, 64 FR
-                                  detection procedure                   59629.
-                                  by combustible gas
-                                  detector.
-----------------------------------------------------------------------------------------------------------------
-                                     Subchapter 45. Monitoring of Emissions
-----------------------------------------------------------------------------------------------------------------
-252:100-45-1...................  Purpose.............      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-252:100-45-2...................  Monitoring equipment      05/26/1994  11/03/1999, 64 FR
-                                  required.                             59629.
-252:100-45-3...................  Records required....      05/26/1994  11/03/1999, 64 FR
-                                                                        59629.
-252:100-45-4...................  Compliance                07/01/1995  12/29/2008, 73 FR
-                                  certifications.                       79400.
-252:100-45-5...................  Enforceability......      07/01/1995  12/29/2008, 73 FR
-                                                                        79400.
-----------------------------------------------------------------------------------------------------------------
-                                       Appendices for OAC 252: Chapter 100
-----------------------------------------------------------------------------------------------------------------
-252:100, Appendix A............  Allowable                 07/11/2010  11/03/2015, 80 FR
-                                  Particulate Matter                    67650.
-                                  Emission Rate for
-                                  Incinerators.
-252:100, Appendix C............  Allowable                 07/01/2009  11/03/2015, 80 FR
-                                  Particulate Matter                    67650.
-                                  Emission Rates for
-                                  Indirectly Fired
-                                  Fuel-Burning Units.
-252:100, Appendix D............  Allowable                 07/01/2009  11/03/2015, 80 FR
-                                  Particulate Matter                    67650.
-                                  Emission Rates for
-                                  Indirectly Fired
-                                  Wood Fuel-Burning
-                                  Units.
-252:100, Appendix E............  Primary Ambient Air       09/15/2016  08/01/2019, 84 FR
-                                  Quality Standards.                    37579.
-252:100, Appendix F............  Secondary Ambient         09/15/2016  08/01/2019, 84 FR
-                                  Air Quality                           37579.
-                                  Standards.
-252:100, Appendix G............  Allowable                 07/01/2009  11/03/2015, 80 FR
-                                  Particulate Matter                    67650.
-                                  Emission Rates for
-                                  Directly Fired Fuel-
-                                  Burning Units and
-                                  Industrial Process.
-252:100, Appendix H............  De minimis                06/25/1998  05/15/2017, 82 FR     NOT in SIP: ``and/
-                                  Facilities.                           22281.                pr toxic.''
-252:100, Appendix L............  PM-10 Emission            06/01/1999  12/29/2008, 73 FR
-                                  Factors for Permit                    79400.
-                                  by Rule for Grain
-                                  Elevators.
-252:100, Appendix N............  Specialty Coatings        09/15/2020  04/25/2023, 88 FR
-                                  VOC Content Limits.                   24918.
-252:100, Appendix P............  Regulated Air             06/15/2007  09/28/2016, 81 FR
-                                  Pollutants.                           66535.
-252:100, Appendix Q............  Incorporation by          09/16/2024  07/02/2026, 91 FR
-                                  reference.                            [INSERT FEDERAL
-                                                                        REGISTER PAGE WHERE
-                                                                        THE DOCUMENT
-                                                                        BEGINS].
-----------------------------------------------------------------------------------------------------------------
-  OKLAHOMA ADMINISTRATIVE CODE, TITLE 595. DEPARTMENT OF PUBLIC SAFETY, CHAPTER 20 (OAC 595:20). INSPECTION AND
-                                          EQUIPMENT FOR MOTOR VEHICLES
-----------------------------------------------------------------------------------------------------------------
-                          Subchapter 3. Emission and Mechanical Inspection of Vehicles
-----------------------------------------------------------------------------------------------------------------
-595:20-3-1.....................  General instructions      05/26/1994  02/29/1996, 61 FR     Subsection (2)
-                                                                        7709.                 only.
-595:20-3-3.....................  When emission anti-       05/26/1994  02/29/1996, 61 FR
-                                  tampering                             7709.
-                                  inspection required
-                                  where population
-                                  less than 500,000.
-595:20-3-5.....................  Emission inspection       05/26/1994  02/29/1996, 61 FR
-                                  areas.                                7709.
-595:20-3-6.....................  Documentation for         05/26/1994  02/29/1996, 61 FR
-                                  every inspection.                     7709.
-595:20-3-12....................  Inspection required       05/26/1994  02/29/1996, 61 FR
-                                  each year.                            7709.
-595:20-3-25....................  Motorcycle or motor-      05/26/1994  02/29/1996, 61 FR
-                                  driven cycles                         7709.
-                                  (Class ``B'').
-595:20-3-26....................  Trailer and               05/26/1994  02/29/1996, 61 FR
-                                  semitrailer trucks,                   7709.
-                                  (Class ``C'').
-595:20-3-27....................  School Buses (Class       05/26/1994  02/29/1996, 61 FR
-                                  ``D'').                               7709.
-595:20-3-41....................  Supervisory               05/26/1994  02/29/1996, 61 FR     Subsection (o)
-                                  responsibility of                     7709.                 only.
-                                  inspection station
-                                  owners and
-                                  operators.
-595:20-3-42....................  Responsibility for        05/26/1994  02/29/1996, 61 FR
-                                  signs, forms, etc.                    7709.
-595:20-3-46....................  Security measures...      05/26/1994  02/29/1996, 61 FR     Subsections (a) and
-                                                                        7709.                 (b) only.
-595:20-3-61....................  Refund of unused          05/26/1994  02/29/1996, 61 FR     Subsections (a),
-                                  stickers.                             7709.                 (b), (e), and (f)
-                                                                                              only.
+(k) Additional Information
 
-[[Page 40425]]
+    For more information about this AD, contact Yves Petiote, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: (202) 975-4867; email: 
+  [email&#160;protected]  .
 
- 
-595:20-3-63....................  Rejected vehicles...      05/26/1994  02/29/1996, 61 FR     Subsections (b) and
-                                                                        7709.                 (g) only.
-----------------------------------------------------------------------------------------------------------------
-         Subchapter 7. Inspection Stickers and Monthly Tab Inserts for Windshield and Trailer/Motorcycle
-----------------------------------------------------------------------------------------------------------------
-595:20-7-1.....................  General.............      05/26/1994  02/29/1996, 61 FR     Subsections (c) and
-                                                                        7709.                 (f) only.
-595:20-7-2.....................  Inspection                05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  certificate.                          7709.                 only.
-595:20-7-3.....................  Rejection receipt--       05/26/1994  02/29/1996, 61 FR
-                                  Form VID 44.                          7709.
-595:20-7-4.....................  Station monthly           05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  report--Form VID 21.                  7709.                 only.
-595:20-7-5.....................  Signature card--Form      05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  VID 17.                               7709.                 only.
-595:20-7-6.....................  Request for               05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  inspection                            7709.                 only.
-                                  stickers--Form VID
-                                  19.
-595:20-7-7.....................  Request for refund--      05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  Form VID 25.                          7709.                 only.
-----------------------------------------------------------------------------------------------------------------
-              Subchapter 9. Class AE Inspection Station, Vehicle Emission Anti-Tampering Inspection
-----------------------------------------------------------------------------------------------------------------
-595:20-9-1.....................  General.............      05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                                                        7709.                 only.
-595:20-9-3.....................  Vehicle emission          05/26/1994  02/29/1996, 61 FR     Subsections (l) and
-                                  inspection.                           7709.                 (m) only.
-595:20-9-7.....................  Catalytic Converter       05/26/1994  02/29/1996, 61 FR
-                                  System (C.A.T.).                      7709.
-595:20-9-10....................  Evaporative emission      05/26/1994  02/29/1996, 61 FR     Subsections (a),
-                                  control system                        7709.                 (b), and (c) only.
-                                  (E.N.P.).
-595:20-9-11....................  Air injection system      05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  (A.I.S. or A.I.R.).                   7709.                 only.
-595:20-9-12....................  Positive crankcase        05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  ventilation system                    7709.                 only.
-                                  (P.C.V. Valve).
-595:20-9-13....................  Oxygen sensor.......      05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                                                        7709.                 only.
-595:20-9-14....................  Thermostatic air          05/26/1994  02/29/1996, 61 FR     Subsections (a) and
-                                  intake system                         7709.                 (b) only.
-                                  (T.A.C).
-595:20-9-15....................  Exhaust gas               05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  recirculation                         7709.                 only.
-                                  system (E.G.R.).
-----------------------------------------------------------------------------------------------------------------
-    Subchapter 11. Annual Motor Vehicle Inspection and Emission Anti-Tampering Inspection Records and Reports
-----------------------------------------------------------------------------------------------------------------
-595:20-11-1....................  General.............      05/26/1994  02/29/1996, 61 FR
-                                                                        7709.
-595:20-11-2....................  Inspection                05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  certificate--VEC-1.                   7709.                 only.
-595:20-11-3....................  Rejection                 05/26/1994  02/29/1996, 61 FR     Subsection (a)
-                                  certificate--VIID-4                   7709.                 only.
-                                  4.
-595:20-11-4....................  Appeal procedure....      05/26/1994  02/29/1996, 61 FR     ...................
-                                                                        7709.
-----------------------------------------------------------------------------------------------------------------
+(l) Material Incorporated by Reference
 
-* * * * *
-    (e) * * *
-    EPA Approved Statutes in the Oklahoma SIP
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2025-0036, 
+dated February 12, 2025.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 8999 
+000; email:   [email&#160;protected]  ; website: easa.europa.eu. You may 
+find this material on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit  www.archives.gov/federal-register/cfr/ibr-locations  or email   [email&#160;protected]  .
 
-----------------------------------------------------------------------------------------------------------------
-                                                            State
-         State citation              Title/subject     effective date    EPA approval date       Explanation
-----------------------------------------------------------------------------------------------------------------
- 
-                                                  * * * * * * *
-27A O.S. 2-1-102...............  Oklahoma                  07/01/1993  07/02/2026, 91 FR     SIP only includes
-                                  Environmental                         [INSERT FEDERAL       definitions of
-                                  Quality Code,                         REGISTER PAGE WHERE   ``Department,''
-                                  Definitions.                          THE DOCUMENT          ``Executive
-                                                                        BEGINS].              Director,'' and
-                                                                                              ``Person''.
-
-[[Page 40426]]
-
- 
-27A O.S. 2-5-104...............  Oklahoma Clean Air        07/01/1993  07/02/2026, 91 FR     SIP only includes
-                                  Act, Definitions.                     [INSERT FEDERAL       definitions of
-                                                                        REGISTER PAGE WHERE   ``Air
-                                                                        THE DOCUMENT          contaminants,''
-                                                                        BEGINS].              ``Air pollution,''
-                                                                                              ``Council,''
-                                                                                              ``Director,'' and
-                                                                                              ``Person''.
- 
-                                                  * * * * * * *
-----------------------------------------------------------------------------------------------------------------
-
-[FR Doc. 2026-13398 Filed 7-1-26; 8:45 am]
-BILLING CODE 6560-50-P
+    Issued on June 11, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-13060 Filed 6-26-26; 8:45 am]
+BILLING CODE 4910-13-P

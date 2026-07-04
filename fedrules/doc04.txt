@@ -1,488 +1,1005 @@
-[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
+[Federal Register Volume 91, Number 119 (Tuesday, June 23, 2026)]
 [Rules and Regulations]
-[Pages 38540-38543]
+[Pages 37341-37348]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-12927]
+[FR Doc No: 2026-12566]
 
+=======================================================================
 -----------------------------------------------------------------------
 
-ENVIRONMENTAL PROTECTION AGENCY
+DEPARTMENT OF COMMERCE
 
-40 CFR Part 268
+National Oceanic and Atmospheric Administration
 
-[EPA-HQ-OLEM-2025-2038; FRL-8504-04-OLEM]
-RIN 2050-AH21
+50 CFR Part 660
 
-U.S. Ecology Nevada, Inc. High Mercury Subcategory Wastes Land 
-Disposal Restrictions Variance
+[Docket No. 260615-0144]
+RIN 0648-BN95
 
-AGENCY: Environmental Protection Agency (EPA).
+Magnuson-Stevens Act Provisions; Fisheries off West Coast States; 
+Pacific Coast Groundfish Fishery; Cordell Bank Groundfish Conservation 
+Area Revisions
+
+AGENCY: National Marine Fisheries Service (NMFS), National Oceanic and 
+Atmospheric Administration (NOAA), Commerce.
 
 ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The Environmental Protection Agency (EPA) is granting, with 
-conditions, U.S. Ecology Nevada Inc.'s (USE) petition for a site-
-specific treatability variance (SSTV) from the Resource Conservation 
-and Recovery Act (RCRA) Land Disposal Restrictions (LDR) treatment 
-standards. USE's petition is for a variance from the existing treatment 
-and disposal standard for elemental mercury waste generated from 
-retorting high mercury waste as prescribed by the LDR technology-based 
-standard of RMERC. The petition demonstrated that the LDR standard for 
-placing elemental mercury waste generated from RMERC back into commerce 
-for reuse is inappropriate and the alternative treatment variance 
-proposed by USE is sufficient to minimize threats to human health and 
-the environment posed by land disposal of the waste. Under the approved 
-SSTV, the existing LDR treatment standard of RMERC will continue to 
-apply to high mercury hazardous wastes, but the elemental mercury 
-generated from this process will be treated and land disposed subject 
-to specified conditions at both Bethlehem Apparatus's facility in 
-Bethlehem, Pennsylvania, and USE's Beatty, Nevada, subtitle C 
-treatment, storage, and disposal (TSD) facility where the treated 
-mercury wastes will be disposed in a designated RCRA subtitle C 
-compliant monofill.
+SUMMARY: NMFS is issuing final regulations to remove the Cordell Bank 
+Groundfish Conservation Area off central California for all groundfish 
+fisheries and implement a new Groundfish Exclusion Area for all 
+groundfish fisheries to protect sensitive habitat. The purpose of this 
+action is to simplify regulatory complexity associated with overlapping 
+fishery closures in the Cordell Bank area, and to increase fishing 
+opportunities while still protecting the Cordell Bank ecosystem.
 
-DATES: This final rule is effective July 27, 2026.
+DATES: Effective June 23, 2026.
 
-FOR FURTHER INFORMATION CONTACT: Bethany Russell, Waste 
-Characterization Branch, Waste Identification, Notice, and Generators 
-Division, Office of Resource Conservation and Recovery (5304P), 
-Environmental Protection Agency, 1200 Pennsylvania Ave. NW, Washington, 
-DC 20460; telephone number: (202) 566-0823; email address: 
-  [email&#160;protected]  .
+ADDRESSES: Information relevant to this action, including the 
+integrated analysis that addresses the National Environmental Policy 
+Act (NEPA), Presidential Executive Order 12866, the Regulatory 
+Flexibility Act, and the statutory requirements of the Magnuson-Stevens 
+Fishery Conservation and Management Act (Magnuson-Stevens Act or MSA) 
+(collectively referred to as ``the Analysis''), may be obtained from 
+the NMFS West Coast Region Groundfish website at:  https://www.fisheries.noaa.gov/action/cordell-bank-area-revisions .
 
-SUPPLEMENTARY INFORMATION:
+FOR FURTHER INFORMATION CONTACT: Lynn Massey, phone: 562-900-2060, or 
+email:   [email&#160;protected]  .
 
-I. General Information
+SUPPLEMENTARY INFORMATION: The Pacific Coast groundfish fishery in the 
+U.S. exclusive economic zone (EEZ) seaward of Washington, Oregon, and 
+California is managed under the Pacific Coast Groundfish Fishery 
+Management Plan (hereafter, Groundfish FMP). The Pacific Fishery 
+Management Council (Council) developed the Groundfish FMP pursuant to 
+the Magnuson-Stevens Act, 16 U.S.C. 1801 et seq. The Secretary of 
+Commerce approved the Groundfish FMP and implemented the provisions of 
+the plan at 50 CFR part 660, subparts C through G. Species managed 
+under the Groundfish FMP include roundfish, flatfish, rockfish, sharks, 
+and skates.
+    This final rule (also referred to as the ``action'') includes 
+regulations that remove the Cordell Bank Groundfish Conservation Area 
+(GCA) off central California for all groundfish fisheries and implement 
+a new Groundfish Exclusion Area (GEA) for all groundfish fisheries to 
+protect sensitive habitat. GEAs are authorized as an area closure type 
+under section 6.8.10 of the Groundfish FMP; therefore no further 
+changes to the Groundfish FMP are necessary to designate a new GEA.
+    For information on the development of this action, refer to the 
+``Background'' section of the proposed rule (91 FR 4485; February 2, 
+2026).
 
-A. Does this document apply to me?
+Removal of the Cordell Bank GCA
 
-    This action applies only to elemental mercury treated at Bethlehem 
-Apparatus's Pennsylvania facility located at 935 Bethlehem Drive, 
-Bethlehem, PA, and land disposed at USE's facility located at Highway 
-95, 11 Miles South of Beatty, Beatty, Nevada. If you have questions 
-regarding the applicability of this action to a particular entity, 
-consult the person listed in the FOR FURTHER INFORMATION CONTACT 
-section.
+    This final rule removes the Cordell Bank GCA closure from the 
+Federal regulations at Sec.  660.70, as well as the associated 
+groundfish prohibitions for the trawl, limited entry fixed gear, open 
+access, and recreational fishery sectors specified at Sec. Sec.  
+660.130, 660.230, 660.330, and 660.360, respectively. Although the 
+former GCA was 64 square miles (sq mi) (165.8 square kilometers (sq 
+km)), only 40.1 sq mi (104 sq km) is being opened, including 10.2 sq mi 
+(26.4 sq km) to almost all trawl gear and the full 40.1 sq mi (104 sq 
+km) to non-trawl gear. The former GCA overlapped with two other 
+closures: (1) the Cordell Bank Biogenic Essential Fish Habitat 
+Conservation Area (EFHCA), which prohibits fishing with bottom trawl 
+gear (except for demersal seine) by all fisheries (hereafter referred 
+to as the ``bottom trawl EFHCA''); and (2) the Cordell Bank (50-fm 
+isobath) EFHCA, which prohibits fishing with bottom contact gear by all 
+fisheries (hereafter referred to as the ``bottom contact EFHCA''). The 
+former GCA bordered a third closure at the 100 fathom (fm) line--the 
+Non-Trawl Rockfish Conservation Area (Non-Trawl RCA), which prohibits 
+commercial groundfish fishing with most types of non-trawl gear. These 
+closures can be viewed on figure 1 of the Analysis (see ADDRESSES). 
+These three closures and their associated prohibitions remain in place, 
+and a GEA now overlays the exact geographic footprint of the bottom 
+contact EFHCA (see next section).
+    The coordinates for the former Cordell Bank GCA include coordinates 
+commonly referred to as the ``100-fm ring.'' These coordinates are 
+distinct from the 100 fm (183 meter (m)) depth contour line defined at 
+Sec.  660.73. Per the trawl management measure regulations at Sec.  
+660.130(c)(1)(ii), trawling with large footrope gear is prohibited in 
+the area south of 46[deg]16' North latitude (N lat.) and shoreward of 
+100 fm (183 m). Removing the Cordell Bank GCA coordinates from Federal 
+regulations entirely would default to allow trawling with large 
+footrope gear in the 10.2 sq mi (26.4 sq km) opened to trawl gear. In 
+order to maintain this prohibition, the coordinates for the 100 fm ring 
+have been transferred to Sec.  660.73, which is where the coordinates 
+for the coastwide 100 fm (183 m) line and other lines around islands 
+and banks are defined.
 
-B. What action is the Agency taking?
+Creation of the Cordell Bank GEA
 
-    The EPA is finalizing a SSTV for U.S. Ecology's treatment and 
-disposal of elemental mercury waste generated from retorting high 
-mercury waste in accordance with the LDR technology-based standard of 
-RMERC. In this action, the EPA hereby approves, with conditions, a 
-variance for USE from the requirement that elemental mercury reclaimed 
-from RMERC of D009, U151, or Bevill-exempt high mercury wastes 
-generated in the U.S. gold mining industry \1\ be placed into commerce. 
-Specifically, the EPA is granting, with conditions, USE's petition for 
-a variance pursuant to 40 CFR 268.44 to allow land disposal of 
-elemental mercury converted to mercuric sulfide powder that is then 
-blended with linear low-density polyethylene (LLDPE) and extruded as a 
-monolith into an impermeable/non-reactive container that is placed into 
-a future permitted monofill located at USE's facility in Beatty, 
-Nevada. At the time of this approval, USE has an agreement with 
-Bethlehem Apparatus to perform the treatment portion of this process. 
-See section V of this preamble, Future Amendments to this Variance, for 
-procedures that may allow USE to retain this variance if USE moves any 
-portion of the treatment process from Bethlehem Apparatus's Bethlehem, 
-Pennsylvania, location.
----------------------------------------------------------------------------
+    GEAs were first created by and used via Amendment 32 (88 FR 83830, 
+December 1, 2023), which implemented eight GEAs in the Southern 
+California Bight to protect sensitive coral ecosystems from groundfish 
+fishing impacts when the Cowcod Conservation Areas were removed for 
+non-trawl commercial and recreational groundfish fisheries. The 
+Groundfish FMP authorizes the creation of additional GEAs via 
+rulemaking (see section 6.8.10). GEAs are a different type of closure 
+from GCAs in that their primary purpose is not to protect groundfish 
+species, but to protect habitat. GEAs are different from EFHCAs in that 
+GEAs do not necessarily protect groundfish-specific essential fish 
+habitat (EFH). Rather, a GEA may be established to protect other types 
+of oceanic and seafloor habitats.
+    As described in the prior section, there are currently a number of 
+overlapping or bordering fishery closures in the Cordell Bank area, 
+including the bottom contact and bottom trawl EFHCAs, and the Non-Trawl 
+RCA. Each closure has different regulations that prohibit different 
+fisheries from operating and different gear types from being used (see 
+table 1 of the Analysis), consequently creating confusion among 
+fishermen and challenges for enforcement officers. The
 
-    \1\ The issue has arisen that U.S. gold mining Bevill-exempt 
-high mercury waste does not carry a waste code because of the Bevill 
-exemption. Although exempt, Bevill waste is like D009/U151 wastes in 
-that it must be retorted to extract the elemental mercury to meet 
-DOE's acceptance criteria. After retorting, the prohibition on land 
-disposal of elemental mercury remains and is unaffected by the 
-Bevill exemption.
----------------------------------------------------------------------------
+[[Page 37342]]
 
-    For the reasons described in the February 6, 2026, preamble to the 
-proposed approval (91 FR 5400) and in the Agency's response to comments 
-received on the proposal, the EPA is finalizing the variance without 
-alteration.
+purpose of this action is to reduce regulatory complexity and increase 
+fishing opportunities, while protecting the Cordell Bank ecosystem. 
+Amendment 19 to the Groundfish FMP designated the Cordell Bank as a 
+habitat area of particular concern (HAPC) in 2006, because it contains 
+a substantive amount of rocky reef habitat. The Cordell Bank GCA was 
+initially implemented in 2004, to reduce catch of several overfished 
+groundfish stocks, which are all now rebuilt. Therefore, although there 
+is no longer a need for the Cordell Bank GCA to protect overfished 
+groundfish species, there remains a need to protect sensitive habitat 
+in the area (see next section).
+    This final rule establishes the Cordell Bank GEA at Sec.  660.70. 
+All groundfish fishing is prohibited within the Cordell Bank GEA. 
+Groundfish vessels are allowed to continuously transit through the 
+Cordell Bank GEA as long as all groundfish gear is stowed. The Cordell 
+Bank GEA is 26.4 sq mi (68.4 sq km), of which 23.9 sq mi (61.9 sq km) 
+is inside the former Cordell Bank GCA and the remaining 2.5 sq mi (6.5 
+sq km) is outside of the former GCA. The 2.5 sq mi (6.5 sq km) that is 
+outside of the former GCA overlaps with the bottom contact EFHCA and 
+Non-Trawl RCA, meaning groundfish fishing with non-bottom contact gear 
+(e.g., troll gear) used to be allowed in this area. The new GEA now 
+prohibits all groundfish fishing, thereby taking away the ability to 
+use non-bottom contact gear in this 2.5 sq mi (6.5 sq km). With the 
+addition of the GEA, approximately 37 percent of the former Cordell 
+Bank GCA footprint remains closed to all groundfish fishing, and most 
+of the remaining area still has restrictions in place from the bottom 
+contact and bottom trawl EFHCAs. Only 10.2 sq mi (26.4 sq km) or 16 
+percent of the former GCA is now open to trawl gear, as there are no 
+other overlapping closures in this area. Overall, this final action 
+opens a net area of 40.1 sq mi (103.9 sq km). Of this area, 10.2 sq mi 
+(26.4 sq km) is open to trawl gear and the full 40.1 sq mi (103.9 sq 
+km) is open to non-trawl commercial and recreational gear. The Cordell 
+Bank GEA coordinates are the same as the coordinates for the existing 
+bottom contact EFHCA (listed at Sec.  660.79(r)), which is expected to 
+substantively reduce regulatory complexity and enforcement challenges 
+in the area.
+    This final rule also revises the regulations at Sec.  660.10 to 
+remove the definition of GEA from the list of defined GCAs and 
+categorize it as its own type of conservation area. This change better 
+reflects the regulatory purpose of GEAs, which is to protect sensitive 
+habitats from groundfish fishing as opposed to overfished groundfish 
+species from groundfish fishing. The definition of ``Continuous 
+transiting or transiting through'' has been accordingly revised to no 
+longer specify that continuous transit is allowed in a GCA or EFCHA, 
+but rather, all defined conservations areas, which includes GCAs, 
+EFHCAs, and GEAs.
 
-C. What is the Agency's authority for taking this action?
+Summary of Habitat Impacts
 
-    Under 40 CFR 268.44, EPA may grant site-specific treatability 
-variances in cases when facilities generate hazardous wastes that 
-cannot be treated to the specified levels or when it is technically 
-inappropriate for such wastes to undergo the prescribed treatment. See 
-51 FR 40605-40606, November 7, 1986, and 62 FR 64504, December 5, 1997. 
-The requirements for an LDR treatment variance are found at 40 CFR 
-268.44 and LDR variance petitioners must follow the procedures in 40 
-CFR 260.20. Of note, 40 CFR 268.44(k) cross-references compliance with 
-40 CFR 268.7, which includes testing, tracking and recordkeeping 
-requirements for generators, reverse distributors, treaters and 
-disposal facilities.
-    In this case, EPA finds that the existing requirement is 
-inappropriate,\2\ even though the treatment is technically possible, 
-and the variance would be applicable to a specific treatment process 
-conducted at Bethlehem Apparatus and disposal location at USE's TSD in 
-Beatty, Nevada. Specifically, as the USE petition demonstrates, the 
-required treatment standard of placing elemental mercury into commerce 
-for reuse after RMERC is inappropriate because the small market demand 
-for elemental mercury is greatly exceeded by the supply of elemental 
-mercury recovered from D009 and U151 hazardous wastes and from Bevill 
-wastes generated by the U.S. gold mining industry, and the resulting 
-stockpiled elemental mercury poses an ongoing potential hazard to human 
-health and the environment. This SSTV, with conditions, allows for the 
-site-specific treatment and land disposal of elemental mercury in a 
-manner that minimizes threats to human health and the environment posed 
-by the waste.
----------------------------------------------------------------------------
+    Known for its extensive rocky reef habitat, the Cordell Bank area 
+is designated as groundfish EFH and a HAPC via Amendment 19 to the 
+Pacific Coast Groundfish FMP (71 FR 27408, May 11, 2006). It is also 
+located within the Cordell Bank National Marine Sanctuary (NMS). The 
+Analysis for this action (see ADDRESSES) discloses potential impacts to 
+habitat that may result from the opening of the Cordell Bank GCA. 
+Specifically, the Analysis includes maps of varying benthic substrates 
+(e.g., sandy bottom vs. hard substrate) as well as corals, sponges, and 
+sea pens that occur in the areas opened to groundfish trawl and non-
+trawl gear types. The Analysis also discusses potential shifts in 
+fishery effort by each relevant fishery sector.
 
-    \2\ According to 42 CFR 268.44(h)(2), a petitioner may obtain a 
-variance from an applicable treatment standard if it is 
-inappropriate to require the waste to be treated to the level 
-specified in the treatment standard or by the method specified as 
-the treatment standard, even though such treatment is technically 
-possible. To show that this is the case, as applicable here, the 
-petitioner must demonstrate that treatment to the specified level or 
-by the specified method is technically inappropriate (for example, 
-resulting in combustion of large amounts of mildly contaminated 
-environmental media). Section 268.44(m) further requires the 
-petitioner to demonstrate that compliance with the variance is 
-sufficient to minimize threats to human health and the environment 
-posed by land disposal of the waste.
----------------------------------------------------------------------------
+Trawl Gear Impacts
 
-II. Background
+    Under this action, approximately 10.2 sq mi (26.4 sq km) of new 
+area will be exposed to trawl gear. As described in the Analysis, 
+available data show that approximately 3.3 percent (0.54 sq mi or 1.4 
+sq km) of that area is rocky reef habitat, with limited coral, sponge, 
+and sea pen observations. The remaining area is primarily made up of 
+sand substrate with some unconsolidated mineral substrate. The Analysis 
+also explains that significant fishing effort with trawl gear is not 
+anticipated in the newly opened area, as the area is only 10.2 sq mi 
+(26.4 sq km), and there has been limited to no trawl effort in the 
+vicinity of the Cordell Bank GCA since 2018. Bottom trawl vessels 
+typically avoid high relief rocky habitat to avoid gear damage; 
+therefore, even if trawl vessels came to the newly opened area, they 
+would likely fish over the areas with a flatter bottom. Additionally, 
+trawl regulations at Sec.  660.130(c)(1)(ii) prohibit the use of large 
+footrope gear in the area south of 46[deg]16' N lat. and shoreward of 
+the 100-fm (183-m) depth contour; therefore, only small footrope gear 
+(generally considered to be less damaging than large footrope gear) 
+would be permitted in the 10.2 sq mi (26.4 sq km) area opened. As the 
+name implies, small footrope gear--in contrast to large footrope gear--
+has smaller diameter footrope, including rollers, bobbins, and other 
+material, which is designed for lower relief seafloor types and may 
+reduce seafloor impact and bycatch. Overall, the Analysis concludes 
+that a minimal amount of rocky reef habitat will be exposed to trawl 
+gear, and minimal impact from fishing is expected to occur if trawl 
+effort shifts into that area. For a more detailed analysis on potential 
+habitat impacts from trawl gear, see section 3.1.2 the Analysis.
 
-A. The Petition
+Non-Trawl Gear Impacts
 
-    On June 30, 2021, USE submitted a petition to the EPA for a 
-Determination
+    Under the action, approximately 40.1 sq mi (103.9 sq km) of new 
+area will be exposed to non-trawl gear (e.g., pots, bottom longline, 
+hook-and-line), which is generally considered to be less impactful than 
+trawl gear (see appendix C to the Pacific Coast Groundfish FMP). As 
+described in the Analysis, available data shows that approximately 8.9 
+percent (3.6 sq mi or 9.3 sq km) of the 40.1 sq mi (103.9 sq km) newly 
+opened area is rocky substrate with an additional 43.2 percent (17.3 sq 
+mi or 44.8 sq km) categorized as unconsolidated mineral substrate. The 
+remaining half of the newly opened area is categorized as sand. 
+Additionally, there are limited coral, sponge, and sea pen observations 
+in the area.
+    The Analysis also predicts some effort shift into the 40.1 sq mi 
+(103.9 sq km) newly opened area from the non-trawl catch share sector 
+fisheries, as effort data since 2021 indicates those vessels have been 
+fishing in the vicinity of the Cordell Bank GCA. However, these vessels 
+would likely use hook-and-line gear, which is generally considered to 
+be less impactful on benthic habitat than non-trawl gear types that are 
+actively fished on the bottom (e.g., pot or longline). In their 
+November 2024 statement (see Agenda Item I.5.a, Supplemental GAP Report 
+1 at  https://pcouncil.org ), the Council's Groundfish Advisory Subpanel 
+discussed that limited pot gear activity is likely to occur in the area 
+due to the high relief habitat features and the fact that the area is 
+too shallow for sablefish (the primary target species for pot gear). 
+Hook-and-line gear for midwater stocks will likely be the targeted 
+fishery occurring in the action area.
+    Effort shift from the recreational sector is also anticipated, as 
+the Cordell Bank area has historically been a recreational fishing 
+ground, and public comments from the November 2024 Council meeting (see 
+ https://pcouncil.org ) and on the proposed rule indicate interest in 
+adding the Cordell Bank area to a rotation of recreational fishing 
+locations to spread out effort on other nearby fishing locations. 
+Overall,
 
-[[Page 38541]]
+[[Page 37343]]
 
-of Equivalent Treatment under 40 CFR 268.42(b) to treat and dispose of 
-elemental mercury reclaimed from the retort of D009 and U151 high 
-mercury wastes. In response to EPA requests following the original June 
-2021 submission, on September 22, 2025, USE provided supplemental 
-information and a revised petition, including a separate request for 
-the Agency to evaluate the treatment and disposal process as a site-
-specific treatability variance pursuant to 40 CFR 268.44. The original 
-and revised petitions and associated responses to Agency information 
-requests (together referred to as ``the petition'') can be found in the 
-docket (EPA-HQ-OLEM-2025-2038).
+the Analysis anticipates some, but not significant, potential impact in 
+the newly opened area from non-trawl gear due to anticipated effort 
+shift from the commercial and recreational non-trawl sectors. For a 
+more detailed analysis on potential habitat impacts from non-trawl 
+gear, see section 3.1.2 the Analysis.
+    In addition to opening the 40.1 sq mi (103.9 sq km) of area 
+discussed above, NMFS is closing approximately 2.5 sq mi (6.5 sq km) in 
+the Cordell Bank area that is currently open to non-trawl non-bottom 
+contact gear. This 2.5 sq mi (6.5 sq km) area is currently within the 
+bottom contact EFHCA, and therefore, non-bottom contact gears are 
+permitted. However, the proposed GEA would close this small 2.5 sq mi 
+(6.5 sq km) area to all groundfish fishing.
 
-B. Brief Summary of Common Themes in Comments Received and the EPA's 
-Responses
+Essential Fish Habitat
 
-    Many commenters on the proposed variance expressed concern that 
-mercury is a persistent, bioaccumulative neurotoxin and raised the 
-possibility of leaching into groundwater, surrounding soils, nearby 
-wells or surface water. Some commenters questioned the long-term 
-integrity of monofill containment systems. While EPA agrees that 
-mercury poses serious risks to human health and the environment, these 
-risks are the basis for stringent controls under RCRA and are fully 
-considered in EPA's evaluation of this petition. As detailed in the 
-proposed variance, the approved treatment--conversion of elemental 
-mercury generated from RMERC to mercuric sulfide and stabilization in 
-LLDPE monolithic solids--significantly reduces mercury mobility and the 
-treatment meets or exceeds the performance standards applicable under 
-the LDR program.
-    Several commenters supported the variance but recommended long-term 
-groundwater monitoring, limits on stored volumes, periodic inspections, 
-and further measures to address contingency scenarios. EPA notes that 
-the variance does not remove or alter any existing regulatory 
-obligations under RCRA subtitle C. The facility must adhere to all 
-applicable monitoring, inspection, and contingency requirements under 
-its hazardous waste permit. Additionally, the Nevada Department of 
-Environmental Protection, as the authorized entity that oversees 
-permitting at U.S. Ecology's Nevada facility, may choose to require 
-additional controls or disposal volume limits based on its review of 
-U.S. Ecology's permit application for the subtitle C monofill where the 
-treated elemental mercury will be disposed.
-    Some comments opposed departing from traditional RMERC recycling 
-requirements, while others noted that the elemental mercury market has 
-collapsed and supported permanent disposal through stabilization. EPA's 
-review of the mercury market as discussed in the proposed rule shows 
-that the mandated recycling standard is no longer technically 
-appropriate due to the lack of viable market demand. The variance 
-authority exists precisely for circumstances such as this, in which the 
-underlying treatment standard is inappropriate even if technically 
-possible.
-    Some commenters questioned whether granting the variance could set 
-a precedent for weakening hazardous waste controls or raised concerns 
-about long-term facility responsibility. EPA points out that this 
-variance applies only to the specific waste streams and facility 
-described in the petition. Approval does not alter national standards 
-and does not create an automatic pathway for future variances. Long-
-term oversight obligations remain in effect under existing RCRA 
-requirements. Further, the record demonstrates that the treatment 
-approach significantly limits the potential mobility of the elemental 
-mercury and that disposal in a designated monofill will ensure that any 
-leaching is discovered before it can contaminate ground or surface 
-water in the surrounding areas. The EPA also believes the approved 
-treatment approach is preferable to the status quo, which is indefinite 
-long-term storage in its elemental mercury form since the market for 
-mercury is currently insufficient.
-    Several commenters supported the proposed variance, noting that the 
-treatment method reduces long-term environmental risks. One commenter 
-provided only a correction to a facility location description and did 
-not take a position.
+    The Magnuson-Stevens Act and its implementing regulations require 
+that FMPs describe and identify EFH and minimize to the extent 
+practicable adverse effects on EFH caused by fishing. As such, EFH 
+along the U.S. West Coast is described in appendices B and C to the 
+Pacific Coast Groundfish FMP and includes the Cordell Bank area. The 
+Pacific Coast Groundfish FMP authorizes the use of EFHCAs to protect 
+groundfish EFH from specific types of fishing activity. As a result of 
+the Council's 2006 EFH review process, a bottom trawl EFHCA and a 
+bottom contact EFHCA were implemented in the Cordell Bank area via 
+Amendment 19 to the Pacific Coast Groundfish FMP (71 FR 27408, May 11, 
+2006). The coordinates for these EFHCAs are listed at Sec.  660.79(q) 
+and (r), respectively. As a result of the 2014-2020 EFH process, which 
+included review of the Cordell Bank area, the bottom trawl EFHCA was 
+later expanded via Amendment 28 (84 FR 63966, November 19, 2019). The 
+bottom contact EFHCA was not changed at that time because there was not 
+new, definitive information on the benthic habitat effects of non-trawl 
+bottom contact gear that compelled revisions. During the development of 
+this action, the Council and its Habitat Committee reviewed new 
+information on the potential impact to EFH in the Cordell Bank area 
+from opening the newly opened areas to both trawl and non-trawl 
+fishing. This evaluation is documented in the Analysis (see section 
+3.1.2). Overall, the Analysis concludes that there will not be new 
+significant impacts to EFH from this action that would require 
+additional mitigative measures.
 
-III. Description of the Treatment and Disposal Approach in the Petition
+Conclusion
 
-A. Treatment Process
+    As described in the Analysis, significant habitat impact from this 
+action (including to designated EFH) is not anticipated. Although there 
+is some expected effort shift from the commercial and recreational non-
+trawl sectors, the primary gear type used would be hook-and-line, as 
+fishermen tend to avoid high relief rocky habitat with bottom gear to 
+avoid gear damage. Additionally, the newly opened area is too shallow 
+for sablefish, which is the primary target for non-trawl bottom gear 
+types. The vast majority of coral, sponge, and sea pen observations 
+occur within the new GEA and, therefore, will remain protected from 
+groundfish fishing impacts.
 
-    The petition includes the conclusions of a study of a process for 
-treating and stabilizing elemental mercury reclaimed from high mercury 
-wastes that will minimize the risk of mercury release from the treated 
-waste and allow for land disposal. USE has an existing agreement with 
-Bethlehem Apparatus to perform the treatment process. The Bethlehem 
-Apparatus process post-RMERC includes: (1) conversion of distilled and 
-retorted high-purity elemental mercury into a stable form of mercuric 
-sulfide (HgS) powder by reaction without significant excess sulfur 
-through a patented proprietary process (U.S. Patent Nos. 7,691,361 and 
-8,501,107); (2) blending the HgS powder with melted linear low-density 
-polyethylene (LLDPE) under a proprietary process with defined 
-parameters under vacuum; and (3) extruding the LLDPE-HgS blend as a 
-monolith (hereafter referred to in this document as ``HgS waste'') 
-directly into Department of Transportation (DOT)-rated nonreactive 
-container (such as high density polyethylene (HDPE) closed-head drums). 
-USE must only accept containers of HgS waste that meet all applicable 
-DOT requirements under 49 CFR.
+Public Comments
 
-B. Disposal Environment
+    The 30-day public comment period on the proposed rule (91 FR 4485) 
+occurred from February 2, 2026, through March 4, 2026. NMFS received 80 
+comments supporting the proposed rule, 47 comments opposing the 
+proposed rule, and five neutral comments that either indicated a mix of 
+support and opposition, or provided general commentary with no clear 
+stance on the proposed rule. No changes were made to the proposed rule 
+in response to public comments.
+    The majority of the supportive comments were from industry 
+stakeholders, including fishing association representatives and 
+individual fishermen. These comments generally expressed enthusiasm for 
+gaining back access to historical fishing grounds and the positive 
+socio-economic effects that are anticipated to result for California 
+coastal communities. Several of the comments also expressed support for 
+the ability to use the newly opened area as a rotational fishing 
+location for recreational fisheries, which is expected to take partial 
+pressure off other nearby recreational fishing locations, including 
+Rittenburg Bank.
+    NMFS received 47 comments opposing the proposed rule. The majority 
+of these comments expressed concern over potential adverse 
+environmental impacts from opening the 10.2 sq mi (26.4 sq. km) portion 
+of the former GCA to bottom trawl gear. Four of the comments, which 
+were all from environmental nongovernmental organizations (NGOs), 
+included this issue, as well as other concerns. NMFS responds to these 
+four comments below. NMFS' response to these four comments also 
+addresses the general concerns about bottom trawl gear expressed in the 
+other comments.
+    The environmental NGOs, which include Oceana, Turtle Island 
+Restoration Network (TIRN), Fish On, and Earth Island Institute 
+submitted letters that, in summary, claim the proposed rule is 
+inconsistent with the mandates of the MSA in regard to EFH protection 
+and with NMFS' obligations related to National Marine Sanctuary 
+protections. Oceana and TIRN brought forward six primary claims, which 
+are responded to in Comments 1 through 6 below. The responses to 
+Comments 1 through 5 address the claims in the Fish On letter. The 
+response to Comment 5 addresses the claim made in the Earth Island 
+Institute letter.
+    Comment 1: Oceana, TIRN, and Fish On commented that the proposed 
+rule should have been evaluated alongside the Council's routine 
+groundfish EFH review process, and that proceeding with opening 
+portions of the Cordell Bank area to fishing before this process 
+undermines EFH protections. Additionally, Oceana comments that 
+evaluating this action outside of a formal EFH review process precludes 
+a coherent, science-based evaluation of cumulative and long-term 
+impacts.
+    Response 1: The MSA and its implementing regulations require that 
+FMPs describe and identify EFH and minimize, to the extent practicable, 
+adverse effects on EFH caused by fishing (16 U.S.C. 1853(a)(7); 50 CFR 
+600.815(a)(2)(i)-(ii)). There is no requirement in the MSA or its 
+implementing regulations to conduct an updated EFH review prior to 
+implementing a fishery action. However, because amendments to the FMP 
+or its implementing regulations must ensure that the FMP continues to 
+minimize, to the extent practicable, adverse effects on EFH caused by 
+fishing (50 CFR 600.815(a)(2)(ii)), it is appropriate to identify and 
+evaluate new information relevant to EFH prior to implementing a 
+fishery action. The development of this action included a thorough 
+review of the best scientific information available (BSIA) on habitat 
+and benthic substrate in the action area, including new information 
+available since the last Pacific Coast groundfish review, which 
+occurred from 2014-2020. The Council's Habitat Committee vetted that 
+scientific information, alongside information on fishing gear impacts 
+to benthic habitats that is provided in the Fishing Gear Effects on 
+Marine Habitats Database. This rule therefore complies with the MSA and 
+its implementing regulations. The Analysis prepared for the rule is 
+based on the most up-to-date scientific information available (see 
+additional explanation under the Response 4 below) and
 
-    For final disposal, USE must construct a designated HgS waste RCRA 
-monofill at its Beatty, Nevada facility, in compliance with its RCRA 
-permit. Controlling variable environmental conditions that may 
-influence mercury leaching from HgS waste is a critical part of this 
-variance. USE's proposed monofill must only accept HgS waste treated by 
-the process described in this rule and USE's September 22, 2025, 
-petition, subject to the conditions summarized in section IV of this 
-preamble, Conditions for Treatment and Disposal of HgS Wastes. The 
-proposed monofill disposal site must be located within a RCRA subtitle 
-C permitted facility in an arid environment in Beatty, Nevada. This 
-location limits the potential impacts of rainwater to the disposal site 
-by lowering the potential for leachate generation. Disposal in a 
-segregated monofill reduces potential infiltration of storm water or 
-leachate from other portions of the facility and the introduction of 
-other contaminants or minerals from rainwater that may increase mercury 
-leachability. For these reasons, the EPA has determined that the 
-proposed monofill location will minimize the potential for mercury 
-migration or leaching from the treated waste.
-    The Nevada Department of Environmental Protection (NDEP) regulates 
-hazardous waste pursuant to Nevada Administrative Code (NAC) and the 
-Nevada Revised Statutes (NRS), as a State authorized to implement a 
-hazardous waste program under the RCRA. As such, prior to construction 
-of the monofill and acceptance/disposal of any HgS waste at the Beatty, 
-Nevada, facility, USE must obtain all necessary permits and permit 
-modifications from NDEP.
-    The proposed monofill must meet, at a minimum, all hazardous waste
+[[Page 37344]]
 
-[[Page 38542]]
+discloses and evaluates potential impacts from fishing to groundfish 
+EFH in the Cordell Bank area. Additionally, the Groundfish FMP (which 
+is incorporated by reference in the Analysis) describes groundfish EFH, 
+including fishing impacts, in appendices B and C.
+    Comment 2: Oceana, TIRN, and Fish On commented that opening up the 
+10.2 sq mi (26.4 sq km) area to bottom trawling is inconsistent with 
+the Council's and NMFS' precautionary approach of ``freezing the 
+footprint'' of bottom trawling unless and until there is area-specific 
+data indicating the absence of sensitive habitats.
+    Response 2: Neither the Council nor NMFS has codified a policy of 
+``freezing the footprint'' of bottom trawling off the U.S. West Coast 
+as contended in the comment letters. As part of Amendment 19 to the 
+Groundfish FMP, the Council and NMFS established the Seaward of 700 fm 
+(1,280 m) contour closure, which was intended to preemptively close 
+waters beyond the depths where bottom trawling has historically 
+occurred. This closure is intended to prevent the expansion of bottom 
+trawling into areas where groundfish EFH has not historically been 
+adversely affected by bottom trawling. The closure is listed in Section 
+6.8.7 of the Groundfish FMP and is described as the ``bottom trawl 
+footprint closure''. This closure appears to be what commenters refer 
+to as ``freezing the footprint'' of bottom trawling; however, Amendment 
+19 instituted a depth closure as opposed to a policy generally freezing 
+the footprint of bottom trawling. Additionally, as part of Amendment 28 
+to the Groundfish FMP, the Council and NMFS established the Deep-Water 
+Ecosystem Conservation Area (DECA) closure (>3,500 m), which was 
+intended to close waters deeper than designated groundfish EFH to 
+protect deep sea corals from exploratory fishing, and may have been 
+mistakenly referred to as a ``footprint closure''. This action does not 
+modify either of these depth closures. In summary, the Council and NMFS 
+do not have a specific policy or requirement to freeze the footprint of 
+bottom trawling on the West Coast, as described by the NGOs. Rather, 
+when considering the exposure of seafloor habitat to bottom trawling, 
+the Council and NMFS adhere to the mandates of the MSA, with regard to 
+EFH protections and BSIA, on an action-by-action basis. As such, bottom 
+trawling is prohibited in the expansive coastwide network of existing 
+bottom trawl EFHCAs, which includes 152,355 sq mi (394,598 sq km) of 
+area that has been reviewed through the Council's EFH process and 
+specifically designated as in need of protection from bottom trawling. 
+The existing bottom trawl EFHCA in the Cordell Bank area covers all but 
+10.2 sq mi (26.4 sq km) of the former Cordell Bank GCA footprint. This 
+EFHCA was reviewed during the 2014 EFH review process and appropriately 
+expanded via Amendment 28 to the Groundfish FMP (84 FR 63966, November 
+19, 2019). When considering this action, the Council used the most 
+updated information available on habitat in the Cordell Bank area to 
+evaluate potential EFH impacts, and this information indicates that the 
+small area newly opened to bottom trawling is predominantly sandy 
+bottom (see Sections 3.1.1 and 3.1.2 of the Analysis). Accordingly, 
+this action is consistent with the MSA, implementing regulations, and 
+Council and NMFS policies. If new information is presented at the next 
+EFH review that warrants further expansion of the bottom trawl EFHCA in 
+the Cordell Bank area, or other West Coast EFHCAs, then the Council may 
+recommend that approach to NMFS at that time.
+    Comment 3: Three NGOs, including Oceana, Turtle Island Restoration 
+Network, and Fish On, claimed that NMFS violated NEPA's requirement to 
+evaluate a reasonable range of alternatives. Specifically, Oceana 
+comments that NMFS' range of alternatives was insufficient because it 
+lacked an alternative that maintained prohibitions on all bottom 
+contacting fishing gear. Similarly, TIRN comments that NMFS did not 
+meaningfully evaluate an alternative that would keep all existing 
+bottom-trawl closures in place and limit the reopening to non-trawl 
+gear; or an alternative with different boundaries for the new GEA that 
+would avoid more sensitive habitats or that would delay reopening until 
+additional habitat mapping is completed.
+    Response 3: NEPA requires Federal agencies to take a hard look at 
+the environmental consequences of their actions. To meet its NEPA 
+obligations for this action, NMFS completed an Environmental Assessment 
+(EA). NEPA does not specify a minimum requirement for the number of 
+alternatives to be evaluated; NEPA requires that the range simply be 
+reasonable (42 U.S.C. 4331(2)(H)). NOAA's Policy and Procedures for 
+Compliance with the National Environmental Policy Act and Related 
+Authorities define reasonable alternatives as those that are 
+technically and economically feasible and meet the purpose and need of 
+the proposed action. An EA may include only the preferred and no action 
+alternatives (Companion Manual for NOAA Administrative Order 216-6A, 
+Section XIV (U)). This guidance is supported by Federal case law. See, 
+e.g., Earth Island Institute v. U.S. Forest Service, 87 F.4th 1054 (9th 
+Cir. 2023) (an agency satisfies NEPA when it considers only two 
+alternatives); City of Los Angeles v. Federal Aviation Administration, 
+63 F.4th 835 (9th Cir. 2023) (a court determines whether an agency 
+considered a reasonable range of alternatives based on its purpose and 
+need). The stated purpose and need for this action is: The purpose of 
+this action is to provide fishing access to previously closed areas 
+surrounding Cordell Bank while protecting sensitive habitats. The 
+Cordell Bank GCA was initially implemented to reduce catch of several 
+overfished groundfish stocks, which are all now rebuilt or rebuilding 
+ahead of schedule. This action is needed to remove unnecessary 
+regulations and to reduce regulatory complexity. The EA for this action 
+evaluated two alternatives: keeping the prior Cordell Bank GCA 
+regulations in place (No Action), or removing the Cordell Bank GCA and 
+replacing it with a new GEA over the Cordell Bank bottom contact EFHCA 
+that would be applicable to all groundfish fisheries (the Preferred 
+Alternative). No additional alternatives were necessary to complete a 
+reasonable range. As stated in the purpose and need, the primary 
+groundfish stocks of concern that motivated the implementation of the 
+GCA are now rebuilt. Thus, the Cordell Bank GCA met its purpose and is 
+no longer necessary for the management of overfished stocks. The action 
+alternative meets the need of reducing regulatory complexity in the 
+Cordell Bank area, and the EA evaluated potential impacts resulting 
+from the action on sensitive habitat, including EFH. Accordingly, the 
+two alternatives evaluated were sufficient under NEPA; particularly in 
+this case where NMFS determined in its EA that the action would not 
+have a significant impact on the environment.
+    Comment 4: Fourth, Oceana, TIRN, and Fish On commented that NMFS 
+violated the MSA's National Standard 2 (i.e., the requirement that 
+fishery conservation and management measures be based on BSIA) because 
+NMFS did not adequately consider recent data from the Office of 
+National Marine Sanctuaries documenting extensive hard and mixed 
+substrates, as well as coral and sponge communities, on and around 
+Cordell Bank.
+    Response 4: The Analysis for this action used and evaluated the 
+BSIA on habitat and benthic substrate. The data specifically referenced 
+by Oceana and
 
-standards and requirements imposed by NDEP. The approval of this 
-variance does not limit the delegated RCRA authority of NDEP to 
-establish design and permitting conditions. Nothing in this variance 
-authorizes the disposal of HgS waste from the process described in this 
-approval at any portion of the facility other than the designated 
-monofill that must be approved and permitted by NDEP. In addition to 
-all applicable RCRA requirements of 40 CFR parts 260 through 271 and 
-corresponding State regulations, EPA herein requires USE to comply with 
-the conditions described in section IV of this preamble, Conditions for 
-Treatment and Disposal of HgS Wastes below, to retain this variance.
+[[Page 37345]]
 
-IV. Conditions for Treatment and Disposal of HgS Wastes
+TIRN was not publicly available during the development of the Analysis, 
+nor had it been peer-reviewed. However, once aware of the new data, the 
+Council and NMFS coordinated with the Office of National Marine 
+Sanctuaries to incorporate the information into the Analysis. All new 
+data from the Office of National Marine Sanctuaries, which includes 
+predictive habitat classification and additional coral and sea sponge 
+observations, is displayed in the Analysis in Figures 8 through 13. 
+This information was considered by the Council prior to making their 
+final recommendation to NMFS. As stated in the Analysis (see Section 
+3.2.1), and as supported by the BSIA, the majority of hard substrate 
+and coral and sponge observations in the Cordell Bank area will remain 
+inside the new Cordell Bank GEA.
+    Comment 5: Oceana, TIRN, Fish On, and Earth Island Institute either 
+specifically or generally commented that NMFS failed to follow the 
+directive and mandates of the National Marine Sanctuaries Act (NMSA) to 
+protect sanctuary resources and the Cordell Bank NMS designation 
+because the rule reopens areas to bottom contact fishing in Cordell 
+Bank and because the rule reopens these areas without adequate 
+safeguards in place. Relatedly, Oceana and TIRN also claim that NMFS 
+lacks a monitoring framework sufficient to detect and assess impacts to 
+benthic habitats, EFH, or protected species.
+    Response 5: NMFS finds that the fishing area being opened has 
+adequate safeguards in place to minimize, to the extent practicable, 
+the effects of fishing on EFH and protect sanctuary resources 
+consistent with both the MSA and the NMSA. The NMSA provides the 
+authority for the Secretary of Commerce to designate a discrete area of 
+the marine environment as a national marine sanctuary and to promulgate 
+regulations implementing such designation, if the area is determined to 
+be of special national significance due to (1) its conservation, 
+recreational, ecological, historical, scientific, cultural, 
+archaeological, educational, or esthetic qualities; (2) the communities 
+of living marine resources it harbors; or (3) its resource or human-use 
+values (16 U.S.C. 1433(a)). The Cordell Bank NMS was designated in 1989 
+to protect an approximately 400 sq mi (1,036 sq km) area consisting of 
+a nutrient-rich, offshore rocky bank off the coast of California. The 
+designation explained that, ``Cordell Bank and its surrounding waters, 
+because of a rare combination of oceanic conditions and undersea 
+topography, provide a highly productive marine environment in a 
+discrete, well defined area'' (54 FR 22417, May 24, 1989). Under the 
+NMSA, the terms of a sanctuary designation include the types of 
+activities that will be subject to regulation by the Secretary to 
+protect a specific sanctuary's characteristics (16 U.S.C. 1433(a)). The 
+Cordell Bank NMS designation specifically authorizes the regulation of 
+five types of activities within the sanctuary, not including fishing 
+(54 FR 22417, May 24, 1989). With respect to fishing, the designation 
+``reaffirms that no regulation of fishing, other than by existing State 
+and Federal statutes, will occur'' and that ``[a]ll State and Federal 
+regulatory programs pertaining to fishing, including Fishery Management 
+Plans promulgated under the Magnuson Fishery Conservation and 
+Management Act, remain in effect''. Stated differently, the Cordell 
+Bank NMS designation provides that fishing within the area will 
+continue to be regulated through Council and NMFS action, consistent 
+with this rulemaking. Of the 64 sq mi (165.8 sq km) footprint of the 
+former Cordell Bank GCA, all but 10.2 sq mi (26.4 sq km) will remain 
+inside of a protective closure--either an EFHCA, the new GEA, or both. 
+For the fishing activity that does take place in the newly opened area, 
+participating vessels will remain subject to their sector's respective 
+management measures, including but not limited to carrying a vessel 
+monitoring system that tracks fishing location (commercial trawl and 
+non-trawl sectors), species-specific catch limits/bag limits/quotas 
+(all sectors), gear limitations (varies across all sectors; e.g., 
+maximum hook requirements in the recreational sector), logbook 
+reporting (commercial trawl and non-trawl sectors), seasonal depth 
+restrictions (recreational sector), partial observer coverage (non-
+trawl commercial sector), 100 percent observer coverage or electronic 
+monitoring (trawl sector), and the requirement to carry and use a 
+descending device when returning discarded fish to depth (recreational 
+sector). Even in the 10.2 sq mi (26.4 sq km) that is now open to all 
+bottom contact gear, NMFS is adjusting the regulations such that the 
+prohibition on using large footrope trawl gear shallower than 100 fm 
+(183 m) is maintained to mitigate seafloor damage (see Removal of the 
+Cordell Bank GCA above and in the same section of the proposed rule). 
+NMFS finds these protections and required monitoring measures in the 
+newly opened areas, including within the limited area newly opened to 
+bottom trawl, to be adequate to detect and assess impacts to benthic 
+habitats, EFH, or protected species within the sanctuary, and thus to 
+protect sanctuary resources and minimize to the extent practicable, the 
+effects of fishing on EFH.
+    Comment 6: Last, Oceana and TIRN comment that the removal of 
+spatial protections under the Cordell Bank GCA is particularly 
+concerning when considered together with other recent actions 
+recommended by the Council, including the removal or reclassification 
+of select stocks in the Groundfish FMP. The NGOs argue that 
+cumulatively the actions diminish safeguards for ecologically important 
+habitats and sensitive species.
+    Response 6: NMFS disagrees with this comment. The removal of stocks 
+from, or reclassification of stocks as Ecosystem Component (EC) species 
+within, the Groundfish FMP does not adversely (or otherwise) impact 
+spatial protections in the Cordell Bank area, including those 
+protections provided by the EFHCAs or the new GEA, or otherwise 
+diminish safeguards for habitats or sensitive species. In a separate 
+action, subject to full evaluation under the MSA and its implementing 
+regulations, NEPA, and other applicable law, the Council and NMFS, 
+consistent with their jurisdiction, have evaluated those stocks 
+currently managed in the Groundfish FMP to determine if they are in 
+need of conservation and management within the EEZ. This is a robust, 
+stock- and fact-specific analysis. See 50 CFR 300.605(c). Following 
+this evaluation, certain stocks will be proposed to be removed from the 
+Groundfish FMP or re-classified as EC species. Any related future 
+rulemakings will be subject to MSA and NEPA review and public notice 
+and comment. Potential reasonably foreseeable effects of these future 
+actions will appropriately be considered at that time. For the purposes 
+of this final rule, even if a target species in the Cordell Bank area 
+is taken out of the FMP at a future time and no longer Federally-
+managed, participating fishing vessels would still be subject to catch 
+limits and any other management measures dictated by the State of 
+California.
 
-    In addition to the alternative treatment protocol described in 
-section III.A. of this preamble and of this variance approval and 
-further detailed in USE's September 22, 2025, petition, USE must comply 
-with the following conditions.
-    1. Prior to construction of the monofill and acceptance/disposal of 
-any HgS waste at the Beatty, Nevada, facility, USE must obtain all 
-necessary Federal, State and local permits.
-    2. For HgS waste, USE must meet the concentration based LDR 
-standard of 0.025 mg/L using TCLP, Method 1311; however, USE must also 
-conduct periodic confirmation testing on two (2) batches at least 
-quarterly for the first two (2) years and annually on two (2) batches 
-thereafter of the HgS waste using the most recently approved revision 
-of LEAF Method 1315 with modifications appropriate for mercury (See EPA 
-``Summary Document'' in the docket for details) to confirm continued 
-compliance with the concentration-based LDR standard of 0.025 mg/L. 
-Additional confirmation testing may be established by NDEP as part of 
-the permitting process.
-    3. USE must confirm that excess mercury is not present in the HgS 
-powder prior to blending with LLDPE, for at least one (1) of every 
-twenty (20) batches of HgS powder destined to be blended with LLDPE and 
-disposed at the Beatty, Nevada, facility.
-    4. HgS waste must be disposed within a permitted subtitle C 
-monofill at the USE Beatty, Nevada, TSD facility.
-    5. Disposal of HgS waste at the Beatty, Nevada, monofill must 
-comply with USE's RCRA permit conditions for the treated HgS waste.
-    6. The HgS waste management facilities at USE, including any waste 
-storage or disposal areas, must be designed and constructed such that 
-the containment system, leachate management system, stormwater 
-collection and control system, and future cover and closure systems are 
-independent of other environmental control systems for the facility. 
-The stormwater control systems for the HgS waste management facilities 
-must not allow stormwater run-off to or run-on from other waste 
-management units and must be designed to contain at least the water 
-volume resulting from a 24-hour, 100-year event. This condition must be 
-met during the life of the facility for operation, closure, and post-
-closure periods.
-    7. Leachate from other waste management units of the USE facility 
-must not be used for dust suppression at the monofill. Leachate from 
-the monofill itself may only be used for dust suppression at the 
-monofill if the leachate collected from the monofill is analyzed and 
-does not contain any hazardous constituents.
-    8. Unless a Future Amendment to this variance is approved as 
-described in section V of this preamble, Future Amendments to this 
-Variance, below, USE must only accept HgS waste treated via existing 
-agreement between USE and Bethlehem Apparatus as is described in this 
-variance.
+Classification
 
-V. Future Amendments to This Variance
+    Pursuant to sections 303(c) and 304(b)(1)(A) of the Magnuson-
+Stevens Act, the NMFS Assistant Administrator has determined that this 
+rule is consistent with the Pacific Coast Groundfish FMP, other 
+provisions of the Magnuson-Stevens Act, and other applicable law.
 
-    Prior to the acceptance of HgS powder or HgS waste at the Beatty, 
-Nevada, facility from any facility other than Bethlehem Apparatus's 
-Bethlehem, Pennsylvania, location, USE must submit a request for a 
-modification of this variance through a revised petition submitted 
-pursuant to 40 CFR 268.44 for approval by the EPA. To ensure such a 
-process change does not alter the performance of the treatment process 
-for HgS waste, the following steps are required for the Agency to 
-determine that the process and treatment residuals are equivalent to 
-those analyzed for this variance.
-    A. If USE proposes to use an alternate vendor for conversion of 
-elemental mercury to HgS powder that will then be blended into LLDPE 
-and extruded into a monolith, USE must:
-    1. Ensure any alternate vendor has secured all necessary permits 
-for such treatment processes from local, State and Federal regulators.
-    2. Demonstrate and receive approval from EPA that the conversion 
-process is the same as or equivalent to the Bethlehem Apparatus 
-process. The demonstration must detail equivalency for the following 
-process controls: type of equipment used, conversion temperature, color 
-of the HgS powder, type and quantity of sulfur added for reaction 
-completion without significant excess sulfur, external environmental 
-conditions at the time of conversion (humidity and temperature), 
-control of mercury losses through volatilization and residual 
-concentrations of other mercury species. If any process controls differ 
-from the Bethlehem Apparatus process, USE must submit such revisions to 
-EPA for approval and request a technical meeting to discuss such 
-revisions with the Agency prior to receiving HgS powder from the 
-alternate vendor.
-    3. Provide third-party analysis from at least five (5) samples of 
-HgS waste from different batches to the EPA. The analysis must 
-demonstrate that leaching does not exceed 0.025mg/L using TCLP and EPA 
-Method 1315 with modifications appropriate for mercury (refer to the 
-mercury leaching report at document ID: EPA-HQ-OLEM-2025-2038-0026 for 
-data transformation from Method 1315 to aqueous concentration using the 
-liquid-to-solid ratio and liquid-to-solid equilibration time for TCLP).
-    B. If USE proposes to move the LLDPE-HgS blending and extrusion 
-process from Bethlehem Apparatus to its Beatty, Nevada, facility, USE 
-must:
-    1. Secure all necessary permits for such treatment processes from 
-local, State and Federal regulators.
-    2. Demonstrate and receive approval from EPA that the blending and 
-extrusion process is the same as or equivalent to the Bethlehem 
-Apparatus process. The demonstration must detail equivalency for the 
-following process controls: type of equipment used, temperature of the 
-blending and extrusion process, residence time of HgS in the mixing 
-chamber, mixing speed, external environmental conditions at the time of 
-blending (humidity and temperature) and control of mercury losses 
-thorough volatilization. If any process controls differ from the 
-Bethlehem Apparatus process, USE must submit such revisions to the EPA 
-for approval and request a technical meeting to discuss such revisions 
-with the Agency prior to commencement of the treatment process.
-    3. Provide third-party analysis of at least three (3) samples of 
-the treated LLDPE-HgS monolithic waste using TCLP and EPA Method 1315 
-from different batches of HgS powder with modifications appropriate for 
-mercury (refer to the mercury leaching report at document ID: EPA-HQ-
-OLEM-2025-2038-0026 for data transformation from Method 1315 to aqueous 
-concentration using the liquid-to-solid ratio and
+[[Page 37346]]
 
-[[Page 38543]]
+Administrative Procedures Act
 
-liquid-to-solid equilibration time for TCLP).
+    There is good cause under 5 U.S.C. 553(d)(3) to make the rule 
+effective immediately upon filing with the Office of the Federal 
+Register as delaying the effectiveness of this rule would be contrary 
+to the public interest. This rule effectuates the long-awaited opening 
+of the Cordell Bank GCA, which will restore access to historical 
+fishing grounds to groundfish fishermen in Central California. This 
+rule will primarily benefit recreational fishermen in the San Francisco 
+Management Area; specifically, fishermen running charter boats out of 
+San Francisco and Bodega Bay. The rule is also likely to benefit non-
+trawl commercial fishermen fishing off Central California. A delayed 
+effective date for this rule would be contrary to the public interest 
+as it could have a substantial adverse economic impact on fishery 
+participants and fishing communities.
+    The 2026 recreational fishery in the San Francisco Management Area 
+opened on April 1, 2026, and will close on December 31, 2026. Though 
+the season is 9 months long, the summer (June through August) is by far 
+the fishery's busiest season. This busy season aligns with the summer 
+tourist season, and with good weather conditions for fishing, in and 
+off Central California. In recent years, participants in the California 
+recreational fishery have struggled economically due to decreased 
+fishing opportunities along the coast, including the lack of salmon 
+fishing opportunity. For these fishery participants, the opening of the 
+Cordell Bank GCA creates an important new fishing and economic 
+opportunity and business plans and decisions for 2026 were likely made 
+surrounding the anticipated opening of the GCA prior to the fishery's 
+busy summer season. The Cordell Bank GCA was one of many fishery 
+closures implemented along the U.S. West Coast in the early 2000s to 
+protect overfished groundfish species. These closures resulted in 
+significant adverse socio-economic impacts for fishermen and fishing 
+communities. All of the once-overfished species are now rebuilt or 
+rebuilding ahead of schedule and, in 2019, NMFS began restoring access 
+to previously closed areas. The Council recommended this action to open 
+the Cordell Bank GCA in March 2025. Accordingly, the relevant fishery 
+stakeholders initially anticipated that this rule would be effective by 
+January 1, 2026. NMFS has received feedback from fishery participants 
+that business plans were made with the expectation that the GCA would 
+be open for fishing before the recreational fishery opened on April 1, 
+2026. A delay in the effectiveness of this rule would result in further 
+delay in the opening of the Cordell Bank GCA, beyond the date that the 
+affected public was expecting; therefore, it would result in economic 
+harm to fishery participants and fishing communities by continuing to 
+constrain recreational fishing opportunity off the Central California 
+coast during the fishery's busy summer season.
+    Making this rule effective upon filing with the Office of Federal 
+Register is also in the public interest because it will benefit the 
+public by providing additional opportunity for recreational fishermen 
+in 2026 to fully utilize the California recreational fishery's annual 
+groundfish allocations. According to information provided by the 
+California Department of Fish and Wildlife (CDFW), the groundfish 
+species targeted in and around the Cordell Bank GCA are generally 
+underattained. Specifically, based on available data, CDFW has 
+indicated that species that would likely be targeted by the 
+recreational sector at Cordell Bank are highly underattained, with most 
+species tracking at 40% or less attainment of their fishery harvest 
+guideline or the overall non-trawl allocation. Opening the Cordell Bank 
+GCA to fishing immediately, and particularly during the busy summer 
+season, would therefore increase the likelihood of full utilization of 
+the 2026 groundfish allocations. As such, making this rule effective 
+immediately upon filing with the Office of the Federal Register would 
+be consistent with the public interest, as it would support the 
+Magnuson-Stevens Act's goal of promoting optimal yield within the 
+fishery.
+    Finally, a delayed effective date is not necessary to provide 
+sufficient notice to the fishing community. The purpose of the 30-day 
+delayed effectiveness provision of the APA is generally to give the 
+regulated community time to adjust to new regulations. The opening of 
+historical fishing grounds creates no new restriction or requirement 
+that warrants such time for adjustment. The only fishing area being 
+newly closed as part of the GEA is the 2.5 sq mi (6.5 sq km) that prior 
+allowed the use of non-bottom contact gear. Otherwise, the rest of the 
+GEA includes area that is already closed, as it is within the 
+geographic footprint of the former GCA. Moreover, the Cordell Bank GCA 
+is no longer needed for its original purpose--to protect groundfish 
+species. Therefore, it is in the public interest to increase fishing 
+access on the California coast as soon as possible and good cause 
+exists to waive the 30-day delay in effectiveness under 5 U.S.C. 
+553(d)(3). Increasing fishing access in the Cordell Bank area 
+immediately upon the filing of this rule with the Office of Federal 
+Register will provide additional opportunity for groundfish fishermen 
+in 2026, which will increase the likelihood of full utilization of 
+annual groundfish allocations.
 
-VI. Statutory and Executive Order Reviews
+Executive Order 12866
 
-A. Executive Order 12866: Regulatory Planning and Review and Executive 
-Order 13563: Improving Regulation and Regulatory Review
+    This final rule has been determined to be not significant for 
+purposes of Executive Order (E.O.) 12866.
 
-    This action is not a significant regulatory action and was 
-therefore not submitted to the Office of Management and Budget (OMB) 
-for review.
+Executive Order 14192
 
-B. Executive Order 14192: Unleashing Prosperity Through Deregulation
+    This final rule is not an E.O. 14192 regulatory action because this 
+rule is not significant under E.O. 12866.
 
-    This action is an Executive Order 14192 deregulatory action. This 
-rule is expected to provide burden reduction by replacing an 
-unachievable LDR standard that led to the requirement for indefinite 
-storage of high concentration mercury wastes by DOE. The site-specific 
-LDR standard will allow for the treatment and disposal of high 
-concentration mercury wastes.
+Executive Order 13175
 
-C. Congressional Review Act (CRA)
+    A Tribal summary impact statement under section (5)(b)(2)(B) and 
+(c)(2) of E.O. 13175 was not required for this final rule because this 
+action does not impose substantial direct compliance costs on Indian 
+Tribal Governments, as the action area is outside of the Usual and 
+Accustomed fishing areas for tribes with Federally-recognized treaties 
+to fish for groundfish. Therefore, a Tribal summary impact statement is 
+not required and has not been prepared.
 
-    This rule is exempt from the CRA because it is a rule of particular 
-applicability.
+Regulatory Impact Review (RIR)
 
-List of Subjects in 40 CFR Part 268
+    An RIR was prepared to assess all costs and benefits of available 
+regulatory alternatives. A copy of this Analysis is available from NMFS 
+(see ADDRESSES section). NMFS is recommending this final rule based on 
+its assessment of the net benefits of these measures.
 
-    Environmental protection, Hazardous waste, and Variances.
+Regulatory Flexibility Act
 
-Thomas D. Croci,
-Acting Assistant Administrator, Office of Land and Emergency 
-Management.
-    For the reasons set out in the preamble, title 40, chapter I of the 
-Code of Federal Regulations is amended as follows:
+    The Chief Counsel for Regulation, Department of Commerce, certified 
+to the Chief Counsel for Advocacy of the Small Business Administration 
+during the proposed rule stage that this action will not have a 
+significant economic impact on a substantial number of small entities. 
+The factual basis for this certification was published in the proposed 
+rule and is not repeated here. No comments were received regarding this 
+certification. As a result, a final regulatory flexibility analysis was 
+not required and none was prepared.
 
-PART 268--LAND DISPOSAL RESTRICTIONS
+Paperwork Reduction Act
+
+    This final rule contains no new information collection requirements 
+under the Paperwork Reduction Act of 1995.
+
+List of Subjects in 50 CFR Part 660
+
+    Fisheries, Fishing, Fishing vessels.
+
+[[Page 37347]]
+
+    Dated: June 16, 2026.
+Samuel D. Rauch III,
+Deputy Assistant Administrator for Regulatory Programs, National Marine 
+Fisheries Service.
+
+    For the reasons set out in the preamble, NMFS amends 50 CFR part 
+660 as follows:
+
+PART 660--FISHERIES OFF WEST COAST STATES
 
 0
-1. The authority citation for part 268 continues to read as follows:
+1. The authority citation for part 660 continues to read as follows:
 
-    Authority: 42 U.S.C. 6905, 6912(a), 6921, and 6924.
+    Authority:  16 U.S.C. 1801 et seq., 16 U.S.C. 773 et seq., and 
+16 U.S.C. 7001 et seq.
 
 0
-2. In Sec.  268.44,
+2. Amend Sec.  660.11 by:
 0
-a. Designate the table that immediately follows paragraph (o) as table 
-1 to paragraph (o); and
+a. In the definition for ``Conservation area(s)'':
 0
-b. Amend newly designated table 1 by adding, in alphabetical order, an 
-entry for ``U.S. Ecology Nevada, Inc.''.
+i. Revising introductory text and paragraph (1) introductory text;
+0
+ii. Removing paragraphs (1)(iii) and (1)(v);
+0
+iii. Redesignating paragraph (1)(iv) as paragraph (1)(iii) and 
+paragraphs (1)(vi) and (1)(vii) as paragraphs (1)(iv) and (1)(v);
+0
+iv. Adding paragraph (4); and
+0
+b. Revising the definition of ``Continuous transiting or transit 
+through''.
+    The revisions and addition read as follows:
+
+Sec.  660.11  General definitions.
+
+* * * * *
+    Conservation area(s) means an enclosed geographic area defined by 
+coordinates expressed in degrees of latitude and longitude where NMFS 
+may prohibit fishing with particular gear types. Conservation areas 
+include Groundfish Conservation Areas (GCA), Essential Fish Habitat 
+Conservation Areas (EFHCA), Deep-sea Ecosystem Conservation Areas 
+(DECA) and Groundfish Exclusion Areas (GEA).
+    (1) Groundfish Conservation Area or GCA means a conservation area 
+created or modified and enforced to control catch of groundfish or 
+protected species. Regulations at Sec.  660.60(c)(3) describe the 
+various purposes for which NMFS may implement certain types of GCAs 
+through routine management measures. Regulations at Sec.  660.70 
+further describe and define coordinates for certain GCAs, including 
+Yelloweye Rockfish Conservation Areas and Cowcod Conservation Areas. 
+GCAs also include closures bounded by the EEZ or depth-based lines 
+approximating depth contours, including Bycatch Reduction Areas or 
+BRAs, or bounded by depth contours and lines of latitude, including 
+Block Area Closures, or BACs, and Rockfish Conservation Areas, or RCAs, 
+which may be closed to fishing with particular gear types. BRA, BAC, 
+and RCA boundaries may change seasonally according to conservation 
+needs. Regulations at Sec. Sec.  660.71 through 660.74, and 660.76 
+define depth-based boundary lines with latitude/longitude coordinates 
+that may be used to enact depth-based closures. Regulations in this 
+section describe commonly used geographic coordinates that define lines 
+of latitude. Fishing prohibitions associated with GCAs are in addition 
+to those associated with other conservation areas.
+* * * * *
+    (4) Groundfish Exclusion Areas or GEAs are closed areas intended to 
+mitigate potential impacts to sensitive environments from certain 
+groundfish fishing activity. GEAs may prohibit fishing by certain 
+groundfish sectors or certain groundfish gear types. Geographic 
+coordinates for GEAs are defined at Sec.  660.70.
+* * * * *
+    Continuous transiting or transit through means that a vessel 
+crosses a conservation area on a heading as nearly as practicable to a 
+direct route, consistent with navigational safety, while maintaining 
+expeditious headway throughout the transit without loitering or delay.
+* * * * *
+
+0
+3. Amend Sec.  660.70 by:
+0
+a. Revising the section heading, paragraph (a), paragraph (t) 
+introductory text;
+0
+b. Adding paragraph (t)(10); and
+0
+c. Removing paragraph (u).
+    The revisions and addition read as follows:
+
+Sec.  660.70  Groundfish Conservation Areas and Groundfish Exclusion 
+Areas.
+
+    (a) General. Groundfish conservation area (GCA) and groundfish 
+exclusion area (GEA) are defined in Sec.  660.11. This section defines 
+GCAs and GEAs whose shapes are not exclusively defined by boundary 
+lines approximating depth contours found in Sec. Sec.  660.71 through 
+660.74 or commonly used geographic coordinates at Sec.  660.11. Fishing 
+activity that is prohibited or permitted within a particular GCA or GEA 
+is detailed at subparts C through G of part 660.
+* * * * *
+    (t) Groundfish Exclusion Areas. The Groundfish Exclusion Areas 
+(GEAs) are closed areas intended to protect sensitive areas, including 
+areas with coral and sea pens. GEAs are closed to both commercial and 
+recreational groundfish fisheries unless otherwise noted.
+* * * * *
+    (10) Cordell Bank. The Cordell Bank GEA is defined by the straight 
+lines connecting the following specific latitude and longitude 
+coordinates in the order listed and connecting back to 37[deg]57.62' N 
+lat., 123[deg]24.22' W long.:
+    (i) 37[deg]57.62' N lat., 123[deg]24.22' W long.;
+    (ii) 37[deg]57.70' N lat., 123[deg]25.25' W long.;
+    (iii) 37[deg]59.47' N lat., 123[deg]26.63' W long.;
+    (iv) 38[deg]00.24' N lat., 123[deg]27.87' W long.;
+    (v) 38[deg]00.98' N lat., 123[deg]27.65' W long.;
+    (vi) 38[deg]02.81' N lat., 123[deg]28.75' W long.;
+    (vii) 38[deg]04.26' N lat., 123[deg]29.25' W long.;
+    (viii) 38[deg]04.55' N lat., 123[deg]28.32' W long.;
+    (ix) 38[deg]03.87' N lat., 123[deg]27.69' W long.;
+    (x) 38[deg]04.27' N lat., 123[deg]26.68' W long.;
+    (xi) 38[deg]02.67' N lat., 123[deg]24.17' W long.;
+    (xii) 38[deg]00.87' N lat., 123[deg]23.15' W long.;
+    (xiii) 37[deg]59.32' N lat., 123[deg]22.52' W long.; and
+    (xvi) 37[deg]58.24' N lat., 123[deg]23.16' W long.
+
+0
+4. Amend Sec.  660.73 by redesignating paragraphs (b) through (y) as 
+paragraphs (c) through (z), and adding new paragraph (b) to read as 
+follows:
+
+Sec.  660.73  Latitude/longitude coordinates defining the 100 fm (183 
+m) through 150 fm (274 m) depth contours.
+
+* * * * *
+    (b) Cordell Bank 100 fm ring. The 100-fm (183-m) depth contour 
+around Cordell Bank off the State of California is defined by straight 
+lines connecting all of the following points in the order stated:
+    (1) 38[deg]03.18' N lat., 123[deg]20.77' W long.;
+    (2) 38[deg]06.29' N lat., 123[deg]25.03' W long.;
+    (3) 38[deg]06.34' N lat., 123[deg]29.32' W long.;
+    (4) 38[deg]04.57' N lat., 123[deg]31.30' W long.;
+    (5) 38[deg]02.32' N lat., 123[deg]31.07' W long.;
+    (6) 38[deg]00.00' N lat., 123[deg]28.40' W long.;
+    (7) 37[deg]58.10' N lat., 123[deg]26.66' W long.;
+    (8) 37[deg]55.07' N lat., 123[deg]26.81' W long.;
+    (9) 38[deg]00.00' N lat., 123[deg]23.08' W long.; and connecting 
+back to 38[deg]03.18' N lat., 123[deg]20.77' W long.
+* * * * *
+
+[[Page 37348]]
+
+0
+5. Amend Sec.  660.130 by:
+0
+a. Removing paragraph (e)(2);
+0
+b. Redesignating paragraph (e)(3) through (e)(7) as (e)(2) through 
+(e)(6); and
+0
+c. Adding paragraph (h)
     The addition reads as follows:
 
-Sec.  268.44  Variance from a treatment standard.
+Sec.  660.130  Trawl fishery--management measures.
 
 * * * * *
-    (o) * * *
+    (h) Groundfish Exclusion Areas (GEAs). GEAs are closed areas 
+defined by specific latitude and longitude coordinates (specified at 
+Sec.  660.70) where recreational and/or commercial fishing for 
+groundfish is prohibited unless otherwise noted at Sec.  660.70(t). It 
+is unlawful to fish for, take and retain, possess (except for the 
+purpose of continuous transit) or land groundfish within the GEAs 
+unless otherwise specified at Sec.  660.70(t). All prohibited fishing 
+gear for targeting groundfish, as specified at Sec.  660.70(t), must be 
+stowed while transiting through a GEA. If fishing for non-groundfish 
+species within a GEA, where all groundfish fishing is prohibited, then 
+no groundfish may be on board the vessel.
 
-                               Table 1 to Paragraph (o)--Wastes Excluded From The Treatment Standards Under Sec.   268.40
---------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                      Wastewaters                    Nonwastewaters
-                                                                          Regulated     ----------------------------------------------------------------
- Facility name \1\ and address      Waste code          See also          hazardous      Concentration (mg/                      Concentration
-                                                                         constituent             L)                Notes            (mg/kg)       Notes
---------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-                                                                      * * * * * * *
-U.S. Ecology Nevada, Inc......  D009, U151 \21\..  NA...............  Mercury..........  NA................  NA..............  0.025 mg/L TCLP.    \22\
-                                                                                                                                                   \23\
---------------------------------------------------------------------------------------------------------------------------------------------------------
-\1\ A facility may certify compliance with these treatment standards according to provisions in 40 CFR 268.7.
- * * * * * * *
-\21\ The waste codes included in this column are only for those mercury wastes identified as the high mercury subcategory in 40 CFR 268.40.
-\22\ This site-specific treatment standard applies only to elemental mercury resulting from RMERC of D009 or U151 high mercury subcategory wastes
-  containing greater than or equal to 260 mg/kg mercury treated via the alternative treatment method protocol of EPA 600/R-25/228, March 2026
-  (Evaluation of the Leaching Potential of Mercury from Polyethylene-Encapsulated Mercury Sulfide Material for Disposal). This alternative treatment
-  method converts elemental mercury post-RMERC to mercuric sulfide powder and blends the mercuric sulfide powder with linear low-density polyethylene
-  and extrudes the mixture as a monolithic block directly into a nonreactive container.
-\23\ Disposal of elemental mercury resulting from RMERC of D009 or U151 wastes that use the alternative treatment standards identified in footnote 22 in
-  this paragraph (o) table, is conditioned upon disposal at the U.S. Ecology Beatty, Nevada facility in a permitted subtitle C monofill that is
-  segregated from other disposal units at the facility. This treatment variance does not relieve U.S. Ecology of its responsibilities in the management
-  of hazardous waste under 40 CFR parts 260 through 271. This treatment variance is conditioned on U.S. Ecology's complying with the conditions
-  enumerated in Conditions for Treatment and Disposal of HgS Wastes (see [INSERT FEDERAL REGISTER CITATION for SUPPLEMENTARY INFORMATION], June 26,
-  2026), SUPPLEMENTARY INFORMATION section IV.
+0
+6. Amend Sec.  660.230 by removing paragraphs (d)(15) and (16) and 
+adding paragraph (h) to read as follows:
+
+Sec.  660.230  Fixed gear fishery--management measures.
 
 * * * * *
-[FR Doc. 2026-12927 Filed 6-25-26; 8:45 am]
-BILLING CODE 6560-50-P
+    (h) Groundfish exclusion areas (GEAs). GEAs are closed areas 
+defined by specific latitude and longitude coordinates (specified at 
+Sec.  660.70) where recreational and/or commercial fishing for 
+groundfish is prohibited unless otherwise noted at Sec.  660.70(t). It 
+is unlawful to fish for, take and retain, possess (except for the 
+purpose of continuous transit) or land groundfish within the GEAs 
+unless otherwise specified at Sec.  660.70(t). All prohibited fishing 
+gear for targeting groundfish, as specified at Sec.  660.70(t), must be 
+stowed while transiting through a GEA. If fishing for non-groundfish 
+species within a GEA, where all groundfish fishing is prohibited, then 
+no groundfish may be on board the vessel.
+
+0
+7. Amend Sec.  660.330 by removing paragraphs (d)(17) and (18), and 
+adding paragraph (h) to read as follows:
+
+Sec.  660.330  Open access fishery--management measures.
+
+* * * * *
+    (h) Groundfish exclusion areas (GEAs). GEAs are closed areas 
+defined by specific latitude and longitude coordinates (specified at 
+Sec.  660.70) where recreational and/or commercial fishing for 
+groundfish is prohibited unless otherwise noted at Sec.  660.70(t). It 
+is unlawful to fish for, take and retain, possess (except for the 
+purpose of continuous transit) or land groundfish within the GEAs 
+unless otherwise specified at Sec.  660.70(t). All prohibited fishing 
+gear for targeting groundfish, as specified at Sec.  660.70(t), must be 
+stowed while transiting through a GEA. If fishing for non-groundfish 
+species within a GEA, where all groundfish fishing is prohibited, then 
+no groundfish may be on board the vessel.
+
+0
+8. Amend Sec.  660.360 by:
+0
+a. Revising paragraphs (c)(3)(i)(A)(3) and (B);
+0
+b. Removing paragraph (c)(3)(i)(C); and
+0
+c. Redesignating paragraphs (c)(3)(i)(D) through (I) as paragraphs 
+(c)(3)(i)(C) through (H).
+    The revisions read as follows:
+
+Sec.  660.360  Recreational fishery--management measures.
+
+* * * * *
+    (c) * * *
+    (3) * * *
+    (i) * * *
+    (A) * * *
+    (3) Between 38[deg]57.50' N lat. and 37[deg]11' N lat. (San 
+Francisco Management Area), recreational fishing for the RCG Complex 
+and lingcod is closed in the EEZ from January 1 through March 31, is 
+prohibited in the EEZ shoreward of the boundary line approximating the 
+50-fm (91-m) depth contour along the mainland coast and along islands 
+and offshore seamounts from April 1 through April 30, is closed in the 
+EEZ from May 1 to September 30, is prohibited in the EEZ shoreward of 
+the boundary line approximating the 50-fm (91-m) depth contour along 
+the mainland coast and along islands and offshore seamounts from 
+October 1 through October 31, is closed in the EEZ from November 1 
+through November 30, and is prohibited in the EEZ shoreward of the 
+boundary line approximating the 50-fm (91-m) depth contour along the 
+mainland coast and along islands and offshore seamounts from December 1 
+through December 31.
+* * * * *
+    (B) Groundfish exclusion areas (GEAs). GEAs are closed areas 
+defined by specific latitude and longitude coordinates (specified at 
+Sec.  660.70) where recreational and/or commercial fishing for 
+groundfish is prohibited unless otherwise noted at Sec.  660.70(t). It 
+is unlawful to fish for, take and retain, possess (except for the 
+purpose of continuous transit) or land groundfish within the GEAs 
+unless otherwise specified at Sec.  660.70(t). Recreational fishing 
+gear for targeting groundfish may not be deployed while transiting 
+through a GEA. If fishing for non-groundfish species within a GEA, then 
+no groundfish may be on board the vessel.
+* * * * *
+
+[FR Doc. 2026-12566 Filed 6-22-26; 8:45 am]
+BILLING CODE 3510-22-P

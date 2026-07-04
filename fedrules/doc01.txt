@@ -1,593 +1,605 @@
-[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
+[Federal Register Volume 91, Number 118 (Monday, June 22, 2026)]
 [Rules and Regulations]
-[Pages 38535-38540]
+[Pages 37043-37047]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-12913]
+[FR Doc No: 2026-12510]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+FEDERAL COMMUNICATIONS COMMISSION
+
+47 CFR Parts 1, 73, 90, and 95
+
+[GN Docket No. 25-133; FCC 26-15; FR ID 351498]
+
+Deletion of Obsolete Regulations
+
+AGENCY: Federal Communications Commission.
+
+ACTION: Direct final rule.
 
 -----------------------------------------------------------------------
 
-ENVIRONMENTAL PROTECTION AGENCY
-
-40 CFR Part 180
-
-[EPA-HQ-OPP-2025-0816; FRL-13411-01-OCSPP]
-
-Cinnamaldehyde in Pesticide Formulations; Exemption From the 
-Requirement for a Tolerance
-
-AGENCY: Environmental Protection Agency (EPA).
-
-ACTION: Final rule.
-
------------------------------------------------------------------------
-
-SUMMARY: This regulation establishes an exemption from the requirement 
-of a tolerance for residues of cinnamaldehyde (CAS Reg. No. 104-55-2) 
-when used as an inert ingredient (preservative/stabilizer) on growing 
-crops and raw agricultural commodities pre- and post-harvest, limited 
-to no more than 100 parts per million (ppm) in the end-use pesticide 
-formulation. Wagner Regulatory Associates, Inc., on behalf of Minagro, 
-submitted a petition to EPA under the Federal Food, Drug, and Cosmetic 
-Act (FFDCA), requesting establishment of an exemption from the 
-requirement of a tolerance. This regulation eliminates the need to 
-establish a maximum permissible level for residues of cinnamaldehyde, 
-when used in accordance with the terms of this exemption.
-
-DATES: This regulation is effective June 26, 2026. Objections and 
-requests for hearings must be received on or before August 25, 2026 and 
-must be filed in accordance with the instructions provided in 40 CFR 
-part 178 (see also Unit I.C. of this document).
-
-ADDRESSES: The docket for this action, identified by docket 
-identification (ID) number EPA-HQ-OPP-2025-0816, is available online at 
- https://www.regulations.gov . Additional information about dockets 
-generally, along with instructions for visiting the docket in person, 
-is available at  https://www.epa.gov/dockets .
-
-FOR FURTHER INFORMATION CONTACT: Charles Smith, Registration Division 
-(7505T), Office of Pesticide Programs, Environmental Protection Agency, 
-1200 Pennsylvania Ave. NW, Washington, DC 20460-0001; main telephone 
-number: (202) 566-1030; email address:   [email&#160;protected]  .
-
-SUPPLEMENTARY INFORMATION: 
-
-I. General Information
-
-A. Does this action apply to me?
-
-    You may be potentially affected by this action if you are an 
-agricultural producer, food manufacturer, or pesticide manufacturer. 
-The following list of North American Industrial Classification System 
-(NAICS) codes is not intended to be exhaustive, but rather provides a 
-guide to help readers determine whether this document applies to them.
-      Crop production (NAICS code 111).
-      Animal production (NAICS code 112).
-      Food manufacturing (NAICS code 311).
-      Pesticide manufacturing (NAICS code 32532).
-    If you have any questions regarding the applicability of this 
-proposed action to a particular entity, consult the person listed under 
-FOR FURTHER INFORMATION CONTACT.
-
-B. What is EPA's authority for taking this action?
-
-    EPA is issuing this rulemaking under section 408 of the FFDCA, 21 
-U.S.C. 346a. FFDCA section 408(c)(2)(A)(i) allows EPA to establish an 
-exemption from the requirement for a tolerance (the legal limit for a 
-pesticide chemical residue in or on a food) only if EPA determines that 
-the exemption is ``safe.'' FFDCA section 408(c)(2)(A)(ii) defines 
-``safe'' to mean that ``there is a reasonable certainty that no harm 
-will result from aggregate exposure to the pesticide chemical residue, 
-including all anticipated dietary exposures and all other exposures for 
-which there is reliable information.'' This includes exposure through 
-drinking water and in residential settings but does not include 
-occupational exposure. Pursuant to FFDCA section 408(c)(2)(B), in 
-establishing or maintaining in effect an exemption from the requirement 
-of a tolerance, EPA must take into account the factors set forth in 
-FFDCA section 408(b)(2)(C), which require EPA to give special 
-consideration to exposure of infants and children to the pesticide 
-chemical residue in establishing a tolerance and to ``ensure that there 
-is a
-
-[[Page 38536]]
-
-reasonable certainty that no harm will result to infants and children 
-from aggregate exposure to the pesticide chemical residue. . . . '' 
-Additionally, FFDCA section 408(b)(2)(D) requires that the Agency 
-consider, among other things, ``available information concerning the 
-cumulative effects of a particular pesticide's residues'' and ``other 
-substances that have a common mechanism of toxicity.''
-
-C. How can I file an objection or hearing request?
-
-    Under FFDCA section 408(g), 21 U.S.C. 346a(g), any person may file 
-an objection to any aspect of this regulation and may also request a 
-hearing on those objections. If you fail to file an objection to the 
-final rule within the time period specified in the final rule, you will 
-have waived the right to raise any issues resolved in the final rule. 
-You must file your objection or request a hearing on this regulation in 
-accordance with the instructions provided in 40 CFR part 178. To ensure 
-proper receipt by EPA, you must identify the docket ID number EPA-HQ-
-OPP-2025-0816 in the subject line on the first page of your submission. 
-All objections and requests for a hearing must be in writing and must 
-be received by the Hearing Clerk on or before August 25, 2026.
-    EPA's Administrative Law Judges Division (ALJD), in which the 
-Hearing Clerk is housed, urges parties to file and serve documents by 
-electronic means only, notwithstanding any other particular 
-requirements set forth in other procedural rules governing those 
-proceedings. See ``Order Urging Electronic Filing and Service,'' dated 
-December 3, 2025, which can be found at  https://www.epa.gov/system/files/documents/2025-12/2025-12-03-order-urging-electronic-filing-and-service.pdf . Although EPA's regulations require submission via U.S. 
-Mail or hand delivery, EPA intends to treat submissions filed via 
-electronic means as properly filed submissions; therefore, EPA believes 
-the preference for submission via electronic means will not be 
-prejudicial. When submitting documents to the ALJD electronically, a 
-person should utilize the e-filing system at  https://yosemite.epa.gov/oa/eab/eab-alj_upload.nsf .
-    In addition to filing an objection or hearing request with the 
-Hearing Clerk as described in 40 CFR part 178, please submit a copy of 
-the filing (excluding any Confidential Business Information (CBI)) for 
-inclusion in the public docket at  https://www.regulations.gov . Follow 
-the online instructions for submitting comments. Do not submit 
-electronically any information you consider to be CBI or other 
-information whose disclosure is restricted by statute. If you wish to 
-include CBI in your request, please follow the applicable instructions 
-at  https://www.epa.gov/dockets/commenting-epa-dockets#rules  and clearly 
-mark the information that you claim to be CBI. Information not marked 
-confidential pursuant to 40 CFR part 2 may be disclosed publicly by EPA 
-without prior notice.
-
-II. Petitioned for Exemption
-
-    In the Federal Register of December 15, 2025 (90 FR 57944, FRL-
-12474-08-OCSPP), EPA issued a document pursuant to FFDCA section 408, 
-21 U.S.C. 346a, announcing the filing of a pesticide petition (PP IN-
-11993) by Wagner Regulatory Associates, Inc. (7217 Lancaster Pike, 
-Hockessin, DE 19707) on behalf of Minagro (1, avenue Jean Monnet 1348 
-Louvain-la-Neuve Belgium). The petition requested that 40 CFR 180.910 
-be amended by establishing an exemption from the requirement of a 
-tolerance for residues of cinnamaldehyde (CAS Reg. No. 104-55-2) when 
-used as an inert ingredient (preservative/stabilizer) in pesticide 
-formulations applied to growing crops or raw agricultural commodities 
-pre- and post-harvest, limited to no more than 100 ppm in the end-use 
-pesticide formulation. That document referenced a summary of the 
-petition prepared by the petitioner, which is available in the docket. 
-There were no comments received in response to the notice of filing.
-
-III. Inert Ingredient Definition
-
-    Inert ingredients are all ingredients that are not active 
-ingredients as defined in 40 CFR 153.125 and include, but are not 
-limited to, the following types of ingredients (except when they have a 
-pesticidal efficacy of their own): solvents such as alcohols and 
-hydrocarbons; surfactants such as polyoxyethylene polymers and fatty 
-acids; carriers such as clay and diatomaceous earth; thickeners such as 
-carrageenan and modified cellulose; wetting, spreading, and dispersing 
-agents; propellants in aerosol dispensers; microencapsulating agents; 
-and emulsifiers. The term ``inert'' is not intended to imply 
-nontoxicity; the ingredient may or may not be chemically active. 
-Generally, EPA has exempted inert ingredients from the requirement of a 
-tolerance based on the low toxicity of the individual inert 
-ingredients.
-
-IV. Aggregate Risk Assessment and Determination of Safety
-
-    EPA establishes exemptions from the requirement of a tolerance only 
-in those cases where it can be clearly demonstrated that the risks from 
-aggregate exposure to pesticide chemical residues under reasonably 
-foreseeable circumstances will pose no harm to human health. In order 
-to determine the risks from aggregate exposure to pesticide inert 
-ingredients, the Agency considers the toxicity of the inert in 
-conjunction with possible exposure to residues of the inert ingredient 
-through food, drinking water, and through other exposures that occur as 
-a result of pesticide use in residential settings. If EPA is able to 
-determine that a finite tolerance is not necessary to ensure that there 
-is a reasonable certainty that no harm will result from aggregate 
-exposure to the inert ingredient, an exemption from the requirement of 
-a tolerance may be established.
-    Consistent with FFDCA section 408(c)(2)(A), and the factors 
-specified in FFDCA section 408(c)(2)(B), EPA has reviewed the available 
-scientific data and other relevant information in support of this 
-action. EPA has sufficient data to assess the hazards of and to make a 
-determination on aggregate exposure for cinnamaldehyde, including 
-exposure resulting from the exemption established by this action. EPA's 
-assessment of exposures and risks associated with cinnamaldehyde 
-follows.
-
-A. Toxicological Profile
-
-    EPA has evaluated the available toxicity data and considered their 
-validity, completeness, and reliability as well as the relationship of 
-the results of the studies to human risk. EPA has also considered 
-available information concerning the variability of the sensitivities 
-of major identifiable subgroups of consumers, including infants and 
-children. Specific information on the studies received and the nature 
-of the adverse effects caused by cinnamaldehyde as well as the no-
-observed-adverse-effect-level (NOAEL) and the lowest-observed-adverse-
-effect-level (LOAEL) from the toxicity studies are discussed in this 
-unit.
-    The toxicological database of cinnamaldehyde is supported by data 
-regarding trans-cinnamaldehyde. Based on the available human health 
-toxicity data of the two substances, EPA has determined that it is 
-appropriate to bridge trans-cinnamaldehyde data to assess 
-cinnamaldehyde due to
-
-[[Page 38537]]
-
-similarities in the structure and physical/chemical properties.
-    Cinnamaldehyde exhibits low levels of acute toxicity via the oral, 
-dermal, and inhalation routes of exposure. It is a moderate dermal and 
-eye irritant, and a strong dermal sensitizer. Decreased body weight in 
-female rats was observed at 4100 ppm (200 mg/kg/day) in a 2-year 
-chronic/carcinogenicity study. No increased offspring susceptibility 
-was observed in the available studies as offspring effects (reduced 
-fetal body weights) were only observed in the presence of parental 
-toxicity (increased incidence of clinical signs of toxicity, reduced 
-pregnancy rate, and pathological changes in the stomach) at 500 mg/kg/
-day. The established chronic reference dose (1.0 mg/kg/day) will be 
-protective of offspring effects. No evidence of neurotoxicity or 
-immunotoxicity was observed in the available studies. Concern for 
-carcinogenicity is low, based on the absence of treatment-related 
-neoplastic lesions or tumors in chronic/carcinogenicity studies in rats 
-and mice, and negative results in mutagenicity studies.
-
-B. Toxicological Points of Departure/Levels of Concern
-
-    Once a pesticide's toxicological profile is determined, EPA 
-identifies toxicological points of departure (POD) and levels of 
-concern to use in evaluating the risk posed by human exposure to the 
-pesticide. For hazards that have a threshold below which there is no 
-appreciable risk, the toxicological POD is used as the basis for 
-derivation of reference values for risk assessment. PODs are developed 
-based on a careful analysis of the doses in each toxicological study to 
-determine the NOAEL and the LOAEL. Uncertainty/safety factors are used 
-in conjunction with the POD to calculate a safe exposure level, 
-generally referred to as a population-adjusted dose (PAD) or a 
-reference dose, and a safe margin of exposure (MOE). For non-threshold 
-risks, the Agency assumes that any amount of exposure will lead to some 
-degree of risk. Thus, the Agency estimates risk in terms of the 
-probability of an occurrence of the adverse effect expected in a 
-lifetime. For more information on the general principles EPA uses in 
-risk characterization and a complete description of the risk assessment 
-process, see  https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/overview-risk-assessment-pesticide-program .
-    An acute dietary endpoint was not selected because no effect 
-attributable to a single dose was identified in the database. The 2-
-year chronic/carcinogenicity study in rats was selected for the chronic 
-dietary exposure scenario as well as short- and intermediate-term 
-incidental oral, dermal and inhalation exposure scenarios. The NOAEL of 
-2100 ppm (100 mg/kg/day) and LOAEL of 4100 ppm (200 mg/kg/day), based 
-on decreased body weight in female rats, were selected for risk 
-assessment. The study is appropriate for the duration of exposure and 
-is protective of all chronic effects, including for the general 
-population and the most sensitive lifestage (children). The standard 
-inter- and intra-species uncertainty factors of 10x are applied (total 
-uncertainty factor = 100x). The default factor of 100% is applied for 
-the dermal and inhalation absorption rates.
-
-C. Exposure Assessment
-
-    1. Dietary Exposure from Food and Feed Uses. In evaluating dietary 
-exposure to cinnamaldehyde, EPA considered exposure under the existing 
-and proposed exemptions from the requirement of a tolerance. EPA 
-assessed dietary exposures from cinnamaldehyde in food as follows.
-    Dietary exposure (food and drinking water) may occur from the 
-existing and proposed pesticidal uses of cinnamaldehyde (e.g., eating 
-foods treated with pesticide formulations containing cinnamaldehyde, 
-and drinking water exposures). Dietary exposure may also occur from 
-non-pesticidal uses (e.g., household, personal care, cosmetics, and 
-food additive), but no reliable information is available for non-
-pesticidal exposures. Therefore, EPA assessed dietary exposures from 
-pesticidal uses of cinnamaldehyde only.
-    In conducting the dietary exposure assessment, EPA used the Dietary 
-Exposure Evaluation Model software using the Food Commodity Intake 
-Database, Version 4.02, which uses food consumption information from 
-the U.S. Department of Agriculture's 2005-2010 National Health and 
-Nutrition Examination Survey, What We Eat in America. As to residue 
-levels in food, no residue data were submitted for cinnamaldehyde. In 
-the absence of specific residue data, EPA has developed an approach 
-which uses surrogate information to derive upper bound exposure 
-estimates for the subject inert ingredient. Upper bound exposure 
-estimates are based on the highest tolerance for a given commodity from 
-a list of high-use insecticides, herbicides, and fungicides. A complete 
-description of the general approach taken to assess inert ingredient 
-risks in the absence of residue data is contained in the December 21, 
-2021, memorandum ``Update to D361707: Dietary Exposure and Risk 
-Assessments for the Inerts,'' which can be found at  http://www.regulations.gov  in docket ID number EPA-HQ-OPP-2018-0090.
-    In the dietary exposure assessment, the Agency assumed that the 
-residue level of the inert ingredient would be no higher than the 
-highest tolerance for a given commodity. Implicit in this assumption is 
-that there would be similar rates of degradation (if any) between the 
-active and inert ingredient and that the concentration of inert 
-ingredient in the scenarios leading to these highest levels of 
-tolerances would be no higher than the concentration of the active 
-ingredient.
-    The Agency believes the assumptions used to estimate dietary 
-exposures lead to an extremely conservative assessment of dietary risk 
-due to a series of compounded conservatisms. First, assuming that the 
-level of residue for an inert ingredient is equal to the level of 
-residue for the active ingredient will overstate exposure. When used as 
-an active ingredient, the concentrations of cinnamaldehyde in 
-agricultural products are generally at least 50 percent of the product 
-and often can be much higher. Further, pesticide products rarely have a 
-single inert ingredient; rather, there is generally a combination of 
-different inert ingredients used which additionally reduces the 
-concentration of any single inert ingredient in the pesticide product 
-in relation to that of the active ingredient. In the case of 
-cinnamaldehyde, EPA made a specific adjustment to the dietary exposure 
-assessment to account for the limit on the amount of cinnamaldehyde 
-that can be used in pesticide formulations (100 ppm), rather than 
-assuming that cinnamaldehyde will be present at equal quantities with 
-the active ingredient.
-    For the purpose of the screening level dietary risk assessment, a 
-conservative drinking water concentration value of 100 parts per 
-billion based on screening level modeling was used to assess the 
-contribution to drinking water for the chronic dietary risk assessments 
-for cinnamaldehyde.
-    2. From Non-Dietary Exposure. The term ``residential exposure'' is 
-used in this document to refer to non-occupational, non-dietary 
-exposure (e.g., textiles (clothing and diapers), carpets, swimming 
-pools, and hard surface disinfection on walls, floors, tables).
-    Cinnamaldehyde can be used as an inert ingredient in pesticide 
-products that are registered for specific uses that
-
-[[Page 38538]]
-
-may result in residential exposure, such as pesticides used in and 
-around the home. Therefore, screening level residential handler and 
-post-application risk assessments have been performed for common 
-residential exposure scenarios, using assumptions detailed in the 2012 
-Residential Standard Operating Procedures, which is available at 
- https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/standard-operating-procedures-residential-pesticide .
-    3. Cumulative Effects from Substances with a Common Mechanism of 
-Toxicity. Section 408(b)(2)(D)(v) of FFDCA requires that, when 
-considering whether to establish, modify, or revoke a tolerance, the 
-Agency consider ``available information'' concerning the cumulative 
-effects of a particular pesticide's residues and ``other substances 
-that have a common mechanism of toxicity.''
-    EPA has not found cinnamaldehyde to share a common mechanism of 
-toxicity with any other substances, and cinnamaldehyde does not appear 
-to produce a toxic metabolite produced by other substances. For the 
-purposes of this tolerance exemption, therefore, EPA has assumed that 
-cinnamaldehyde does not have a common mechanism of toxicity with other 
-substances. Information regarding EPA's efforts to determine which 
-chemicals have a common mechanism of toxicity and to evaluate the 
-cumulative effects of such chemicals is available at  https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/cumulative-assessment-risk-pesticides .
-
-D. Additional Safety Factor for the Protection of Infants and Children
-
-    Section 408(b)(2)(C) of FFDCA provides that EPA shall apply an 
-additional tenfold (10X) margin of safety for infants and children in 
-the case of threshold effects to account for prenatal and postnatal 
-toxicity and the completeness of the database on toxicity and exposure 
-unless EPA determines based on reliable data that a different margin of 
-safety will be safe for infants and children. This additional margin of 
-safety is commonly referred to as the Food Quality Protection Act 
-(FQPA) safety factor. In applying this provision, EPA either retains 
-the default value of 10X or uses a different additional safety factor 
-when reliable data available to EPA support the choice of a different 
-factor.
-    Based on the evaluation of available toxicity studies, there is low 
-concern for pre- and postnatal susceptibility from exposure to 
-cinnamaldehyde. The FQPA safety factor has been reduced to 1X because: 
-(1) the toxicity database is adequate to characterize potential pre- 
-and postnatal risk; (2) the established POD of 2100 ppm (100 mg/kg/day) 
-will be protective of reduced fetal body weight seen at 4100 ppm (500 
-mg/kg/day) in the developmental toxicity study in rats; (3) no evidence 
-of neurotoxicity was observed in the database; and (4) the assumptions 
-for the exposure assessment are conservative and unlikely to 
-underestimate risk.
-
-E. Aggregate Risks and Determination of Safety
-
-    EPA determines whether acute and chronic dietary pesticide 
-exposures are safe by comparing aggregate exposure estimates to the 
-acute PAD (aPAD) and chronic PAD (cPAD). For linear cancer risks, EPA 
-calculates the lifetime probability of acquiring cancer given the 
-estimated aggregate exposure. Short-, intermediate-, and chronic-term 
-risks are evaluated by comparing the estimated aggregate food, water, 
-and residential exposure to the appropriate PODs to ensure that an 
-adequate MOE exists.
-    1. Acute Risk. An acute aggregate risk assessment takes into 
-account acute exposure estimates from dietary consumption of food and 
-drinking water. No adverse effect resulting from a single oral exposure 
-was identified, and no acute dietary endpoint was selected. Therefore, 
-cinnamaldehyde is not expected to pose an acute risk.
-    2. Chronic Risk. Using the exposure assumptions described in this 
-unit for chronic exposure, EPA has concluded that chronic exposure to 
-cinnamaldehyde from food and water will utilize approximately 1% and 2% 
-of the cPAD for the U.S. population and children 1-2 years old (the 
-most highly exposed populations). Therefore, cinnamaldehyde is not 
-expected to pose a chronic risk.
-    3. Short- and Intermediate-Term Risks. Short- and intermediate-term 
-aggregate exposures take into account short- and intermediate-term 
-residential exposures plus chronic exposures to food and water 
-(considered to be a background exposure level).
-    Cinnamaldehyde can be used as an inert ingredient in pesticide 
-products that are registered for uses that could result in short-term 
-residential exposure, and the Agency has determined that it is 
-appropriate to aggregate chronic exposure through food and water with 
-short-term residential exposures to cinnamaldehyde.
-    Using the exposure assumptions described in this unit for short- 
-and intermediate-term exposures, EPA has concluded the combined short- 
-and intermediate-term food, water, and residential exposures result in 
-an aggregate MOE of 12658 for adults. Adult residential exposure 
-combines high-end dermal and inhalation residential handler exposure 
-from aerosol spray/trigger pump application with high-end post-
-application dermal exposure from contact with treated lawns. The 
-combined short- and intermediate-term aggregated food, water, and 
-residential pesticide exposures result in an aggregate MOE of 3154 for 
-children. Children's residential exposure is based on total exposures 
-associated with contact with treated lawns (dermal and hand-to-mouth 
-exposures). Because EPA's level of concern for cinnamaldehyde is an MOE 
-of 100 or below, these MOEs are not of concern.
-    4. Cancer Risk. EPA has not identified any concerns for 
-carcinogenicity relating to cinnamaldehyde. Therefore, cinnamaldehyde 
-is not expected to pose a cancer risk.
-
-F. Analytical Enforcement Methodology
-
-    An analytical method is not required for enforcement purposes since 
-the Agency is not establishing a numerical tolerance for residues of 
-cinnamaldehyde in or on any food commodities. EPA is establishing a 
-limitation on the amount of cinnamaldehyde that may be used in 
-pesticide formulations. This limitation will be enforced through the 
-pesticide registration process under the Federal Insecticide, 
-Fungicide, and Rodenticide Act, 7 U.S.C. 136 et seq. EPA will not 
-register any pesticide formulation for food use that exceeds 100 ppm 
-cinnamaldehyde in the final pesticide formulation to be applied pre- or 
-post-harvest.
-
-G. Conclusions
-
-    Therefore, an exemption from the requirement of a tolerance is 
-established for residues of cinnamaldehyde (CAS Reg. No. 104-55-2) when 
-used as an inert ingredient (preservative/stabilizer) in pesticide 
-formulations applied to growing crops and raw agricultural commodities 
-after harvest under 40 CFR 180.910, limited to no more than 100 ppm in 
-the end-use pesticide formulation.
-
-V. Statutory and Executive Order Reviews
-
-    Additional information about these statutes and Executive Orders 
-can be found at  https://www.epa.gov/laws-regulations/and-executive-orders .
-
-[[Page 38539]]
-
-A. Executive Order 12866: Regulatory Planning and Review
-
-    This action is exempt from review under Executive Order 12866 (58 
-FR 51735, October 4, 1993), because it establishes or modifies a 
-pesticide tolerance or a tolerance exemption under FFDCA section 408 in 
-response to a petition submitted to the Agency. The Office of 
-Management and Budget (OMB) has exempted these types of actions from 
-review under Executive Order 12866.
-
-B. Executive Order 14192: Unleashing Prosperity Through Deregulation
-
-    Executive Order 14192 (90 FR 9065, February 6, 2025) does not apply 
-because actions that establish a tolerance or a tolerance exemption 
-under FFDCA section 408 are exempted from review under Executive Order 
-12866.
-
-C. Paperwork Reduction Act (PRA)
-
-    This action does not impose an information collection burden under 
-the PRA 44 U.S.C. 3501 et seq., because it does not contain any 
-information collection activities.
-
-D. Regulatory Flexibility Act (RFA)
-
-    This action is not subject to the RFA, 5 U.S.C. 601 et seq. The RFA 
-applies only to rules subject to notice and comment rulemaking 
-requirements under the Administrative Procedure Act (APA), 5 U.S.C. 
-553, or any other statute. This rule is not subject to the APA but is 
-subject to FFDCA section 408(d), which does not require notice and 
-comment rulemaking to take this action in response to a petition.
-
-E. Unfunded Mandates Reform Act (UMRA)
-
-    This action does not contain an unfunded mandate of $100 million or 
-more (in 1995 dollars and adjusted annually for inflation) as described 
-in UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely 
-affect small governments. The action imposes no enforceable duty on any 
-State, local or Tribal governments or the private sector.
-
-F. Executive Order 13132: Federalism
-
-    This action does not have federalism implications as specified in 
-Executive Order 13132 (64 FR 43255, August 10, 1999), because it will 
-not have substantial direct effects on the States, on the relationship 
-between the National Government and the States, or on the distribution 
-of power and responsibilities among the various levels of government.
-
-G. Executive Order 13175: Consultation and Coordination With Indian 
-Tribal Governments
-
-    This action does not have Tribal implications as specified in 
-Executive Order 13175 (65 FR 67249, November 9, 2000), because it will 
-not have substantial direct effects on Tribal governments, on the 
-relationship between the Federal Government and the Indian Tribes, or 
-on the distribution of power and responsibilities between the Federal 
-Government and Indian Tribes.
-
-H. Executive Order 13045: Protection of Children From Environmental 
-Health Risks and Safety Risks
-
-    This action is not subject to Executive Order 13045 (62 FR 19885, 
-April 23, 1997) because it is not a significant regulatory action under 
-section 3(f)(1) of Executive Order 12866 (See Unit VI.A.), and because 
-EPA does not believe the environmental health or safety risks addressed 
-by this action present a disproportionate risk to children.
-    However, EPA's 2026 Policy on Children's Health applies to this 
-action. This rule finalizes tolerance actions under the FFDCA, which 
-requires EPA to give special consideration to exposure of infants and 
-children to the pesticide chemical residue in establishing a tolerance 
-and to ``ensure that there is a reasonable certainty that no harm will 
-result to infants and children from aggregate exposure to the pesticide 
-chemical residue . . .'' (FFDCA 408(b)(2)(C)). The Agency's 
-consideration is documented in Unit IV and the pesticide-specific 
-review documents, located in the applicable docket at  https://www.regulations.gov .
-
-I. Executive Order 13211: Actions Concerning Regulations That 
-Significantly Affect Energy Supply, Distribution or Use
-
-    This action is not subject to Executive Order 13211 (66 FR 28355) 
-(May 22, 2001) because it is not a significant regulatory action under 
-Executive Order 12866.
-
-J. National Technology Transfer Advancement Act (NTTAA)
-
-    This action does not involve technical standards that would require 
-Agency consideration under NTTAA section 12(d), 15 U.S.C. 272.
-
-K. Congressional Review Act (CRA)
-
-    This action is subject to the CRA, 5 U.S.C. 801 et seq., and EPA 
-will submit a rule report to each House of the Congress and to the 
-Comptroller General of the United States. This action is not a ``major 
-rule'' as defined by 5 U.S.C. 804(2).
-
-List of Subjects in 40 CFR Part 180
-
-    Environmental protection, Administrative practice and procedure, 
-Agricultural commodities, Pesticides and pests, Reporting and 
-recordkeeping requirements.
-
-    Dated: June 9, 2026.
-Charles Smith,
-Director, Registration Division, Office of Pesticide Programs.
-    For the reasons stated in the preamble, EPA is amending 40 CFR 
-chapter I as follows:
-
-PART 180--TOLERANCES AND EXEMPTIONS FOR PESTICIDE CHEMICAL RESIDUES 
-IN FOOD
+SUMMARY: In this document, the Federal Communications Commission 
+(Commission) acts to eliminate certain outdated, obsolete, and 
+unnecessary rules to modernize its regulatory framework.
+
+DATES: These rules are effective August 21, 2026 without further 
+action, unless adverse comment is received by July 13, 2026. If adverse 
+comment is received, the Commission will publish a timely withdrawal of 
+the rule in the Federal Register.
+
+ADDRESSES: You may submit comments, identified by GN Docket No. 25-133, 
+electronically or on paper. See Supplementary Information for specific 
+information and addresses for electronic or paper filings.
+
+FOR FURTHER INFORMATION CONTACT: Michelle Schaefer, Federal 
+Communications Commission, Office of Economics and Analytics, 
+  [email&#160;protected]  , (202) 418-2683.
+
+SUPPLEMENTARY INFORMATION: This is a summary of the Commission's Direct 
+Final Rule, GN Docket No. 25-133, FCC 26-15, adopted on March 26, 2026, 
+and released on March 26, 2026. The full text of this document is 
+available for public inspection and can be downloaded at  https://www.fcc.gov/document/deleting-obsolete-and-duplicative-wireless-rules-0 . Alternative formats are available for people with disabilities 
+(Braille, large print, electronic files, audio format) by sending an 
+email to   [email&#160;protected]   or calling the Commission's Consumer and 
+Governmental Affairs Bureau at (202) 418-0530 (voice), (202) 418-0432 
+(TTY).
+    Comment Period and Filing Procedures. Interested parties may file 
+comments on or before the dates provided in the DATES section of this 
+document. Comments must be filed in GN Docket No. 25-133. Comments may 
+be filed using the Commission's Electronic Comment Filing System 
+(ECFS). See Electronic Filing of Documents in Rulemaking Proceedings, 
+63 FR 24121 (1998).
+      All filings must be addressed to the Commission's 
+Secretary, Office of the Secretary, Federal Communications Commission.
+      Electronic Filers: Comments may be filed electronically 
+using the internet by accessing the ECFS:  https://www.fcc.gov/ecfs/ .
+      Paper Filers: Parties who choose to file by paper must 
+file an original and one copy of each filing. If more than one docket 
+or rulemaking number appears in the caption of this proceeding, filers 
+must submit two additional copies for each additional docket or 
+rulemaking number.
+      Commercial overnight mail (other than U.S. Postal Service 
+Express Mail and Priority Mail) must be sent to 9050 Junction Drive, 
+Annapolis Junction, MD 20701.
+
+[[Page 37044]]
+
+      U.S. Postal Service first-class, Express, and Priority 
+mail must be addressed to 45 L Street NE, Washington, DC 20554.
+
+Procedural Matters
+
+    Paperwork Reduction Act of 1995 Analysis: This document does not 
+contain new or modified information collections subject to the 
+Paperwork Reduction Act of 1995 (PRA), 44 U.S.C. 3501-3521. In 
+addition, therefore, it does not contain any new or modified 
+information collection burden for small business concerns with fewer 
+than 25 employees, pursuant to the Small Business Paperwork Relief Act 
+of 2002, 44 U.S.C. 3506(c)(4).
+    Congressional Review Act: The Commission has determined, and the 
+Administrator of the Office of Information and Regulatory Affairs, 
+Office of Management and Budget concurs, that this rule is ``non-
+major'' under the Congressional Review Act, 5 U.S.C. 804(2). The 
+Commission will send a copy of this Direct Final Rule to Congress and 
+the Government Accountability Office pursuant to 5 U.S.C. 801(a)(1)(A).
+
+Synopsis
+
+I. Introduction
+
+    1. The Federal Communications Commission's (FCC) first Direct Final 
+Rule of 2026 marks the seventh part in the Commission's series to 
+repeal rules in order to modernize our regulatory framework by 
+rescinding obsolete provisions of our rules. In this series of Direct 
+Final Rule proceedings, we have undertaken a sweeping review of our 
+regulations to eliminate outdated rules, reduce unnecessary regulatory 
+burdens, accelerate infrastructure deployment, promote network 
+modernization, and spur innovation.\1\ Our objective is to streamline, 
+simplify, and smartly deregulate across multiple fronts simultaneously 
+to better serve the public and support technological progress. With 
+this seventh Direct Final Rule, the Commission will have eliminated 
+approximately 1,274 rule provisions, 149,566 words, and more than 338 
+pages from the Code of Federal Regulation.
+---------------------------------------------------------------------------
+
+    \1\ See, e.g., In Re: Delete, Delete, Delete, GN Docket No. 25-
+133, Public Notice, 40 FCC Rcd 1601 (OMR 2025); Consumer and 
+Governmental Affairs Bureau Seeks Comment on Termination of Certain 
+Proceedings as Dormant, CG Docket No. 25-165, Public Notice, 40 FCC 
+Rcd 2893 (CGB 2025); see also In re: Delete, Delete, Delete, GN 
+Docket No. 25-133, Direct Final Rule, 40 FCC Rcd 5585, 5586, para. 4 
+(July 28, 2025) (First Direct Final Rule) (repealing 11 rules that 
+govern obsolete technology, outdated marketplace conditions, expired 
+deadlines, or repealed legal obligations); Delete, Delete, Delete, 
+GN Docket No. 25-133, Direct Final Rule, FCC 25-51, at 2, para. 4 
+(Aug. 8, 2025) (Second Direct Final Rule) (repealing 71 rule 
+provisions, including 98 rules and requirements, that plainly no 
+longer serve the public interest because they regulate obsolete 
+technology, are no longer used in practice by the FCC or licensees, 
+or are otherwise outdated or unnecessary); Delete, Delete, Delete, 
+GN Docket No. 25-133, Direct Final Rule, FCC 25-68, at 2, para. 4 
+(Sept. 30, 2025) (Third Direct Final Rule) (repealing 89 rule 
+provisions, including 386 rules and requirements, that plainly no 
+longer serve the public interest because they regulate obsolete 
+technology, are no longer used in practice by the FCC or carriers, 
+or are otherwise outdated or unnecessary); Delete, Delete, Delete, 
+GN Docket No. 25-133, Direct Final Rule, FCC 25-77, at 2, para. 4 
+(Oct. 28, 2025) (Fourth Direct Final Rule) (repealing 396 rule 
+provisions and rule parts that plainly no longer serve the public 
+interest); Delete, Delete, Delete, GN Docket No. 25-133, Direct 
+Final Rule, FCC 25-80, at 2, para. 4 (Nov. 24, 2025) (Fifth Direct 
+Final Rule) (repealing 21 rule public safety and homeland security-
+related rule provisions that that govern obsolete technology, are no 
+longer used in practice, or are otherwise duplicative, outdated, or 
+unnecessary); Delete, Delete, Delete, GN Docket No. 25-133, Direct 
+Final Rule, FCC 25-85, at 2, para. 4 (Dec. 19, 2025) (Sixth Direct 
+to Final Rule) (repealing 36 rule provisions in order to modernize 
+our regulatory framework by rescinding facially obsolete provisions 
+of our rules).
+---------------------------------------------------------------------------
+
+    2. In initiating this proceeding, we generally sought to identify 
+rules that are obsolete, outdated, unlawful, anticompetitive, or 
+otherwise no longer in the public interest. In today's decision, we 
+repeal certain provisions of the Commission's part 1 rules managed by 
+the Office of Economics and Analytics or the Office of International 
+Affairs for which prior notice and comment are unnecessary, but for 
+which we elect to provide an opportunity for input on that assessment. 
+Absent any significant adverse comments in response to this Direct 
+Final Rule, these rules will be repealed.
+
+II. Discussion
+
+    3. Good Cause to Forgo Notice and Comment. Under the Administrative 
+Procedure Act (APA), when an agency for good cause finds that notice 
+and public comment ``are impracticable, unnecessary, or contrary to the 
+public interest,'' it need not follow notice and comment procedures 
+before modifying or repealing rules.\2\ Prior notice and comment are 
+``unnecessary'' when ``the administrative rule is a routine 
+determination, insignificant in nature and impact, and inconsequential 
+to the industry and to the public.'' \3\
+---------------------------------------------------------------------------
+
+    \2\ 5 U.S.C. 553(b)(B).
+    \3\ Util. Solid Waste Activities Grp. v. EPA, 236 F.3d 749, 755 
+(D.C. Cir. 2001) (quoting South Carolina v. Block, 558 F. Supp. 
+1004, 1016 (D.S.C. 1983)).
+---------------------------------------------------------------------------
+
+    4. We have identified 18 rule provisions, covering approximately 
+6,400 words and covering more than 10 pages in the Code of Federal 
+Regulations, that no longer serve the public interest because they are 
+no longer used in practice by the FCC, industry, or the public,\4\ or 
+are otherwise outdated or unnecessary.\5\ Applying the ``good cause'' 
+standard discussed above, we conclude that prior notice and comment are 
+unnecessary before repealing the rules identified in the Appendix.\6\
+---------------------------------------------------------------------------
+
+    \4\ 47 CFR 1.790 (directs international carriers to file reports 
+that complied with a Part 43 requirement that was eliminated several 
+years ago and are therefore no longer required); 47 CFR 1.21001(e) 
+(rule requiring upfront payments or bonds for Universal Service Fund 
+(USF) auctions, which the Commission has not required for any USF 
+auction to date); 47 CFR 1.2110(g) (rule on designated entity 
+installment payments, which the Commission ceased using in 1997); 47 
+CFR 1.2110(n) (rule on designated entity annual reports, which 
+requires information already captured in other rules); 47 CFR 
+90.709(e) (this rule is now obsolete because of the deletion of 47 
+CFR 90.1017 in the Fourth Direct Final Rule, FCC 25-77, para. 4, 
+fn.8 (Oct. 28, 2025) and the deletion of 47 CFR 1.2111(a) in this 
+direct final rule in footnote 5).
+    \5\ 47 CFR 1.2111(a) (rule defining unjust enrichment for 
+installment payments, which have not been used since 1997); 47 CFR 
+1.2111(c)(1) (rule regarding unjust enrichment for partitioning and 
+disaggregation installment payments, which have not been in use 
+since 1997); 47 CFR 1.2200-2209 (rules regarding the broadcast 
+television spectrum reverse auction, which concluded in 2017); 47 
+CFR 1.2105(c)(6) (rule prohibiting certain types of communications 
+for the broadcast incentive auction, which concluded in 2017). We 
+move the definitions of ``channel sharing bid'' and ``license 
+relinquishment bid'' formerly in 47 CFR 1.2200(d) and 47 CFR 
+1.2200(g) respectively into 47 CFR 73.3700(a)(3).
+    \6\ We also amend certain other rules to remove cross-references 
+to the rules repealed by this Direct Final Rule. See Appendix.
+---------------------------------------------------------------------------
+
+    5. Direct Final Rule Process. In this Direct Final Rule, we follow 
+the processes previously outlined by the Commission regarding direct 
+final rules, which we briefly summarize here.\7\ When the Commission 
+has found that prior notice and comment is unnecessary before modifying 
+or repealing rules, it has adopted the relevant rule change without any 
+additional process.\8\ Although we
+
+[[Page 37045]]
+
+reserve the right to proceed in this manner, we elect in this decision 
+to proceed using what is known as a ``direct final rule'' process.\9\ 
+By proceeding through a direct final rule, we choose to provide 
+expanded opportunities for public comment even though the ``good 
+cause'' standard does not legally require us to do so.\10\ Under a 
+direct final rule process, rule changes are adopted without prior 
+notice and comment, but are accompanied by an opportunity for the 
+public to file comments--and if we conclude that significant adverse 
+comments have been filed, the relevant rule changes would not take 
+effect until after a full notice and comment process.\11\
+---------------------------------------------------------------------------
+
+    \7\ First Direct Final Rule, 40 FCC Rcd at 5586-88, paras. 5-9; 
+Second Direct Final Rule at 2-4, paras. 5-9; Third Direct Final Rule 
+at 2-4, paras. 5-9.
+    \8\ See First Direct Final Rule, 40 FCC Rcd at 5586, para. 5 n.9 
+(citing Promoting Telehealth in Rural America, WC Docket No. 17-310, 
+Order on Reconsideration, Second Report and Order, Order, and Second 
+Further Notice of Proposed Rulemaking, 38 FCC Rcd 827, 855-56 
+(2023); Modernization of Media Regulation Initiative, et al., MB 
+Docket No. 17-105 et al., Further Notice of Proposed Rulemaking and 
+Report and Order, 33 FCC Rcd 10549, 10569-70, para. 41 (2018); 
+Delete, Delete, Delete et al., Order, DA 25-621 (CGB 2025); Delete, 
+Delete, Delete et al., Order, DA 25-613 (WCB 2025); 2014 Quadrennial 
+Regulatory Review--Review of the Commission's Broadcast Ownership 
+Rules and Other Rules Adopted Pursuant to Section 202 of the 
+Telecommunications Act of 1996, et al., MB Docket No. 14-50 et al., 
+Order, 36 FCC Rcd 9354, 9355, para. 2 (MB 2021); Amendment of 
+Section 1.80 of the Commission's Rules; Implementing Section 2 of 
+the Preventing Illegal Radio Abuse Through Enforcement Act (Pirate 
+Act), Order, 35 FCC Rcd 14591, 14591, para. 1 (EB, OMD 2020); 
+Accelerating Wireless Broadband Deployment by Removing Barriers to 
+Infrastructure Investment, WT Docket No. 17-79, Order, 34 FCC Rcd 
+9366 (WTB 2019); see also Second Direct Final Rule at 2, para. 5, 
+n.8 (citing same); Third Direct Final Rule at 2, para. 5, n.8.
+    \9\ See First Direct Final Rule, 40 FCC Rcd at 5586, para. 5 
+n.10 (citing Administrative Conference of the United States, 
+Recommendation 2024-6, Public Engagement in Agency Rulemaking Under 
+the Good Cause Exemption, 89 FR 106406, 106408-09 (Dec. 30, 2024) 
+(ACUS Public Engagement and Good Cause Recommendation); Sierra Club 
+v. EPA, 99 F.3d 1551, 1554 n.4 (10th Cir. 1996)); see also Second 
+Direct Final Rule at 3, para. 5, n.9 (citing same); Third Direct 
+Final Rule at 3, para. 5, n.9.
+    \10\ Although the Commission has adopted specific rules codified 
+in the Code of Federal Regulations related to notice and-comment 
+rulemaking procedures, see 47 CFR pt. 1, subpt. C, there is no legal 
+requirement that we adopt rules before employing processes permitted 
+by the APA and the Communications Act. See, e.g., 47 U.S.C. 154(j) 
+(absent previously-specified procedural obligations to the contrary, 
+``[t]he Commission may conduct its proceedings in such manner as 
+will best conduce to the proper dispatch of business and to the ends 
+of justice'').
+    \11\ ACUS Public Engagement and Good Cause Recommendation, 89 FR 
+at 106409, paras. 2(d)-(e), 6.
+---------------------------------------------------------------------------
+
+    6. In particular, we will publish this item adopting direct final 
+rules in the Federal Register, and allow for comment from interested 
+parties within 20 days of Federal Register publication.\12\ Until 20 
+days after Federal Register publication, this shall be a ``permit-but-
+disclose'' proceeding for purposes of our ex parte rules.\13\ Because 
+this comment process is directed toward the discrete objective of the 
+direct final rule process, and to avoid unwarranted delay in that 
+process, we prohibit filings addressing the rule changes contemplated 
+in this Direct Final Rule more than 20 days after Federal Register 
+publication, absent further direction from the Commission published in 
+the Federal Register.\14\ This both accords with the purpose of the 
+comment process for direct final rules, and is similar (though not 
+identical) to actions the Commission has taken in other contexts to 
+provide a defined end-point for public filings to enable the Commission 
+to focus its attention on the submissions already before it.\15\
+---------------------------------------------------------------------------
+
+    \12\ See, e.g., 47 CFR 1.45(b) (``Oppositions to any motion, 
+petition, or request may be filed within 10 days after the original 
+pleading is filed.''); 47 CFR 1.106(g) (``Oppositions to a petition 
+for reconsideration shall be filed within 10 days after the petition 
+is filed.''); 47 CFR 1.302(b) (``Any party who desires to preserve 
+the right to appeal [a presiding officer's ruling terminating a 
+hearing proceeding] shall file a notice of appeal within 10 days 
+after the ruling is released.'').
+    \13\ 47 CFR 1.1206.
+    \14\ See 47 CFR 1.1200(a) (``Where the public interest so 
+requires in a particular proceeding, the Commission and its staff 
+retain the discretion to modify the applicable ex parte rules by 
+order, letter, or public notice.''). Up until that date, we find it 
+in the public interest to continue to operate under permit-but-
+disclosure procedures in this regard, consistent with the status of 
+the In Re: Delete, Delete, Delete proceeding more generally.
+    \15\ See, e.g., 47 CFR 1.58 (adopting a quiet period for 
+forbearance proceeding based on ``[t]he prohibition in Sec.  
+1.1203(a) on contacts with decisionmakers concerning matters listed 
+in the Sunshine Agenda''). In the event that a petition for 
+reconsideration of this action is filed, we will subsequently 
+specifically address any comment process associated with such a 
+petition in light of the prohibition on filings addressing the rule 
+changes more than 30 days after Federal Register publication. See 47 
+CFR 1.4(b)(1) (date of ``public notice'' for non-notice and comment 
+rulemaking proceedings required to be published in the Federal 
+Register is the date of Federal Register publication); 47 U.S.C. 
+405(a) (establishing a deadline of 30 days from public notice for 
+petitions for reconsideration of actions by the Commission).
+---------------------------------------------------------------------------
+
+    7. The rule revisions in this Direct Final Rule will go into effect 
+60 days after Federal Register publication. If the Commission receives 
+comments on these rule revisions, it will evaluate whether there are 
+significant adverse comments that warrant further procedures before 
+changing the rules. In our assessment, we plan to be guided by the 
+recommendation of the Administrative Conference of the United States 
+(ACUS) that ``[a]n agency should consider any comment received during 
+direct final rulemaking to be a significant adverse comment if the 
+comment explains why: a. The [direct final] rule would be 
+inappropriate, including challenges to the rule's underlying premise or 
+approach; or b. The [direct final] rule would be ineffective or 
+unacceptable without a change.'' \16\
+---------------------------------------------------------------------------
+
+    \16\ ACUS Public Engagement and Good Cause Recommendation, 89 FR 
+at 106409. The touchstone for analysis is whether a comment 
+materially calls into question the conclusion that prior notice and 
+comment is unnecessary under the APA, which is the predicate for use 
+of direct final rule procedures. While we expect the formulation 
+provided by ACUS to be a useful guide for conducting that analysis, 
+our statutory determination of ``good cause'' to forgo notice and 
+comment ultimately represents the critical issue, rather than the 
+particular language used by ACUS.
+---------------------------------------------------------------------------
+
+    8. If we conclude that a significant adverse comment has been 
+filed, the Office of Economics and Analytics or the Office of 
+International Affairs will publish a timely withdrawal in the Federal 
+Register to prevent the rule revisions from going into effect until any 
+appropriate additional procedures have been followed. If a significant 
+adverse comment is filed only with respect to a subset of the rule 
+revisions addressed by this Direct Final Rule, the Office of Economics 
+and Analytics or the Office of International Affairs will withdraw the 
+portions of the Direct Final Rule that were subject to the significant 
+adverse comment. For example, if a significant adverse comment is filed 
+regarding a single rule within this Direct Final Rule, which contains 
+multiple rule revisions, we will publish a withdrawal of only the rule 
+addressed by the significant adverse comment.
+    9. In the event that no comments are filed in response to this 
+Direct Final Rule, we do not anticipate publishing a confirmation of 
+the effective date in the Federal Register but will simply allow the 
+rule changes to take effect as originally specified. If comments are 
+filed but none are deemed significant adverse comments, where warranted 
+by the record, the Office of Economics and Analytics or the Office of 
+International Affairs will issue a Public Notice that briefly explains 
+why the comments filed were not determined to be significant adverse 
+comments.\17\
+---------------------------------------------------------------------------
+
+    \17\ Although the Public Notice is a document in a non-notice 
+and comment rulemaking proceeding, nothing in that document is 
+required to be published in the Federal Register by the APA given 
+that the Public Notice is not itself adopting new or modified rules. 
+As a result, the Bureau also need not publish the Public Notice in 
+the Federal Register to establish the date of ``public notice'' for 
+the Public Notice under section 1.4(b)(1) of the rules--which is 
+limited to documents in rulemaking proceedings ``required by the 
+Administrative Procedure Act, 5 U.S.C. 552, 553, to be published in 
+the Federal Register,'' 47 CFR 1.4(b)(1)--and instead the date of 
+public notice of the Public Notice will be the release date. See 47 
+CFR 1.4(b)(4).
+---------------------------------------------------------------------------
+
+III. Ordering Clauses
+
+    10. Accordingly, it is ordered that, pursuant to sections 4(i), 
+4(j), and 303(r) of the Communications Act, 47 U.S.C. 154(i), 154(j), 
+and 303(r), this Direct Final Rule is adopted. Except as specified in 
+paragraph 8, this Direct Final Rule shall be effective upon Federal 
+Register publication of the rule changes set forth in the Appendix, 
+which shall also serve as the date of public notice of that action.\18\
+---------------------------------------------------------------------------
+
+    \18\ Pursuant to Executive Order 14215, 90 FR 10447 (Feb. 20, 
+2025), this regulatory action has been determined to be not 
+significant under Executive Order 12866, 58 FR 68708 (Dec. 28, 
+1993).
+
+---------------------------------------------------------------------------
+
+[[Page 37046]]
+
+    11. It is further ordered that the amendments of the Commission's 
+rules as set forth in Appendix A shall be effective 60 days after 
+Federal Register publication. In the event that significant adverse 
+comments are filed, the Office of Economics and Analytics or the Office 
+of International Affairs shall publish a timely document in the Federal 
+Register withdrawing the rule so that the rule change does not become 
+effective until any additional procedures have been followed. In the 
+event that significant adverse comments are filed with respect to only 
+a subset of the rule revisions, we direct the Office of Economics and 
+Analytics or the Office of International Affairs to publish a timely 
+document in the Federal Register withdrawing only such rule(s) so that 
+the rule change does not become effective until any additional 
+procedures have been followed.
+    12. It is further ordered that the Office of the Managing Director, 
+Performance Program Management, shall send a copy of this Direct Final 
+Rule in a report to be sent to Congress and the Government 
+Accountability Office pursuant to the Congressional Review Act, 5 
+U.S.C. 801(a)(1)(A).
+
+List of Subjects
+
+47 CFR Part 1
+
+    Practice and Procedure.
+
+47 CFR Part 73
+
+    Radio Broadcast Services0
+
+47 CFR Part 90
+
+    Private Land Mobile Radio Services.
+
+47 CFR Part 95
+
+    Personal Radio Services.
+
+    Federal Communications Commission.
+Marlene Dortch,
+Secretary.
+
+Final Rules
+
+    For the reasons set forth above, the Federal Communications 
+Commission amends part 1 of Title 47 of the Code of Federal Regulations 
+as follows:
+
+PART 1--PRACTICE AND PROCEDURE
 
 0
-1. The authority citation for part 180 continues to read as follows:
+1. The authority citation for part 1 continues to read as follows:
 
-    Authority:  21 U.S.C. 321(q), 346a and 371.
+    Authority:  47 U.S.C. chs. 2, 5, 9, 13; 28 U.S.C. 2461 note; 47 
+U.S.C. 1754, unless otherwise noted.
+
+Subpart A--General Rules of Practice and Procedure
+
+Sec.  1.790   [Removed and Reserved]
 
 0
-2. In Sec.  180.910, amend Table 1 to Sec.  180.910 by adding, in 
-alphabetical order, an entry for ``cinnamaldehyde'' to read as follows:
+2. Remove and reserve Sec.  1.790.
 
-Sec.  180.910  Inert ingredients used pre- and post-harvest; exemptions 
-from the requirement of a tolerance.
+0
+3. Amend Sec.  1.1901 by revising paragraph (i) to read as follows:
+
+Sec.  1.1901   Definitions and construction.
 
 * * * * *
+    (i) The term ``delinquent'' means a claim or debt which has not 
+been paid by the date specified by the agency unless other satisfactory 
+payment arrangements have been made by that date, or, at any time 
+thereafter, the debtor has failed to satisfy an obligation under a 
+payment agreement or instrument with the agency, or pursuant to a 
+Commission rule. The rules set forth in this subpart in no way affect 
+the Commission's rules, as may be amended, regarding payment for 
+licenses (including installment, down, or final payments) or automatic 
+cancellation of Commission licenses (see Sec.  1.1902(f)).
+* * * * *
 
-                           Table 1 to 180.910
-------------------------------------------------------------------------
-        Inert ingredients               Limits               Uses
-------------------------------------------------------------------------
- 
-                              * * * * * * *
-Cinnamaldehyde (CAS Reg. No. 104- Not more than 100   Preservative/
- 55-2).                            ppm in the end-     Stabilizer.
-                                   use pesticide
-                                   formulation.
- 
-                              * * * * * * *
-------------------------------------------------------------------------
+0
+4. Amend Sec.  1.1914 by revising paragraph (a) to read as follows:
 
-[[Page 38540]]
+Sec.  1.1914   Collection in installments.
 
-[FR Doc. 2026-12913 Filed 6-25-26; 8:45 am]
-BILLING CODE 6560-50-P
+    (a) Subject to the Commission's rules pertaining to the installment 
+loan program in subpart Q of this part or other agreements among the 
+parties, the terms of which will control, whenever feasible, the 
+Commission shall collect the total amount of a debt in one lump sum. If 
+a debtor is financially unable to pay a debt in one lump sum, the 
+Commission, in its sole discretion, may accept payment in regular 
+installments. The Commission will obtain financial statements from 
+debtors who represent that they are unable to pay in one lump sum and 
+which are able to verify independently such representations (see 31 CFR 
+902.2(g)). The Commission will require and obtain a legally enforceable 
+written agreement from the debtor that specifies all of the terms of 
+the arrangement, including, as appropriate, sureties and other indicia 
+of creditworthiness (see Federal Credit Reform Act of 1990, 2 U.S.C. 
+661, et seq., OMB Circular A-129), and that contains a provision 
+accelerating the debt in the event of default.
+* * * * *
+
+Sec.  1.2105   [Amended]
+
+0
+5. In Sec.  1.2105 remove and reserve paragraph (c)(6).
+
+Sec.  1.2110   [Amended]
+
+0
+6. In Sec.  1.2110 remove and reserve paragraphs (g) and (n).
+
+Sec.  1.2111   [Amended]
+
+0
+7 . In Sec.  1.2111 remove and reserve paragraphs (a) and (c)(1).
+
+Sec. Sec.  1.2200 through 1.2209   [Removed and Reserved]
+
+0
+8. Remove and reserve Sec. Sec.  1.2200 through 1.2209.
+
+Sec.  1.21001   [Amended]
+
+0
+9. In Sec.  1.21001 remove and reserve paragraph (e).
+
+PART 73--RADIO BROADCAST SERVICES
+
+0
+10. The authority citation for part 73 continues to read as follows:
+
+    Authority:  47 U.S.C. 154, 155, 301, 303, 307, 309, 310, 334, 
+336, 339.
+
+Subpart H--Rules Applicable to All Broadcast Stations
+
+0
+11. Amend Sec.  73.3700 by revising paragraph (a)(3) to read as 
+follows:
+
+Sec.  73.3700   Post-incentive auction licensing and operation.
+
+    (a) * * *
+    (3) Channel sharee station. For purposes of this section, channel 
+sharee station means a broadcast television station for which a winning 
+channel sharing bid--a bid to relinquish all spectrum usage rights with 
+respect to a particular television channel in order to share a 
+television channel with another broadcast television licensee by an 
+applicant that submits an executed channel sharing agreement with its 
+application--was submitted, or a broadcast television station for which 
+a winning license relinquishment bid--a bid to relinquish all spectrum 
+usage rights with respect to a particular television channel without 
+receiving in return any spectrum usage rights with respect to another 
+television channel--was submitted where the station licensee executes 
+and implements a post-auction channel sharing agreement.
+* * * * *
+
+PART 90--PRIVATE LAND MOBILE RADIO SERVICES
+
+0
+12. The authority citation for part 90 continues to read as follows:
+
+    Authority:  47 U.S.C. 154(i), 161, 303(g), 303(r), 332(c)(7), 
+1401-1473.
+
+Subpart T--Regulations Governing Licensing and Use of Frequencies 
+in the 220-222 MHz Band
+
+Sec.  90.709  [Amended]
+
+0
+13. In Sec.  90.709 remove and reserve paragraph (e)
+
+[[Page 37047]]
+
+PART 95--PERSONAL RADIO SERVICES
+
+0
+14. The authority citation for part 95 continues to read as follows:
+
+    Authority:  47 U.S.C. 154, 303, 307.
+
+Subpart F--218-219 Mhz Service
+
+0
+15. Amend Sec.  95.1923 is by revising paragraph (c)(1)(iii) to read as 
+follows:
+
+Sec.  95.1923   Geographic partitioning and spectrum disaggregation.
+
+* * * * *
+    (c) * * *
+    (1) * * *
+    (iii) The partitionor or disaggregator shall be permitted to 
+continue to pay its pro rata share of the outstanding balance and, if 
+applicable, shall receive loan documents evidencing the partitioning 
+and disaggregation. The original interest rate-shall continue to be 
+applied to the partitionor's or disaggregator's portion of the 
+remaining government obligation.
+* * * * *
+[FR Doc. 2026-12510 Filed 6-18-26; 8:45 am]
+BILLING CODE 6712-01-P

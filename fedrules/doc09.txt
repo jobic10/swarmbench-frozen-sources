@@ -1,382 +1,684 @@
-[Federal Register Volume 91, Number 123 (Monday, June 29, 2026)]
+[Federal Register Volume 91, Number 119 (Tuesday, June 23, 2026)]
 [Rules and Regulations]
-[Pages 39005-39007]
+[Pages 37309-37314]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13063]
+[FR Doc No: 2026-12645]
 
+=======================================================================
 -----------------------------------------------------------------------
 
-DEPARTMENT OF TRANSPORTATION
+DEPARTMENT OF LABOR
 
-Federal Aviation Administration
+Office of the Secretary of Labor
 
-14 CFR Part 39
+29 CFR Part 38
 
-[Docket No. FAA-2026-2720; Project Identifier MCAI-2023-00668-R; 
-Amendment 39-23383; AD 2026-13-01]
-RIN 2120-AA64
+RIN 1291-AA47
 
-Airworthiness Directives; Airbus Helicopters
+Rescission of Affirmative Outreach Requirements for Recipients of 
+WIOA Title I Financial Assistance
 
-AGENCY: Federal Aviation Administration (FAA), DOT.
+AGENCY: Office of the Secretary, Labor.
 
 ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2019-09-03 
-and AD 2021-05-15 for certain Airbus Helicopters Model AS332C, AS332C1, 
-AS332L, and AS332L1 helicopters. AD 2019-09-03 required a one-time 
-inspection of the jettisoning mechanism of the cabin lateral sliding 
-plug doors. AD 2021-05-15 required repetitive inspections, modifying 
-the release system of each cabin lateral sliding plug door, or 
-modifying the design of the jettison system of each cabin lateral 
-sliding plug door. Since the FAA issued AD 2021-05-15, the manufacturer 
-developed a prerequisite modification for certain helicopters, 
-determined improved modification instructions were necessary for 
-installation of the release system of the cabin lateral sliding plug 
-door, and determined the compliance time could be extended. This AD 
-requires modifying the release system of each cabin lateral sliding 
-plug door or modifying the design of the jettison system of each cabin 
-lateral sliding plug door as a terminating action for the repetitive 
-inspections. The FAA is issuing this AD to address the unsafe condition 
-on these products.
+SUMMARY: The Department of Labor (Department) rescinds the regulatory 
+affirmative outreach requirements on recipients of financial assistance 
+under Title I of the Workforce Innovation and Opportunity Act (WIOA) 
+and makes conforming edits.
 
-DATES: This AD is effective August 3, 2026.
-    The Director of the Federal Register approved the incorporation by 
-reference of a certain publication listed in this AD as of August 3, 
-2026.
+DATES: Effective July 24, 2026.
 
-ADDRESSES: 
-    AD Docket: You may examine the AD docket at  regulations.gov  under 
-Docket No. FAA-2026-2720; or in person at Docket Operations between 9 
-a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
-docket contains this final rule, the mandatory continuing airworthiness 
-information (MCAI), any comments received, and other information. The 
-address for Docket Operations is U.S. Department of Transportation, 
-Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
-New Jersey Avenue SE, Washington, DC 20590.
-    Material Incorporated by Reference:
-      For European Union Aviation Safety Agency (EASA) material 
-identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
-Cologne, Germany; phone: +49 221 8999 000; email:   [email&#160;protected]  ; 
-website: easa.europa.eu. You may find the EASA material on the EASA 
-website at ad.easa.europa.eu.
-      You may view this material at the FAA, Airworthiness 
-Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
-Fort Worth, TX 76177. For information on the availability of this 
-material at the FAA, call (817) 222-5110. It is also available at 
- regulations.gov  under Docket No. FAA-2026-2720.
-
-FOR FURTHER INFORMATION CONTACT: Aryanna Sanchez, Aviation Safety 
-Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
-phone: (817) 222-5257; email:   [email&#160;protected]  .
+FOR FURTHER INFORMATION CONTACT: Naomi Barry-Perez, Director, Civil 
+Rights Center (CRC), U.S. Department of Labor, 200 Constitution Avenue 
+NW, Room N-4123, Washington, DC 20210. Telephone: (202) 693-6500 
+(voice) (this is not a toll-free number). If you are deaf, hard of 
+hearing, or have a speech disability, please dial 7-1-1 to access 
+telecommunications relay services.
 
 SUPPLEMENTARY INFORMATION:
 
-Background
+I. Background
 
-    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
-CFR part 39 to supersede AD 2019-09-03, Amendment 39-19637 (84 FR 
-22693, May 20, 2019) (AD 2019-09-03), and AD 2021-05-15, Amendment 39-
-21458 (86 FR 17290, April 2, 2021) (AD 2021-05-15). AD 2019-09-03 and 
-AD 2021-05-15 applied to certain Airbus Helicopters Model AS332C, 
-AS332C1, AS332L, and AS332L1 helicopters.
-    AD 2019-09-03 required a one-time inspection of the jettisoning 
-mechanism of the cabin lateral sliding plug doors. AD 2021-05-15 
-required repetitive inspections, modifying the release system of each 
-cabin lateral sliding plug door, or modifying the design of the 
-jettison system of each cabin lateral sliding plug door.
-    The NPRM was published in the Federal Register on March 23, 2026 
-(91 FR 13794). The NPRM was prompted by EASA AD 2021-0139R1, May 10, 
-2023 (EASA AD 2021-0139R1) (also referred to as the MCAI), issued by 
-EASA, which is the Technical Agent for the Member States of the 
-European Union. The MCAI states the manufacturer received additional 
-reports regarding the difficulty of installing the MOD 0725366 on 
-certain helicopters, and the manufacturer developed MOD 0729230 as a 
-prerequisite to installing MOD 0725366 for certain helicopter 
-configurations. In addition, the manufacturer determined that the 
-compliance time to incorporate the
+    Section 188 of the Workforce Innovation and Opportunity Act (WIOA), 
+29 U.S.C. 3248 (Section 188), establishes nondiscrimination 
+requirements for programs and activities receiving financial assistance 
+under Title I of WIOA.
+    Subsection (a)(1) of Section 188 provides that, for the purpose of 
+applying prohibitions against discrimination on the basis of age, 
+disability, sex, or race, color, or national origin, WIOA-funded 
+programs are to be treated as programs receiving Federal financial 
+assistance under the Age Discrimination Act of 1975 (42 U.S.C. 6101 et 
+seq.), Section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) 
+(Section 504), Title IX of the Education Amendments of 1972 (20 U.S.C. 
+1681 et seq.) (Title IX), and Title VI of the Civil Rights Act of 1964 
+(42 U.S.C. 2000d et seq.) (Title VI). 29 U.S.C. 3248(a)(1). Subsection 
+(a)(2) prohibits discrimination in WIOA Title I programs on the basis 
+of race, color, religion, sex, national origin, age, disability, or 
+political affiliation or belief. 29 U.S.C. 3248(a)(2). Finally, 
+subsection (e) directs the Secretary of Labor to issue regulations that 
+adopt standards for determining discrimination and procedures for 
+enforcement that are consistent with the Acts referred to in subsection 
+(a)(1).
+    Pursuant to subsection (e), in 2016, the Department promulgated 29 
+CFR 38.40, which requires recipients of WIOA Title I financial 
+assistance to ``take appropriate steps to ensure that they are 
+providing equal access to their WIOA Title I-financially assisted 
+programs and activities,'' which should involve ``reasonable efforts'' 
+to conduct affirmative outreach to different demographic groups, 
+``including but not limited to persons of different sexes, various 
+racial and ethnic/national origin groups, various religions, 
+individuals with limited English proficiency, individuals with 
+disabilities, and individuals in different age groups.'' The rule 
+provided examples of outreach efforts that recipients might undertake. 
+``Recipients'' are defined in 29 CFR 38.4(zz) as entities to which 
+financial
 
-[[Page 39006]]
+[[Page 37310]]
 
-modifications could be extended from within 1,100 flight hours or 27 
-months to within 1,325 flight hours or 40 months.
-    In the NPRM, the FAA proposed to require modifying the release 
-system of each cabin lateral sliding plug door or modifying the design 
-of the jettison system of each cabin lateral sliding plug door as a 
-terminating action for the repetitive inspections. The FAA is issuing 
-this AD to prevent the jettison handle cable from interfering with the 
-cable clamps, which could lead to jamming of the door jettisoning 
-mechanism, preventing the jettisoning of the affected door in an 
-emergency situation with possible obstruction of occupant evacuation.
-    You may examine the MCAI in the AD docket at  regulations.gov  under 
-Docket No. FAA-2026-2720.
+assistance under Title I of WIOA is extended, directly from the 
+Department or through the Governor or another recipient (including any 
+successor, assignee, or transferee of a recipient).
+    On July 1, 2025, the Department proposed to rescind 29 CFR 38.40 on 
+the grounds that it exceeded statutory authority. Rescission of 
+Affirmative Outreach Requirements for Recipients of WIOA Title I 
+Financial Assistance, 90 FR 28245 (proposed July 1, 2025). The 
+Department was further concerned that a government mandate to conduct 
+affirmative outreach based on race and ethnicity creates tension with 
+the Constitution's Equal Protection principles. Id. Voluntary outreach 
+programs would still be permitted under the Department's proposal.
 
-Discussion of Final Airworthiness Directive
+II. Discussion
 
-Comments
+    The Department received 84 comments on the proposed rule. Eighty-
+three commenters opposed rescission, including national and local 
+disability rights organizations, civil rights groups, a labor union, 
+and advocacy organizations. Several commenters represent organizations 
+that are engaged by WIOA recipients to assist with or perform 
+affirmative outreach activities mandated by the current regulation. 
+These commenters argued that affirmative outreach is necessary to 
+ensure meaningful nondiscrimination, contending that without 
+affirmative efforts many individuals will never learn of or benefit 
+from WIOA-funded services. After reviewing and carefully considering 
+all comments, as well as considering alternatives to rescission, the 
+Department has decided to finalize the rescission as proposed because 
+it concludes that it lacks statutory authority to enforce an 
+affirmative outreach provision.
 
-    The FAA received no comments on the NPRM or on the determination of 
-the costs.
+A. The Department's Statutory Authority
 
-Conclusion
+    Several commenters contended that WIOA's statement of purpose, 29 
+U.S.C. 3101(1), reflects a congressional goal of increasing access to 
+workforce-development services for individuals with barriers to 
+employment, and that this goal supports interpreting Section 188 to 
+authorize mandatory affirmative outreach requirements based on race, 
+sex, religion, disability status, and other demographic 
+characteristics.
+    The Department does not dispute that WIOA's purpose clause 
+expresses broad and aspirational objectives, nor does it question that 
+recipients remain free to undertake voluntary outreach efforts that 
+further those objectives. However, a statutory statement of purpose 
+does not itself confer regulatory authority. Courts have repeatedly 
+rejected efforts to derive legal authority from general purpose 
+provisions.\1\
+---------------------------------------------------------------------------
 
-    These products have been approved by the civil aviation authority 
-of another country and are approved for operation in the United States. 
-Pursuant to the FAA's bilateral agreement with this State of Design 
-Authority, that authority has notified the FAA of the unsafe condition 
-described in the MCAI referenced above. The FAA reviewed the relevant 
-data, considered any comments received, and determined that air safety 
-requires adopting this AD as proposed. Accordingly, the FAA is issuing 
-this AD to address the unsafe condition on these products. Except for 
-minor editorial changes, this AD is adopted as proposed in the NPRM. 
-None of the changes will increase the economic burden on any operator.
+    \1\ Yazoo & M.V.R. Co. v. Thomas, 132 U.S. 174, 188 (1889); 
+Ass'n of Am. R.R.s v. Costle, 562 F.2d 1310, 1316 (D.C. Cir. 1977); 
+Antonin Scalia & Brian Garner, Reading Law: The Interpretation of 
+Legal Texts, 217 (2012) (``[A] congressional expression of purpose 
+has as much real-world effect as a congressional expression of 
+apology.'').
+---------------------------------------------------------------------------
 
-Material Incorporated by Reference Under 1 CFR Part 51
+    Accordingly, WIOA's purpose clause cannot expand the scope of the 
+Department's authority beyond the specific delegation contained in the 
+Act's operative provisions. The Department's authority to promulgate 
+regulations is limited to Section 188, which does not reference or 
+mandate outreach. Other operative provisions within the statute do 
+reference or mandate outreach, and comparing these provisions 
+demonstrate that Congress knew how to require affirmative outreach when 
+it intended to do so; its omission of such language in Section 188 is 
+instructive.\2\
+---------------------------------------------------------------------------
 
-    The FAA reviewed EASA AD 2021-0139R1, which specifies procedures 
-for inspecting the jettisoning mechanism of the left-hand (LH) and 
-right-hand (RH) side of the cabin lateral sliding plug doors, and 
-ensuring the cables are not contacting the cable clamps and 
-accomplishing the applicable corrective actions. EASA AD 2021-0139R1 
-also specifies procedures for modifying the release system of each 
-cabin lateral sliding plug door or modifying the design of the jettison 
-system of each cabin lateral sliding plug door. EASA AD 2021-0139R1 
-specifies that the modification is a terminating action for the 
-repetitive inspections and gives credit for the modification if it was 
-accomplished using certain previously issued service material.
-    This material is reasonably available because the interested 
-parties have access to it through their normal course of business or by 
-the means identified in the ADDRESSES section.
+    \2\ As some commenters, such as CommunicationFIRST, have noted, 
+the word ``outreach'' is referenced in other parts of WIOA. For 
+example, 29 U.S.C. 3111(d)(3)(C) requires States to develop 
+``strategies for providing effective outreach to and improved access 
+for individuals and employers who could benefit from services 
+provided through the workforce development system.'' But this merely 
+demonstrates that Congress knows how to enact an outreach 
+requirement--and when it did, Congress framed mandatory outreach in 
+term of ``access for individuals,'' and not demographic groups as 
+Sec.  38.40 does. In any event, Congress did not include any 
+outreach requirement in WIOA's nondiscrimination provisions and 
+instead directed the Department to issue regulations consistent with 
+civil rights statutes that define unlawful discrimination in terms 
+of intentional or deliberate conduct, not the absence of affirmative 
+conduct. See Southeastern Community College v. Davis 442 U.S. 397, 
+405, 410-11 (1979) (comparing provisions of the Rehabilitation Act 
+of 1973 and finding distinctions purposeful).
+---------------------------------------------------------------------------
 
-Costs of Compliance
+    Here, the operative provision is Section 188, which prohibits 
+unlawful discrimination and directs the Department to adopt standards 
+for determining unlawful discrimination and procedures for enforcement 
+that are consistent with four enumerated civil-rights statutes: the Age 
+Discrimination Act of 1975 (age), Section 504 of the Rehabilitation Act 
+of 1973 (disability), Title IX of the Education Amendments of 1972 
+(sex), and Title VI of the Civil Rights Act of 1964 (race, color, or 
+national origin). Under the majority of those statutes, the standard 
+for a determination of unlawful discrimination is intentional disparate 
+treatment, and none of them mandate affirmative conduct such as 
+proactive outreach to address perceived imbalances in access among 
+protected groups.
+    Because section 188(e) requires the Department's regulatory 
+standards for determining discrimination to be consistent with those 
+statutes, the Department lacks authority to treat the absence of 
+affirmative outreach efforts as a new form of unlawful discrimination. 
+Under the best reading of section 188(e), the Department's authority is 
+confined to the same definitions of discrimination that apply under 
+Title VI, Title IX, Section 504, and the Age Discrimination Act. 
+Nothing in WIOA's text authorizes the Department to redefine unlawful 
+discrimination to include failure to undertake affirmative outreach 
+efforts toward ``persons of different sexes, various racial and ethnic/
+national origin groups, various religions, individuals with limited 
+English proficiency, individuals with disabilities, and individuals in 
+different age groups,'' as former Sec.  38.40 requires.
+    Commenters also argued that affirmative outreach is necessary to 
+give practical effect to Section 188's nondiscrimination protections 
+because individuals with barriers to employment may not otherwise learn 
+of WIOA services. The Department disagrees. Nondiscrimination and 
+outreach are distinct concepts. Recipients may fully comply with 
+Section 188 by refraining from differential treatment on prohibited 
+grounds, without undertaking the outreach activities described in 
+former Sec.  38.40. Although outreach may advance broader workforce-
+development goals and may be beneficial in practice, the Department 
+cannot redefine nondiscrimination to require proactive measures absent 
+statutory authorization.
+    Nothing in this final rule prevents recipients of WIOA Title I 
+financial assistance from voluntarily engaging in outreach to broaden 
+awareness of their programs, and the Department anticipates that many 
+recipients will continue to do so. Such voluntary efforts may be useful 
+tools to promote inclusivity and to raise awareness regarding the 
+availability of WIOA services, as some commenters have suggested. 
+Indeed, the Department itself conducts outreach, particularly with 
+respect to American workers with disabilities, and permits and 
+encourages recipients to use WIOA funds to recruit program 
+participants, such as individuals with low-income status or limited 
+English proficiency. The sole question addressed here is whether 
+Section 188 authorizes the Department to enforce such practices as a 
+matter of law. For the reasons stated above, it does not. The decision 
+whether and how to conduct affirmative outreach rests with recipients, 
+not with the Department. The Department
 
-    The FAA estimates that this AD affects 12 helicopters of U.S. 
-registry.
-    The FAA estimates the following costs to comply with this AD:
+[[Page 37311]]
 
-                                                 Estimated Costs
-----------------------------------------------------------------------------------------------------------------
-                                                                                                 Cost on U.S.
-             Action                   Labor cost          Parts cost       Cost per product        operators
-----------------------------------------------------------------------------------------------------------------
-Inspect cable clamps............  1 work hour x $85   $0................  $85...............  $1,020.
-                                   per hour = $85.
-Modify the release..............  214 work-hours x    Up to $122,500....  Up to $140,690....  Up to $1,688,280.
-                                   $85 per hour =
-                                   $18,190.
-Modify the jettison system......  214 work-hours x    Up to $122,500....  Up to $140,690....  Up to $1,688,280.
-                                   $85 per hour =
-                                   $18,190.
-----------------------------------------------------------------------------------------------------------------
+considered revising Sec.  38.40 instead of rescinding it but determined 
+that any revision would still give the appearance of requiring 
+affirmative outreach to particular demographic groups and would not 
+cure the lack of support in the operative provision of the authorizing 
+statute. By rescinding Sec.  38.40, the Department ensures that 
+recipients remain free to adopt outreach strategies best suited to 
+their circumstances, without being subject to coercive regulation that 
+lacks statutory foundation and risks constitutional conflict.
 
-Authority for This Rulemaking
+B. Equal Protection Principles
 
-    Title 49 of the United States Code specifies the FAA's authority to 
-issue rules on aviation safety. Subtitle I, section 106, describes the 
-authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
-describes in more detail the scope of the Agency's authority.
-    The FAA is issuing this rulemaking under the authority described in 
-Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
-Under that section, Congress charges the FAA with promoting safe flight 
-of civil aircraft in air commerce by prescribing regulations for 
-practices, methods, and procedures the Administrator finds necessary 
-for safety in air commerce. This regulation is within the scope of that 
-authority because it addresses an unsafe condition that is likely to 
-exist or develop on products identified in this rulemaking action.
+    The NPRM expressed concern that mandating affirmative outreach may 
+create tension with equal-protection principles. For instance, Sec.  
+38.40 requires recipients to consider race and ethnicity when designing 
+outreach efforts and thus may trigger strict scrutiny. The canon of 
+constitutional avoidance therefore reinforces the Department's 
+conclusion to interpret section 188 not to mandate recipients to engage 
+in race-conscious affirmative outreach.
+    Several commenters, including the NAACP and AFL-CIO, asserted that 
+Sec.  38.40 is race-neutral because it applies uniformly to all 
+protected groups listed in the regulation and does not require 
+recipients to give a preference to any particular demographic group. 
+These commenters argued that the provision merely requires broad 
+dissemination of information and does not impose differential treatment 
+based on race, sex, national origin, or any other protected 
+characteristic.
+    The Department disagrees that the regulation, which explicitly 
+states that recipients ``must take appropriate steps'' that ``should 
+involve reasonable efforts to include members of . . . various racial 
+and ethnic/national origin groups,'' is race-neutral. That formulation 
+inherently directs recipients to identify racial and ethnic categories 
+and to structure their outreach efforts with reference to race and 
+ethnicity. A regulatory requirement that turns on racial 
+classifications is not rendered neutral simply because it does not 
+single out one group for disparate treatment. If, in an effort to 
+comply with Sec.  38.40, a WIOA recipient targets outreach to a 
+particular racial group that would otherwise not have been targeted, 
+that is a race-conscious decision resulting from a government mandate. 
+A regulation requiring affirmative outreach to ``various racial . . . 
+groups'' is therefore race-conscious.\3\
+---------------------------------------------------------------------------
 
-Regulatory Findings
+    \3\ The same logic applies with respect to other protected 
+characteristics: sex, religion, disability status, etc. The degree 
+of constitutional scrutiny for sex and disability status is 
+different for race and religion. But a requirement to conduct 
+outreach to different sexes is still obviously sex-conscious.
+---------------------------------------------------------------------------
 
-    The FAA has determined that this AD will not have federalism 
-implications under Executive Order 13132. This AD will not have a 
-substantial direct effect on the States, on the relationship between 
-the national government and the States, or on the distribution of power 
-and responsibilities among the various levels of government.
-    For the reasons discussed above, I certify that this AD:
-    (1) Is not a ``significant regulatory action'' under Executive 
-Order 12866,
-    (2) Will not affect intrastate aviation in Alaska, and
-    (3) Will not have a significant economic impact, positive or 
-negative, on a substantial number of small entities under the criteria 
-of the Regulatory Flexibility Act.
+    Nor does the fact that the regulation concerns outreach rather 
+than, for example, admission or hiring, render it race neutral, as some 
+courts have suggested. See Peightal v. Metro Dade Cnty., 26 F.3d 1545, 
+1557-58 (11th Cir. 1994) (characterizing in dicta as ``race neutral'' 
+the city's policy to ``provide information to and solicit applications 
+from young minorities''). Indeed, NAACP's comment quotes approvingly to 
+language in Justice Kennedy's concurrence in Parents Involved in 
+Community Schools v. Seattle School District No. 1 recognizing that an 
+outreach policy to attract students and faculty of different races ``in 
+a targeted fashion'' would be ``race conscious.'' 551 U.S. 701, 789 
+(2007) (Kennedy, J., concurring).
+    To be sure, NAACP correctly notes that Justice Kennedy's 
+concurrence continued to state that such race-conscious outreach ``is 
+unlikely [to] demand strict scrutiny,'' id, and certain lower court 
+decisions have agreed.\4\ Those cases, however, did not involve a 
+federal mandate requiring regulated entities to tailor outreach based 
+on demographic categories that include race and ethnicity. The D.C. 
+Circuit applied strict scrutiny to one such mandate and held it 
+unconstitutional in MD/DC/DE Broadcasters Association v. FCC.\5\ 
+Although the rule at issue in that that case explicitly incentivized 
+recruitment for women and minorities and involved additional 
+requirements beyond outreach alone--including reporting and 
+enforcement--the Department need not resolve whether those distinctions 
+would ultimately be constitutionally significant here. Rather, the 
+canon of constitutional avoidance counsels against interpreting Section 
+188 to authorize a race-conscious regulatory mandate that raises 
+constitutional concerns in the first instance. See Edward J. DeBartolo 
+Corp. v. Fla. Gulf Coast Bldg. & Constr. Trades Council, 485 U.S. 568, 
+575 (1988) (``[W]here an otherwise acceptable construction of a statute 
+would raise serious constitutional problems, the Court will construe 
+the statute to avoid such problems unless such construction is plainly 
+contrary to the intent of Congress.'' (citing NLRB v. Catholic Bishop 
+of Chi., 440 U.S. 490, 499-501, 504 (1979)).
+---------------------------------------------------------------------------
 
-List of Subjects in 14 CFR Part 39
+    \4\ See Allen v. Alabama State Bd. of Educ., 164 F.3d 1347 (11th 
+Cir. 1999), vacated, 216 F.3d 1263 (11th Cir. 2000); Shuford v. Ala. 
+State Bd. of Educ., 897 F. Supp. 1535, 1551-52 (M.D. Ala. 1995).
+    \5\ MD/DC/DE Broadcasters Ass'n v. FCC, 236 F.3d 13 (D.C. Cir. 
+2001), cert. denied, 534 U.S. 1113 (2002).
+---------------------------------------------------------------------------
 
-    Air transportation, Aircraft, Aviation safety, Incorporation by 
-reference, Safety.
+    Several commenters, including ASAN, the NAACP, and NPWF, argued 
+that the Department's reliance in the NPRM on Students for Fair 
+Admissions v. Harvard is misplaced because that decision arose in the 
+context of higher-education admissions.\6\ The Department agrees that 
+SFFA involved a different factual context. Nonetheless, the decision 
+reaffirmed the broader constitutional principle that race-conscious 
+governmental requirements are subject to strict scrutiny. The Court 
+declared without qualification that ``[r]acial classifications are 
+simply too pernicious to permit any but the most exact connection 
+between justification and classification.'' \7\ Section 38.40 requires 
+recipients to consider race and ethnicity when developing outreach 
+policy and therefore constitutes a race-conscious governmental 
+requirement.
+---------------------------------------------------------------------------
 
-The Amendment
+    \6\ See 600 U.S. 181 (2023).
+    \7\ Id. at 217 (quoting Gratz v. Bollinger, 539 U.S. 244, 270 
+(2003)).
+---------------------------------------------------------------------------
 
-    Accordingly, under the authority delegated to me by the 
-Administrator, the FAA amends 14 CFR part 39 as follows:
+    To be clear, the Department does not opine on the ultimate 
+constitutionality of such a mandate. Rather, the Department interprets 
+Section 188 in a manner that avoids that constitutional question, 
+particularly where that interpretation is supported by the best reading 
+of the statutory text. Any potential conflict between Sec.  38.40 and 
+equal-protection principles is not an independent basis for rescission 
+but instead reinforces the Department's conclusion that Section 188 
+does not authorize mandatory affirmative outreach. Of course, voluntary 
+outreach efforts to the groups listed at section 38.40 remain 
+permissible and often encouraged.
 
-PART 39--AIRWORTHINESS DIRECTIVES
+C. Effects of Rescission
+
+    Some commenters expressed concern that rescinding Sec.  38.40 will 
+reduce awareness of WIOA Title I services among individuals with 
+disabilities, individuals with limited English proficiency, displaced 
+homemakers, returning citizens, and other individuals facing barriers 
+to employment. These commenters provided data showing disparities 
+between groups in employment and WIOA participation. However, they did 
+not offer analysis demonstrating that these disparities are caused by, 
+or would be exacerbated by, the absence of mandatory outreach 
+requirements.
+    As a general matter, the Department believes commenters' 
+predictions of practical effects are overstated because recipients 
+remain free to engage in voluntary outreach efforts to the
+
+[[Page 37312]]
+
+aforementioned groups. Moreover, since the adoption of Sec.  38.40 in 
+2016, the Department has not initiated a single enforcement action 
+predicated on a recipient's failure to conduct affirmative outreach. 
+Given that the mandate has not been enforced in practice, the 
+Department does not expect that rescission will disrupt recipients' 
+operations or materially alter the delivery of WIOA services.
+    Several disability-rights organizations--including The Arc, ASAN, 
+PACER Center, CommunicationFIRST, and Detroit Disability Power--argued 
+that individuals with disabilities often face unique and significant 
+barriers to learning about available workforce services. The Department 
+acknowledges that outreach can serve important programmatic purposes 
+and that individuals with disabilities and other groups may face 
+substantial challenges in accessing information about available 
+services. The Department agrees that recipients may communicate 
+proactively with these communities to promote awareness of WIOA 
+opportunities. Nothing in this final rule prevents such outreach. 
+Recipients retain full discretion to continue, expand, or redesign 
+their current outreach efforts, including outreach specifically 
+intended to engage individuals with disabilities, individuals with 
+limited English proficiency, and others. Recipients may also continue 
+to partner with disability organizations, schools, VR agencies, and 
+other community-based entities should they choose to do so.
+    As noted previously, the Department itself through its Office of 
+Disability Employment Policy (ODEP) regularly conducts outreach to job 
+seekers with disabilities, promoting services available through the 
+public workforce system. ODEP funds two WIOA technical assistance 
+centers, the National Center on Leadership for the Employment and 
+Economic Advancement of People with Disabilities (LEAD Center) and the 
+Center for Advancing Policy on Employment for Youth (CAPE-Youth). These 
+centers provide training to workforce system staff to build their 
+knowledge in successfully serving jobseekers with disabilities in a 
+variety of career pathways and conduct outreach directly to individuals 
+with disabilities. ODEP also administers initiatives that require 
+contractors and grantees to connect individuals to the workforce 
+system. For example, the Retaining Employment and Talent after Injury/
+Illness Network (RETAIN) demonstration grants recruits and helps 
+thousands of ill or injured workers remain in the workforce by 
+providing coordinated health and employment services delivered through 
+the workforce system. The National Expansion of Employment 
+Opportunities Network (NEON) initiative conducts outreach to and 
+connects individuals with intellectual and developmental disabilities 
+(I/DD) and those with mental health conditions to workforce, education, 
+developmental disabilities, and Medicaid systems. However, the question 
+under section 188(e) is whether the Department is authorized to mandate 
+such outreach as a legal requirement of nondiscrimination. As explained 
+elsewhere in this preamble, the Department has concluded that section 
+188(e) incorporates the definitions of discrimination contained in 
+Title VI, Title IX, Section 504, and the Age Discrimination Act. None 
+of these statutes has been interpreted to define unlawful 
+discrimination to include a failure to perform proactive outreach to 
+particular demographic groups. Accordingly, even though outreach may be 
+permissible and beneficial in some instances when performed on a 
+voluntary basis, Section 188 does not provide the Department with the 
+legal authority to enforce such outreach.
+    Commenters expressed concern that eliminating Sec.  38.40 may 
+undermine coordination between WIOA programs and other programs such as 
+state VR agencies, youth transition programs, TANF programs, or adult-
+education providers. Commenters pointed to WIOA provisions that 
+encourage or require coordination across programs and argued that 
+outreach obligations help support these statutory expectations.
+    The Department appreciates the importance of coordination across 
+workforce and education systems and encourages recipients to continue 
+collaborating with VR and other partner programs. This rescission does 
+not diminish or alter recipients' statutory duties under other 
+provisions of WIOA. Recipients must still comply with Titles I-IV, the 
+implementing regulations, and joint guidance concerning referrals, 
+coordination, and integrated service delivery. Recipients remain free 
+to use outreach as a tool to fulfill these other statutory duties. The 
+rescission simply clarifies that the Department cannot impose an 
+additional nondiscrimination requirement that mandates outreach 
+obligations under Section 188. Indeed, many of the Department's grant 
+programs, include unemployment, poverty, or low-income status as 
+eligibility criteria for participants and awardees. Furthermore, State 
+Workforce Agencies, State Workforce Boards, American Job Centers 
+(AJCs), and WIOA funding recipients regularly engage in outreach 
+activities to reach different categories of people which often include 
+high-unemployment or low-income participants. And 2 CFR 200.421 
+specifically allows grantees to use funds to recruit program 
+participants and to engage businesses by communicating with them. The 
+AJC brand itself was created to increase program awareness of the 
+services the public workforce system offers and to facilitate outreach. 
+This WIOA program is delivered through AJCs nationwide and there are 
+approximately 2,400 AJCs, all of which provide the public a one-stop-
+shop for employment services.
+    Some commenters--including Chicago Jobs Council, PACER, and NCLD--
+asserted that Sec.  38.40 provides helpful ``clarity'' and ``a 
+framework'' for recipients, and that removing it could create 
+uncertainty regarding how recipients should ensure equal access. 
+Commenters argued that rescission may increase recipients' compliance 
+burden by eliminating explicit examples of outreach practices.
+    The Department acknowledges that Sec.  38.40 supplied a non-
+exhaustive list of outreach activities that recipients ``might 
+undertake.'' However, Sec.  38.40 imposed a federal mandate to conduct 
+outreach with reference to protected demographic categories, and for 
+the reasons described elsewhere, the Department lacks statutory 
+authority to impose such a requirement. Recipients retain broad 
+flexibility to design outreach strategies that fit their operational 
+needs and may continue to use any practices previously informed by 
+Sec.  38.40. Because the rescission removes a federal mandate rather 
+than prohibiting outreach, the Department concludes that the rescission 
+does not impose new burdens on recipients.
+
+D. Other Concerns
+
+    Several commenters asserted that the Department did not adequately 
+justify its departure from the 2016 rule. They argued that the 2016 
+interpretation reflected a permissible reading of Section 188 and that 
+the NPRM did not provide a sufficient reason to adopt a different view. 
+The Department disagrees. The NPRM acknowledged the change from the 
+2016 rule and explained that, upon further review of section 188(e) and 
+the four statutes it incorporates, the Department now concludes that 
+those statutes do not authorize the Department to mandate proactive 
+outreach. After Loper Bright, agencies must adopt the ``best reading''
+
+[[Page 37313]]
+
+of statutory text rather than rely on judicial deference or custom. The 
+Department has determined that the best reading of Section 188 confines 
+its authority to standards consistent with the four referenced 
+statutes, none of which defines discrimination to include failure to 
+undertake affirmative outreach. The Department therefore has a reasoned 
+basis for its change in position.
+    Several commenters, including PACER and Chicago Jobs Council, 
+argued that the Department failed to consider reliance interests 
+allegedly created by the 2016 rule, including reliance by recipients, 
+state workforce agencies, disability-rights organizations, and outreach 
+partners.
+    The Department disagrees. Recipients remain free to continue 
+affirmative outreach activities on a voluntary basis, including 
+collaborations with community organizations and targeted dissemination 
+of information. The only effect of this rule is that recipients are no 
+longer compelled to structure outreach around protected 
+classifications. Because recipients retain full discretion to continue 
+the very practices on which commenters claim to rely, the rescission 
+does not impair any legitimate reliance interest. Moreover, reliance 
+interests cannot expand an agency's statutory authority. Even if some 
+entities preferred the 2016 approach, the Department may not preserve a 
+regulatory requirement that exceeds the limits Congress established in 
+section 188(e).
+
+E. Summary of Revisions
+
+    For the foregoing reasons, the Department is rescinding 29 CFR 
+38.40 in its entirety. The Department is also making the following 
+conforming edits to remove references to Sec.  38.40: Removing the 
+phrase ``consistent with Sec.  38.40'' from Sec.  38.31(e); Removing 
+Sec.  38.54(c)(1)(v), which requires a State's nondiscrimination plan 
+to describe how it complies with the affirmative outreach requirements 
+at Sec.  38.40; and Revising Sec.  38.54(c)(2)(viii)(F) to say 
+``Sec. Sec.  38.34 through 38.39'' instead of ``Sec. Sec.  38.34 
+through 38.40.''
+
+III. Procedural Issues and Regulatory Review
+
+A. Executive Orders 12866, 13563, and 14192
+
+    Among other requirements, Executive Order 12866 requires agencies 
+to submit ``significant regulatory actions'' to the Office of 
+Management and Budget's (OMB) Office of Information and Regulatory 
+Affairs (OIRA) for review. See 58 FR 51735 (Oct. 4, 1993). Section 3(f) 
+of E.O. 12866 defines a ``significant regulatory action'' as a 
+regulatory action that is likely to result in a rule that may: (1) have 
+an annual effect on the economy of $100 million or more, or adversely 
+affect in a material way a sector of the economy, productivity, 
+competition, jobs, the environment, public health or safety, or state, 
+local, or tribal governments or communities; (2) create serious 
+inconsistency or otherwise interfere with an action taken or planned by 
+another agency; (3) materially alter the budgetary impact of 
+entitlements, grants, user fees or loan programs or the rights and 
+obligations of recipients thereof; or (4) raise novel legal or policy 
+issues arising out of legal mandates, the President's priorities, or 
+the principles set forth in the Executive Order. OIRA has determined 
+that this rule does not constitute a ``significant regulatory action'' 
+under section 3(f) of E.O. 12866. Accordingly, this rule was not 
+submitted to OIRA for review under E.O. 12866.
+    Executive Order 13563 directs agencies to, among other things, 
+propose or adopt a regulation only upon a reasoned determination that 
+its benefits justify its costs; the regulation is tailored to impose 
+the least burden on society, consistent with achieving the regulatory 
+objectives; and in choosing among alternative regulatory approaches, 
+the agency has selected those approaches that maximize net benefits. 
+See 76 FR 3821 (Jan. 21, 2011). E.O. 13563 recognizes that some costs 
+and benefits are difficult to quantify and provides that, where 
+appropriate and permitted by law, agencies may consider and discuss 
+qualitative values that are difficult or impossible to quantify, 
+including equity, human dignity, fairness, and distributive impacts. 
+Id.
+    The Department has considered the requirements of E.O. 13563 and 
+has determined that the benefits of this proposed rescission justify 
+any associated costs. The principal benefit of this action is the 
+removal of a regulatory requirement that is not authorized by statute. 
+Although these benefits are not readily quantifiable in economic terms, 
+ensuring that agency action remains within statutory limits promotes 
+limited constitutional government and individual liberty.
+    The Department further concludes that this rescission would impose 
+no compliance costs because it removes, rather than imposes, a 
+regulatory obligation and does not prohibit voluntary outreach efforts. 
+Any regulatory familiarization costs are expected to be negligible 
+because recipients would not need to take action, nor even be aware of 
+this rulemaking, to comply with the rescission. Accordingly, the 
+Department has determined that the benefits of the proposed action 
+outweigh its costs, and that the proposal is consistent with E.O. 
+13563.
+    Executive Order 14192, titled ``Unleashing Prosperity Through 
+Deregulation,'' was issued on January 31, 2025. This final rule is 
+expected to be an E.O. 14192 deregulatory action because it reduces 
+regulatory burden for recipients of WIOA Title I financial assistance.
+
+B. Final Regulatory Flexibility Act (RFA) Analysis
+
+    The Regulatory Flexibility Act of 1980 (RFA), 5 U.S.C. 601 et seq., 
+as amended by the Small Business Regulatory Enforcement Fairness Act of 
+1996, Public Law 104-121 (March 29, 1996), requires Federal agencies 
+engaged in rulemaking to consider the impact of their rules on small 
+entities, consider alternatives to minimize that impact, and solicit 
+public comment on their analyses. The RFA requires assessment of the 
+impact of a regulation on a wide range of small entities, including 
+small businesses, not-for profit organizations, and small governmental 
+jurisdictions. Agencies must perform a review to determine whether a 
+proposed or final rule would have a significant economic impact on a 
+substantial number of small entities. 5 U.S.C. 603. If the regulatory 
+action would have such an impact, then the agency must prepare a 
+regulatory flexibility analysis as described in the RFA. See id. 
+However, if the agency determines that the regulatory action would not 
+be expected to have a significant economic impact on a substantial 
+number of small entities, then the head of the agency may so certify 
+and the RFA does not require a regulatory flexibility analysis. See 5 
+U.S.C. 605. DOL reviewed this rescission under the provisions of the 
+RFA and certifies that the impacts of the rescission will not have a 
+significant economic impact on a substantial number of small entities 
+because it will not impose any new costs or compel any entities to 
+change their current practices.
+
+C. Paperwork Reduction Act
+
+    This rescission imposes no new information or record-keeping 
+requirements. Accordingly, OMB clearance is not required under the 
+Paperwork Reduction Act. (44 U.S.C. 3501 et seq.).
+
+[[Page 37314]]
+
+D. Unfunded Mandates Reform Act of 1995
+
+    The Unfunded Mandates Reform Act of 1995 (UMRA) requires that 
+agencies assess anticipated costs and benefits before issuing any rule 
+that would impose spending costs on State, local, or tribal governments 
+in the aggregate, or on the private sector, in any 1 year of $100 
+million in 1995 dollars, updated annually for inflation. That threshold 
+is currently approximately $206 million. This rulemaking will not 
+result in the expenditure by State, local, or tribal governments, in 
+the aggregate, or by the private sector, in excess of the threshold. 
+Thus, no written assessment of unfunded mandates is required.
+
+E. Executive Order 13132 (Federalism)
+
+    This rule will not have substantial direct effects on the States, 
+on the relationship between the National Government and the States, or 
+on distribution of power and responsibilities among the various levels 
+of government. Therefore, in accordance with Executive Order 13132, it 
+is determined that this rule does not have sufficient federalism 
+implications to warrant preparation of a Federalism Assessment.
+
+F. Executive Order 12250
+
+    Pursuant to Executive Order 12250, the Department of Justice has 
+the responsibility to ``review . . . proposed rules . . . of the 
+Executive agencies'' implementing nondiscrimination statutes such as 
+Title VI, Title IX, and Section 504 in order to identify those which 
+are inadequate, unclear or unnecessarily inconsistent.'' The Department 
+of Justice has reviewed and approved this rule.
+
+List of Subjects in 29 CFR Part 38
+
+    Administrative practice and procedure, Civil rights, Equal 
+employment opportunity, Labor management relations, Manpower training 
+programs.
+
+    For the reasons set forth in the preamble, the Department of Labor 
+amends 29 CFR part 38 as follows:
+
+PART 38--IMPLEMENTATION OF THE NONDISCRIMINATION AND EQUAL 
+OPPORTUNITY PROVISIONS OF THE WORKFORCE INNOVATION AND OPPORTUNITY 
+ACT
 
 0
-1. The authority citation for part 39 continues to read as follows:
+1. The authority citation for part 38 continues to read as follows:
 
-    Authority:  49 U.S.C. 106(g), 40113, 44701.
-
-Sec.  39.13  [Amended]
+    Authority:  29 U.S.C. 3101 et seq.; 42 U.S.C. 2000d et seq.; 29 
+U.S.C. 794; 42 U.S.C. 6101 et seq.; and 20 U.S.C. 1681 et seq.
 
 0
-2. The FAA amends Sec.  39.13 by:
+2. Amend Sec.  38.31 by revising paragraph (e) to read as follows:
+
+Sec.  38.31  Equal Opportunity Officer responsibilities.
+
+* * * * *
+    (e) Conducting outreach and education about equal opportunity and 
+nondiscrimination requirements and how an individual may file a 
+complaint consistent with Sec.  38.69;
+* * * * *
+
+Sec.  38.40  [Removed and Reserved]
+
 0
-a. Removing Airworthiness Directive 2019-09-03, Amendment 39-19637 (84 
-FR 22693, May 20, 2019); and Airworthiness Directive 2021-05-15, 
-Amendment 39-21458 (86 FR 17290, April 2, 2021); and
+3. Remove and reserve Sec.  38.40.
+
 0
-b. Adding the following new airworthiness directive:
+4. Amend Sec.  38.54 by revising paragraph (c) to read as follows:
 
-2026-13-01 Airbus Helicopters: Amendment 39-23383; Docket No. FAA-
-2026-2720; Project Identifier MCAI-2023-00668-R.
+Sec.  38.54  Governor's obligations to develop and implement a 
+Nondiscrimination Plan.
 
-(a) Effective Date
+* * * * *
+    (c) * * *
+    (1) * * *
+    (v) [Reserved]
+* * * * *
+    (2) * * *
+    (viii) * * *
+    (F) Copies of any notices made under Sec. Sec.  38.34 through 
+38.39.
 
-    This airworthiness directive (AD) is effective August 3, 2026.
-
-(b) Affected ADs
-
-    (1) This AD replaces AD 2019-09-03, Amendment 39-19637 (84 FR 
-22693, May 20, 2019) (AD 2019-09-03).
-
-[[Page 39007]]
-
-    (2) This AD replaces AD 2021-05-15, Amendment 39-21458 (86 FR 
-17290, April 2, 2021) (AD 2021-05-15).
-
-(c) Applicability
-
-    This AD applies to all Airbus Helicopters Model AS332C, AS332C1, 
-AS332L, and AS332L1 helicopters, certificated in any category, as 
-identified in European Union Aviation Safety Agency (EASA) AD 2021-
-0139R1, dated May 10, 2023 (EASA AD 2021-0139R1).
-
-(d) Subject
-
-    Joint Aircraft System Component (JASC) Code 5200, Doors.
-
-(e) Unsafe Condition
-
-    This AD was prompted by a report that the cabin lateral sliding 
-plug door failed its emergency jettisoning test; subsequent 
-investigation revealed that the jettison handle cable interfered 
-with the cable clamps. The FAA is issuing this AD to address this 
-condition, which could lead to jamming of the door jettisoning 
-mechanism, preventing the jettisoning of the affected door in an 
-emergency situation, and obstructing occupant evacuation.
-
-(f) Compliance
-
-    Comply with this AD within the compliance times specified, 
-unless already done.
-
-(g) Requirements
-
-    Except as specified in paragraph (h) of this AD: Comply with all 
-required actions and compliance times specified in, and in 
-accordance with, EASA AD 2021-0139R1.
-
-(h) Exceptions to EASA AD 2021-0139R1
-
-    (1) Where EASA AD 2021-0139R1 refers to June 25, 2021 (the 
-effective date of EASA AD 2021-0139, dated June 11, 2021), this AD 
-requires using the effective date of May 7, 2021 (the effective date 
-of AD 2021-05-15).
-    (2) Where EASA AD 2021-0139R1 requires compliance in terms of 
-flight hours (FH), this AD requires using hours time-in-service 
-(TIS).
-    (3) Where paragraph (1) of EASA AD 2021-0139R1 specifies 
-``During the next jettisoning test of the cabin lateral sliding plug 
-door, or within 110 FH, whichever occurs first after 22 February 
-2017 [the effective date of EASA AD 2017-0022], and, thereafter, 
-during accomplishment of each maintenance task listed in paragraph 
-1.E.2 of the inspection ASB, inspect the affected parts in 
-accordance with the instructions of section 3 of the inspection 
-ASB'', this AD requires replacing that text with ``During the next 
-jettisoning test of the cabin lateral sliding plug door, or within 
-110 hours TIS, whichever occurs first after June 24, 2019 [the 
-effective date of AD 2019-09-03], and, thereafter, during the 
-accomplishment of each maintenance task (adjustments as per 
-Maintenance Manual (MET) Work Card 52-11-01-601, cable change, 
-removal of the cable clamp, etc.) identified in paragraph 1.E.2 
-Compliance in Service of Airbus Helicopters Alert Service Bulletin 
-ASB AS332-52.00.56 Revision 1, dated April 11, 2019, is 
-accomplished, inspect the affected parts as defined in EASA AD 2021-
-0139R1 in accordance with the instructions of section 3 of the 
-inspection ASB referenced in EASA AD 2021-0139R1''.
-    (4) Where paragraph (3) of EASA AD 2021-0139R1 specifies ``in 
-accordance with the instructions of section 3 of the modification 
-ASB'', this AD requires replacing that text with ``in accordance 
-with section 3.B.2 through 3.B.3. of the modification ASB''.
-    (5) If the modification specified in paragraph (4) of EASA AD 
-2021-0139R1 is done, it must be done at the compliance time 
-specified in paragraph (3) of EASA AD 2021-0139R1.
-    (6) Although the material referenced in EASA AD 2021-0139R1 
-specifies to discard or scrap certain parts, this AD does not 
-include that requirement.
-    (7) Where the material referenced in EASA AD 2021-0139R1 
-specifies to contact Airbus Helicopters, or a qualified Airbus 
-Helicopters Group Technician, or by a customer technician previously 
-qualified by Airbus Helicopters to perform certain actions, this AD 
-requires performing those actions using a method approved by the 
-Manager, International Validation Branch, FAA; or EASA; or Airbus 
-Helicopters' EASA Design Organization Approval (DOA). If approved by 
-the DOA, the approval must include the DOA-authorized signature.
-    (8) Where the material referenced in EASA AD 2021-0139R1 
-specifies ``check'', this AD requires replacing that text with 
-``inspection''.
-    (9) This AD does not adopt the ``Remarks'' section of EASA AD 
-2021-0139R1.
-
-(i) Alternative Methods of Compliance (AMOCs)
-
-    (1) The Manager, International Validation Branch, FAA, has the 
-authority to approve AMOCs for this AD, if requested using the 
-procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
-send your request to your principal inspector or local flight 
-standards district office, as appropriate. If sending information 
-directly to the manager of the International Validation Branch, send 
-it to the attention of the person identified in paragraph (j) of 
-this AD and email to:   [email&#160;protected]  .
-    (2) Before using any approved AMOC, notify your appropriate 
-principal inspector, or lacking a principal inspector, the manager 
-of the local flight standards district office/certificate holding 
-district office.
-
-(j) Additional Information
-
-    For more information about this AD, contact Aryanna Sanchez, 
-Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
-Westbury, NY 11590; phone: (817) 222-5257; email: 
-  [email&#160;protected]  .
-
-(k) Material Incorporated by Reference
-
-    (1) The Director of the Federal Register approved the 
-incorporation by reference of the material listed in this paragraph 
-under 5 U.S.C. 552(a) and 1 CFR part 51.
-    (2) You must use this material as applicable to do the actions 
-required by this AD, unless the AD specifies otherwise.
-    (i) European Union Aviation Safety Agency (EASA) AD 2021-0139R1, 
-dated May 10, 2023.
-    (ii) [Reserved]
-    (3) For EASA material identified in this AD, contact EASA, 
-Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 8999 
-000; email:   [email&#160;protected]  ; website: easa.europa.eu. You may 
-find the EASA material on the EASA website at ad.easa.europa.eu.
-    (4) You may view this material at the FAA Airworthiness Products 
-Section, Operational Safety Branch, 10101 Hillwood Parkway, Fort 
-Worth, TX 76177. For information on the availability of this 
-material at the FAA, call (817) 222-5110.
-    (5) You may view this material at the National Archives and 
-Records Administration (NARA). For information on the availability 
-of this material at NARA, visit  www.archives.gov/federal-register/cfr/ibr-locations  or email   [email&#160;protected]  .
-
-    Issued on June 16, 2026.
-Christopher R. Parker,
-Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
-Certification Service.
-[FR Doc. 2026-13063 Filed 6-26-26; 8:45 am]
-BILLING CODE 4910-13-P
+Dean Heyl,
+Assistant Secretary of the Office of Administration and Management.
+[FR Doc. 2026-12645 Filed 6-22-26; 8:45 am]
+BILLING CODE 4510-04-P

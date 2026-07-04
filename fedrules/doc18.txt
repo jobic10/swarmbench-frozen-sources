@@ -1,579 +1,465 @@
-[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Federal Register Volume 91, Number 121 (Thursday, June 25, 2026)]
 [Rules and Regulations]
-[Pages 39501-39506]
+[Pages 38280-38284]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13180]
+[FR Doc No: 2026-12792]
 
 -----------------------------------------------------------------------
 
-ENVIRONMENTAL PROTECTION AGENCY
+DEPARTMENT OF LABOR
 
-40 CFR Part 180
+Mine Safety and Health Administration
 
-[EPA-HQ-OPP-2021-0435; FRL-12795-01-OCSPP]
+30 CFR Part 72
 
-Diflufenican; Pesticide Tolerances
+[Docket No. MSHA-2025-0074]
+RIN 1219-AC05
 
-AGENCY: Environmental Protection Agency (EPA).
+Improving and Eliminating Regulations; Diesel Particulate Matter 
+Emission Limits in Underground Coal Mines
+
+AGENCY: Mine Safety and Health Administration (MSHA), Department of 
+Labor.
 
 ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: This regulation establishes tolerances for residues of 
-diflufenican (CASRN 83164-33-4) in or on multiple commodities which are 
-identified and discussed later in this document. Under the Federal 
-Food, Drug, and Cosmetic Act (FFDCA), Bayer CropScience submitted a 
-petition to EPA requesting that EPA establish a maximum permissible 
-level for residues of this pesticide in or on the identified 
-commodities.
+SUMMARY: MSHA is eliminating outdated requirements for diesel 
+particulate matter (DPM) emission limits for permissible diesel-powered 
+equipment and non-permissible heavy-duty diesel-powered equipment 
+operated in underground coal mines. These requirements are being 
+removed from MSHA's regulations because they contain outdated effective 
+dates that are no longer applicable.
 
-DATES: This rule is effective on June 30, 2026. Objections and requests 
-for hearings must be received on or before August 31, 2026 and must be 
-filed in accordance with the instructions provided in 40 CFR part 178 
-(see also Unit I.D. of this document.)
+DATES: Effective date: July 27, 2026.
 
-ADDRESSES: The docket for this action, identified by docket 
-identification (ID) number EPA-HQ-OPP-2021-0435, is available online at 
- https://www.regulations.gov . Additional information about dockets 
-generally, along with instructions for visiting the docket in person, 
-is available at  https://www.epa.gov/dockets .
+ADDRESSES: 
+    Docket: Access rulemaking documents electronically at  http://www.regulations.gov  [Docket No. MSHA-2025-0074]. Obtain a copy of a 
+rulemaking document from the Office of Standards, Regulations, and 
+Variances, MSHA, 200 Constitution Avenue NW, Washington, DC 20210, by 
+request to (202) 693-9440 (voice) or (202) 693-9441 (facsimile). These 
+are not toll-free numbers.
+    Email Notification: To subscribe to receive email notification when 
+the Agency publishes rulemaking documents in the Federal Register, go 
+to  www.msha.gov .
 
-FOR FURTHER INFORMATION CONTACT: Charles Smith, Registration Division 
-(7505T) Office of Pesticide Programs, Environmental Protection Agency, 
-1200 Pennsylvania Ave. NW, Washington, DC 20460-0001; main telephone 
-number: (202) 566-1030; email address:   [email&#160;protected]  .
+FOR FURTHER INFORMATION CONTACT: Corliss A. Josephs-Conway, Acting 
+Director, Office of Standards, Regulations, and Variances, MSHA at 202-
+693-9440 (voice). This is not a toll-free number.
 
 SUPPLEMENTARY INFORMATION:
 
-I. General Information
+[[Page 38281]]
 
-A. Does this action apply to me?
+I. Background
 
-    You may be potentially affected by this action if you are an 
-agricultural producer, food manufacturer, or pesticide manufacturer. 
-The following list of North American Industrial Classification System 
-(NAICS) codes is not intended to be exhaustive, but rather provides a 
-guide to help readers determine whether this document applies to them. 
-Potentially affected entities may include:
-      Crop production (NAICS code 111).
-      Animal production (NAICS code 112).
+    On February 6, 2025, the President issued Executive Order (E.O.) 
+14192 ``Unleashing Prosperity Through Deregulation,'' (90 FR 9065), 
+which directed agencies to alleviate unnecessary regulatory burdens. On 
+July 1, 2025, MSHA published a notice of proposed rulemaking (NPRM) 
+entitled, ``Improving and Eliminating Regulations; Diesel Particulate 
+Matter Emission Limits in Underground Coal Mines'' in the Federal 
+Register (90 FR 28418). In the NPRM, MSHA proposed to remove existing 
+requirements from 30 CFR part 72. MSHA identified Sec. Sec.  72.500(a), 
+72.501(a), and 72.501(b) for removal because they contain outdated 
+effective dates that are no longer relevant. Removing these 
+requirements will not reduce protections afforded to miners because the 
+requirements are no longer applicable to underground coal mines.
+    MSHA received two comments on the NPRM during the public comment 
+period. One commenter requested a 60-day extension of the public 
+comment period and another commenter supported MSHA's proposal. MSHA 
+received no comments opposed to the changes discussed in the NPRM.
 
-[[Page 39502]]
+II. Discussion
 
-      Food manufacturing (NAICS code 311).
-      Pesticide manufacturing (NAICS code 32532).
-    If you have any questions regarding the applicability of this 
-action to a particular entity, consult the person listed under FOR 
-FURTHER INFORMATION CONTACT.
+    Existing paragraph (a) of Sec.  72.500 and existing paragraphs (a) 
+and (b) of Sec.  72.501 list outdated effective dates for DPM emission 
+limits for permissible diesel-powered equipment and non-permissible 
+heavy-duty diesel-powered equipment in underground coal mines.
+    In this final rule, unchanged from the proposed rule, MSHA amends 
+Sec.  72.500 by reserving existing paragraph (a) and revising paragraph 
+(b) to remove the compliance date. Paragraph (b) contains the current 
+DPM emission limit for permissible diesel-powered equipment in 
+underground coal mines and remains unchanged.
+    In this final rule, unchanged from the proposed rule, MSHA amends 
+Sec.  72.501 by reserving existing paragraphs (a) and (b). MSHA also 
+revises paragraph (c) to remove the compliance date. Paragraph (c) 
+contains the current DPM emission limit for non-permissible heavy duty 
+diesel-powered equipment, generators and compressors in underground 
+coal mines and remains unchanged.
+    Removing these requirements will not reduce protections afforded to 
+miners because they are outdated and the current emission limits will 
+remain. As a result of removing Sec. Sec.  72.500(a), 72.501(a), and 
+72.501(b), MSHA also makes a conforming amendment to Sec.  72.503(e) by 
+removing references to Sec. Sec.  72.500(a) and 72.501(a). Section 
+72.503(e) defined the term ``introduced'' for equipment brought into 
+the mine inventory and remains unchanged. These actions reflect MSHA's 
+experience and ongoing review of existing regulations to ensure they 
+remain necessary, effective, and aligned with current technologies and 
+mining practices.
+    MSHA received two comments on the proposal. One commenter requested 
+a 60-day extension of the public comment period to properly review, 
+research, and develop a meaningful comment. The Agency reviewed the 
+comments and determined it was not necessary to extend the public 
+comment period. Removing the requirements for DPM in underground coal 
+mines will not reduce protections afforded to miners. MSHA is making 
+non-substantive changes to the DPM standards in underground coal mines 
+to remove outdated requirements that have no safety, burden, or cost 
+implications. MSHA determined this rule is not a significant regulatory 
+action because it does not meet any of the four ``significant 
+regulatory action'' criteria under section 3(f) of E.O. 12866. The 
+changes are non-substantive; therefore, an extension of the public 
+comment period was unnecessary.
+    MSHA received one comment in support of the proposal to remove the 
+outdated effective dates for DPM emission limits for permissible 
+diesel-powered equipment and non-permissible heavy-duty diesel-powered 
+equipment in underground coal mines. The commenter agreed that the 
+proposal would streamline the current requirements for underground coal 
+mine operators while maintaining the same level of protection for 
+miners who work with such equipment. Therefore, MSHA finalizes the rule 
+as proposed.
 
-B. What is EPA's authority for taking this action?
+III. Procedural Issues and Regulatory Review
 
-    EPA is issuing this rulemaking under section 408 of the Federal 
-Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. 346a. FFDCA section 
-408(b)(2)(A)(i) allows EPA to establish a tolerance (the legal limit 
-for a pesticide chemical residue in or on a food) only if EPA 
-determines that the tolerance is ``safe.'' FFDCA section 
-408(b)(2)(A)(ii) defines ``safe'' to mean that ``there is a reasonable 
-certainty that no harm will result from aggregate exposure to the 
-pesticide chemical residue, including all anticipated dietary exposures 
-and all other exposures for which there is reliable information.'' This 
-includes exposure through drinking water and in residential settings 
-but does not include occupational exposure. FFDCA section 408(b)(2)(C) 
-requires EPA to give special consideration to exposure of infants and 
-children to the pesticide chemical residue in establishing a tolerance 
-and to ``ensure that there is a reasonable certainty that no harm will 
-result to infants and children from aggregate exposure to the pesticide 
-chemical residue. . .''
+A. Review Under Executive Orders 12866 and 13563
 
-C. How can I file an objection or hearing request?
+    Executive Order (E.O.) 12866, ``Regulatory Planning and Review'' 58 
+FR 51735 (Oct. 4, 1993), requires agencies, to the extent permitted by 
+law, to (1) propose or adopt a regulation only upon a reasoned 
+determination that its benefits justify its costs (recognizing that 
+some benefits and costs are difficult to quantify); (2) tailor 
+regulations to impose the least burden on society, consistent with 
+obtaining regulatory objectives, taking into account, among other 
+things, and to the extent practicable, the costs of cumulative 
+regulations; (3) select, in choosing among alternative regulatory 
+approaches, those approaches that maximize net benefits; (4) to the 
+extent feasible, specify performance objectives, rather than specifying 
+the behavior or manner of compliance that regulated entities must 
+adopt; and (5) identify and assess available alternatives to direct 
+regulation, including providing economic incentives to encourage the 
+desired behavior, such as user fees or marketable permits, or providing 
+information upon which choices can be made by the public.
+    E.O. 13563, ``Improving Regulation and Regulatory Review,'' 76 FR 
+3821 (Jan. 21, 2011), requires agencies to use the best available 
+techniques to quantify anticipated present and future benefits and 
+costs as accurately as possible. E.O. 13563 reaffirms the principles of 
+E.O. 12866 while calling for improvements in the nation's regulatory 
+system to promote predictability, reduce uncertainty, and use the best, 
+most innovative, and least burdensome tools for achieving regulatory 
+ends.
+    E.O. 12866 and E.O. 13563 direct agencies to assess all costs and 
+benefits of available regulatory alternatives and, if regulation is 
+necessary, to select regulatory approaches that maximize net benefits. 
+E.O. 13563 emphasizes the importance of quantifying both costs and 
+benefits, reducing costs, harmonizing rules, and promoting flexibility. 
+E.O. 13563 directs agencies to propose or adopt a regulation only upon 
+a reasoned determination that its benefits justify its costs; the 
+regulation is tailored to impose the least burden on society, 
+consistent with achieving the regulatory objectives; and in choosing 
+among alternative regulatory approaches, the agency has selected those 
+approaches that maximize net benefits.
+    Removing the requirements concerning DPM emission limits will not 
+impose new costs on underground coal mine operators because they are 
+outdated and the current emission limits are still in the regulations. 
+Removing the requirements will not reduce the protections currently 
+afforded to miners; instead, it will streamline current requirements 
+and improve the clarity of MSHA's standards for underground coal miners 
+and mine operators.
+    Under section 6(a) of E.O. 12866, the Office of Management and 
+Budget's (OMB's) Office of Information and Regulatory Affairs (OIRA) 
+determines whether a regulatory action is significant and whether 
+agencies are required to submit the regulatory action to OIRA for 
+review. Under section 3(f) of E.O. 12866, a ``significant regulatory
 
-    Under FFDCA section 408(g), 21 U.S.C. 346a(g), any person may file 
-an objection to any aspect of this regulation and may also request a 
-hearing on those objections. If you fail to file an objection to the 
-final rule within the time period specified in the final rule, you will 
-have waived the right to raise any issues resolved in the final rule. 
-You must file your objection or request a hearing on this regulation in 
-accordance with the instructions provided in 40 CFR part 178. To ensure 
-proper receipt by EPA, you must identify the docket ID number EPA-HQ-
-OPP-2021-0435 in the subject line on the first page of your submission. 
-All objections and requests for a hearing must be in writing and must 
-be received by the Hearing Clerk on or before August 31, 2026.
-    The EPA's Office of Administrative Law Judges (OALJ), in which the 
-Hearing Clerk is housed, urges parties to file and serve documents by 
-electronic means only, notwithstanding any other particular 
-requirements set forth in other procedural rules governing those 
-proceedings. See ``Revised Order Urging Electronic Filing and 
-Service,'' dated June 22, 2023, which can be found at  https://www.epa.gov/system/files/documents/2023-06/2023-06-22%20-%20revised%20order%20urging%20electronic%20filing%20and%20service.pdf . 
-Although the EPA's regulations require submission via U.S. Mail or hand 
-delivery, the EPA intends to treat submissions filed via electronic 
-means as properly filed submissions; therefore, the EPA believes the 
-preference for submission via electronic means will not be prejudicial. 
-When submitting documents to the OALJ electronically, a person should 
-utilize the OALJ e-filing system at  https://yosemite.epa.gov/oa/eab/eab-alj_upload.nsf .
-    In addition to filing an objection or hearing request with the 
-Hearing Clerk as described in 40 CFR part 178, please submit a copy of 
-the filing (excluding any Confidential Business Information (CBI)) for 
-inclusion in the public docket at  https://www.regulations.gov . Follow 
-the online instructions for submitting comments. Do not submit 
-electronically any information you consider to be CBI or other 
-information whose disclosure is restricted by statute. If you wish to 
-include CBI in your request, please follow the applicable instructions 
-at  https://www.epa.gov/dockets/commenting-epa-dockets#rules  and clearly 
-mark the information that you claim to be CBI. Information not marked 
-confidential pursuant to 40 CFR part 2 may be disclosed publicly by EPA 
-without prior notice.
+[[Page 38282]]
 
-II. Petitioned-For Tolerance
+action'' is a regulatory action that is likely to result in a rule that 
+may:
+    (1) Have an annual effect on the economy of $100 million or more, 
+or adversely affect in a material way the economy, a sector of the 
+economy, productivity, competition, jobs, the environment, public 
+health or safety, or State, local, or tribal governments or communities 
+(also referred to as economically significant);
+    (2) Create a serious inconsistency or otherwise interfere with an 
+action taken or planned by another agency;
+    (3) Materially alter the budgetary impact of entitlements, grants, 
+user fees, or loan programs or the rights and obligations of 
+recipients; or
+    (4) Raise novel legal or policy issues arising out of legal 
+mandates, the President's priorities, or the principles set forth in 
+the E.O.
+    This final rule is determined to not constitute a ``significant 
+regulatory action'' because it does not meet any of the four 
+``significant regulatory action'' criteria under section 3(f) of E.O. 
+12866. Accordingly, this final rule was not submitted to OIRA for 
+review under E.O. 12866.
+    No alternatives were considered for this final deregulatory action.
 
-    In the Federal Register of August 24, 2021 (86 FR 47275, FRL-8792-
-02-OCSPP), EPA issued a document pursuant to FFDCA section 408(d)(3), 
-21 U.S.C. 346a(d)(3), announcing the filing of a pesticide petition (PP 
-1F8912) by Bayer CropScience, 800 N. Lindbergh Blvd., St. Louis, MO 
-63167. The petition requested that 40 CFR part 180 be amended by 
-establishing tolerances for residues of the herbicide diflufenican, N-
-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]-3-
-pyridinecarboxamide, in or on corn, forage at 0.01 parts per million 
-(ppm); corn, grain at 0.01 ppm; corn, stover at 0.01 ppm; soybean, 
-forage at 0.015 ppm; soybean, hay at 0.02 ppm; soybean, seed at 0.01 
-ppm. That document referenced a summary of the petition prepared by 
-Bayer CropScience, the registrant, which is available in the docket, 
- https://www.regulations.gov . Three comments were received on the notice 
-of filing. EPA's response to these comments is discussed in Unit IV.C.
-    The tolerances EPA is establishing vary from what the petitioners 
-have requested, these changes are explained in greater detail in Unit 
-IV.D.
+B. Review Under the Regulatory Flexibility Act; Small Business 
+Regulatory Enforcement Fairness Act; and Executive Order 13272
 
-III. Final Tolerance Action
+    The Regulatory Flexibility Act (RFA) of 1980, as amended by the 
+Small Business Regulatory Enforcement Fairness Act (SBREFA) of 1996, 
+requires an agency to consider the impact of their rulemakings on small 
+entities. E.O. 13272, ``Proper Consideration of Small Entities in 
+Agency Rulemaking'' 67 FR 53461 (Aug. 16, 2002), requires Federal 
+agencies to assess the economic impacts of rules on small businesses, 
+small governmental jurisdictions, and small organizations, collectively 
+referred to as small entities.
+    MSHA has reviewed this final rule, which eliminates regulatory 
+complexity, under the provisions of the RFA. MSHA concludes that this 
+final rule will not have a ``significant economic impact on a 
+substantial number of small entities.'' MSHA will transmit this 
+certification and supporting statement of factual basis to the Chief 
+Counsel for Advocacy of the Small Business Administration for review 
+under 5 U.S.C. 605(b).
 
-A. Aggregate Risk Assessment and Determination of Safety
+C. Review Under the Paperwork Reduction Act
 
-    Consistent with FFDCA section 408(b)(2)(D), and the factors 
-specified therein, EPA has reviewed the available scientific data and 
-other relevant information in support of this action. EPA has 
-sufficient data to assess the hazards of and to make a determination on 
-aggregate exposure for diflufenican including exposure resulting from 
-the tolerances established by this action. EPA's assessment of 
-exposures and risks associated with diflufenican is as follows.
+    The Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) 
+provides for the Federal Government's collection, use, and 
+dissemination of information. The goals of the Paperwork Reduction Act 
+include minimizing paperwork and reporting burdens and ensuring the 
+maximum possible utility from the information that is collected under 5 
+CFR part 1320. The Paperwork Reduction Act requires Federal agencies to 
+obtain approval from OMB before requesting or requiring ``a collection 
+of information'' from the public.
+    This final rule imposes no new information collection or 
+recordkeeping requirements. The recordkeeping requirements for DPM 
+exposure are fully covered in a currently approved information 
+collection request, OMB Control Number 1219-0124 ``Health Standards for 
+Diesel Particulate Matter Exposure (Underground Coal Mines).'' This 
+final rule removes the outdated, interim permissible exposure limits of 
+DPM with no safety, burden, or cost implications. Therefore, there is 
+no change to this information collection request. Accordingly, OMB 
+clearance is not required under the Paperwork Reduction Act.
 
-B. Toxicological Profile
+D. Review Under Executive Order 13132
 
-    EPA has evaluated the available toxicity data and considered its 
-validity, completeness, and reliability as well as the relationship of 
-the results of the studies to human risk. EPA has also considered 
-available information concerning the variability of the sensitivities 
-of major identifiable subgroups of consumers, including infants and 
-children.
-    The hazard database for diflufenican indicates that the major 
-toxicological effect in rodents is decreased body weight regardless of 
-duration of exposure, and no clear target organ was identified. No 
-dermal or inhalation toxicity data are available and therefore every 
-effect specified is through the oral route. In the subchronic and 
-chronic oral studies, decreased body weights were seen in both rats and 
-mice, and adverse decreases in body weight occurred at doses lower than 
-those causing additional toxicological effects. The rat appeared to be 
-the most sensitive species tested, followed by the mouse. There were no 
-adverse effects seen in the subchronic or chronic dog studies up to the 
-limit dose of 1000 mg/kg/day. There did not appear to be a difference 
-in toxicity by sex in any species.
-    No evidence of increased quantitative or qualitative lifestage 
-susceptibility was seen in rat or rabbit developmental toxicity studies 
-or in the rat reproduction studies. There were no adverse maternal or 
-developmental effects in the developmental rat or rabbit studies up to 
-and exceeding the limit dose (>=1000 mg/kg/day). In the rat extended 
-one-generation and two-generation reproduction studies,
-
-[[Page 39503]]
-
-adverse decreases in body weights in the parental animals and offspring 
-were the most sensitive effect. Decreased body weights in the offspring 
-were observed in the presence of decreased parental body weights, and 
-there were no reproductive effects seen. There was low acute toxicity 
-through oral, dermal, and inhalation routes. Diflufenican is not an 
-ocular or dermal irritant, nor is it a dermal sensitizer.
-    Diflufenican is classified as ``Not Likely to be Carcinogenic to 
-Humans.'' No treatment-related increase in the incidence of tumors was 
-observed in carcinogenicity studies in rats or mice at doses that were 
-considered to be adequate. Additionally, there is no evidence of 
-mutagenicity in vivo or in vitro. One of the plant metabolites of 
-diflufenican (2,4-difluoroaniline malonate, hereafter referred to as 
-BCS-BT38895) was found to be more toxic than the parent compound, with 
-a different toxicological profile. A cursory analysis of the metabolite 
-based on highly conservative assumptions is assessed separately in 
-Appendix C (pages 96-99) of the Human Health Risk Assessment, in docket 
-ID number EPA-HQ-OPP-2021-0435.
-    Specific information on the studies received and the nature of the 
-adverse effects caused by diflufenican as well as the no-observed-
-adverse-effect-level (NOAEL) and the lowest-observed-adverse-effect-
-level (LOAEL) from the toxicity studies can be found at  https://www.regulations.gov  in document ``Diflufenican. Human Health Risk 
-Assessment for Diflufenican. New Active Ingredient'' at pages 16-25 in 
-docket ID number EPA-HQ-OPP-2021-0435.
-
-C. Toxicological Points of Departure/Levels of Concern
-
-    Once a pesticide's toxicological profile is determined, EPA 
-identifies toxicological points of departure (POD) and levels of 
-concern to use in evaluating the risk posed by human exposure to the 
-pesticide. For hazards that have a threshold below which there is no 
-appreciable risk, the toxicological POD is used as the basis for 
-derivation of reference values for risk assessment. PODs are developed 
-based on a careful analysis of the doses in each toxicological study to 
-determine the dose at which no adverse effects are observed (the NOAEL) 
-and the lowest dose at which adverse effects of concern are identified 
-(the LOAEL). Uncertainty/safety factors are used in conjunction with 
-the POD to calculate a safe exposure level--generally referred to as a 
-population-adjusted dose (PAD) or a reference dose (RfD)--and a safe 
-margin of exposure (MOE). For non-threshold risks, the Agency assumes 
-that any amount of exposure will lead to some degree of risk. Thus, the 
-Agency estimates risk in terms of the probability of an occurrence of 
-the adverse effect expected in a lifetime. For more information on the 
-general principles EPA uses in risk characterization and a complete 
-description of the risk assessment process, see  https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/assessing-human-health-risk-pesticides .
-    For more detailed information on the toxicological endpoints for 
-diflufenican used for human risk assessment can be found in the 
-``Diflufenican. Human Health Risk Assessment for Diflufenican. New 
-Active Ingredient'' at pages 22-23 in docket ID number EPA-HQ-OPP-2021-
-0435.
-
-D. Exposure Assessment
-
-    1. Dietary exposure from food and feed uses. In evaluating dietary 
-exposure to diflufenican, EPA considered exposure under the petitioned-
-for tolerances. EPA assessed dietary exposures from diflufenican in 
-food as follows:
-    i. Acute exposure. Quantitative acute dietary exposure and risk 
-assessments are performed for a food-use pesticide if a toxicological 
-study has indicated the possibility of an effect of concern occurring 
-as a result of a 1-day or single exposure. No such effects were 
-identified in the toxicological studies for diflufenican; therefore, a 
-quantitative acute dietary exposure assessment is unnecessary.
-    ii. Chronic exposure. In conducting the chronic dietary exposure 
-assessment, EPA used the 2005-2010 food consumption data from the 
-United States Department of Agriculture's (USDA's) National Health and 
-Nutrition Examination Survey, What We Eat in America, (NHANES/WWEIA). 
-As to residue levels in food, EPA conducted an unrefined chronic 
-dietary exposure risk assessment using 100 percent crop treated (PCT) 
-and combined residues of diflufenican and DFF-amide ( https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/models-pesticide-risk-assessment .
-    EPA calculated the estimated drinking water concentrations (EDWCs) 
-of diflufenican Using the Pesticide Water Calculator (PWC) ver. 2.001. 
-The modeling simulations for maximum label rates indicate that 
-concentrations in ground water are expected to be higher than those in 
-surface water. Therefore, the chronic value of 30.1 ppb was used to 
-assess the dietary contribution from drinking water.
-    3. From non-dietary exposure. The term ``residential exposure'' is 
-used in this document to refer to non-occupational, non-dietary 
-exposure (e.g., products registered for direct application to lawns and 
-for garden pest control, indoor pest control, termiticides, and flea 
-and tick control on pets). Diflufenican is not proposed for any 
-specific use patterns that would result in direct applications in 
-residential areas.
-    4. Cumulative effects from substances with a common mechanism of 
-toxicity. Section 408(b)(2)(D)(v) of FFDCA requires that, when 
-considering whether to establish, modify, or revoke a tolerance, the 
-Agency consider ``available information'' concerning the cumulative 
-effects of a particular pesticide's residues and ``other substances 
-that have a common mechanism of toxicity.''
-    EPA has not found diflufenican to share a common mechanism of 
-toxicity with any other substances, and diflufenican does not appear to 
-produce a toxic metabolite produced by other substances. For the 
-purposes of this tolerance action, therefore, EPA has assumed that 
-diflufenican does not have a common mechanism of toxicity with
-
-[[Page 39504]]
-
-other substances. For information regarding EPA's efforts to determine 
-which chemicals have a common mechanism of toxicity and to evaluate the 
-cumulative effects of such chemicals, see EPA's website at  https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/pesticide-cumulative-risk-assessment-framework .
-
-D. Safety Factor for Infants and Children
-
-    1. In general. Section 408(b)(2)(C) of FFDCA provides that EPA 
-shall apply an additional tenfold (10X) margin of safety for infants 
-and children in the case of threshold effects to account for prenatal 
-and postnatal toxicity and the completeness of the database on toxicity 
-and exposure unless EPA determines based on reliable data that a 
-different margin of safety will be safe for infants and children. This 
-additional margin of safety is commonly referred to as the FQPA Safety 
-Factor (SF). In applying this provision, EPA either retains the default 
-value of 10X, or uses a different additional safety factor when 
-reliable data available to EPA support the choice of a different 
-factor.
-    2. Prenatal and postnatal sensitivity. No evidence of increased 
-quantitative or qualitative lifestage susceptibility was seen in rat or 
-rabbit developmental toxicity studies or in the rat reproduction 
-studies.
-    3. Conclusion. EPA has determined that reliable data show the 
-safety of infants and children would be adequately protected if the 
-FQPA SF were reduced to 1X. That decision is based on the following 
-findings:
-    i. The toxicity database for diflufenican is complete.
-    ii. There is no indication that diflufenican is a neurotoxic 
-chemical, and there is no need for a developmental neurotoxicity study 
-or additional UFs to account for neurotoxicity.
-    iii. There is no evidence that diflufenican results in increased 
-quantitative or qualitative lifestage susceptibility in rat and rabbit 
-developmental studies or in the rat reproduction toxicity studies. 
-There were no maternal or developmental adverse effects observed in any 
-of the developmental studies. In the reproduction toxicity studies, no 
-reproductive effects were observed; however, decreased body weights 
-were observed in the offspring and maternal animals at comparable dose 
-levels.
-    iv. There are no residual uncertainties identified in the exposure 
-databases.
-
-E. Aggregate Risks and Determination of Safety
-
-    EPA determines whether acute and chronic dietary pesticide 
-exposures are safe by comparing aggregate exposure estimates to the 
-acute PAD (aPAD) and chronic PAD (cPAD). For linear cancer risks, EPA 
-calculates the lifetime probability of acquiring cancer given the 
-estimated aggregate exposure. Short, intermediate, and chronic-term 
-risks are evaluated by comparing the estimated aggregate food, water, 
-and residential exposure to the appropriate points of departure (POD) 
-to ensure that an adequate margin of exposure (MOE) exists.
-    1. Acute risk. An acute aggregate risk assessment takes into 
-account acute exposure estimates from dietary consumption of food and 
-drinking water. No adverse effect resulting from a single oral exposure 
-was identified and no acute dietary endpoint was selected. Therefore, 
-diflufenican is not expected to pose an acute risk.
-    2. Chronic risk. Using the exposure assumptions described in this 
-unit for chronic exposure, EPA has concluded that chronic exposure to 
-diflufenican from food and water will utilize  - \8\, which is below the Agency's level of concern. 
-Based again on diflufenican' s limited use patterns and lower 
-tolerance-level residues, the Agency concludes that the cancer risk 
-estimates for BCS-BT38895 residues indicate that there should not be 
-any cancer risk from diflufenican-derived BCS-BT38895 residues.
-    7. Determination of safety. Based on these risk assessments, EPA 
-concludes that there is a reasonable certainty that no harm will result 
-to the general population, or to infants and children, from aggregate 
-exposure to diflufenican residues.
-
-IV. Other Considerations
-
-A. Analytical Enforcement Methodology
-
-    Adequate enforcement methodology high-performance liquid 
-chromatography with tandem mass spectrometry (HPLC-MS/MS), Method No. 
-DC-003-P18-02 is available to enforce the tolerance expression.
-    The method may be requested from: Chief, Analytical Chemistry 
-Branch, Environmental Science Center, 701 Mapes Rd., Ft. Meade, MD 
-20755-5350; telephone number: (410) 305-2905; email address: 
-  [email&#160;protected]  .
-
-[[Page 39505]]
-
-B. International Residue Limits
-
-    In making its tolerance decisions, EPA seeks to harmonize U.S. 
-tolerances with international standards whenever possible, consistent 
-with U.S. food safety standards and agricultural practices. EPA 
-considers the international maximum residue limits (MRLs) established 
-by the Codex Alimentarius Commission (Codex), as required by FFDCA 
-section 408(b)(4). The Codex Alimentarius is a joint United Nations 
-Food and Agriculture Organization/World Health Organization food 
-standards program, and it is recognized as an international food safety 
-standards-setting organization in trade agreements to which the United 
-States is a party. EPA may establish a tolerance that is different from 
-a Codex MRL; however, FFDCA section 408(b)(4) requires that EPA explain 
-the reasons for departing from the Codex level. The Codex has not 
-established a MRL for diflufenican. However, the proposed tolerances 
-are harmonized with the currently established MRLs of diflufenican in 
-the European Union.
-
-C. Response to Comments
-
-    In the Federal Register of August 24, 2021 (86 FR 47275, FRL-8792-
-02-OCSPP), EPA issued a document pursuant to FFDCA section 408(d)(3), 
-21 U.S.C. 346a(d)(3), announcing the filing of a pesticide petition (PP 
-1F8912) by Bayer CropScience, 800 N. Lindbergh Blvd., St. Louis, MO 
-63167. The Agency received three comments. Two of the comments (EPA-HQ-
-OPP-2021-0435-0004 and EPA-HQ-OPP-2021-0435-0005) were by the same 
-private citizen raising concerns over the use of pesticides on corn and 
-soybeans. Although the Agency recognizes that some individuals believe 
-that pesticides should be banned on agricultural crops, the existing 
-legal framework provided by section 408 of the FFDCA authorizes EPA to 
-establish tolerances when it determines that the tolerance is safe. 
-Upon consideration of the validity, completeness, and reliability of 
-the available data as well as other factors the FFDCA requires EPA to 
-consider, EPA has determined that these diflufenican tolerances are 
-safe. The same commenter further claims diflufenican contains fluoride 
-and states fluoride to be toxic to insects, but provided no information 
-supporting a conclusion that diflufenican is not safe, nor did the 
-commenter provide any basis for concluding that tolerances would have a 
-disproportionate effect on any population. A comprehensive database is 
-available for diflufenican to support risk assessments that are 
-protective of human health and the environment (including insects). The 
-third comment (EPA-HQ-OPP-2021-0435-0006) was also from a private 
-citizen which did not pertain to diflufenican. The comment addressed 
-the Federal Aviation Administration proposed rule (FAA-2021-0793) which 
-is not germane to this action.
-
-D. Revisions to Petitioned-For Tolerances
-
-    FFDCA section 408(d)(4)(A)(i) permits the Agency to finalize a 
-tolerance that varies from that sought by the petition. The petitioner 
-initially requested tolerance levels of 0.015 ppm for soybean, forage 
-and 0.02 ppm for soybean, hay. However, the Agency deems it appropriate 
-to use the more conservative (i.e., results with the highest residue 
-value) approach and as a result produced a recommended tolerance levels 
-of 0.01 ppm for soybean, forage and 0.015 ppm for soybean, hay when 
-entered into the Organization for Economic Cooperation and Development 
-(OECD) calculator.
-
-V. Conclusion
-
-    Therefore, tolerances are established for residues of diflufenican, 
-N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]-3-
-pyridinecarboxamide, in or on corn, field, forage at 0.01 ppm; corn, 
-field, grain at 0.01 ppm; corn, field, stover at 0.01 ppm; soybean, 
-forage at 0.01 ppm; soybean, hay at 0.015 ppm; and soybean, seed at 
-0.01 ppm.
-
-VI. Statutory and Executive Order Reviews
-
-    Additional information about these statutes and Executive Orders 
-can be found at  https://www.epa.gov/regulations/and-executive-orders .
-
-A. Executive Order 12866: Regulatory Planning and Review
-
-    This action is exempt from review under Executive Order 12866 (58 
-FR 51735, October 4, 1993), because it establishes or modifies a 
-pesticide tolerance or a tolerance exemption under FFDCA section 408 in 
-response to a petition submitted to the Agency. The Office of 
-Management and Budget (OMB) has exempted these types of actions from 
-review under Executive Order 12866.
-
-B. Executive Order 14192: Unleashing Prosperity Through Deregulation
-
-    Executive Order 14192 (90 FR 9065, February 6, 2025) does not apply 
-because actions that establish a tolerance under FFDCA section 408 are 
-exempted from review under Executive Order 12866.
-
-C. Paperwork Reduction Act (PRA)
-
-    This action does not impose an information collection burden under 
-the PRA 44 U.S.C. 3501 et seq., because it does not contain any 
-information collection activities.
-
-D. Regulatory Flexibility Act (RFA)
-
-    Since tolerance actions that are established on the basis of a 
-petition under FFDCA section 408(d), such as the tolerance in this 
-final rule, do not require the issuance of a proposed rule, the 
-requirements of the RFA, 5 U.S.C. 601 et seq., do not apply to this 
-action.
-
-E. Unfunded Mandates Reform Act (UMRA)
-
-    This action does not contain an unfunded mandate of $100 million or 
-more (in 1995 dollars and adjusted annually for inflation) as described 
-in UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely 
-affect small governments. The action imposes no enforceable duty on any 
-State, local, or Tribal governments or on the private sector.
-
-F. Executive Order 13132: Federalism
-
-    This action does not have federalism implications as specified in 
-Executive Order 13132 (64 FR 43255, August 10, 1999), because it will 
-not have substantial direct effects on the states, on the relationship 
-between the National Government and the States, or on the distribution 
+    E.O. 13132, ``Federalism'' 64 FR 43255 (August 10, 1999), imposes 
+certain requirements on Federal agencies formulating and implementing 
+policies or regulations that preempt State law or that have federalism 
+implications. The E.O. requires agencies to examine the constitutional 
+and statutory authority supporting any action that would limit the 
+policymaking discretion of the States and to carefully assess the 
+necessity for such actions. The E.O. also requires agencies to have an 
+accountable process to ensure meaningful and timely input by State and 
+local officials in the development of regulatory policies that have 
+federalism implications.
+    MSHA has examined this final rule and has determined that it will 
+not have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
 of power and responsibilities among the various levels of government.
 
-G. Executive Order 13175: Consultation and Coordination With Indian 
-Tribal Governments
+E. Review Under Executive Order 12988
 
-    This action does not have Tribal implications as specified in 
-Executive Order 13175 (65 FR 67249, November 9, 2000), because it will 
-not have substantial direct effects on Tribal governments, on the 
-relationship between the Federal Government and the Indian Tribes, or 
-on the distribution of power and responsibilities between the Federal 
-Government and Indian Tribes.
+    With respect to the review of existing regulations and the 
+promulgation of new regulations, section 3(a) of E.O. 12988, ``Civil 
+Justice Reform'' 61 FR 4729 (Feb. 7, 1996), imposes on Federal agencies 
+the general duty to adhere to the following requirements: (1) eliminate 
+drafting errors and ambiguity; (2) write regulations to minimize 
+litigation; (3) provide a clear legal standard for affected conduct 
+rather than a general standard; and (4) promote simplification and 
+burden reduction. Regarding the review required by section 3(a), 
+section 3(b) of E.O. 12988 specifically requires that Executive 
+agencies make every reasonable effort to ensure that the regulation: 
+(1) clearly specifies the preemptive effect, if any; (2) clearly 
+specifies any effect on existing Federal law or regulation; (3) 
+provides a clear legal standard for affected conduct while promoting 
+simplification and burden reduction; (4) specifies the retroactive 
+effect, if any; (5) adequately defines key terms; and (6) addresses 
+other important issues affecting clarity and general draftsmanship 
+under any guidelines issued by the Attorney General.
+    Section 3(c) of E.O. 12988 requires Executive agencies to review 
+regulations in light of applicable standards in section 3(a) and 
+section 3(b) to determine whether they are met or it is unreasonable to 
+meet one or more of them. MSHA has completed the required review and 
+determined that, to the extent permitted by law, this final rule meets 
+the relevant standards of E.O. 12988.
 
-H. Executive Order 13045: Protection of Children From Environmental 
-Health Risks and Safety Risks
+F. Review Under the Unfunded Mandates Reform Act
 
-    This action is not subject to Executive Order 13045 (62 FR 19885, 
-April 23, 1997) because tolerance actions like this one are exempt from 
-review under Executive Order 12866. However, EPA's 2021 Policy on 
-Children's Health applies to this action.
+    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires each Federal agency to assess the effects of Federal 
+regulatory actions on State, local, and Tribal governments and the 
+private sector. Public Law 104-4, sec. 201 (codified at 2 U.S.C. 1531). 
+For a regulatory action likely to result in a rule that may cause the 
+expenditure by State, local, and Tribal governments, in the aggregate, 
+or by the private sector of $100 million or more in any one year 
+(adjusted annually for inflation), section 202 of UMRA requires a 
+Federal agency to publish a written statement that estimates the 
+resulting costs, benefits, and other effects on the national economy. 
+(2 U.S.C. 1532(a), (b)). The UMRA also requires a Federal agency to 
+develop an effective process to permit timely input by elected officers 
+of State, local, and Tribal governments on a ``significant 
+intergovernmental mandate,'' and requires an agency plan for giving 
+notice and opportunity for timely input to potentially affected small 
+governments before establishing any requirements that might 
+significantly or uniquely affect them.
+    MSHA examined this final rule according to UMRA and its statement 
+of policy and determined that it does not contain a Federal 
+intergovernmental mandate, nor is it expected to require expenditures 
+of $100 million or more in any one year by State, local, and Tribal 
+governments, in the aggregate, or by the
 
-[[Page 39506]]
+[[Page 38283]]
 
-    This rule finalizes tolerance actions under the FFDCA, which 
-requires EPA to give special consideration to exposure of infants and 
-children to the pesticide chemical residue in establishing a tolerance 
-and to ``ensure that there is a reasonable certainty that no harm will 
-result to infants and children from aggregate exposure to the pesticide 
-chemical residue . . .'' (FFDCA 408(b)(2)(C)). The Agency's 
-consideration is documented in the pesticide-specific registration 
-review documents, located in each chemical docket at  https://www.regulations.gov .
+private sector. As a result, the analytical requirements of UMRA do not 
+apply.
 
-I. Executive Order 13211: Actions Concerning Regulations That 
-Significantly Affect Energy Supply, Distribution or Use
+G. Review Under the National Environmental Policy Act
 
-    This action is not subject to Executive Order 13211 (66 FR 28355) 
-(May 22, 2001) because it is not a significant regulatory action under 
-Executive Order 12866.
+    The National Environmental Policy Act (NEPA) of 1969 (42 U.S.C. 
+4321 et seq.), requires each Federal agency to consider the 
+environmental effects of regulatory actions and to prepare an 
+environmental impact statement on Agency actions that would 
+significantly affect the quality of the environment; unless the action 
+is considered categorically excluded under 29 CFR 11.10. MSHA has 
+reviewed the final rule in accordance with NEPA requirements and the 
+Department of Labor's NEPA procedures (29 CFR part 11). As a result of 
+this review, MSHA has determined that this final rule will not impact 
+air, water, or soil quality, plant or animal life, the use of land or 
+other aspects of the human environment. Therefore, MSHA has not 
+conducted an environmental assessment nor provided an environmental 
+impact statement.
 
-J. National Technology Transfer Advancement Act (NTTAA)
+H. Review Under the Treasury and General Government Appropriations Act, 
+1999
 
-    This action does not involve technical standards that would require 
-Agency consideration under NTTAA section 12(d), 15 U.S.C. 272.
+    Section 654 of the Treasury and General Government Appropriations 
+Act, 1999 (Pub. L. 105-277) requires Federal agencies to issue a Family 
+Policymaking Assessment for any rule that may affect family well-being. 
+This final rule will not have any impact on the autonomy or integrity 
+of the family as an institution. Accordingly, MSHA has concluded that 
+it is not necessary to prepare a Family Policymaking Assessment.
 
-K. Congressional Review Act (CRA)
+I. Review Under Executive Order 12630
 
-    This action is subject to the CRA, 5 U.S.C. 801 et seq., and EPA 
-will submit a rule report to each House of the Congress and to the 
-Comptroller General of the United States. This action is not a ``major 
-rule'' as defined by 5 U.S.C. 804(2).
+    Pursuant to E.O. 12630, ``Governmental Actions and Interference 
+with Constitutionally Protected Property Rights'' 53 FR 8859 (March 18, 
+1988), MSHA has determined that this final rule will not result in any 
+takings that might require compensation under the Fifth Amendment to 
+the U.S. Constitution.
 
-List of Subjects in 40 CFR Part 180
+J. Review Under the Treasury and General Government Appropriations Act, 
+2001
 
-    Environmental protection, Administrative practice and procedure, 
-Agricultural commodities, Pesticides and pests, Reporting and 
-recordkeeping requirements.
+    Section 515 of the Treasury and General Government Appropriations 
+Act, 2001 (44 U.S.C. 3516, note) provides for Federal agencies to 
+review most disseminations of information to the public under 
+information quality guidelines established by each agency pursuant to 
+general guidelines issued by OMB. OMB's guidelines were published at 67 
+FR 8452 (Feb. 22, 2002). MSHA has reviewed this final rule and has 
+concluded that it is consistent with applicable policies in the OMB 
+guidelines.
 
-    Dated: June 26, 2026.
-Charles Smith,
-Director, Registration Division, Office of Pesticide Programs.
+K. Review Under Executive Order 13175
 
-    Therefore, 40 CFR chapter I is amended as follows:
+    E.O. 13175, ``Consultation and Coordination With Indian Tribal 
+Governments'' 65 FR 67249 (Nov. 9, 2000), requires agencies to consult 
+with tribal officials when developing policies that may have ``tribal 
+implications.'' This final rule does not have ``tribal implications'' 
+because it will not ``have substantial direct effects on one or more 
+Indian tribes, on the relationship between the Federal Government and 
+Indian tribes, or on the distribution of power and responsibilities 
+between the Federal Government and Indian tribes.'' Accordingly, under 
+E.O. 13175, no further Agency action or analysis is required.
 
-PART 180--TOLERANCES AND EXEMPTIONS FOR PESTICIDE CHEMICAL RESIDUES 
-IN FOOD
+L. Review Under Executive Order 13211
+
+    E.O. 13211, ``Actions Concerning Regulations That Significantly 
+Affect Energy Supply, Distribution, or Use'' 66 FR 28355 (May 22, 
+2001), requires agencies to publish a statement of energy effects when 
+a rule has a significant energy action that adversely affects energy 
+supply, distribution, or use. MSHA has reviewed this final rule for its 
+energy effects. For the energy analysis, this final rule will not 
+exceed the relevant criteria for adverse impact.
+
+M. Review Under Additional Executive Orders and Presidential Memoranda
+
+    MSHA has examined this final rule and has determined that it is 
+consistent with the policies and directives outlined in E.O. 14154, 
+``Unleashing American Energy'' 90 FR 8353 (Jan. 29, 2025); E.O. 14192, 
+``Unleashing Prosperity Through Deregulation'' 90 FR 9065 (Feb. 6, 
+2025); E.O. 14267, ``Reducing Anti-Competitive Regulatory Barriers'' 90 
+FR 15629 (Apr. 9, 2025); and the Presidential Memorandum, ``Delivering 
+Emergency Price Relief for American Families and Defeating the Cost-of-
+Living Crisis'' 90 FR 8245 (Jan. 28, 2025). This final rule is an E.O. 
+14192 deregulatory action.
+
+N. Congressional Notification
+
+    As required by 5 U.S.C. 801, MSHA will report to Congress on the 
+promulgation of this rule before its effective date. The report will 
+state that it has been determined that the rule is not a ``major rule'' 
+as defined by 5 U.S.C. 804(2).
+
+List of Subjects in 30 CFR Part 72
+
+    Coal, Mine safety and health.
+
+    For the reasons set forth in the preamble, and under the authority 
+of the Federal Mine Safety and Health Act of 1977, as amended, MSHA 
+amends chapter I of title 30 of the Code of Federal Regulations as 
+follows:
+
+PART 72--HEALTH STANDARDS FOR COAL MINES
 
 0
-1. The authority citation for part 180 continues to read as follows:
+1. The authority citation for part 72 continues to read as follows:
 
-    Authority:  21 U.S.C. 321(q), 346a and 371.
+    Authority:  30 U.S.C. 811, 813(h), 957.
+
+Subpart D--Diesel Particulate Matter--Underground Areas of 
+Underground Coal Mines
 
 0
-2. Add Sec.  180.728 to subpart C to read as follows:
+2. Revise Sec.  72.500 to read as follows:
 
-Sec.  180.728  Diflufenican; tolerances for residues.
+Sec.  72.500   Emission limits for permissible diesel-powered 
+equipment.
 
-    (a) General. Tolerances are established for residues of the 
-herbicide diflufenican, including its metabolites and degradates, in or 
-on the commodities in Table 1 to this paragraph (a). Compliance with 
-the tolerance levels specified in Table 1 to this paragraph (a) is to 
-be determined by measuring only diflufenican, N-(2,4-difluorophenyl)-2-
-[3-(trifluoromethyl)phenoxy]-3-pyridinecarboxamide, in or on the 
-following commodities.
+    (a) [Reserved]
+    (b) Each piece of permissible diesel-powered equipment operated in 
+an underground area of an underground coal mine must emit no more than 
+2.5 grams per hour of diesel particulate matter.
 
-                        Table 1 to Paragraph (a)
-------------------------------------------------------------------------
-                                                             Parts per
-                        Commodity                             million
-------------------------------------------------------------------------
-Corn, field, forage.....................................            0.01
-Corn, field, grain......................................            0.01
-Corn, field, stover.....................................            0.01
-Soybean, Forage.........................................            0.01
-Soybean, Hay............................................           0.015
-Soybean, Seed...........................................            0.01
-------------------------------------------------------------------------
+0
+3. Amend Sec.  72.501 by:
+0
+a. Removing and reserving paragraphs (a) and (b); and
+0
+b. Revising paragraph (c).
+    The revision reads as follows:
 
-    (b) [Reserved]
+Sec.  72.501   Emission limits for nonpermissible heavy-duty diesel-
+powered equipment, generators and compressors.
 
-[FR Doc. 2026-13180 Filed 6-29-26; 8:45 am]
-BILLING CODE 6560-50-P
+* * * * *
+    (c) Each piece of nonpermissible heavy-duty diesel-powered 
+equipment (as defined by Sec.  75.1908(a)), generator or compressor 
+operated in an underground area of an underground coal mine must emit 
+no more than 2.5 grams per hour of diesel particulate matter.
+* * * * *
+    4. Amend Sec.  72.503 by revising paragraph (e) to read as follows:
+
+Sec.  72.503   Determination of emissions; filter maintenance; 
+definition of ``introduced''.
+
+* * * * *
+    (e) For purposes of Sec.  72.502(a), the term ``introduced'' means 
+any piece of equipment whose engine is a new addition to the 
+underground inventory of engines of the mine in question, including 
+newly purchased equipment, used equipment, and equipment receiving a 
+replacement engine that has a different serial number than the engine 
+it is replacing. ``Introduced'' does not include a piece of equipment
+
+[[Page 38284]]
+
+whose engine was previously part of the mine inventory and rebuilt.
+
+Wayne D. Palmer,
+Assistant Secretary of Labor for Mine Safety and Health Administration.
+[FR Doc. 2026-12792 Filed 6-24-26; 8:45 am]
+BILLING CODE 4520-43-P

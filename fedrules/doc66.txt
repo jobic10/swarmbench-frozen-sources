@@ -1,0 +1,447 @@
+[Federal Register Volume 91, Number 126 (Thursday, July 2, 2026)]
+[Rules and Regulations]
+[Pages 40360-40363]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13474]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-4000; Project Identifier AD-2025-00440-T; 
+Amendment 39-23385; AD 2026-13-03]
+RIN 2120-AA64
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain The Boeing Company Model 747-8F series airplanes. This AD was 
+prompted by reports of cracking in stringers and splice fittings 
+located at stringer splices at multiple body stations. This AD requires 
+an inspection of each free flange of the stringers at the stringer 
+splice for radius fillers at certain fastener locations, an inspection 
+for cracking of the stringers and stringer splice fittings at certain 
+stringer splice locations, and applicable on-condition actions. The FAA 
+is issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective August 6, 2026.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publications listed in this AD as of August 6, 
+2026.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at  regulations.gov  under 
+Docket No. FAA-2025-4000; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket
+
+[[Page 40361]]
+
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+      For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110 SK57, Seal Beach, CA 90740-5600; 
+telephone 562 797 1717; website  myboeingfleet.com .
+      You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at  regulations.gov  under 
+Docket No. FAA-2025-4000.
+
+FOR FURTHER INFORMATION CONTACT: Taylor Stanley, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 407-
+852-7677; email:   [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain The Boeing 
+Company Model 747-8F series airplanes. The NPRM was published in the 
+Federal Register on November 17, 2025 (90 FR 51227). The NPRM was 
+prompted by reports of cracking in stringers and splice fittings 
+located at stringer splices at multiple body stations. In the NPRM, the 
+FAA proposed to require an inspection of each free flange of the 
+stringers at the stringer splice for radius fillers at certain fastener 
+locations, an inspection for cracking of the stringers and stringer 
+splice fittings at certain stringer splice locations, and applicable 
+on-condition actions. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from an individual who supported the NPRM 
+without change.
+    The FAA also received comments from the Citizens Rulemaking 
+Alliance. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Request To Justify Forgoing Notice and Comment or Issue an NPRM
+
+    The Citizens Rulemaking Alliance requested that the FAA either 
+provide its justification for finding good cause to bypass notice and 
+comment procedures, or convert this action to an NPRM and bifurcate the 
+urgent and non-urgent elements. The commenter asserted the FAA has not 
+adequately justified use of the good cause exemption to bypass notice 
+and comment and the 30-day delayed effective date.
+    The FAA notes the comment was submitted in response to an NPRM for 
+which the FAA provided a 45-day comment period. This final rule is 
+effective 35 days after its publication in the Federal Register. 
+Therefore, no change to this AD is necessary.
+
+Request To Make Incorporation by Reference (IBR) Materials Reasonably 
+Available
+
+    The Citizens Rulemaking Alliance requested that the FAA make IBR 
+material available and free to the public during the comment period and 
+add the IBR materials to the AD docket.
+    In the preamble of the NPRM, the FAA notified the public that the 
+IBR material would be available for review under Docket No. FAA-2025-
+4000 at  regulations.gov . This material was posted to the AD docket on 
+November 19, 2025. Therefore, no change to this AD is necessary.
+
+Request To Comply With the Paperwork Reduction Act (PRA)
+
+    The Citizens Rulemaking Alliance requested that the FAA revise the 
+AD to comply with the PRA. If reporting is not required, the commenter 
+requested the FAA clarify that in the AD.
+    The FAA notes this AD does not require reporting. If an AD were to 
+require reporting, the preamble of the AD would include a paragraph 
+titled ``Paperwork Reduction Act'' that would provide the applicable 
+OMB control number, required PRA statements, and the estimated time to 
+collect the required information (burden). Any costs associated with 
+the reporting requirement would be included in the Costs of Compliance 
+section in the preamble of the AD. Therefore, the FAA did not change 
+this AD as a result of this comment.
+
+Request To Consider Impact on Small Entities
+
+    The Citizens Rulemaking Alliance requested that the FAA either 
+prepare an initial regulatory flexibility analysis, or provide the 
+factual basis for its conclusion that the AD will not have a 
+significant economic impact on a substantial number of small entities.
+    The FAA identified two carriers affected by this AD. Based on the 
+Small Business Administration (SBA) size standard shown in the table 
+below, both entities are classified as large businesses.
+
+                    Small Business Size Standards \1\
+------------------------------------------------------------------------
+         NAICS \2\ code               Description        Size standard
+------------------------------------------------------------------------
+481212..........................  Nonscheduled        1,500 employees.
+                                   Chartered Freight
+                                   Air
+                                   Transportation.
+492110..........................  Couriers and        1,500 employees.
+                                   Express Delivery
+                                   Services.
+------------------------------------------------------------------------
+\1\ Source:  sba.gov : Table of Small Business Size Standards (2023).
+\2\ North American Industrial Classification System.
+
+    Under section 605(b) of the Regulatory Flexibility Act (RFA), if an 
+agency determines that a rulemaking will not result in a significant 
+economic impact on a substantial number of small entities, the head of 
+the agency may certify. Therefore, as provided in section 605(b) and 
+based on the foregoing, the head of FAA certifies that this AD will not 
+result in a significant economic impact on a substantial number of 
+small entities. The FAA did not change this AD as a result of this 
+comment.
+
+Request To Provide Additional Cost Information
+
+    The Citizens Rulemaking Alliance requested that the FAA supplement 
+the economic analysis to reflect realistic costs for parts, labor, 
+airplane downtime, and repetitive action costs and confirm the AD is 
+not significant under Executive Order 12866. The commenter stated that 
+the FAA omitted indirect costs such as airplane downtime, repetitive 
+actions, engineering development of alternative methods of compliance, 
+supply chain constraints, and training and operational disruptions. The 
+commenter also stated that the AD should specify whether the Unfunded 
+Mandates Reform Act (UMRA) threshold is met.
+
+[[Page 40362]]
+
+    The FAA notes that in preamble of the proposed AD, the FAA 
+certified that this regulation is not a ``significant regulatory 
+action'' under Executive Order 12866, which means, in part, that the 
+regulation will not have an annual effect on the economy of $100 
+million or more. Further, in the Costs of Compliance section of the 
+proposed AD, the FAA disclosed that the required inspections are 
+estimated to cost U.S. operators up to $344,080, per airplane. The 
+repetitive inspections are estimated to cost $85 per inspection area, 
+every 48 or 96 months, depending on findings.
+    The FAA recognizes that, in doing the actions required by an AD, 
+operators might incur indirect costs in addition to the direct costs. 
+The cost analysis in an AD typically does not include indirect costs 
+since the FAA lacks data on those costs, and they vary significantly 
+among operators. Since the FAA has assessed and disclosed all known 
+costs of the AD requirements in the Costs of Compliance section of the 
+proposed AD, and the commenter did not provide additional cost data for 
+the FAA to consider in its cost analysis, the FAA determined that the 
+existing analysis is complete. Based upon the analysis provided 
+throughout the proposed AD and in the previous comment response, the 
+FAA certifies that this AD is not a ``significant regulatory action'' 
+under Executive Order 12866. The FAA did not change this AD as a result 
+of this comment.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, this 
+AD is adopted as proposed in the NPRM. None of the changes will 
+increase the economic burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin 747-53A2907 RB, 
+Revision 1, dated March 14, 2025. This material specifies procedures 
+for an inspection of each free flange of the stringers at the stringer 
+splice for radius fillers at the fastener locations, a detailed 
+inspection for cracking of the stringers and stringer splice fittings 
+at certain stringer splice locations, and applicable on-condition 
+actions. On-condition actions include detailed inspections for cracking 
+or radius fillers, removal or installation of radius fillers, and 
+contacting Boeing for repair instructions and doing the repair (i.e., 
+replacement of a cracked splice channel).
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 11 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                   Labor cost          Parts cost       Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection for radius filler....  Up to 124 work-     None..............  Up to $10,540.....  Up to $115,940.
+                                   hours x $85 per
+                                   hour = $10,540.
+Inspection for cracking.........  Up to 244 work-     None..............  Up to $20,740.....  Up to $228,140.
+                                   hours x $85 per
+                                   hour = $20,740.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of the 
+inspection. The agency has no way of determining the number of aircraft 
+that might need these actions:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                Action                        Labor cost               Parts cost            Cost per product
+----------------------------------------------------------------------------------------------------------------
+Inspection for cracking or for radius  1 work-hour x $85 per    None...................  $85 per inspection
+ fillers.                               hour = $85.                                       location.
+Removal and installation of radius     7 work-hours x $85 per   None...................  $595 per location.
+ fillers.                               hour = $595.
+Replacement of cracked splice channel  300 work-hours x $85     $809...................  $26,309 per
+                                        per hour = $25,500.                               replacement.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this AD may be covered under warranty, thereby reducing the cost impact 
+on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+
+[[Page 40363]]
+
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2026-13-03--Boeing Company: Amendment 39-23385; Docket No. FAA-2025-
+4000; Project Identifier AD-2025-00440-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 6, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 747-8F series 
+airplanes, certificated in any category, identified as Group 3 in 
+Boeing Alert Requirements Bulletin 747-53A2907 RB, Revision 1, dated 
+March 14, 2025.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of cracking in stringers and 
+splice fittings located at stringer splices at multiple body 
+stations. The FAA is issuing this AD to address such cracking, which 
+could result in the inability of a structural element to sustain 
+limit load and could adversely affect the structural integrity of 
+the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified by paragraph (h) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin 747-53A2907 RB, Revision 1, dated March 
+14, 2025, do all applicable actions identified in, and in accordance 
+with, the Accomplishment Instructions of Boeing Alert Requirements 
+Bulletin 747-53A2907 RB, Revision 1, dated March 14, 2025.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+747-53A2907, Revision 1, dated March 14, 2025, which is referred to 
+in Boeing Alert Requirements Bulletin 747-53A2907 RB, Revision 1, 
+dated March 14, 2025.
+
+(h) Exceptions to Requirements Bulletin Specifications
+
+    (1) Where the Compliance Time columns of the tables in the 
+``Compliance'' paragraph of Boeing Alert Requirements Bulletin 747-
+53A2907 RB, Revision 1, dated March 14, 2025, refer to the Revision 
+1 date of Requirements Bulletin 747-53A2907 RB, this AD requires 
+using the effective date of this AD.
+    (2) Where Boeing Alert Requirements Bulletin 747-53A2907 RB, 
+Revision 1, dated March 14, 2025, specifies contacting Boeing for 
+repair instructions: This AD requires doing the repair using a 
+method approved in accordance with the procedures specified in 
+paragraph (i) of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the Continued Operational 
+Safety Branch, send it to the attention of the person identified in 
+paragraph (j)(1) of this AD. Information may be emailed to: 
+  [email&#160;protected]  . Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(j) Additional Information
+
+    (1) For more information about this AD, contact Taylor Stanley, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 407-852-7677; email:   [email&#160;protected]  .
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (k)(3) 
+of this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Requirements Bulletin 747-53A2907 RB, Revision 
+1, dated March 14, 2025.
+    (ii) [Reserved].
+    (3) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website  myboeingfleet.com .
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit  www.archives.gov/federal-register/cfr/ibr-locations  or email   [email&#160;protected]  .
+
+    Issued on June 18, 2026.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-13474 Filed 7-1-26; 8:45 am]
+BILLING CODE 4910-13-P

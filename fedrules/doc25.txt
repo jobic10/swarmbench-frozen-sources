@@ -1,595 +1,459 @@
-[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
 [Rules and Regulations]
-[Pages 39405-39418]
+[Pages 38531-38534]
 From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
-[FR Doc No: 2026-13208]
+[FR Doc No: 2026-12896]
+
+[[Page 38531]]
 
 -----------------------------------------------------------------------
 
-DEPARTMENT OF TRANSPORTATION
+ENVIRONMENTAL PROTECTION AGENCY
 
-Federal Aviation Administration
+40 CFR Part 62
 
-14 CFR Part 39
+[EPA-R06-OAR-2020-0610; FRL-12763-02-R6]
 
-[Docket No. FAA-2026-7208; Project Identifier AD-2026-00557-T; 
-Amendment 39-23400; AD 2026-13-17]
-RIN 2120-AA64
+Approval and Promulgation of State Air Quality Plans for 
+Designated Facilities and Pollutants; Oklahoma; Control of Emissions 
+From Existing Other Solid Waste Incineration Units, Hospital/Medical/
+Infectious Waste Incinerator Units, and Commercial and Industrial Solid 
+Waste Incineration Units
 
-Airworthiness Directives; The Boeing Company Airplanes
+AGENCY: Environmental Protection Agency (EPA).
 
-AGENCY: Federal Aviation Administration (FAA), DOT.
-
-ACTION: Final rule; request for comments.
+ACTION: Final rule.
 
 -----------------------------------------------------------------------
 
-SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
-The Boeing Company Model 737-8, 737-9, and 737-8200 airplanes. This AD 
-was prompted by the determination that radio altimeters cannot be 
-relied upon to perform their intended function if they experience 
-interference from wireless broadband operations in the 3.7-3.98 GHz 
-frequency band (5G Lower C-Band) while operating in Canadian airspace, 
-and the determination that, during takeoffs and landings, as a result 
-of this interference, certain airplane systems may not properly 
-function, resulting in longer than normal landing or rejected takeoff 
-distances due to the effect on thrust reverser deployment, spoilers, 
-speedbrake deployment, and increased idle thrust, regardless of the 
-approach type or weather, which could lead to degraded deceleration 
-performance and a runway excursion. This AD requires revising the 
-existing airplane flight manual (AFM) to incorporate limitations 
-prohibiting certain operations requiring radio altimeter data when 
-operating in Canadian airspace. The FAA is issuing this AD to address 
-the unsafe condition on these products.
+SUMMARY: Pursuant to the Federal Clean Air Act (CAA or the Act), the 
+Environmental Protection Agency (EPA) is notifying the public that we 
+have received CAA section 111(d)/129 negative declarations from 
+Oklahoma for existing incinerators subject to the Other Solid Waste 
+Incineration units (OSWI), Hospital/Medical/Infectious Waste 
+Incinerator units (HMIWI), and Commercial and Industrial Solid Waste 
+Incineration Units (CISWI) Emission Guidelines (EG). These negative 
+declarations certify that existing incinerators subject to the OSWI, 
+HMIWI, and CISWI EG and the requirements of sections 111(d) and 129 of 
+the CAA do not exist within specified jurisdictions in Oklahoma. The 
+EPA is accepting these negative declarations and amending agency 
+regulations in accordance with the requirements of the CAA.
 
-DATES: This AD is effective July 1, 2026.
-    The FAA must receive comments on this AD by August 14, 2026.
+DATES: This rule is effective on July 27, 2026.
 
-ADDRESSES: You may send comments, using the procedures found in 14 CFR 
-11.43 and 11.45, by any of the following methods:
-      Federal eRulemaking Portal: Go to  regulations.gov . Follow 
-the instructions for submitting comments.
-      Fax: 202-493-2251.
-      Mail: U.S. Department of Transportation, Docket 
-Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
-Jersey Avenue SE, Washington, DC 20590.
-      Hand Delivery: Deliver to Mail address above between 9 
-a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+ADDRESSES: The EPA has established a docket for this action under 
+Docket ID No. EPA-R06-OAR-2020-0610. All documents in the docket are 
+listed on the  https://www.regulations.gov  website. Although listed in 
+the index, some information is not publicly available, e.g., 
+Confidential Business Information or other information whose disclosure 
+is restricted by statute. Certain other material, such as copyrighted 
+material, is not placed on the internet. Publicly available docket 
+materials are available electronically through  https://www.regulations.gov .
 
-[[Page 39406]]
+FOR FURTHER INFORMATION CONTACT: Matthew Gesualdo, EPA Region 6 Office, 
+State Planning and Implementation Branch, 214-665-6530, 
+  [email&#160;protected]  . Please call or email the contact listed above 
+if you need alternative access to material indexed but not provided in 
+the docket.
 
-    AD Docket: You may examine the AD docket at  regulations.gov  by 
-searching for and locating Docket No. FAA-2026-7208; or in person at 
-Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
-except Federal holidays. The AD docket contains this final rule, any 
-comments received, and other information. The street address for Docket 
-Operations is listed above.
+SUPPLEMENTARY INFORMATION: Throughout this document ``we,'' ``us,'' and 
+``our'' means the EPA.
 
-FOR FURTHER INFORMATION CONTACT: Ken Fairhurst, Continued Operational 
-Safety Technical Advisor, FAA, 2200 South 216th St., Des Moines, WA 
-98198; phone: 817-222-5390; email:   [email&#160;protected]  .
+I. Background
 
-SUPPLEMENTARY INFORMATION:
+    The background for this action is discussed in detail in our July 
+10, 2025, proposal (90 FR 30616). In that document, we proposed to 
+accept the OSWI, HMIWI, and CISWI negative declarations submitted by 
+the Oklahoma Department of Environmental Quality (ODEQ), withdraw EPA's 
+proposed approval of the Oklahoma CISWI state plan revision, and amend 
+the Code of Federal Regulations (CFR) in accordance with the 
+requirements of sections 111(d) and 129 of the CAA.
 
-Comments Invited
+II. Response to Comments
 
-    The FAA invites you to send any written data, views, or arguments 
-about this final rule. Send your comments using a method listed under 
-the ADDRESSES section. Include Docket No. FAA-2026-7208 and Project 
-Identifier AD-2026-00557-T at the beginning of your comments. The most 
-helpful comments reference a specific portion of the final rule, 
-explain the reason for any recommended change, and include supporting 
-data. The FAA will consider all comments received by the closing date 
-and may amend this final rule because of those comments.
-    Except for Confidential Business Information (CBI) as described in 
-the following paragraph, and other information as described in 14 CFR 
-11.35, the FAA will post all comments received, without change, to 
- regulations.gov , including any personal information you provide. The 
-agency will also post a report summarizing each substantive verbal 
-contact received about this final rule.
-
-Confidential Business Information
-
-    CBI is commercial or financial information that is both customarily 
-and actually treated as private by its owner. Under the Freedom of 
-Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
-disclosure. If your comments responsive to this AD contain commercial 
-or financial information that is customarily treated as private, that 
-you actually treat as private, and that is relevant or responsive to 
-this AD, it is important that you clearly designate the submitted 
-comments as CBI. Please mark each page of your submission containing 
-CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
-confidential under the FOIA, and they will not be placed in the public 
-docket of this AD. Submissions containing CBI should be sent to Ken 
-Fairhurst, Continued Operational Safety Technical Advisor, FAA, 2200 
-South 216th St., Des Moines, WA 98198; phone: 817-222-5390; email: 
-  [email&#160;protected]  . Any commentary that the FAA receives that is 
-not specifically designated as CBI will be placed in the public docket 
-for this rulemaking.
-
-Background
-
-    The FAA issued AD 2021-23-12, Amendment 39-21810 (86 FR 69984, 
-December 9, 2021) (AD 2021-23-12), for all transport and commuter 
-category airplanes equipped with a radio altimeter. AD 2021-23-12 was 
-prompted by a determination that radio altimeters cannot be relied upon 
-to perform their intended function if they experience interference from 
-wireless broadband operations in the 5G Lower C-Band, which is close to 
-the frequency bands used by radio altimeters (4.2-4.4 GHz). AD 2021-23-
-12 required revising the limitations section of the existing AFM to 
-incorporate limitations prohibiting certain operations requiring radio 
-altimeter data when in the presence of 5G Lower C-Band interference as 
-identified by Notices to Air Missions (NOTAMs). The agency issued AD 
-2021-23-12 because radio altimeter anomalies that are undetected by the 
-automation or pilot, particularly close to the ground (e.g., landing 
-flare), could lead to loss of continued safe flight and landing.
-    The FAA subsequently identified an additional hazard presented by 
-5G Lower C-Band interference on Boeing Model 737-8, 737-9, and 737-8200 
-airplanes and issued AD 2022-03-20, Amendment 39-21937 (87 FR 4787, 
-January 31, 2022) (AD 2022-03-20). AD 2022-03-20 was prompted by the 
-unsafe condition in AD 2021-23-12, as well as a determination that, 
-during takeoffs and landings, as a result of interference from the 5G 
-Lower C-Band, certain airplane systems may not properly function, 
-resulting in longer than normal landing or rejected takeoff distances 
-due to the effect on thrust reverser deployment, spoilers, speedbrake 
-deployment, and increased idle thrust, regardless of the approach type 
-or weather, which could lead to degraded deceleration performance and a 
-runway excursion. AD 2022-03-20 required revising the limitations 
-section of the existing AFM to incorporate limitations prohibiting the 
-use of certain minimum equipment list (MEL) items when in the presence 
-of 5G Lower C-Band interference as identified by NOTAMs.
-    After the FAA issued AD 2021-23-12 and AD 2022-03-20, the agency 
-determined that additional limitations were needed due to the continued 
-deployment of new 5G Lower C-Band base stations whose signals were 
-expected to cover most of the contiguous U.S., as well as the 
-determination that radio altimeter anomalies could lead to increased 
-flightcrew workload and flightcrew desensitization to warnings. 
-Therefore, the FAA issued AD 2023-10-02, Amendment 39-22438 (88 FR 
-34065, May 26, 2023) (AD 2023-10-02), to supersede AD 2021-23-12, and 
-the FAA issued AD 2023-12-11, Amendment 39-22469 (88 FR 40011, June 21, 
-2023) (AD 2023-12-11), to supersede AD 2022-03-20.
-    Currently, AD 2023-12-11 requires revising the limitations section 
-of the existing AFM to incorporate limitations prohibiting the use of 
-certain MEL items in the entire contiguous U.S. airspace instead of 
-only in areas identified by NOTAM; however, AD 2023-12-11 permits radio 
-altimeter tolerant airplanes to perform these operations at 5G Lower C-
-Band mitigated airports as identified in an FAA Domestic Notice.
-
-Actions Since AD 2023-12-11 Was Issued
-
-    Since the FAA issued AD 2023-12-11, Transport Canada, which is the 
-aviation authority for Canada, issued AD CF-2024-14, dated May 15, 2024 
-(Transport Canada AD CF-2024-14), to correct an unsafe condition for 
-all transport and commuter category airplanes with a radio altimeter. 
-Transport Canada AD CF-2024-14 states that in July 2023, Innovation, 
-Science and Economic Development Canada (ISED), Canada's spectrum 
-regulator, published Standard Radio System Plans (SRSP)-520 Issue 3 \1\ 
-and Radio Standard Specifications (RSS)-192 Issue 5,\2\ which define 
-the spectrum environment for the 3.45-3.90 GHz frequency band in 
-Canada. Transport Canada AD CF-2024-14 further states that spectrum 
-auctions for the 3.45-3.65 GHz and the 3.65-3.9 GHz band were completed 
-in 2021 and 2023, respectively.
+    EPA received three comments during the 30-day public comment period 
+which closed on August 11, 2025. Summaries of the three comments and 
+EPA's responses to them are provided below.
+    Comment: The commenter expresses general opposition to the 
+rulemaking and ``projects'' that adversely impact Oklahoma and its 
+residents, and cites concerns for Oklahoma's health, land, water, and 
+air.
+    Response: EPA acknowledges the commenter's concerns for public 
+health and the environment. However, these comments are not relevant to 
+and are outside the scope of this rulemaking. This action merely amends 
+40 CFR part 62, subpart LL to reflect receipt of Oklahoma's negative 
+declarations for existing incinerators subject to the OSWI, HMIWI, and 
+CISWI emission guidelines (EG) within its jurisdiction. These negative 
+declarations address CAA section 111(d)/129 provisions that were 
+previously promulgated by EPA (i.e., the respective EGs at 40 CFR part 
+60, subparts FFFF, Ce, and DDDD; the implementation regulations at 40 
+CFR part 60, subpart B, and the procedural framework at 40 CFR part 62, 
+subpart A), and exempts the State from the requirement to submit a 
+State plan due to the absence of applicable designated facilities 
+within the State's jurisdiction. In addition, the commenter does not 
+specify in detail what ``projects'' they are opposed to. This action 
+does not authorize or approve any incineration project, does not modify 
+and permit existing or new sources, and does not establish requirements 
+for other source categories. The commenter does not identify a 
+deficiency in Oklahoma's negative declaration certifications or 
+compliance with 40 CFR part 60, subparts FFFF, Ce, and DDDD. Concerns 
+about specific facilities or projects should be directed to the 
+appropriate State and/or local permitting authorities and appropriate 
+processes.
+    Comment: Support is expressed for EPA's regulation of pollutants 
+from existing incinerators, while urging EPA to account for carbon 
+dioxide (CO 2 ) emissions from industrial, medical, and 
+municipal waste combustion. The comment asserts that CO 2  
+emissions are often undercounted in emission inventories. The comment 
+requests that EPA work with states to better quantify CO 2  
+emissions and incorporate that data into national greenhouse gas (GHG) 
+inventories and policy planning. Additionally, it argues that a greater 
+emphasis on emissions data transparency can contribute towards waste 
+reduction, reuse/composting, and lower-carbon alternatives. Overall, 
+the comment recommends that EPA should request or incentivize voluntary 
+CO 2  reporting and incorporate relevant metrics into future 
+State plan guidance.
+    Response: EPA appreciates the commenter's input and acknowledges 
+the commenter's concern for carbon dioxide (CO 2 ) emissions 
+and desire for improved controls and reporting. However, these comments 
+are generally outside the scope of this rulemaking. This rulemaking 
+solely addresses Oklahoma's negative declarations under CAA section 
+111(d)/129 for existing incinerators subject to the OSWI, HMIWI, and 
+CISWI EGs and simply provides notice that Oklahoma has certified that 
+there are no such units within its jurisdiction while amending the CFR 
+accordingly. The applicable EGs at 40 CFR part 60, subparts DDDD (CISWI 
+EG), FFFF (OSWI EG), and Ce (HMIWI EG) address solid waste combustion 
+provisions under CAA section 129 that provide for emission limitations 
+for particulate matter (PM), opacity (as appropriate), sulfur dioxide, 
+hydrogen chloride, oxides of nitrogen, carbon monoxide, lead, cadmium, 
+mercury, and dioxins and dibenzofurans.\1\ These CAA section 129 EGs do 
+not establish emission limits or requirements for CO 2.  Such 
+incinerators (designated facilities) under relevant CAA section 129 EGs 
+are still subject to applicable emissions reporting requirements, but 
+as previously stated, Oklahoma is simply certifying that they have no 
+such applicable sources within their jurisdiction, and EPA is amending 
+the CFR accordingly providing record of that certification.
 ---------------------------------------------------------------------------
 
-    \1\  https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/standard-radio-system-plans/srsp-520-technical-requirements-fixed-andor-mobile-systems-including-flexible-use-broadband-systems .
-    \2\  https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-equipment-standards/radio-standards-specifications-rss/rss-192-flexible-use-broadband-equipment-operating-band-3450-3900-mhz .
+    \1\ CAA section 129(a)(4).
 ---------------------------------------------------------------------------
 
-    In July 2023, ISED implemented measures to mitigate Lower C-Band 
-interference to radio altimeters, which provide the Canadian airspace 
-greater protection from 5G Lower C-Band interference to radio 
-altimeters as
+    Comment: The commenter raises several concerns with the Reworld 
+facility as well as the proposed revisions to the title V permit for 
+the facility which would allow for the facility to
 
-[[Page 39407]]
+[[Page 38532]]
 
-compared to the Lower C-Band environment in the contiguous U.S. 
-airspace. These measures include exclusion and protection zones and 
-airport effective isotropic radiated power (EIRP) elevation mask (a 
-restriction that requires nearby cell tower signals to be angled 
-downward so they do not interfere with aircraft altimeters) at certain 
-airport runways covering the majority of air traffic in Canada, as well 
-as nationwide reduced fundamental power emissions based on the degree 
-of antenna uptilt above the horizon to minimize emissions from 5G base 
-stations toward aircraft.
-    In late March 2026, Transport Canada notified the FAA that, 
-beginning July 1, 2026, changes in the 5G Lower C-Band protection 
-mitigations established by ISED in 2023 would result in a more severe 
-5G interference environment in the Canadian airspace. Exclusion and 
-protection zones at airports will no longer exist and updates to the 
-airport EIRP elevation mask, nationwide tilt restriction, emitter 
-height limitation and reduced spurious emissions will only protect 
-airplanes that are radio altimeter tolerant. The change in mitigations 
-will result in an unsafe condition in the Canadian 5G interference 
-environment.
-    Transport Canada determined that radio altimeters cannot be relied 
-upon to perform their intended function if they experience interference 
-from wireless broadband operations in the 3.45-3.98 GHz frequency band. 
-Transport Canada based its determination on the same unsafe condition 
-found by the FAA in AD 2023-10-02. As a result, Transport Canada AD CF-
-2024-14 requires revising the limitations section of the existing AFM 
-to incorporate limitations prohibiting certain operations requiring 
-radio altimeter data, due to the presence of 5G Lower C-Band 
-interference, while operating in Canadian airspace. As terminating 
-action for the operating limitations, Transport Canada AD CF-2024-14 
-provides that operators may upgrade their radio altimeters to 
-demonstrate the tolerances for emissions as specified in Transport 
-Canada AD CF-2024-14.
-    Boeing subsequently conducted an analysis of the expected changes 
-in the 5G Lower C-Band environment in Canada and the effects of 
-interference with radio altimeters with respect to the Boeing fleet. In 
-May 2026, Boeing reported that certain airplane configurations will not 
-demonstrate tolerance to radio altimeter interference in the new 5G 
-environment in Canada. Therefore, based on this information, the FAA 
-determined that the unsafe condition identified in AD 2023-12-11 exists 
-for Model 737-8, 737-9, and 737-8200 airplanes when operating in the 
-Canadian airspace. As a result, operating limitations similar to the 
-limitations required by AD 2023-12-11 are necessary.
-    The FAA is issuing this AD to address the unsafe condition on these 
-products.
+accept and burn regulated medical waste. The commenter's concerns 
+include: Reworld's proximity to downtown Tulsa, the potential 
+acceptance of waste from outside of Oklahoma, and the classification of 
+the facility as a large municipal waste combustor (LMWC) despite the 
+proposed burning of regulated medical waste (RMW) in addition to the 
+facility already burning ``commercial'' and ``special waste''. The 
+commenter states that many citizens are also opposed to the Reworld 
+facility burning RMW. The commenter believes that the permit revision 
+is not properly following Federal New Source Performance Standards 
+(NSPS) (40 CFR part 60) rules and is doing so at the detriment of the 
+public. The commenter generally disagrees with the negative declaration 
+submitted by ODEQ to EPA for HMIWI and strongly believes the Reworld 
+facility should be classified as a HMIWI facility and be subject to 
+HMIWI EG. The commenter provided documentation on the proposed permit 
+revision in support of their comments.
+    The commenter additionally provided their interpretation and 
+context regarding the Federal rules under the NSPS and EG, the process 
+for negative declarations and Oklahoma's handling and categorization of 
+facilities under the NSPS and EG, including which facilities would be 
+subject to exemptions or negative declarations under these rules. The 
+commenter also provided some background on the Reworld facility as well 
+as the public notice process and status for the facility's proposed 
+permit revision.
+    Response: EPA notes the commenter's concern regarding the proposed 
+permit revision for Reworld which would allow the facility to accept 
+and burn additional RMW. EPA also notes that ODEQ has historically 
+categorized the Reworld facility as an existing LMWC subject to the 
+LMWC EG at 40 CFR part 60, subpart Cb, which are implemented through 
+the State's approved CAA section 111(d)/129 plan for LMWC (63 FR 59887, 
+November 6, 1998). EPA additionally notes that the facility is 
+authorized to burn 30 percent or greater municipal solid waste (MSW) as 
+defined under 40 CFR 60.51b and has previously been approved to 
+incinerate RMW on May 1, 2025 (2014-1722-TVR (M-2). The title V permit 
+for Reworld classifies the facility as a LMWC while also authorizing 
+combustion of additional medical waste.
+    The LMWC rules provide that incinerators that have a combustion 
+capacity greater than 250 tons per day and burn greater than 30 percent 
+MSW by feedstream meet the LMWC NSPS/EG applicability requirements, 
+unless the facility falls under an exemption (see 40 CFR 60.32b and 
+60.50b).\2\ Similarly, under the HMIWI rules, facilities must meet the 
+stated applicability requirements and not fall under an exemption to be 
+subject to the HMIWI NSPS/EG (see 40 CFR 60.32e and 60.50c). 
+Incinerators that combust more than 10 percent hospital/medical/
+infectious waste (HMIW) generally fall under the HMIWI rules unless 
+they fall under an exemption, such as meeting applicability 
+requirements under the LMWC rules. In the context of Reworld, per 40 
+CFR 60.50c(e) of the HMIWI NSPS and 40 CFR 60.32e(e) of the HMIWI EG, 
+any combustor which meets applicability requirements under subpart Cb 
+for LMWC are not subject to these subparts for HMIWI. In other words, 
+as Reworld meets the applicability requirements for the LMWC EG, 
+Reworld is exempt from the requirements of the HMIWI NSPS and EG. 
+Reworld is required to maintain at least 30 percent municipal solid 
+waste in the feedstream (by weight) each month to remain subject to the 
+LMWC EG and avoid classification as a cofired combustor (see Condition 
+2.A.ii and 40 CFR 60.51b).\3\
+---------------------------------------------------------------------------
 
-FAA's Determination
+    \2\ See also, CAA section 129(g)(5), ``an incineration unit 
+shall not be considered to be combusting municipal waste for 
+purposes of section 7411 [CAA section 111] of this title or this 
+section if it combusts a fuel feed stream, 30 percent or less of the 
+weight of which is comprised, in aggregate, of municipal waste''.
+    \3\ See the definition for cofired combustors under 40 CFR 
+60.51b ``Cofired combustor''.
+---------------------------------------------------------------------------
 
-    The FAA is issuing this AD because the agency has determined the 
-unsafe condition described previously is likely to exist or develop in 
-other products of the same type design.
+    In addition, EPA notes that on March 10, 2026, EPA finalized 
+revised NSPS (40 CFR part 60, subpart VVVV) and EG (40 CFR part 60, 
+subpart WWWW) for LMWC effective May 11, 2026 (91 FR 11802). The LMWC 
+final rule revises emission limits to be more stringent for cadmium, 
+lead, particulate matter, dioxins/furans, hydrogen chloride, and sulfur 
+dioxide for all NSPS/EG sources, and for nitrogen oxides and carbon 
+monoxide for certain EG sources and all NSPS sources; and, among other 
+revisions, reestablishes applicability dates for new and existing 
+sources. EPA estimates a reduction of 3,269 tons per year of regulated 
+pollutants from existing sources. State plans implementing the revised 
+LMWC EG requirements at 40 CFR part 60, subpart WWWW, are due March 10, 
+2027.
+    Therefore, under the new LMWC EG, Reworld will be subject to more 
+stringent emission limits and requirements than under the previous LMWC 
+EG. Table 2 of the final rule establishing the revised LMWC EG (91 FR 
+11802, May 11, 2026) details how emission limits have become more 
+stringent across all of the aforementioned pollutants. While the HMIWI 
+EG are broadly more stringent than the LMWC EG, the revised LMWC 
+contains a lower emissions limit for PM 2.5  (20 milligrams 
+per dry standard cubic meter (mg/dscm)) than the HMIWI EG for large 
+HMIWI facilities (25 mg/dscm).
+    Overall, EPA agrees with ODEQ's assessment that the Reworld 
+facility meets the applicability requirements for the LMWC EG and 
+therefore is not subject to the HMIWI EG. EPA has not found or been 
+provided any evidence that suggests that Oklahoma has such facilities 
+(incinerators subject to the HMIWI EG) within their jurisdiction. The 
+negative declaration submitted by ODEQ for facilities that fall under 
+the HMIWI EG in Oklahoma is still considered acceptable by EPA and 
+addresses the corresponding provisions of Clean Air Act sections 111(d) 
+and 129 and 40 CFR 60.23(b) and 62.06.
 
-AD Requirements
+III. Impact on Areas of Indian Country
 
-    For non-radio altimeter tolerant airplanes, this AD requires, 
-before further flight in Canadian airspace, revising the existing AFM 
-to incorporate limitations prohibiting the use of certain MEL items 
-when operating in Canadian airspace. This AD provides that modifying 
-the airplane from a non-radio altimeter tolerant airplane to a radio 
-altimeter tolerant airplane terminates the AFM operating limitations 
-for that airplane.
-    While AD 2023-12-11 also specifies limitations for dispatch or 
-release to airports and approach, landing, and go-around on runways for 
-radio altimeter tolerant airplanes except at 5G Lower C-Band mitigated 
-airports, this AD has no limitations for radio altimeter tolerant 
-airplanes. The interference environment at Canadian airports after July 
-1, 2026, will be mitigated enough such that those limitations are not 
-necessary for radio altimeter tolerant airplanes. The FAA also notes 
-that most 737-8, 737-9, and 737-8200 radio altimeter tolerant airplanes 
-are not subject to the limitations in AD 2023-12-11 under the 
-provisions of an FAA-approved AMOC.
-    An airplane that is a radio altimeter tolerant airplane using a 
-method approved by the FAA for AD 2023-12-11 is also a radio altimeter 
-tolerant airplane for the purposes of paragraph (g)(1) of this AD. 
-Alternative methods of compliance (AMOC) listed in paragraph (j)(3) of 
-this AD are approved for this AD.
+    Following the U.S. Supreme Court decision in McGirt v. Oklahoma, 
+140 S. Ct. 2452 (2020), the Governor of the State of Oklahoma requested 
+approval under Section 10211(a) of the Safe, Accountable, Flexible, 
+Efficient Transportation Equity Act of 2005: A Legacy for Users, Public 
+Law 109-59, 119 Stat. 1144, 1937 (August 10, 2005) (``SAFETEA''), to 
+administer in certain areas of Indian country (as defined at 18 U.S.C. 
+1151) the State's environmental regulatory programs that were 
+previously approved by the EPA outside of Indian country. The State's 
+request excluded certain areas of Indian country further described 
+below.
+    The EPA has approved Oklahoma's SAFETEA request to administer all 
+of the States's EPA-approved environmental regulatory programs in the 
+requested areas of Indian country. As requested by Oklahoma, EPA's 
+approval under SAFETEA does not include Indian country lands, including 
+rights-of-way running through the same, that: (1) qualify as Indian 
+allotments, the Indian titles to which have not been extinguished, 
+under 18 U.S.C. 1151(c); (2) are held in trust by the United States on 
+behalf of an individual Indian or Tribe; or (3) are owned in fee by a 
+Tribe, if the Tribe (a) acquired that fee title to such land, or an 
+area that included such land, in accordance with a treaty with the 
+United States to which such Tribe was a party, and (b) never allotted 
+the land to a member or citizen of the Tribe (collectively ``excluded 
+Indian country lands'').
 
-Differences From Transport Canada AD CF-2024-14
+[[Page 38533]]
 
-    Transport Canada AD CF-2024-14 specifies the fundamental emissions 
-are in the 3.45-3.98 GHz frequency band, while this AD specifies the 
-3.7-3.98 GHz frequency band. AD 2023-10-02 and AD 2023-12-11 identified 
-an unsafe condition from wireless broadband transmissions in the 3.7-
-3.98 GHz frequency band, and this AD is based on that same 
-determination. In addition, an airplane determined to be a radio 
-altimeter tolerant airplane for the purposes of AD 2023-12-11, which 
-has demonstrated the performance tolerances for fundamental emissions 
-within the 3.7-3.98 GHz frequency band, would also be a radio altimeter 
-tolerant airplane for purposes of this AD. Frequencies less than 3.7 
-GHz are further away from the frequency bands used by radio altimeters 
-(4.2-4.4 GHz), so an airplane determined to be tolerant in the range of 
-3.7-3.98 GHz is also tolerant to emissions less than 3.7 GHz.
+    The EPA's approval under SAFETEA expressly provided that to the 
+extent the EPA's prior approvals of Oklahoma's environmental programs 
+excluded Indian country, any such exclusions are superseded for the 
+geographic areas of Indian country covered by the EPA's approval of 
+Oklahoma's SAFETEA request. The approval also provided that future 
+revisions or amendments to Oklahoma's approved environmental regulatory 
+programs would extend to the covered areas of Indian country (without 
+any further need for additional requests under SAFETEA).
+    As explained above, the EPA is accepting the CAA sections 111(d)/
+129 negative declarations submitted by the State of Oklahoma for 
+sources subject to the OSWI EG, HMIWI EG, and CISWI EG. These negative 
+declarations apply statewide in Oklahoma, including certain areas of 
+Indian country in the State of Oklahoma other than the excluded Indian 
+country lands as described above.
 
-Interim Action
+IV. Final Action
 
-    The FAA considers this AD to be an interim action. The FAA may 
-consider further rulemaking if the Canadian 5G C-Band interference 
-environment changes or if Canada issues an operational rule to address 
-5G C-Band interference with radio altimeters.
+    In this final action, the EPA is amending 40 CFR part 62, subpart 
+LL, to reflect receipt of negative declaration letters submitted by 
+ODEQ on August 10, 2020, April 1, 2020, and September 13, 2024, for 
+facilities subject to the OSWI, HMIWI, and CISWI EGs, respectively. 
+These letters certify that there are no existing incinerators subject 
+to 40 CFR part 60, subparts FFFF (as amended on November 24, 2006), Ce, 
+and DDDD, within Oklahoma's jurisdiction, in accordance with 40 CFR 
+60.23(b), 40 CFR 60.2982, 40 CFR 62.06, and sections 111(d) and 129 of 
+the CAA.
 
-Justification for Immediate Adoption and Determination of the Effective 
-Date
+V. Statutory and Executive Order Reviews
 
-    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
-551 et seq.) authorizes agencies to dispense with notice and comment 
-procedures for rules when the agency, for ``good cause,'' finds that 
-those procedures are ``impracticable, unnecessary, or contrary to the 
-public interest.'' Under this section, an agency, upon finding good 
-cause, may issue a final rule without providing notice and seeking 
-comment prior to issuance. Further, section 553(d) of the APA 
-authorizes agencies to make rules effective in less than thirty days, 
-upon a finding of good cause.
-    An unsafe condition exists that requires the immediate adoption of 
-this AD without providing an opportunity for public comments prior to 
-adoption. The FAA has found that the risk to the flying public 
-justifies forgoing notice and comment prior to adoption of this rule 
-because radio altimeters cannot be relied upon to perform their 
-intended function if they experience interference from wireless 
-broadband operations in the 5G C-Band. This interference can cause 
-other airplane systems to not properly function, resulting in longer 
-than normal landing or rejected takeoff distances due to the effect on 
-thrust reverser deployment, spoilers, speedbrake deployment, and 
-increased idle thrust, regardless of the approach type or weather, 
-which could lead to degraded deceleration performance and a runway 
-excursion. The urgency is based on a change in the 5G Lower C-band 
-environment in Canada, which is scheduled to occur on July 1, 2026. 
-Accordingly, notice and opportunity for prior public comment are 
-impracticable and contrary to the public interest pursuant to 5 U.S.C. 
-553(b).
+    Under the CAA, the Administrator is required to approve a CAA 
+section 111(d)/129 submission that complies with the provisions of the 
+Act and applicable Federal regulations. 42 U.S.C. 7411(d); 42 U.S.C. 
+7429; 40 CFR part 60, subparts B, FFFF, Ce, and DDDD; and 40 CFR part 
+62, subpart A. With regard to negative declarations for designated 
+facilities received by the EPA from states, the EPA's role is to notify 
+the public of the receipt of such negative declarations and revise 40 
+CFR part 62 accordingly. For that reason, this action:
+      Is not a significant regulatory action subject to review 
+by the Office of Management and Budget under Executive Order 12866 (58 
+FR 51735, October 4, 1993);
+      Is not an Executive Order 14192 (90 FR 9065, February 6, 
+2025) regulatory action because this action is not significant under 
+Executive Order 12866;
+      Does not impose an information collection burden under the 
+provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
+      Is certified as not having a significant economic impact 
+on a substantial number of small entities under the Regulatory 
+Flexibility Act (5 U.S.C. 601 et seq.);
+      Does not contain any unfunded mandate or significantly or 
+uniquely affect small governments, as described in the Unfunded 
+Mandates Reform Act of 1995 (Pub. L. 104-4);
+      Does not have federalism implications as specified in 
+Executive Order 13132 (64 FR 43255, August 10, 1999);
+      Is not an economically significant regulatory action based 
+on health or safety risks subject to Executive Order 13045 (62 FR 
+19885, April 23, 1997);
+      Is not a significant regulatory action subject to 
+Executive Order 13211 (66 FR 28355, May 22, 2001); and
+      Is not subject to requirements of section 12(d) of the 
+National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
+note) because application of those requirements would be inconsistent 
+with the Clean Air Act.
+    This final action that amends 40 CFR part 62 to reflect receipt of 
+these OSWI, HMIWI, and CISWI negative declarations will apply to 
+certain areas of Indian country throughout Oklahoma as discussed in the 
+preamble, and therefore has tribal implications as specified in E.O. 
+13175 (65 FR 67249, November 9, 2000). However, this action will 
+neither impose substantial direct compliance costs on federally 
+recognized tribal governments, nor preempt tribal law. This action will 
+not impose substantial direct compliance costs on federally recognized 
+tribal governments because no actions will be required of tribal 
+governments. This action will also not preempt tribal law as no 
+Oklahoma tribe implements a regulatory program under the CAA, and thus 
+does not have applicable or related tribal laws. Consistent with the 
+EPA Policy on Consultation with Indian Tribes (December 7, 2023), the 
+EPA offered consultation to tribal governments that may be affected by 
+this action and provided information about this action.
+    This action is subject to the Congressional Review Act, and the EPA 
+will submit a rule report to each House of the Congress and to the 
+Comptroller General of the United States. This action is not a ``major 
+rule'' as defined by 5 U.S.C. 804(2).
+    Under section 307(b)(1) of the Clean Air Act, petitions for 
+judicial review of this action must be filed in the United States Court 
+of Appeals for the appropriate circuit by August 25, 2026. Filing a 
+petition for reconsideration by the Administrator of this final rule 
+does not affect the finality of this action for the purposes of 
+judicial review nor does it extend the time within which a petition for 
+judicial review may be filed, and shall not postpone the effectiveness 
+of such rule or action. This action may not be challenged later in 
+proceedings to enforce its requirements. (See section 307(b)(2).)
 
-[[Page 39408]]
+List of Subjects in 40 CFR Part 62
 
-    In addition, the FAA finds that good cause exists pursuant to 5 
-U.S.C. 553(d) for making this amendment effective in less than 30 days, 
-for the same reasons the FAA found good cause to forgo notice and 
-comment.
+    Environmental protection, Administrative practice and procedure, 
+Air pollution control, Intergovernmental relations, Reporting and 
+recordkeeping requirements, Waste treatment and disposal.
 
-Regulatory Flexibility Act
+    Authority: 42 U.S.C. 7401 et seq.
 
-    The requirements of the Regulatory Flexibility Act (RFA) do not 
-apply when an agency finds good cause pursuant to 5 U.S.C. 553 to adopt 
-a rule without prior notice and comment. Because the FAA has determined 
-that it has good cause to adopt this rule without notice and comment, 
-RFA analysis is not required.
+    Dated: June 11, 2026.
+Walter Mason,
+Regional Administrator, Region 6.
+    For the reasons stated in the preamble, the Environmental 
+Protection Agency amends 40 CFR part 62 as follows:
 
-Costs of Compliance
-
-    The FAA notes that since operators must comply with this AD before 
-further flight in Canadian airspace, airplanes that do not operate in 
-Canada will not have to comply and therefore will have no costs under 
-this AD.
-    The FAA estimates that this AD affects 832 airplanes of U.S. 
-registry. The FAA expects that many of the affected airplanes have 
-upgraded radio altimeters; therefore, the FAA estimates the total 
-number of airplanes affected by this AD to be less than the total fleet 
-size provided in this AD. The FAA estimates the following costs to 
-comply with this AD:
-
-                                                 Estimated Costs
-----------------------------------------------------------------------------------------------------------------
-                                                                              Cost per          Cost on U.S.
-              Action                      Labor cost         Parts cost        product           operators
-----------------------------------------------------------------------------------------------------------------
-AFM revision for non-RAT airplanes  1 work-hour x $85 per              $0             $85  Up to $70,720.
-                                     hour = $85.
-----------------------------------------------------------------------------------------------------------------
-
-                                      Estimated Costs for Optional Actions
-----------------------------------------------------------------------------------------------------------------
-                Action                        Labor cost               Parts cost            Cost per product
-----------------------------------------------------------------------------------------------------------------
-Modification (radio altimeter          .......................  .......................  Up to $120,000
- replacement option).                                                                     (includes parts and
-                                                                                          labor).
-Modification (filter addition option)  24 work-hours x $85 per  $12,000 per filter.....  Up to $14,040 (includes
-                                        hour = $2,040 per                                 parts and labor).
-                                        filter.
-----------------------------------------------------------------------------------------------------------------
-
-Authority for This Rulemaking
-
-    Title 49 of the United States Code specifies the FAA's authority to 
-issue rules on aviation safety. Subtitle I, section 106, describes the 
-authority of the FAA Administrator. Subtitle VII: Aviation Programs 
-describes in more detail the scope of the Agency's authority.
-    The FAA is issuing this rulemaking under the authority described in 
-Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
-Under that section, Congress charges the FAA with promoting safe flight 
-of civil aircraft in air commerce by prescribing regulations for 
-practices, methods, and procedures the Administrator finds necessary 
-for safety in air commerce. This regulation is within the scope of that 
-authority because it addresses an unsafe condition that is likely to 
-exist or develop on products identified in this rulemaking action.
-
-Regulatory Findings
-
-    This AD will not have federalism implications under Executive Order 
-13132. This AD will not have a substantial direct effect on the States, 
-on the relationship between the national government and the States, or 
-on the distribution of power and responsibilities among the various 
-levels of government.
-    For the reasons discussed above, I certify that this AD:
-    (1) Is not a ``significant regulatory action'' under Executive 
-Order 12866, and
-    (2) Will not affect intrastate aviation in Alaska.
-
-List of Subjects in 14 CFR Part 39
-
-    Air transportation, Aircraft, Aviation safety, Incorporation by 
-reference, Safety.
-
-The Amendment
-
-    Accordingly, under the authority delegated to me by the 
-Administrator, the FAA amends 14 CFR part 39 as follows:
-
-PART 39--AIRWORTHINESS DIRECTIVES
+PART 62--APPROVAL AND PROMULGATION OF STATE PLANS FOR DESIGNATED 
+FACILITIES AND POLLUTANTS
 
 0
-1. The authority citation for part 39 continues to read as follows:
+1. The authority citation for part 62 continues to read as follows:
 
-    Authority: 49 U.S.C. 106(g), 40113, 44701.
+    Authority:  42 U.S.C. 7401 et seq.
 
-Sec.  39.13   [Amended]
+Subpart LL--Oklahoma
+
+Sec.  62.9100  [Amended]
 
 0
-2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
-directive:
+2. Amend Sec.  62.9100 by removing paragraphs (b)(5), (c)(5) and (6).
 
-2026-13-17 The Boeing Company: Amendment 39-23400; Docket No. FAA-
-2026-7208; Project Identifier AD-2026-00557-T.
+0
+3. Revise the undesignated center heading above Sec.  62.9170 to read 
+as follows:
 
-(a) Effective Date
+Emissions From Existing Hospital/Medical/Infectious Waste Incinerators
 
-    This airworthiness directive (AD) is effective July 1, 2026.
+0
+4. Revise Sec.  62.9170 to read as follows:
 
-(b) Affected ADs
+Sec.  62.9170  Identification of plan--negative declaration.
 
-    None.
+    Letter from the Oklahoma Department of Environmental Quality dated 
+April 1, 2020, certifying that there are no incinerators subject to the 
+Hospital, Medical, and Infectious Waste Incineration units (HMIWI) 
+Emission Guidelines, at 40 CFR part 60, subpart Ce, within its 
+jurisdiction in the State of Oklahoma.
 
-(c) Applicability
+0
+5. Remove the undesignated center heading above Sec.  62.9171.
 
-    This AD applies to all The Boeing Company Model 737-8, 737-9, 
-and 737-8200 airplanes, certificated in any category.
+[[Page 38534]]
 
-(d) Subject
+Sec.  62.9171  [Removed]
 
-    Air Transport Association (ATA) of America Code 34, Navigation.
+0
+6. Remove Sec.  62.9171.
 
-(e) Unsafe Condition
+0
+7. Revise the undesignated center heading above Sec.  62.9190 to read 
+as follows:
 
-    This AD was prompted by the determination that radio altimeters 
-cannot be relied upon to perform their intended function if they 
-experience interference from wireless broadband operations in the 
-3.7-3.98 GHz frequency band (5G Lower C-Band) when operating in 
-Canadian airspace, and the determination that, during takeoffs and 
-landings, as a result of this interference, certain airplane systems 
-may not properly function, resulting in longer than normal landing 
-or rejected takeoff distances due to the effect on thrust reverser 
-deployment, spoilers, speedbrake deployment, and increased idle 
-thrust, regardless of the approach type or weather. The FAA is 
-issuing this AD to address degraded deceleration performance, which 
-could lead to a runway excursion.
+Emissions From Existing Commercial and Industrial Solid Waste 
+Incineration Units
 
-(f) Compliance
+0
+8. Revise Sec.  62.9190 to read as follows:
 
-    Comply with this AD within the compliance times specified, 
-unless already done.
+Sec.  62.9190  Identification of plan--negative declaration.
 
-(g) Definitions
+    Letter from the Oklahoma Department of Environmental Quality dated 
+September 13, 2024, certifying that there are no incinerators subject 
+to the Commercial and Industrial Solid Waste Incineration units (CISWI) 
+Emission Guidelines, at 40 CFR part 60, subpart DDDD, within its 
+jurisdiction in the State of Oklahoma.
 
-    (1) For purposes of this AD, a ``radio altimeter tolerant 
-airplane'' is one for which the radio altimeter, as installed, 
-demonstrates the tolerances specified in paragraphs (g)(1)(i) and 
-(ii) of this AD, using a method approved by the FAA. No actions are 
-required by this AD for radio altimeter tolerant airplanes.
+Sec.  62.9191  [Removed]
 
-[[Page 39409]]
+0
+9. Remove Sec.  62.9191.
 
-    (i) Tolerance to radio altimeter interference, for the 
-fundamental emissions (3.7-3.98 GHz), at or above the power spectral 
-density (PSD) curve threshold specified in figure 1 to paragraph 
-(g)(1)(i) of this AD.
+0
+10. Add an undesignated center heading and Sec.  62.9200 immediately 
+after Sec.  62.9190 to read as follows:
 
-Figure 1 to Paragraph (g)(1)(i)--Fundamental Effective Isotropic PSD at 
-Outside Interface of Aircraft Antenna
-[GRAPHIC] [TIFF OMITTED] TR30JN26.038
+Emissions From Existing Other Solid Waste Incineration Units
 
-    (ii) Tolerance to radio altimeter interference, for the spurious 
-emissions (4.2-4.4 GHz), at or above the PSD curve threshold 
-specified in figure 2 to paragraph (g)(1)(ii) of this AD.
-BILLING CODE 4910-13-P
+Sec.  62.9200  Identification of plan--negative declaration.
 
-Figure 2 to Paragraph (g)(1)(ii)--Spurious Effective Isotropic PSD at 
-Outside Interface of Aircraft Antenna
+    Letter from the Oklahoma Department of Environmental Quality dated 
+August 10, 2020, certifying that there are no incinerators that 
+commenced construction on or before December 9, 2004, subject to the 
+Other Solid Waste Incineration units (OSWI) Emission Guidelines, at 40 
+CFR part 60, subpart FFFF, as promulgated on December 16, 2005, and 
+amended on November 24, 2006, within its jurisdiction in the State of 
+Oklahoma.
 
-[[Page 39410]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.039
-
-    (2) For purposes of this AD, a ``non-radio altimeter tolerant 
-airplane'' is one for which the radio altimeter, as installed, does 
-not demonstrate the tolerances specified in paragraphs (g)(1)(i) and 
-(ii) of this AD.
-    (3) Runway condition codes are defined in figure 3 to paragraph 
-(g)(3) of this AD.
-
-Figure 3 to Paragraph (g)(3)--Runway Condition Codes
-
-[[Page 39411]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.040
-
-(h) Airplane Flight Manual (AFM) Revision
-
-    For non-radio altimeter tolerant airplanes: Before further 
-flight in Canadian airspace, do the actions specified in paragraphs 
-(h)(1) and (2) of this AD.
-    (1) Revise the Limitations Section of the existing AFM to 
-include the information specified in figure 4 to paragraph (h)(1) of 
-this AD. This may be done by inserting a copy of figure 4 to 
-paragraph (h)(1) of this AD into the existing AFM.
-
-Figure 4 to Paragraph (h)(1)--AFM Limitations Revision for Non-Radio 
-Altimeter Tolerant Airplanes in Canadian Airspace
-
-[[Page 39412]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.041
-
-    (2) Revise the Operating Procedures Section of the existing AFM 
-to include the information specified in figure 5 to paragraph (h)(2) 
-of this AD. This may be done by inserting a copy of figure 5 to 
-paragraph (h)(2) of this AD into the existing AFM. An AFM with an 
-Operating Procedures Section that complies with paragraph (h)(2) of 
-AD 2023-12-11, Amendment 39-22469 (88 FR 40011, June 21, 2023) is 
-acceptable for compliance with the requirements of this paragraph of 
-this AD.
-
-Figure 5 to Paragraph (h)(2)--AFM Operating Procedures Revision
-
-[[Page 39413]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.042
-
-[[Page 39414]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.043
-
-[[Page 39415]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.044
-
-[[Page 39416]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.045
-
-[[Page 39417]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.046
-
-[[Page 39418]]
-
-[GRAPHIC] [TIFF OMITTED] TR30JN26.047
-
-(i) Terminating Action for AFM Revision
-
-    (1) Modifying the airplane from a non-radio altimeter tolerant 
-airplane to a radio altimeter tolerant airplane terminates the 
-limitations in paragraph (h)(1) of this AD and the operating 
-procedures in paragraph (h)(2) of this AD for that airplane.
-    (2) After modifying the airplane to a radio altimeter tolerant 
-airplane, the limitations in paragraph (h)(1) of this AD and the 
-operating procedures in paragraph (h)(2) of this AD may be removed 
-from the AFM.
-
-(j) Alternative Methods of Compliance (AMOCs)
-
-    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
-FAA, has the authority to approve AMOCs for this AD, if requested 
-using the procedures found in 14 CFR 39.19. In accordance with 14 
-CFR 39.19, send your request to your principal inspector or 
-responsible Flight Standards Office, as appropriate. If sending 
-information directly to the manager of AIR-520, Continued 
-Operational Safety Branch, send it to the attention of the person 
-identified in paragraph (k) of this AD and email to:   [email&#160;protected]  .
-    (2) Before using any approved AMOC, notify your appropriate 
-principal inspector, or lacking a principal inspector, the manager 
-of the responsible Flight Standards Office.
-    (3) The following AMOCs approved previously for AD 2023-12-11, 
-Amendment 39-22469 (88 FR 40011, June 21, 2023) are approved as 
-AMOCs for paragraph (g)(1) of this AD: FAA AMOC letters 720-23-
-00137, 720-23-00138, 720-23-00158, 720-23-00169, 720-24-00012, 720-
-25-00025, 720-25-00031, and 720-26-00009.
-
-(k) Additional Information
-
-    For more information about this AD, contact Ken Fairhurst, 
-Continued Operational Safety Technical Advisor, FAA, 2200 South 
-216th St., Des Moines, WA 98198; phone: 817-222-5390; email: 
-  [email&#160;protected]  .
-
-(l) Material Incorporated by Reference
-
-    None.
-
-    Issued on June 25, 2026.
-Brian Knaup,
-Acting Deputy Director, Integrated Certificate Management Division, 
-Aircraft Certification Service.
-[FR Doc. 2026-13208 Filed 6-26-26; 4:15 pm]
-BILLING CODE 4910-13-C
+[FR Doc. 2026-12896 Filed 6-25-26; 8:45 am]
+BILLING CODE 6560-50-P
