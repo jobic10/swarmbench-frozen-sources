@@ -1,0 +1,480 @@
+[Federal Register Volume 91, Number 127 (Monday, July 6, 2026)]
+[Rules and Regulations]
+[Pages 40867-40870]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13538]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-2551; Project Identifier MCAI-2024-00191-R; 
+Amendment 39-23386; AD 2026-13-04]
+RIN 2120-AA64
+
+Airworthiness Directives; Airbus Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus Helicopters Model H160-B helicopters modified by Supplemental 
+Type Certificate (STC) SR00223IB. This AD was prompted by a report that 
+several self-locking nuts of the window jettisoning system could be 
+loosened by hand due to a non-conformity in the cable kit. This AD 
+requires modifying an affected window into a serviceable window. This 
+AD also prohibits installing an affected window or an affected door on 
+any helicopter modified with STC SR00223IB. The FAA is issuing this AD 
+to address the unsafe condition on these products.
+
+DATES: This AD is effective August 10, 2026. The Director of the 
+Federal Register approved the incorporation by reference of a certain 
+publication listed in this AD as of August 10, 2026.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at  regulations.gov  under 
+Docket No. FAA-2025-2551; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-91, West Building Fifth Floor, Room W58-213, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+      For European Union Aviation Safety Agency (EASA) material 
+identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
+Cologne, Germany; phone: +49 221 8999 000; email:   [email&#160;protected]  ; 
+website: easa.europa.eu. You may find the EASA material on the EASA 
+website at ad.easa.europa.eu.
+      You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110. It is also available at 
+ regulations.gov  under Docket No. FAA-2025-2551.
+
+FOR FURTHER INFORMATION CONTACT: Eric Rivera, Aviation Safety Engineer, 
+FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; phone: (773) 
+412-9048; email:   [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Airbus Helicopters 
+Model H160-B helicopters modified by STC SR00223IB. The NPRM was 
+published in the Federal Register on September 22, 2025 (90 FR 45338). 
+The NPRM was prompted by EASA AD 2024-0075, dated March 18, 2024 (EASA 
+AD 2024-0075) (also referred to as the MCAI), issued by EASA, which is 
+the Technical Agent for the Member States of the European Union. The 
+MCAI states that during a maintenance operation, several self-locking 
+nuts of the window jettisoning system could be loosened by hand. The 
+MCAI further states that the function of these nuts is to hold the 
+threaded axis and the associated cable tigh, as part of the passenger 
+windows' jettisoning system mechanism. The MCAI also states that 
+certain cable kits which are part of the window jettisoning system 
+might not be in conformance with applicable specifications. Since FAA 
+STC SR00223IB has the same specifications as EASA STC 10080809, it was 
+determined that helicopters modified by FAA STC SR00223IB would have 
+the same unsafe condition.
+    In the NPRM, the FAA proposed to require modifying an affected 
+window into a serviceable window. This AD also prohibits installing an 
+affected window or an affected door on any helicopter modified with STC 
+SR00223IB. The FAA is issuing this AD to prevent failure of the 
+jettisoning function of the window. The unsafe condition, if not 
+addressed, could result in the inability to evacuate helicopter 
+occupants during an emergency situation.
+    You may examine the MCAI in the AD docket at  regulations.gov  under 
+Docket No. FAA-2025-2551.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from the Citizens Rulemaking Alliance. 
+The following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Request To Issue an NPRM or Justify Forgoing Notice and Comment or 
+Delay Effective Date for Non-Immediate Tasks
+
+    The Citizens Rulemaking Alliance requested that the FAA either 
+retain necessary ``before further flight'' and short-interval 
+inspection/mitigation requirements in the immediately adopted rule and 
+republish any longer-term replacement, configuration changes, or 
+recurring actions with longer compliance times as an NPRM with a 30 to 
+60-day comment period.
+
+[[Page 40868]]
+
+Alternatively, the commenter suggested the FAA publish an interim final 
+rule limited to immediate mitigations and a parallel NPRM for the 
+longer-term actions. The commenter asserted the FAA has not adequately 
+justified use of the good cause exemption to bypass notice and comment 
+and the 30-day delayed effective date.
+    The FAA notes the comment was submitted in response to an NPRM for 
+which the FAA provided a 45-day comment period. This final rule is 
+effective 35 days after its publication in the Federal Register. 
+Therefore, the FAA did not change this AD as a result of this comment.
+
+Request To Comply With the Paperwork Reduction Act (PRA)
+
+    The Citizens Rulemaking Alliance requested that the FAA revise the 
+proposed AD to comply with the PRA if reporting is required or remove 
+any mandatory reporting provisions or suspend enforcement until PRA 
+requirements are satisfied. If reporting is not required, the commenter 
+requested the FAA clarify that in the AD.
+    The FAA notes that paragraph (i) of this AD specifies that this AD 
+does not require reporting. If an AD were to require reporting, the 
+preamble of the AD would include a paragraph titled ``Paperwork 
+Reduction Act'' that would provide the applicable OMB control number, 
+required PRA statements, and the estimated time to collect the required 
+information (burden). Any costs associated with the reporting 
+requirement would be included in the Costs of Compliance section in the 
+preamble of the AD. Therefore, the FAA did not change this AD as a 
+result of this comment.
+
+Request To Make Incorporation by Reference (IBR) Materials Reasonably 
+Available
+
+    The Citizens Rulemaking Alliance stated that the FAA's current 
+practices for IBR frequently fail to meet the legal and regulatory 
+standards for reasonable availability. The commenter called on the FAA 
+to guarantee that all IBR materials are easily and freely accessible to 
+the public and affected parties for both commenting and compliance 
+purposes and to confirm that the AD does not incorporate later 
+revisions or materials that incorporate other unavailable documents.
+    The FAA clarifies that this AD incorporates by reference EASA AD 
+2024-0075, not the manufacturer service information referenced in that 
+EASA AD. The FAA posted EASA AD 2024-0075 to the AD docket when the 
+NPRM was published in the Federal Register. The material referenced in 
+EASA AD 2024-0075 may only be posted before the final rule's 
+publication if it is already publicly available or if there is written 
+consent from the owner of that material. Additionally, the FAA provided 
+notice in the NPRM that the material referenced in EASA AD 2024-0075 
+will be available in the AD docket after this AD is published.
+    1 CFR part 51 requires that the specific version of the material to 
+be incorporated by reference be specifically identified and formally 
+approved for IBR by the Office of the Federal Register. Once a document 
+is incorporated by reference with a specific date/revision, that exact 
+version becomes the regulatory requirement. This AD does allow, but 
+does not mandate the use of later-approved revisions of the material 
+referenced in EASA AD 2024-0075 as acceptable for compliance with the 
+required actions. This AD adopts the ``Ref. Publications'' section of 
+EASA AD 2024-0075, which includes the current version of the referenced 
+material as well as later approved revisions. Referring to EASA AD 
+2024-0075 instead of a service bulletin minimizes the need for 
+alternative methods of compliance.
+    Therefore, the FAA did not change this AD as a result of this 
+comment.
+
+Request To Consider Impact on Small Entities
+
+    The Citizens Rulemaking Alliance requested that the FAA prepare an 
+initial regulatory flexibility analysis that takes into account parts, 
+labor, aircraft downtime, and specific small entity impacts. 
+Additionally, the commenter requested that the FAA adopt less 
+burdensome alternatives for small operators, such as explicit 
+alternative method of compliance (AMOC) alternatives, temporary ferry 
+flight allowances, and flexible compliance intervals.
+    The FAA has considered the AD's impact on small entities and 
+provides the following factual basis for its Regulatory Flexibility Act 
+(RFA) certification.
+    The Regulatory Flexibility Act of 1980, Public Law 96-354, 94 Stat. 
+1164 (5 U.S.C. 601-612), as amended by the Small Business Regulatory 
+Enforcement Fairness Act of 1996 (Pub. L. 104-121, 110 Stat. 857, Mar. 
+29, 1996) and the Small Business Jobs Act of 2010 (Pub. L. 111-240, 124 
+Stat. 2504, Sept. 27, 2010), requires Federal agencies to consider the 
+effects of the regulatory action on small business and other small 
+entities and to minimize any significant economic impact. The term 
+``small entities'' comprises small businesses and not-for-profit 
+organizations that are independently owned and operated and are not 
+dominant in their fields, and governmental jurisdictions with 
+populations of less than 50,000.
+    The FAA identified one pharmaceutical preparation manufacturer and 
+one nonscheduled air transportation operator that will be affected by 
+this AD. Based on the Small Business Administration (SBA) size standard 
+(displayed in the table below), both entities are large businesses.
+
+                    Small Business Size Standards \1\
+------------------------------------------------------------------------
+      NAICS \2\ code              Description           Size standard
+------------------------------------------------------------------------
+325412...................  Pharmaceutical            1,300 employees.
+                            Preparation
+                            Manufacturing.
+481219...................  Other Nonscheduled Air    $25.0 million.
+                            Transportation.
+------------------------------------------------------------------------
+\1\ Sources:  sba.gov : Table of Small Business Size Standards. Dun &
+  Bradstreet; D&B Hoovers; Retrieved April 29, 2026;
+   app.hoovers.dnb.com .
+\2\ NAICS = North American Industrial Classification System.
+
+    If an agency determines that a rulemaking action will not result in 
+a significant economic impact on a substantial number of small 
+entities, the head of the agency may certify under section 605(b) of 
+the RFA. Therefore, as provided in section 605(b) and based on the 
+foregoing, the head of the FAA certifies that this AD will not result 
+in a significant economic impact on a substantial number of small 
+entities. The FAA did not change this AD as a result of this comment.
+
+Conclusion
+
+    These products have been approved by the civil aviation authority 
+of another
+
+[[Page 40869]]
+
+country and are approved for operation in the United States. Pursuant 
+to the FAA's bilateral agreement with this State of Design Authority, 
+that authority has notified the FAA of the unsafe condition described 
+in the MCAI referenced above. The FAA reviewed the relevant data, 
+considered any comments received, and determined that air safety 
+requires adopting this AD as proposed. Accordingly, the FAA is issuing 
+this AD to address the unsafe condition on these products. Except for 
+minor editorial changes, a correction to the revision level of Vision 
+Systems Vendor Service Bulletin No. 02-050-015 from Revision 10 to 
+Revision 0, a change in the Costs of Compliance section (from 11 
+helicopters to 10 helicopters and corresponding cost changes), and any 
+other changes described previously, this AD is adopted as proposed in 
+the NPRM. None of the changes will increase the economic burden on any 
+operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2024-0075, which specifies procedures for 
+replacing each affected passenger window with a serviceable window or 
+modifying an affected window into a serviceable window, which consists 
+of removing and installing a certain part-numbered cable kit. EASA AD 
+2024-0075 also prohibits installing an affected window or an affected 
+door on any helicopter. This material is reasonably available because 
+the interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Differences Between This AD and the MCAI
+
+    The MCAI applies to Airbus Helicopters Model H160 B helicopters, 
+all serial numbers, if modified by EASA STC 10080809 original issue or 
+Revision 1, whereas this AD applies to Airbus Helicopters Model H160-B 
+helicopters modified by FAA STC SR00223IB, having a date of issuance of 
+the original airworthiness certificate or date of issuance of the 
+original export certificate of airworthiness on or before October 3, 
+2024.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 10 helicopters of U.S. 
+registry. The FAA estimates the following costs to comply with this AD.
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Modify windows (4 per helicopter).....  13 work-hours x $85 per           $3,132          $4,237         $42,370
+                                         hour = $1,105.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2026-13-04 Airbus Helicopters: Amendment 39-23386; Docket No. FAA-
+2025-2551; Project Identifier MCAI-2024-00191-R.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 10, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus Helicopters Model H160-B helicopters, 
+certificated in any category, modified by Supplemental Type Certificate 
+(STC) SR00223IB having a date of issuance of the original airworthiness 
+certificate or date of issuance of the original export certificate of 
+airworthiness on or before October 3, 2024.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5630, Door windows.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report that several self-locking nuts of 
+the window jettisoning system could be loosened by hand due to a non-
+conformity in the cable kit. The FAA is issuing this AD to prevent 
+failure of the jettisoning function of the window. The unsafe 
+condition, if not addressed, could result in the inability to evacuate 
+helicopter occupants during an emergency situation.
+
+[[Page 40870]]
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, unless 
+already done.
+
+(g) Requirements
+
+    Except as specified in paragraphs (h) and (i) of this AD: Comply 
+with all required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency AD 2024-0075, 
+dated March 18, 2024 (EASA AD 2024-0075).
+
+(h) Exceptions to EASA AD 2024-0075
+
+    (1) Where EASA AD 2024-0075 refers to its effective date, this AD 
+requires using the effective date of this AD.
+    (2) Where EASA AD 2024-0075 requires compliance in terms of flight 
+hours, this AD requires using hours time-in-service.
+    (3) Where EASA AD 2024-0075 defines ``affected passenger window'' 
+and refers to ``a Part Number as listed in the MSB and an s/n as listed 
+in the vendor SB'', this AD requires replacing that text with ``a part 
+number identified in Planning Information, paragraph A.1 Effectivity, 
+and a serial number identified in the Appendix: Applicable serial 
+number, of Vision Systems Vendor Service Bulletin No. 02-050-015, 
+Revision 0, dated January 24, 2024, as applicable''.
+    (4) Where EASA AD 2024-0075 specifies ``replace each affected 
+passenger window with a serviceable window'', this AD requires 
+replacing that text with ``modify each affected passenger window into a 
+serviceable window''.
+    (5) Where the material referenced in EASA AD 2024-0075 specifies 
+``check'', this AD requires replacing that text with ``inspect''.
+    (6) Where the material referenced in EASA AD 2024-0075 specifies 
+``throw away'', this AD requires replacing that text with ``remove from 
+service''.
+    (7) Where the material referenced in EASA AD 2024-0075 specifies 
+``respect the screwing order'', this AD requires replacing that text 
+with ``follow the screwing order''.
+    (8) Where the material referenced in EASA AD 2024-0075 specifies 
+``screw the nuts'', this AD requires replacing that text with ``secure 
+the nuts into place''.
+    (9) Where the material referenced in EASA AD 2024-0075 specifies 
+``fine tuning the pull-up cables in locked position (finger)'', this AD 
+requires replacing that text with ``put the pull-up cables into the 
+locked position and make small adjustments to the nuts to ensure cable 
+tension and prevent twisting, coiling, or crossing of cables''.
+    (10) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0075.
+
+(i) No Reporting Requirement
+
+    Although the material referenced in EASA AD 2024-0075 specifies to 
+submit certain information to the manufacturer, this AD does not 
+require that action.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send 
+your request to your principal inspector or local Flight Standards 
+District Office, as appropriate. If sending information directly to the 
+manager of the International Validation Branch, send it to the 
+attention of the person identified in paragraph (k) of this AD and 
+email to:   [email&#160;protected]  .
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager of 
+the local flight standards district office/certificate holding district 
+office.
+
+(k) Additional Information
+
+    For more information about this AD, contact Eric Rivera, Aviation 
+Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; phone: (773) 412-9048; email:   [email&#160;protected]  .
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the incorporation 
+by reference of the material listed in this paragraph under 5 U.S.C. 
+552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0075, 
+dated March 18, 2024.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, Konrad-
+Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 8999 000; 
+email:   [email&#160;protected]  ; website: easa.europa.eu. You may find the 
+EASA material on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness Products 
+Section, Operational Safety Branch, 10101 Hillwood Parkway, Fort Worth, 
+TX 76177. For information on the availability of this material at the 
+FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, visit  www.archives.gov/federal-register/cfr/ibr-locations  or email   [email&#160;protected]  .
+
+    Issued on June 18, 2026.
+Christopher R. Parker,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-13538 Filed 7-2-26; 8:45 am]
+BILLING CODE 4910-13-P

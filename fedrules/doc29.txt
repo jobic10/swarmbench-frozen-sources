@@ -1,0 +1,460 @@
+[Federal Register Volume 91, Number 125 (Wednesday, July 1, 2026)]
+[Rules and Regulations]
+[Pages 39854-39872]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13241]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-4660; Project Identifier AD-2026-00423-T; 
+Amendment 39-23387; AD 2026-13-05]
+RIN 2120-AA64
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2026-04-
+05, which applied to all The Boeing Company Model 737-8, 737-9, and 
+737-8200 airplanes. AD 2026-04-05 required revising the existing 
+airplane flight manual (AFM) to provide the flightcrew with operating 
+procedures (non-normal checklists) if a certain circuit breaker in the 
+standby power control unit (SPCU) trips. Since the FAA issued AD 2026-
+04-05, the FAA has determined that additional revisions to the AFM are 
+necessary to address certain environmental control system (ECS) circuit 
+breakers downstream of the SPCU that could also trip. This AD retains 
+the requirements of AD 2026-04-05 and requires revising the existing 
+AFM to provide the flightcrew with operating procedures (non-normal 
+checklists) if certain ECS circuit breakers trip. The FAA is issuing 
+this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective July 16, 2026.
+    The FAA must receive comments on this AD by August 17, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+      Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+      Fax: 202-493-2251.
+      Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+      Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov by 
+searching for and locating Docket No. FAA-2026-4660; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, any 
+comments received, and other information. The street address for Docket 
+Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Derrick Herrera, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 817-
+222-5140; email:  [email&#160;protected] .
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments using a method listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2026-4660 and Project 
+Identifier AD-2026-00423-T'' at the beginning of your comments. The 
+most helpful comments reference a specific portion of the final rule, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to Derrick 
+Herrera, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 817-222-5140; email: 
+ [email&#160;protected] . Any commentary that the FAA receives that is 
+not specifically
+
+[[Page 39855]]
+
+designated as CBI will be placed in the public docket for this 
+rulemaking.
+
+Background
+
+    The FAA issued AD 2026-04-05, Amendment 39-23265 (91 FR 8708, 
+February 24, 2026) (AD 2026-04-05), for all The Boeing Company Model 
+737-8, 737-9, and 737-8200 airplanes. AD 2026-04-05 required revising 
+the existing AFM to provide the flightcrew with operating procedures 
+(non-normal checklists) if a certain circuit breaker in the SPCU trips. 
+AD 2026-04-05 was prompted by reports of in-flight events of excessive 
+cabin and flight deck temperatures that could not be controlled by the 
+flightcrew using existing procedures. The FAA issued AD 2026-04-05 to 
+address a tripped BAT BUS SECT 2 circuit breaker that could lead to an 
+air conditioning system malfunction causing an uncontrollable, 
+excessively high temperature in the cabin and flight deck. The unsafe 
+condition, if not addressed, could lead to injury or incapacitation of 
+flightcrew and passengers, which could result in the inability to 
+maintain safe flight and landing.
+
+Actions Since AD 2026-04-05 Was Issued
+
+    The preamble to AD 2026-04-05 specifies that the FAA considers that 
+AD to be an interim action and that the FAA might consider further 
+rulemaking to provide flightcrew procedures for addressing tripped ECS 
+circuit breakers. Since the FAA issued AD 2026-04-05, the manufacturer 
+has developed flightcrew procedures for addressing tripped ECS circuit 
+breakers, and the FAA has determined that further rulemaking is 
+necessary. The FAA is issuing this AD to address the unsafe condition 
+on these products.
+
+Explanation of Existing AFM Procedures and Procedures Required by This 
+AD
+
+    This AD provides flightcrew procedures for a controlled descent, an 
+attempt to reset the tripped BAT BUS SECT 2 or ECS circuit breakers, as 
+applicable, and, if the attempt is unsuccessful, selecting engine bleed 
+switches OFF. This AD includes five AFM procedures, as follows:
+      Cabin Temperature Hot procedure, as shown in appendices 1 
+(retained from AD 2026-04-05) and 4 (revised from AD 2026-04-05) of 
+this AD;
+      Cabin Temperature Hot BAT BUS Sect 2 Circuit Breaker Trips 
+procedure, as shown in appendix 2 of this AD (retained from AD 2026-04-
+05);
+      PACK procedure, as shown in appendix 3 of this AD 
+(retained from AD 2026-04-05);
+      Cabin Temperature Hot PACK CONT VALVES RIGHT or LEFT 
+Circuit Breaker Trips, as shown in appendix 5 of this AD (new since AD 
+2026-04-05); and
+      ZONE TEMP procedure, which currently exists in the quick 
+reference handbook (QRH) but not in the existing AFM, as shown in 
+appendix 6 of this AD (new since AD 2026-04-05).
+
+FAA's Determination
+
+    The FAA is issuing this AD because the agency has determined the 
+unsafe condition described previously is likely to exist or develop in 
+other products of the same type design.
+
+AD Requirements
+
+    This AD retains all requirements of AD 2026-04-05. This AD also 
+requires revising the Operating Procedures section of the existing AFM 
+to provide the flightcrew with non-normal checklists if the ECS circuit 
+breakers downstream of the SPCU trip.
+
+Interim Action
+
+    The FAA considers this AD to be an interim action. The manufacturer 
+is currently developing a modification to address the unsafe condition 
+identified in this AD. Once this modification is developed, FAA-
+approved, and available, the FAA might consider additional rulemaking.
+
+Justification for Immediate Adoption and Determination of the Effective 
+Date
+
+    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
+551 et seq.) authorizes agencies to dispense with notice and comment 
+procedures for rules when the agency, for ``good cause,'' finds that 
+those procedures are ``impracticable, unnecessary, or contrary to the 
+public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    An unsafe condition exists that requires the immediate adoption of 
+this AD without providing an opportunity for public comments prior to 
+adoption. The FAA has found that the risk to the flying public 
+justifies forgoing notice and comment prior to adoption of this rule 
+because a tripped BAT BUS SECT 2 or ECS circuit breaker, and resulting 
+effects on the cabin environment that cannot be controlled via normal 
+procedures, could lead to injury or incapacitation of flightcrew and 
+passengers, which could result in the inability to maintain safe flight 
+and landing. Additionally, the compliance time in this AD is shorter 
+than the time necessary for the public to comment and for publication 
+of the final rule. Accordingly, notice and opportunity for prior public 
+comment are impracticable and contrary to the public interest pursuant 
+to 5 U.S.C. 553(b).
+    In addition, the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days, 
+for the same reasons the FAA found good cause to forgo notice and 
+comment.
+
+Regulatory Flexibility Act
+
+    The requirements of the Regulatory Flexibility Act (RFA) do not 
+apply when an agency finds good cause pursuant to 5 U.S.C. 553 to adopt 
+a rule without prior notice and comment. Because the FAA has determined 
+that it has good cause to adopt this rule without notice and comment, 
+RFA analysis is not required.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 825 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+AFM Revision (retained actions from AD  1 work-hour x $85 per                 $0             $85         $70,125
+ 2026-04-05).                            hour = $85.
+AFM Revision (new AD action)..........  1 work-hour x $85 per                  0              85          70,125
+                                         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+[[Page 39856]]
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2026-04-05, Amendment 39-23265 
+(91 FR 8708, February 24, 2026); and
+0
+b. Adding the following new AD:
+
+2026-13-05 The Boeing Company: Amendment 39-23387; Docket No. FAA-
+2026-4660; Project Identifier AD-2026-00423-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective July 16, 2026.
+
+(b) Affected ADs
+
+    This AD replaces AD 2026-04-05, Amendment 39-23265 (91 FR 8708, 
+February 24, 2026) (AD 2026-04-05).
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model 737-8, 737-9, 
+and 737-8200 airplanes, certificated in any category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 21, Air 
+conditioning.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of in-flight events of excessive 
+cabin and flight deck temperatures that could not be controlled by 
+the flightcrew using existing procedures. The FAA is issuing this AD 
+to address a tripped BAT BUS SECT 2 or environmental control systems 
+(ECS) circuit breaker that could lead to an air conditioning system 
+malfunction causing an uncontrollable, excessively high temperature 
+in the cabin and flight deck. The unsafe condition, if not 
+addressed, could lead to injury or incapacitation of flightcrew and 
+passengers, which could result in the inability to maintain safe 
+flight and landing.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Revision of Existing Airplane Flight Manual (AFM), With a 
+New Terminating Action for Appendix 1
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2026-04-05, with a new terminating action for appendix 1 of this AD. 
+Within 30 days after February 24, 2026 (the effective date of AD 
+2026-04-05), revise the Operating Procedures section of the existing 
+AFM to include the information specified in appendices 1 through 3 
+of this AD. This may be done by inserting a copy of appendices 1 
+through 3 of this AD into the AFM. Accomplishing the revision of the 
+existing AFM required by paragraph (h)(1) of this AD terminates the 
+requirement of this paragraph to include the information specified 
+in appendix 1 of this AD in the existing AFM.
+
+(h) New Revision of Existing AFM
+
+    Within 30 days after the effective date of this AD, revise the 
+Operating Procedures section of the existing AFM as required in 
+paragraphs (h)(1) and (2) of this AD.
+    (1) Replace the information specified in appendix 1 of this AD 
+with the information specified in appendix 4 of this AD. This may be 
+done by removing a copy of appendix 1 of this AD from the existing 
+AFM and inserting a copy of appendix 4 of this AD into the existing 
+AFM. Accomplishing the revision required by this paragraph 
+terminates the requirement of paragraph (g) of this AD to include 
+the information specified in appendix 1 of this AD in the existing 
+AFM.
+    (2) Include the information specified in appendices 5 and 6 of 
+this AD. This may be done by inserting a copy of appendices 5 and 6 
+of this AD into the existing AFM.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the certification office, 
+send it to the attention of the person identified in paragraph (j) 
+of this AD. Information may be emailed to:  [email&#160;protected] . Before 
+using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(j) Additional Information
+
+    For more information about this AD, contact Derrick Herrera, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 817-222-5140; email:  [email&#160;protected] .
+
+(k) Material Incorporated by Reference
+
+    None.
+BILLING CODE 4910-13-P
+
+[[Page 39857]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.000
+
+[[Page 39858]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.001
+
+[[Page 39859]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.002
+
+[[Page 39860]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.003
+
+[[Page 39861]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.004
+
+[[Page 39862]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.005
+
+[[Page 39863]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.006
+
+[[Page 39864]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.007
+
+[[Page 39865]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.008
+
+[[Page 39866]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.009
+
+[[Page 39867]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.010
+
+[[Page 39868]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.011
+
+[[Page 39869]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.012
+
+[[Page 39870]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.013
+
+[[Page 39871]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.014
+
+[[Page 39872]]
+
+[GRAPHIC] [TIFF OMITTED] TR01JY26.015
+
+    Issued on June 26, 2026.
+Brian Knaup,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-13241 Filed 6-29-26; 11:15 am]
+ BILLING CODE 4910-13-P

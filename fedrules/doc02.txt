@@ -1,0 +1,505 @@
+[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
+[Rules and Regulations]
+[Pages 38517-38521]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-12920]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Part 52
+
+[EPA-R05-OAR-2025-0237; FRL-13273-02-R5]
+
+Air Plan Approval; Ohio; Source-Specific Non-CTG RACT
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Environmental Protection Agency (EPA) is approving source-
+specific State Implementation Plan (SIP) revisions submitted by Ohio. 
+These revisions address major source volatile organic compound (VOC) 
+and nitrogen oxide (NO X ) reasonably available control 
+technology (RACT) requirements for the Cleveland, OH Moderate 
+nonattainment area (Cuyahoga, Geauga, Lake, Lorain, Medina, Portage, 
+and Summit counties) for the 2015 ozone National Ambient Air Quality 
+Standard (NAAQS or standard). The affected facilities include Lubrizol, 
+Henkel, and Cleveland-Cliffs Cleveland Works. With this approval, Ohio 
+has fully satisfied the Moderate area RACT requirements of the Clean 
+Air Act (CAA) with respect to the 2015 ozone standard for the Cleveland 
+area.
+
+DATES: This final rule is effective on June 26, 2026.
+
+ADDRESSES: The EPA has established a docket for this action under 
+Docket ID No. EPA-R05-OAR-2025-0237. All documents in the docket are 
+listed on the  https://www.regulations.gov  website. Although listed in 
+the index, some information is not publicly available, i.e., 
+Confidential Business Information (CBI), Proprietary Business 
+Information (PBI), or other information whose disclosure is restricted 
+by statute. Certain other material, such as copyrighted material, is 
+not placed on the internet and will be publicly available only in hard 
+copy form. Publicly available docket materials are available either 
+through  https://www.regulations.gov  or please contact the person 
+identified in the FOR FURTHER INFORMATION CONTACT section for 
+additional information.
+
+FOR FURTHER INFORMATION CONTACT: Katie Caskey, Air and Radiation 
+Division (AR18J), Environmental Protection Agency, Region 5, 77 West 
+Jackson Boulevard, Chicago, Illinois 60604, telephone number: (312) 
+353-3490, email address:   [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION: Throughout this document whenever ``we,'' 
+``us,'' or ``our'' is used, we mean the EPA.
+
+I. Background Information
+
+    On April 10, 2026, the EPA proposed to approve source-specific SIP 
+revisions that address major source VOC and NO X  RACT 
+requirements for the Cleveland, OH 2015 ozone Moderate nonattainment 
+area.\1\ An explanation of the CAA requirements, a detailed analysis of 
+the revisions, and the EPA's reasons for proposing approval were 
+provided in the notice of proposed rulemaking and will not be restated 
+in this action. The public comment period for this proposed rule closed 
+on May 11, 2026. The EPA received one adverse comment.
+---------------------------------------------------------------------------
+
+    \1\ 91 FR 18349 (April 10, 2026).
+---------------------------------------------------------------------------
+
+    Comment: The commenter asserted that the EPA failed to assess the 
+emission impacts of potential RACT measures and did not explain the 
+significance of the emission reduction potential for those measures for 
+all the non-CTG sources in the proposal.
+    Response: The CAA does not require, and thus the proposal does not 
+include, a separate, standalone evaluation of emission impacts for 
+potential RACT measures.
+    CAA section 172(c)(1) requires the implementation of RACT measures 
+as expeditiously as practicable and shall provide for attainment of the 
+NAAQS.
+
+[[Page 38518]]
+
+Reductions in emissions from existing sources is part of that stated 
+purpose, but the language does not specify or require an evaluation of 
+the emissions impacts.
+    CAA section 182(b)(2) requires implementation of RACT for Moderate 
+ozone nonattainment areas, and references CAA section 172(c)(1). The 
+EPA has long defined RACT as the lowest emission limitation a source 
+can meet through application of control technology that is reasonably 
+available, considering technological and economic feasibility.\2\
+---------------------------------------------------------------------------
+
+    \2\ 44 FR 53762 (September 17, 1979).
+---------------------------------------------------------------------------
+
+    Consistent with this definition, major source RACT is evaluated at 
+the source level by determining whether additional control technologies 
+are technologically feasible and economically reasonable for that 
+source. Ohio evaluated various available control options for each 
+source, including feasibility, emission reduction efficiency, and cost, 
+and determined whether more stringent controls met this standard. Each 
+of these analyses were considered by the EPA and were part of the 
+docket for this rulemaking.
+    Emission reduction potential is inherently reflected in the 
+evaluation of control technologies, including consideration of control 
+efficiency; however, the CAA does not require a separate or independent 
+analysis of the significance of emission reductions in determining 
+RACT. Instead, RACT determinations focus on whether controls are 
+technologically feasible and economically reasonable for that source.
+    The EPA reviewed Ohio's analysis and confirmed that Ohio evaluated 
+available control options and did not rely solely on existing controls 
+without analysis. Therefore, the EPA finds that Ohio's RACT 
+determinations are consistent with CAA requirements.
+    Comment: The commenter asserted that the EPA failed to provide a 
+reasoned explanation for its economic feasibility determinations, 
+failed to justify cost-effectiveness values or establish a benchmark, 
+failed to explain why certain technologically feasible controls are not 
+economically feasible, failed to consider emission reduction potential 
+in evaluating cost, and relied on conclusions that are inconsistent 
+with prior EPA analyses and cost-effectiveness ranges.
+    Response: The EPA disagrees that the explanation of economic 
+feasibility determinations in the proposed approval is inconsistent 
+with the CAA. Under the CAA, RACT requires implementation of control 
+technologies that are technologically feasible and economically 
+reasonable. The EPA evaluates economic feasibility on a case-by-case, 
+source-specific basis, considering a variety of factors, including, but 
+not limited to, source configuration, emission unit type, control 
+technology, baseline emissions, geographic location, and economic 
+conditions.
+    The EPA does not establish or apply a cost-effectiveness metric for 
+RACT. The commenter asserts that the EPA chose to apply such a metric. 
+The States may establish and apply their own cost-effectiveness 
+metrics, but the EPA does not adopt these metrics. Instead, the EPA 
+uses cost-effectiveness as one tool to determine whether a control 
+technology is economically reasonable for a specific source. What 
+constitutes reasonable cost-effectiveness varies depending on the 
+characteristics of the source and the control technology.
+    The EPA reviewed Ohio's source-specific analyses for each non-CTG 
+major source. In each analysis, Ohio evaluated available control 
+technologies, including emission reduction efficiency and associated 
+costs, and determined whether those technologies were economically 
+reasonable for each source. Where Ohio determined that certain 
+technologically feasible controls were not economically reasonable, the 
+EPA reviewed those determinations and found that the record supports 
+those conclusions.
+    The commenter compares cost-effectiveness values in this action to 
+values from other EPA analyses, including the EPA's ``Regulatory Impact 
+Analysis of the Final revisions to the National Ambient Air Quality 
+Standards for Ground-Level Ozone'' (September 2015), the Federal 
+Implementation Plan Addressing Regional Ozone Transport for the 2015 
+Ozone National Ambient Air Quality Standard (88 FR 36654, June 5, 
+2023), and the EPA's study ``The Benefits and Costs of the Clean Air 
+Act from 1990 to 2020: Final Report--Rev. A'' (April 2011). Those 
+analyses were developed for different statutory purposes and broader 
+regulatory contexts and do not establish applicable cost benchmarks for 
+source-specific RACT determinations.
+    The commenter identified each facility specifically and asserted 
+that more stringent controls should have been required. The EPA 
+reviewed the source-specific analyses for these facilities and finds 
+that Ohio evaluated technically feasible control options and associated 
+costs and determined which controls are economically reasonable for 
+each source.
+    Therefore, the EPA finds that the economic analyses in Ohio's RACT 
+demonstrations satisfy RACT requirements under the CAA.
+    Comment: The commenter also asserted that the EPA failed to ensure 
+that non-CTG sources subject to RACT are subject to sufficient 
+reporting and recordkeeping requirements, that existing requirements 
+are unclear or insufficient to demonstrate compliance, that reliance on 
+deviation reporting is inadequate, that the proposal does not 
+adequately explain how compliance with RACT limits will be enforced, 
+and that the lack of publicly accessible information limits effective 
+enforcement, including citizen enforcement.
+    Response: The EPA disagrees with the commenter's assertions. Ohio 
+has established reporting and recordkeeping requirements for sources 
+subject to RACT through Ohio Administrative Code (OAC) rule 3745-15-03, 
+which the EPA has approved into the Ohio SIP.\3\ This rule requires 
+periodic reporting sufficient to demonstrate compliance with applicable 
+limits.
+---------------------------------------------------------------------------
+
+    \3\ 91 FR 2308, (January 20, 2026).
+---------------------------------------------------------------------------
+
+    The EPA is not relying on deviation reporting alone to satisfy CAA 
+requirements. Ohio's framework relies on periodic reporting under OAC 
+rule 3745-15-03 along with source-specific permit conditions that are 
+approved into the Ohio SIP. These requirements allow compliance to be 
+determined on an ongoing basis. The emission limitations and associated 
+monitoring, recordkeeping, and reporting requirements in Ohio's SIP and 
+permits are federally enforceable, and information submitted to the 
+State under OAC rule 3745-15-03 is available to the public through 
+applicable public records processes, including the Freedom of 
+Information Act. The EPA reviewed Ohio's SIP and permitting framework 
+and finds that it provides enforceable mechanisms to ensure compliance.
+    Thus, the EPA finds that Ohio's reporting and permitting 
+requirements are sufficient to meet the CAA and regulatory 
+enforceability requirements.
+
+II. Final Action
+
+    The EPA is approving the following as meeting RACT in the Cleveland 
+Moderate nonattainment area for the 2015 ozone standard:
+
+Cleveland-Cliffs Cleveland Works
+
+      NO X  RACT--the following provisions, as detailed 
+in permit numbers P0138036, P0138136, and P0138521, issued 11/13/2025, 
+effective 11/13/2025:
+
+[[Page 38519]]
+
+      Reheat Furnaces (P046-P048): Requirement to submit updated 
+NO X  RACT study per 3745-110-03(J) if NO X  
+emissions exceed 348.3 tpy per furnace on a 12-month rolling average.
+      Batch annealing Furnaces (P049 and P050): Continued 
+operation of existing LNBs and compliance with existing NO X  
+limit of 0.10 lb/MMBtu.
+      HDGL Annealing Furnace (Unit P071): Continued use of the 
+existing LNBs and compliance with the 0.23 lb/MMBtu NO X  
+limit.
+      Blast Furnaces (P903 and P904): Continued use of low-
+NO X  BFG; Casthouse and Flare--install, maintain, and operate 
+the source in accordance with manufacturer specifications and with good 
+operating practices for the control of NO X  emissions; Blast 
+furnace stoves--Continued compliance with existing NO X  limit 
+of 0.06 lb/MMBtu.
+      Basic Oxygen Furnaces and Ladle Preheaters (P905/P906 and 
+P925/P926): BOFs--install, maintain, and operate the source in 
+accordance with the manufacturer's specifications and with good 
+operating practices for the control of NO X  emissions; Ladle 
+Preheaters--Continued use of the existing inherently low-NO X  
+burners and continued compliance of the site-specific NO X  
+limit of 0.10 lb/MMBtu.
+      VOC RACT--the following provisions, as detailed in permit 
+numbers P0138035, P0138036, and P0138136, issued 11/13/2025, effective 
+11/13/2025:
+      Combustion Units (B001-B007, B046-B050, P903-P906): 
+Operate the source in accordance with the manufacturer's specifications 
+and with good operating practices for the control of VOC emissions.
+      Tandem Mill (P107): Continued operation of chevron-style 
+oil demister in accordance with good engineering practices; Compliance 
+with existing VOC BAT limit of 138.91 tons per rolling 12-month period; 
+Compliance with the following VOC content limits for rolling oils--
+Rolling Oil:  https://www.regulations.gov , and at the EPA Region 5 Office (please contact the 
+person identified in the FOR FURTHER INFORMATION CONTACT section of 
+this preamble for more information). Therefore, these materials have 
+been approved by the EPA for inclusion in the SIP, have been 
+incorporated by reference by the EPA into that plan, are fully 
+federally enforceable under sections 110 and 113 of the CAA as of the 
+effective date of the final rulemaking of the EPA's approval, and will 
+be incorporated by reference in the next update to the SIP 
+compilation.\4\
+---------------------------------------------------------------------------
+
+    \4\ 62 FR 27968 (May 22, 1997).
+---------------------------------------------------------------------------
+
+IV. Statutory and Executive Order Reviews
+
+    Under the CAA, the Administrator is required to approve a SIP 
+submission that complies with the provisions of the CAA and applicable 
+Federal regulations. 42 U.S.C. 7410(k); 40 CFR 52.02(a). Thus, in 
+reviewing SIP submissions, the EPA's role is to approve State choices, 
+provided that they meet the criteria of the CAA. Accordingly, this 
+action merely approves State law as meeting Federal requirements and 
+does not impose additional requirements beyond those imposed by State 
+law. For that reason, this action:
+      Is not a significant regulatory action subject to review 
+by the Office of Management and Budget under Executive Order 12866 (58 
+FR 51735, October 4, 1993);
+      Is not an Executive Order 14192 (90 FR 9065, February 6, 
+2025) regulatory action because this action is not significant under 
+Executive Order 12866;
+      Does not impose an information collection burden under the 
+provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
+      Is certified as not having a significant economic impact 
+on a substantial number of small entities under the Regulatory 
+Flexibility Act (5 U.S.C. 601 et seq.);
+      Does not contain any unfunded mandate or significantly or 
+uniquely affect small governments, as described in the Unfunded 
+Mandates Reform Act of 1995 (Pub. L. 104-4);
+      Does not have federalism implications as specified in 
+Executive Order 13132 (64 FR 43255, August 10, 1999);
+      Is not subject to Executive Order 13045 (62 FR 19885, 
+April 23, 1997) because it approves a State program;
+      Is not a significant regulatory action subject to 
+Executive Order 13211 (66 FR 28355, May 22, 2001); and
+      Is not subject to requirements of section 12(d) of the 
+National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
+note) because application of those requirements would be inconsistent 
+with the CAA.
+    In addition, the SIP is not approved to apply on any Indian 
+reservation land or in any other area where the EPA or an Indian Tribe 
+has demonstrated that a Tribe has jurisdiction. In those areas of 
+Indian country, the rule does not have Tribal implications and will not 
+impose substantial direct costs on Tribal
+
+[[Page 38520]]
+
+governments or preempt Tribal law as specified by Executive Order 13175 
+(65 FR 67249, November 9, 2000).
+    This rule is exempt from the Congressional Review Act because it is 
+a rule of particular applicability.
+    Under section 307(b)(1) of the CAA, petitions for judicial review 
+of this action must be filed in the United States Court of Appeals for 
+the appropriate circuit by August 25, 2026. Filing a petition for 
+reconsideration by the Administrator of this final rule does not affect 
+the finality of this action for the purposes of judicial review nor 
+does it extend the time within which a petition for judicial review may 
+be filed, and shall not postpone the effectiveness of such rule or 
+action. This action may not be challenged later in proceedings to 
+enforce its requirements. (See section 307(b)(2).)
+
+List of Subjects in 40 CFR Part 52
+
+    Environmental protection, Air pollution control, Incorporation by 
+reference, Intergovernmental relations, Nitrogen oxides, Ozone, 
+Volatile organic compounds.
+
+    Dated: June 15, 2026.
+Anne Vogel,
+Regional Administrator, Region 5.
+
+    For the reasons stated in the preamble, title 40 CFR part 52 is 
+amended as follows:
+
+PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
+
+0
+1. The authority citation for part 52 continues to read as follows:
+
+    Authority:  42 U.S.C. 7401 et seq.
+
+0
+2. In Sec.  52.1870, the table in paragraph (d) is amended by:
+0
+a. Adding four entries for ``Cleveland-Cliffs Cleveland Works'' before 
+the entry for ``Excello Specialty'';
+0
+b. Adding an entry for ``Henkel'' before the entry for ``Hilton 
+Davis''; and
+0
+c. Adding an entry for ``Lubrizol'' before the entry for ``Luria 
+Brothers''.
+    The additions read as follows:
+
+Sec.  52.1870  Identification of plan.
+
+* * * * *
+    (d) * * *
+
+                                  EPA-Approved Ohio Source-Specific Provisions
+----------------------------------------------------------------------------------------------------------------
+                                                           Ohio
+          Name of source                  No.            effective      EPA approval date         Comments
+                                                           date
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+Cleveland-Cliffs Cleveland Works.  P0138035.........      11/13/2025  6/26/2026, 91 FR      Only sections
+                                                                       [INSERT FEDERAL       C.1.b)(1)e.,
+                                                                       REGISTER PAGE WHERE   C.1.b)(2)a.,
+                                                                       THE DOCUMENT          C.1.d)(2),
+                                                                       BEGINS].              C.1.d)(3),
+                                                                                             C.1.d)(4),
+                                                                                             C.1.e)(2),
+                                                                                             C.1.e)(3),
+                                                                                             C.1.e)(5),
+                                                                                             C.1.f)(1)d.,
+                                                                                             C.1.f)(1)f., and
+                                                                                             C.1.f)(2).
+Cleveland-Cliffs Cleveland Works.  P0138036.........      11/13/2025  6/26/2026, 91 FR      Only sections
+                                                                       [INSERT FEDERAL       C.1.b)(1)i.,
+                                                                       REGISTER PAGE WHERE   C.1.b)(1) j.,
+                                                                       THE DOCUMENT          C.1.b)(1) k.,
+                                                                       BEGINS].              C.1.b)(2)g.,
+                                                                                             C.1.b)(2)h.,
+                                                                                             C.1.d)(6).,
+                                                                                             C.1.d)(7).,
+                                                                                             C.1.e)(6), and
+                                                                                             C.1.f)(1)g.
+Cleveland-Cliffs Cleveland Works.  P0138136.........      11/13/2025  6/26/2026, 91 FR      Only sections B.11.,
+                                                                       [INSERT FEDERAL       C.1.b)(1)g.,
+                                                                       REGISTER PAGE WHERE   C.1.d)(7),
+                                                                       THE DOCUMENT          C.1.e)(5),
+                                                                       BEGINS].              C.2.b)(1)g,
+                                                                                             C.2.d)(9),
+                                                                                             C.2.e)(6),
+                                                                                             C.3.b)(1)e.,
+                                                                                             C.3.d)(4),
+                                                                                             C.3.e)(4),
+                                                                                             C.4.b)(1)f.,
+                                                                                             C.4.d)(9),
+                                                                                             C.4.e)(6),
+                                                                                             C.5.b)(1)d.,
+                                                                                             C.5.b)(1)e.,
+                                                                                             C.5.b)(1)f.,
+                                                                                             C.5.b)(2)d.,
+                                                                                             C.5.d)(4),
+                                                                                             C.5.d)(5),
+                                                                                             C.5.e)(4),
+                                                                                             C.5.e)(5),
+                                                                                             C.5.e)(6),
+                                                                                             C.5.f)(1)e.,
+                                                                                             C.6.b)(1)d.,
+                                                                                             C.6.b)(1)e.,
+                                                                                             C.6.b)(1)f.,
+                                                                                             C.6.b)(2)d,
+                                                                                             C.6.d)(3),
+                                                                                             C.6.e)(4),
+                                                                                             C.6.f)(1)b,
+                                                                                             C.7.b)(1)h.,
+                                                                                             C.7.b)(1)i.,
+                                                                                             C.7.b)(1)j.,
+                                                                                             C.7.b)(2)f.,
+                                                                                             C.7.d)(5),
+                                                                                             C.7.d)(6),
+                                                                                             C.7.d)(7),
+                                                                                             C.7.e)(6),
+                                                                                             C.7.e)(7),
+                                                                                             C.7.f)(1)e.,
+                                                                                             C.8.b)(1)e.,
+                                                                                             C.8.b)(1)f.,
+                                                                                             C.8.b)(1)g.,
+                                                                                             C.8.b)(2)e.,
+                                                                                             C.8.d)(2),
+                                                                                             C.8.d)(3),
+                                                                                             C.8.e)(4),
+                                                                                             C.8.e)(5),
+                                                                                             C.8.f)(1)d.,
+                                                                                             C.9.b)(1)e.,
+                                                                                             C.9.b)(1)f.,
+                                                                                             C.9.b)(2)f.,
+                                                                                             C.9.d)(3),
+                                                                                             C.9.e)(4), and
+                                                                                             C.9.f)(1)e.
+Cleveland-Cliffs Cleveland Works.  P0138521.........      11/13/2025  6/26/2026, 91 FR      Only sections
+                                                                       [INSERT FEDERAL       C.1.b)(1)e.,
+                                                                       REGISTER PAGE WHERE   C.1.b)(1)f.,
+                                                                       THE DOCUMENT          C.1.b)(2)c., and
+                                                                       BEGINS].              C.1.f)(1).
+ 
+                                                  * * * * * * *
+Henkel...........................  P0138691.........      11/18/2025  6/26/2026, 91 FR      Only sections B.4.,
+                                                                       [INSERT FEDERAL       C.1.b)(1).g.,
+                                                                       REGISTER PAGE WHERE   C.1.c)(2),
+                                                                       THE DOCUMENT          C.1.d)(5),
+                                                                       BEGINS].              C.1.e)(7),
+                                                                                             C.1.f)(2),
+                                                                                             C.2.b)(1)f.,
+                                                                                             C.2.c)(2),
+                                                                                             C.2.d)(6),
+                                                                                             C.2.e)(7),
+                                                                                             C.2.f)(2),
+                                                                                             C.3.b)(1)g.,
+                                                                                             C.3.c)(2),
+                                                                                             C.3.d)(5),
+                                                                                             C.3.e)(7),
+                                                                                             C.3.f)(2),
+                                                                                             C.4.b)(1)g.,
+                                                                                             C.4.c)(4),
+                                                                                             C.4.d)(5),
+                                                                                             C.4.e)(6),
+                                                                                             C.4.f)(2),
+                                                                                             C.5.b)(1)j.,
+                                                                                             C.5.c)(3),
+                                                                                             C.5.d)(6),
+                                                                                             C.5.e)(9),
+                                                                                             C.5.f)(2),
+                                                                                             C.6.b)(1)d.,
+                                                                                             C.6.c)(2),
+                                                                                             C.6.d)(2),
+                                                                                             C.6.e)(4),
+                                                                                             C.6.f)(3),
+                                                                                             C.7.b)(1)d.,
+                                                                                             C.7.c)(2),
+                                                                                             C.7.d)(2),
+                                                                                             C.7.e)(4), and
+                                                                                             C.7.f)(3).
+ 
+
+[[Page 38521]]
+
+ 
+                                                  * * * * * * *
+Lubrizol.........................  P0138405.........      10/01/2025  6/26/2026, 91 FR      Only sections B.2,
+                                                                       [INSERT FEDERAL       B.3., B.4., B.5.,
+                                                                       REGISTER PAGE WHERE   C.1.b)(1)b.,
+                                                                       THE DOCUMENT          C.1.b)(2)a.,
+                                                                       BEGINS].              C.1.d)(1),
+                                                                                             C.1.e)(1), and
+                                                                                             C.1.f)(2).
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+* * * * *
+
+[FR Doc. 2026-12920 Filed 6-25-26; 8:45 am]
+BILLING CODE 6560-50-P

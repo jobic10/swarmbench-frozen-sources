@@ -1,0 +1,976 @@
+[Federal Register Volume 91, Number 126 (Thursday, July 2, 2026)]
+[Rules and Regulations]
+[Pages 40426-40434]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13451]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Administration for Children and Families
+
+45 CFR Part 1351
+
+RIN 0970-AD37
+
+Reducing Bureaucracy and Burden for Children, Youth, and Family 
+Programs
+
+AGENCY: Family and Youth Services Bureau (FYSB), Administration on 
+Children, Youth and Families (ACYF), Administration for Children and 
+Families (ACF), Department of Health and Human Services (HHS).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This final rule removes duplicative and unnecessary sections 
+from the Runaway and Homeless Youth Program regulations. These 
+amendments will streamline the Runaway and Homeless Youth Program 
+regulations to make them more accessible to the public.
+
+DATES: Effective August 31, 2026.
+
+FOR FURTHER INFORMATION CONTACT: Adam N. Jones, Deputy Chief of Staff, 
+Immediate Office of the Assistant Secretary, Administration for 
+Children and Families, Department of Health and Human Services, 
+Washington, DC 202-417-0115 or   [email&#160;protected]  . A plain 
+language summary of the final rule is posted at  https://www.regulations.gov .
+
+SUPPLEMENTARY INFORMATION:
+
+I. Statutory Authority
+
+    This final rule is being issued under the authority granted to the 
+Secretary of Health and Human Services by the Runaway and Homeless 
+Youth Act of 1974, as amended, hereafter referred to as the ``Act,'' 34 
+U.S.C. 11201 et seq. 34 U.S.C. 11202 specifically authorizes 
+rulemaking.
+
+II. Background
+
+    The Runaway and Homeless Youth (RHY) Program, authorized under the 
+Runaway and Homeless Youth Act (34 U.S.C. 11201 et seq.), authorizes 
+HHS to provide grants to public and nonprofit private entities to 
+deliver services to runaway and homeless youth and youth at risk of 
+homelessness. The RHY program includes the Basic Center Program, the 
+Transitional Living Program (including the Maternity Group Home 
+Program), and the Street Outreach Program, which together support 
+emergency shelter, transitional housing, outreach, counseling, and 
+comprehensive supportive services to promote youth safety, well-being, 
+and long-term stability. The RHY program also funds a national 
+communications system, grants for training and technical assistance, 
+and grants for research, evaluation, training, and service projects. 
+HHS has issued regulations for the RHY Program at 45 CFR part 1351.
+    HHS initially published regulations for the RHY Program on November 
+20, 1978. Office of Human Development Services, Department of Health, 
+Education, and Welfare, 43 FR 55634 (Nov. 20, 1978) (codified at 45 CFR 
+pt. 1351). The regulations were most recently amended on December 20, 
+2016 at Runaway and Homeless Youth, 81 FR 93030. The most recent 
+revisions added program performance standards and provided additional 
+updates to reflect changes in the RHY Act made through the Reconnecting 
+Homeless Youth Act of 2008 (Pub. L. 110-378). See Runaway and Homeless 
+Youth, 81 FR 93030, 93030 (Dec. 20, 2016). We are now rescinding 
+several sections of 45 CFR part 1351 to clarify program requirements, 
+reduce unnecessary administrative burden, and better align the 
+regulations with current statutory authority and language, while 
+maintaining program operations and effective management of grant funds.
+
+III. Executive Summary
+
+    This final rule rescinds multiple RHY Program regulation sections 
+that can be delineated into two categories: those that are duplicative 
+and those that are unnecessary because they are better suited for a 
+different format.
+    The duplicative regulation sections are those that carry no legal 
+weight because their requirements are listed elsewhere in applicable 
+law, such as in statute. Duplicative regulations impose no new 
+obligations and offer no new guidance because the authority and 
+requirements are pulled directly from other statutes and regulations. 
+In many cases, the language in the regulation is identical to the 
+language in the RHY Act.
+    Several of the regulation sections are better suited to a different 
+format, such as a Notice of Funding Opportunity (NOFO). These sections 
+either include summaries of program goals or objectives that do not 
+impose any requirements beyond the language in the authorizing statute 
+or they include information generally found in grant documents such as 
+NOFOs. In some cases, the sections merely direct grant applicants and 
+recipients to follow instructions in NOFOs and provide no additional 
+information. These sections are being removed to allow them to be 
+published in the more appropriate format.
+
+Effective Date
+
+    This final rule will become effective 60 days from the date of its 
+publication.
+
+Severability
+
+    The purpose of this section is to clarify ACF's intent with respect 
+to the severability of the provisions of this NPRM. As explained above, 
+ACF is removing sections of the RHY regulations because we determined 
+that doing so would make the regulations
+
+[[Page 40427]]
+
+clearer, less burdensome, and more accessible to the public. To the 
+extent that any portion of the removals are declared invalid by a 
+court, ACF intends for all other provisions of this final rule to 
+remain in effect to the greatest extent possible to ensure that the RHY 
+regulations remain as concise and accessible as possible. The changes 
+address a variety of issues relevant to the Family and Youth Services 
+Bureau. None of the provisions contained herein are central to an 
+overall intent of the proposed rule, nor are any provisions being 
+removed in this final rule dependent on the validity of other, separate 
+provisions.
+
+IV. Summary of Public Comments
+
+    ACF published a notice of proposed rulemaking (NPRM) in the Federal 
+Register on April 6, 2026, (91 FR 17235) proposing revisions to 45 CFR 
+part 1351. ACF provided a 30-day comment period during which interested 
+parties could submit comments in writing electronically through 
+ Regulations.gov  or via email to the Immediate Office of the Assistant 
+Secretary.
+    During the 30-day comment period, ACF received 918 comments from 
+individuals and organizations including students and clergy; human 
+services, educational, and medical professionals; national, state and 
+local runaway and homeless youth focused advocacy organizations, 
+research and policy organizations; and individual provider 
+organizations. All comments received were posted on 
+ www.regulations.gov .
+    Of the 918 submissions received, there were 537 unique comments and 
+381 are duplicates. Additionally, of the 537 unique comments received, 
+506 of the comments raise the same concerns about the NPRM with minor 
+distinguishing details describing commenters' personal experiences.. 
+Comments were received from national organizations, advocating on 
+behalf of runaway and homeless youth and RHY service providers.
+    At the conclusion of the public comment period, ACF analyzed the 
+content of the comments to inform the development of this final rule. 
+To support the analysis of public comments, ACF staff used a large 
+language model, a type of artificial intelligence (AI), as a tool to 
+conduct an initial scan of comment content, sentiment, and language. 
+The AI output was thoroughly analyzed and refined by FYSB program 
+subject matter experts. All comments were reviewed by content experts 
+to determine each commenter's support, opposition, or suggestions 
+concerning the policies proposed in the NPRM.
+    Public comments reflected a range of perspectives, with some 
+commenters expressing general support for the proposed changes and the 
+majority opposing the proposed rescissions. All responsive comments 
+informed our consideration of the final rule.
+    The preamble in this final rule discusses the changes to current 
+regulations. Where language of previous regulations remains unchanged, 
+the preamble explanation and interpretation of that language published 
+with all prior final rules are also retained, unless specifically 
+modified in the preamble to this rule.
+
+V. General Comments and Cross-Cutting Issues
+
+    A couple comments expressed overall support for the proposed 
+changes in the NPRM but did not discuss specific provisions or make any 
+suggestions for change. Several comments expressed opposition to the 
+proposed changes but made no specific suggestions for change. We 
+address the general concerns raised in those comments in this section. 
+Comments addressing specific sections of the regulation proposed for 
+removal are discussed in the section-by-section analysis later in this 
+final rule. Several commenters expressed concern that removing the 
+regulation sections discussed in the NPRM could weaken consistency of 
+RHY program requirements and limits stakeholders' ability to hold the 
+agency accountable for enforcing consistent standards. Commenters 
+raising this issue were primarily advocacy organizations supporting 
+runaway and homeless youth providers and youth at risk of homelessness 
+or who are experiencing homelessness. While we acknowledge commenters' 
+concerns, we do not agree that the proposed rescissions will create 
+inconsistencies in program requirements or enforcement. Most of the 
+regulation sections slated for removal either impose no requirements or 
+merely list program requirements already articulated in the RHY statute 
+at 34 U.S.C. 11201 et seq. or other in federal regulations. See, e.g., 
+45 CFR 1351.10 (summarizing the RHY program purpose but including no 
+program requirements); 1351.11 (restating program eligibility 
+requirements listed at Sections 11211(a)(1), 11222, and 11261(a) of the 
+RHY Act). Where regulatory language differs from statute, such 
+distinctions may be included in NOFOs without creating inconsistencies 
+in program requirements or limiting enforcement. Grant application 
+reviewers are fully trained on new provisions that may be added to 
+NOFOs, and applicants are encouraged to contact RHY program staff 
+listed in the NOFO with any questions about NOFO content. NOFOs are 
+publicly available and may be easily accessed by any stakeholders 
+seeking to better understand RHY program requirements. Importantly, RHY 
+program-specific performance standards, the basis for most enforcement 
+actions, remain intact. See 45 CFR 1351.30 through 32. ACF declines to 
+make any changes to the proposed rescissions based on commenter 
+concerns about consistency.
+    Many commenters, primarily representing advocacy organizations, 
+also raised general concerns that the proposed section removals will 
+weaken RHY program clarity and transparency. We acknowledge these 
+concerns but disagree. Removing repetitive sections of the regulation 
+and sections that are better suited for NOFOs makes the remaining 
+regulation sections clearer and easier to follow. RHY stakeholders will 
+no longer need to parse out minor distinctions between statute and 
+regulation to understand program requirements because the RHY 
+regulation will be limited to requirements that are not articulated 
+elsewhere and that carry legal weight rather than, for example, 
+directing grant applicants to follow instructions in the funding 
+opportunity announcement (NOFO) to apply for RHY funding. See 45 CFR 
+1351.17. ACF will therefore decline to make any changes to the proposed 
+removals based on commenter concerns about clarity or transparency.
+    Most individual commenters, as well the advocacy organizations that 
+opposed the NPRM, argued that the changes will reduce protections for 
+vulnerable youth, particularly youth who identify as ``LGBTQ.'' Many of 
+these commenters emphasized negative consequences associated with 
+``conversion therapy'' and protecting youth identifying as ``LGBTQ'' 
+from harm. Commenters raised concerns that the proposed recissions will 
+discourage such youth from seeking RHY-funded services. While most of 
+these comments do not cite a specific section of the RHY regulations, 
+we recognize that these sentiments likely respond to ACF's proposal to 
+remove 45 CFR 1351.16 from regulation. 45 CFR 1351.16(b) prohibits 
+grant recipients from using RHY funds for ``any treatment or referral 
+to treatment that aims to change someone's sexual orientation, gender 
+identity or gender expression,'' a practice commonly referred to as 
+conversion therapy. We will address general comments about protections 
+for these individuals in this section and provide a more detailed 
+analysis of
+
+[[Page 40428]]
+
+concerns about removing Sec.  1351.16(b) in in the section-by-section 
+discussion.
+    ACF maintains that the proposed removals will have no impact on 
+protections for vulnerable youth, including youth who identify as 
+``LGBTQ.'' ACF does not discriminate against any individual or group 
+based on any Federally protected classification, including in the 
+administration of the RHY Program. Services are provided to all 
+eligible youth consistent with applicable Federal civil rights laws and 
+program requirements.
+    Nothing in this rule alters or limits existing nondiscrimination 
+protections or the obligation of recipients to provide safe and 
+appropriate services to all youth served under the program. ACF remains 
+committed to serving all eligible youth per statutory requirements, 
+including youth who are at risk for trafficking, exploitation, and 
+housing instability. We disagree that the proposed rescissions will 
+discourage youth participation. RHY programs, including the Basic 
+Center Program and the Transitional Living Program, must include 
+outreach efforts in accordance with the RHY Act. See 34 U.S.C. 
+11212(b)(6) (Basic Center Program), 34 U.S.C. 11222(a)(8). ACF will 
+continue to support RHY grant recipients to enhance outreach efforts 
+through guidance and technical assistance in partnership with the 
+Runaway and Homeless Youth Training, Technical Assistance, and Capacity 
+Building Center (RHYTTAC).
+    Because the proposed recissions do not weaken protections for 
+vulnerable youth or discourage eligible youth from participating in 
+RHY-funded programming, ACF declines to make any changes to the NPRM 
+based on these commenter concerns.
+
+VI. Section-by-Section Discussion of Comments and Regulatory Provisions
+
+    HHS received the following comments about changes proposed to 
+specific subparts of the regulation. Below, HHS identifies each 
+subpart, summarizes the comments, and responds to them accordingly.
+
+Subpart B--Runaway and Homeless Youth Program Grants
+
+Sec.  1351.10 What is the purpose of Runaway and Homeless Youth Program 
+grants?
+    This section is proposed for removal because it is unnecessary. 
+This section explains the general purpose of RHY Program grants but 
+provides no instructions to grant applicants or recipients, nor does it 
+impose any new obligations. Thus, this section is not needed in 
+regulation and would better serve grant applicants and recipients if it 
+were moved into the opening of a Notice of Funding Opportunity (NOFO) 
+and described elsewhere in sub-regulatory guidance.
+    Comment: HHS received six comments, all of which were from advocacy 
+organizations, opposing the removal of Sec.  1351.10 arguing that the 
+section provides foundational regulatory direction on the purpose of 
+RHY grants, the youth population served, and key service expectations 
+that should not be shifted into annual NOFOs. Commenters argued that 
+Sec.  1351.10 helps anchor the program by identifying core approaches 
+such as Positive Youth Development, services tailored to youth needs, 
+and connections to education and employment, and they argue that 
+removing it could weaken consistency, reduce legal clarity, and erode 
+explicit protections for youth facing barriers to safe services.
+    Response: While we recognize the value in providing ``foundational 
+regulatory direction'' for RHY grants, we maintain that this section of 
+the RHY regulation may be removed without impact. As explained above, 
+this section provides no clarifying instructions to grant applicants or 
+recipients, nor does it impose any new obligations. Its removal from 
+regulation cannot jeopardize ``explicit protections'' for youth because 
+this section does not create any new protections. As recipients of 
+Federal Financial Assistance (FFA), all RHY grant recipients must 
+ensure that the programs they administer do not discriminate on the 
+basis of a participant protected characteristics, including the 
+participant's race, sex, ethnicity, national origin, religion, or 
+disability. See 45 CFR 200.300. These protections are enshrined 
+elsewhere in Federal statute and regulation and this section does not 
+affect their applicability.
+Sec.  1351.11 Who is eligible to apply for a Runaway and Homeless Youth 
+Program grant?
+    This section discusses eligibility for RHY Program grants. We are 
+removing it from RHY regulations because it generally duplicates 
+statutory language. This section is not needed in regulation because 
+the statute that authorizes this section (Sections 11211(a)(1), 11222, 
+and 11261(a) of the RHY Act) is already prescriptive in terms of 
+eligibility for grant funds and the regulatory language does not 
+provide additional clarification.
+    Comment: HHS received three comments addressing removal of Sec.  
+1351.11 from the RHY regulations. One commenter supported the removal 
+of this section because it appears duplicative and adds little clarity. 
+The other two comments, opposed removal, arguing the regulation is 
+still needed because it clarifies who may apply for RHY grants and 
+preserves the program's boundary with the juvenile justice system. The 
+opposing comments say that the RHY statute does not clearly articulate 
+applicant eligibility, so the regulation confirms that public agencies, 
+private nonprofits, and coordinated networks can participate, while 
+juvenile justice systems cannot; they also warn that removing the 
+section could create confusion for existing grantees, including faith-
+based organizations.
+    Response: ACF acknowledges the importance of ensuring that grant 
+applicants and recipients understand eligibility requirements but 
+disagrees that removing this section will cause confusion. This section 
+of the RHY regulations was most recently updated to more closely align 
+with statutory requirements rather than to add new content not found in 
+statute. See Runaway and Homeless Youth, 81 FR 93030, 93041 (Dec. 20, 
+2016) (``[W]e proposed changes to this section to confirm the 
+regulatory language to the current statute.''). While the prohibition 
+against awarding RHY grants to entities within the juvenile justice 
+system is not explicitly included in the RHY statute, the statute does, 
+as commenters note, make clear that the intent of the RHY program is to 
+develop an ``effective system of care . . . outside the welfare system 
+and the law enforcement system.'' 34 U.S.C. 11201(4). Furthermore, ACF 
+ensures that each fiscal year NOFO clearly defines who eligible 
+applicants are and, when appropriate, cites specific eligibility 
+criteria provided in RHY Act. Consulting NOFOs, as all grant applicants 
+and recipients must do to receive funding, will also assist faith-based 
+organizations to understand their eligibility. All RHY NOFOs include 
+specific language clarifying that faith-based organizations that 
+otherwise meet eligibility requirements may apply for funding. 
+Referring applicants and grant recipients to all eligibility 
+requirements and restrictions in one place, such as the NOFO, will 
+reduce administrative burden for prospective awardees and will avoid, 
+rather than cause confusion.
+
+[[Page 40429]]
+
+Sec.  1351.12 Who gets priority for the award of a Runaway and Homeless 
+Youth Program grant?
+    This section discusses which applicants receive priority for the 
+RHY Program grant awards. We are removing this section from regulation 
+because it is largely duplicative of statutory text from the RHY Act. 
+In most cases, the language used in this regulation section is 
+identical to the language describing grant eligibility requirements in 
+the statute. See 34 U.S.C. 11213(b) (priority requirements for the 
+Basic Center Program); 34 U.S.C. 11222(b) (priority requirements for 
+the Transitional Living Program); 34 U.S.C. 11261(b) (priority 
+requirements for the Street Outreach Program); 34 U.S.C. 11231 
+(priority requirements for the national communications system) 34 
+U.S.C. 11243(b) (priority requirements for research, evaluation, 
+demonstration and service projects).
+    Where the regulatory language has modified statutory language 
+slightly, such as at 45 CFR 1351.12(d) (expanding the statutory 
+requirement for the national communications grant to prioritize 
+applicants with experience providing telephonic services to runaway and 
+homeless youth to prioritize applicants who have experience providing 
+``electronic communication services''), distinctions can be explained 
+via NOFO. NOFOs can likewise appropriately articulate 45 CFR 
+1351.12(f), which requires the Secretary to incorporate program 
+performance standards listed at 45 CFR 1351.30 through 32 into 
+grantmaking, monitoring, and evaluation. This subsection already states 
+that NOFOs will include such content.
+    Comment: HHS received three comments addressing the removal of 
+Sec.  1351.12. One commenter supported removal and agreed that the 
+regulation section does not add new information or clarity to the 
+statutory requirements concerning applicant priorities. The other two 
+commenters, which were organizations representing a collection of 
+stakeholders, argued that certain subsections add meaningful 
+clarification that should be retained, especially language allowing 
+flexibility on preferred Basic Center Program (BCP) award amounts, 
+broadening priority for the national communications system beyond 
+telephone services to include internet, mobile, and other technology-
+driven services, and preserving the regulatory requirement to 
+incorporate performance standards into NOFOs, monitoring, and 
+evaluation. A commenter also expressed concern that the phrase ``or 
+such figure as Congress may specify'' would no longer appear in 
+regulation following the requirement that ACF prioritize applicants 
+requesting $200,000 or less in funding.
+    Response: As explained above, most of the language in this section 
+``mirrors the statutory language exactly.'' Runaway and Homeless Youth, 
+81 FR 93030, 93041 (Dec. 20, 2016). ACF disagrees that the minor 
+distinctions between statutory and regulatory language concerning 
+priorities justify retaining this section of the RHY regulation. ACF 
+has already incorporated the regulatory language that differs from 
+statute at 45 CFR 1351.12(d) and (f) into NOFOs. The NOFO supporting 
+the National Communication System has been revised to ensure services 
+meet modern communication technologies to include adding text and chat 
+functionality, which were not envisioned when the RHY Act was first 
+introduced. ACF recognizes The RHY Performance Standards remain 
+enshrined in regulation and grant recipients must agree to adhere to 
+the Performance Standards to accept RHY funds. Additionally, removing 
+the phrase ``or such figure as Congress may specify'' has no impact on 
+the statutory requirement to prioritize applicants seeking $200,000 or 
+less; Congress always has authority to modify statutory requirements, 
+and removing this section from regulation allows ACF to respond more 
+efficiently if Congress does raise the amount specified in the RHY Act. 
+For these reasons, we decline to make any changes to the proposal to 
+remove this section from regulation. Sec.  1351.13 What are the Federal 
+and non-Federal match requirements under a Runaway and Homeless Youth 
+Program grant?
+    This section discusses match requirements for RHY Program grants. 
+We are removing this section from the RHY regulation because it 
+duplicates statutory match requirements almost exactly. See 34 U.S.C. 
+11274. This section does not assist the public to better understand the 
+statutory match requirement and therefore serves no purpose.
+    Comment: HHS received one comment supporting removal of Sec.  
+1351.13 but no specific rationale was provided.
+    Response: Both the RHY statute and annual NOFOs effectively 
+communicate that the federal share of each funded project is 90 percent 
+of the total project cost, and the remaining 10 percent must be met by 
+the grant recipient.
+Sec.  1351.14 What is the period for which a grant will be awarded?
+    This section discusses the grant period for RHY Program grants. We 
+are removing this section because it is unnecessary. Information about 
+grant periods already appears in NOFOs and is better suited there. 
+Furthermore, this Section is ambiguous because it states, ``generally 
+the grant will initially be for one year.'' Corresponding language in 
+NOFOs is therefore already necessary to inform grant applicants and 
+recipients about the specific period of their grants. NOFO language 
+communicates that grants are awarded as a three year period of 
+performance with three distinct one-year budget periods.
+    Comments: ACF received three comments opposing the removal of Sec.  
+1351.14 arguing that the section still serves an important operational 
+purpose by giving stable regulatory direction for NOFO development and 
+grantee expectations, even when NOFOs vary from year to year. The 
+commenters emphasize subsection (b), which details the duration of 
+grants, arguing that it adds useful guidance on continuation awards by 
+making clear that multi-year grants should be reviewed annually for 
+satisfactory performance, essential for outcomes, accountability, and 
+responsible use of limited RHY funds.
+    Response: ACF agrees that providing clear information about grant 
+duration is important but declines to make any changes to our proposal 
+to remove this section from regulation. RHY NOFOs provide sufficient 
+clarity about project periods, deeming this section unnecessary. 
+Additionally, we do not anticipate that removal of this section will 
+have any impact on grant recipient performance or accountability. ACF 
+ensures responsible use of RHY Program funds by utilizing a robust 
+monitoring process that includes desk and onsite reviews of grant 
+recipients' compliance with program requirements and performance 
+standards. RHY grant recipients are also required to submit client-
+level and performance data through established reporting processes, 
+including quarterly Runaway and Homeless Youth--Homeless Management 
+Information System (RHY-HMIS) uploads, Performance Progress Reports 
+(PPRs), and other required reporting. Information gathered through 
+monitoring and data reporting may be used in decisions about future RHY 
+funding opportunities. Applicants are expected to look to NOFOs for 
+relevant grant terms, and centralizing requirements in one place will 
+reduce the administrative burden on applicants.
+
+[[Page 40430]]
+
+Sec.  1351.15 What costs are supportable under a Runaway and Homeless 
+Youth Program grant?
+    This section discusses allowable costs for RHY Program grants. We 
+are removing this section because grant terms and conditions, including 
+allowable expenditures of a grant, are best suited for NOFOs and other 
+grant documents and in most cases, already appear in those documents. 
+Including them in regulation is unnecessary.
+    Comment: We received four comments, all of which came from advocacy 
+organizations, specific to Sec.  1351.15. The commenters opposed 
+removal and argued that the section should remain in regulation because 
+it gives stable guidance on allowable costs, including support for 
+staff training, and helps providers plan, budget, and maintain 
+consistent services across grant cycles. Commenters said that this 
+clarity is especially important for smaller and community-based RHY 
+grant recipients that rely on regulatory language for fiscal decision-
+making, staff onboarding, compliance, and audit defense, and they raise 
+concerns that moving cost rules only into NOFOs could create confusion, 
+inconsistency, and service instability from year to year.
+    Response: ACF acknowledges commenter sentiment about the importance 
+of providing clear, consistent guidance to grant recipients, 
+particularly small, community-based grant recipients, about allowable 
+program costs. We do not agree, however, that removing this section of 
+the RHY regulation will negatively impact grant recipient access to 
+such information. Grant terms and conditions, including allowable 
+expenditures of a grant, are already included in NOFOs and other grant 
+documents. Grant recipients will already be looking to NOFOs for 
+relevant terms, and to win future awards, are incentivized to use 
+awarded funds in the most efficient manner. In addition, grant 
+recipients must meet the terms and conditions of their Federal award.
+    Furthermore, while Sec.  1351.15 includes several examples of 
+allowable costs for RHY programs, the list is not exhaustive. Rather, 
+all Federal grant recipients are bound by cost principles outlined in 2 
+CFR part 200, subpart E, which require all allowable costs to be 
+necessary, reasonable, and allocable the grant award. See 2 CFR 
+200.403-405. Retaining Sec.  1351.15 in regulation would still require 
+RHY grant recipients to determine whether unlisted costs meet these 
+Federal cost allocation standards, so its removal does not impose a 
+burden on grant recipients or create additional confusion. For these 
+reasons, we will proceed with removing this section from RHY 
+regulations.
+Sec.  1351.16 What costs are not allowable under a Runaway and Homeless 
+Youth Program grant?
+    This section discusses unallowable costs for RHY Program grants. As 
+with 45 CFR 1351.15, we are removing this section because grant terms 
+and conditions, including lists of unallowable expenditures of a grant, 
+are best suited for NOFOs and other grant documents. NOFOs already 
+include lists of unallowable expenses, including those listed in this 
+section.
+    This section is also duplicative in part. 45 CFR 1351.1 already 
+prohibits the activities described in 45 CFR 1351.16(b) under the 
+definitions of ``counseling services'' and ``health care services,'' 
+there is no need to include the same expense prohibition repeatedly in 
+the RHY regulations.
+    Comments: Most of the comments that we received on the NPRM either 
+directly or indirectly raised concerns about removing Sec.  1351.16 
+from regulation, particularly Sec.  1351.16(b). Seven advocacy 
+organizations opposed removal of this section. These commenters 
+expressed general concerns about removing regulatory guidance on 
+unallowable costs, asserting that the section provides stable, 
+practical guidance on allowable and unallowable costs that grant 
+recipients--especially smaller community-based organizations--use for 
+budgeting, compliance, training, and audits. One commenter reasoned 
+that ACF's decision to include a limitation on using RHY funds for 
+constructing or operating existing facilities that are used ``partially 
+or incidentally'' for RHY services in the 2016 Final Rule was because 
+grant applicants had proposed inappropriate budgets due to unclear 
+NOFOs, so retaining this section in regulation was necessary to 
+preserve clarity.
+    As discussed above, most commenters opposed removing Sec.  
+1351.16(b), arguing that this subsection's explicit prohibition on 
+efforts to change a young person's ``sexual orientation, gender 
+identity or gender expression'' is a critical youth safety protection 
+that should not be weakened or left to NOFO language alone. Many 
+commenter contend that including this prohibition in the definition 
+section of the RHY regulation (45 CFR 1351.1) is insufficient, because 
+the funding prohibition included in the definition of ``counseling 
+services'' may not fully cover harmful conduct by non-clinical staff., 
+Commenters expressed concern that removing Sec.  1351.16 could create 
+confusion, increase compliance risk, and discourage vulnerable youth, 
+particularly those identifying as ``LGBTQ,'' from seeking services. 
+Some commenters also viewed removal of this subsection as an 
+endorsement of conversion therapy, or ``a treatment that aims to change 
+someone's sexual orientation, gender identity or gender expression.''
+    Response: We recognize that our proposal to remove Sec.  1351.16 
+from RHY regulations raises concerns for some commenters. Nonetheless, 
+we disagree that removing this section will create instability for 
+grant applicants and recipients or that it will erode protections for 
+vulnerable youth. We offer the following explanations for our decision 
+to proceed with removal.
+    First, as with Sec.  1351.15, grant terms and conditions, including 
+unallowable expenditures of a grant, are already included in NOFOs and 
+other grant documents. Grant applicants and recipients must rely on 
+NOFOs to understand the terms of their grant, and providing clear, 
+detailed information about allowable and unallowable expenses in NOFOs 
+is the best way to ensure that grant applicants and recipients receive 
+all relevant information. While commenters pointed to earlier unclear 
+NOFOs as the 2016 RHY Final Rule's justification for including 
+limitations on using capital and operating costs for facilities only 
+partially or incidentally used for RHY programs, the Final Rule draws 
+no such conclusion. See Runaway and Homeless Youth, 81 FR 93030, 93042-
+43 (Dec. 20, 2016). Rather, the Final Rule states that ACF has ``seen 
+proposed project budgets that include disproportionate allocations of 
+facility-wide or overhead costs to Runaway and Homeless Youth projects 
+that use only a small proportion of the facility.'' Id. We maintain 
+that NOFOs are the most appropriate place to explain limitations on 
+capital and operating costs with RHY funds. Additionally, ACF has since 
+undergone significant efforts in recent years to ensure that NOFOs are 
+simple, clear, and accessible to grant applicants. See 89 FR 30046. 
+Even if funding opportunity announcements were insufficient to provide 
+applicants with clear funding guidance when the 2016 Final Rule was 
+published, ACF's updated efforts to streamline NOFOs will ensure that 
+grant applicants and recipients receive a clear explanation of 
+allowable and unallowable expenses without the need to include this 
+information in regulation.
+
+[[Page 40431]]
+
+    Further, as with Sec.  1351.15, the list of unallowable expenses in 
+Sec.  1351.16 is not exhaustive; the section lists only two examples of 
+unallowable expenses under the RHY program. Yet, all Federal grant 
+recipients are bound by cost principles outlined in 2 CFR part 200, 
+subpart E, which includes a long list of specific unallowable costs not 
+referenced in the RHY regulations. Grant recipients must still confirm 
+that all costs are allowable under Part 200, Subpart E, so Sec.  
+1351.16's presence in the RHY regulations creates, rather than reduces 
+burden for grant recipients.
+    We next address commenter concerns about removing Sec.  1351.16(b) 
+from RHY regulations and the impact that such removal would have on 
+vulnerable youth, including those who identify as ``LGBTQ.'' Sec.  
+1351.16(b) was added to the RHY regulations in the 2016 Final Rule 
+based on one commenter's request to specifically prohibit conversion 
+therapy. ACF responded that ``[w]e are not aware of any instance where 
+any RHY grantee has used `conversion therapy' or `reparative therapy' 
+to aim to change an individual's sexual orientation or gender identity. 
+However, we agree it would be wholly inappropriate for this to take 
+place and are amending this final rule to explicitly exclude, by 
+definition, conversion therapy from allowable services and health care 
+services. Additionally, we have revised the final rule by adding a new 
+Sec.  1351.16(b) . . . .'' Runaway and Homeless Youth, 81 FR 93030, 
+93045 (Dec. 20, 2016).
+    As explained in the 2016 Final Rule, Sec.  1351.16(b) is not the 
+only place in regulation that a prohibition on using RHY funds for 
+conversion therapy appears. Both the definition of ``counseling 
+services'' and the definition of ``health care services'' explicitly 
+prohibit ``any treatment or referral to treatment that aims to change 
+someone's sexual orientation, gender identity, or gender expression.'' 
+See 45 CFR 1351.1. The prohibition against using RHY funds remains 
+enshrined in regulation. Removing Sec.  1351.16(b) therefore cannot and 
+should not be viewed as an endorsement of conversion therapy, nor will 
+it weaken protections for vulnerable youth. ACF remains unaware of any 
+instance when RHY funds have been used for conversion therapy, and we 
+maintain that the prohibitions in Sec.  1351.1, which include referrals 
+for such services, are sufficient to prevent grant recipients from 
+using RHY funds for this purpose even when non-clinical staff are 
+involved.
+Sec.  1351.17 How is application made for a Runaway and Homeless Youth 
+Program grant?
+    This section discusses the process of applying for RHY Program 
+grants. This section is removed as it is unnecessary; it merely directs 
+grant applicants to follow the instructions in the NOFO (references in 
+regulation as ``funding opportunity announcements'') without further 
+detail or clarification.
+    Comments: ACF received one comment opposed to the removal of Sec.  
+1351.17 arguing that removal will lead to the destabilization of 
+services and confusion related to requirements. The comment raised 
+concerns that annual changes in NOFO content could be confusing for 
+programs applying to and receiving RHY grants.
+    Response: We acknowledge the commenter's concerns but disagree that 
+removing this section from the RHY regulations will cause any confusion 
+or destabilization. Sec.  1351.17 provides no substantive guidance and 
+instructs applicants to ``follow instructions included in the funding 
+opportunity announcement, which describe procedures for receipt and 
+review of applications.'' The section directs applicants to follow the 
+NOFO, which they are already obligated to do. Because NOFOs are issued 
+on an annual basis and may vary from year to year, applicants are 
+expected to review the instructions for preparing an application and 
+the specific requirements set forth in the NOFO applicable to the 
+relevant fiscal year when preparing their submissions. We will proceed 
+with removing this section from the RHY regulations.
+
+Subpart C--Additional Requirements
+
+Sec.  1351.20 What Government-wide and HHS-wide regulations apply to 
+these programs?
+    This section is removed because it is duplicative. The section 
+restates a list of Federal regulations applicable to RHY grant 
+recipients and subrecipients without explanation of why each regulation 
+is flagged yet excludes other Federal regulations that apply to all 
+grant recipients and subrecipients. See Runaway and Homeless Youth, 81 
+FR 93030, 93044-45 (Dec. 20, 2016) (``This new list does not attempt to 
+list all of the Federal laws and regulations . . . that pertain to 
+organizations that may be grant awardees.''). The listed regulations 
+apply to RHY grant recipients and subrecipients (and in many cases, all 
+HHS or Federal agency grant recipients and subrecipients) regardless of 
+whether they are included in the RHY regulations, and the arbitrary 
+nature by which the listed regulations were selected for inclusion 
+demonstrates further that this section serves no purpose.
+    Comment: ACF received two comments regarding the removal of Sec.  
+1351.20, one supporting removal and one opposing removal. The 
+supporting commenter agreed that the protections detailed in the list 
+of government-wide and HHS-wide regulations can be found elsewhere. A 
+national advocacy organization opposed removal of this section because 
+it contended that Sec.  1351.20 serves as a centralized reminder of RHY 
+grant recipients' civil rights and nondiscrimination responsibilities. 
+The commenter argued that deleting this section could reduce clarity on 
+legal obligations applicants and signal less emphasis on civil rights 
+compliance even if the underlying legal obligations still remain. The 
+opposing commenter expressed concern that removing this regulation 
+would threaten civil rights entirely without regulation to create 
+enforcement.
+    Response: We agree that grant applicants and recipients must 
+clearly understand their legal obligations but disagree that removing 
+this section will make such obligations more difficult to understand. 
+All Federal grant recipients, including RHY grant recipients, are 
+required to adhere to all applicable statutory and regulatory 
+requirements regardless of whether they are expressly stated in the 
+program regulation. See 2 CFR 200.300. Applicable civil rights laws are 
+also incorporated in all ACF NOFOs and in the ACF Standard Terms and 
+Conditions, incorporated into Notices of Awards for all ACF 
+discretionary grant recipients, including all RHY grant recipients. See 
+ACF Standard Terms and Conditions,  https://acf.gov/grants/manage-grant/grant-award/award-terms . As such, we will remove Sec.  1351.20 from 
+regulation.
+Sec.  1351.24 What are the additional requirements that the Basic 
+Center Program grantees must meet?
+    This section discusses requirements for the Basic Center Program 
+(BCP). This section is removed because it is unnecessary. Grant 
+requirements are better suited for NOFOs or other grant documents, such 
+as supplemental terms and conditions. Further, this section already 
+directs grant applicants and recipients to the NOFO (referred to as the 
+``funding opportunity announcement'') for additional requirements, 
+making any guidance provided by the regulation incomplete. See 45 CFR 
+1351.24(f).
+    Comment: ACF received eight comments, all from advocacy
+
+[[Page 40432]]
+
+organizations, opposing the removal of Sec.  1351.24 arguing that it 
+sets the core, legally enforceable baseline for BCP operations and 
+should not be shifted into NOFOs that may change from year to year. 
+Commenters noted that Sec.  1351.24 provides stable program 
+requirements for crisis response and service quality, including 24/7 
+intake and shelter access, trauma-informed practice, services for youth 
+and families both inside and outside the shelter setting, and prompt 
+family reunification efforts; they argued that removing it could create 
+confusion, inconsistency, and weaker accountability for grant 
+recipients across funding cycles. One commenter expressed concerns that 
+moving the requirements in Sec.  1351.24 to NOFOs could result in 
+future administrations eliminating the service requirements and 
+expectations.
+    Response: We agree with commenters that clear program requirements 
+are necessary for grant recipients to effectively carry out the BCP and 
+other RHY grant programs, but we disagree that regulation is the best 
+place for these requirements and, as such, decline to change our 
+proposal to remove this section from RHY regulations. The requirements 
+articulated in Sec.  1351.24 are rooted in the RHY statute, so they 
+will not become, as one commenter contends, ``entirely discretionary'' 
+if they are moved to the BCP NOFO. The RHY Act requires BCP grant 
+recipients to ``develop adequate plans for contacting the parents or 
+other relatives of the youth and ensuring the safe return of the youth 
+according to the best interests of the youth, for contacting local 
+government officials pursuant to informal arrangements established with 
+such officials by the runaway and homeless youth center and for 
+providing for other appropriate alternative living arrangements.'' 34 
+U.S.C. 11212(b)(3). The Act also requires BCP grant recipients to 
+``develop an adequate plan for providing counseling and aftercare 
+services to such youth, for encouraging the involvement of their 
+parents or legal guardians in counseling, and for ensuring, as 
+possible, that aftercare services will be provided to those youth who 
+are returned beyond the State in which the runaway and homeless youth 
+center is located.'' 34 U.S.C. 11212(b)(5). The requirements in Sec.  
+1351.24 provide more detail than the statutory mandates but may be 
+appropriately moved to NOFOs. Because the requirements are closely tied 
+to the statute, commenter concerns that future administrations may 
+fundamentally change them once they are moved to NOFOs are unfounded. 
+Additionally, centralizing requirements in the NOFO reduces the burden 
+for applicants, who must already review NOFOs in the regular course of 
+applying for grants, to fulfill both best practice and grant 
+requirements.
+Sec.  1351.25 What are the additional requirements that the 
+Transitional Living Program and Maternity Group Home grantees must 
+meet?
+    This section discusses additional requirements for the Transitional 
+Living Program (TLP) and Maternity Group Home (MGH) grant. This section 
+is removed because it is unnecessary. Grant requirements are better 
+suited for NOFOs or other grant documents, such as supplemental terms 
+and conditions. Further, this section already directs grant applicants 
+and recipients to the NOFO (referred to as the ``funding opportunity 
+announcement'') for additional requirements, making any guidance 
+provided by the regulation incomplete. See 45 CFR 1351.25(b).
+    Comment: ACF received eight comments, all from legal and advocacy 
+organizations, opposing the removal of Sec.  1351.25 arguing that it 
+provides an essential regulatory floor for TLP and MGH requirements. As 
+with comments concerning Sec.  1351.24, commenters asserted that 
+removing these requirements from regulation and shifting them to NOFOs 
+would create instability, confusion, and uneven expectations across 
+funding cycles, while weakening the consistent minimum standards that 
+RHY grant recipients rely on for service delivery, compliance, and 
+partnership coordination. Several of the commenters stated that TLP 
+requirements should remain explicit because they define the core model 
+of care for youth, including supportive services tied to long-term 
+stability, and that consolidation would blur important distinctions 
+between RHY program types.
+    Response: We acknowledge commenter concerns about the importance of 
+the requirements in this section and recognize the necessity of 
+providing consistent, comprehensive guidance for TLP and MGH grant 
+implementation. Nonetheless, we disagree that moving these requirements 
+to NOFOs will create instability, inconsistency, or otherwise weaken 
+RHY grant requirements and intend to remove this section of regulation. 
+Like the BCP requirements in Sec.  1351.24, the TLP and MGH 
+requirements listed in this section expand on requirements in the RHY 
+Act. See 34 U.S.C. 11222(a). The differences between the statutory and 
+regulatory requirements are minimal enough that NOFOs are an 
+appropriate mechanism for providing the additional details currently 
+available in Sec.  1351.25. ACF maintains that such grant requirements 
+are better suited for NOFOs or other grant documents than regulations. 
+Additionally, centralizing requirements in one location, such as the 
+NOFO, reduces the burden for applicants to fulfill both best practice 
+and grant requirement.
+Sec.  1351.27 What are the additional requirements that the Street 
+Outreach Program grantees must meet?
+    This section discusses requirements for Street Outreach Program 
+(SOP). This section is removed because it is unnecessary. Grant 
+requirements are better suited for NOFOs or other grant documents, such 
+as supplemental terms and conditions. Further, this Section already 
+directs grant applicants and recipients to the NOFO (referred to as the 
+``funding opportunity announcement'') for additional requirements, 
+making any guidance provided by the regulation incomplete. See 45 CFR 
+1351.27(c).
+    Comment: Eight commenters, all of which were advocacy or legal 
+organizations, oppose removal and describe the section as an important 
+regulatory anchor for the SOP. Commenters argue that it clarifies the 
+distinct purpose of the SOP in relation to other RHY programs, keeps 
+core duties explicit, such as helping youth leave the streets, make 
+safer choices, build trust, and connect to shelter and services, and 
+preserves a consistent minimum standard that should not be left solely 
+to changing NOFO language. Several of these commenters also argue that 
+removing Sec.  1351.27 could create inconsistent expectations across 
+funding cycles and weaken accountability for serving vulnerable youth. 
+One commenter, a national advocacy organization representing several 
+stakeholders, noted that the requirements listed in Sec.  1351.27 are 
+not listed in the RHY Act.
+    Response: We recognize the importance of distinguishing the SOP 
+from other RHY grant programs and the necessity of listing core duties 
+for the program, but we disagree that removing Sec.  1351.27 from the 
+RHY regulations will have the negative impact that the commenters 
+contemplate. We will proceed with removing this section from the RHY 
+regulations. As with Sec. Sec.  1351.24 and 1351.25, ACF maintains that 
+grant requirements are better suited for NOFOs or other grant 
+documents, such as supplemental terms and conditions. ACF can still 
+ensure that grant applicants and recipients recognize SOP's unique role 
+in the RHY Program if its program requirements are listed in
+
+[[Page 40433]]
+
+NOFOs rather than in regulation, and, while NOFOs may change annually, 
+we do not believe commenter concerns that program requirements will 
+become unstable as a result is justified.
+    The statutory authorization for the SOP is less specific than the 
+authorization for the BCP, TLP, and MGH programs. 34 U.S.C. 11261, 
+which authorizes the SOP, does not include detail for the kinds of 
+services that grant recipients must provide beyond a directive to 
+provide ``street-based services to runaway and homeless, and street 
+youth, who have been subjected to, or are at risk of being subjected 
+to, sexual abuse, prostitution, sexual exploitation, severe forms of 
+trafficking in persons (as defined in section 7102(9) of Title 22), or 
+sex trafficking (as defined in section 7102(10) of Title 22).'' Yet, 
+while Sec.  1351.27 provides more detail about what the required 
+``street-based services'' must include, such as ``services designed to 
+assist clients in leaving the streets, making healthy choices, and 
+building trusted relationships,'' the regulation section still leaves 
+significant ambiguity about the nature of such services and how those 
+services should be delivered. Including the requirements listed in 
+Sec.  1351.27 in NOFOs instead of regulation will therefore not weaken 
+RHY program requirements or jeopardize the standards of the SOP.
+
+VIII. Regulatory Process Matters
+
+Paperwork Reduction Act
+
+    Under the Paperwork Reduction Act (44 U.S.C. 3501 et seq., as 
+amended) (PRA), all Departments are required to submit to the Office of 
+Management and Budget (OMB) for review and approval any reporting or 
+recordkeeping requirements inherent in a proposed or final rule. This 
+final rule does not contain any information requiring OMB approval 
+under the PRA and, therefore, will not create any new paperwork burdens 
+or modify existing burdens subject to OMB review.
+
+Executive Order 13132
+
+    Executive Order 13132 requires federal agencies to consult with 
+State and local government officials if they develop regulatory 
+policies with federalism implications. Federalism is rooted in the 
+belief that issues that are not national in scope or significance are 
+most appropriately addressed by the level of government close to the 
+people. This final rule does not have substantial direct impact on the 
+States, on the relationship between the federal government and the 
+States, or on the distribution of power and responsibilities among the 
+various levels of government. This final rule does not pre-empt State 
+law. The sections the final rule is removing are duplicative and 
+unnecessary regulations from the Family and Youth Services Bureau 
+rules. Therefore, in accordance with Section 6 of Executive Order 
+13132, it is determined that this action does not have sufficient 
+federalism implications to warrant the preparation of a federalism 
+summary impact statement.
+Assessment of Federal Regulations and Policies on Families
+    Assessment of Federal Regulations and Policies on Families Section 
+654 of the Treasury and General Government Appropriations Act of 1999 
+(Pub. L. 105-277) requires federal agencies to determine whether a 
+policy or regulation may negatively affect family well-being. If the 
+agency determines a policy or regulation negatively affects family 
+well-being, then the agency must prepare an impact assessment 
+addressing seven criteria specified in the law. ACF believes it is not 
+necessary to prepare a family policymaking assessment because the 
+actions in this final rule will not have any impact on the autonomy or 
+integrity of the family as an institution.
+
+IX. Regulatory Impact Analysis
+
+    We have examined the impacts of the proposed rule under Executive 
+Order 12866, Executive Order 13563, Executive Order 14192, the 
+Regulatory Flexibility Act (5 U.S.C. 601-612), and the Unfunded 
+Mandates Reform Act of 1995 (Pub. L. 104-4).
+    Executive Orders 12866 and 13563 direct us to assess all benefits 
+and costs of available regulatory alternatives and, when regulation is 
+necessary, to select regulatory approaches that maximize net benefits. 
+Rules are ``significant'' under Executive Order 12866 Section 3(f)(1) 
+if they ``have an annual effect on the economy of $100 million or more; 
+or adversely affect in a material way the economy, a sector of the 
+economy, productivity, competition, jobs, the environment, public 
+health or safety, or State, local or tribal governments or 
+communities.'' Executive Order 14192 requires that any new incremental 
+costs associated with significant new regulations ``shall, to the 
+extent permitted by law, be offset by the elimination of existing costs 
+associated with at least ten prior regulations.'' The Office of 
+Information and Regulatory Affairs (OIRA) has determined that this 
+final rule is not a significant action under Executive Order 12866 
+Section 3(f).
+    The Regulatory Flexibility Act (RFA) requires agencies to consider 
+the impact of their regulatory proposals on small entities. Because 
+this is simply repealing obsolete and unnecessary language, we certify 
+that the final rule does not have a significant economic impact on a 
+substantial number of small entities.
+    The Unfunded Mandates Reform Act of 1995 (UMRA) generally requires 
+that each agency conduct a cost-benefit analysis; identify and consider 
+a reasonable number of regulatory alternatives; and select the least 
+costly, most cost effective, or least burdensome alternative that 
+achieves the objectives of the rule before promulgating any proposed or 
+final rule that includes a Federal mandate that may result in 
+expenditures of more than $100 million (adjusted for inflation) in at 
+least one year by State, local, and tribal governments, in the 
+aggregate, or by the private sector. Each agency issuing a rule with 
+relevant effects over that threshold must also seek input from State, 
+local, and tribal governments. The current threshold after adjustment 
+for inflation is $193 million, using the most current (2005) Implicit 
+Price Deflator for the Gross Domestic Product. This final rule would 
+not result in an expenditure in any year that meets or exceeds this 
+amount.
+
+VII. Tribal Consultation Statement
+
+    Executive Order 13175, Consultation and Coordination with Indian 
+Tribal Governments, requires agencies to consult with Indian Tribes 
+when regulations have ``substantial direct effects on one or more 
+Indian Tribes, on the relationship between the Federal Government and 
+Indian Tribes, or on the distribution of power and responsibilities 
+between the Federal Government and Indian Tribes.'' Similarly, ACF's 
+Tribal Consultation Policy says that consultation is triggered for any 
+legislative proposal, new rule adoption, or other policy change that 
+significantly affects Tribes, meaning there exists a reasonable 
+presumption that it has or may have substantial direct effects on one 
+or more Indian Tribes, on the relationship between the Federal 
+Government and Indian tribes, on the amount or duration of ACF program 
+funding, on the delivery of ACF programs or services to one or more 
+Indian Tribes, or on the distribution of power and responsibilities 
+between the Federal Government and Indian Tribes.
+
+List of Subjects in 45 CFR Part 1351
+
+    Administrative practice and procedure, Grant programs--social 
+programs, Homeless, Reporting and
+
+[[Page 40434]]
+
+recordkeeping requirements, Technical assistance, Youth.
+
+    For the reasons set forth in the preamble, ACF amends 45 CFR part 
+1351 as follows:
+
+PART 1351--RUNAWAY AND HOMELESS YOUTH PROGRAM
+
+0
+1. The authority citation for part 1351 continues to read as follows:
+
+    Authority:  42 U.S.C. 5701.
+
+Sec. Sec.  1351.10, 1351.11, 1351.12, 1351.13, 1351.14, 1351.15, 
+1351.16, 1351.17, 1351.20, 1351.24, 1351.25, and 1351.27  [Removed and 
+Reserved]
+
+0
+2. Sections 1351.10, 1351.11, 1351.12, 1351.13, 1351.14, 1351.15, 
+1351.16, 1351.17, 1351.20, 1351.24, 1351.25, and 1351.27 are removed 
+and reserved.
+
+Robert F. Kennedy, Jr.,
+Secretary, Department of Health and Human Services.
+[FR Doc. 2026-13451 Filed 7-1-26; 8:45 am]
+BILLING CODE 4184-33-P

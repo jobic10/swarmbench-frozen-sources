@@ -1,0 +1,2668 @@
+[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Rules and Regulations]
+[Pages 39465-39487]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13137]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HOMELAND SECURITY
+
+Coast Guard
+
+33 CFR Parts 140 and 146
+
+46 CFR Parts 4 and 109
+
+[Docket No. USCG-2013-1057]
+RIN 1625-AB99
+
+Marine Casualty Reporting on the Outer Continental Shelf
+
+AGENCY: Coast Guard, DHS.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This final rule revises marine casualty reporting criteria for 
+Outer Continental Shelf (OCS) activities to focus on characteristics of 
+the involved entity rather than location of the casualty. It also 
+raises the property damage dollar threshold (PDT) for reporting marine 
+casualties involving fixed OCS facilities from $25,000 to $75,000 and 
+aligns other OCS units with that threshold, consistency with the PDT 
+for vessels in U.S. waters. The rule reduces costs to U.S. industry by 
+$10,775 over 10 years and better harmonizes reporting requirements 
+between U.S. and foreign floating offshore facilities, mobile offshore 
+drilling units, and vessels engaged in OCS activities.
+
+DATES: This final rule is effective July 30, 2026.
+
+ADDRESSES: To view documents mentioned in this preamble as being 
+available in the docket, go to  https://www.regulations.gov , type USCG-
+2013-1057 in the search box and click
+
+[[Page 39466]]
+
+``Search.'' Next, in the Document Type column, select ``Supporting & 
+Related Material.''
+
+FOR FURTHER INFORMATION CONTACT: For information about this document 
+call or email Mr. David W. Deaver, Office of Investigations and 
+Casualty Analysis, Coast Guard; telephone 202-527-2316, email 
+  [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION:
+
+Table of Contents for Preamble
+
+I. Abbreviations
+II. Executive Summary
+III. Basis, Purpose, and Regulatory History
+IV. Background
+V. Discussion of Comments and Changes from SNPRM
+VI. Discussion of the Rule
+VII. Regulatory Analyses
+    A. Regulatory Planning and Review
+    B. Small Entities
+    C. Assistance for Small Entities
+    D. Collection of Information
+    E. Federalism
+    F. Unfunded Mandates
+    G. Taking of Private Property
+    H. Civil Justice Reform
+    I. Protection of Children
+    J. Indian Tribal Governments
+    K. Energy Effects
+    L. Technical Standards
+    M. Environment
+
+I. Abbreviations
+
+BLS U.S. Bureau of Labor Statistics
+BSEE Bureau of Safety and Environmental Enforcement
+CFR Code of Federal Regulations
+COI Collection of information
+DHS Department of Homeland Security
+FOF Floating OCS facility
+FR Federal Register
+FRFA Final Regulatory Flexibility Analysis
+MISLE Marine Information for Safety and Law Enforcement
+MODU Mobile offshore drilling unit
+NAICS North American Industry Classification System
+NCOE National Center of Expertise
+NOSAC National Offshore Safety Advisory Committee
+NPDES National Pollutant Discharge Elimination System
+NPRM Notice of proposed rulemaking
+OCMI Officers in Charge, Marine Inspection
+OCS Outer Continental Shelf
+OCSLA Outer Continental Shelf Lands Act
+OMB Office of Management and Budget
+PDT Property damage dollar threshold
+RA Regulatory analysis
+RCC Rescue Coordination Center
+SNPRM Supplemental notice of proposed rulemaking
+Secretary Secretary of the Department of Homeland Security
+Sec.  Section
+U.S.C. United States Code
+
+II. Executive Summary
+
+    There are currently two different marine casualty reporting regimes 
+that apply to entities on the Outer Continental Shelf (OCS). One regime 
+focuses on casualties involving U.S.-flagged vessels, and the other 
+focuses on casualties involving foreign-flagged vessels and all 
+entities fixed to the seabed. Placing various entities into one regime 
+or the other has occurred over time; however, developments in 
+technology have blurred the distinctions between the types of entities, 
+and the law governing these entities has evolved. As a result, placing 
+fixed or floating entities into one regime or the other reflects 
+historical considerations instead of practical considerations.
+    The primary purpose of this final rule is to harmonize 
+applicability provisions for the two marine casualty reporting regimes 
+under 46 CFR part 4 and 33 CFR subchapter N. To achieve that alignment, 
+we also had to consider some of the changes in technology used on the 
+OCS since the regulations for marine casualty reporting in 33 CFR 
+subchapter N were first published in 1982.
+    As a consequence of this realignment, we have grouped entities into 
+two groups for reporting purposes. We categorize them roughly as fixed 
+entities and floating entities. Floating entities include both U.S.- 
+and foreign-flagged mobile offshore drilling units (MODUs), floating 
+OCS facilities (FOFs), and vessels. Fixed entities include OCS 
+facilities affixed to the OCS, such as U.S.- and foreign-flagged MODUs 
+affixed to the seabed.
+    This final rule makes those floating entities not already subject 
+to existing reporting requirements found in 46 CFR part 4, subject to 
+part 4. Part 4 of title 46 of the CFR, Marine Casualties and 
+Investigations, already generally applies to casualties occurring on 
+the U.S. navigable waters and to U.S.-flagged vessels involved in 
+casualties wherever located.
+    Finally, to harmonize the reporting threshold for fixed OCS 
+facilities with the threshold for vessels, we are raising the property 
+damage casualty reporting threshold for fixed OCS facilities from 
+$25,000 to $75,000.00. The legal basis of this rulemaking is 43 U.S.C. 
+1333(d)(1) and Department of Homeland Security (DHS) Delegation No. 
+00170.1, Revision No. 01.4, paragraph 90.
+    The economic impact of this final rule is a cost savings to U.S. 
+industry of about $10,775 over a 10-year period in 2023 dollars and 
+discounted to 7 percent, or $1,534 annualized. Because of this final 
+rule's further application to foreign vessels, there is also a net cost 
+of $94,977 to foreign industry over a 10-year period, or $13,523 
+annualized. These net costs include the cost of increased reporting and 
+cost savings from raising the property damage threshold. The cost of 
+increased reporting is estimated at $107,218 for foreign industry over 
+a 10-year period, or $15,265 annualized, and $26,107 to the U.S. 
+Government over a 10-year period, or $3,717 annualized. Cost savings 
+from raising the property damage threshold are estimated at $12,241 for 
+foreign industry over a 10-year period, or $1,743 annualized. The 
+affected population that will now report casualties under 46 CFR part 4 
+includes 649 foreign-flagged entities, including MODUs, FOFs, and 
+vessels; 1,385 fixed platforms will continue to report under 33 CFR 
+part 146.
+
+III. Basis, Purpose, and Regulatory History
+
+    Through 43 U.S.C. 1333(d)(1), Congress authorizes the Secretary of 
+the Department in which the Coast Guard is operating to promulgate and 
+enforce reasonable regulations to promote the safety of life and 
+property on artificial islands on the OCS, and on installations and 
+other devices permanently or temporarily attached to the seabed of the 
+OCS, as well as in waters adjacent to such artificial islands, 
+installations, or devices. The Coast Guard operates under DHS except 
+when it is operating as a service in the U.S. Navy per 14 U.S.C. 103, 
+and it is presently operating in DHS. The Secretary of the Department 
+of Homeland Security (Secretary) delegated their authority under 
+section 1333(d)(1) to the Commandant of the Coast Guard through DHS 
+Delegation No. 00170.1, Revision No. 01.4, paragraph 90.
+    This rulemaking began with a notice of proposed rulemaking (NPRM) 
+titled ``Marine Casualty Reporting on the Outer Continental Shelf,'' 
+published on January 10, 2014 (79 FR 1780). In the NPRM, we explained 
+our rationale for changing the criteria under which MODUs, FOFs, and 
+vessels engaged in OCS activities report marine casualties, 
+specifically to improve the Coast Guard's ability to capture data on 
+casualties that occur on the U.S. OCS.
+    Subsequently, we published a supplemental notice of proposed 
+rulemaking (SNPRM) titled ``Marine Casualty Reporting on the Outer 
+Continental Shelf'' \1\ with a 90-day comment period on June 14, 2023 
+(88 FR 38765). The SNPRM, which completely replaced the 2014 NPRM, 
+differed from the NPRM primarily in two ways. First, we decided not to 
+pursue changing the casualty reporting requirement for fixed OCS 
+facilities as we proposed in the NPRM. Second, we decided to propose 
+increasing the property damage dollar reporting
+
+[[Page 39467]]
+
+threshold to $75,000, thereby aligning the threshold reporting 
+requirements of title 33 of the CFR with those of title 46 of the CFR.
+---------------------------------------------------------------------------
+
+    \1\ 88 FR 38765, June 14, 2023.
+---------------------------------------------------------------------------
+
+    This final rule, which revises and finalizes the regulations 
+detailed in the SNPRM, improves the regulatory scheme in two ways. 
+First, this final rule enables the Coast Guard to collect more 
+comprehensive data on casualties occurring on the OCS than the Coast 
+Guard could previously. That, in turn, helps the Coast Guard better 
+protect the safety of life and property on the OCS, and to account for 
+changes in technology, which improves the Coast Guard's maritime domain 
+awareness. Second, this final rule reduces the regulatory burden on 
+fixed OCS facilities by raising the monetary property damage threshold 
+for reporting a marine casualty from $25,000 to $75,000. Further 
+details on the changes from the SNPRM to final rule are shown in table 
+2.
+
+IV. Background
+
+    The Coast Guard's regulations in 33 CFR subchapter N \2\ apply to 
+OCS facilities, such as FOFs and fixed OCS facilities, as well as to 
+vessels, such as MODUs \3\ and to other units engaged in OCS 
+activities. Among these regulations in subchapter N are regulations for 
+reporting casualties on the OCS. These reside in 33 CFR part 146, 
+Operations.
+---------------------------------------------------------------------------
+
+    \2\ 33 CFR subchapter N consists of parts 140 through 147.
+    \3\ Definitions of ``OCS facility,'' ``floating OCS facility,'' 
+``fixed OCS facility,'' and ``MODU'' are provided in 33 CFR 140.10.
+---------------------------------------------------------------------------
+
+Differences in Marine Casualty Reporting Regimes Before the Final Rule
+
+    The owner, operator, or person in charge of a U.S.- or foreign-
+flagged MODU, FOF, fixed OCS facility, or vessel must submit marine 
+casualty reports according to the applicable regulations. Section 
+146.30 of title 33 of the CFR applies to U.S. and foreign OCS 
+facilities, including MODUs affixed to the seabed. Sections 146.301 and 
+146.303 of title 33 of the CFR apply both to U.S. and foreign vessels, 
+including MODUs that are engaged in OCS activities, but which are not 
+affixed to the seabed. However, Sec. Sec.  146.301 and 146.303 do not 
+apply to those U.S. vessels, including MODUs,\4\ which are already 
+required to report marine casualties under 46 CFR subpart 4.05.
+---------------------------------------------------------------------------
+
+    \4\ On December 14, 1987 (52 FR 47526, 47536), the Coast Guard 
+amended 46 CFR 109.411 to require the owner, operator, or person in 
+charge of a U.S. MODU to report accidents in accordance with 46 CFR 
+part 4.
+---------------------------------------------------------------------------
+
+    The criteria for reporting casualties are not identical between 
+titles 33 and 46 of the CFR. The differences in these regulations stem 
+from the fact that the original casualty reporting regulations in title 
+33 of the CFR published on February 9, 1956 (21 FR 900) applied only to 
+stationary artificial islands and fixed structures. On March 4, 1982 
+(47 FR 9366), the Coast Guard extended the application of these 
+regulations to floating facilities and vessels engaged in OCS 
+activities to implement amendments to the Outer Continental Shelf Lands 
+Act (OCSLA) (Pub. L. 95-372). However, the reporting criteria in 46 CFR 
+part 4 do not align with the reporting criteria currently found in 33 
+CFR part 146. As table 1 shows, the result of evolving the casualty 
+reporting requirements on the OCS is that U.S. MODUs are regulated by 
+two different reporting regimes, and the casualty reporting 
+requirements for foreign MODUs are less stringent than those for U.S. 
+MODUs.
+
+                           Table 1--Coast Guard Marine Casualty Reporting Requirements
+----------------------------------------------------------------------------------------------------------------
+                Topic                           33 CFR part 146                        46 CFR part 4
+----------------------------------------------------------------------------------------------------------------
+Statutory authority..................  43 U.S.C. 1333...................  43 U.S.C. 1333; 46 U.S.C. 2103, 2303a,
+                                                                           2306, 6101, 6301.
+Applies to...........................  U.S. and foreign FOFs, fixed OCS   U.S. vessels and MODUs in any waters.
+                                        facilities, and MODUs when in     Foreign vessels in U.S. waters.
+                                        contact with the seabed, and
+                                        vessels engaged in OCS
+                                        activities.
+Reportable casualties................  No similar requirement for vessel  Vessel in distress or loss of
+                                        in distress.                       communication with vessel.
+                                       Death............................  Death.
+                                       Injuries to 5+ persons...........  Injury.
+                                       Incapacitation > 72 hours........  No similar incapacitation requirement.
+                                       Property damage > $25,000........  Property damage > $75,000.
+                                       Damage affecting the usefulness    Grounding.
+                                        of primary lifesaving or          Allision.
+                                        firefighting equipment.
+                                                                          Loss of--
+                                                                            Main propulsion.
+                                                                            Primary steering.
+                                                                            Associated systems or
+                                                                           components affecting maneuverability.
+                                                                          Impairment of--
+                                                                            Vessel operation.
+                                                                            Vessel components.
+                                                                            Cargo.
+                                                                          Material or adverse impact to
+                                                                           vessel's--
+                                                                            Seaworthiness.
+                                                                            Fitness for service.
+                                                                            Fitness for route.
+                                                                          * Examples--fire, flooding, failure of
+                                                                           or damage to fire extinguishing,
+                                                                           lifesaving, auxiliary power, and
+                                                                           bilge pumping systems.
+                                                                          Significant harm to the environment.
+When to report.......................  As soon as possible..............  Immediately after addressing resultant
+                                                                           safety concerns.
+Subsequent reports...................  Within 10 days, describe possible  Within 5 days, written casualty report
+                                        contributing factors.              required.
+Alcohol/drug testing.................  Required.........................  Required.
+----------------------------------------------------------------------------------------------------------------
+
+    Under 33 CFR 146.30, for facilities, and 33 CFR 146.303 for 
+vessels, the owner, operator, or person in charge of an FOF, a fixed 
+OCS facility, a MODU (when in contact with the seabed of the OCS for 
+exploration or exploitation of subsea resources), or a vessel when 
+engaged in OCS activities must report to the Coast Guard as soon as 
+possible any casualties involving:
+      Death;
+      Injury to five or more persons in a single incident;
+      Injury causing any person to be incapacitated for more 
+than 72 hours;
+
+[[Page 39468]]
+
+      Damage affecting the usefulness of primary lifesaving or 
+firefighting equipment; and
+      Certain other property damage in excess of $25,000.
+    The reporting party must follow up the initial report with a 
+written report that contains a description of the factors that may have 
+contributed to the casualty, including whether there is any evidence of 
+alcohol or drug use by individuals directly involved in the casualty. 
+The written report must be submitted on Coast Guard Form CG-2692 
+``Report of Marine Casualty, Commercial Diving Casualty, or OCS-Related 
+Casualty'' or in a narrative that supplies the same information as in 
+the form. The CG-2692 form or narrative can be supplemented, as 
+necessary, by appended Forms CG-2692 A ``Barge Addendum,'' CG-2692B 
+``Report of Mandatory Chemical Testing Following a Serious Marine 
+Incident Involving Vessels in Commercial Service,'' CG-2693C 
+``Personnel Casualty Addendum,'' or CG-2692D ``Involved Persons and 
+Witnesses Addendum.'' \5\
+---------------------------------------------------------------------------
+
+    \5\ The CG-2692 form and other CG-2692 addendum forms are 
+accessible at  https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Office-of-Investigations-Casualty-Analysis/2692-Reporting-Forms-NVIC-01-15/ ; accessed 01/21/2026.
+---------------------------------------------------------------------------
+
+    U.S. vessels operating anywhere and foreign vessels operating 
+within the navigable waters of the United States are subject to the 
+marine casualty reporting requirements found in 46 CFR part 4. The 
+regulations in 46 CFR part 4 also apply to U.S. MODUs operating on the 
+OCS because 46 CFR 109.411 requires U.S. MODUs to report casualties in 
+accordance with 46 CFR part 4. U.S. FOFs also report casualties under 
+46 CFR part 4. Part 4 of title 46 of the CFR does not apply to foreign 
+MODUs, FOFs, or vessels operating on waters beyond the navigable waters 
+of the United States, except for certain foreign tank vessels operating 
+in the Exclusive Economic Zone. See 46 CFR 4.05-2(b).
+    Under 46 CFR part 4, a vessel's owner, agent, master, operator, or 
+person-in-charge must report any casualties to the Coast Guard, as 
+required by 46 CFR 4.05-1. The initial marine casualty report required 
+under 46 CFR 4.05-1 must be followed within 5 days by a written report 
+on the CG-2692 form. See 46 CFR 4.05-10. Additionally, under 46 CFR 
+4.05-12, the Coast Guard requires the marine employer to determine 
+whether there is any evidence of alcohol or drug use by individuals 
+directly involved in the casualty. This information can be included on 
+the CG-2692 form or, as necessary, on a CG-2692B form. Reports for 
+closed investigations of reportable marine casualties investigated by 
+the Coast Guard from 2002 to the current year are publicly available at 
+the USCG Maritime Information Exchange.\6\
+---------------------------------------------------------------------------
+
+    \6\  https://cgmix.uscg.mil/IIR/Default.aspx . Users should select 
+``Search IIR'' in the top left corner; accessed 01/21/2026.
+---------------------------------------------------------------------------
+
+Need for Aligning Marine Casualty Reporting Regimes
+    A fatal incident in 2010 that resulted in the largest oil spill in 
+U.S. history illustrates the discrepancies between the two reporting 
+regimes. On April 20, 2010, the foreign MODU Deepwater Horizon was 
+performing drilling operations on the Macondo Well. That evening, an 
+explosion and fire took 11 lives, injured 16 others, and severely 
+crippled and sank the MODU. The casualty resulted in a continuous flow 
+of hydrocarbons into the Gulf of America for 87 days, causing 
+significant environmental damage to the Gulf of America.\7\
+---------------------------------------------------------------------------
+
+    \7\ Report of Investigation into the Circumstances Surrounding 
+the Explosion, Fire, Sinking and Loss of Eleven Crew Members Aboard 
+the MOBILE OFFSHORE DRILLING UNIT DEEPWATER HORIZON In the GULF OF 
+MEXICO April 20-22, 2010, Vol. I, MISLE Activity Number 3721503, 
+ dco.uscg.mil/Portals/9/OCSNCOE/Casualty-Information/DWH-Macondo/USCG-ROI-Deepwater-Horizon-Vol-I-Redacted.pdf?ver=2ezL6ldZjL6mCRGZE28pXQ%3d%3d ; accessed 01/21/2026.
+---------------------------------------------------------------------------
+
+    During their casualty analysis, the members of the Marine Board of 
+Investigation for the Deepwater Horizon \8\ incident noted the 
+inconsistencies between the marine casualty reporting criteria in 33 
+CFR part 146 and 46 CFR part 4. In their accident report, the board 
+members emphasized the disparate casualty reporting and chemical 
+testing requirements between U.S. MODUs and foreign MODUs operating 
+beyond navigable waterways of the United States.
+---------------------------------------------------------------------------
+
+    \8\ Ibid.
+---------------------------------------------------------------------------
+
+    The investigative team noted that the Deepwater Horizon had 
+experienced a flooding and total loss of power events in 2008, but 
+because of the marine casualty reporting criteria in 33 CFR subchapter 
+N, the flooding and loss of power events were not considered reportable 
+marine casualties that would have been reported to the Coast Guard. The 
+investigative team stated in their report the following:
+
+    Had Deepwater Horizon been required to report to the Coast Guard 
+marine casualties described in 46 CFR 4.05-1, it would have had to 
+report both 2008 incidents, which in turn likely would have led to 
+the identification of the systemic failure of the vessel's work 
+permit system. It also likely would have led to scrutiny of the 
+vessel's SMS and a requirement that corrections be made. Reporting 
+of marine casualties allows the Coast Guard to identify trends and 
+safety issues across specific industries or types of vessels to be 
+investigated, evaluated and addressed.\9\
+---------------------------------------------------------------------------
+
+    \9\ Ibid.
+
+    As a result of this investigation, the Commandant directed the 
+Coast Guard to amend subchapter N to align reporting requirements 
+between U.S.- and foreign-flagged MODUs engaged in OCS activities. The 
+risks are similar for other floating entities and vessels engaged in 
+OCS activities.
+    U.S. MODUs, FOFs, and vessels engaged in OCS activities report 
+casualties under 46 CFR part 4, while foreign MODUs, FOFs, and vessels 
+engaged in OCS activities report casualties under 33 CFR part 146. The 
+reporting criteria in 33 CFR part 146 includes fewer types of 
+casualties than the reporting criteria in 46 CFR part 4. Thus, foreign 
+MODUs, FOFs, and vessels engaged in OCS activity have a less 
+comprehensive casualty-reporting regime than their U.S. counterparts. 
+These differences are important in the offshore oil and gas 
+exploration, development, and production industry because a lack of 
+casualty data could hamper early detection of risks.
+    As the coastal State with jurisdiction, we note that the reporting 
+criteria under 46 CFR part 4 has the same casualty reporting standards 
+for foreign MODUs, floating facilities, and vessels that engage in OCS 
+activities as their U.S. counterparts. Additionally, having a uniform 
+reporting standard for both U.S. and foreign MODUs, FOFs, and vessels 
+that engage in OCS activities equalizes the regulatory burden.
+    Further, the casualty reporting regulations in 33 CFR subchapter N 
+and 46 CFR part 4 reflect neither technological developments nor 
+present-day operations in the OCS industry since the Coast Guard 
+updated marine casualty reporting requirements on the OCS in 1982. At 
+that time, MODUs affixed to the seabed, such as jack-up units, 
+conducted most of the oil and natural gas exploration on the OCS in 
+waters to about 500 feet deep. Similarly, oil and gas companies erected 
+fixed facilities to produce oil and natural gas because these types of 
+facilities are feasible to the same 500-foot water depth.
+    Over the past 30 years, the use of floating MODUs and facilities 
+has become commonplace, as exploration and production activities moved 
+into increasingly deeper waters of the OCS. Today, MODUs and FOFs 
+operate in
+
+[[Page 39469]]
+
+waters deeper than 5,000 feet. They also operate much farther offshore, 
+and, consequently, more distant from emergency assistance. These MODUs 
+and floating facilities are more like ocean-going vessels than older 
+MODUs or fixed OCS facilities grounded to the seabed.
+    Therefore, in this final rule, as noted in the SNPRM and NPRM, the 
+Coast Guard changes the criteria that foreign MODUs, FOFs, and vessels 
+engaged in OCS activities will use to report casualties. This action 
+will improve collection and analysis of casualty information on the OCS 
+to help the Coast Guard and industry develop policies and procedures 
+that prevent future marine casualties.
+Raising the Property Damage Threshold
+    In this final rule, as noted in the SNRPM, the Coast Guard raises 
+the dollar threshold for reporting property damage under 33 CFR part 
+146. The Coast Guard established the property damage threshold of 
+$25,000 in 33 CFR part 146 through a final rule that published on March 
+4, 1982 (47 FR 9366).
+    The $25,000 threshold has not been changed in over 30 years and has 
+not kept pace with inflation. Over time, this has resulted in reports 
+of a greater number of casualties involving relatively minor property 
+damage. In the regulatory analysis (RA), we address the reduction of 
+regulatory burden from not having to report marine casualties with less 
+than $75,000 in property damage.
+    Until recently, a similar situation existed with reporting property 
+damage under 46 CFR part 4. In that case, to account for inflation, the 
+Coast Guard published a final rule titled ``Marine Casualty Reporting 
+Property Damage Thresholds'' on March 19, 2018 (83 FR 11889) (hereafter 
+the 2018 Final Rule). In that final rule, the Coast Guard raised the 
+property damage reporting criteria in 46 CFR part 4 from $25,000 per 
+incident to $75,000 based on the increase in the Consumer Price Index 
+for all urban consumers between 1980 (82.408) and 2016 (240.007).\10\
+---------------------------------------------------------------------------
+
+    \10\ 2016 was the most recent full year of data available at the 
+time of the analysis for the final rule (83 FR 11889, March 19, 
+2018). See CPI Detailed Report, Data for December 2016, Table 24, 
+ https://www.bls.gov/cpi/tables/historical-cpi-u-201710.pdf ; accessed 
+01/26/2026.
+---------------------------------------------------------------------------
+
+    The original $25,000 threshold had not been selected arbitrarily. 
+In the NPRM for the 2018 Final Rule, we quoted from a 1980 interim 
+final rule to explain that ``the Coast Guard's selection of a monetary 
+value as a reporting criterion is based upon the premise that increased 
+repair costs are indicative of the increased seriousness of a marine 
+casualty. . . . The monetary damage criterion has been chosen as the 
+most effective method of ensuring that only the more serious casualties 
+are reported.'' (45 FR 77439, 77440). Accordingly (as we had explained 
+in the NPRM to the 2018 Final Rule), ``it has never been our intent to 
+require owners or operators to notify us of casualties involving 
+relatively minor property damage; consequently, we are amending the 
+property damage monetary threshold amounts in order to eliminate the 
+reporting of insignificant property damage incidents.'' (82 FR 7755, 
+7756.)
+    The Coast Guard believes the property damage threshold in 33 CFR 
+part 146 should be consistent with the threshold in 46 CFR part 4. 
+Accordingly, this final rule results in a $75,000 property damage 
+dollar threshold (PDT) for OCS units, which has the practical effect of 
+reducing confusion across regulatory frameworks. It amends 33 CFR part 
+146 to apply this PDT increase to fixed OCS facilities and 46 CFR part 
+4 to make MODUs, floating offshore facilities, and vessels operating on 
+the OCS subject to reporting criteria already subject to that PDT.
+
+V. Discussion of Comments and Changes From SNPRM
+
+    The Coast Guard received 11 comment submissions from the SNPRM 
+comment period.\11\ During the SNPRM's initial 90-day comment period, 
+beginning on June 14, 2023, the Coast Guard received a comment 
+requesting an extension of the comment period. The Coast Guard granted 
+this request and, on September 12, 2023, published an extension of the 
+comment period (88 FR 62491) for an additional 60 days until November 
+13, 2023. These written submissions can be viewed in the docket 
+following the instructions in the ADDRESSES section of the preamble. 
+The Coast Guard appreciates the comments from the public, as these 
+insights continue to inform Coast Guard actions and programs. We 
+summarize the comments by topic and discuss our responses in the 
+following paragraphs.
+---------------------------------------------------------------------------
+
+    \11\ In the SNPRM, we responded to comments submitted during the 
+NPRM comment period. See Section VII of the preamble to the SNPRM 
+(Discussion of Comments on the 2014 NPRM), which begins at 88 FR 
+38770.
+---------------------------------------------------------------------------
+
+General Comments
+
+    The Coast Guard received one comment requesting a comment period 
+extension and a public meeting. The initial SNPRM comment period was 
+set for 90 days, which we extended for an additional 60 days upon 
+request. Because the comment period was 150 days, we determined a 
+public meeting was unnecessary as 5 months is sufficient time for 
+comments.\12\
+---------------------------------------------------------------------------
+
+    \12\ 88 FR 62491, September 12, 2023.
+---------------------------------------------------------------------------
+
+    We received another comment recommending we use input from the U.S. 
+Coast Guard OCS National Center of Expertise (NCOE) when drafting 
+rulemakings related to operations on the OCS. In line with the 
+commenter's suggestion, the Coast Guard received input from the OCS 
+NCOE when drafting this regulation.
+
+Property Damage Threshold
+
+    One commenter recommended keeping a $25,000 threshold for reporting 
+property damage for continuity and consistency. Another commenter 
+recommended increasing the reporting threshold from $75,000 to 
+$250,000.
+    The Coast Guard does not agree with keeping the threshold for 
+reporting property damage at $25,000 or with raising it to $250,000. 
+The purpose of updating the property damage threshold in 33 CFR part 
+146 is to harmonize the reporting criteria across reporting protocols 
+and neither of those two recommendations would result in consistent 
+reporting criteria.
+    As discussed in the 2018 Final Rule, the property damage threshold 
+was initially set at $25,000 in the 1980s and that original $25,000 was 
+selected as indicator that a marine casualty was serious enough to 
+warrant an investigation. This 1980's property damage threshold has not 
+kept pace with inflation, and over time, that has diminished its value 
+as an indicator of the seriousness of a marine casualty and resulted in 
+the reporting of casualties involving relatively minor property damage.
+    Raising the property damage threshold in 33 CFR part 146 to 
+$250,000 would increase the threshold well above the inflation amount. 
+It would, moreover, not only fail to address the inconsistency in 
+reporting criteria across different entities but actually exacerbate 
+that inconsistency by setting the 33 CFR part 146 damage threshold well 
+above that of a Serious Marine Incident under 46 CFR part 4. The 
+threshold for a Serious Marine Incident was raised to $200,000 from 
+$100,000 in the 2018 Final Rule to adjust that threshold for inflation 
+and recalibrate that amount to reclaim its place as an indicator of 
+serious marine incidents.
+    Updating the property damage to $75,000 accounts for inflation, 
+restores the dollar threshold to its role as an indicator of the 
+seriousness of a marine
+
+[[Page 39470]]
+
+casualty, and it results in consistent reporting criteria across all 
+entities reporting marine casualties to the Coast Guard. The change to 
+the threshold in 46 CFR part 4 also addressed a concern expressed by 
+NOSAC in its comment on the 2014 NPRM, that the property damage 
+threshold for casualty reporting should be increased from $25,000 to 
+account for inflation. We are, therefore, updating the reporting 
+thresholds for reporting property damage due to marine casualties to 
+$75,000.
+
+Pollution
+
+    We received two comments on reporting and investigating pollution 
+spills. The first commenter stated that pollution spills must already 
+be reported under the Clean Water Act \13\ and that requiring them to 
+be reported as marine casualties with a CG-2692 form is duplicative and 
+adds no value. The second commenter expressed concerns that there will 
+be a significant increase in the number of marine casualty 
+notifications that require a CG-2692 form due to only pollution spills 
+and will increase the number of investigations being conducted. Both 
+commenters state that there are conflicting requirements related to 
+spill reporting between the Coast Guard, BSEE, and EPA, and that 
+permitted discharge points (under the National Pollutant Discharge 
+Elimination System (NPDES)) would now be required to be reported as 
+marine casualties.
+---------------------------------------------------------------------------
+
+    \13\ 33 U.S.C. 1321.
+---------------------------------------------------------------------------
+
+    The Coast Guard agrees that pollution spills are already required 
+to be reported under the Clean Water Act. Those notifications are done 
+through the National Response Center and are distributed to the Coast 
+Guard, BSEE, and the EPA. They do not need to be reported to the Coast 
+Guard separately as marine casualties because a report under existing 
+regulations (33 CFR 153.203, 40 CFR 117.21, or 40 CFR part 302) for an 
+occurrence exclusively involving significant harm to the environment 
+satisfies the immediate notification requirement applicable to marine 
+casualties.\14\ This final rule does not change that. Therefore, there 
+is not a duplicative reporting requirement, and we do not anticipate 
+there being an increase in the number of marine casualty reports due 
+solely to pollution spills. This final rule does not change the 
+requirements for the NPDES permit program and permitted discharge 
+points are not considered to be a marine casualty; therefore, they are 
+not required to be reported under this rule.
+---------------------------------------------------------------------------
+
+    \14\ 46 CFR 4.05-1(c).
+---------------------------------------------------------------------------
+
+Bureau of Safety and Environmental Enforcement (BSEE)
+
+    One commenter expressed concerns regarding duplicative reporting to 
+the Bureau of Safety and Environmental Enforcement (BSEE) and the Coast 
+Guard and requested improvements to the incident reporting process. The 
+same commenter expressed concerns about the transparency of 
+interactions between the Coast Guard and BSEE related to incident 
+investigations.
+    While there is overlapping jurisdiction on the OCS, the Coast Guard 
+and BSEE have a Memorandum of Understanding and multiple Memorandums of 
+Agreement that address the agencies' responsibilities. The overarching 
+Memorandum of Understanding identifies the roles and responsibilities 
+of the two agencies for the oversight of OCS activities. The 
+Memorandums of Agreement serve to provide more detailed explanations of 
+how the agencies work to enhance collaboration, reduce redundancy, 
+ensure consistency among the two agencies; they provide clarity to the 
+regulated community and the public on the roles, responsibilities, and 
+interaction between the two agencies.\15\ MOA OCS-05 is specific to 
+incident investigations with BSEE. The Coast Guard and BSEE will 
+continue working together to minimize duplicative work, as we explained 
+in the SNPRM,\16\ but changing the incident reporting process or the 
+manner in which the Coast Guard and BSEE interact is beyond the scope 
+of this rulemaking.
+---------------------------------------------------------------------------
+
+    \15\ The Memorandum of Understanding and the Memorandums of 
+Agreement can be found at  https://www.bsee.gov/about-bsee/interagency ; accessed 01/21/2026.
+    \16\ 88 FR 38771, June 14, 2023.
+---------------------------------------------------------------------------
+
+Definitions and Terminology
+
+    We received multiple comments about definitions and terminology. 
+One comment pointed out language used in Section IX. Regulatory 
+Analysis of the SNPRM, which referenced Coast Guard organizational 
+units that no longer exist.
+    The regulations have since been changed and current regulations 
+refer to the current names of these organizational units. This final 
+rule does not change the nomenclature of Coast Guard offices or units 
+which receive reports for marine casualties.
+    Another submission raised 15 issues on the terminology used in the 
+SNPRM preamble as well as in the proposed regulatory text. We received 
+five comments about terms and language used in Section VIII of the 
+SNPRM, which detailed differences in proposed regulations between the 
+NPRM and SNPRM. Many of these comments questioned if the Coast Guard 
+proposed new acronyms and terms, such as floating entities, foreign 
+FOF, and fixed platforms.
+    The Coast Guard did not propose any new acronyms or terms. The only 
+definition we had proposed to change in the NPRM was the definition of 
+an FOF. Upon review, we agreed with the SNPRM comment that the proposed 
+change to the definition of ``Floating OCS Facility'' blurred the 
+distinction between a facility and a vessel. Therefore, we are not 
+amending the definition of ``Floating OCS Facility,'' and we will keep 
+the existing definition of FOF. However, this final rule will still 
+require FOFs to report marine casualties per 46 CFR part 4 as they face 
+similar risks as vessels. Fixed OCS units will continue to use the 
+reporting requirements found in 33 CFR parts 140 and 146.
+    As far as the language used in Section VIII of the SNPRM, referring 
+to units as ``flagged'' was to provide more explanation and 
+clarification. It was not associated with any additional regulatory 
+definitions. For instance, we used ``foreign FOF'' as shorthand to 
+identify that an FOF was not U.S.-flagged without introducing a new 
+regulatory definition. It was not our intent to introduce new acronyms 
+or terms.
+    One commenter requested that the Coast Guard create a clear 
+distinction between FOFs that are flagged, self-propelled, seagoing 
+vessels, and non-vessel FOFs such as spars, tension leg platforms, and 
+semi-submersible floating production units that are permanently moored, 
+citing the CG-OES Policy Letter 01-22.\17\ The cited CG-OES Policy 
+Letter 01-22 was issued to aid the OCMI in determining which floating 
+OCS units ``are not vessels''; therefore, this commenter's request is 
+beyond the scope of this rulemaking.
+---------------------------------------------------------------------------
+
+    \17\ CG-OES Policy Letter 01-22, DETERMINATION OF WHETHER A 
+FLOATING OUTER CONTINENTAL SHELF FACILITY (FOF) IS A VESSEL,  https://www.dco.uscg.mil/Portals/9/OCSNCOE/References/Policy-Letters/HQ/OES/CG-OES-PL-01-22.pdf?ver=7UOoM63qm50hvhXJ3WCojw%3d%3d ; accessed 
+01/21/2026.
+---------------------------------------------------------------------------
+
+    Another commenter expressed confusion regarding the distinctions 
+between vessels and non-vessels in our references to FOFs and fixed OCS 
+facilities. This commenter also requested aligning the degree of 
+specificity required in the casualty reporting criteria in 33 CFR part 
+146 and 46 CFR part 4. This commenter stated that when an OCS unit is 
+considered a vessel, the casualty reporting regulations should be 
+aligned as
+
+[[Page 39471]]
+
+proposed in the SNPRM. When an OCS unit was not considered a vessel but 
+more appropriately described as either a fixed OCS facility or an FOF, 
+the commenter felt the OCS unit should follow only the reporting 
+requirements in 33 CFR part 146.
+    The commenter stated that the risk profiles between FOFs and 
+vessels are different, and that the application of vessel-based 
+reporting requirements in 46 CFR part 4, as explained above, is not 
+appropriate. Additionally, they stated that nearly all the vessel-based 
+marine casualty criteria in 46 CFR part 4 are not applicable to FOFs, 
+which are not vessels as determined by the Coast Guard Officers in 
+Charge, Marine Inspection (OCMI). Another frequent request was to keep 
+requirements for vessel FOFs in 46 CFR part 4 and requirements for non-
+vessel FOFs in 33 CFR part 146.
+    The Coast Guard agrees that there are distinctions between the 
+different types of OCS units. However, the purpose of this final rule 
+is to better align the reporting requirements for marine casualties 
+found in 33 CFR subchapter N with those found in 46 CFR part 4. This 
+final rule does not alter the reporting requirements found in 33 CFR 
+part 146 for fixed OCS units as defined in 33 CFR part 140, except for 
+raising the reporting threshold dollar amount to $75,000.
+    FOFs are at risk of marine casualties similar to those that vessels 
+are at risk of, such as flooding or loss of stability. These types of 
+marine casualties are not currently accounted for in 33 CFR part 146. 
+While some of the types of marine casualties identified in 46 CFR part 
+4 may not be applicable to FOFs, the only requirement is to report the 
+marine casualty, if it occurs.
+    Lastly, we received one comment recommending we issue the National 
+Offshore Safety Advisory Committee (NOSAC) a task statement for input 
+on OCS terms and other definitions. We do not agree that it is 
+necessary to issue NOSAC a task statement to review terms and 
+definitions we proposed to change in the SNPRM because we are no longer 
+amending terms or definitions in this final rule.
+
+OCSLA and Subchapter N Updates
+
+    We received four comments about the 2021 National Defense 
+Authorization Act's OCSLA amendment that added ``including non-mineral 
+energy resources'' to 43 U.S.C. 1333(a)(1). These comments recommended 
+revising 33 CFR subchapter N to include this change. Another commenter 
+suggested that the stated objective of this final rule could not be 
+achieved without including non-mineral vessel activities on the OCS in 
+the same reporting regime. This commenter also recommended withdrawing 
+the SNPRM until all of subchapter N is updated.
+    The Coast Guard appreciates all these comments; however, the OCSLA 
+amendment and suggestions to update the entirety of subchapter N to 
+include non-mineral vessel activities are separate topics that are 
+beyond the scope of this rulemaking.
+
+Data Validity and Affected Population Concerns
+
+    Four comments questioned the validity of affected population data 
+and Marine Information for Safety and Law Enforcement (MISLE) labeling 
+being inconsistent when investigating OCS incidents. Another comment 
+was about the integrity of MISLE data regarding industrial vessels.
+    To address concerns that the affected population undercounted 
+vessels, the Coast Guard cross referenced the population of reporting 
+vessels that appear in MISLE casualty records with both MISLE 
+population data and the OCS NCOE-maintained directory of FOFs. This 
+cross-reference increases the total population count to 649 foreign 
+vessels and prevents any double counting in the overall population of 
+vessels that are labeled as industrial vessels. We continue to use 
+MISLE as the source for the count of casualties as this is the primary 
+record of reports made to the Coast Guard and has no private 
+equivalent, making it the most appropriate source for the counts of 
+casualties reported and population of reporting vessels.
+    Another comment questioned the validity of the NOSAC report, given 
+the date of the report. We agree with the commenter that the data in 
+the NOSAC report reflected activity on the OCS at the time the NOSAC 
+report was issued and that the data in the report may change. However, 
+our analysis was intended to be based on a specific period of time and 
+does not rely solely on the information found in the NOSAC report.\18\ 
+So, for the purpose of this rulemaking, we reviewed and updated the 
+analysis at each stage of the process and determined the analysis 
+reflects the period from 2015 to 2022 when the data was collected, as 
+detailed in the RA.
+---------------------------------------------------------------------------
+
+    \18\ A copy of NOSAC's report is included in the rulemaking 
+docket,  https://www.regulations.gov/document/USCG-2013-1057-0009 ; 
+accessed 01/21/2026.
+---------------------------------------------------------------------------
+
+Cost Burden
+
+    One commenter expressed concerns about the accuracy of the cost 
+burden associated with creating a drug-testing program similar to the 
+Department of Transportation's program.
+    This final rule makes no change to the existing requirements in 46 
+CFR parts 4 and 16 to report alcohol and drug testing as part of a 
+marine casualty report.
+
+VI. Discussion of the Rule
+
+    This final rule aligns the marine casualty reporting requirements 
+in 33 CFR part 146 with those found in 46 CFR part 4 to harmonize 
+reporting requirements that apply to foreign and U.S. MODUs, FOFs, and 
+vessels engaged in OCS activities. This final rule also raises the 
+property damage threshold that triggers a casualty report from $25,000 
+to $75,000 for fixed OCS facilities. These actions will also improve 
+the collection and analysis of casualty information on the U.S. OCS to 
+help the Coast Guard and industry develop policies and procedures that 
+prevent future marine casualties. We discussed the section-by-section 
+changes in the SNPRM.\19\ As noted above, we are not amending the 
+definition of ``Floating OCS Facility'' in 33 CFR 140.10 as we had 
+proposed to do. In other respects, however, the section-by-section 
+discussion in the SNPRM applies to this final rule.
+---------------------------------------------------------------------------
+
+    \19\ See section VI (Discussion of the Supplemental Proposed 
+Rule); 88 FR 38769, June 14, 2023.
+---------------------------------------------------------------------------
+
+VII. Regulatory Analyses
+
+    We developed this final rule after considering numerous statutes 
+and Executive orders related to rulemaking. Below we summarize our 
+analyses based on these statutes or Executive orders.
+
+A. Regulatory Planning and Review
+
+    Executive Orders 12866 (Regulatory Planning and Review) and 13563 
+(Improving Regulation and Regulatory Review) direct agencies to assess 
+the costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits. Executive Order 13563 emphasizes the importance of 
+quantifying both costs and benefits, of reducing costs, of harmonizing 
+rules, and of promoting flexibility. Executive Order 14192 (Unleashing 
+Prosperity Through Deregulation) directs agencies to significantly 
+reduce the private expenditures required to comply with Federal 
+regulations and provides that ``any new incremental costs associated 
+with new regulations shall, to the extent permitted by law, be offset 
+by the elimination of existing costs associated with at least 10 prior 
+regulations.''
+
+[[Page 39472]]
+
+    Two additional Executive orders promote the goals of Executive 
+Order 13563: Executive Order 13609 (Promoting International Regulatory 
+Cooperation) and Executive Order 13610 (Identifying and Reducing 
+Regulatory Burdens). Executive Order 13609 targets international 
+regulatory cooperation to reduce, eliminate, or prevent unnecessary 
+differences in regulatory requirements. Executive Order 13610 aims to 
+modernize the regulatory systems and reduce unjustified regulatory 
+burdens and costs on the public.
+    The Office of Management and Budget (OMB) has not designated this 
+final rule a ``significant regulatory action,'' under section 3(f) of 
+Executive Order 12866. Accordingly, OMB has not reviewed it.
+    This final rule is considered an Executive Order 14192 deregulatory 
+action. We estimate that this rule generates $0.0029 million dollars in 
+annualized cost savings at a 7-percent discount rate, discounted 
+relative to year 2024, over a perpetual time horizon.
+    An RA follows.
+    We summarize the differences between the SNPRM and final rule in 
+table 2.
+
+          Table 2--Summary of Changes From SNPRM to Final Rule
+------------------------------------------------------------------------
+                                      SNPRM              Final rule
+------------------------------------------------------------------------
+Affected Population.........  Soley used MISLE as   In addition to
+                               a source for vessel   MISLE, we use the
+                               population.           NCOE's directory of
+                                                     FOFs to determine
+                                                     the vessel
+                                                     population.
+Wages.......................  Wages from 2019 load  Wages and load
+                               factors from          factors updated to
+                               employer cost index.  2023.
+------------------------------------------------------------------------
+
+    In this final rule, as in the SNPRM, the Coast Guard amends 
+regulations in which marine casualties, under 33 CFR subchapter N, are 
+reported for foreign MODUs, FOFs, and vessels operating on the OCS. The 
+amendments will close the gap between casualty reporting requirements 
+for U.S. and foreign MODUs, FOFs, and vessels engaged in an OCS 
+activity under the 46 CFR part 4 reporting requirements, which brings 
+foreign entities to the same standard as U.S. entities. In addition to 
+the change from the NPRM and as proposed in the SNPRM, the Coast Guard 
+updates the property damage threshold from $25,000 to $75,000 for 
+reporting under 33 CFR part 146 to align with the threshold in 46 CFR 
+part 4, which was raised in the 2018 Final Rule,\20\ which, in turn, 
+decreases the number of reports by U.S. industry and generates 
+undiscounted cost savings of about $15,340 for the next 10 years. We 
+summarize the impacts of the changes of this final rule in table 3.
+---------------------------------------------------------------------------
+
+    \20\ ``Marine Casualty Reporting Property Damage Thresholds'' 
+(83 FR 11889, March 19, 2018).
+
+           Table 3--Summary of the Impacts of This Final Rule
+------------------------------------------------------------------------
+             Category                              Summary
+------------------------------------------------------------------------
+Applicability.....................    Requires marine casualties,
+                                     involving foreign MODUs, FOFs, and
+                                     vessels engaged in OCS activities,
+                                     to be reported under 46 CFR part 4
+                                     as consistent with U.S. MODUs,
+                                     FOFs, and vessels.
+                                      Raises the monetary
+                                     reportable marine casualty dollar
+                                     threshold in 33 CFR part 146 from
+                                     $25,000 to $75,000 to align with 46
+                                     CFR part 4.
+Affected Population...............  For marine casualties on MODUs,
+                                     FOFs, and vessels currently
+                                     required to be reported under 33
+                                     CFR part 146:
+                                      649 foreign MODUs, FOFs,
+                                     and vessels will shift reporting to
+                                     46 CFR part 4.
+                                      1,385 fixed platforms will
+                                     continue to report under 33 CFR
+                                     part 146.
+Total Costs (2023 dollars, 7%       Cost for U.S. Government:
+ Discount Rate).                    10-Year: $26,107
+                                    Annualized: $3,717
+                                    Cost for Foreign Industry:
+                                    10-Year: $107,218
+                                    Annualized: $15,265
+                                    On average, we anticipate an
+                                     increase of 75 marine casualty
+                                     reports annually.
+Cost Saving to Industry (2023       Savings for U.S. industry:
+ dollars, 7% Discount Rate).        10-Year: -$10,775
+                                    Annualized: -$1,534
+                                    Savings for Foreign Industry:
+                                    10-Year: -$12,241.
+                                    Annualized: -$1,743.
+                                    Reduced reporting from raising the
+                                     property damage threshold for a
+                                     reportable marine casualty.
+Net Cost (2023 dollars, 7%          Net Cost for Foreign Industry:
+ Discount Rate).                    10-Year: $94,977.
+                                    Annualized: $13,523.
+Unquantified Benefits.............  Increases the Coast Guard's domain
+                                     awareness through harmonization of
+                                     marine casualty reporting
+                                     requirements across CFR parts.
+                                     Potential for risk mitigation if
+                                     problems are identified before they
+                                     develop into more serious
+                                     accidents.
+------------------------------------------------------------------------
+
+    The OMB has not designated this rule a ``significant regulatory 
+action,'' under section 3(f) of Executive Order 12866. Accordingly, OMB 
+has not reviewed it.
+Affected Population
+    As in the SNPRM,\21\ the affected population comprises all foreign 
+FOFs identified in the MISLE database as floating production systems 
+and floating production storage offloading vessels, as well as various 
+types of industrial vessels,\22\ MODUs, and lift boats. For this final 
+rule, we use the index of FOFs from the Coast Guard's OCS NCOE.\23\
+
+[[Page 39473]]
+
+We provide transparency in table 4, which shows details on the affected 
+population and addresses concerns that the population of industrial 
+vessels in the MISLE database undercounts the affected population. 
+Since the 2020 SNPRM, MISLE now distinguishes FOFs, so we listed those 
+separately from industrial vessels to show that we did not undercount 
+the population. We excluded types that did not have an oceangoing route 
+under the assumption that they would not operate on the OCS.
+---------------------------------------------------------------------------
+
+    \21\ ``Marine Casualty Reporting on the Outer Continental 
+Shelf'' (88 FR 38765, June 14, 2023).
+    \22\ The following vessel types are excluded: cable laying, 
+dredger, dredger barge, factory ship, fishing support vessel, 
+floating dry dock, orbital launch, offshore service vessel, pilot 
+vessel, radio ship, and seabed mining vessel. Supply vessels not 
+listed as offshore service vessels and operating on an ocean route 
+are included.
+    \23\  https://www.dco.uscg.mil/OCSNCOE/FOF/Index/ ; accessed 01/
+21/2026.
+
+                      Table 4--Affected Population
+------------------------------------------------------------------------
+                                                   SNPRM      Final rule
+                                                   (2020)       (2024)
+------------------------------------------------------------------------
+Moved to Report under 46 CFR Part 4
+    Industrial Vessels (Foreign)..............          310          336
+    Oil Supply Vessels (Foreign)..............            0            0
+    MODUs (Foreign) *.........................          257          238
+    Lift Boats (Foreign)......................           13           16
+    FOFs (Foreign)............................            8           59
+                                               -------------------------
+        Total Foreign Vessels.................          588          649
+                                               -------------------------
+Updated Property Damage Threshold
+    Fixed Platforms (All U.S.)................        1,754        1,385
+------------------------------------------------------------------------
+* This number reflects active MODUs as reported by MISLE. It does not
+  necessarily show how many are actively drilling or in contact with the
+  seabed.
+
+Baseline Reporting
+    Table 5 describes the different events that prompt reporting of a 
+marine casualty under 33 CFR part 146 and 46 CFR part 4. Title 46 CFR 
+part 4 has more casualty reporting triggers than 33 CFR part 146. 
+Therefore, an FOF, MODU, or vessel will report more casualties under 46 
+CFR part 4 than under 33 CFR part 146.
+
+   Table 5--Current Coast Guard Marine Casualty Reporting Requirements
+------------------------------------------------------------------------
+              33 CFR Part 146                       46 CFR Part 4
+------------------------------------------------------------------------
+Death.....................................  Death.
+Injuries to 5+ persons....................  Injury.
+Incapacitation > 72 hours.................
+Property damage > $25,000 (fixed            Property damage > $75,000.
+ facilities only). (33 CFR 146.30 and       Grounding.
+ 146.303.).                                 Allision.
+                                            Vessel in distress or loss
+                                             of communication with
+                                             vessel.
+                                            Loss of--
+                                              Main propulsion
+                                              Primary steering
+                                              Associated systems
+                                             or components affecting
+                                             maneuverability
+                                            Impairment of--
+                                              Vessel operation
+                                              Vessel components
+                                              Cargo
+                                            Material or adverse impact
+                                             to vessels'--
+                                              Seaworthiness.
+                                              Fitness for
+                                             service.
+                                              Fitness for route.
+                                              Examples--fire,
+                                             flooding, failure of or
+                                             damage to fire
+                                             extinguishing, lifesaving,
+                                             auxiliary power, bilge
+                                             pumping systems.
+                                            Significant harm to the
+                                             environment (defined in 46
+                                             CFR 4.03-65).
+                                            (46 CFR 4.04-1, 4.04-2, and
+                                             4.05-1.)
+------------------------------------------------------------------------
+
+    Transferring marine casualty reporting of MODUs, FOFs, and vessels 
+to 46 CFR part 4 will require an increase in the types of reportable 
+casualties, including injury to fewer than five persons, grounding, 
+stranding, foundering, flooding, collision, allision, explosion, fire, 
+loss of propulsion, loss of steering, and impaired operations. There 
+are already some voluntary submissions of marine casualty reports, 
+which are not required under 33 CFR part 146, for incidents on foreign 
+MODUs, FOFs, and vessels involving the criteria we mentioned 
+previously. Even with a count of active foreign MODUs, FOFs, and 
+vessels each year, we are unable to determine the number of incidents 
+that were non-reportable under 33 CFR part 146 but would have been 
+reportable under 46 CFR part 4. Without aligned reporting, we are 
+unable to compare how often one type of incident occurs on foreign 
+MODUs, FOFs, and vessels compared to their U.S. counterparts, while 
+accounting for differences in the total population sizes, how much of 
+those populations actively report, and general risk levels between the 
+two populations.
+    The reports for nonfatal types of incidents described as voluntary 
+for foreign MODUs, FOFs, and vessels are mandatory for U.S. MODUs, 
+FOFs, and vessels and will become mandatory for all flags with this 
+final rule. We show the number of voluntary and mandatory marine 
+casualty reports by flag type in table 6. From 2015 to 2022, MISLE 
+recorded 258 total voluntary reports of casualties that met the 
+reporting criteria under 46 CFR part 4 from a total of 163 uniquely 
+identified foreign MODUs, FOFs, and vessels reporting under title 33 of 
+the CFR. Table 6 shows the number of marine casualty reports from 
+foreign MODUs, FOFs, and vessels that met the criteria for a reportable 
+casualty under title 46 of the CFR but not under title 33 of the CFR, 
+meaning those reports were submitted voluntarily. Table 7 shows the 
+number of unique foreign MODUs, FOFs, and vessels that submitted 
+voluntary reports in each year. These reports are unique only within 
+each year; across the entire range from 2015 to 2022, there were 69 
+unique entities, meaning 94 foreign MODUs, FOFs, or vessels submitted 
+reports in multiple years.
+
+[[Page 39474]]
+
+                                         Table 6--Casualty Reports by Type From Foreign MODUs, FOFs, and Vessels
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                           2015     2016     2017     2018     2019     2020     2021     2022    Total   Annual average
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                     Casualties Reportable under Title 46 of the CFR
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Injury   0.......................................       47       23       24       43       21       19       23       13
+Grounding..............................................        0        4        6        0        0        0        1        0
+Allision...............................................        0        2        3        1        0        0        0        0
+Stranding..............................................        0        0        0        0        0        0        0        0
+Loss of Propulsion.....................................        1        1        0        0        0        0        0        0
+Loss of Steering.......................................        0        0        3        0        0        1        0        0
+Impaired Operation.....................................        0        0        0        0        0        1        3        1
+Foundering.............................................        0        0        0        0        0        0        0        0
+Flooding...............................................        0        0        3        0        0        0        0        0
+Collision..............................................        1        0        0        0        0        1        2        1
+Explosion..............................................        0        0        0        0        0        0        0        0
+Fire...................................................        5        1        1        1        0        0        1        0
+                                                        ------------------------------------------------------------------------------------------------
+    Total..............................................       54       31       40       45       21       22       30       15      258           32.25
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                     Casualties Reportable under Title 33 of the CFR
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Fatality...............................................        3        0        1        1        0        2        1        1        9           1.125
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                      Table 7--Number of Unique Reporting Foreign MODUs, FOFs, and Vessels
+----------------------------------------------------------------------------------------------------------------
+                                                                                                      Annual
+          2015              2016     2017     2018     2019     2020     2021     2022    Total       average
+----------------------------------------------------------------------------------------------------------------
+32......................       19       20       23       20       15       21       13      163          20.375
+----------------------------------------------------------------------------------------------------------------
+
+    Similarly, from 2015 to 2022, MISLE recorded 1,333 total reports 
+from 830 identified U.S. MODUs, FOFs, and vessels that matched the 
+reporting criteria for voluntary reports from foreign MODUs, FOFs, and 
+vessels, although those types of reports are mandatory for U.S. MODUs, 
+FOFs, and vessels. Table 8 shows the number of marine casualty reports 
+from U.S. MODUs, FOFs, and vessels that met the criteria for a 
+reportable casualty under title 46 of the CFR but not under title 33 of 
+the CFR. Table 9 shows the number of unique U.S. MODUs, FOFs, and 
+vessels that submitted reports in each year. These are unique only 
+within each year, across the entire range from 2015 to 2022, there were 
+574 unique entities, meaning 256 U.S. MODUs, FOFs, or vessels submitted 
+reports in multiple years.
+
+                                          Table 8--Casualty Reports by Type From U.S. MODUs, FOFs, and Vessels
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                       Grand     Annual
+                                                                2015     2016     2017     2018     2019     2020     2021     2022    total    average
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                          Reportable under Title 46 of the CFR
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Injury   0............................................      118       94      116      115       99      126      132      124
+Grounding...................................................        8       20       16        6       10        4        3        4
+Allision....................................................       23       15       16       12       13       15        8       22
+Stranding...................................................        0        0        0        0        0        0        0        0
+Loss of Propulsion..........................................        4        3       12        5        3        0        0        0
+Loss of Steering............................................        1        1        0        0        0        1        1        3
+Impaired Operation..........................................        0        0        0        0        0       14       27       15
+Foundering..................................................        0        0        0        0        0        0        0        0
+Flooding....................................................       14       12       10        6       10        1        0        1
+Collision...................................................        8        5        9        3        3        6       10        2
+Explosion...................................................        0        0        0        0        0        0        0        0
+Fire........................................................        5        3        1        2        2        4        2        5
+                                                             -------------------------------------------------------------------------------------------
+    Total...................................................      181      153      180      149      140      171      183      176    1,333    166.625
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Reportable under Title 33 of the CFR........................  .......  .......  .......  .......  .......  .......  .......  .......  .......  .........
+Fatality....................................................        3        1        1        2        0        4        3        0       14       1.75
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[[Page 39475]]
+
+                        Table 9--Number of Unique Reporting U.S. MODUs, FOFs, and Vessels
+----------------------------------------------------------------------------------------------------------------
+                                                                                                         Annual
+            2015               2016     2017     2018     2019     2020     2021     2022     Total     average
+----------------------------------------------------------------------------------------------------------------
+107........................       95      114      102       80      115      109      108        830    103.750
+----------------------------------------------------------------------------------------------------------------
+
+    For marine casualty reports involving fatalities, which are 
+mandatory for everyone, an average of 1.125 fatality reports from 2015 
+to 2022 were submitted for foreign MODUs, FOFs, and vessels, compared 
+to an average of 1.750 fatality reports submitted for U.S. MODUs, FOFs, 
+and vessels. The 8-year average of fatality reports per reporting 
+foreign MODUs, FOFs, and vessels is 0.055, which we calculated by 
+dividing the annual average of casualties reportable under title 33 of 
+the CFR shown in table 7 by the annual average shown in table 6 (1.125 
+/ 20.375). The 8-year average of fatality reports per reporting U.S. 
+MODU, FOF, and vessel is 0.017, which we calculated by dividing the 
+annual average of casualties reportable under title 33 of the CFR shown 
+in table 8 by the annual average shown in table 9 (1.75 / 103.75).
+    Table 10 shows the 5-year average number of marine casualty reports 
+per unique MODU, FOF, and vessel. We rounded the averages to two 
+decimal places for presentation, but we did not round the averages in 
+the calculations for the estimates in this analysis.
+
+   Table 10--5-Year Average Casualty Reports per Unique MODU, FOF, and
+                        Vessel, From 2014 to 2019
+------------------------------------------------------------------------
+                                                  Foreign        U.S.
+------------------------------------------------------------------------
+Average number of FOF, MODU, and vessels             20.375      103.750
+ reporting annually...........................
+Average number of nonfatality reports.........       32.250      166.625
+Average number of fatality reports............        1.125        1.750
+------------------------------------------------------------------------
+* Ratios are sensitive to rounding and were not rounded in the
+  calculations for the analysis.
+
+    Currently, fatal marine casualty reports are mandatory for both 
+populations while, in this sample, non-fatality marine casualty reports 
+are voluntary for foreign MODUs, FOFs, and vessels.
+Costs From Increased Reporting
+    Under this final rule, the Coast Guard will require that owners and 
+operators of foreign MODUs, FOFs, and vessels engaged in an OCS 
+activity report marine casualties using the CG-2692 form under the 
+reporting requirements of 46 CFR part 4, instead of the requirements 
+under 33 CFR part 146. All U.S. entities already comply with these 
+requirements. To estimate the potential increase in non-fatality marine 
+casualty reports generated by foreign MODUs, FOFs, and vessels, the 
+Coast Guard estimates how many marine casualty reports will be 
+generated if the ratio of nonfatality marine casualty reports for the 
+foreign population matched the ratio of nonfatality marine casualty 
+reports of the U.S. population. The Coast Guard estimates this by 
+taking the ratio of U.S. nonfatality reports to fatality reports, and 
+foreign nonfatality reports to fatality reports and solving for foreign 
+nonfatality reports as shown in equation (A). The Coast Guard believes 
+that this is the best approximation available, given uncertainty about 
+differences in the total population sizes, differences in the 
+percentage of the active populations that report marine casualty 
+reports, and differences in general risk levels of operations between 
+the two populations.
+[GRAPHIC] [TIFF OMITTED] TR30JN26.011
+
+    Using the figures for average annual reports from table 10, we then 
+apply the formula shown in equation (A), assuming that the total value 
+of foreign nonfatality reports is unknown and that the 32.25 
+nonfatality reports from foreign MODUs, FOFs, and vessels are voluntary 
+but not equal to the total number of reports that will be realized 
+under this final rule. The result is 107.1161 foreign nonfatality 
+reports, the total number of nonfatality reports that would have been 
+reported, if the proportion of foreign fatality reports was the same as 
+U.S. fatality reports. We show the calculation of these 107.12, 
+rounded, foreign nonfatality reports in the equations (B), (C), and 
+(D).
+[GRAPHIC] [TIFF OMITTED] TR30JN26.012
+
+[[Page 39476]]
+
+    In equation (B), we assume that the U.S. nonfatality reports equal 
+166.625 as shown in Table 10, the average number of U.S. fatality 
+reports equal 1.750, and the average number of foreign fatality reports 
+equal 1.125. In equation (C), we begin solving the proportion for x by 
+multiplying 166.625 by 1.125 and multiplying 1.750 by x, which results 
+in 187.4531 = 1.750x. Finally, in equation (D), we divide 187.4531 by 
+1.750, which equals 107.1161, the total number of estimated foreign 
+nonfatality reports.
+    Then, from this estimated number of foreign nonfatality reports we 
+subtract the number of voluntary reports already received from the 
+foreign population to get the marginal increase in marine casualty 
+reports. This is the total of 107.1161 foreign nonfatality reports 
+minus the 32.250 voluntary foreign nonfatality reports, for an increase 
+of 74.8661 reports. Therefore, the Coast Guard assumes that by making 
+the requirements for reporting nonfatal casualties by foreign MODUs, 
+FOFs, and vessels the same as for U.S. MODUs, FOFs, and vessels, 
+foreign MODUs, FOFs, and vessels will report an average of 75 more 
+nonfatality reports per year, rounding 74.8661 up to the nearest whole 
+number.
+    Table 11 summarizes the annual cost of additional marine casualty 
+reports submitted for foreign MODUs, FOFs, and vessels. The time burden 
+and wage cost of generating marine casualty reports comes from the 
+collection of information (COI) ``OMB Control No. 1625-0001, Report of 
+Marine Casualty and Chemical Testing of Commercial Vessel Personnel.'' 
+It lists the burden hour per response for a marine casualty report as 1 
+hour, with a corresponding loaded hourly wage of $58.08, which is 
+equivalent to the 2023 GS-3 Outside Government Wage of $34.24 with a 
+load factor of 1.70  24 25  Instead of using the COI rate for 
+this final rule, we use the 2023 U.S. Bureau of Labor Statistics (BLS) 
+wage for captains, mates, and pilots of water vessels, which is a 
+loaded hourly wage of $69.60.\26\ In the 2018 Final Rule updating the 
+property damage threshold for 46 CFR part 4, the Coast Guard 
+acknowledged industry comments that some particularly complex reports 
+require additional review before submission to the Coast Guard. Thus, 
+the Coast Guard uses the same adjustment for marine casualty reports 
+under title 33 of the CFR and assumes that 10 percent of marine 
+casualty reports have an additional burden-hour response of 10 hours, 
+to account for internal company review conducted by lawyers or upper 
+management. This assumption does not increase the number of marine 
+casualty reports but increases the burden time for each marine casualty 
+report; the total increase in reports is 75 and 8 of those reports will 
+take 11 hours to prepare instead of 1 hour. For this final rule, we use 
+the BLS wage for lawyers, which is a loaded hourly wage of $125.56.\27\
+---------------------------------------------------------------------------
+
+    \24\ See the Burden Calculation Worksheet at  www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201903-1625-001 ; accessed 01/21/
+2026.
+    \25\ Casualty reports are reviewed at Coast Guard Headquarters 
+and the 2020 Washington, DC locality wage of $34.24 for a GS-9, Step 
+5, employee is used ( www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2023/DCB_h.pdf ; accessed 01/21/
+2026). The load factor is 1.70 (rounded) estimated by dividing 
+$67.00 average total compensation per hour by $39.50 average hourly 
+wage from tables 4 and 2, respectively, of the 2017 Congressional 
+Budget Office report, ``Comparing the Compensation of Federal and 
+Private-Sector Employees 2011-2015'' ( www.cbo.gov/system/files/115th-congress-2017-2018/reports/52637-federalprivatepay.pdf ; 
+accessed 01/21/2026). The loaded wage is the mean wage multiplied by 
+the load factor. The loaded wage, $58.08, equals $34.24 multiplied 
+by 1.6962.
+    \26\ The 2023 mean wage for captains, mates, and pilots of water 
+vessels is $47.03 ( www.bls.gov/oes/2023/may/oes535021.htm ; accessed 
+01/21/2026). The load factor is equal to the ratio of total 
+compensation (CMU2010000520000D) over wages and salaries 
+(CMU2020000520000D) from 2023 or $37.92 divided by $25.61, or 1.48. 
+The loaded wage is the mean wage multiplied by the load factor. The 
+loaded wage, $69.60, equals $47.03 multiplied by 1.48. Series are 
+from the Bureau of Labor Statistics, Employer Cost for Employee 
+Compensation for Private Industry Workers, Transportation and 
+Material Moving.
+    \27\ The 2023 mean wage for lawyers is $84.84 ( www.bls.gov/oes/2023/may/oes231011.htm ; accessed 01/21/2026). The load factor is 
+equal to the ratio of total compensation (CMU2010000520000D) over 
+wages and salaries (CMU2020000520000D) from 2023 or $37.92 divided 
+by $25.61, or 1.48. The loaded wage is the mean wage multiplied by 
+the load factor. The loaded wage, $125.56, equals $84.84 multiplied 
+by 1.48. Series are from the Bureau of Labor Statistics, Employer 
+Cost for Employee Compensation for Private Industry Workers, 
+Transportation and Material Moving.
+
+           Table 11--Annual Cost of Additional Casualty Reports From Foreign MODUs, FOFs, and Vessels
+----------------------------------------------------------------------------------------------------------------
+                                      Annual       Burden hours     Annual hour                     Annual cost
+                                     responses     per response       burden         Wage rate      burden ($)
+                                             (A)             (B)     (C) = (A) x             (D)     (E) = (C) x
+                                                                             (B)                             (D)
+----------------------------------------------------------------------------------------------------------------
+Marine Casualty Report..........              75               1              75          $69.60          $5,220
+Additional Burden for 10% of                   8              10              80          125.56          10,045
+ Respondents *..................
+                                 -------------------------------------------------------------------------------
+    Total Annual Cost...........  ..............  ..............  ..............  ..............          15,265
+----------------------------------------------------------------------------------------------------------------
+* Note that these increased review times do not constitute separate marine casualty reports. Rather, they
+  increase the total burden time of a single report. We have only 74 new reports, 8 of which will require 11
+  total hours to prepare.
+
+    Table 12 shows the annual costs across a 10-year period of 
+analysis. This annual cost of $15,265 generates a total cost of 
+$107,218 over a 10-year period in 2024 dollars discounted at 7 percent.
+
+        Table 12--Cost to Foreign Industry Over a 10-Year Period
+------------------------------------------------------------------------
+                                                      Total, discounted
+                                       Annual                ($)
+              Year                  undiscounted   ---------------------
+                                      cost ($)          3%         7%
+------------------------------------------------------------------------
+1...............................           $15,265    $14,821    $14,267
+2...............................            15,265     14,389     13,333
+3...............................            15,265     13,970     12,461
+
+[[Page 39477]]
+
+ 
+4...............................            15,265     13,563     11,646
+5...............................            15,265     13,168     10,884
+6...............................            15,265     12,785     10,172
+7...............................            15,265     12,412      9,507
+8...............................            15,265     12,051      8,885
+9...............................            15,265     11,700      8,303
+10..............................            15,265     11,359      7,760
+                                 ---------------------------------------
+    Total.......................           152,654    130,217    107,218
+                                 ---------------------------------------
+        Annualized..............  ................     15,265     15,265
+------------------------------------------------------------------------
+
+Cost Savings From Property Damage Threshold Update
+    As a supplement to the reporting change for foreign MODUs, FOFs, 
+and vessels in this final rule, the Coast Guard will also update the 
+property damage threshold for reporting a marine casualty under 33 CFR 
+146.30 from $25,000 to $75,000 to align it with the threshold listed in 
+46 CFR 4.05-1. The threshold in 46 CFR part 4 was previously updated to 
+$75,000 in the 2018 Final Rule.\28\ Raising the threshold for 
+reportable property damage will decrease the number of marine 
+casualties reported, since more damage will have to be incurred to meet 
+the reportable threshold. The decrease in reports from the threshold 
+update will mitigate the increase in reports generated by the cost 
+section of this rulemaking. In the following analysis, we apply the 
+updated damage threshold of $75,000 to reports submitted for fixed OCS 
+facilities under 33 CFR part 146 as well as to the estimated increase 
+of 75 marine casualty reports, which used the $25,000 threshold when 
+reported. Fixed OCS facilities were not included in the analysis of the 
+2018 Final Rule. So, the reduction in reports from fixed OCS reporting 
+facilities was never estimated.\29\
+---------------------------------------------------------------------------
+
+    \28\ ``Marine Casualty Reporting Property Damage Thresholds'' 
+(83 FR 11889, March 19, 2018).
+    \29\ Ibid. See page 11891 of under ``E. Amending the Dollar 
+Amount Thresholds for Outer Continental Shelf Casualty Reporting in 
+Title 33 of the CFR.''
+---------------------------------------------------------------------------
+
+    To estimate the decrease in reports, the Coast Guard identified 
+marine casualty reports submitted in the last 8 years that were 
+generated because of property damage alone and would no longer meet the 
+updated higher damage threshold for reporting. These are marine 
+casualty reports with property damage between the threshold of $25,000 
+and the threshold of $75,000. We did not include fatality or injury 
+incidents, as these types of incidents are reportable regardless of 
+property damage.
+    The Coast Guard identified 41 total reports submitted for MODUs, 
+FOFs, and vessels currently reporting under 33 CFR part 146, generated 
+because of property damage between $25,000 and $75,000, and between 
+$100,000 and $200,000 for serious marine incidents, for an 8-year 
+average of 7 reports annually. We then apply the same assumption that 
+10 percent of marine casualty reports have an additional burden hour 
+response of 10 hours to account for additional review time. We use the 
+same assumed burden hour and wage used above for marine casualty 
+reports, with a corresponding loaded wage rate of $69.60. Table 13 
+shows how these assumptions generate a total annual cost savings of 
+about $1,743 that can be applied to the increased costs described in 
+the Costs from Increased Reporting section to reduce net costs.
+
+         Table 13--Decreased Reporting Costs for MODUs, FOFs, and Vessels Moving to Title 46 of the CFR
+----------------------------------------------------------------------------------------------------------------
+                                     Estimated
+                                  responses that
+                                  will no longer   Burden hours     Annual hour      Wage rate      Annual cost
+                                  meet reporting   per response       burden                           saved
+                                     threshold
+                                             (A)             (B)     (C) = (A) x             (D)     (E) = (C) x
+                                                                             (B)                             (D)
+----------------------------------------------------------------------------------------------------------------
+Decrease from Property Damage                (7)               1             (7)          $69.60           -$487
+ Threshold......................
+Additional Burden for 10% of                 (1)              10            (10)          125.56          -1,256
+ Respondents....................
+                                 -------------------------------------------------------------------------------
+    Total Cost Saved............  ..............  ..............  ..............  ..............          -1,743
+----------------------------------------------------------------------------------------------------------------
+
+    Table 14 shows how this annual savings of -$1,743 generates -
+$12,241 in cost savings over 10 years in 2023 dollars, discounted at 7 
+percent.
+
+[[Page 39478]]
+
+                    Table 14--Cost Savings to MODUs, FOFs, and Vessels Over a 10-Year Period
+----------------------------------------------------------------------------------------------------------------
+                                                                     Annual            Total, discounted ($)
+                             Year                                 undiscounted   -------------------------------
+                                                                    cost ($)            3%              7%
+----------------------------------------------------------------------------------------------------------------
+1.............................................................           -$1,743         -$1,692         -$1,629
+2.............................................................            -1,743          -1,643          -1,522
+3.............................................................            -1,743          -1,595          -1,423
+4.............................................................            -1,743          -1,549          -1,330
+5.............................................................            -1,743          -1,503          -1,243
+6.............................................................            -1,743          -1,460          -1,161
+7.............................................................            -1,743          -1,417          -1,085
+8.............................................................            -1,743          -1,376          -1,014
+9.............................................................            -1,743          -1,336            -948
+10............................................................            -1,743          -1,297            -886
+                                                               -------------------------------------------------
+    Total.....................................................           -17,429         -14,867         -12,241
+                                                               -------------------------------------------------
+        Annualized............................................  ................          -1,743          -1,743
+----------------------------------------------------------------------------------------------------------------
+
+    For fixed OCS facilities, we identified three reports generated 
+because of property damage between $25,000 and $75,000, and between 
+$100,000 and $200,000 for serious marine incidents, and applied the 
+same assumption that 10 percent of marine casualty reports have an 
+additional burden hour response of 10 hours to account for additional 
+review time. Since we assume any fraction of a report will be a whole 
+report, we round the 8-year average of 0.4 up to one report. Table 15 
+shows how we use the same burden hour and wage assumptions as above to 
+generate cost savings of $1,534 annualized, which reduces the net cost 
+of this final rule.
+
+                                      Table 15--Decreased Reporting Costs for Fixed OCS Facilities to U.S. Industry
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                Estimated
+                                                             responses that
+                                                                 will no     Rounding up to   Burden hours     Annual hour    Wage rate     Annual cost
+                                                               longer meet    nearest whole   per response       burden          ($)         saved ($)
+                                                                reporting        number
+                                                                threshold
+                                                                                        (A)             (B)     (C) = (A) x          (D)     (E) = (C) x
+                                                                                                                        (B)                          (D)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Decrease from Property Damage Threshold....................              -4              -4               1              -4       $69.60           -$278
+Additional Burden for 10% of Respondents...................            -0.4              -1              10             -10       125.56          -1,256
+                                                            --------------------------------------------------------------------------------------------
+    Total Cost Saved.......................................  ..............  ..............  ..............  ..............  ...........          -1,534
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    Table 16 shows how this annualized cost-savings of $1,534 generates 
+$10,775 in cost savings over a 10-year period.
+
+ Table 16--Cost Savings to Fixed OCS Facilities Over a 10-Year Period to
+                              U.S. Industry
+------------------------------------------------------------------------
+                                   Annual           Total, discounted
+            Year                undiscounted   -------------------------
+                                    cost             3%           7%
+------------------------------------------------------------------------
+1...........................           -$1,534      -$1,489      -$1,434
+2...........................            -1,534       -1,446       -1,340
+3...........................            -1,534       -1,404       -1,252
+4...........................            -1,534       -1,363       -1,170
+5...........................            -1,534       -1,323       -1,094
+6...........................            -1,534       -1,285       -1,022
+7...........................            -1,534       -1,247         -955
+8...........................            -1,534       -1,211         -893
+9...........................            -1,534       -1,176         -834
+10..........................            -1,534       -1,141         -780
+                             -------------------------------------------
+    Total...................           -15,340      -13,086      -10,775
+                             -------------------------------------------
+    Annualized..............  ................       -1,534       -1,534
+------------------------------------------------------------------------
+
+[[Page 39479]]
+
+    Together, these cost savings to industry total -$3,277 = 
+($1,743+$1,534) annually. Table 17 shows how these annual savings 
+generate $23,016 in cost savings in 2023 dollars to industry over 10 
+years discounted at 7 percent, or $3,277 annualized. We estimate this 
+final rule generates $0.0029 million dollars in annualized cost savings 
+at a 7-percent discount rate, discounted relative to year 2024, over a 
+perpetual time horizon.
+
+       Table 17--Total Cost Savings to Foreign and U.S. Industries
+------------------------------------------------------------------------
+                                       Annual         Total, discounted
+              Year                  undiscounted   ---------------------
+                                       savings          3%         7%
+------------------------------------------------------------------------
+1...............................           -$3,277    -$3,181    -$3,063
+2...............................            -3,277     -3,089     -2,862
+3...............................            -3,277     -2,999     -2,675
+4...............................            -3,277     -2,911     -2,500
+5...............................            -3,277     -2,827     -2,336
+6...............................            -3,277     -2,744     -2,184
+7...............................            -3,277     -2,664     -2,041
+8...............................            -3,277     -2,587     -1,907
+9...............................            -3,277     -2,511     -1,782
+10..............................            -3,277     -2,438     -1,666
+                                 ---------------------------------------
+    Total.......................           -32,769    -27,953    -23,016
+                                 ---------------------------------------
+    Annualized..................  ................     -3,277     -3,277
+------------------------------------------------------------------------
+
+Cost to the U.S. Government
+    The increase of 75 marine casualty reports will be mitigated by a 
+total decrease of 11 reports: 7 fewer reports from the increased 
+property damage threshold for MODUs, FOFs, and vessels, and 4 fewer 
+reports from the update to fixed OCS facilities for a net increase of 
+64 reports (75-11). Following the methodology in appendix B of COI 
+number 1625-0001, we do not assume that the 10 percent of reports that 
+take longer to prepare for submission will take longer for the Coast 
+Guard to review. The burden-hour established in the COI already 
+accounts for variance in the time to review marine casualty reports of 
+different complexity and severity.
+    We assume there is 1 hour of processing time at a GS-9 wage of 
+$58.08 for each marine casualty report.\30\ For the 64 additional 
+responses, there is a total annual cost of $3,717, as shown in table 
+18.
+---------------------------------------------------------------------------
+
+    \30\ Casualty reports are reviewed at Coast Guard Headquarters 
+and the 2020 Washington, DC locality wage of $34.24 for a GS-9, Step 
+5, employee is used ( www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2023/DCB_h.pdf ; accessed 01/21/
+2026). The load factor is 1.70 (rounded) estimated by dividing 
+$67.00 average total compensation per hour by $39.50 average hourly 
+wage from tables 4 and 2, respectively, of the 2017 Congressional 
+Budget Office report, ``Comparing the Compensation of Federal and 
+Private-Sector Employees 2011-2015'' ( www.cbo.gov/system/files/115th-congress-2017-2018/reports/52637-federalprivatepay.pdf ; 
+accessed 01/21/2026). The loaded wage is the mean wage multiplied by 
+the load factor. The loaded wage, $58.08, equals $34.24 multiplied 
+by 1.6962.
+
+                                      Table 18--Cost to the U.S. Government
+----------------------------------------------------------------------------------------------------------------
+                                                            Burden hours      Annual
+                Cost category                   Reponses    per response      hours      Wage rate   Annual cost
+----------------------------------------------------------------------------------------------------------------
+Processing Marine Casualty Reports..........           64               1           64       $58.08       $3,717
+                                             -------------------------------------------------------------------
+    Total Annual Cost.......................  ...........  ..............  ...........  ...........        3,717
+----------------------------------------------------------------------------------------------------------------
+
+    Table 19 shows how the annualized cost of $3,717 generates a total 
+cost of $26,107 over a 10-year period.
+
+    Table 19--Total Cost to the U.S. Government Over a 10-Year Period
+------------------------------------------------------------------------
+                                                      Total, discounted
+                                       Annual                ($)
+              Year                  undiscounted   ---------------------
+                                        cost            3%         7%
+------------------------------------------------------------------------
+1...............................            $3,717     $3,609     $3,474
+2...............................             3,717      3,504      3,247
+3...............................             3,717      3,402      3,034
+4...............................             3,717      3,302      2,836
+5...............................             3,717      3,206      2,650
+6...............................             3,717      3,113      2,477
+7...............................             3,717      3,022      2,315
+8...............................             3,717      2,934      2,163
+
+[[Page 39480]]
+
+ 
+9...............................             3,717      2,849      2,022
+10..............................             3,717      2,766      1,890
+                                 ---------------------------------------
+    Total.......................            37,170     31,707     26,107
+                                 ---------------------------------------
+    Annualized..................  ................      3,717      3,717
+------------------------------------------------------------------------
+
+Net Cost
+    The net cost of this final rule is $15,705 = [($15,265 + $3,717) - 
+$3,277]. Table 20 shows the sum of the net costs over 10 years for a 
+total net cost of $110,309, or $15,705 annualized.
+
+                   Table 20--Total Net Costs to Foreign and U.S. Industry and U.S. Government
+----------------------------------------------------------------------------------------------------------------
+                                                                                              Total, discounted
+                                    Cost to     Cost to U.S.    Cost savings     Net cost            ($)
+              Year                  industry   Government ($)    to industry       ($)     ---------------------
+                                                                     ($)                        3%         7%
+----------------------------------------------------------------------------------------------------------------
+1...............................      $15,265          $3,717        $(3,277)      $15,705    $15,248    $14,678
+2...............................       15,265           3,717         (3,277)       15,705     14,804     13,718
+3...............................       15,265           3,717         (3,277)       15,705     14,373     12,820
+4...............................       15,265           3,717         (3,277)       15,705     13,954     11,982
+5...............................       15,265           3,717         (3,277)       15,705     13,548     11,198
+6...............................       15,265           3,717         (3,277)       15,705     13,153     10,465
+7...............................       15,265           3,717         (3,277)       15,705     12,770      9,781
+8...............................       15,265           3,717         (3,277)       15,705     12,398      9,141
+9...............................       15,265           3,717         (3,277)       15,705     12,037      8,543
+10..............................       15,265           3,717         (3,277)       15,705     11,686      7,984
+                                 -------------------------------------------------------------------------------
+    Total.......................  ...........  ..............  ..............      157,055    133,971    110,309
+                                 -------------------------------------------------------------------------------
+    Annualized..................  ...........  ..............  ..............  ...........     15,705     15,705
+----------------------------------------------------------------------------------------------------------------
+
+Benefits
+    Through this final rule, the Coast Guard updates casualty reporting 
+regulations under 33 CFR part 146, issued in 1955, to keep up with 
+technology and recognize that MODUs and FOFs are more like oceangoing 
+vessels than the fixed OCS facilities the regulations were originally 
+written to address. We harmonize reporting requirements for all foreign 
+MODUs, FOFs, and vessels to the same reporting standards as their U.S. 
+counterparts. By requiring foreign entities to report maritime 
+incidents under a more stringent regime and aligning their costs with 
+their U.S. counterparts, these changes will enhance consistency on the 
+OCS; improve awareness in the maritime domain through more complete 
+casualty data; and facilitate better contingency planning, risk 
+evaluation, and trend identification.
+    Coast Guard District, Area, Headquarters, District, and local 
+offices, and the OCS NCOE analyze and share accident information. In 
+addition, volume V of the Coast Guard ``Marine Safety Manual'' \31\ 
+contains guidance about broad distribution of accident and inspection 
+information when potentially hazardous or systemic problems are found 
+with a vessel, operator, or type of equipment. This data helps the 
+Coast Guard identify and address safety issues proactively while 
+improving the accuracy of the Coast Guard's decision making and policy 
+development. Therefore, we believe a qualitative benefit of this final 
+rule will come from the Coast Guard receiving reports of casualties 
+that we would not otherwise receive.
+---------------------------------------------------------------------------
+
+    \31\  www.uscg.mil/guidance ; accessed 01/21/2026.
+---------------------------------------------------------------------------
+
+Alternatives Considered
+(1) No Action
+    Keeping current reporting requirements would perpetuate reporting 
+requirement inconsistencies between foreign- and U.S. MODUs, FOFs, and 
+vessels engaged in an OCS activity. The resulting information gap 
+prevents the Coast Guard from maintaining domain awareness on the OCS. 
+Under the status quo, near misses on foreign MODUs, FOFs, and vessels 
+would continue to not be reported to the Coast Guard, unlike they are 
+on U.S. MODUs, FOFs, and vessels.
+    Although there is no increased reporting cost with this 
+alternative, it perpetuates information gaps in the maritime domain. 
+Therefore, the Coast Guard did not choose this alternative.
+(2) Lower Reporting Requirements for U.S. MODUs, FOFs, and Vessels To 
+Harmonize Reporting Requirements Under 33 CFR part 146
+    Rather than alter foreign reporting to harmonize with reporting in 
+46 CFR part 4, the Coast Guard could alter all U.S. reporting in 46 CFR 
+part 4 to harmonize with 33 CFR part 146. This will reduce the types of 
+triggers that generate a reportable marine casualty and likely decrease 
+the number of reports submitted to the Coast Guard. While reduced 
+reporting would be a cost saving to industry, it could also reduce the 
+Coast Guard's maritime domain awareness and increase risk to maritime 
+safety and the marine environment. This risk is exemplified in
+
+[[Page 39481]]
+
+the April 2011 U.S. Coast Guard Report of Investigation into the 
+Circumstances Surrounding the Explosion, Fire, Sinking and Loss of 
+Eleven Crew Members Aboard the Mobile Offshore Dilling Unit Deepwater 
+Horizon in the Gulf of Mexico, April 20-22, 2020 (Volume I), which is 
+available in the docket for this final rule. The Deepwater Horizon 
+report notes on page 106 that ``[t]he Coast Guard casualty reporting 
+regulations for foreign-flagged MODU's engaging in U.S. OCS activities 
+are insufficient.''
+    For instance, under this alternative, the Coast Guard would not 
+receive reports from vessels about casualties such as the flooding and 
+total loss of power events the Deepwater Horizon MODU experienced in 
+2008, allision, collision, grounding, or significant harm to the 
+environment. These types of casualties are often associated with 
+injury, fatality, and property damage and losing awareness of these 
+incidents would likely decrease safety on the OCS. This alternative 
+would also undermine the Coast Guard's ability to provide effective 
+oversight of rapidly developing technology and to help manage risks to 
+personnel, property, and the environment as the energy development 
+industry moves further offshore. In this environment, FOFs are typical 
+and, as explained in Section V. Discussion of Comments and Changes from 
+the SNPRM of this preamble, the current regulations in 33 CFR part 146 
+were originally developed and applied to fixed OCS facilities operating 
+closer to land. Therefore, the Coast Guard did not choose this 
+alternative.
+(3) Alter Reporting Requirements on Foreign MODUs, FOFs, and Vessels To 
+Harmonize With Reporting Requirements Under 46 CFR Part 4 (Chosen 
+Action)
+    The impact of altering the reporting requirements on foreign MODUs, 
+FOFs, and vessels engaged in an OCS activity to harmonize with 46 CFR 
+part 4 is demonstrated in the previous analysis. The Coast Guard chose 
+this alternative over no action or reducing reporting because it 
+increases domain awareness at no additional cost to U.S. industry while 
+not losing situational awareness on particular casualty types as with 
+alternative two.
+
+B. Small Entities
+
+    Under the Regulatory Flexibility Act 5 U.S.C. 601-612, we have 
+considered whether this final rule will have a significant economic 
+impact on a substantial number of small entities. The term ``small 
+entities'' comprises small businesses, not-for-profit organizations 
+that are independently owned and operated and are not dominant in their 
+fields, and governmental jurisdictions with populations of less than 
+50,000.
+    The analyses done in both the 2014 NPRM and the SNPRM showed that 
+the estimated impacts of this rulemaking will not have a significant 
+economic impact on a substantial number of small entities. In this 
+final rule, we show that this continues to be true with the final 
+estimated costs. Therefore, the Coast Guard certifies under 5 U.S.C. 
+605(b) that this final rule will not have a significant economic impact 
+on a substantial number of small entities.
+    Operations on the OCS encompass many different North American 
+Industry Classification System (NAICS) codes. In a random sample of 80 
+foreign entities taken from a population of 99 operators for this 
+regulatory analysis, 15 different NAICS codes applied.\32\ Therefore, 
+the standard for a small business in this sample has a wide range, with 
+revenue thresholds ranging from $16.5 million to $1,250 million, and 
+employee thresholds ranging from 100 to 1,000 employees.
+---------------------------------------------------------------------------
+
+    \32\ Not all operators had an available NAICS code; those that 
+did not were assumed to be small entities.
+
+              Table 21--Applicable NAICS Codes of Operators
+------------------------------------------------------------------------
+                                           Number of
+   NAICS code          Description         operators     Size standard
+                                           classified
+------------------------------------------------------------------------
+114111.........  Finfish Fishing........            1  1,000 Employees.
+212111.........  Oil & Gas Exploration              1  1,000 Employees.
+                  and Services.
+213111.........  Drilling Oil and Gas              11  1,000 Employees.
+                  Wells.
+213112.........  Support Activities for             4  $41,500,000.
+                  Oil and Gas Operations.
+236115.........  New Single-Family                  1  $39,500,000.
+                  Housing Construction
+                  (Excludes For-Sale
+                  Builders).
+237110.........  Water and Sewer Line               8  $39,500,000.
+                  and Related Structures
+                  Construction.
+238910.........  Site Preparation                   1  $16,500,000.
+                  Contractors.
+333132.........  Oil and Gas Field                  2  $1,250,000,000.
+                  Machinery and
+                  Equipment
+                  Manufacturing.
+423990.........  Other Miscellaneous                1  100 Employees.
+                  Durable Goods Merchant
+                  Wholesalers.
+424460.........  Fish & Seafood Merchant            1  100 Employees.
+                  Wholesalers.
+441222.........  Boat Dealers...........            2  $35,000,000.
+524298.........  All Other Insurance                4  $16,500,000.
+                  Related Activities.
+541330.........  Engineering Services...            2  $16,500,000.
+999990.........  Unclassified...........            1  N/A.
+------------------------------------------------------------------------
+
+    In this sample of 80 foreign entities, 63 had a known revenue or 
+employee count. Of these 63 foreign entities, 24 had annual revenues 
+less than the threshold for a small business of that NAICS code. Five 
+entities had fewer employees than the threshold for a small business of 
+that NAICS code. In total, 29 entities of the 80 (36 percent) were 
+small businesses.
+    The primary cost of this final rule will be the additional marine 
+casualty reports submitted by foreign businesses operating foreign 
+MODUs, FOFs, and vessels on the OCS. The Coast Guard estimates the 
+total annual cost will be $20,354 from an increase of 75 reports. While 
+this cost will be distributed across the entire industry, we do not 
+know the exact distribution, since the number of marine casualty 
+reports per operator depends on that operator's specific behavior, 
+which can change over time. In the last 10 years, the average number of 
+reports per owner was 1.03 (compared to the 5-year
+
+[[Page 39482]]
+
+average of 1.64 from table 4). Assuming that trend continues, no single 
+operator will generate more than two additional reports (rounding up) 
+under this final rule.
+    For this small entity analysis, we show the possible impact of two 
+reports per operator at $407. This assumes the total average cost per 
+report is $203.54 ($20,354 divided by 75 reports) to account for 
+variance in the complexity of a report. To have a significant impact on 
+an individual company under SBA standards, the cost will need to 
+represent more than 1 percent of an individual company's total revenue. 
+In the sample of companies with known revenue, none had an impact over 
+1 percent. The highest impact is 0.51 percent.
+
+  Table 22--Entities Where Cost Represents More Than 1 Percent of Total
+                                Revenues
+------------------------------------------------------------------------
+                                               With revenue
+                                              impact greater     Total
+                                                  than 1%
+------------------------------------------------------------------------
+Number of Operators........................                 0         80
+% of small entities with known revenue.....                0%         24
+% of entities with known revenue...........                0%         62
+------------------------------------------------------------------------
+
+C. Assistance for Small Entities
+
+    Under section 213(a) of the Small Business Regulatory Enforcement 
+Fairness Act of 1996, Public Law 104-121, we offer to assist small 
+entities in understanding this final rule so that they can better 
+evaluate its effects on them and participate in the rulemaking. The 
+Coast Guard will not retaliate against small entities that question or 
+complain about this final rule or any policy or action of the Coast 
+Guard.
+    Small businesses may send comments on the actions of Federal 
+employees who enforce, or otherwise determine compliance with, Federal 
+regulations to the Small Business and Agriculture Regulatory 
+Enforcement Ombudsman and the Regional Small Business Regulatory 
+Fairness Boards. The Ombudsman evaluates these actions annually and 
+rates each agency's responsiveness to small business. If you wish to 
+comment on actions by employees of the Coast Guard, call 1-888-REG-FAIR 
+(1-888-734-3247).
+
+D. Collection of Information
+
+    This final rule calls for a revised collection of information under 
+the Paperwork Reduction Act of 1995, 44 U.S.C. 3501-3520. As defined in 
+5 CFR 1320.3(c), ``collection of information'' comprises reporting, 
+recordkeeping, monitoring, posting, labeling, and other similar 
+actions. The title and description of the information collections, a 
+description of those who must collect the information, and an estimate 
+of the total annual burden follow. The estimate covers the time for 
+reviewing instructions, searching existing sources of data, gathering 
+and maintaining the data needed, and completing and reviewing the 
+collection.
+    This action contains proposed amendments to the existing 
+information collection requirements previously approved under OMB 
+Control Number 1625-0001.\33\ This amendment will increase the number 
+of affected facilities and the burden for the existing COI number as 
+described below.
+---------------------------------------------------------------------------
+
+    \33\  www.reginfo.gov/public/do/PRAOMBHistory?ombControlNumber=1625-0001 ; accessed 01/21/2026.
+---------------------------------------------------------------------------
+
+    Title: Report of Marine Casualty Information and Chemical Testing 
+of Commercial Vessel Personnel.
+    OMB Control Number: 1625-0001.
+    Summary of the COI: This collection requires responses such as the 
+preparation of written notification by completing a CG-2692 (series) 
+form and the processing of records. We use this information to identify 
+pertinent safety lessons and to initiate appropriate steps for reducing 
+the likelihood of similar accidents in the future. The COI will aid the 
+regulated public in assuring safe practices.
+    Need for Information: These reporting requirements permit the Coast 
+Guard to investigate marine casualties, as required by 46 U.S.C. 6301, 
+to determine the causes of casualties and whether existing safety 
+standards are adequate or new laws or regulations need to be developed. 
+Receipt of a marine casualty report is often the only way in which the 
+Coast Guard becomes aware of a marine casualty. It is, therefore, a 
+necessary first step that provides the Coast Guard with the opportunity 
+to determine the extent to which a casualty will be investigated.
+    Proposed Use of Information: In the short term, the information 
+provided in the report may also trigger corrective safety actions 
+addressing immediate hazards or defective conditions, further 
+investigations of mariner conduct or professional competence, or civil 
+or criminal enforcement actions by the Coast Guard, other Federal 
+agencies, or State and local authorities. In the long term, the 
+information contained in the report becomes part of the Coast Guard's 
+MISLE database. The Coast Guard uses the information in the MISLE 
+database to identify safety problems and long-term trends, publish 
+casualty summaries and annual statistics for public use, determine 
+whether additional safety oversight or regulation is needed, measure 
+the effectiveness of existing regulatory programs, and better focus the 
+Coast Guard's limited marine safety resources.
+    Description of the Respondents: The respondents are the owners, 
+agents, masters, operators, or persons in charge that notify the 
+nearest Coast Guard Sector Office, Marine Safety Unit, Coast Guard 
+District or Area Offices whenever a vessel or facility is involved in a 
+marine casualty.
+    Number of Respondents: We estimate an increase of 64 respondents 
+for a written report of marine casualty. This increases the total 
+number of respondents for reporting marine casualties from 5,617 to 
+5,681.
+    Frequency of Response: The notification response is required only 
+if a marine casualty occurs as defined in 46 CFR 4.03-2 and 46 CFR 
+4.05-1.
+    Burden of Response: For each response, we estimate that it takes 1 
+hour for a vessel crewmember to complete all the necessary forms (CG-
+2692 series). In addition, some marine casualty forms may undergo 
+additional processing by the respondents. To account for this 
+additional time, 10 percent of the forms submitted have 10 hours of 
+additional burden.\34\
+---------------------------------------------------------------------------
+
+    \34\ The Coast Guard estimates that it takes up to 1 hour to 
+complete the necessary CG-2692 (series) form. However, we received 
+public comments in 2013 on COI number 1625-0001 stating that some 
+submitters take more time--up to 8 to 12 hours--to complete the 
+form. See  https://www.regulations.gov/docket/USCG-2011-0710 ; 
+accessed 01/21/2026. The reason for this difference is that some 
+entities have the form(s) reviewed by shore-side personnel, such as 
+an attorney, prior to submission to the Coast Guard. The practice of 
+having a form reviewed by an attorney is not required by Coast Guard 
+regulation. While we believe that this does not typically occur, we 
+have adjusted our burden estimate to account for the added review.
+
+---------------------------------------------------------------------------
+
+[[Page 39483]]
+
+    Estimate of Total Annual Burden: We estimate an increase of 64 
+respondents for the 1-hour response of a written report of marine 
+casualty. This increases the total burden hours for reporting marine 
+casualties from 5,617 to 5,681 hours.
+    As required by 44 U.S.C. 3507(d), we will submit a copy of this 
+final rule to OMB for its review of the COI.
+    You are not required to respond to a COI unless it displays a 
+currently valid OMB control number. OMB has not yet completed its 
+review of this collection. Before the Coast Guard may enforce new 
+collection of information requirements introduced by this rule, OMB 
+would need to approve the Coast Guard's request to collect that 
+information. We will publish a Federal Register notice once OMB takes 
+action on our request.
+
+E. Federalism
+
+    A rule has implications for federalism under Executive Order 13132 
+(Federalism) if it has a substantial direct effect on States, on the 
+relationship between the National Government and the States, or on the 
+distribution of power and responsibilities among the various levels of 
+government. We have analyzed this final rule under Executive Order 
+13132 and have determined that it is consistent with the fundamental 
+federalism principles and preemption requirements described in 
+Executive Order 13132. Our analysis follows.
+    Congress specifically granted the authority to regulate artificial 
+islands, installations, and other devices permanently or temporarily 
+attached to the OCS and in the waters adjacent thereto as it relates to 
+the safety of life to the Secretary of the Department in which the 
+Coast Guard is operating. Section 1333(d)(1) of Title 43 U.S.C. states 
+that the Secretary ``shall have the authority to promulgate and enforce 
+such reasonable regulations with respect to lights and other warning 
+devices, safety equipment, and other matters relating to the promotion 
+of safety of life and property on the artificial islands, 
+installations, and other devices . . . as he may deem necessary.''
+    As this final rule will improve the Coast Guard's ability to 
+collect and analyze casualty data for incidents on the OCS to maintain 
+and improve safety of life on OCS installations, it falls within the 
+scope of authority Congress granted exclusively to the Secretary. This 
+authority has been delegated to the Coast Guard and is exercised in 
+this rulemaking, and the States may not regulate within this category 
+of marine casualty reporting. Therefore, this final rule is consistent 
+with the principles of federalism and preemption requirements in 
+Executive Order 13132.
+    While it is well settled that States may not regulate in categories 
+in which Congress intended the Coast Guard to be the sole source of a 
+vessel's obligations, the Coast Guard recognizes the key role that 
+State and local governments may have in making regulatory 
+determinations. Additionally, for rules with implications and 
+preemptive effect, Executive Order 13132 specifically directs agencies 
+to consult with State and local governments during the rulemaking 
+process. If you believe this final rule will have implications for 
+federalism under Executive Order 13132, please call or email the person 
+listed in the FOR FURTHER INFORMATION CONTACT section of this preamble.
+
+F. Unfunded Mandates
+
+    The Unfunded Mandates Reform Act of 1995, 2 U.S.C. 1531-1538, 
+requires Federal agencies to assess the effects of their discretionary 
+regulatory actions. In particular, the Act addresses actions that may 
+result in the expenditure by a State, local, or tribal government, in 
+the aggregate, or by the private sector of $100,000,000 (adjusted for 
+inflation) or more in any one year. Although this final rule will not 
+result in such expenditure, we do discuss the effects of this rule 
+elsewhere in this preamble.
+
+G. Taking of Private Property
+
+    This final rule will not cause a taking of private property or 
+otherwise have taking implications under Executive Order 12630 
+(Governmental Actions and Interference with Constitutionally Protected 
+Property Rights).
+
+H. Civil Justice Reform
+
+    This final rule meets applicable standards in sections 3(a) and 
+3(b)(2) of Executive Order 12988 (Civil Justice Reform) to minimize 
+litigation, eliminate ambiguity, and reduce burden.
+
+I. Protection of Children
+
+    We have analyzed this final rule under Executive Order 13045 
+(Protection of Children from Environmental Health Risks and Safety 
+Risks). This final rule is not an economically significant rule and 
+will not create an environmental risk to health or risk to safety that 
+might disproportionately affect children.
+
+J. Indian Tribal Governments
+
+    This final rule does not have tribal implications under Executive 
+Order 13175 (Consultation and Coordination with Indian Tribal 
+Governments) because it will not have a substantial direct effect on 
+one or more Indian tribes, on the relationship between the Federal 
+Government and Indian tribes, or on the distribution of power and 
+responsibilities between the Federal Government and Indian tribes.
+
+K. Energy Effects
+
+    We have analyzed this final rule under Executive Order 13211 
+(Actions Concerning Regulations That Significantly Affect Energy 
+Supply, Distribution, or Use). We have determined that it is not a 
+``significant energy action'' under that order because it is not a 
+``significant regulatory action'' under Executive Order 12866] and is 
+not likely to have a significant adverse effect on the supply, 
+distribution, or use of energy.
+
+L. Technical Standards
+
+    The National Technology Transfer and Advancement Act, codified as a 
+note to 15 U.S.C. 272, directs agencies to use voluntary consensus 
+standards in their regulatory activities unless the agency provides 
+Congress, through OMB, with an explanation of why using these standards 
+would be inconsistent with applicable law or otherwise impractical. 
+Voluntary consensus standards are technical standards (for example, 
+specifications of materials, performance, design, or operation; test 
+methods; sampling procedures; and related management systems practices) 
+that are developed or adopted by voluntary consensus standards bodies.
+    This final rule does not use technical standards. Therefore, we did 
+not consider the use of voluntary consensus standards.
+
+M. Environment
+
+    We have analyzed this final rule under Department of Homeland 
+Security Management Directive 023-01, Rev. 1, associated implementing 
+instructions, and Environmental Planning COMDTINST 5090.1 (series), 
+which guide the Coast Guard in complying with the National 
+Environmental Policy Act of 1969 (42 U.S.C. 4321-4370(f), and have 
+determined that this action is one of a category of actions that do not 
+individually or cumulatively have a significant effect on the human 
+environment. Our final Record of Environmental Consideration supporting 
+this determination is available in the docket. For instructions on 
+locating the docket, see the ADDRESSES section of this preamble.
+    This final rule is categorically excluded under paragraphs L54 and 
+L57
+
+[[Page 39484]]
+
+of Appendix A, Table 1 of DHS Instruction Manual 023-01-001-01, Rev. 
+1.\35\ Paragraph L54 pertains to regulations which are editorial or 
+procedural. Paragraph L57 pertains to regulations concerning the 
+manning, documentation, admeasurement, inspection, and equipping of 
+vessels. This final rule involves changing the reporting criteria for 
+certain casualties that occur on the OCS for foreign MODUs, FOFs, and 
+vessels engaged in OCS activities, and better harmonizes the casualty 
+reporting requirements with those in place for similar U.S. MODUs, 
+FOFs, and vessels. These changes promote the Coast Guard's marine 
+safety mission.
+---------------------------------------------------------------------------
+
+    \35\  https://www.fema.gov/sites/default/files/2020-07/fema_dhs_instruction-manual_023-01-001-01.pdf ; accessed 01/21/2026.
+---------------------------------------------------------------------------
+
+List of Subjects
+
+33 CFR Part 140
+
+    Continental shelf, Investigations, Marine safety, Occupational 
+safety and health, Penalties, Reporting and recordkeeping requirements.
+
+33 CFR Part 146
+
+    Continental shelf, Marine safety, Occupational safety and health, 
+Reporting and recordkeeping requirements, Vessels.
+
+46 CFR Part 4
+
+    Administrative practice and procedure, Drug testing, 
+Investigations, Marine safety, National Transportation Safety Board, 
+Nuclear vessels, Radiation protection, Reporting and recordkeeping 
+requirements, Safety, Transportation.
+
+46 CFR Part 109
+
+    Marine safety, Occupational safety and health, Oil and gas 
+exploration, Reporting and recordkeeping requirements, Vessels.
+
+    For the reasons discussed in the preamble, the Coast Guard amends 
+33 CFR parts 140 and 146 and 46 CFR parts 4 and 109 as follows:
+
+Title 33--Navigation and Navigable Waters
+
+PART 140--GENERAL
+
+0
+1. The authority citation for part 140 is revised to read as follows:
+
+    Authority:  43 U.S.C. 1333, 1348, 1350, 1356; Department of 
+Homeland Security Delegation No. 00170.1, Revision No. 01.4.
+
+0
+2. Revise Sec.  140.201 to read as follows:
+
+Sec.  140.201   General.
+
+    The Coast Guard investigates casualties occurring on the OCS 
+including:
+    (a) Casualties on floating OCS facilities, MODUs, and vessels as 
+described in 46 CFR part 4;
+    (b) Casualties on fixed OCS facilities as described in 33 CFR 
+146.30;
+    (c) Oil spillage exceeding 200 barrels of oil in one occurrence 
+during a 30-day period; and
+    (d) Other injuries, casualties, accidents, complaints of unsafe 
+working conditions, fires, pollution, and incidents occurring as a 
+result of OCS activities as the Officer in Charge, Marine Inspection, 
+deems necessary to promote the safety of life or property or protect 
+the marine environment.
+
+Sec.  140.203   [Amended]
+
+0
+3. Amend Sec.  140.203 as follows:
+0
+a. In paragraph (b) introductory text, remove the text ``Geological 
+Survey'' and add, in its place, the text ``Bureau of Safety and 
+Environmental Enforcement''.
+0
+b. In paragraph (b)(3), remove the text ``examing'' and add, in its 
+place, the text ``examining''.
+
+PART 146--OPERATIONS
+
+0
+4. The authority citation for part 146 is revised to read as follows:
+
+    Authority:  43 U.S.C. 1333, 1348, 1350, 1356; 46 U.S.C. 70001, 
+70116; sec. 109, Pub. L. 109-347, 120 Stat. 1884; Department of 
+Homeland Security Delegation No. 00170.1, Revision No. 01.4.
+
+0
+5. Revise Sec.  146.1 to read as follows:
+
+Sec.  146.1   Applicability.
+
+    Unless otherwise specified, the provisions of this subpart apply to 
+OCS facilities except mobile offshore drilling units.
+
+0
+6. Revise Sec.  146.30 to read as follows:
+
+Sec.  146.30   Notice of casualties.
+
+    (a) The owner, operator, or person in charge of a fixed OCS 
+facility must ensure that the Coast Guard is notified as soon as 
+possible after a casualty occurs, and by the most rapid means 
+available, of each casualty involving the facility which results in:
+    (1) Death;
+    (2) Injury to five or more persons in a single incident;
+    (3) Damage affecting the usefulness of primary lifesaving or 
+firefighting equipment;
+    (4) Injury causing any person to be incapacitated for more than 72 
+hours; or
+    (5) Damage to the facility exceeding $75,000 resulting from a 
+collision by a vessel with the facility.
+    (b) The notice required by paragraph (a) of this section must 
+identify the person giving the notice and the facility involved and 
+describe, insofar as practicable, the nature of the casualty and the 
+extent of injury to personnel and damage to property.
+    (c) Damage costs referred to in paragraph (a)(5) of this section 
+include the cost of labor and material to restore the facility to the 
+service condition which existed prior to the casualty, but does not 
+include the cost of salvage, cleaning, or gas freeing of the facility.
+    (d) The owner, operator, or person in charge of any floating OCS 
+facility must report casualties in accordance with 46 CFR part 4.
+    (e) The owner, operator, or person in charge of a foreign floating 
+OCS facility must include in the written casualty report required under 
+46 CFR 4.05-12 information relating to alcohol or drug involvement.
+
+0
+7. Revise subpart D to read as follows:
+
+Subpart D--Vessels, including MODUs--Notice of Casualty
+
+Sec.
+146.301 Applicability.
+146.303 Notice and written report of casualties.
+
+Sec.  146.301   Applicability.
+
+    This subpart applies to vessels, including MODUs, engaged in OCS 
+activities other than U.S. vessels already required to report marine 
+casualties under 46 CFR part 4 or subpart D of 46 CFR part 109.
+
+Sec.  146.303   Notice and written report of casualties.
+
+    The owner, operator, or person in charge of a vessel, including a 
+MODU, engaged in OCS activities must ensure compliance with the notice 
+of casualty requirements in 46 CFR part 4.
+
+Title 46--Shipping
+
+PART 4--MARINE CASUALTIES AND INVESTIGATIONS
+
+0
+8. The authority citation for part 4 is revised to read as follows:
+
+    Authority:  43 U.S.C. 1333; 46 U.S.C. 2103, 2303a, 2306, 6101, 
+6301, 6305, 56311, and 70034; Department of Homeland Security 
+Delegation No. 00170.1, Revision No. 01.4. Subpart 4.40 issued under 
+49 U.S.C. 1903(a)(1)(E).
+
+0
+9. Revise Sec.  4.01-1 to read as follows:
+
+Sec.  4.01-1   Scope of regulation.
+
+    The regulations in this part govern marine casualty reporting, 
+investigations of marine casualties, and submission of reports designed 
+to
+
+[[Page 39485]]
+
+increase the likelihood of timely assistance to floating outer 
+continental shelf (OCS) facilities, mobile offshore drilling units 
+(MODUs), and other vessels in distress.
+
+0
+10. Revise Sec.  4.01-3(c) to read as follows:
+
+Sec.  4.01-3   Reporting exclusion.
+
+* * * * *
+    (c) Vessels, floating OCS facilities, and MODUs are excluded from 
+the requirements of Sec.  4.05-1(a)(5) and (6) with respect to the 
+death or injury of shipyard or harbor workers when such accidents are 
+not the result of either a reportable casualty (for example, collision) 
+or a reportable equipment casualty (for example, cargo boom failure) 
+and are subject to the reporting requirements of Occupational Safety 
+and Health Administration (OSHA) under 29 CFR part 1904.
+* * * * *
+
+0
+11. Add Sec.  4.03-0 to subpart 4.03 to read as follows:
+
+Sec.  4.03-0   Definitions that apply to this subpart.
+
+    This subpart contains terms defined for purposes of this part. 
+Other definitions used in this part are in 33 CFR 140.10.
+
+0
+12. Revise Sec.  4.03-1 to read as follows:
+
+Sec.  4.03-1   Marine casualty or accident.
+
+    Marine casualty or accident means--
+    (1) Any casualty or accident involving any vessel other than a 
+public vessel that--
+    (i) Occurs upon the navigable waters of the United States, its 
+territories or possessions;
+    (ii) Involves any U.S. vessel wherever such casualty or accident 
+occurs; or
+    (iii) With respect to a foreign tank vessel operating in waters 
+subject to the jurisdiction of the United States, including the 
+Exclusive Economic Zone (EEZ), involves significant harm to the 
+environment or material damage affecting the seaworthiness or 
+efficiency of the vessel.
+    (2) Any casualty or accident involving a vessel, floating OCS 
+facility, or MODU as defined in 33 CFR part 140, when they are engaged 
+in an OCS activity.
+    (3) The term ``marine casualty or accident'' applies to events 
+including, but not limited to:
+    (i) Any fall overboard, injury, or loss of life of any person;
+    (ii) Grounding;
+    (iii) Stranding;
+    (iv) Foundering;
+    (v) Flooding;
+    (vi) Collision;
+    (vii) Allision;
+    (viii) Explosion;
+    (ix) Fire;
+    (x) Reduction or loss of electrical power, propulsion, or steering 
+capabilities;
+    (xi) Failures or occurrences, regardless of cause, which impair any 
+aspect of operation, components, or cargo;
+    (xii) Any other circumstance that might affect or impair 
+seaworthiness, efficiency, or fitness for service or route;
+    (xiii) Any incident involving significant harm to the environment;
+    (xiv) Any occurrences of injury or loss of life to any person while 
+diving from a vessel, and using underwater breathing apparatus; or
+    (xv) Any incident described in Sec.  4.05-1(a).
+
+Sec.  4.03-2   [Amended]
+
+0
+13. Amend Sec.  4.03-2 as follows:
+0
+a. In the introductory text, after the text ``vessel in commercial 
+service'' add the text ``, floating OCS facility, or MODU as described 
+in Sec.  4.03-1(1) and (2)''.
+0
+b. In paragraph (a)(2), after the text ``a vessel in commercial 
+service,'' add the text ``floating OCS facility, or MODU,''.
+0
+c. In paragraph (a)(4), after the text ``vessel'' add the text ``or 
+MODU''.
+
+0
+14. Revise Sec.  4.03-65(c)(1), (6), and (7), to read as follows:
+
+Sec.  4.03-65   Significant harm to the environment.
+
+* * * * *
+    (c) * * *
+    (1) Vessel, floating OCS facility, or MODU location and proximity 
+to land or other navigational hazards;
+* * * * *
+    (6) The nature of damage to the vessel, floating OCS facility, or 
+MODU; and
+    (7) Failure or breakdown aboard the vessel, floating OCS facility, 
+or MODU, its machinery, or equipment.
+
+0
+15. Revise the heading of subpart 4.04 to read as follows:
+
+Subpart 4.04--Notice of Potential Casualty
+
+0
+16. Revise Sec.  4.04-1 to read as follows:
+
+Sec.  4.04-1   Reports of potential casualty.
+
+    (a) An owner, charterer, managing operator, or agent of a vessel, 
+floating OCS facility, or MODU to which this part applies must 
+immediately notify either of the following Coast Guard officers if 
+there is reason to believe the vessel, floating OCS facility, or MODU 
+is lost or imperiled:
+    (1) The Coast Guard district rescue coordination center (RCC) 
+cognizant over the area the vessel, floating OCS facility, or MODU was 
+last operating; or
+    (2) The Coast Guard search and rescue authority nearest to where 
+the vessel, floating OCS facility, or MODU was last operating.
+    (b) Reasons for belief that a vessel, floating OCS facility, or 
+MODU is in distress include, but are not limited to, lack of 
+communication with or nonappearance of the vessel, floating OCS 
+facility, or MODU.
+
+0
+17. Revise Sec.  4.04-3 to read as follows:
+
+Sec.  4.04-3   Reports of lack of communication.
+
+    The owner, charterer, managing operator, or agent that is required 
+to report to the United States Flag Merchant Vessel Location Filing 
+System under the authority of section 212(A) of the Merchant Marine 
+Act, 1936 (46 App. U.S.C. 1122a), must immediately notify the Coast 
+Guard if more than 48 hours have passed since receiving communication. 
+This notification must be given to the Coast Guard district RCC 
+cognizant over the last known operating area.
+
+0
+18. Amend Sec.  4.04-5 by revising the introductory text and paragraph 
+(a) to read as follows:
+
+Sec.  4.04-5   Substance of reports.
+
+    The owner, charterer, managing operator, or agent, notifying the 
+Coast Guard under Sec.  4.04-1 or Sec.  4.04-3, must:
+    (a) Provide the name and identification number of the vessel, 
+floating OCS facility, or MODU, the names of the individuals on board, 
+and other information that may be requested by the Coast Guard (when 
+providing the names of the individuals on board for a passenger vessel, 
+the list of passengers need only meet the requirements of 46 U.S.C. 
+3502); and
+* * * * *
+
+0
+19. Amend Sec.  4.05-1 by revising paragraph (a) to read as follows:
+
+Sec.  4.05-1   Notice of marine casualty.
+
+    (a) Immediately after addressing resultant safety concerns, the 
+owner, agent, master, operator, or person in charge, must notify the 
+nearest Coast Guard units, to include Sector, Marine Safety Unit, Coast 
+Guard District or Area Offices whenever a vessel, floating OCS 
+facility, or MODU to which this part applies is involved in a marine 
+casualty consisting of--
+    (1) An unintended grounding, or an unintended strike of (allision 
+with) a bridge;
+    (2) An intended grounding, or an intended strike of a bridge, that 
+creates a hazard to navigation, the environment, or the safety of a 
+vessel, floating OCS facility, or MODU that meets any criterion of 
+paragraphs (a)(3) through (8) of this section;
+    (3) A loss of main propulsion, primary steering, or any associated 
+component
+
+[[Page 39486]]
+
+or control system that reduces the maneuverability of the vessel, 
+floating OCS facility, or MODU;
+    (4) An occurrence materially and adversely affecting the vessel's 
+seaworthiness or fitness for service or route, including but not 
+limited to fire, flooding, or failure of or damage to fixed fire-
+extinguishing systems, lifesaving equipment, auxiliary power-generating 
+equipment, or bilge-pumping systems;
+    (5) A loss of life;
+    (6) An injury that requires professional medical treatment 
+(treatment beyond first aid) and, if the person is engaged or employed 
+on board a vessel in commercial service, floating OCS facility, or MODU 
+in commercial service, that renders the individual unfit to perform 
+their routine duties; or
+    (7) An occurrence causing property-damage in excess of $75,000, 
+this damage including the cost of labor and material to restore the 
+property to its condition before the occurrence, but not including the 
+cost of salvage, cleaning, gas-freeing, drydocking, or demurrage.
+    (8) An occurrence involving significant harm to the environment as 
+defined in Sec.  4.03-65.
+* * * * *
+
+0
+20. Revise Sec.  4.05-5 to read as follows:
+
+Sec.  4.05-5   Substance of marine casualty notice.
+
+    The notice required in Sec.  4.05-1 must include the name and 
+official number of the vessel, floating OCS facility, or MODU involved, 
+the name of the owner or agent, the nature and circumstances of the 
+casualty, the locality in which it occurred, the nature and extent of 
+injury to persons, and the damage to property.
+
+0
+21. Amend Sec.  4.05-15 by revising paragraph (a) to read as follows:
+
+Sec.  4.05-15   Voyage records, retention of.
+
+    (a) The owner, agent, master, or person in charge of any vessel, 
+floating OCS facility, or MODU involved in a marine casualty must 
+retain such voyage records as are normally maintained, such as both 
+rough and smooth deck and engine room logs, bell books, navigation 
+charts, navigation work books, compass deviation cards, gyro records, 
+stowage plans, records of draft, aids to mariners, night order books, 
+radiograms sent and received, radio logs, crew and passenger lists, 
+articles of shipment, official logs, and other material which might be 
+of assistance in investigating and determining the cause of the 
+casualty. The owner, agent, master, other officer, or person 
+responsible for the custody thereof, must make these records available 
+upon request, to a duly authorized investigating officer, 
+administrative law judge, officer, or employee of the Coast Guard.
+* * * * *
+
+0
+22. Revise Sec.  4.05-20 to read as follows:
+
+Sec.  4.05-20   Report of accident to aid to navigation.
+
+    Whenever a vessel, floating OCS facility, or MODU collides with a 
+buoy, or other aid to navigation under the jurisdiction of the Coast 
+Guard, or is connected with any such collision, the person in charge 
+must report the accident to the nearest Officer in Charge, Marine 
+Inspection. No report on Form CG-2692 is required unless one or more of 
+the results listed in Sec.  4.05-1 occur.
+
+0
+23. Revise the heading of subpart 4.06 to read as follows:
+
+Subpart 4.06--Mandatory Chemical Testing Following Serious Marine 
+Incidents Involving Vessels in Commercial Service, Floating OCS 
+Facilities, or MODUs in Commercial Service
+
+0
+24. Amend Sec.  4.06-1 by revising paragraphs (b) and (e) to read as 
+follows:
+
+Sec.  4.06-1   Responsibilities of the marine employer.
+
+* * * * *
+    (b) When a marine employer determines that a casualty or incident 
+is, or is likely to become, a serious marine incident, the marine 
+employer must take all practicable steps to have each individual 
+engaged or employed on board the vessel, floating OCS facility, or MODU 
+who is directly involved in the incident chemically tested for evidence 
+of drug and alcohol use as required in this part.
+* * * * *
+    (e) The marine employer must ensure that all individuals engaged or 
+employed on board a vessel, floating OCS facility, or MODU are fully 
+informed about the requirements of this subpart, and that appropriate 
+vessel personnel are trained as necessary in the practical applications 
+of these requirements.
+
+Sec.  4.06-3   [Amended]
+
+0
+25. Amend Sec.  4.06-3 in paragraphs (a)(1) introductory text and 
+(b)(1) introductory text by, after the text ``vessel'' adding the text 
+``, floating OCS facility, or MODU''.
+
+0
+26. Amend Sec.  4.06-5 by revising paragraphs (a) and (b) to read as 
+follows:
+
+Sec.  4.06-5   Responsibility of individuals directly involved in 
+serious marine incidents.
+
+    (a) Any individual engaged or employed on board a vessel, floating 
+OCS facility, or MODU who is determined to be directly involved in an 
+SMI must provide a blood, breath, saliva, or urine specimen for 
+chemical testing when directed to do so by the marine employer or a law 
+enforcement officer.
+    (b) If the individual refuses to provide a blood, breath, saliva, 
+or urine specimen, this refusal must be noted on Forms CG-2692 and CG-
+2692B and in the vessel's official log book, if a log book is required. 
+The marine employer must remove the individual as soon as practical 
+from duties that directly affect the safe operation of the vessel, 
+floating OCS facility, or MODU.
+* * * * *
+
+0
+27. Amend Sec.  4.06-15 by:
+0
+a. In paragraphs (a)(1) and (3) and (b)(2), after the text ``vessel'' 
+adding the text ``, floating OCS facility, or MODU''; and
+0
+b. Adding paragraph (b)(3).
+    The addition reads as follows:
+
+Sec.  4.06-15   Accessibility of chemical testing devices.
+
+* * * * *
+    (b) * * *
+    (3) The owner, operator, or person in charge of a foreign vessel, 
+floating OCS facility, or MODU who is unable to meet the drug testing 
+requirements of 49 CFR part 40 must obtain approval for an alternative 
+drug testing process from the U.S. Coast Guard Drug and Alcohol 
+Prevention and Investigation Program Manager via email at   [email&#160;protected]   
+before engaging in OCS activities.
+
+0
+28. Amend Sec.  4.06-30 by revising paragraph (a) to read as follows:
+
+Sec.  4.06-30   Specimen collection in incidents involving fatalities.
+
+    (a) When an individual engaged or employed on board a vessel, 
+floating OCS facility, or MODU dies as a result of a serious marine 
+incident, blood and urine specimens must be obtained from the remains 
+of the individual for chemical testing, if practicable to do so. The 
+marine employer must notify the appropriate local authority, such as 
+the coroner or medical examiner, as soon as possible, of the fatality 
+and of the requirements of this subpart. The marine employer must 
+provide the specimen collection and shipping kit and request that the 
+local authority assist in obtaining the necessary specimens. When the 
+custodian of the remains is a person other than the local authority, 
+the marine employer must
+
+[[Page 39487]]
+
+request the custodian to cooperate in obtaining the specimens required 
+under this part.
+* * * * *
+
+0
+29. Amend Sec.  4.06-60 by revising paragraph (a) to read as follows:
+
+Sec.  4.06-60   Submission of reports and test results.
+
+    (a) Whenever an individual engaged or employed on a vessel, 
+floating OCS facility, or MODU is identified as being directly involved 
+in a serious marine incident, the marine employer must complete Form 
+CG-2692B (Report of Mandatory Chemical Testing Following a Serious 
+Marine Incident Involving Vessels in Commercial Service).
+* * * * *
+
+Sec.  4.07-45   [Amended]
+
+0
+30. Amend Sec.  4.07-45 by removing the word ``shall'' and adding, in 
+its place, the word ``must''.
+
+PART 109--OPERATIONS
+
+0
+31. The authority citation for part 109 is revised to read as follows:
+
+    Authority:  43 U.S.C. 1333; 46 U.S.C. 3306, 6101, 10104; 
+Department of Homeland Security Delegation No. 00170.1, Revision No. 
+01.4.
+
+0
+32. Revise Sec.  109.411 to read as follows:
+
+Sec.  109.411   Notice and reporting of casualty.
+
+    The owner, operator, or person in charge of a mobile offshore 
+drilling unit (MODU) regulated under this part must provide notice and 
+report marine casualties in accordance with 46 CFR part 4.
+
+    Dated: June 25, 2026.
+R.C. Compher,
+Captain, U.S. Coast Guard, Assistant Commandant for Prevention Policy.
+[FR Doc. 2026-13137 Filed 6-29-26; 8:45 am]
+BILLING CODE 9110-04-P

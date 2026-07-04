@@ -1,0 +1,1901 @@
+[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Rules and Regulations]
+[Pages 39529-39545]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13153]
+
+[[Page 39529]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+National Oceanic and Atmospheric Administration
+
+50 CFR Part 648
+
+[Docket No. 260625-0153]
+RIN 0648-BO26
+
+Magnuson-Stevens Fishery Conservation and Management Act 
+Provisions; Fisheries of the Northeastern United States; Northeast 
+Multispecies Fishery; Amendment 25 (Revised)
+
+AGENCY: National Marine Fisheries Service (NMFS), National Oceanic and 
+Atmospheric Administration (NOAA), Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: NMFS implements regulations to incorporate revised Atlantic 
+cod stock units into the Northeast Multispecies Fishery Management Plan 
+(FMP), and set status determination criteria (SDC), specifications, and 
+commercial and recreational management measures, for the four new cod 
+stocks, as proposed. This action also sets other recreational cod 
+measures necessary for the fishery. The purpose of this action is to 
+prevent overfishing, ensure rebuilding, and help achieve optimum yield 
+in the Northeast multispecies (groundfish) fisheries consistent with 
+the status of the stocks and requirements of the Magnuson-Stevens 
+Fishery Conservation and Management Act (Magnuson-Stevens Act).
+
+DATES: This rule is effective June 30, 2026.
+
+ADDRESSES: Copies of Amendment 25 (Revised), including the draft 
+Environmental Assessment (EA), the Regulatory Impact Review, and the 
+Regulatory Flexibility Act Analysis prepared by the Council in support 
+of this action, are available from Dr. Cate O'Keefe, Executive 
+Director, New England Fishery Management Council, 50 Water Street, Mill 
+2, Newburyport, MA 01950. The supporting documents are also accessible 
+via the internet at:  https://www.nefmc.org/management-plans/northeast-multispecies  or  https://www.regulations.gov .
+
+FOR FURTHER INFORMATION CONTACT: Liz Sullivan, Fishery Policy Analyst, 
+phone: 978-282-8493; email:   [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION: The Northeast Multispecies FMP specifies the 
+management measures for 13 groundfish species, both target and non-
+target. The Northeast Multispecies FMP was prepared by the Council and 
+is implemented by NMFS through regulations at 50 CFR part 648, 
+consistent with the requirements of the Magnuson-Stevens Act. The 
+groundfish fishery includes recreational and commercial components. 
+Members of the commercial fishery choose whether to fish as part of the 
+sector program or the common pool. Annually, the commercial groundfish 
+fishery has a value of approximately $40 million (ex-vessel revenue 
+from the most recent complete fishing year). Recreational fisheries, 
+including the recreational groundfish fishery, contribute substantial 
+value to the regional and national economies.
+
+Background
+
+    The New England Fishery Management Council (Council) adopted 
+Amendment 25 (Revised) to the Northeast Multispecies FMP on September 
+24, 2025. The Council submitted Amendment 25 (Revised), including a 
+draft EA, for NMFS approval on December 15, 2025. NMFS published a 
+notice of availability for Amendment 25 (Revised) on January 13, 2026 
+(91 FR 1257), with a 60-day comment period that closed on March 16, 
+2026. NMFS published a proposed rule for Amendment 25 (Revised) on 
+March 18, 2026 (91 FR 12993), with a 30-day public comment period that 
+ended on April 17, 2026. On April 6, 2026, the Greater Atlantic 
+Office's Regional Administrator, Michael Pentony, approved Amendment 25 
+(Revised) on behalf of the Secretary of Commerce. This final rule 
+implements the Amendment 25 (Revised) management measures, as proposed.
+    Under the provisions of the Magnuson-Stevens Act, on behalf of the 
+Secretary of Commerce, NMFS approves, disapproves, or partially 
+approves measures that the Council proposes, after reviewing for 
+consistency with the Act and other applicable law. Relying on the 
+research and management track assessments; other scientific, 
+commercial, and fishery data; economic, social, and ecological 
+information and expertise; and public comments from numerous public 
+meetings, the Council developed Amendment 25 (Revised) to specify SDC, 
+overfishing limits (OFL), acceptable biological catches (ABC), and 
+annual catch limits (ACL), and set other management measures for all 
+four cod stocks that are necessary to achieve optimum yield, prevent 
+overfishing, and ensure accountability. NMFS reviews recommended 
+regulations for consistency with the fishery management plan, plan 
+amendments, the Magnuson-Stevens Act, and other applicable law.
+    Based on information provided in the EA and considered during the 
+preparation of this action, and after consideration of public comments, 
+NMFS has approved all of the measures in the Amendment 25 proposed 
+rule, as recommended by the Council, and as described below. The 
+Amendment 25 (Revised) measures implemented in this final rule:
+      Incorporate the revised Atlantic cod stock unit 
+definitions for Georges Bank (GB) cod, Eastern Gulf of Maine (EGOM) 
+cod, Western GOM (WGOM) cod, and Southern New England (SNE) Atlantic 
+cod into the Northeast Multispecies FMP;
+      Set SDCs for the Atlantic cod stocks;
+      Set specifications including catch limits for four cod 
+stocks: GB cod for fishing year 2026; and EGOM cod, WGOM cod, SNE cod 
+for fishing years 2026-2027;
+      Define the apportionment method for setting the WGOM cod 
+commercial sub- ACL;
+      Establish the management uncertainty buffers for the 
+Atlantic cod stocks;
+      Set recreational sub-ACLs for WGOM cod and SNE cod;
+      Establish common pool trimester total allowable catch 
+(TAC) distributions, TAC closure areas, and baseline common pool trip 
+limits for the Atlantic cod stocks;
+      Set recreational measures for SNE cod; and
+      Establish a regulatory process for the Regional 
+Administrator to set recreational measures for GB and EGOM cod for 
+fishing year 2026.
+    In addition to the measures recommended by the Council in Amendment 
+25 (Revised), this action also implements measures that are not part of 
+Amendment 25 (Revised) but are implemented under section 305(d) 
+authority in the Magnuson-Stevens Act to make changes necessary to 
+carry out the FMP. Through this rulemaking, NMFS is implementing 
+recreational management measures for WGOM, EGOM, and GB cod pursuant to 
+this authority. These measures are dependent on the incorporation of 
+the new stocks of cod into the FMP.
+
+Atlantic Cod Stock Unit Definitions
+
+    Since the initial development of the FMP in 1985, the fishery has 
+been managed based on two Atlantic cod biological stock units: Gulf of 
+Maine (GOM) cod and GB cod. Amendment 25 (Revised) revises the FMP to 
+reflect four
+
+[[Page 39530]]
+
+cod biological stock units as defined in the 2023 Research Track 
+Assessment of Atlantic Cod: EGOM cod; WGOM cod; GB cod; and SNE cod. A 
+peer review of the 2023 research track assessment accepted the outcomes 
+of that assessment and its determination on the four-stock unit 
+structure for cod, and this represents the best scientific information 
+available. A copy of the Summary Report of the Atlantic Cod Research 
+Track Stock Assessment Peer Review is available at:  https://www.fisheries.noaa.gov/s3//2023-08/PanelSummaryReportoftheAtlantiCodRTPeerReviewAugust172023-mlt-508-8-23-23ajd-508gw.pdf .
+    In order to implement the management areas for the four new cod 
+stocks, which are used for possession limits, minimum sizes, sector 
+quotas, and other programs that are part of the Northeast Multispecies 
+FMP, this action defines the geographical areas for the four cod stocks 
+and management units in the Code of Federal Regulations (CFR) (see 
+figure 1 and the regulatory text below).
+[GRAPHIC] [TIFF OMITTED] TR30JN26.010
+
+Figure 1--Map of New Atlantic Cod Stock Units
+
+Status Determination Criteria
+
+    Section 303(a)(10) of the Magnuson-Stevens Act requires FMPs to 
+specify objective and measurable criteria, i.e., SDCs, for identifying 
+when a stock is overfished or is experiencing overfishing. This action 
+establishes SDCs for EGOM, WGOM, GB, and SNE cod, and provides 
+numerical estimates of these criteria, in order to incorporate the 
+results of the 2024 stock assessments and based on the peer reviewed 
+recommendations from the 2024 stock assessments. Table 1 provides the 
+SDCs for EGOM, WGOM, GB and SNE cod, and table 2 provides the resulting 
+numerical estimates of the SDCs. These numerical estimates would be 
+updated in subsequent stock assessments, as needed.
+
+                                     Table 1--Status Determination Criteria
+----------------------------------------------------------------------------------------------------------------
+                                                                                             Maximum fishing
+                Stock                   Biomass target (SSBMSY      Minimum biomass        mortality threshold
+                                              or Proxy)                threshold             (FMSY or proxy)
+----------------------------------------------------------------------------------------------------------------
+EGOM cod.............................  SSBMSY proxy...........  \1/2\ BMSY.............  F-40 percent of proxy
+WGOM cod.............................  SSBMSY proxy...........  \1/2\ BMSY.............  F-40 percent of proxy
+GB cod...............................  SSBMSY proxy...........  \1/2\ BMSY.............  F-40 percent of proxy
+SNE cod..............................  SSBMSY proxy...........  \1/2\ BMSY.............  F-40 percent of proxy
+----------------------------------------------------------------------------------------------------------------
+SSB = spawning stock biomass; MSY = maximum sustainable yield; B = biomass; F = fishing mortality.
+
+                          Table 2--Numerical Estimates of Status Determination Criteria
+----------------------------------------------------------------------------------------------------------------
+                                                                                  BMSY or
+                     Stock                               Model/ approach           proxy     FMSY or    MSY (mt)
+                                                                                    (mt)      proxy
+----------------------------------------------------------------------------------------------------------------
+EGOM cod.......................................  WHAM..........................      2,184       0.27        476
+WGOM cod.......................................  WHAM..........................     62,677       0.19     11,271
+GB cod.........................................  WHAM..........................      8,290       0.23      1,930
+SNE cod........................................  WHAM..........................     11,258       0.12      1,317
+----------------------------------------------------------------------------------------------------------------
+WHAM = Woods Hole Assessment Model; mt = metric tons.
+
+[[Page 39531]]
+
+Specifications for Fishing Years 2026-2027
+
+Overfishing Limits and Acceptable Biological Catches
+
+    This action implements catch limits for GB cod for the 2026 fishing 
+year and EGOM cod, WGOM cod, SNE cod for the 2026-2027 fishing years, 
+based on stock assessments completed in 2024 (see table 3), replacing 
+the fishing year 2026 default specifications for GOM cod and GB cod (91 
+FR 22467, April 27, 2026). Specifications for fishing year 2027 are 
+projections that would be considered and reaffirmed or adjusted in the 
+annual framework adjustment for 2027. The GB cod ABC may be revised 
+through Framework 72 to the FMP, which the Council voted to submit to 
+NMFS for review on December 3, 2025. If approved, the Framework 72 GB 
+cod ABC would replace and increase the GB cod ABC implemented here.
+
+   Table 3--Fishing Years 2026-2027 Overfishing Limits and Acceptable
+               Biological Catches for Atlantic Cod Stocks
+                            [Mt, live weight]
+------------------------------------------------------------------------
+                                         2026                2027
+              Stock              ---------------------------------------
+                                    OFL     U.S. ABC    OFL     U.S. ABC
+------------------------------------------------------------------------
+EGOM Cod........................       50         39       39         30
+WGOM Cod........................      603        460      769        586
+GB Cod *........................      433        106  .......  .........
+SNE Cod.........................       47         36       65         36
+------------------------------------------------------------------------
+Note: An empty cell indicates no OFL/ABC is adopted for that year. These
+  catch limits would be set in a future action.
+* If approved, Framework 72 would replace the 2026 specifications with
+  an OFL of 473 mt and a U.S. ABC of 151 mt.
+
+Annual Catch Limits
+
+Development of Annual Catch Limits
+    Implementing the transition from two to four stocks of Atlantic cod 
+requires updates to the current system of setting catch limits for the 
+cod stocks, including setting recreational sub-ACLs as needed, 
+developing a method for applying potential sector contributions (PSC) 
+to the new cod stocks, and establishing management uncertainty buffers 
+for the new cod stocks. Tables 4 and 5 provide the catch limits for the 
+2026 and 2027 fishing years.
+    This action creates a recreational sub-ACL for WGOM cod and 
+allocates 27.5 percent of the WGOM cod ABC to the recreational fishery. 
+The remaining 72.5 percent of the ABC is distributed between commercial 
+fisheries, including commercial groundfish, State, and other Federal 
+fisheries. This action also creates a recreational sub-ACL for SNE cod 
+and allocates 73.5 percent of the SNE cod ABC to the recreational 
+fishery, after first reducing the ABC to account for catch from State 
+and other Federal fisheries. The remaining 26.5 percent would be 
+allocated to the commercial groundfish fishery. A recreational 
+allocation of SNE cod is necessary to provide accountability to every 
+segment of the fishery that catches this stock, and to develop more 
+segment-specific management measures that more effectively reduce 
+fishing mortality for such segments.
+    This action does not change an individual's qualifying fishing 
+history or the way an individual vessel's PSC contributes to a sector's 
+cumulative PSC. To allocate to sectors and common pool vessels, NMFS 
+will continue to apply the existing sector PSCs for the previous GOM 
+and GB cod stocks to the commercial groundfish sub-ACL to calculate the 
+sector and common pool sub-ACLs as follows: For EGOM cod, the GOM cod 
+PSCs will be used; and for the revised GB cod and SNE cod, the GB cod 
+PSCs will be used. This is because, for each of these stocks, the new 
+stock area falls completely within the old stock area on which the PSC 
+is based.
+    The WGOM cod stock area is made up of three statistical areas (513, 
+514, 515) that were previously in the GOM cod stock area and three 
+statistical areas (521, 526, 541) that were previously in the old GB 
+cod stock area (see figure 1). This action implements an apportionment 
+method that applies existing sector PSCs to the new stock area to 
+approximate sector vessels' catch performances in the old stock areas 
+as closely as practicable, while facilitating effective conservation 
+and management of the new stocks. The commercial groundfish sub-ACL for 
+WGOM cod is divided into a northern and southern portion, which 
+correspond to the areas previously within the GOM cod and old GB cod 
+stock areas, respectively. The apportionment, described more fully in 
+the proposed rule, results in 68 percent of the commercial groundfish 
+sub-ACL from the northern portion and 32 percent from the southern 
+portion. More information regarding the analyses conducted to support 
+this decision is included in appendix III (Development of Phase I Cod 
+Transition--Sector Allocation Bridge Approach) of the Amendment 25 
+(Revised) EA.
+    The WGOM cod commercial groundfish sub-ACL will be divided by these 
+percentages, and the GOM cod and GB cod PSCs will be applied to the 
+northern and southern portions, respectively, before being recombined 
+to calculate total WGOM cod sector and common pool sub-ACLs. Therefore, 
+a sector will be allocated WGOM cod based on its GOM cod and GB cod 
+PSC, and could fish that quota throughout the WGOM cod stock area. 
+These measures are expected to facilitate catch accounting and 
+accountability that would help achieve biological conservation, manage 
+stocks at sustainable levels, and achieve optimum yield while 
+maintaining historic fishing opportunities.
+Management Uncertainty Buffers
+    For the new cod stocks, Amendment 25 (Revised) uses the same 
+management uncertainty approach established by Amendment 16. 
+Recreational sub-ACLs have a 7-percent buffer applied; commercial sub-
+ACLs generally have a 5-percent buffer. Although Amendment 16 set a 
+lower buffer for certain stocks that do not have a state waters 
+component, Amendment 25 (Revised) sets the fishing year 2026 GB cod 
+management uncertainty buffer at 5 percent. The sector management 
+uncertainty buffer can be removed under a 100-percent at-sea monitoring 
+(ASM) coverage target, except for SNE cod. The annual framework 
+(Framework 72) will provide more information regarding the ASM target 
+coverage level and explain how sector allocations could change based on 
+that target and any associated buffer changes.
+Sector and Common Pool Allocations
+    NMFS calculates a sector's allocation for each stock by summing its 
+members'
+
+[[Page 39532]]
+
+PSCs for a stock and then multiplying that total percentage by the 
+available commercial sub-ACL for that stock. Table 6 shows the total 
+GOM cod and GB cod PSCs for each sector, by stock, for fishing year 
+2026 based on 2026 preliminary sector rosters. It also provides the 
+allocations of EGOM, WGOM, GB, and SNE cod that each sector is 
+allocated, in metric tons (mt) and thousands of pounds (lb), for 
+fishing year 2026, under the specifications in this action. The common 
+pool sub-ACLs are also included in table 6 for comparison.
+    According to the regulations at Sec.  648.87(b)(1)(i)(C), a sector 
+may carry over up to 10 percent of its initial quota for each stock 
+that is unused at the end of the previous fishing year provided that 
+the total unused sector ACE plus the overall ACL for the following 
+fishing year does not exceed the ABC for the fishing year in which the 
+carryover may be harvested. Given the transition from two to four 
+stocks of Atlantic cod, there is no means of ensuring that unused 
+sector ACE for cod of the old stocks plus the overall ACL for the new 
+stocks would not exceed the ABCs of the new stocks. It would also not 
+be possible to fairly assign unused GOM or GB cod ACE to one of the new 
+stock areas. Consequently, sectors are not allowed to carry over unused 
+quota of fishing year 2025 GOM and GB cod into fishing year 2026.
+    This action also implements the trimester TAC distributions for the 
+EGOM cod, WGOM cod, SNE cod, and GB cod common pool sub-ACLs (see table 
+7) and sets the trimester TACs for each cod stock for fishing years 
+2026 and 2027 (see table 8), based on 2026 preliminary rosters. 
+Incidental catch TACs are also specified for the four new cod stocks 
+for common pool vessels fishing in the special management programs 
+(i.e., special access programs (SAP) and the Regular B Days-at-Sea 
+(DAS) Program) (tables 9-11).
+
+                                                     Table 4--Catch Limits for the 2026 Fishing Year
+                                                                    [Mt, live weight]
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                       Common                    Midwater                            State
+             Stock                Total ACL   Groundfish    Sector   pool sub-   Recreational     trawl     Scallop   Small-mesh  waters sub- Other sub-
+                                               sub-ACL     sub-ACL      ACL         sub-ACL      fishery    fishery    fisheries   component   component
+                                     A to H    A + B + C          A          B               C          D          E           F           G           H
+EGOM Cod.......................          37           37         35        1.4  ..............  .........  .........  ..........           0         0.4
+WGOM Cod.......................         436          408        279       10.6             118  .........  .........  ..........          23         5.0
+GB Cod.........................         101           93         89        3.2  ..............  .........  .........  ..........           0         8.5
+SNE Cod........................          34           25        6.5        0.2              18  .........  .........  ..........         6.1         3.2
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                    Table 5--Catch Limits for the 2027 Fishing Year *
+                                                                    [Mt, live weight]
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                       Common                    Midwater                            State
+             Stock                Total ACL   Groundfish    Sector   pool  sub-  Recreational     trawl     Scallop   Small-mesh  waters sub- Other sub-
+                                               sub-ACL     sub-ACL      ACL         sub-ACL      fishery    fishery    fisheries   component   component
+EGOM Cod.......................          29           28         27        1.0  ..............  .........  .........  ..........         0.2         0.3
+WGOM Cod.......................         555          519        356         14             150  .........  .........  ..........          30         6.4
+SNE Cod........................          34           25        6.5        0.2              18  .........  .........  ..........         6.1         3.2
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* GB cod does not have catch limits set for fishing year 2027, and is therefore not included in table 5.
+
+   Table 6--Cumulative PSC (Percentage), Estimated ACE (in mt) and Estimated ACE (in 1,000 lb) for Each Sector by Cod Stock for Fishing Year 2026 * #
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                          PSC                            ACE in mt                            ACE in 1,000 lb
+                                        MRI  -----------------------------------------------------------------------------------------------------------
+             Sector name               count                               EGOM    WGOM   GB cod  GB cod    SNE    EGOM    WGOM   GB cod  GB cod    SNE
+                                                 GOM cod       GB cod       cod     cod    east    west     cod     cod     cod    east    west     cod
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Fixed Gear Sector...................      57   0.620007170   10.25792369       0      11       9       0       1       0      24      21       0       2
+Maine Coast Community Sector........     106   15.94885074    2.01397400       6      33       2       0       0      13      73       4       0       0
+Maine Permit Bank...................      11    1.16763878    0.13459891       0       2       0       0       0       1       5       0       0       0
+Mooncusser Sector...................      50    7.47192323   11.96726174       3      26      11       0       1       6      57      24       0       2
+NEFS 2..............................     133   26.02830199   11.00087974       9      62      10       0       1      21     136      22       0       2
+NEFS 4..............................      58   11.22369265    8.64395731       4      30       8       0       1       9      66      18       0       1
+NEFS 5..............................      14    0.33003363    0.35527445       0       1       0       0       0       0       2       1       0       0
+NEFS 6..............................       3    0.16963046    0.53360157       0       1       0       0       0       0       2       1       0       0
+NEFS 8..............................     116    6.65297914   34.30912194       2      45      32       0       2       5      99      70       0       5
+NEFS 10.............................      20    1.68404030    0.17156341       1       3       0       0       0       1       8       0       0       0
+NEFS 11.............................      37   10.57507102    0.39824603       4      21       0       0       0       9      47       1       0       0
+NEFS 12.............................      24    3.70670785    0.66798830       1       8       1       0       0       3      17       1       0       0
+NEFS 13.............................      49    0.35715437    7.58727804       0       8       7       0       1       0      17      15       0       1
+New Hampshire Permit Bank...........       4    1.15613548    0.00082824       0       2       0       0       0       1       5       0       0       0
+Sustainable Harvest Sector 1........      46    5.93238203    5.43174188       2      17       5       0       0       5      37      11       0       1
+Sustainable Harvest Sector 2........      24    2.04310071    1.98369974       1       6       2       0       0       2      13       4       0       0
+Sustainable Harvest Sector 3........      10    1.20890197    1.05247319       0       3       1       0       0       1       7       2       0       0
+Common Pool.........................     489    3.72344849    3.48958783       1      11       3       0       0       3      23       7       0       1
+All Sectors.........................     762         96.28         96.51      35     279      89       0       7      77     616     197       0      14
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* The data in this table are based on final sector rosters for fishing year 2026.
+# Numbers are rounded to the nearest thousand pounds and nearest metric ton. In some cases, this table shows an allocation of 0, but that sector may be
+  allocated a small amount of that stock in pounds.
+
+[[Page 39533]]
+
+                     Table 7--Trimester TAC Distributions (Percent) for Atlantic Cod Stocks
+----------------------------------------------------------------------------------------------------------------
+                              Stock                                 Trimester 1     Trimester 2     Trimester 3
+----------------------------------------------------------------------------------------------------------------
+EGOM Cod........................................................              80              10              10
+WGOM Cod........................................................              55              22              23
+GB Cod..........................................................              33              33              34
+SNE Cod.........................................................              36              31              33
+----------------------------------------------------------------------------------------------------------------
+
+                                               Table 8--Fishing Years 2026-2027 Common Pool Trimester TACs
+                                                                   [Mt, live weight] *
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                               2026                                            2027
+                          Stock                          -----------------------------------------------------------------------------------------------
+                                                            Trimester 1     Trimester 2     Trimester 3     Trimester 1     Trimester 2     Trimester 3
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+EGOM Cod................................................             1.1             0.1             0.1             0.8             0.1             0.1
+WGOM Cod................................................             5.8             2.3             2.4             7.4             3.0             3.1
+GB Cod..................................................             1.1             1.1             1.1  ..............  ..............  ..............
+SNE Cod.................................................           0.083           0.071           0.076           0.072           0.062           0.066
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* The data in this table are based on final sector rosters for fishing year 2026.
+
+  Table 9--common Pool Incidental Catch TACs for the 2026-2027 Fishing
+                                  Years
+                            [Mt, live weight]
+------------------------------------------------------------------------
+                                 Percentage of
+             Stock                common pool       2026         2027
+                                    sub-ACL
+------------------------------------------------------------------------
+EGOM Cod......................               1         0.01         0.01
+WGOM Cod......................               1         0.11         0.14
+GB Cod........................            1.68         0.05  ...........
+SNE Cod.......................               1         0.00         0.00
+------------------------------------------------------------------------
+
+          Table 10--Percentage of Incidental Catch TACs Distributed to Each Special Management Program
+----------------------------------------------------------------------------------------------------------------
+                                                                 Regular B DAS program     Eastern U.S./Canada
+                             Stock                                     (percent)          haddock SAP (percent)
+----------------------------------------------------------------------------------------------------------------
+EGOM Cod......................................................                      100                      n/a
+WGOM Cod......................................................                      100                      n/a
+GB Cod........................................................                       60                       40
+SNE Cod.......................................................                      100                      n/a
+----------------------------------------------------------------------------------------------------------------
+
+           Table 11--Fishing Years 2026-2027 Incidental Catch TACs for Each Special Management Program
+                                                [Mt, live weight]
+----------------------------------------------------------------------------------------------------------------
+                                                                Regular B DAS program      Eastern U.S./Canada
+                                                             --------------------------        haddock SAP
+                            Stock                                                      -------------------------
+                                                                  2026         2027         2026         2027
+----------------------------------------------------------------------------------------------------------------
+EGOM Cod....................................................         0.01         0.01          n/a          n/a
+WGOM Cod....................................................         0.11         0.14          n/a          n/a
+GB Cod......................................................         0.03         0.00         0.02  ...........
+SNE Cod.....................................................         0.00         0.00          n/a          n/a
+----------------------------------------------------------------------------------------------------------------
+
+Common Pool Accountability Measures and Other Management Measures
+
+Common Pool Trimester Total Allowable Catch Areas for Cod Stocks
+
+    The Trimester TAC accountability measure (AM) requires closure of a 
+stock's Trimester TAC Area for common pool vessels fishing when common 
+pool catch is projected to reach 90 percent of the Trimester TAC for 
+that stock. For the cod stocks, these closures would apply to common 
+pool vessels fishing with trawl, gillnet, or longline/hook gear. 
+Amendment 25 (Revised) establishes Trimester TAC Areas for each of the 
+four cod stocks (table 12). These areas were developed based on the 
+statistical areas that made up 90 percent of the total commercial 
+catches using the most recent 5-year period (fishing years 2019 through 
+2023) of data.
+
+  Table 12--Trimester TAC Areas for Atlantic Cod Stocks, by Statistical
+                                  Area
+------------------------------------------------------------------------
+                                                     Trimester TAC area,
+                       Stock                         by statistical area
+------------------------------------------------------------------------
+EGOM Cod..........................................                   512
+WGOM Cod..........................................         513, 514, 521
+GB Cod............................................              522, 561
+SNE Cod...........................................         537, 539, 613
+------------------------------------------------------------------------
+
+[[Page 39534]]
+
+Common Pool Baseline Trip Limits for Cod Stocks
+
+    Amendment 25 (Revised) sets common pool trip limits for each of the 
+revised cod stocks for DAS Northeast multispecies permits and non-DAS 
+Northeast multispecies permits (Handgear A, Handgear B, and the Small 
+Vessel Category permit) (table 13). The common pool trip limits set by 
+this action are intended to provide for a limited amount of bycatch of 
+cod that may result from fishing for other stocks in the common pool. 
+For SNE cod, the common pool sub-ACL is insufficient to support any 
+amount of landings, even as incidental catch, and so Amendment 25 
+(Revised) prohibits common pool vessels' possession of this stock.
+
+                           Table 13--2026 Common Pool Daily and Trip Possession Limits
+----------------------------------------------------------------------------------------------------------------
+                                                2026 Common pool daily and trip possession limits
+                                --------------------------------------------------------------------------------
+             Stock                                                                                Small vessel
+                                       DAS permits           Handgear A         Handgear B          category
+----------------------------------------------------------------------------------------------------------------
+EGOM Cod.......................  25 lb (11 kg) per DAS,                  25 lb (11 kg) per trip.
+                                  up to 50 lb (23 kg)
+                                  per trip.
+----------------------------------------------------------------------------------------------------------------
+WGOM Cod.......................  50 lb (23 kg) per DAS,  50 lb (23 kg) per  25 lb (11 kg) per  50 lb (23 kg) per
+                                  up to 100 lb (45 kg)    trip.              trip.              trip.
+                                  per trip.
+----------------------------------------------------------------------------------------------------------------
+GB Cod.........................  25 lb (11 kg) per DAS,                  25 lb (11 kg) per trip.
+                                  up to 50 lb (23 kg)
+                                  per trip.
+----------------------------------------------------------------------------------------------------------------
+SNE Cod........................                    0 lb (0 kg) per trip; possession prohibited.
+----------------------------------------------------------------------------------------------------------------
+
+Recreational Management Measures
+
+WGOM Cod
+
+    This action sets the WGOM cod recreational minimum size of 23 
+inches (58.4 cm), a recreational possession limit of one fish, and a 
+recreational open season of September 1-October 31 (see table 14).
+    Although the proposed rule included a May open season for WGOM cod, 
+this opening was developed as a measure for fishing year 2025. In a 
+February 2, 2026 letter to the Regional Administrator, the Council 
+recommended that WGOM cod not have a May open season in fishing year 
+2026 and shortening the fall season to include only October.
+    At the time of the January Council meeting, preliminary fishing 
+year 2025 Wave 5 Marine Recreational Information Program (MRIP) data 
+had been made available only recently, which did not provide sufficient 
+time to incorporate the data into the Recreational Demand Model (RDM) 
+that underpins the Decision Support Tool (DST) prior to the Council 
+making its recommendation for recreational measures for WGOM cod and 
+GOM haddock. To account for this updated information for Council 
+consideration, Northeast Fisheries Science Center (Center) staff 
+applied a scaling adjustment of 3.65 times to prior model predicted 
+outcomes for mortality of cod for each set of measures considered by 
+the DST. As such, the Council was able to consider only a limited suite 
+of potential measures that prevented cod mortality from exceeding both 
+cod and haddock sub-ACLs in at least 50 percent of the model runs.
+    After the January 2026 Council meeting, Center staff fully 
+incorporated Wave 5 MRIP data into the RDM to re-estimate the potential 
+cod and haddock mortality under the Council-recommended measures and 
+the other sets of measures that were considered. Based on the new RDM 
+results, the impact of the Wave 5 data was less than initially expected 
+under the estimates produced via scaling of previous RDM results. A 2-
+month fall season (September and October) constrains catch below the 
+WGOM cod recreational sub-ACL in 77 percent of simulations. Center 
+staff also evaluated management options with a May open season for WGOM 
+cod, but none of those resulted in projected cod mortality under the 
+recreational sub-ACL in greater than 50 percent of the simulations run. 
+This information was communicated directly to the Council in an April 
+1, 2026, letter from the Regional Administrator, including a report of 
+the new RDM results.
+
+GB and EGOM Cod
+
+    Amendment 25 (Revised) establishes a temporary regulatory process 
+for the Regional Administrator to set EGOM cod and GB cod recreational 
+measures for fishing year 2026, following consultation with the 
+Council. Any measures set by the Regional Administrator would remain in 
+place unless changed in a future framework action. As previously 
+recommended by the Council, this action sets EGOM cod and GB cod 
+recreational measures consistent with WGOM cod measures, specifically a 
+minimum size of 23 inches (58.4 cm), with a possession limit of one 
+fish and an open season of September 1-October 31 (see table 14).
+
+SNE Cod
+
+    As discussed in Specifications for Fishing Years 2026-2027, 
+Amendment 25 (Revised) includes a very small recreational sub-ACL for 
+SNE cod. While the regulations provide procedures for the Regional 
+Administrator to set the recreational measures for a stock with a sub-
+ACL, in this case the Council included the recreational measures for 
+SNE cod as part of Amendment 25 (Revised) for fishing year 2026. 
+Amendment 25 (Revised) establishes a zero fish possession limit for SNE 
+cod for all recreational fishermen (charter/party and private anglers) 
+(see table 14). Given the very low ABC and recreational sub-ACL for 
+fishing year 2026, these are the only measures that would be expected 
+to reduce mortality sufficiently. The Regional Administrator will 
+evaluate the SNE cod recreational management measures annually.
+
+[[Page 39535]]
+
+                                 Table 14--Recreational Cod Management Measures
+----------------------------------------------------------------------------------------------------------------
+                                                                       Minimum size
+                  Stock                   Possession limit (For hire     in inches            Open season
+                                                 and private)              (cm)
+----------------------------------------------------------------------------------------------------------------
+WGOM Cod................................  1.........................       23 (58.4)  September 1-October 31.
+GB Cod..................................  1.........................       23 (58.4)  September 1-October 31.
+EGOM Cod................................  1.........................       23 (58.4)  September 1-October 31.
+SNE Cod.................................  No retention..............             n/a  CLOSED.
+----------------------------------------------------------------------------------------------------------------
+n/a: No minimum size set for SNE cod, because it is zero retention.
+
+Comments on Amendment 25 (Revised) Notice of Availability
+
+    NMFS received 261 comments during the comment period for the 
+Amendment 25 (Revised) notice of availability. Comments broadly 
+supported the approval and quick implementation of Amendment 25 
+(Revised). We did not receive any comments urging the disapproval of 
+the Amendment or opposing Amendment 25 (Revised) overall. NMFS took all 
+comments received on the notice of availability into consideration as 
+part of its approval of the Amendment.
+
+Comments and Responses on Measures in Amendment 25 Proposed Rule
+
+    NMFS received 14 comments in response to the Amendment 25 proposed 
+rule. Comments were submitted by Conservation Law Foundation (CLF), 
+Maine Coast Fisherman's Association (MCFA), V Northeast Fishery Sector, 
+Inc. (NEFS 5), NEFS 11, Oceana, U.S. Seafood Policy Council (USSPC), 
+and seven members of the public. A collective comment from 15 fishermen 
+was also submitted. One comment of the 14 was irrelevant to the 
+groundfish fishery and this action and is not addressed further. 
+Amendment 25 (Revised) was approved on April 6, 2026. Statements in 
+these comments that are specific to the agency's approval of Amendment 
+25 (Revised) rather than the measures proposed for this rulemaking, 
+including questioning the basis of the four cod stocks, are not 
+addressed further in this action. Similarly, comments regarding habitat 
+protections for cod, including protection of cod's food source, are 
+outside the scope of Amendment 25 (Revised) and not addressed further.
+
+Support for Proposed Measures
+
+    Comment 1: CLF, MCFA, NEFS 5, NEFS 11, Oceana, and a collective 
+comment from 15 fishermen expressed support for Amendment 25 and the 
+proposed regulations. USSPC supports the science-based efforts under 
+Amendment 25. A member of the public commented that using these updated 
+stocks can allow for more precise regulation, which could help prevent 
+overfishing and better support long-term population recovery.
+    Response 1: NMFS agrees and is publishing this final rule to 
+implement these measures to carry out the goals and objectives of 
+Amendment 25.
+
+Timing
+
+    Comment 2: NEFS 5 and NEFS 11 emphasized the need for NMFS to 
+implement Amendment 25 (Revised) as soon as possible in the 2026 
+fishing year. They highlighted the complications sectors will 
+experience tracking and managing quota and catch for both two and four 
+stocks, until Amendment 25 is implemented. CLF and Oceana also stressed 
+the need for timely implementation of the measures in this final rule. 
+Comments from MCFA and a collective comment signed by 15 fishermen both 
+asked that Amendment 25 not be implemented mid-season; however, both 
+comments went on to say that if approved for 2026, Amendment 25 should 
+be implemented as close to May 1 as possible.
+    Response 2: NMFS is publishing this final rule so that Amendment 25 
+(Revised) will be in place as soon after May 1, 2026, as possible. To 
+further facilitate the transition to four stocks for Northeast 
+multispecies sectors and their member vessels, NMFS has provided 
+information from the approved Amendment 25 (Revised) to groundfish 
+sector managers to ensure they are aware of and can track quota and 
+catch of the cod stocks.
+    Comment 3: One commenter stated that a mid-cycle shift would 
+undermine the rule's scientific basis and enforceability of ACLs due to 
+the difficulty a delay presents for catch accounting, and that the 
+change needs to be phased in so that the industry, Council, and NMFS 
+can incorporate updated stock boundaries and age data into the next 
+full specifications cycle.
+    Response 3: Implementing this Amendment will facilitate accurate 
+catch accounting and data for effective management in the current 
+fishing year and consideration in future assessments and management. 
+Currently, the fishery is operating under default quotas for cod that 
+are 75 percent of the 2025 quotas for two stocks, and those default 
+quotas expire on October 31, 2026. Once implemented, the fishery will 
+be managed as four stocks using catch advice specifically designed for 
+those stocks. Further delays in implementing these four stock measures 
+could affect the transition and potentially adversely affect catch 
+accounting or information that would be included in future management 
+considerations. NMFS is addressing these concerns by implementing this 
+final rule as soon as possible. Also, consistent with the commenter's 
+suggestion to engage fishing stakeholders and use transitional 
+accounting protocols to ensure better catch accountability, NMFS has 
+provided information to the groundfish sector managers to ensure they 
+are aware of and can track quota and catch of the cod stocks under the 
+old and new management schemes, to avoid the undermining of the goals 
+and objectives of Amendment 25 (Revised). Implementation of this action 
+is based on and consistent with the best scientific information 
+available. The 2024 management track assessments used to develop the 
+specifications for fishing years 2026 and 2027 for the four cod stocks 
+were peer-reviewed, based on the peer-reviewed research track 
+assessment, which all necessarily included new stock boundaries and age 
+data. Attempting to manage the fishery on a two-stock basis for an 
+additional entire fishing year would not fully incorporate this 
+available science.
+    Comment 4: As part of its comment urging immediate implementation 
+of Amendment 25, CLF referenced its February 17, 2026, petition for 
+rulemaking related to Atlantic cod. Specifically, CLF petitioned the 
+Department of Commerce and NOAA to approve Amendment 25 (Revised), and 
+to immediately notify the Council that it must take action to end 
+overfishing on WGOM and SNE cod stocks and prepare rebuilding plans 
+within 2 years for all four cod stocks or prepare a Secretarial 
+Amendment to take those actions without the Council.
+
+[[Page 39536]]
+
+    Response 4: Amendment 25 (Revised) was approved on April 6, 2026, 
+incorporating the four cod stocks into the FMP. This final rule 
+implements the measures necessary to carry out the goals and objectives 
+of the Amendment and addresses the issues raised by CLF. The 
+specifications approved in this action have been determined to prevent 
+overfishing. Additionally, with the incorporation of SDCs for the four 
+cod stocks into the FMP through this action, NMFS can now proceed with 
+the next steps in making status determinations and providing guidance 
+to the Council regarding the development of rebuilding plans, as 
+required under the Magnuson-Stevens Act.
+
+Commercial and Recreational Allocations
+
+    Comment 5: NEFS 5 and NEFS 11 expressed concern for the methodology 
+used to allocate Atlantic cod to sectors. While the two sectors support 
+using the approach developed for Amendment 25 (Revised) as a temporary 
+measure, NEFS 5 and NEFS 11 strongly urged NMFS and the Council to 
+continue their work on the cod transition plan to develop new 
+allocations that are more in-line with vessel landing history under the 
+four-cod stock structure. MCFA and the collective comment from a group 
+of fishermen also commented on the need to make longer-term allocation 
+decisions through a transparent and deliberate process. One commenter 
+stated that NMFS should provide a sensitivity analysis of the 
+alternative qualifying years for the WGOM cod stock PSCs and 
+apportionment and explain how the 2001-2006 recreational baseline and 
+the separate 2010-2012, 2017, and 2022-2023 commercial baseline satisfy 
+National Standard 2. The commenter asked why the PSC baseline remains 
+appropriate despite changes in effort and gear and stated that NMFS 
+should use a new approach that reflects a different choice of fishing 
+patterns than that chosen by the Council.
+    Response 5: The bridge approach used in Amendment 25 (Revised) to 
+allocate the four stocks of cod to sectors using the PSCs from two cod 
+stocks was developed as part of Phase 1 of the cod transition plan. The 
+Council is planning Phase 2 of the cod transition plan, recognizing the 
+need for an extended period of time in the next phase. The Council may 
+consider updated information and analyses to potentially establish new 
+PSCs or new allocative measures for each of the four cod stocks to 
+promote conservation, as well as developing other management measures, 
+consistent with the comments submitted for this action and during the 
+development of Amendment 25 (Revised). NMFS is committed to working 
+with the Council on the continuation of the cod transition plan 
+following the implementation of Amendment 25 (Revised). Input from 
+stakeholders will be critical as part of this process.
+    The data used for the apportionment decision complies with the 
+requirement to consider the best scientific information available 
+during the development of this action. National Standard 2 requires 
+conservation and management measures to be based on the best scientific 
+information available, not the best data possible. It requires a 
+thorough review of all the relevant information available at the time 
+the decision was made to ensure superior information is not 
+disregarded. There is no indication that better or contrary information 
+was available and not considered. As explained in the EA (Section 
+7.1.1), Amendment 25 (Revised) is based on the most recent information 
+from the 2024 management track assessments and prior Atlantic cod 
+research track assessment. The mortality limits were based on the 
+scientific advice of the Council's Scientific and Statistical 
+Committee, which recommends ABCs to the Council. Bycatch information 
+was based on the most recent assessments, and economic impacts were 
+analyzed using the Quota Change Model. Consistent with National 
+Standard 2 guidance, the catch data used for the apportionment was 
+chosen and evaluated for its relevance to the goals and objectives of 
+Amendment 25 (Revised) of effectively managing the four cod stocks 
+within the FMPs system of ACLs and AMs to ensure catch remains below 
+desired targets. The Council considered which catch data best reflected 
+fishing under the sector system for the purpose of preserving the 
+status quo to the best extent practicable during the interim period of 
+Phase 1. There were extensive discussions and consideration of the 
+basis of these decisions and the years that would best reflect fishing 
+operations. Numerous apportionment options were considered. The fishing 
+years used were refined from entire series of years of available data 
+since the sector system's implementation for the purpose of best 
+reflecting stock abundance, catch information, and the conservation and 
+management measures that governed the fishery during that period. Those 
+decisions, along with the Council's decisions to allocate between the 
+recreational and commercial fisheries, sought to maintain the fair and 
+equitable balance established in Amendment 16 while promoting 
+conservation of the new cod stocks by preventing overfishing and 
+establishing a basis on which the NMFS may notify the Council of the 
+necessity of new rebuilding plans as appropriate. The fishing years 
+chosen incorporate many factors that reasonably reflect sector 
+operations since sectors were established. The decisions also were 
+well-informed by economic analyses that the Council considered to 
+provide for the sustained participation of fishing communities and 
+minimize adverse economic impacts on such communities to the extent 
+practicable, consistent with National Standard 8.
+    Comment 6: One commenter requested additional information regarding 
+the selection of the management uncertainty buffers, asking how the 
+buffers would be adjusted if recreational estimates are revised mid-
+season. The commenter questioned why a 100-percent at-sea monitoring 
+coverage target is not sufficient for the elimination of the management 
+uncertainty buffer for SNE cod. CLF noted that a prolonged delay of 
+implementation might warrant more precautionary buffers to ensure 
+conservation objectives are met, but points to no information 
+supporting this concern.
+    Response 6: Management uncertainty buffers for cod are set 
+consistent with the majority of other stocks managed under the FMP, as 
+previously established in Amendment 16, to account for the 
+uncertainties associated with discard estimation and quota monitoring, 
+with the exception of GB cod. Stocks in the FMP with no inshore 
+component receive a 3-percent buffer, but in the case of GB cod, the 
+Council chose a higher buffer of 5 percent to reflect additional 
+uncertainties of managing the U.S./Canada shared resource. The Council 
+may revisit these buffers in future management actions. For SNE cod, 
+the Council recommended not removing the buffer for sectors, even under 
+a 100-percent ASM coverage target, because of the overlap of the stock 
+area with the area west of 71[deg]30' W longitude that is excluded from 
+sector ASM coverage. There is no information showing that 
+implementation of this action as soon as practicable during this season 
+will undermine the effectiveness of these buffers.
+    Recreational estimation methods are not changed mid-season. 
+Previously, when there have been changes to the recreational estimation 
+process, they have been incorporated into catch accounting only after 
+being incorporated into the specification setting process.
+
+[[Page 39537]]
+
+Economic Impacts
+
+    Comment 7: USSPC commented that the transition from two to four 
+stocks of cod should be implemented in a way that safeguards the 
+strength, stability, and competitiveness of the American seafood 
+industry. It expressed concern that the proposed measures would have 
+economic risks to seafood industries. It commented that NOAA should 
+implement a phased transition to the four-stock framework, provide 
+economic mitigation or support for impacted businesses, regularly 
+reassess commercial and recreational allocation splits, simplify 
+compliance, and incorporate U.S. seafood supply chain resilience into 
+regulatory impact analyses.
+    Response 7: Amendment 25 (Revised) represents the transition from 
+two to four stocks of cod under Phase 1 of the Cod Stock Transition 
+Plan. Appendix III of the Amendment 25 (Revised) EA provides additional 
+details on the quota setting method that would allow for quotas to be 
+set, monitored, and managed for four areas that match the four new 
+stock units that were used in assessments, while not revising the 
+existing PSCs for the previous two units of cod. As part of Phase 2, 
+the Council may develop potential new reallocations between the 
+commercial and recreational sectors, and within the commercial sector, 
+but that is not part of the measures implemented in this rule.
+    This action includes an evaluation of alternative management 
+approaches relative to economic and social impacts, which includes the 
+impacts to affected communities. Specifically, Section 6.5 of the 
+Amendment 25 (Revised) EA and the Regulatory Impact Review in Section 
+7.11.1 of the Amendment 25 (Revised) EA describe the economic impacts 
+of the action and its alternatives, and Section 6.6 of the EA describes 
+the social impacts of the action. NMFS evaluated the conservation and 
+management measures considered, selected, and implemented in this 
+action to ensure they meet all of the requirements of the Magnuson-
+Stevens Act, including minimizing costs to the extent practicable while 
+seeking the greatest overall benefit to the Nation, particularly with 
+respect to food production and recreational opportunities and taking 
+into account the protection of marine ecosystems.
+    Comment 8: One commenter expressed concern that the analysis 
+accompanying this action does not adequately account for distributional 
+shifts in fishing effort. The commenter states that without analyzing 
+where fishing effort will shift, NMFS cannot determine if fishing 
+mortality on Atlantic cod stocks will decrease. The commenter 
+additionally states that the analysis should include scenario results 
+showing likely effort redistribution under alternative allocation 
+formulas and the expected biological consequences of those shifts, 
+stating that this analysis is a legal requirement to ensure no coastal 
+community is unfairly burdened. Another commenter expressed concern 
+regarding the economic impact for fishermen who may face stricter catch 
+limits or reduced access to certain fishing areas.
+    Response 8: Amendment 25 (Revised) establishes four stocks of 
+Atlantic cod and establishes specifications for these stocks consistent 
+with the 2023 Research Track Assessment for Atlantic cod and subsequent 
+management track assessments completed in 2024. Based on the 
+assessments, the specifications limit fishing mortality within each 
+stock area sufficiently to facilitate achievement of optimum yield and 
+prevent overfishing of the newly established stocks of Atlantic cod, as 
+required by National Standard 1. Consistent with National Standard 3, 
+the selected management areas balance known and reasonably foreseeable 
+biological, geographic, economic, technical, social, and ecological 
+concerns to best achieve the FMP's goals and objectives. The FMP and 
+its conservation and management measures are subject to continual 
+Council and NMFS oversight and evaluation with the goal of achieving 
+optimum yield on a continuing basis, including evaluating fishing 
+activity that occurs after implementation of this action.
+    The stock area and apportionment measures approved in this action 
+reasonably promote conservation, do not discriminate between residents 
+of different states, and are fair and equitable, consistent with 
+National Standard 4. The measures have different impacts on different 
+participants because of the differences in the distribution of fish and 
+varying stock levels in the complex. As explained in Section 7.1.1 of 
+the Amendment 25 (Revised) EA, some of these impacts may be localized, 
+but these distributive impacts are difficult to avoid given the 
+requirement to rebuild overfished stocks.
+    National Standard 8 requires that measures take into account the 
+importance of fishing resources to communities by considering economic 
+and social data. Section 6.5 of the Amendment 25 (Revised) EA and the 
+Regulatory Impact Review in Section 7.11.1 of the Amendment 25 
+(Revised) EA describe the economic impacts of the action and its 
+alternatives, and Section 6.6 of the EA describes the social impacts of 
+the action. As noted in the EA, there could be behavioral fishing 
+changes due to the transition from two to four cod stocks. For example, 
+few trips occurred in the EGOM cod stock area in fishing year 2023, but 
+the EA noted that this could change given the expectation that the WGOM 
+cod quota will be constraining. However, the quota change model is 
+largely unable to predict large shifts in effort, because it is based 
+on a data period when there were only two stocks of cod and the model 
+implicitly assumes that fishing practices during the data period are 
+representative of future effort.
+
+Commercial and Recreational Measures
+
+    Comment 9: One recreational fisherman provided input on possible 
+recreational measures such as maximum size limits, and suggested 
+setting ``seasonal catch totals'' as an alternative to ``minimalized 
+numerical or weight possession limits,'' which they stated will 
+economically affect offshore charters. One member of the public 
+expressed concern that recreational fishing restrictions like limited 
+seasons and possession limits have the possibility to reduce community 
+engagement and economic stimulation in that sector.
+    Response 9: The recreational measures implemented in this final 
+rule were developed in consultation with the Council and its 
+recreational advisory panel and are intended to allow the recreational 
+fishery to achieve but not exceed the recreational sub-ACLs for the 
+year. Maximum size limits or slot limits have been previously 
+implemented but were not recommended for any of the cod stocks for 
+fishing year 2026. The commenter referenced setting seasonal catch 
+totals but did not provide more context. Larger scale changes (i.e., 
+beyond adjustments to season, minimum size, and bag limit) to 
+recreational management of stocks in the FMP could be considered 
+through the Council process but are out of scope for Amendment 25 
+(Revised).
+    Comment 10: One fisherman recommended small possession limits for 
+both recreational and commercial sectors for cod off Montauk NY.
+    Response 10: The zero-fish possession limit for recreational 
+fishermen and common pool vessels is based on the very low ABC, 
+recreational sub-ACL, and common pool sub-ACL. Because of the other 
+effort controls on sector vessels, zero possession was not determined 
+to be necessary at this time, although it is an option that the Council
+
+[[Page 39538]]
+
+has considered and could pursue in the future. Recreational and common 
+pool possession limits are considered annually (and common pool 
+possession limits can be changed in-season) by the Regional 
+Administrator, and the limits for SNE cod could be increased if it is 
+determined to be possible.
+
+NEPA Analysis
+
+    Comment 11: One commenter stated that the EA should include more 
+ecosystem factors to ensure the rebuilding targets for cod remain 
+realistic in a changing climate and should also include cumulative 
+effects of other rulemakings.
+    Response 11: As described in the Amendment 25 (Revised) EA, the 
+status determination criteria, including the biomass target, were 
+developed as part of the Atlantic Cod Research Track Assessment 
+completed in 2023, and the management track assessments completed in 
+2024. ``Ecosystem and climate influences'' was the first Term of 
+Reference for the research track assessment, and the 2023 peer review 
+found that this had been met for all four stocks of cod. Future 
+management track assessments will continue to recalculate the numeric 
+estimates for each of the four cod stocks' SDCs to reflect any changes 
+in the understanding of the stocks' statuses. Cumulative effects of 
+other actions are considered as part of the Amendment 25 (Revised) EA, 
+Section 6.7.
+
+Changes From the Proposed Rule
+
+    As described more fully in Recreational Management Measures, this 
+final rule approves a recreational open season for WGOM cod for 
+September and October only and does not include the May season that was 
+originally proposed.
+    Sector and common pool allocations have been updated to reflect 
+final sector rosters for fishing year 2026, rather than the 2025 
+rosters used in the proposed rule.
+
+Classification
+
+    NMFS is issuing this rule pursuant to sections 304(b)(3) and 305(d) 
+of the Magnuson-Stevens Act, which provide specific authority for 
+implementing this action. Pursuant to section 305(d), this action 
+implements recreational measures for the EGOM, WGOM, and GB cod stocks, 
+in accordance with Sec.  648.89(f)(3), and is necessary to carry out 
+the Northeast Multispecies FMP. The NMFS Assistant Administrator has 
+determined that this final rule is consistent with Amendment 25 
+(Revised), the Northeast Multispecies FMP, other provisions of the 
+Magnuson-Stevens Act, and other applicable law.
+    This final rule has been determined to be not significant for 
+purposes of Executive Order (E.O.) 12866. This final rule is not an 
+E.O. 14192 regulatory action because this rule is not significant under 
+E.O. 12866.
+    The Assistant Administrator for Fisheries finds that this action is 
+excepted from the 30-day delayed effectiveness of this action pursuant 
+to 5 U.S.C. 553(d)(1) because it relieves restrictions and is otherwise 
+justified by good cause under 5 U.S.C. 553(d)(3).
+    These measures should be implemented upon publication because they 
+relieve the restrictions of the lower default catch limits that are in 
+place until superseded by this action. Further delay in implementation 
+of these measures would limit economic opportunities for the fishery to 
+fully access groundfish quota within the 2026 fishing year. Until the 
+rule is in effect, fishermen are restricted in their opportunity to 
+fish, because they are operating under default quotas that are based on 
+75 percent of the 2025 specifications set for the two cod stocks. The 
+default allocations are overall lower than the specifications for cod 
+implemented through this final rule. Waiving the 30-day delay for this 
+rule would immediately relieve the 75-percent catch limit restriction. 
+Fishermen are currently fishing under more-restrictive default catch 
+limits and do not need time to prepare for the effective date of this 
+action. In fact, fishermen who are subject to this action expect and 
+need timely implementation to avoid adverse economic impacts. While 
+NMFS has worked closely with sector managers to use the online quota 
+tracking systems available to allow managers to track quota under both 
+the 2-stock and 4-stock regimes, immediate implementation will reduce 
+confusion and the burden for sector managers. Numerous comments 
+received on the proposed rule, from both industry groups and non-
+governmental organizations, stressed the need for speedy 
+implementation. In sum, a delay in implementation of this action would 
+greatly diminish the benefits of these specifications and other 
+approved management measures.
+    Further, there is good cause to waive the 30-day delay from 
+publication before the rule comes into effect. Multiple commenters on 
+the proposed rule noted the need to implement this action as soon as 
+possible to capture fully the conservation and economic benefits of 
+Amendment 25 (Revised) and avoid adverse economic impacts. This action 
+relies on the best available science to define four Atlantic cod stocks 
+under the FMP and set fishing year 2026 catch limits for those stocks. 
+Implementing this action as soon as possible will facilitate effective 
+management of these stocks because it puts into place catch limits 
+specifically tailored to the four stocks that are designed to prevent 
+overfishing. Further, immediate implementation will relieve a 
+recordkeeping burden on sectors and facilitate clear and more efficient 
+catch accountability because it will shorten the need to convert catch 
+and leasing activity from two stocks into four stocks. For these 
+reasons there is good cause to implement these measures immediately 
+upon publication.
+    NMFS has determined that this action would not have a substantial 
+direct effect on one or more Indian Tribes, on the relationship between 
+the Federal Government and Indian Tribes, or on the distribution of 
+power and responsibilities between the Federal Government and Indian 
+Tribes; therefore, consultation with Tribal officials under E.O. 13175 
+is not required, and the requirements of section (5)(b) and (c) of E.O. 
+13175 also do not apply. A Tribal summary impact statement under 
+section (5)(b)(2)(B) and (c)(2) of E.O. 13175 is not required and has 
+not been prepared.
+
+Final Regulatory Flexibility Analysis
+
+    Section 604 of the Regulatory Flexibility Act (RFA) requires 
+Federal agencies to prepare a Final Regulatory Flexibility Analysis 
+(FRFA) for each final rule that describes the economic impact of this 
+action on small entities (5 U.S.C. 604). The FRFA includes a summary of 
+significant issues raised by public comments, the analyses contained in 
+Amendment 25 (Revised) and its accompanying Environmental Assessment, 
+Regulatory Impact Review, an Initial Regulatory Flexibility Analysis 
+(IRFA), the IRFA summary in the proposed rule, as well as the summary 
+provided below. A statement of the necessity for and the objectives of 
+this action are contained in Amendment 25 (Revised) and in the preamble 
+to this final rule and are not repeated here.
+    Section 212 of the Small Business Regulatory Enforcement Fairness 
+Act of 1996 states that, for each rule or group of related rules for 
+which an agency is required to prepare a FRFA, the agency shall publish 
+one or more guides to assist small entities in complying with the rule 
+and shall designate such publications as ``small entity compliance 
+guides.'' The agency shall explain the actions a small entity is 
+required to take to comply with a rule
+
+[[Page 39539]]
+
+or group of rules. As part of this rulemaking process, a letter to 
+permit holders that also serves as small entity compliance guide (the 
+guide) was prepared. Copies of this final rule are available from the 
+Greater Atlantic Regional Fisheries Office, and the guide (i.e., permit 
+holder letter) will be sent to all holders of permits for the fishery. 
+The guide and this final rule will be available upon request.
+
+A Summary of the Significant Issues Raised by the Public in Response to 
+the IRFA, a Summary of the Agency's Assessment of Such Issues, and a 
+Statement of Any Changes Made in the Final Rule as a Result of Such 
+Comments
+
+    NMFS received one comment regarding the economic analysis and 
+specifically referenced the regulatory impact review. NMFS's assessment 
+of the comment and the economic analysis is provided in the Comments 
+and Responses section of this final rule. NMFS is not making any 
+changes to the final rule based on the comment. The comment provided no 
+specifics for alternative approaches or analyses, it only requested 
+additional analysis.
+
+Description and Estimate of the Number of Small Entities to Which This 
+Final Rule Would Apply
+
+    This final rule applies to the commercial and recreational 
+fisheries for groundfish, as well as the Atlantic sea scallop, small-
+mesh multispecies, Atlantic herring, and large-mesh non-groundfish 
+fisheries that overlap with the groundfish fishery. Individually 
+permitted vessels may hold permits for several fisheries, harvesting 
+species of fish that are regulated by several different FMPs, beyond 
+those directly affected by this action. Furthermore, multiple-permitted 
+vessels and/or permits may be owned by entities affiliated by stock 
+ownership, common management, identity of interest, contractual 
+relationships, or economic dependency. For the purposes of the RFA 
+analysis, the ownership entities, not the individual vessels, are 
+considered to be the regulated entities.
+    As of June 1, 2024, NMFS issued 669 commercial limited-access 
+groundfish permits associated with vessels (including those in 
+confirmation of permit history), 719 party/charter groundfish permits, 
+696 limited access and general category Atlantic sea scallop permits, 
+761 small-mesh multispecies permits, 71 Atlantic herring permits, and 
+743 large-mesh non-groundfish permits (i.e., limited access summer 
+flounder and scup permits). Therefore, this action potentially 
+regulates to 3,659 permits. When accounting for overlaps between 
+fisheries, this number reduces to 2,144 permitted vessels. Each vessel 
+may be individually owned or part of a larger corporate ownership 
+structure and, for RFA purposes, it is the ownership entity that is 
+ultimately regulated by this action. Ownership entities are identified 
+on June 1st of each year based on the list of all permit numbers, for 
+the most recent complete calendar year, that have applied for any type 
+of Greater Atlantic Region Federal fishing permit. The current 
+ownership data set is based on calendar year 2023 permits and contains 
+gross sales associated with those permits for calendar years 2019 
+through 2023.
+    For RFA purposes only, NMFS has established a small business size 
+standard for businesses, including their affiliates, whose primary 
+industry is commercial fishing (see 50 CFR 200.2). A business primarily 
+engaged in commercial fishing (NAICS code 11411) is classified as a 
+small business if it is independently owned and operated, is not 
+dominant in its field of operation (including its affiliates), and has 
+combined annual receipts not in excess of $11 million for all its 
+affiliated operations worldwide. The determination as to whether the 
+entity is large or small is based on the average annual revenue for the 
+5 years from 2019 through 2023. The Small Business Administration has 
+established size standards for all other major industry sectors in the 
+U.S., including for-hire fishing (NAICS code 487210). These entities 
+are classified as small businesses if combined annual receipts are not 
+more than $8.0 million for all of an entity's affiliated operations. As 
+with commercial fishing businesses, the annual average of the 3 most 
+recent years (2019-2023) is utilized in determining annual receipts for 
+businesses primarily engaged in for-hire fishing.
+    Based on the ownership data, 1,648 distinct business entities hold 
+at least one permit that this action potentially regulates. All 1,648 
+business entities identified could be directly regulated by this 
+action. Of these 1,648 entities, 891 are commercial fishing entities, 
+326 are for-hire entities, and 431 did not have revenues (i.e., were 
+inactive in 2023). Of the 891 commercial fishing entities, 881 are 
+categorized as small entities and 10 are categorized as large entities, 
+per the NMFS guidelines. Furthermore, 412 of these commercial fishing 
+entities held limited access groundfish permits, with 408 of these 
+entities being classified as small businesses and 4 of these entities 
+being classified as large businesses. All 326 for-hire entities are 
+categorized as small businesses.
+
+Description of the Projected Reporting, Record-Keeping, and Other 
+Compliance Requirements of This Final Rule
+
+    The final action contains no information requirements under the 
+Paperwork Reduction Act of 1995 (PRA).
+
+Description of the Steps the Agency Has Taken To Minimize the 
+Significant Economic Impact on Small Entities Consistent With the 
+Stated Objectives of the Applicable Statutes
+
+    The economic impacts of each measure are discussed in more detail 
+in sections 6.5 and 7.11 of the draft Amendment 25 (Revised) EA (see 
+ADDRESSES) and in the IRFA and are not repeated here. These 
+considerations include the SDCs, the updated groundfish specifications, 
+and other measures in this rule, and the No Action alternative. An 
+alternative approach to dividing the northern and southern portions of 
+the WGOM cod stock area for allocating to the commercial fishery was 
+considered by the Council but was moved to ``considered but rejected.'' 
+This action is predicted to generate $34.7 million in gross revenues 
+for the sector portion of the commercial groundfish trips. Under the No 
+Action alternative, sector revenue could not be estimated due to the 
+lack of specifications for the new Atlantic cod stocks for the upcoming 
+fishing year. Small entities engaged in the commercial groundfish 
+fishery, including both the sector component and the common pool 
+component, will be positively impacted by this action relative to No 
+Action. However, this action is predicted to result in $7.0 million 
+less than the amount of gross revenues generated in fishing year 2023. 
+Small entities engaged in common pool groundfish fishing are expected 
+to be positively impacted by the action, relative to the No Action 
+alternative.
+    The recreational sub-ACLs for WGOM cod and SNE cod would be defined 
+under this action, and because these sub-ACLs would not be defined 
+under the No Action, this action is expected to positively impact the 
+recreational fishery relative to the No Action. However, relative to 
+fishing year 2023, the zero-possession recreational limit for SNE cod 
+is expected to negatively impact the recreational fishery. The 
+recreational measures for WGOM cod are expected to have a neutral 
+effect on small entities, because they provide a similar opportunity to 
+harvest WGOM cod as the previous recreational measures for GOM cod.
+
+[[Page 39540]]
+
+    NMFS considered the Council's range of alternatives for each of the 
+management measures included in this action that were included in the 
+proposed rule, as well as the No Action alternatives for each measure. 
+NMFS could have selected any combination of alternatives or the No 
+Action alternative for the range of measures. In this final rule, NMFS 
+is implementing all the alternatives to the No Action alternatives for 
+each management measure. In the short term, the zero-retention 
+recreational possession limit and low cod specifications overall (but 
+higher relative to no action) are expected to have negative economic 
+impacts relative to other alternatives not implemented (status quo and 
+no action alternatives). However, maintaining status quo or no action 
+specifications and allowing more recreational possession in southern 
+New England would be inconsistent with the four-stock structure of the 
+FMP and would undermine long term sustainability.
+
+List of Subjects in 50 CFR Part 648
+
+    Fisheries, Fishing, Recordkeeping, and reporting requirements.
+
+    Dated: June 25, 2026.
+Samuel D. Rauch III,
+Deputy Assistant Administrator for Regulatory Programs, National Marine 
+Fisheries Service.
+
+    For the reasons stated in the preamble, NMFS amends 50 CFR part 648 
+as follows:
+
+PART 648--FISHERIES OF THE NORTHEASTERN UNITED STATES
+
+0
+1. The authority citation for part 648 continues to read as follows:
+
+    Authority:  16 U.S.C. 1801 et seq.
+
+0
+2. In Sec.  648.2, add the definitions for ``WGOM cod northern 
+portion'' and ``WGOM cod southern portion'' in alphabetical order to 
+read as follows:
+
+Sec.  648.2   Definitions.
+
+* * * * *
+    WGOM cod northern portion means the geographical area of the WGOM 
+cod stock area, as defined in Sec.  648.88(a)(2), that overlaps the GOM 
+Stock Area 1, as described in Sec.  648.10(k)(3)(i).
+    WGOM cod southern portion means the geographical area of the WGOM 
+cod stock area, as defined in Sec.  648.88(a)(2), that overlaps the 
+Inshore GB Stock Area 2 and SNE/MA Stock Area 4, as described in Sec.  
+648.10(k)(3)(ii) and (iv).
+
+0
+3. Amend Sec.  648.82 as follows:
+0
+a. Revise paragraphs (n)(2)(i)(A), (n)(2)(ii) introductory text, and 
+(n)(2)(ii)(A) and (B);
+0
+b. Redesignate paragraphs (n)(2)(ii)(C) through (N) as paragraphs 
+(n)(2)(ii)(E) through (P); and
+0
+c. Add new paragraphs (n)(2)(ii)(C) and (D).
+    The revisions and additions read as follows:
+
+Sec.  648.82   Effort-control program for NE multispecies vessels.
+
+* * * * *
+    (n) * * *
+    (2) * * *
+    (i) * * *
+    (A) Trimester TAC distribution. With the exception of SNE/MA winter 
+flounder, any sub-ACLs specified for common pool vessels pursuant to 
+Sec.  648.90(a)(4) shall be apportioned into 4-month trimesters, 
+beginning at the start of the fishing year (i.e., Trimester 1: May 1-
+August 31; Trimester 2: September 1-December 31; Trimester 3: January 
+1-April 30), as follows:
+
+ Table 1 to Paragraph (n)(2)(i)(A)--Portion of Common Pool Sub-ACLs Apportioned to Each Stock for Each Trimester
+----------------------------------------------------------------------------------------------------------------
+                                                                    Trimester 1     Trimester 2     Trimester 3
+                              Stock                                  (percent)       (percent)       (percent)
+----------------------------------------------------------------------------------------------------------------
+EGOM cod........................................................              80              10              10
+WGOM cod........................................................              55              22              23
+GB cod..........................................................              33              33              34
+SNE Cod.........................................................              36              31              33
+GB haddock......................................................              27              33              40
+GOM haddock.....................................................              27              26              47
+GB yellowtail flounder..........................................              19              30              51
+SNE/MA yellowtail flounder......................................              21              28              51
+CC/GOM yellowtail flounder......................................              57              26              17
+American plaice.................................................              74               8              18
+Witch flounder..................................................              55              20              25
+GB winter flounder..............................................               8              24              68
+GOM winter flounder.............................................              37              38              25
+Redfish.........................................................              25              31              44
+White hake......................................................              38              31              31
+Pollock.........................................................              28              35              37
+----------------------------------------------------------------------------------------------------------------
+
+* * * * *
+    (ii) Stock area closures. Unless otherwise specified in this 
+paragraph (n)(2)(ii), if the Regional Administrator projects that 90 
+percent of the trimester TACs specified in paragraph (n)(2)(i) of this 
+section will be caught based upon available information, the Regional 
+Administrator shall close the area where 90 percent of the catch for 
+each such stock occurred to all common pool vessels on a NE 
+multispecies DAS using gear capable of catching such stocks for the 
+remainder of that trimester, as specified in paragraphs (n)(2)(ii)(A) 
+through (P) of this section, in a manner consistent with the 
+Administrative Procedure Act. For example, if the Regional 
+Administrator projects that 90 percent of the CC/GOM yellowtail 
+flounder Trimester 1 TAC will be caught, common pool vessels using 
+trawl and gillnet gear shall be prohibited from fishing in the CC/GOM 
+Yellowtail Flounder Closure Area specified in paragraph (n)(2)(ii)(I) 
+of this section until the beginning of Trimester 2 on September 1 of 
+that fishing year. Based upon all available information, the Regional 
+Administrator is authorized to expand or narrow the areas closed under 
+this paragraph (n)(2)(ii) in a manner consistent with the 
+Administrative Procedure Act. If it is not possible to identify an area 
+where only 90 percent of the catch occurred, the Regional Administrator 
+shall close the smallest area possible where greater than 90 percent of 
+the catch occurred. Common pool vessels holding either a Handgear A or 
+B permit and fishing with handgear or tub trawls are exempt
+
+[[Page 39541]]
+
+from stock area closures for white hake. The Regional Administrator may 
+exempt Handgear A and B permitted vessels from stock area closures for 
+other stocks pursuant to this paragraph (n)(2)(ii) if it is determined 
+that catches of the respective species or stock by these vessels are 
+less than 1 percent of the common pool catch of that species or stock. 
+The Regional Administrator shall make such determination prior to the 
+start of the fishing year through a notice published in the Federal 
+Register, consistent with the Administrative Procedure Act, and any 
+such determination shall remain in effect until modified.
+    (A) EGOM Cod Trimester TAC Area. For the purposes of the trimester 
+TAC AM closure specified in paragraph (n)(2)(ii) of this section, the 
+EGOM Cod Trimester TAC Area shall apply to common pool vessels using 
+trawl gear, sink gillnet gear, and longline/hook gear within the area 
+bounded by the coastline of the United States and by straight lines 
+connecting the following points in the order stated:
+
+     Table 2 to Paragraph (n)(2)(ii)(A)--EGOM Cod Trimester TAC Area
+------------------------------------------------------------------------
+                     Point                       N latitude  W longitude
+------------------------------------------------------------------------
+EGOM1.........................................  44[deg]23'5  67[deg]57'3
+                                                        8''          5''
+EGOM2.........................................   44[deg]10'   67[deg]50'
+EGOM3.........................................   44[deg]00'   67[deg]50'
+EGOM4.........................................   44[deg]00'   67[deg]40'
+EGOM5.........................................   43[deg]20'   67[deg]40'
+EGOM6.........................................   43[deg]20'   69[deg]00'
+EGOM7.........................................   43[deg]40'   69[deg]00'
+EGOM8.........................................   43[deg]40'   69[deg]20'
+------------------------------------------------------------------------
+
+    (B) WGOM Cod Trimester TAC Area. For the purposes of the trimester 
+TAC AM closure specified in paragraph (n)(2)(ii) of this section, the 
+WGOM Cod Trimester TAC Area shall apply to common pool vessels using 
+trawl gear, sink gillnet gear, and longline/hook gear within the area 
+bounded by the coastline of the United States and by the straight lines 
+connecting the following points in the order stated:
+
+     Table 3 to Paragraph (n)(2)(ii)(B)--WGOM Cod Trimester TAC Area
+------------------------------------------------------------------------
+                     Point                       N latitude  W longitude
+------------------------------------------------------------------------
+WGOM1.........................................        (\1\)   69[deg]20'
+WGOM2.........................................   43[deg]40'   69[deg]20'
+WGOM3.........................................   43[deg]40'   69[deg]00'
+WGOM4.........................................   43[deg]10'   69[deg]00'
+WGOM5.........................................   43[deg]10'   69[deg]10'
+WGOM6.........................................   43[deg]00'   69[deg]10'
+WGOM7.........................................   43[deg]00'   69[deg]20'
+WGOM8.........................................   42[deg]50'   69[deg]20'
+WGOM9.........................................   42[deg]50'   69[deg]40'
+WGOM10........................................   42[deg]20'   69[deg]40'
+WGOM11........................................   42[deg]20'   68[deg]50'
+WGOM12........................................   41[deg]00'   68[deg]50'
+WGOM13........................................   41[deg]00'   69[deg]30'
+WGOM14........................................   41[deg]10'   69[deg]30'
+WGOM15........................................   41[deg]10'   69[deg]50'
+WGOM16........................................   41[deg]20'   69[deg]50'
+WGOM17........................................        (\2\)   70[deg]00'
+WGOM18........................................        (\3\)   70[deg]00'
+------------------------------------------------------------------------
+\1\ Intersection of south-facing ME coastline and 69[deg]20'' W Long.
+\2\ Northeast-facing coastline of Nantucket, MA.
+\3\ South-facing coastline of Cape Cod, MA.
+
+    (C) GB Cod Trimester TAC Area. For the purposes of the trimester 
+TAC AM closure specified in paragraph (n)(2)(ii) of this section, the 
+GB Cod Trimester TAC Area shall apply to common pool vessels using 
+trawl gear, sink gillnet gear, and longline/hook gear within the area 
+bounded by straight lines connecting the following points in the order 
+stated:
+
+      Table 4 to Paragraph (n)(2)(ii)(C)--GB Cod Trimester TAC Area
+------------------------------------------------------------------------
+                     Point                       N latitude  W longitude
+------------------------------------------------------------------------
+GB1...........................................   42[deg]20'   68[deg]50'
+GB2...........................................   42[deg]20'        (\1\)
+GB3...........................................   41[deg]50'        (\1\)
+GB4...........................................   41[deg]50'   67[deg]40'
+GB5...........................................   41[deg]20'   67[deg]40'
+GB6...........................................   41[deg]20'   68[deg]10'
+GB7...........................................   41[deg]10'   68[deg]10'
+GB8...........................................   41[deg]10'   68[deg]20'
+GB9...........................................   41[deg]00'   68[deg]20'
+GB10..........................................   41[deg]00'   68[deg]50'
+GB1...........................................   42[deg]20'   68[deg]50'
+------------------------------------------------------------------------
+\1\ U.S./Canada maritime boundary.
+
+    (D) SNE Cod Trimester TAC Area. For the purposes of the trimester 
+TAC AM closure specified in paragraph (n)(2)(ii) of this section, the 
+SNE Cod Trimester TAC Area shall apply to common pool vessels using 
+trawl gear, sink gillnet gear, and longline/hook gear within the area 
+bounded by the coastline of the United States and by straight lines 
+connecting the following points in the order stated and bounded by the 
+coastline:
+
+     Table 5 to Paragraph (n)(2)(ii)(D)--SNE Cod Trimester TAC Area
+------------------------------------------------------------------------
+                     Point                       N latitude  W longitude
+------------------------------------------------------------------------
+SNE1..........................................        (\1\)   71[deg]10'
+SNE2..........................................   41[deg]20'   71[deg]10'
+SNE3..........................................   41[deg]20'        (\2\)
+SNE4..........................................        (\3\)   70[deg]00'
+SNE5..........................................   39[deg]50'   70[deg]00'
+SNE6..........................................   39[deg]50'   71[deg]40'
+SNE7..........................................   40[deg]00'   71[deg]40'
+SNE8..........................................   40[deg]00'   73[deg]00'
+SNE9..........................................        (\4\)   73[deg]00'
+SNE10.........................................   41[deg]00'        (\5\)
+SNE11.........................................   41[deg]00'   71[deg]40'
+SNE12.........................................        (\1\)   71[deg]40'
+------------------------------------------------------------------------
+\1\ South-facing coastline of Rhode Island.
+\2\ West-facing coastline of Martha's Vineyard, MA.
+\3\ South-facing coastline of Nantucket, MA.
+\4\ South-facing coastline of Long Island, NY.
+\5\ Southeast-facing coastline of Long Island, NY.
+
+* * * * *
+
+0
+4. Amend Sec.  648.85 by revising paragraph (b)(5) introductory text 
+and paragraph (b)(6)(iv)(D) to read as follows:
+
+Sec.  648.85   Special management programs.
+
+* * * * *
+    (b) * * *
+    (5) Incidental Catch TACs. Unless otherwise specified in this 
+paragraph (b)(5), Incidental Catch TACs shall be based upon the portion 
+of the ACL for a stock specified for common pool vessels pursuant to 
+Sec.  648.90(a)(4), and allocated as described in this paragraph 
+(b)(5), for each of the following stocks: WGOM cod, EGOM cod, GB cod, 
+SNE cod, GB yellowtail flounder, CC/GOM yellowtail flounder, American 
+plaice, SNE/MA winter flounder, and witch flounder. Because GB 
+yellowtail flounder and GB cod are transboundary stocks, the incidental 
+catch TACs for these stocks shall be based upon the common pool portion 
+of the ACL available to U.S. vessels. NMFS shall send letters to 
+limited access NE multispecies permit holders notifying them of such 
+TACs.
+* * * * *
+    (6) * * *
+    (iv) * * *
+    (D) Landing limits. Unless otherwise specified in this paragraph 
+(b)(6)(iv)(D), or restricted pursuant to Sec.  648.86, a NE 
+multispecies vessel fishing in the Regular B DAS Program described in 
+this paragraph (b)(6), and fishing under a Regular B DAS, may not land 
+more than 100 lb (45.5 kg) per DAS, or any part of a DAS, up to a 
+maximum of 1,000 lb (454 kg) per trip, of any of the following species/
+stocks from the areas specified in Sec.  648.88: Cod (EGOM, WGOM, GB, 
+and SNE), American plaice, witch flounder, SNE/MA winter flounder, and 
+GB yellowtail flounder; and may not land more than 25 lb (11.3 kg) per 
+DAS, or any part of a DAS, up
+
+[[Page 39542]]
+
+to a maximum of 250 lb (113 kg) per trip of CC/GOM yellowtail flounder. 
+In addition, trawl vessels, which are required to fish with a haddock 
+separator trawl, as specified in paragraph (a)(3)(iii)(A) of this 
+section, or a Ruhle trawl, as specified in paragraph (b)(6)(iv)(J) of 
+this section, and other gear that may be required in order to reduce 
+catches of stocks of concern as described in paragraph (b)(6)(iv)(J) of 
+this section, are restricted to the trip limits specified in paragraph 
+(e) of this section.
+* * * * *
+
+0
+5. Amend Sec.  648.86 by revising Table 1 to Paragraph (a)(1) to read 
+as follows:
+
+Sec.  648.86   NE Multispecies commercial possession restrictions.
+
+* * * * *
+    (a) * * *
+    (1) * * *
+
+                       Table 1 to Paragraph (a)(1)
+------------------------------------------------------------------------
+            Stock \1\                DAS limit \2\      Trip limit \2\
+------------------------------------------------------------------------
+EGOM cod \3\....................  25 lb per DAS.....  50 lb per trip.
+WGOM cod\3\.....................  50 lb per DAS.....  100 lb per trip.
+GB cod \3\......................  25 lb per DAS.....  50 lb per trip.
+SNE cod \3\.....................  0 lb per DAS......  0 lb per trip.
+GOM haddock.....................  1,000 lb (453 kg)   2,000 lb (907 kg)
+                                   per DAS.            per trip.
+GB haddock......................  1,000 lb (453 kg)   2,000 lb (907 kg)
+                                   per DAS.            per trip.
+CC/GOM yellowtail flounder \4\..  1,500 lb (680 kg)   3,000 lb (1,360
+                                   per DAS.            kg) per trip.
+GB yellowtail flounder \4\......  No daily limit....  100 lb (45.4 kg)
+                                                       per trip.
+SNE yellowtail flounder \4\.....  200 lb (90.7 kg)    400 lb (181 kg)
+                                   per DAS.            per trip.
+American plaice.................  3,000 lb (1,360     6,000 lb (2,721
+                                   kg) per DAS.        kg) per trip.
+Witch flounder..................  No daily limit....  1,500 lb (680 kg)
+                                                       per trip.
+GB winter flounder..............  No daily limit....  500 lb (227 kg)
+                                                       trip.
+GOM winter flounder.............  No daily limit....  2,000 lb (907 kg)
+                                                       per trip.
+SNE/MA winter flounder..........  2,000 lb (907 kg)   4,000 lb (1,814
+                                   per DAS.            kg) per trip.
+Redfish.........................  Unlimited.........  Unlimited.
+White hake......................  No daily limit....  1,000 lb (453 kg)
+                                                       per trip.
+Pollock.........................  Unlimited.........  Unlimited.
+------------------------------------------------------------------------
+\1\ The stock areas that apply to these possession limits are specified
+  in Sec.   648.88.
+\2\ The possession limits in Table 1 to Paragraph (a)(1) may be adjusted
+  in-season by the Regional Administrator, as specified under at Sec.
+  648.86(a)(5). Current possession limits are available at:  https://www.fisheries.noaa.gov/new-england-mid-atlantic/commercial-fishing/northeast-multispecies-common-pool-fishery .
+\3\ Additional restrictions for cod stocks are specified at Sec.
+  648.86(a)(6)(iii).
+\4\ Additional restrictions for yellowtail flounder stocks are specified
+  at Sec.   648.86(a)(6)(iv).
+
+* * * * *
+
+0
+6. Amend Sec.  648.87 as follows:
+0
+a. Revise paragraph (b)(1)(i)(C)(1) introductory text;
+0
+b. Add paragraph (b)(1)(i)(C)(1)(iii);
+0
+c. Revise paragraph (b)(1)(i)(E) introductory text and (b)(1)(i)(E)(2) 
+paragraph heading.
+    The revisions and addition read as follows:
+
+Sec.  648.87   Sector allocation.
+
+* * * * *
+    (b) * * *
+    (1) * * *
+    (i) * * *
+    (C) * * *
+    (1) Maximum carryover. With the exception of GB yellowtail 
+flounder, and unless otherwise specified in (b)(1)(i)(C)(1)(iii) of 
+this section a sector may carryover an amount of ACE equal to 10 
+percent of its original ACE for each stock that is unused at the end of 
+one fishing year into the following fishing year, provided that the 
+total unused sector ACE plus the overall ACL for the following fishing 
+year does not exceed the ABC for the fishing year in which the 
+carryover may be harvested. If this total exceeds the ABC, NMFS shall 
+adjust the maximum amount of unused ACE that a sector may carryover 
+(down from 10 percent) to an amount equal to the ABC of the following 
+fishing year. Any adjustments made would be applied to each sector 
+based on its total unused ACE and proportional to the cumulative PSCs 
+of vessels/permits participating in the sector for the particular 
+fishing year, as described in paragraph (b)(1)(i)(E) of this section.
+* * * * *
+    (iii) Atlantic cod stocks carryover for fishing year 2026. Unused 
+fishing year 2025 ACE for the Atlantic cod stocks will not carryover to 
+a sector's fishing year 2026 ACE for the Atlantic cod stocks. For the 
+2027 fishing year and onward, carryover for the Atlantic cod stocks 
+will return to the processes described in paragraphs (b)(1)(i)(C)(1) 
+and (2) of this section.
+* * * * *
+    (E) Potential sector contribution (PSC). For the purposes of 
+allocating a share of the available ACL for each NE multispecies stock 
+to approved sectors pursuant to Sec.  648.90(a)(4), the landings 
+history of all limited access NE multispecies permits shall be 
+evaluated to determine each permit's share of the overall landings for 
+each NE multispecies stock as specified in paragraphs (b)(1)(i)(E)(1) 
+and (2) of this section. For the purposes of allocating a share of the 
+available ACL for the four Atlantic cod stocks (i.e., EGOM, WGOM, GB, 
+and SNE cod) to approved sectors pursuant to Sec.  648.90(a)(4), the 
+PSCs will continue to be calculated for GOM cod and GB cod according to 
+the method specified in Amendment 16, in accordance with paragraphs 
+(b)(1)(i)(E)(1) and (2) of this section. When calculating an individual 
+permit's share of the overall landings for a particular regulated 
+species or ocean pout stock, landed weight shall be converted to live 
+weight to maintain consistency with the way ACLs are calculated 
+pursuant to Sec.  648.90(a)(4) and the way ACEs are allocated to 
+sectors pursuant to this paragraph (b)(1)(i). This calculation shall be 
+performed on July 1 of each year, unless another date is specified by 
+the Regional Administrator, to redistribute the landings history 
+associated with permits that have been voluntarily relinquished or 
+otherwise canceled among all remaining valid limited access NE 
+multispecies permits as of that date during the following fishing year. 
+The PSC calculated pursuant to this paragraph (b)(1)(i)(E) shall remain 
+with the permit indefinitely, but may be permanently reduced or 
+eliminated due
+
+[[Page 39543]]
+
+to a permit sanction or other enforcement action.
+* * * * *
+    (2) Calculation of PSC for GB cod. * * *
+* * * * *
+
+0
+7. Amend Sec.  648.88 by revising paragraphs (a)(1) and (2) and adding 
+paragraphs (a)(3) and (4) to read as follows:
+
+Sec.  648.88   Multispecies stock area definitions.
+
+    (a) * * *
+    (1) EGOM cod stock area. The EGOM cod stock is the area defined by 
+straight lines connecting the following points in the order stated and 
+bounded by the coastline of the United States:
+
+            Table 1 to Paragraph (a)(1)--EGOM Cod Stock Area
+------------------------------------------------------------------------
+                     Point                       N latitude  W longitude
+------------------------------------------------------------------------
+EGOM1.........................................        (\1\)   69[deg]20'
+EGOM2.........................................        (\2\)   67[deg]00'
+EGOM3.........................................        (\2\)   67[deg]40'
+EGOM4.........................................   43[deg]20'   67[deg]40'
+EGOM5.........................................   43[deg]20'   69[deg]00'
+EGOM6.........................................   43[deg]40'   69[deg]00'
+EGOM7.........................................   43[deg]40'   69[deg]20'
+------------------------------------------------------------------------
+\1\ Intersection of south-facing ME coastline and 69[deg]20' W long.
+\2\ U.S./Canada maritime boundary.
+
+    (2) WGOM cod stock area. The WGOM cod stock is the area defined by 
+straight lines connecting the following points in the order stated and 
+bounded by the coastline of the United States:
+
+            Table 2 to Paragraph (a)(2)--WGOM Cod Stock Area
+------------------------------------------------------------------------
+                     Point                       N latitude  W longitude
+------------------------------------------------------------------------
+WGOM1.........................................        \(1)\   69[deg]20'
+WGOM2.........................................   43[deg]40'   69[deg]20'
+WGOM3.........................................   43[deg]40'   69[deg]00'
+WGOM4.........................................   43[deg]20'   69[deg]00'
+WGOM5.........................................   43[deg]20'   67[deg]40'
+WGOM6.........................................        \(2)\   67[deg]40'
+WGOM7.........................................        \(3)\   67[deg]40'
+WGOM8.........................................   42[deg]20'   67[deg]40'
+WGOM9.........................................   42[deg]20'   68[deg]50'
+WGOM10........................................   39[deg]50'   68[deg]50'
+WGOM11........................................   39[deg]50'   69[deg]00'
+WGOM12........................................   39[deg]00'   69[deg]00'
+WGOM13........................................   39[deg]00'   70[deg]00'
+WGOM14........................................        \(4)\   70[deg]00'
+------------------------------------------------------------------------
+\1\ Intersection of south-facing ME coastline and 69[deg]20' W long.
+\2\ U.S./Canada maritime boundary (northern intersection with 67[deg]40'
+  W long).
+\3\ U.S./Canada maritime boundary (southern intersection with 67[deg]40'
+  W long).
+\4\ Intersection of south-facing coastline of Cape Cod and 70[deg]00' W
+  long.
+
+    (3) GB cod stock area. The GB cod stock area is the area defined by 
+straight lines connecting the following points in the order stated:
+
+             Table 3 to Paragraph (a)(3)--GB Cod Stock Area
+------------------------------------------------------------------------
+                     Point                       N latitude  W longitude
+------------------------------------------------------------------------
+GB1...........................................   42[deg]20'   68[deg]50'
+GB2...........................................   42[deg]20'   67[deg]40'
+GB3...........................................        \(1)\   67[deg]40'
+GB4...........................................   39[deg]00'        \(2)\
+GB5...........................................   39[deg]00'   69[deg]00'
+GB6...........................................   39[deg]50'   69[deg]00'
+GB7...........................................   39[deg]50'   68[deg]50'
+GB1...........................................   42[deg]20'   68[deg]50'
+------------------------------------------------------------------------
+\1\ U.S./Canada maritime boundary (northern intersection with 67[deg]40'
+  W long).
+\2\ U.S./Canada maritime boundary (intersection with 39[deg]00' N
+  latitude).
+
+    (4) SNE cod stock area. The SNE cod stock area is the area defined 
+by straight lines connecting the following points in the order stated 
+and bounded by the coastline of the United States:
+
+             Table 4 to Paragraph (a)(4)--SNE Cod Stock Area
+------------------------------------------------------------------------
+                     Point                       N latitude  W longitude
+------------------------------------------------------------------------
+SNE1..........................................        \(1)\   70[deg]00'
+SNE2..........................................   39[deg]00'   69[deg]00'
+SNE3..........................................   39[deg]00'        \(2)\
+SNE4..........................................   35[deg]00'        \(2)\
+SNE5..........................................   35[deg]00'        \(3)\
+------------------------------------------------------------------------
+\1\ Intersection of south-facing coastline of Cape Cod and 70[deg]00' W
+  long.
+\2\ U.S./Canada maritime boundary.
+\3\ Intersection of east-facing coastline of Outer Banks, NC, and
+  35[deg]00' N lat.
+
+* * * * *
+
+0
+8. Amend Sec.  648.89 as follows:
+0
+a. Revise Table 1 to Paragraph (b)(1), Table 2 to Paragraph (c)(1), and 
+Table 3 to Paragraph (c)(2); and
+0
+b. Add paragraph (g).
+    The revisions and addition read as follows:
+
+Sec.  648.89   Recreational and charter/party vessel restrictions.
+
+* * * * *
+    (b) * * *
+    (1) * * *
+
+                                           Table 1 to Paragraph (b)(1)
+----------------------------------------------------------------------------------------------------------------
+                                                    Charter/party     Private minimum size      Maximum size
+                                                    minimum size     -------------------------------------------
+                    Species                    ----------------------
+                                                  inches       cm       inches       cm       inches       cm
+----------------------------------------------------------------------------------------------------------------
+Cod
+    EGOM cod stock area \1\...................         23       58.4         23       58.4        N/A        N/A
+    WGOM cod stock area \1\...................         23       58.4         23       58.4        N/A        N/A
+    GB cod stock area \1\.....................         23       58.4         23       58.4        N/A        N/A
+    SNE cod stock area \1\....................        N/A        N/A        N/A        N/A        N/A        N/A
+Haddock
+    Inside GOM Regulated Mesh Area \2\........         17       43.2         17       43.2        N/A        N/A
+    Outside GOM Regulated Mesh Area \2\.......         18       45.7         18       45.7        N/A        N/A
+Pollock.......................................         19       48.3         19       48.3        N/A        N/A
+Witch Flounder (gray sole)....................         14       35.6         14       35.6        N/A        N/A
+Yellowtail Flounder...........................         13       33.0         13       33.0        N/A        N/A
+American Plaice (dab).........................         14       35.6         14       35.6        N/A        N/A
+Atlantic Halibut..............................         41      104.1         41      104.1        N/A        N/A
+Winter Flounder (black back)..................         12       30.5         12       30.5        N/A        N/A
+Redfish.......................................          9       22.9          9       22.9        N/A        N/A
+----------------------------------------------------------------------------------------------------------------
+\1\ Cod stock areas specified in Sec.   648.88
+\2\ GOM Regulated Mesh Area specified in Sec.   648.80(a).
+
+[[Page 39544]]
+
+* * * * *
+    (c) * * *
+    (1) * * *
+
+                                           Table 2 to Paragraph (c)(1)
+----------------------------------------------------------------------------------------------------------------
+                Stock                        Open season            Possession limit          Closed season
+----------------------------------------------------------------------------------------------------------------
+EGOM Cod.............................  September 1-October 31.  1......................  May 1-August 31;
+                                                                                          November 1-April 30.
+WGOM Cod.............................  September 1-October 31.  1......................  May 1-August 31;
+                                                                                          November 1-April 30.
+GB Cod...............................  September 1-October 31.  1......................  May 1-August 31;
+                                                                                          November 1-April 30.
+SNE Cod..............................  CLOSED.................  No Retention...........  All Year.
+GB Haddock...........................  All Year...............  Unlimited..............  N/A.
+GOM Haddock..........................  May 1-February 28 (or    15.....................  March 1-March 31.
+                                        29); April 1-30.
+GB Yellowtail Flounder...............  All Year...............  Unlimited..............  N/A.
+SNE/MA Yellowtail Flounder...........  All Year...............  Unlimited..............  N/A.
+CC/GOM Yellowtail Flounder...........  All Year...............  Unlimited..............  N/A.
+American Plaice......................  All Year...............  Unlimited..............  N/A.
+Witch Flounder.......................  All Year...............  Unlimited..............  N/A.
+GB Winter Flounder...................  All Year...............  Unlimited..............  N/A.
+GOM Winter Flounder..................  All Year...............  Unlimited..............  N/A.
+SNE/MA Winter Flounder...............  All Year...............  Unlimited..............  N/A.
+Redfish..............................  All Year...............  Unlimited..............  N/A.
+White Hake...........................  All Year...............  Unlimited..............  N/A.
+Pollock..............................  All Year...............  Unlimited..............  N/A.
+Northern Windowpane Flounder.........  CLOSED.................  No retention...........  All Year.
+Southern Windowpane Flounder.........  CLOSED.................  No retention...........  All Year.
+Ocean Pout...........................  CLOSED.................  No retention...........  All Year.
+Atlantic Halibut.....................  See paragraph (c)(3) of
+                                        this section..
+Atlantic Wolffish....................  CLOSED.................  No retention...........  All Year.
+----------------------------------------------------------------------------------------------------------------
+
+    (2) * * *
+
+                                           Table 3 to Paragraph (c)(2)
+----------------------------------------------------------------------------------------------------------------
+                Stock                        Open season            Possession limit          Closed season
+----------------------------------------------------------------------------------------------------------------
+EGOM Cod.............................  May 1-May 31; September  1......................  June 1-August 31;
+                                        1-October 31.                                     November 1-April 30.
+WGOM Cod.............................  May 1-May 31; September  1......................  June 1-August 31;
+                                        1-October 31.                                     November 1-April 30.
+GB Cod...............................  May 1-May 31; September  1......................  June 1-August 31;
+                                        1-October 31.                                     November 1-April 30.
+SNE Cod..............................  CLOSED.................  No Retention...........  All Year.
+GB Haddock...........................  All Year...............  Unlimited..............  N/A.
+GOM Haddock..........................  May 1-February 28 (or    15.....................  March 1-March 31.
+                                        29) April 1-30.
+GB Yellowtail Flounder...............  All Year...............  Unlimited..............  N/A.
+SNE/MA Yellowtail Flounder...........  All Year...............  Unlimited..............  N/A.
+CC/GOM Yellowtail Flounder...........  All Year...............  Unlimited..............  N/A.
+American Plaice......................  All Year...............  Unlimited..............  N/A.
+Witch Flounder.......................  All Year...............  Unlimited..............  N/A.
+GB Winter Flounder...................  All Year...............  Unlimited..............  N/A.
+GOM Winter Flounder..................  All Year...............  Unlimited..............  N/A.
+SNE/MA Winter Flounder...............  All Year...............  Unlimited..............  N/A.
+Redfish..............................  All Year...............  Unlimited..............  N/A.
+White Hake...........................  All Year...............  Unlimited..............  N/A.
+Pollock..............................  All Year...............  Unlimited..............  N/A.
+N Windowpane Flounder................  CLOSED.................  No retention...........  All Year.
+S Windowpane Flounder................  CLOSED.................  No retention...........  All Year.
+Ocean Pout...........................  CLOSED.................  No retention...........  All Year.
+Atlantic Halibut.....................  See paragraph (c)(3) of
+                                        this section..
+Atlantic Wolffish....................  CLOSED.................  No retention...........  All Year.
+----------------------------------------------------------------------------------------------------------------
+
+* * * * *
+    (g) Regional Administrator authority for GB cod and EGOM cod 
+recreational measures. For the 2026 fishing year, the Regional 
+Administrator, after consultation with the NEFMC, may adjust 
+recreational measures for GB cod and EGOM cod to set consistent 
+measures with other stock areas, as appropriate. Appropriate measures, 
+including adjustments to fishing seasons, minimum fish sizes, or 
+possession limits, may be implemented in a manner consistent with the 
+Administrative Procedure Act, with the final measures published in the 
+Federal Register prior to the start of the fishing year when possible. 
+Separate measures may be implemented for the private and charter/party 
+components of the recreational fishery. Measures in place in fishing 
+year 2026 will be in effect beginning in fishing year 2027, and will 
+remain in effect until they are changed
+
+[[Page 39545]]
+
+by a Framework Adjustment or Amendment to the FMP, or through an 
+emergency action.
+* * * * *
+
+0
+9. Amend Sec.  648.90 by revising paragraph (a)(4)(iii)(A)(1) and 
+adding paragraphs (a)(4)(iii)(I)(2) and (3) to read as follows:
+
+Sec.  648.90   NE multispecies assessment, framework procedures and 
+specifications, and flexible area action system.
+
+* * * * *
+    (a) * * *
+    (4) * * *
+    (iii) * * *
+    (A) * * *
+    (1) Stocks allocated. Unless otherwise specified in this paragraph 
+(a)(4)(iii)(A), the ABCs/ACLs for WGOM cod and GOM haddock set pursuant 
+to paragraph (a)(4) of this section shall be divided between commercial 
+and recreational components, based upon the average proportional catch 
+of each component for each stock during fishing years 2001 through 
+2006. The ABCs/ACLs for SNE cod set pursuant to paragraph (a)(4) of 
+this section shall first have the state and other non-specified 
+fisheries deducted as specified in paragraphs (a)(4)(iii)(B) and (C) of 
+this section, and then divided between commercial and recreational 
+components, as specified in a framework adjustment.
+* * * * *
+    (I) * * *
+    (2) WGOM cod. For the purposes of allocating to the commercial NE 
+multispecies fishery, the remaining ABC for WGOM cod shall first be 
+apportioned between the WGOM cod northern and southern portions as 
+follows: 68 percent of the remaining ABC to the northern portion and 32 
+percent of the remaining ABC to the southern portion. The share of the 
+northern portion of WGOM cod allocated to a sector will be based on the 
+cumulative GOM cod PSCs of vessels participating in sectors calculated 
+pursuant to Sec.  648.87(b)(1)(i)(E). The share of the southern portion 
+of WGOM cod allocated to a sector will be based on the cumulative GB 
+cod PSCs of vessels participating in sectors. The northern and southern 
+portions shall then be summed for a final allocation to each sector and 
+to vessels operating under the provisions of the common pool. The WGOM 
+cod allocation may be fished throughout the entire geographic area of 
+the WGOM cod stock area, as defined at Sec.  648.88(a)(2).
+    (3) Atlantic cod stocks except WGOM cod. For the purpose of 
+allocating EGOM cod to the commercial NE multispecies fishery, the 
+cumulative GOM cod PSCs of vessels participating in sectors calculated 
+pursuant to Sec.  648.87(b)(1)(i)(E) shall be applied to the remaining 
+ABC for EGOM cod. For the purposes of allocating GB cod and SNE cod to 
+the commercial NE multispecies fishery, the cumulative GB cod PSCs of 
+vessels participating in sectors calculated pursuant to Sec.  
+648.87(b)(1)(i)(E) shall be applied to the remaining ABC for GB cod and 
+SNE cod.
+* * * * *
+
+[FR Doc. 2026-13153 Filed 6-29-26; 8:45 am]
+BILLING CODE 3510-22-P

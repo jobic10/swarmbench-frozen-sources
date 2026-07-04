@@ -1,0 +1,488 @@
+[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
+[Rules and Regulations]
+[Pages 38540-38543]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-12927]
+
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Part 268
+
+[EPA-HQ-OLEM-2025-2038; FRL-8504-04-OLEM]
+RIN 2050-AH21
+
+U.S. Ecology Nevada, Inc. High Mercury Subcategory Wastes Land 
+Disposal Restrictions Variance
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Environmental Protection Agency (EPA) is granting, with 
+conditions, U.S. Ecology Nevada Inc.'s (USE) petition for a site-
+specific treatability variance (SSTV) from the Resource Conservation 
+and Recovery Act (RCRA) Land Disposal Restrictions (LDR) treatment 
+standards. USE's petition is for a variance from the existing treatment 
+and disposal standard for elemental mercury waste generated from 
+retorting high mercury waste as prescribed by the LDR technology-based 
+standard of RMERC. The petition demonstrated that the LDR standard for 
+placing elemental mercury waste generated from RMERC back into commerce 
+for reuse is inappropriate and the alternative treatment variance 
+proposed by USE is sufficient to minimize threats to human health and 
+the environment posed by land disposal of the waste. Under the approved 
+SSTV, the existing LDR treatment standard of RMERC will continue to 
+apply to high mercury hazardous wastes, but the elemental mercury 
+generated from this process will be treated and land disposed subject 
+to specified conditions at both Bethlehem Apparatus's facility in 
+Bethlehem, Pennsylvania, and USE's Beatty, Nevada, subtitle C 
+treatment, storage, and disposal (TSD) facility where the treated 
+mercury wastes will be disposed in a designated RCRA subtitle C 
+compliant monofill.
+
+DATES: This final rule is effective July 27, 2026.
+
+FOR FURTHER INFORMATION CONTACT: Bethany Russell, Waste 
+Characterization Branch, Waste Identification, Notice, and Generators 
+Division, Office of Resource Conservation and Recovery (5304P), 
+Environmental Protection Agency, 1200 Pennsylvania Ave. NW, Washington, 
+DC 20460; telephone number: (202) 566-0823; email address: 
+  [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION:
+
+I. General Information
+
+A. Does this document apply to me?
+
+    This action applies only to elemental mercury treated at Bethlehem 
+Apparatus's Pennsylvania facility located at 935 Bethlehem Drive, 
+Bethlehem, PA, and land disposed at USE's facility located at Highway 
+95, 11 Miles South of Beatty, Beatty, Nevada. If you have questions 
+regarding the applicability of this action to a particular entity, 
+consult the person listed in the FOR FURTHER INFORMATION CONTACT 
+section.
+
+B. What action is the Agency taking?
+
+    The EPA is finalizing a SSTV for U.S. Ecology's treatment and 
+disposal of elemental mercury waste generated from retorting high 
+mercury waste in accordance with the LDR technology-based standard of 
+RMERC. In this action, the EPA hereby approves, with conditions, a 
+variance for USE from the requirement that elemental mercury reclaimed 
+from RMERC of D009, U151, or Bevill-exempt high mercury wastes 
+generated in the U.S. gold mining industry \1\ be placed into commerce. 
+Specifically, the EPA is granting, with conditions, USE's petition for 
+a variance pursuant to 40 CFR 268.44 to allow land disposal of 
+elemental mercury converted to mercuric sulfide powder that is then 
+blended with linear low-density polyethylene (LLDPE) and extruded as a 
+monolith into an impermeable/non-reactive container that is placed into 
+a future permitted monofill located at USE's facility in Beatty, 
+Nevada. At the time of this approval, USE has an agreement with 
+Bethlehem Apparatus to perform the treatment portion of this process. 
+See section V of this preamble, Future Amendments to this Variance, for 
+procedures that may allow USE to retain this variance if USE moves any 
+portion of the treatment process from Bethlehem Apparatus's Bethlehem, 
+Pennsylvania, location.
+---------------------------------------------------------------------------
+
+    \1\ The issue has arisen that U.S. gold mining Bevill-exempt 
+high mercury waste does not carry a waste code because of the Bevill 
+exemption. Although exempt, Bevill waste is like D009/U151 wastes in 
+that it must be retorted to extract the elemental mercury to meet 
+DOE's acceptance criteria. After retorting, the prohibition on land 
+disposal of elemental mercury remains and is unaffected by the 
+Bevill exemption.
+---------------------------------------------------------------------------
+
+    For the reasons described in the February 6, 2026, preamble to the 
+proposed approval (91 FR 5400) and in the Agency's response to comments 
+received on the proposal, the EPA is finalizing the variance without 
+alteration.
+
+C. What is the Agency's authority for taking this action?
+
+    Under 40 CFR 268.44, EPA may grant site-specific treatability 
+variances in cases when facilities generate hazardous wastes that 
+cannot be treated to the specified levels or when it is technically 
+inappropriate for such wastes to undergo the prescribed treatment. See 
+51 FR 40605-40606, November 7, 1986, and 62 FR 64504, December 5, 1997. 
+The requirements for an LDR treatment variance are found at 40 CFR 
+268.44 and LDR variance petitioners must follow the procedures in 40 
+CFR 260.20. Of note, 40 CFR 268.44(k) cross-references compliance with 
+40 CFR 268.7, which includes testing, tracking and recordkeeping 
+requirements for generators, reverse distributors, treaters and 
+disposal facilities.
+    In this case, EPA finds that the existing requirement is 
+inappropriate,\2\ even though the treatment is technically possible, 
+and the variance would be applicable to a specific treatment process 
+conducted at Bethlehem Apparatus and disposal location at USE's TSD in 
+Beatty, Nevada. Specifically, as the USE petition demonstrates, the 
+required treatment standard of placing elemental mercury into commerce 
+for reuse after RMERC is inappropriate because the small market demand 
+for elemental mercury is greatly exceeded by the supply of elemental 
+mercury recovered from D009 and U151 hazardous wastes and from Bevill 
+wastes generated by the U.S. gold mining industry, and the resulting 
+stockpiled elemental mercury poses an ongoing potential hazard to human 
+health and the environment. This SSTV, with conditions, allows for the 
+site-specific treatment and land disposal of elemental mercury in a 
+manner that minimizes threats to human health and the environment posed 
+by the waste.
+---------------------------------------------------------------------------
+
+    \2\ According to 42 CFR 268.44(h)(2), a petitioner may obtain a 
+variance from an applicable treatment standard if it is 
+inappropriate to require the waste to be treated to the level 
+specified in the treatment standard or by the method specified as 
+the treatment standard, even though such treatment is technically 
+possible. To show that this is the case, as applicable here, the 
+petitioner must demonstrate that treatment to the specified level or 
+by the specified method is technically inappropriate (for example, 
+resulting in combustion of large amounts of mildly contaminated 
+environmental media). Section 268.44(m) further requires the 
+petitioner to demonstrate that compliance with the variance is 
+sufficient to minimize threats to human health and the environment 
+posed by land disposal of the waste.
+---------------------------------------------------------------------------
+
+II. Background
+
+A. The Petition
+
+    On June 30, 2021, USE submitted a petition to the EPA for a 
+Determination
+
+[[Page 38541]]
+
+of Equivalent Treatment under 40 CFR 268.42(b) to treat and dispose of 
+elemental mercury reclaimed from the retort of D009 and U151 high 
+mercury wastes. In response to EPA requests following the original June 
+2021 submission, on September 22, 2025, USE provided supplemental 
+information and a revised petition, including a separate request for 
+the Agency to evaluate the treatment and disposal process as a site-
+specific treatability variance pursuant to 40 CFR 268.44. The original 
+and revised petitions and associated responses to Agency information 
+requests (together referred to as ``the petition'') can be found in the 
+docket (EPA-HQ-OLEM-2025-2038).
+
+B. Brief Summary of Common Themes in Comments Received and the EPA's 
+Responses
+
+    Many commenters on the proposed variance expressed concern that 
+mercury is a persistent, bioaccumulative neurotoxin and raised the 
+possibility of leaching into groundwater, surrounding soils, nearby 
+wells or surface water. Some commenters questioned the long-term 
+integrity of monofill containment systems. While EPA agrees that 
+mercury poses serious risks to human health and the environment, these 
+risks are the basis for stringent controls under RCRA and are fully 
+considered in EPA's evaluation of this petition. As detailed in the 
+proposed variance, the approved treatment--conversion of elemental 
+mercury generated from RMERC to mercuric sulfide and stabilization in 
+LLDPE monolithic solids--significantly reduces mercury mobility and the 
+treatment meets or exceeds the performance standards applicable under 
+the LDR program.
+    Several commenters supported the variance but recommended long-term 
+groundwater monitoring, limits on stored volumes, periodic inspections, 
+and further measures to address contingency scenarios. EPA notes that 
+the variance does not remove or alter any existing regulatory 
+obligations under RCRA subtitle C. The facility must adhere to all 
+applicable monitoring, inspection, and contingency requirements under 
+its hazardous waste permit. Additionally, the Nevada Department of 
+Environmental Protection, as the authorized entity that oversees 
+permitting at U.S. Ecology's Nevada facility, may choose to require 
+additional controls or disposal volume limits based on its review of 
+U.S. Ecology's permit application for the subtitle C monofill where the 
+treated elemental mercury will be disposed.
+    Some comments opposed departing from traditional RMERC recycling 
+requirements, while others noted that the elemental mercury market has 
+collapsed and supported permanent disposal through stabilization. EPA's 
+review of the mercury market as discussed in the proposed rule shows 
+that the mandated recycling standard is no longer technically 
+appropriate due to the lack of viable market demand. The variance 
+authority exists precisely for circumstances such as this, in which the 
+underlying treatment standard is inappropriate even if technically 
+possible.
+    Some commenters questioned whether granting the variance could set 
+a precedent for weakening hazardous waste controls or raised concerns 
+about long-term facility responsibility. EPA points out that this 
+variance applies only to the specific waste streams and facility 
+described in the petition. Approval does not alter national standards 
+and does not create an automatic pathway for future variances. Long-
+term oversight obligations remain in effect under existing RCRA 
+requirements. Further, the record demonstrates that the treatment 
+approach significantly limits the potential mobility of the elemental 
+mercury and that disposal in a designated monofill will ensure that any 
+leaching is discovered before it can contaminate ground or surface 
+water in the surrounding areas. The EPA also believes the approved 
+treatment approach is preferable to the status quo, which is indefinite 
+long-term storage in its elemental mercury form since the market for 
+mercury is currently insufficient.
+    Several commenters supported the proposed variance, noting that the 
+treatment method reduces long-term environmental risks. One commenter 
+provided only a correction to a facility location description and did 
+not take a position.
+
+III. Description of the Treatment and Disposal Approach in the Petition
+
+A. Treatment Process
+
+    The petition includes the conclusions of a study of a process for 
+treating and stabilizing elemental mercury reclaimed from high mercury 
+wastes that will minimize the risk of mercury release from the treated 
+waste and allow for land disposal. USE has an existing agreement with 
+Bethlehem Apparatus to perform the treatment process. The Bethlehem 
+Apparatus process post-RMERC includes: (1) conversion of distilled and 
+retorted high-purity elemental mercury into a stable form of mercuric 
+sulfide (HgS) powder by reaction without significant excess sulfur 
+through a patented proprietary process (U.S. Patent Nos. 7,691,361 and 
+8,501,107); (2) blending the HgS powder with melted linear low-density 
+polyethylene (LLDPE) under a proprietary process with defined 
+parameters under vacuum; and (3) extruding the LLDPE-HgS blend as a 
+monolith (hereafter referred to in this document as ``HgS waste'') 
+directly into Department of Transportation (DOT)-rated nonreactive 
+container (such as high density polyethylene (HDPE) closed-head drums). 
+USE must only accept containers of HgS waste that meet all applicable 
+DOT requirements under 49 CFR.
+
+B. Disposal Environment
+
+    For final disposal, USE must construct a designated HgS waste RCRA 
+monofill at its Beatty, Nevada facility, in compliance with its RCRA 
+permit. Controlling variable environmental conditions that may 
+influence mercury leaching from HgS waste is a critical part of this 
+variance. USE's proposed monofill must only accept HgS waste treated by 
+the process described in this rule and USE's September 22, 2025, 
+petition, subject to the conditions summarized in section IV of this 
+preamble, Conditions for Treatment and Disposal of HgS Wastes. The 
+proposed monofill disposal site must be located within a RCRA subtitle 
+C permitted facility in an arid environment in Beatty, Nevada. This 
+location limits the potential impacts of rainwater to the disposal site 
+by lowering the potential for leachate generation. Disposal in a 
+segregated monofill reduces potential infiltration of storm water or 
+leachate from other portions of the facility and the introduction of 
+other contaminants or minerals from rainwater that may increase mercury 
+leachability. For these reasons, the EPA has determined that the 
+proposed monofill location will minimize the potential for mercury 
+migration or leaching from the treated waste.
+    The Nevada Department of Environmental Protection (NDEP) regulates 
+hazardous waste pursuant to Nevada Administrative Code (NAC) and the 
+Nevada Revised Statutes (NRS), as a State authorized to implement a 
+hazardous waste program under the RCRA. As such, prior to construction 
+of the monofill and acceptance/disposal of any HgS waste at the Beatty, 
+Nevada, facility, USE must obtain all necessary permits and permit 
+modifications from NDEP.
+    The proposed monofill must meet, at a minimum, all hazardous waste
+
+[[Page 38542]]
+
+standards and requirements imposed by NDEP. The approval of this 
+variance does not limit the delegated RCRA authority of NDEP to 
+establish design and permitting conditions. Nothing in this variance 
+authorizes the disposal of HgS waste from the process described in this 
+approval at any portion of the facility other than the designated 
+monofill that must be approved and permitted by NDEP. In addition to 
+all applicable RCRA requirements of 40 CFR parts 260 through 271 and 
+corresponding State regulations, EPA herein requires USE to comply with 
+the conditions described in section IV of this preamble, Conditions for 
+Treatment and Disposal of HgS Wastes below, to retain this variance.
+
+IV. Conditions for Treatment and Disposal of HgS Wastes
+
+    In addition to the alternative treatment protocol described in 
+section III.A. of this preamble and of this variance approval and 
+further detailed in USE's September 22, 2025, petition, USE must comply 
+with the following conditions.
+    1. Prior to construction of the monofill and acceptance/disposal of 
+any HgS waste at the Beatty, Nevada, facility, USE must obtain all 
+necessary Federal, State and local permits.
+    2. For HgS waste, USE must meet the concentration based LDR 
+standard of 0.025 mg/L using TCLP, Method 1311; however, USE must also 
+conduct periodic confirmation testing on two (2) batches at least 
+quarterly for the first two (2) years and annually on two (2) batches 
+thereafter of the HgS waste using the most recently approved revision 
+of LEAF Method 1315 with modifications appropriate for mercury (See EPA 
+``Summary Document'' in the docket for details) to confirm continued 
+compliance with the concentration-based LDR standard of 0.025 mg/L. 
+Additional confirmation testing may be established by NDEP as part of 
+the permitting process.
+    3. USE must confirm that excess mercury is not present in the HgS 
+powder prior to blending with LLDPE, for at least one (1) of every 
+twenty (20) batches of HgS powder destined to be blended with LLDPE and 
+disposed at the Beatty, Nevada, facility.
+    4. HgS waste must be disposed within a permitted subtitle C 
+monofill at the USE Beatty, Nevada, TSD facility.
+    5. Disposal of HgS waste at the Beatty, Nevada, monofill must 
+comply with USE's RCRA permit conditions for the treated HgS waste.
+    6. The HgS waste management facilities at USE, including any waste 
+storage or disposal areas, must be designed and constructed such that 
+the containment system, leachate management system, stormwater 
+collection and control system, and future cover and closure systems are 
+independent of other environmental control systems for the facility. 
+The stormwater control systems for the HgS waste management facilities 
+must not allow stormwater run-off to or run-on from other waste 
+management units and must be designed to contain at least the water 
+volume resulting from a 24-hour, 100-year event. This condition must be 
+met during the life of the facility for operation, closure, and post-
+closure periods.
+    7. Leachate from other waste management units of the USE facility 
+must not be used for dust suppression at the monofill. Leachate from 
+the monofill itself may only be used for dust suppression at the 
+monofill if the leachate collected from the monofill is analyzed and 
+does not contain any hazardous constituents.
+    8. Unless a Future Amendment to this variance is approved as 
+described in section V of this preamble, Future Amendments to this 
+Variance, below, USE must only accept HgS waste treated via existing 
+agreement between USE and Bethlehem Apparatus as is described in this 
+variance.
+
+V. Future Amendments to This Variance
+
+    Prior to the acceptance of HgS powder or HgS waste at the Beatty, 
+Nevada, facility from any facility other than Bethlehem Apparatus's 
+Bethlehem, Pennsylvania, location, USE must submit a request for a 
+modification of this variance through a revised petition submitted 
+pursuant to 40 CFR 268.44 for approval by the EPA. To ensure such a 
+process change does not alter the performance of the treatment process 
+for HgS waste, the following steps are required for the Agency to 
+determine that the process and treatment residuals are equivalent to 
+those analyzed for this variance.
+    A. If USE proposes to use an alternate vendor for conversion of 
+elemental mercury to HgS powder that will then be blended into LLDPE 
+and extruded into a monolith, USE must:
+    1. Ensure any alternate vendor has secured all necessary permits 
+for such treatment processes from local, State and Federal regulators.
+    2. Demonstrate and receive approval from EPA that the conversion 
+process is the same as or equivalent to the Bethlehem Apparatus 
+process. The demonstration must detail equivalency for the following 
+process controls: type of equipment used, conversion temperature, color 
+of the HgS powder, type and quantity of sulfur added for reaction 
+completion without significant excess sulfur, external environmental 
+conditions at the time of conversion (humidity and temperature), 
+control of mercury losses through volatilization and residual 
+concentrations of other mercury species. If any process controls differ 
+from the Bethlehem Apparatus process, USE must submit such revisions to 
+EPA for approval and request a technical meeting to discuss such 
+revisions with the Agency prior to receiving HgS powder from the 
+alternate vendor.
+    3. Provide third-party analysis from at least five (5) samples of 
+HgS waste from different batches to the EPA. The analysis must 
+demonstrate that leaching does not exceed 0.025mg/L using TCLP and EPA 
+Method 1315 with modifications appropriate for mercury (refer to the 
+mercury leaching report at document ID: EPA-HQ-OLEM-2025-2038-0026 for 
+data transformation from Method 1315 to aqueous concentration using the 
+liquid-to-solid ratio and liquid-to-solid equilibration time for TCLP).
+    B. If USE proposes to move the LLDPE-HgS blending and extrusion 
+process from Bethlehem Apparatus to its Beatty, Nevada, facility, USE 
+must:
+    1. Secure all necessary permits for such treatment processes from 
+local, State and Federal regulators.
+    2. Demonstrate and receive approval from EPA that the blending and 
+extrusion process is the same as or equivalent to the Bethlehem 
+Apparatus process. The demonstration must detail equivalency for the 
+following process controls: type of equipment used, temperature of the 
+blending and extrusion process, residence time of HgS in the mixing 
+chamber, mixing speed, external environmental conditions at the time of 
+blending (humidity and temperature) and control of mercury losses 
+thorough volatilization. If any process controls differ from the 
+Bethlehem Apparatus process, USE must submit such revisions to the EPA 
+for approval and request a technical meeting to discuss such revisions 
+with the Agency prior to commencement of the treatment process.
+    3. Provide third-party analysis of at least three (3) samples of 
+the treated LLDPE-HgS monolithic waste using TCLP and EPA Method 1315 
+from different batches of HgS powder with modifications appropriate for 
+mercury (refer to the mercury leaching report at document ID: EPA-HQ-
+OLEM-2025-2038-0026 for data transformation from Method 1315 to aqueous 
+concentration using the liquid-to-solid ratio and
+
+[[Page 38543]]
+
+liquid-to-solid equilibration time for TCLP).
+
+VI. Statutory and Executive Order Reviews
+
+A. Executive Order 12866: Regulatory Planning and Review and Executive 
+Order 13563: Improving Regulation and Regulatory Review
+
+    This action is not a significant regulatory action and was 
+therefore not submitted to the Office of Management and Budget (OMB) 
+for review.
+
+B. Executive Order 14192: Unleashing Prosperity Through Deregulation
+
+    This action is an Executive Order 14192 deregulatory action. This 
+rule is expected to provide burden reduction by replacing an 
+unachievable LDR standard that led to the requirement for indefinite 
+storage of high concentration mercury wastes by DOE. The site-specific 
+LDR standard will allow for the treatment and disposal of high 
+concentration mercury wastes.
+
+C. Congressional Review Act (CRA)
+
+    This rule is exempt from the CRA because it is a rule of particular 
+applicability.
+
+List of Subjects in 40 CFR Part 268
+
+    Environmental protection, Hazardous waste, and Variances.
+
+Thomas D. Croci,
+Acting Assistant Administrator, Office of Land and Emergency 
+Management.
+    For the reasons set out in the preamble, title 40, chapter I of the 
+Code of Federal Regulations is amended as follows:
+
+PART 268--LAND DISPOSAL RESTRICTIONS
+
+0
+1. The authority citation for part 268 continues to read as follows:
+
+    Authority: 42 U.S.C. 6905, 6912(a), 6921, and 6924.
+
+0
+2. In Sec.  268.44,
+0
+a. Designate the table that immediately follows paragraph (o) as table 
+1 to paragraph (o); and
+0
+b. Amend newly designated table 1 by adding, in alphabetical order, an 
+entry for ``U.S. Ecology Nevada, Inc.''.
+    The addition reads as follows:
+
+Sec.  268.44  Variance from a treatment standard.
+
+* * * * *
+    (o) * * *
+
+                               Table 1 to Paragraph (o)--Wastes Excluded From The Treatment Standards Under Sec.   268.40
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                      Wastewaters                    Nonwastewaters
+                                                                          Regulated     ----------------------------------------------------------------
+ Facility name \1\ and address      Waste code          See also          hazardous      Concentration (mg/                      Concentration
+                                                                         constituent             L)                Notes            (mg/kg)       Notes
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+                                                                      * * * * * * *
+U.S. Ecology Nevada, Inc......  D009, U151 \21\..  NA...............  Mercury..........  NA................  NA..............  0.025 mg/L TCLP.    \22\
+                                                                                                                                                   \23\
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+\1\ A facility may certify compliance with these treatment standards according to provisions in 40 CFR 268.7.
+ * * * * * * *
+\21\ The waste codes included in this column are only for those mercury wastes identified as the high mercury subcategory in 40 CFR 268.40.
+\22\ This site-specific treatment standard applies only to elemental mercury resulting from RMERC of D009 or U151 high mercury subcategory wastes
+  containing greater than or equal to 260 mg/kg mercury treated via the alternative treatment method protocol of EPA 600/R-25/228, March 2026
+  (Evaluation of the Leaching Potential of Mercury from Polyethylene-Encapsulated Mercury Sulfide Material for Disposal). This alternative treatment
+  method converts elemental mercury post-RMERC to mercuric sulfide powder and blends the mercuric sulfide powder with linear low-density polyethylene
+  and extrudes the mixture as a monolithic block directly into a nonreactive container.
+\23\ Disposal of elemental mercury resulting from RMERC of D009 or U151 wastes that use the alternative treatment standards identified in footnote 22 in
+  this paragraph (o) table, is conditioned upon disposal at the U.S. Ecology Beatty, Nevada facility in a permitted subtitle C monofill that is
+  segregated from other disposal units at the facility. This treatment variance does not relieve U.S. Ecology of its responsibilities in the management
+  of hazardous waste under 40 CFR parts 260 through 271. This treatment variance is conditioned on U.S. Ecology's complying with the conditions
+  enumerated in Conditions for Treatment and Disposal of HgS Wastes (see [INSERT FEDERAL REGISTER CITATION for SUPPLEMENTARY INFORMATION], June 26,
+  2026), SUPPLEMENTARY INFORMATION section IV.
+
+* * * * *
+[FR Doc. 2026-12927 Filed 6-25-26; 8:45 am]
+BILLING CODE 6560-50-P

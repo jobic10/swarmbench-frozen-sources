@@ -1,0 +1,674 @@
+[Federal Register Volume 91, Number 122 (Friday, June 26, 2026)]
+[Rules and Regulations]
+[Pages 38521-38526]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-12921]
+
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Part 52
+
+[EPA-R05-OAR-2025-0032; FRL-13008-02-R5]
+
+Air Plan Approval; Ohio; Source-Specific Non-CTG RACT and SIP 
+Strengthening for Ohio
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Environmental Protection Agency (EPA) is approving source-
+specific State Implementation Plan (SIP) revisions submitted by Ohio. 
+These revisions address major source volatile organic compound (VOC) 
+and nitrogen oxide (NO X ) reasonably available control 
+technology (RACT) requirements for the Cleveland, OH Moderate 
+nonattainment area for the 2015 ozone National Ambient Air Quality 
+Standard (NAAQS or standard). The affected facilities include PPG 
+Industries Ohio, Inc. (PPG), Owens Corning, Akron Paint and Varnish, 
+Charter Steel, U. S. Steel Tubular Lorain, Carmeuse Lime, and Ross 
+Incineration. The EPA is also approving source-specific SIP revisions 
+for General Electric Aviation Evendale and Tyson Foods for the 
+Cincinnati maintenance area for the 2015 ozone standard. Finally, the 
+EPA is rescinding the source-specific VOC RACT rule for Formica 
+Corporation since it is subject to an equivalent CTG-based rule in the 
+Ohio Administrative Code (OAC). The EPA proposed to approve this action 
+on February 27, 2026, and received five comments.
+
+DATES: This final rule is effective on June 26, 2026.
+
+ADDRESSES: The EPA has established a docket for this action under 
+Docket ID No. EPA-R05-OAR-2025-0032. All documents in the docket are 
+listed on the  https://www.regulations.gov  website. Although listed in 
+the index, some information is not publicly available, i.e., 
+Confidential Business Information (CBI), Proprietary Business 
+Information (PBI), or other information whose disclosure is restricted 
+by statute. Certain other material, such as copyrighted material, is 
+not placed on the internet and will be publicly available only in hard 
+copy form. Publicly available docket materials are available either 
+through  https://www.regulations.gov  or please contact the person 
+identified in the FOR FURTHER INFORMATION CONTACT section for 
+additional information.
+
+FOR FURTHER INFORMATION CONTACT: Katie Caskey, Air and Radiation 
+Division (AR18J), Environmental Protection Agency, Region 5, 77 West 
+Jackson Boulevard, Chicago, Illinois 60604, telephone number: (312) 
+353-3490, email address:   [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION: Throughout this document whenever ``we,'' 
+``us,'' or ``our'' is used, we mean the EPA.
+
+I. Background Information
+
+    On February 27, 2026 (91 FR 9771), the EPA proposed to approve 
+source-specific SIP revisions that address major source VOC and 
+NO X  RACT requirements for the Cleveland, OH 2015 ozone 
+Moderate nonattainment area. The EPA also proposed to approve source-
+specific SIP revisions for major sources in the Cincinnati, OH 2015 
+ozone maintenance area as SIP strengthening measures. The EPA proposed 
+to rescind the source-specific VOC RACT rule for Formica Corporation 
+since it is subject to an equivalent CTG-based rule in the OAC. The EPA 
+is incorporating by reference Ohio rules 3745-21-09(MM), 3745-110-
+03(Q), and OAC 3745-110-03(P) in this action. An explanation of the 
+Clean Air Act (CAA) requirements, a detailed analysis of the revisions, 
+and the EPA's rationale for proposing approval were provided in the 
+notice of proposed rulemaking and will not be restated here. The public 
+comment period for this proposed rule ended on March 30, 2026. The EPA 
+received three supportive comments, one of which included 
+recommendations, and two adverse comments.
+    Comment: One commenter recommended disapproving the rule based on 
+concerns about the ability of the EPA to fulfill its mission. The 
+commenter further suggested that regulated sources should be shut down 
+until air quality meets the strictest clean air standards.
+    Response: The EPA disagrees with the commenter's recommendation. 
+This action is limited to evaluating whether the SIP revisions 
+submitted by Ohio satisfy applicable requirements of the CAA, including 
+the requirement to implement RACT for VOC and NO X  sources 
+under CAA sections 182(b)(2) and 182(f). The commenter does not provide 
+information relevant to the EPA's evaluation of whether the submitted 
+RACT determinations meet statutory and regulatory requirements. The 
+EPA's role in this action is not to require shutdown of sources, but to 
+evaluate the State's RACT determination in accordance with CAA 
+requirements. The EPA finds that the submitted RACT determinations meet 
+applicable CAA requirements and will contribute to continued 
+improvement in air quality.
+    Comment: Another commenter generally supported the EPA's approval 
+but recommended greater transparency regarding cost-effectiveness 
+thresholds. The commenter also recommended periodic reevaluation of 
+RACT of every five years or during title V permit renewals to reflect 
+advances in control technology.
+    Response: The EPA appreciates the commenter's support of the 
+proposed rulemaking. RACT determinations are case-specific and must 
+consider technological and economic feasibility for each source. The 
+EPA has not established a uniform cost-effectiveness threshold 
+applicable across all sources and geographic areas. Cost-effectiveness
+
+[[Page 38522]]
+
+depends on a variety of factors, including source type, type of control 
+technology, emissions profile, and economic conditions. As a result, 
+the EPA evaluates cost-effectiveness on a case-by-case basis. The EPA 
+finds that Ohio's RACT analyses appropriately evaluated cost-
+effectiveness consistent with this approach. Please refer to the docket 
+for additional details on how the EPA evaluated the cost effectiveness 
+of the various RACT determinations in this action.
+    The commenter also recommends periodic reevaluation of RACT to 
+reflect advances in control technology. The EPA acknowledges the 
+commenter's interest in ensuring that emission control requirements 
+reflect evolving technologies. However, the CAA establishes that RACT 
+requirements are triggered by a nonattainment area's classification and 
+apply when an area is classified as Moderate or higher under CAA 
+section 182. RACT is assessed when areas are initially classified as 
+Moderate and reassessed if an area is reclassified to a higher 
+classification level and is thus subject to a more stringent RACT 
+requirement. The CAA does not require periodic reevaluation of RACT on 
+a fixed schedule. While states may adopt additional provisions, such as 
+reevaluation requirements, these are not required under the CAA. 
+Therefore, the EPA cannot require periodic RACT reevaluation outside 
+the statutory framework of the CAA.
+    Comment: Another commenter asserted that the EPA failed to assess 
+the emission impacts of potential RACT measures and did not explain the 
+significance of the emission reduction potential for those measures for 
+all the non-CTG sources in the proposal.
+    Response: The CAA does not require, and thus the proposal does not 
+include a separate, standalone evaluation of emission impacts for 
+potential RACT measures.
+    CAA section 172(c)(1) requires the implementation of RACT measures 
+as expeditiously as practicable and shall provide for attainment of the 
+national primary ambient air quality standards. Reductions in emissions 
+from existing sources is part of that stated purpose, but the language 
+does not specify or require an evaluation of the emissions impacts.
+    CAA section 182(b)(2) requires implementation of RACT for Moderate 
+ozone nonattainment areas, and references CAA section 172(c)(1). The 
+EPA has long defined RACT as the lowest emission limitation a source 
+can meet through application of control technology that is reasonably 
+available, considering technological and economic feasibility.\1\
+---------------------------------------------------------------------------
+
+    \1\ 44 FR 53762 (September 17, 1979).
+---------------------------------------------------------------------------
+
+    Consistent with this definition, major source RACT is evaluated at 
+the source level by determining whether additional control technologies 
+are technologically feasible and economically reasonable for that 
+source. Ohio evaluated various available control options for each 
+source, including feasibility, emission reduction efficiency, and cost, 
+and determined whether more stringent controls met this standard. Each 
+of these analyses were considered by the EPA and were part of the 
+docket for this rulemaking.
+    Emission reduction potential is inherently reflected in the 
+evaluation of control technologies, including consideration of control 
+efficiency; however, the CAA does not require a separate or independent 
+analysis of the significance of emission reductions in determining 
+RACT. Instead, RACT determinations focus on whether controls are 
+technologically feasible and economically reasonable for that source.
+    The EPA reviewed Ohio's analysis and confirmed that Ohio evaluated 
+available control options and did not rely solely on existing controls 
+without analysis. Therefore, the EPA finds that Ohio's RACT 
+determinations are consistent with CAA requirements.
+    Comment: One commenter asserted that the EPA failed to provide a 
+reasoned explanation for its economic feasibility determinations, 
+failed to justify cost-effectiveness values or establish a benchmark, 
+failed to explain why certain technologically feasible controls are not 
+economically feasible, failed to consider emission reduction potential 
+in evaluating cost, and relied on conclusions that are inconsistent 
+with prior EPA analyses and cost-effectiveness ranges.
+    Response: The EPA disagrees that the explanation of economic 
+feasibility determinations in the proposed approval is inconsistent 
+with the CAA. Under the CAA, RACT requires implementation of control 
+technologies that are technologically feasible and economically 
+reasonable. The EPA evaluates economic feasibility on a case-by-case, 
+source-specific basis, considering a variety of factors, including, but 
+not limited to, source configuration, emission unit type, control 
+technology, baseline emissions, geographic location, and economic 
+conditions.
+    The EPA does not establish or apply a cost-effectiveness metric for 
+RACT. The commenter asserts that the EPA chose to apply such a metric. 
+The States may establish and apply their own cost-effectiveness 
+metrics, but the EPA does not adopt these metrics. Instead, the EPA 
+uses cost-effectiveness as one tool to determine whether a control 
+technology is economically reasonable for a specific source. What 
+constitutes reasonable cost-effectiveness varies depending on the 
+characteristics of the source and the control technology. The EPA 
+reviewed Ohio's source-specific analyses for each non-CTG major source. 
+In each analysis, Ohio evaluated available control technologies, 
+including emission reduction efficiency and associated costs, and 
+determined whether those technologies were economically reasonable for 
+each source. Where Ohio determined that certain technologically 
+feasible controls were not economically reasonable, the EPA reviewed 
+those determinations and founds that the record supports those 
+conclusions.
+    The commenter compares cost-effectiveness values in this action to 
+values from other EPA analyses, including the EPA's ``Regulatory Impact 
+Analysis of the Final revisions to the National Ambient Air Quality 
+Standards for Ground-Level Ozone'' (September 2015), the Federal 
+Implementation Plan Addressing Regional Ozone Transport for the 2015 
+Ozone National Ambient Air Quality Standard (88 FR 36654, June 5, 
+2023), and the EPA's study ``The Benefits and Costs of the Clean Air 
+Act from 1990 to 2020: Final Report--Rev. A'' (April 2011). Those 
+analyses were developed for different statutory purposes and broader 
+regulatory contexts and do not establish applicable cost benchmarks for 
+source-specific RACT determinations.
+    The commenter also identified specific facilities, including 
+Charter Steel, U.S. Steel Tubular Lorain, and Ross Incineration, and 
+asserted that more stringent controls should have been required. The 
+EPA reviewed the source-specific analyses for these facilities and 
+finds that Ohio evaluated technically feasible control options and 
+associated costs and determined which controls are economically 
+reasonable for each source.
+    Therefore, the EPA finds that the economic analyses in Ohio's RACT 
+demonstrations satisfy RACT requirements under the CAA.
+    Comment: That commenter also asserted that the EPA failed to ensure 
+that non-CTG sources subject to RACT are subject to sufficient 
+reporting and recordkeeping requirements, that existing requirements 
+are unclear or insufficient to demonstrate compliance, that reliance on 
+deviation reporting is inadequate, that the proposal does not
+
+[[Page 38523]]
+
+adequately explain how compliance with RACT limits will be enforced, 
+and that the lack of publicly accessible information limits effective 
+enforcement, including citizen enforcement.
+    Response: The EPA disagrees with the commenter's assertions. Ohio 
+has established reporting and recordkeeping requirements for sources 
+subject to RACT through OAC rule 3745-15-03, which the EPA has approved 
+into the Ohio SIP. This rule requires periodic reporting sufficient to 
+demonstrate compliance with applicable limits.
+    The EPA is not relying on deviation reporting alone to satisfy CAA 
+requirements. Ohio's framework relies on periodic reporting under OAC 
+rule 3745-15-03 along with source-specific permit conditions that are 
+approved into the Ohio SIP. These requirements allow compliance to be 
+determined on an ongoing basis. The emission limitations and associated 
+monitoring, recordkeeping, and reporting requirements in Ohio's SIP and 
+permits are federally enforceable, and information submitted to the 
+State under OAC rule 3745-15-03 is available to the public through 
+applicable public records processes, including the Freedom of 
+Information Act. The EPA reviewed Ohio's SIP and permitting framework 
+and finds that it provides enforceable mechanisms to ensure compliance.
+    Finally, the SIP strengthening measures addressed in this action 
+apply to sources in the Cincinnati maintenance area under the 2015 
+ozone standard. As a maintenance area, this area is not required to 
+implement RACT. The EPA's evaluation therefore focuses on whether the 
+submitted provisions strengthen the SIP and remain consistent with CAA 
+requirements.
+    Thus, the EPA finds that Ohio's reporting and permitting 
+requirements are sufficient to meet the CAA and regulatory 
+enforceability requirements.
+    Comment: That commenter also asserted that the EPA should require 
+electronic reporting for sources subject to RACT to improve 
+transparency, accessibility, and enforceability of emissions data, and 
+that the lack of electronic reporting limits the ability of the public 
+and regulators to effectively evaluate compliance.
+    Response: The EPA appreciates the commenter's recommendation. The 
+EPA's review in this action is limited to evaluating whether Ohio's SIP 
+submission meets applicable CAA requirements. The CAA does not require 
+electronic reporting for RACT determinations. Ohio's SIP-approved 
+framework, including OAC rule 3745-15-03, requires periodic reporting 
+sufficient to demonstrate compliance with applicable limits. These 
+requirements ensure that information necessary to evaluate compliance 
+is available, regardless of the reporting format. Information submitted 
+to the State under OAC rule 3745-15-03 is available to the public 
+through applicable public records processes, including the Freedom of 
+Information Act. Accordingly, the EPA finds that Ohio's reporting 
+framework is sufficient to meet the CAA and regulatory enforceability 
+requirements.
+
+II. Final Action
+
+    The EPA is approving the following as meeting RACT in the Cleveland 
+moderate nonattainment area under the 2015 ozone standard:
+      Akron Paint and Varnish: Facility-wide VOC limit of 99.9 
+tons per year and work practice standards, including the use of 
+existing mixer covers, as detailed in permit number P0136483, issued 
+12/11/2024, effective 12/11/2024.
+      Carmeuse Lime: 4.6 pounds per ton NO X  limit for 
+kilns, continued operation with good combustion practices, proper kiln 
+operation, and a 54.5 tons/hr process weight rate limit, as detailed in 
+permit number P0137844, issued 07/10/2025, effective 07/10/2025.
+      Charter Steel: Operation of LNBs in compliance with 
+emission limits in OAC 3745-110-03(Q).
+      Owens Corning: Production limits, a vapor pressure limit 
+for asphalt storage, and continued use of RTOs and incinerators, as 
+detailed in permit number P0137247, issued 01/06/2025, effective 01/06/
+2025.
+      PPG Industries Ohio, Inc.: Existing source-specific RACT 
+in OAC 3745-21-09(MM).
+      Ross Incineration: Good operating and combustion practices 
+to control NO X  emissions. The NO X  emission limit 
+for the hazardous waste incinerator (unit N001) is 105 pounds per hour, 
+based on a 30-day rolling average. If NO X  emissions from 
+unit N001 exceed 110% of the baseline established in the RACT study, a 
+RACT reevaluation must be completed within one year. These RACT 
+requirements are in permit number P0137637, issued 07/31/2025, 
+effective 07/31/2025.
+      U.S. Steel Tubular Lorain: Operation of existing LNBs in 
+compliance with emission limits in OAC 3745-110-03(P).
+
+    [cir] P003: 0.068 lb/MMBtu.
+    [cir] P035: 0.12 lb/MMBtu.
+    [cir] P037: 0.15 lb/MMBtu.
+    [cir] P039:0.08 lb/MMBtu.
+    [cir] P040:0.15 lb/MMBtu.
+    The EPA is approving the following actions as SIP strengthening for 
+the Cincinnati maintenance area under the 2015 ozone standard:
+      GE Evendale: Good operating practices for combustion units 
+and operation under engineering test plans that minimize fuel use for 
+turbine testing and ancillary operations. These measures are detailed 
+in permit number P0136500, issued 01/30/2025, effective 01/30/2025 and 
+permit number P0136501, issued 01/30/2025, effective 01/30/2025. 
+Presumptive limits under OAC 3745-21-19 for robotic coaters.
+      Tyson Foods: Installation of a combined mist eliminator 
+and thermal oxidizer system achieving 98% VOC control efficiency from 
+all cook lines, as reflected in permit number P0137384, issued 06/11/
+2025, effective 06/11/2025.
+    Finally, the EPA is approving the removal of the site-specific VOC 
+RACT rule for Formica in OAC 3745-21-09(PP), as these units are now 
+regulated under the equivalent CTG-based rule in OAC 3745-21-09(F).
+    In accordance with 5 U.S.C. 553(d), EPA finds there is good cause 
+for these actions to become effective immediately upon publication. 
+This is because a delayed effective date is unnecessary due to the 
+nature of this SIP revision, which merely makes Federally enforceable, 
+requirements that are already applicable to the sources at the state 
+level. The immediate effective date for this action is authorized under 
+section 553(d)(3), which allows an effective date less than 30 days 
+after publication ``as otherwise provided by the agency for good cause 
+found and published with the rule.'' The purpose of the 30-day waiting 
+period prescribed in section 553(d) is to give affected parties a 
+reasonable time to adjust their behavior and prepare before the final 
+rule takes effect. This rule, however, does not create any new 
+regulatory requirements such that affected parties would need time to 
+prepare before the rule takes effect. Rather, this rule makes federally 
+enforceable regulatory requirements that are already applicable to 
+these sources at the state level. For this reason, EPA finds good cause 
+under 5 U.S.C. 553(d)(3) for these actions to become effective on the 
+date of publication of these actions.
+
+III. Incorporation by Reference
+
+    In this rule, the EPA is finalizing regulatory text that includes 
+incorporation by reference. In accordance with requirements of 1 CFR 
+51.5, the EPA is finalizing the incorporation by reference of the Ohio 
+Regulations and Permits described in sections I and II of this preamble 
+and set
+
+[[Page 38524]]
+
+forth in the amendments to 40 CFR part 52 below. The EPA has made, and 
+will continue to make, these documents generally available through 
+ https://www.regulations.gov , and at the EPA Region 5 Office (please 
+contact the person identified in the FOR FURTHER INFORMATION CONTACT 
+section of this preamble for more information). Therefore, these 
+materials have been approved by the EPA for inclusion in the SIP, have 
+been incorporated by reference by the EPA into that plan, are fully 
+federally enforceable under sections 110 and 113 of the CAA as of the 
+effective date of the final rulemaking of the EPA's approval, and will 
+be incorporated by reference in the next update to the SIP 
+compilation.\2\
+---------------------------------------------------------------------------
+
+    \2\ 62 FR 27968 (May 22, 1997)
+---------------------------------------------------------------------------
+
+IV. Statutory and Executive Order Reviews
+
+    Under the CAA, the Administrator is required to approve a SIP 
+submission that complies with the provisions of the CAA and applicable 
+Federal regulations. 42 U.S.C. 7410(k); 40 CFR 52.02(a). Thus, in 
+reviewing SIP submissions, the EPA's role is to approve State choices, 
+provided that they meet the criteria of the CAA. Accordingly, this 
+action merely approves State law as meeting Federal requirements and 
+does not impose additional requirements beyond those imposed by State 
+law. For that reason, this action:
+      Is not a significant regulatory action subject to review 
+by the Office of Management and Budget under Executive Order 12866 (58 
+FR 51735, October 4, 1993);
+      Is not subject to Executive Order 14192 (90 FR 9065, 
+February 6, 2025) because SIP actions are exempt from review under 
+Executive Order 12866;
+      Does not impose an information collection burden under the 
+provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
+      Is certified as not having a significant economic impact 
+on a substantial number of small entities under the Regulatory 
+Flexibility Act (5 U.S.C. 601 et seq.);
+      Does not contain any unfunded mandate or significantly or 
+uniquely affect small governments, as described in the Unfunded 
+Mandates Reform Act of 1995 (Pub. L. 104-4);
+      Does not have federalism implications as specified in 
+Executive Order 13132 (64 FR 43255, August 10, 1999);
+      Is not subject to Executive Order 13045 (62 FR 19885, 
+April 23, 1997) because it approves a State program;
+      Is not a significant regulatory action subject to 
+Executive Order 13211 (66 FR 28355, May 22, 2001); and
+      Is not subject to requirements of section 12(d) of the 
+National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
+note) because application of those requirements would be inconsistent 
+with the CAA.
+    In addition, the SIP is not approved to apply on any Indian 
+reservation land or in any other area where the EPA or an Indian Tribe 
+has demonstrated that a Tribe has jurisdiction. In those areas of 
+Indian country, the rule does not have Tribal implications and will not 
+impose substantial direct costs on Tribal governments or preempt Tribal 
+law as specified by Executive Order 13175 (65 FR 67249, November 9, 
+2000).
+    This rule is exempt from the Congressional Review Act because it is 
+a rule of particular applicability.
+    Under section 307(b)(1) of the CAA, petitions for judicial review 
+of this action must be filed in the United States Court of Appeals for 
+the appropriate circuit by August 25, 2026. Filing a petition for 
+reconsideration by the Administrator of this final rule does not affect 
+the finality of this action for the purposes of judicial review nor 
+does it extend the time within which a petition for judicial review may 
+be filed, and shall not postpone the effectiveness of such rule or 
+action. This action may not be challenged later in proceedings to 
+enforce its requirements. (See section 307(b)(2).).
+
+List of Subjects in 40 CFR Part 52
+
+    Environmental protection, Air pollution control, Incorporation by 
+reference, Intergovernmental relations, Nitrogen oxides, Ozone, 
+Volatile organic compounds.
+
+    Dated: June 15, 2026.
+Anne Vogel,
+Regional Administrator, Region 5.
+
+    For the reasons stated in the preamble, title 40 CFR part 52 is 
+amended as follows:
+
+PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
+
+0
+1. The authority citation for part 52 continues to read as follows:
+
+    Authority:  42 U.S.C. 7401 et seq.
+
+0
+2. In Sec.  52.1870:
+0
+a. The table in paragraph (c) is amended by revising the entry for 
+3745-21-09 under ``Chapter 3745-21 Carbon Monoxide, Ozone, Hydrocarbon 
+Air Quality Standards''.
+0
+b. The table in paragraph (d) is amended by:
+0
+i. Adding an entry for ``Akron Paint and Varnish'' after the entry for 
+``AK Steel Corporation'';
+0
+ii. Adding an entry for ``Carmeuse Lime, Inc.-Grand River Operations'' 
+after the entry for ``Cardinal Power Plant'';
+0
+iii. Adding two entries for ``General Electric Aviation, Evendale 
+Plant'' after the entry for ``Forest City Technologies, Plant 4'';
+0
+iv. Adding an entry for ``Owens Corning'' after the entry for ``Ohio 
+Valley Electric Corp.--Kyger Creek Station''
+0
+v. Adding an entry for ``Ross Incineration'' after the entry for 
+``Reilly Industries, Inc''; and
+0
+vi. Adding an entry for ``Tyson Foods'' after the entry for ``T&B 
+Foundry Company''.
+    The additions and revision read as follows:
+
+ Sec.  52.1870   Identification of plan.
+
+* * * * *
+    (c) * * *
+
+                                         EPA--Approved Ohio Regulations
+----------------------------------------------------------------------------------------------------------------
+                                                         Ohio effective
+          Ohio citation              Title/subject            date         EPA approval date         Notes
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+  Chapter 3745-21--Carbon Monoxide, Ozone, Hydrocarbon Air Quality Standards, and Related Emission Requirements
+----------------------------------------------------------------------------------------------------------------
+ 
+
+[[Page 38525]]
+
+ 
+                                                  * * * * * * *
+3745-21-09......................  Control of                   3/27/2022  6/26/26, 91 FR      Except 3745-21-
+                                   emissions of                            [INSERT FEDERAL     09(PP).
+                                   volatile organic                        REGISTER PAGE
+                                   compounds from                          WHERE THE
+                                   stationary sources                      DOCUMENT BEGINS].
+                                   and
+                                   perchloroethylene
+                                   from dry cleaning
+                                   facilities.
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+* * * * *
+    (d) * * *
+
+                                 EPA--Approved Ohio Source-Specific Regulations
+----------------------------------------------------------------------------------------------------------------
+                                                       Ohio effective
+         Name of source                 Number              date         EPA approval date         Comments
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+Akron Paint and Varnish.........           P0136483         12/11/2024  6/26/26, 91 FR       Only sections B.8.,
+                                                                         [INSERT FEDERAL      C.3.b)(1)b.,
+                                                                         REGISTER PAGE        C.3.c)(1),
+                                                                         WHERE THE DOCUMENT   C.3.d)(4),
+                                                                         BEGINS].             C.3.e)(4),
+                                                                                              C.3.f)(2),
+                                                                                              C.4.b)(1)c.,
+                                                                                              C.4.c)(1),
+                                                                                              C.4.d)(1),
+                                                                                              C.4.e)(6),
+                                                                                              C.4.f)(2),
+                                                                                              C.5.b)(1)c.,
+                                                                                              C.5.c)(1),
+                                                                                              C.5.d)(1),
+                                                                                              C.5.e)(6), and
+                                                                                              C.5.f)(2).
+ 
+                                                  * * * * * * *
+Carmeuse Lime, Inc.-Grand River            P0137844         07/10/2025  6/26/26, 91 FR       Only sections
+ Operations.                                                             [INSERT FEDERAL      B.3.through B.7.,
+                                                                         REGISTER PAGE        C.1.b)(1)b.,
+                                                                         WHERE THE DOCUMENT   C.1.c)(1),
+                                                                         BEGINS].             C.1.d)(1),
+                                                                                              C.1.e)(1),
+                                                                                              C.1.f)(1)a.,
+                                                                                              C.2.b)(1)b.,
+                                                                                              C.2.c)(1),
+                                                                                              C.2.d)(1),
+                                                                                              C.2.e)(1), and
+                                                                                              C.2.f)(1)a.
+ 
+                                                  * * * * * * *
+General Electric Aviation,                 P0136500         01/30/2025  6/26/26, 91 FR       Only sections B.2.,
+ Evendale Plant.                                                         [INSERT FEDERAL      C.1.b)(1)c.,
+                                                                         REGISTER PAGE        C.1.b)(2)a.,
+                                                                         WHERE THE DOCUMENT   C.1.c)(1),
+                                                                         BEGINS].             C.1.d)(1),
+                                                                                              C.1.e)(2).
+General Electric Aviation,                 P0136501         01/30/2025  6/26/26, 91 FR       Only sections B.2.,
+ Evendale Plant.                                                         [INSERT FEDERAL      C.1.b)(1)f.,
+                                                                         REGISTER PAGE        C.1.c)(2),
+                                                                         WHERE THE DOCUMENT   C.1.d)(2),
+                                                                         BEGINS].             C.1.e)(3),
+                                                                                              C.2.b)(1)f.,
+                                                                                              C.2.c)(2),
+                                                                                              C.2.d)(2), and
+                                                                                              C.2.e)(3).
+ 
+                                                  * * * * * * *
+Owens Corning...................           P0137247         01/06/2025  6/26/26, 91 FR       Only sections
+                                                                         [INSERT FEDERAL      B.11., B.12.,
+                                                                         REGISTER PAGE        B.13., B.14.,
+                                                                         WHERE THE DOCUMENT   C.1.b)(1)b.,
+                                                                         BEGINS].             C.1.c)(1),
+                                                                                              C.1.d)(1),
+                                                                                              C.1.e)(2),
+                                                                                              C.2.b)(1)b.,
+                                                                                              C.2.c)(1),
+                                                                                              C.2.d)(1),
+                                                                                              C.2.e)(2),
+                                                                                              C.3.b)(1)b.,
+                                                                                              C.3.c)(1),
+                                                                                              C.3.d)(1),
+                                                                                              C.3.e)(2),
+                                                                                              C.4.b)(1)b.,
+                                                                                              C.4.c)(1),
+                                                                                              C.4.d)(1),
+                                                                                              C.4.e)(2),
+                                                                                              C.5.b)(1)b.,
+                                                                                              C.5.c)(1),
+                                                                                              C.5.d)(3),
+                                                                                              C.5.e)(2),
+                                                                                              C.6.b)(1)c.,
+                                                                                              C.6.d)(1),
+                                                                                              C.6.e)(2),
+                                                                                              C.6.f)(3),
+                                                                                              C.7.b)(1)b.),
+                                                                                              C.7.d)(1),
+                                                                                              C.7.e)(2),
+                                                                                              C.7.f)(2),
+                                                                                              C.8.b)(1)b.,
+                                                                                              C.8.c)(1),
+                                                                                              C.8.d)(1),
+                                                                                              C.8.e)(2),
+                                                                                              C.9.b)(1)c.,
+                                                                                              C.9.c)(1),
+                                                                                              C.9.d)(1),
+                                                                                              C.9.e)(2),
+                                                                                              C.10.b)(1)b.,
+                                                                                              C.10.d)(1),
+                                                                                              C.10.e)(2), and
+                                                                                              C.10.f)(2).
+ 
+                                                  * * * * * * *
+Ross Incineration...............           P0137637         07/31/2025  6/26/26, 91 FR       Only sections
+                                                                         [INSERT FEDERAL      C.1.b)(1)k.,
+                                                                         REGISTER PAGE        C.1.b)(1)l.,
+                                                                         WHERE THE DOCUMENT   C.1.b)(2)k.,
+                                                                         BEGINS].             C.1.b)(2)l.,
+                                                                                              C.1.c)(19),
+                                                                                              C.1.d)(54),
+                                                                                              C.1.e)(20),
+                                                                                              C.1.f)(1)f.
+ 
+
+[[Page 38526]]
+
+ 
+                                                  * * * * * * *
+Tyson Foods.....................           P0137384          6/11/2025  6/26/26, 91 FR       Only sections B.3.,
+                                                                         [INSERT FEDERAL      C.1.(b)(1)d.,
+                                                                         REGISTER PAGE        C.1.c)(3),
+                                                                         WHERE THE DOCUMENT   C.1.d)(4),
+                                                                         BEGINS].             C.1.e)(3),
+                                                                                              C.1.f)(3),
+                                                                                              C.2.b)(1)d.,
+                                                                                              C.2.c)(3),
+                                                                                              C.2.d)(4),
+                                                                                              C.2.e)(3),
+                                                                                              C.2.f)(3),
+                                                                                              C.3.b)(1)d.,
+                                                                                              C.3.c)(2),
+                                                                                              C.3.d)(5),
+                                                                                              C.3.e)(3),
+                                                                                              C.3.f)(3),
+                                                                                              C.4.b)(1)d.,
+                                                                                              C.4.c)(3),
+                                                                                              C.4.d)(5),
+                                                                                              C.4.e)(3),
+                                                                                              C.4.f)(3),
+                                                                                              C.5.b)(1)d.,
+                                                                                              C.5.c)(3),
+                                                                                              C.5.d)(5),
+                                                                                              C.5.e)(3),
+                                                                                              C.5.f)(2)b. [that
+                                                                                              follows
+                                                                                              C.5.f)(2)h.]
+                                                                                              C.6.b)(1)d.,
+                                                                                              C.6.c)(3),
+                                                                                              C.6.d)(4),
+                                                                                              C.6.e)(3),
+                                                                                              C.6.f)(3),
+                                                                                              C.7.b)(1)d.,
+                                                                                              C.7.c)(3),
+                                                                                              C.7.d)(4),
+                                                                                              C.7.e)(3), and
+                                                                                              C.7.f)(3).
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+
+* * * * *
+
+[FR Doc. 2026-12921 Filed 6-25-26; 8:45 am]
+BILLING CODE 6560-50-P

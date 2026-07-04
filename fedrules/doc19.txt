@@ -1,0 +1,498 @@
+[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Rules and Regulations]
+[Pages 39489-39493]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13185]
+
+[[Page 39489]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Part 180
+
+[EPA-HQ-OPP-2021-0290; FRL-13187-01-OCSPP]
+
+Chlormequat Chloride; Pesticide Tolerances
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This regulation modifies existing tolerances for residues of 
+chlormequat chloride in or on barley, oats, triticale, and wheat 
+grains; and in or on multiple food and livestock commodities that are 
+identified and will be discussed in detail later in this document. 
+Taminco US LLC, a subsidiary of Eastman Chemical Company, requested 
+these tolerances under the Federal Food, Drug, and Cosmetic Act 
+(FFDCA).
+
+DATES: This regulation is effective June 30, 2026. Objections and 
+requests for hearings must be received on or before August 31, 2026 and 
+must be filed in accordance with the instructions provided in 40 CFR 
+part 178 (see also Unit I.C. of this document).
+
+ADDRESSES: The docket for this action, identified by docket 
+identification (ID) number EPA-HQ-OPP-2021-0290, is available at 
+ https://www.regulations.gov . Additional information about dockets 
+generally, along with instructions for visiting the dockets in person, 
+is available at  https://www.epa.gov/dockets .
+
+FOR FURTHER INFORMATION CONTACT: Charles Smith, Registration Division 
+(7505T), Office of Pesticide Programs, Environmental Protection Agency, 
+1200 Pennsylvania Ave., NW, Washington, DC 20460-0001; main telephone 
+number: (202) 566-1030; email address:   [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION:
+
+I. Executive Summary
+
+A. Does this action apply to me?
+
+    You may be potentially affected by this action if you are an 
+agricultural producer, food manufacturer, or pesticide manufacturer. 
+The following list of North American Industrial Classification System 
+(NAICS) codes is not intended to be exhaustive, but rather provides a 
+guide to help readers determine whether this document applies to them.
+      Crop production (NAICS code 111).
+      Animal production (NAICS code 112).
+      Food manufacturing (NAICS code 311).
+      Pesticide manufacturing (NAICS code 32532).
+    If you have any questions regarding the applicability of this 
+action to a particular entity, consult the person listed under FOR 
+FURTHER INFORMATION CONTACT.
+
+B. What is EPA's authority for taking this action?
+
+    EPA is issuing this rulemaking under section 408 of the Federal 
+Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. 346a. FFDCA section 
+408(b)(2)(A)(i) allows EPA to establish a tolerance (the legal limit 
+for a pesticide chemical residue in or on a food) only if EPA 
+determines that the tolerance is ``safe.'' FFDCA section 
+408(b)(2)(A)(ii) defines ``safe'' to mean that ``there is a reasonable 
+certainty that no harm will result from aggregate exposure to the 
+pesticide chemical residue, including all anticipated dietary exposures 
+and all other exposures for which there is reliable information.'' This 
+includes exposure through drinking water and in residential settings 
+but does not include occupational exposure. FFDCA section 408(b)(2)(C) 
+requires EPA to give special consideration to exposure of infants and 
+children to the pesticide chemical residue in establishing a tolerance 
+and to ``ensure that there is a reasonable certainty that no harm will 
+result to infants and children from aggregate exposure to the pesticide 
+chemical residue . . .''
+
+C. How can I file an objection or hearing request?
+
+    Under FFDCA section 408(g), 21 U.S.C. 346a(g), any person may file 
+an objection to any aspect of this regulation and may also request a 
+hearing on those objections. If you fail to file an objection to the 
+final rule within the time period specified in the final rule, you will 
+have waived the right to raise any issues resolved in the final rule. 
+You must file your objection or request a hearing on this regulation in 
+accordance with the instructions provided in 40 CFR part 178. To ensure 
+proper receipt by EPA, you must identify docket ID number EPA-HQ-OPP-
+2021-0290 in the subject line on the first page of your submission. All 
+objections and requests for a hearing must be in writing, and must be 
+received by the Hearing Clerk on or before August 31, 2026.
+    The EPA's Administrative Law Judges Division (ALJD), in which the 
+Hearing Clerk is housed, urges parties to file and serve documents by 
+electronic means only, notwithstanding any other particular 
+requirements set forth in other procedural rules governing those 
+proceedings. See ``Order Urging Electronic Filing and Service,'' dated 
+December 3, 2025, which can be found at  https://www.epa.gov/system/files/documents/2025-12/2025-12-03-order-urging-electronic-filing-and-service.pdf . Although the EPA's regulations require submission via U.S. 
+Mail or hand delivery, the EPA intends to treat submissions filed via 
+electronic means as properly filed submissions; therefore, the EPA 
+believes the preference for submission via electronic means will not be 
+prejudicial. When submitting documents to the ALJD electronically, a 
+person should utilize the ALJD e-filing system at  https://yosemite.epa.gov/oa/eab/eab-alj_upload.nsf .
+    In addition to filing an objection or hearing request with the 
+Hearing Clerk as described in 40 CFR part 178, please submit a copy of 
+the filing (excluding any Confidential Business Information (CBI)) for 
+inclusion in the public docket at  https://www.regulations.gov . Follow 
+the online instructions for submitting comments. Do not submit 
+electronically any information you consider to be CBI or other 
+information whose disclosure is restricted by statute. If you wish to 
+include CBI in your request, please follow the applicable instructions 
+at  https://www.epa.gov/dockets/commenting-epa-dockets#rules  and clearly 
+mark the information that you claim to be CBI. Information not marked 
+confidential pursuant to 40 CFR part 2 may be disclosed publicly by EPA 
+without prior notice.
+
+II. Petitioned-For Tolerance
+
+    In the Federal Register of August 24, 2021 (83 FR 47275) (FRL-8792-
+02-OCSPP), the Federal Register of October 21, 2021 (86 FR 58239) (FRL-
+8793-04-OCSPP), and the Federal Register of March 24, 2023 (88 FR 
+17778) (FRL-10579-02-OCSPP), EPA issued a document pursuant to FFDCA 
+section 408(d)(3), 21 U.S.C. 346a(d)(3), announcing the filing of a 
+pesticide petition (PP 0F8857) by Taminco US LLC, a subsidiary of 
+Eastman Chemical Company, 200 S Wilcox Drive, Kingsport, TN 37660-5147. 
+The petition requested that 40 CFR 180.698 be amended by establishing 
+tolerances for residues of the plant growth regulator chlormequat 
+chloride, [(2-chloroethyl) trimethylammonium chloride], in or on 
+Aspirated grain fractions (AGF) at 30 parts per million (ppm); barley 
+grain at 8 ppm; barley, hay at 90 ppm; barley, straw at 50 ppm; eggs at 
+0.1 ppm; horse, meat byproducts at 1 ppm; horse, meat at 0.2 ppm; meat 
+byproducts of cattle at 0.7 ppm; meat of cattle at 0.2 ppm; meat 
+byproducts of goats at 0.7 ppm; meat of
+
+[[Page 39490]]
+
+goats at 0.2 ppm; meat byproducts of hogs at 0.5 ppm; meat of hogs at 
+0.2 ppm; meat byproducts of sheep at 0.7 ppm; meat of sheep at 0.2 ppm; 
+milk at 0.5 ppm; oat, forage at 15 ppm; oat, hay at 100 ppm; oat, straw 
+at 50 ppm; poultry meat byproducts at 0.1 ppm, poultry meat at 0.05 
+ppm, oat grain at 40 ppm, triticale grain at 5 ppm; wheat, bran at 15 
+ppm; wheat, germ at 20 ppm; wheat grain at 5 ppm; wheat, forage at 30 
+ppm; wheat, hay at 90 ppm; and wheat, straw at 80 ppm.
+    Those documents referenced a summary of the petition prepared by 
+Taminco US LLC, a subsidiary of Eastman Chemical Company, the 
+petitioner, which is available in the docket (Docket ID Number EPA-HQ-
+OPP-2021-0290) at  https://www.regulations.gov .
+    Comments were received in response to the notices of filing, one 
+comment from the Center for Food Safety (CFS), one from Environmental 
+Working Group (EWG), and one from a private citizen which was non-
+substantive. EPA's response to the remaining comments is addressed in 
+the Comments on the NOF and EPA's Responses section of the document, 
+Response to Public Comments on EPA's Registration Decision to Approve 
+the First Outdoor Food Uses on Wheat, Triticale, Barley, and Oats for 
+Chlormequat Chloride, posted in Docket ID Number EPA-HQ-OPP-2021-0290 
+at  https://www.regulations.gov .
+    Based upon review of the data supporting the petition and in 
+accordance with its authority under FFDCA section 408(d)(4)(A)(i), EPA 
+is modifying the existing tolerances for residues at different levels 
+than requested. The reason for these changes is explained in Unit IV.C.
+
+III. Finale Tolerance Action
+
+A. Aggregate Risk Assessment and Determination of Safety
+
+    Section 408(b)(2)(A)(i) of FFDCA allows EPA to establish a 
+tolerance (the legal limit for a pesticide chemical residue in or on a 
+food) only if EPA determines that the tolerance is ``safe.'' Section 
+408(b)(2)(A)(ii) of FFDCA defines ``safe'' to mean that ``there is a 
+reasonable certainty that no harm will result from aggregate exposure 
+to the pesticide chemical residue, including all anticipated dietary 
+exposures and all other exposures for which there is reliable 
+information.'' This includes exposure through drinking water and in 
+residential settings but does not include occupational exposure. 
+Section 408(b)(2)(C) of FFDCA requires EPA to give special 
+consideration to exposure of infants and children to the pesticide 
+chemical residue in establishing a tolerance and to ``ensure that there 
+is a reasonable certainty that no harm will result to infants and 
+children from aggregate exposure to the pesticide chemical residue . . 
+. .''
+    Consistent with FFDCA section 408(b)(2)(D), and the factors 
+specified therein, EPA has reviewed the available scientific data and 
+other relevant information in support of this action. EPA has 
+sufficient data to assess the hazards of and to make a determination on 
+aggregate exposure for chlormequat chloride including exposure 
+resulting from the tolerances modified by this action. EPA's assessment 
+of exposures and risks associated with chlormequat chloride follows.
+    In an effort to streamline its publications in the Federal 
+Register, EPA is not reprinting sections of the rule that repeat what 
+has been previously published for tolerance rulemakings for the same 
+pesticide chemical. Where scientific information concerning a 
+particular chemical remains unchanged, the content of those sections 
+would not vary between tolerance rulemakings. EPA considers referral 
+back to those sections as sufficient to provide an explanation of the 
+information EPA considered in making its safety determination for the 
+new rulemaking.
+    EPA has previously published tolerance rulemakings for chlormequat 
+chloride in which EPA concluded, based on the available information, 
+that there is a reasonable certainty that no harm would result from 
+aggregate exposure to chlormequat chloride and established tolerances 
+for residues of that chemical. EPA is incorporating previously 
+published sections from those rulemakings as described further in this 
+rule, as they remain unchanged.
+
+B. Toxicological Profile
+
+    EPA has evaluated the available toxicity data and considered its 
+validity, completeness, and reliability as well as the relationship of 
+the results of the studies to human risk. EPA has also considered 
+available information concerning the variability of the sensitivities 
+of major identifiable subgroups of consumers, including infants and 
+children.
+    Specific information on the studies received and the nature of the 
+adverse effects caused by chlormequat chloride as well as the no-
+observed-adverse-effect-level (NOAEL) and the lowest-observed-adverse-
+effect-level (LOAEL) from the toxicity studies can be found at  https://www.regulations.gov  in the document, Chlormequat Chloride. Revised 
+Human Health Risk Assessment for the Section 3 Registration Action for 
+a New Use on Wheat, Triticale, Barley, Oats, and Grasses Grown for 
+Seed, in docket ID number EPA-HQ-OPP-2021-0290. This assessment 
+incorporated a subchronic 28-day inhalation study in rats. This study 
+showed decreases in body weight in males, increased incidence of 
+salivation, unsteady gait, tremors, flattened posture, and decreases in 
+white blood cells in both sexes at 0.3 mg/L.
+    For additional discussion of the Toxicological Profile of 
+chlormequat chloride see Unit III.A of the chlormequat chloride 
+tolerance rulemaking published in the Federal Register of April 25, 
+2018 (84 FR 17925) (FRL-9974-42).
+
+C. Toxicological Points of Departure/Levels of Concern
+
+    A summary of the toxicological endpoints used for the human health 
+risk assessment can be found in the document, Chlormequat Chloride. 
+Revised Human Health Risk Assessment for the Section 3 Registration 
+Action for a New Use on Wheat, Triticale, Barley, Oats, and Grasses 
+Grown for Seed, in docket ID number EPA-HQ-OPP-2021-0290.
+
+D. Exposure Assessment
+
+    Much of the exposure assessment remains the same although updates 
+have occurred to accommodate exposures from the petitioned-for 
+tolerances. These updates are discussed in this section. For a 
+description of the rest of the EPA approach to and assumptions for the 
+exposure assessment, please reference Unit III.C. of the April 25, 
+2018, rulemaking in the Federal Register (84 FR 17925) (FRL-9974-42).
+    1. Dietary exposure from food and feed uses. EPA's dietary exposure 
+assessments have been updated to include the additional petitioned-for 
+tolerances for residues of chlormequat chloride. In estimating acute 
+and chronic dietary exposure, the assessment was conducted using the 
+Dietary Exposure Evaluation Model software with the Food Commodity 
+Intake Database (DEEM-FCID, Version 4.02, EPA) which incorporates 2005-
+2010 food consumption information from the United States Department of 
+Agriculture's National Health and Nutrition Examination Survey, What We 
+Eat in America. The acute assessment is based on tolerance-level 
+residues and assumes 100 percent crop treated (PCT). The acute 
+assessment is unrefined. The chronic assessment is based on average 
+field trial values and assumes 100 PCT. The chronic assessment is 
+partially
+
+[[Page 39491]]
+
+refined. Empirical processing factors were included where available. 
+Otherwise, DEEM-FCID default processing factors were used. A cancer 
+dietary assessment was not conducted because chlormequat chloride is 
+classified as ``not likely to be carcinogenic to humans.''
+    EPA did not use refined PCT information in the dietary assessment 
+for chlormequat chloride, although average field trial values were 
+used. Section 408(b)(2)(E) of FFDCA authorizes EPA to use available 
+data and information on the anticipated residue levels of pesticide 
+residues in food and the actual levels of pesticide residues that have 
+been measured in food. If EPA relies on such information, EPA must 
+require, pursuant to FFDCA section 408(f)(1), that data be provided 5 
+years after the tolerance is established, modified, or left in effect, 
+demonstrating that the levels in food are not above the levels 
+anticipated. For the present action, EPA will issue such data call-ins 
+as are required by FFDCA section 408(b)(2)(E) and authorized under 
+FFDCA section 408(f)(1). Data will be required to be submitted no later 
+than 5 years from the date of issuance of these tolerances.
+    2. Dietary exposure from drinking water. Since the most recent 
+drinking water assessment was conducted, new metabolism data (aerobic 
+soil, aerobic aquatic, anaerobic aquatic) and terrestrial field 
+dissipation studies have been received, and refined modeling was 
+conducted. The drinking water model and their descriptions are 
+available at the EPA internet site:  https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/models-pesticide-risk-assessment . 
+The updated estimated drinking water concentrations (EDWCs) used in the 
+dietary risk assessment are 661.7 [micro]g/L for acute risk, and 240.2 
+[micro]g/L for chronic risk, all based on surface water sources of 
+drinking water.
+    3. From non-dietary exposure. Chlormequat chloride is not 
+registered for any specific use patterns that would result in 
+residential exposure.
+    4. Cumulative effects from substances with a common mechanism of 
+toxicity. Section 408(b)(2)(D)(v) of FFDCA requires that when 
+considering whether to establish, modify, leave in effect, or revoke a 
+tolerance, the Agency consider ``available information'' concerning the 
+cumulative effects of a particular pesticide's residues and ``other 
+substances that have a common mechanism of toxicity.''
+    Unlike other pesticides for which EPA has followed a cumulative 
+risk approach based on a common mechanism of toxicity, EPA has not made 
+a common mechanism of toxicity finding as to chlormequat chloride and 
+any other substances, and chlormequat chloride does not appear to 
+produce a toxic metabolite produced by other substances. For the 
+purposes of this tolerance action, therefore, EPA has not assumed that 
+chlormequat chloride has a common mechanism of toxicity with other 
+substances.
+
+E. Safety Factor for Infants and Children
+
+    EPA continues to conclude that there are reliable data to support 
+the reduction of the Food Quality Protection Act safety factor from 10X 
+to 1X. See Unit III.D. of the rulemaking published in the Federal 
+Register of April 25, 2018 (84 FR 17925) (FRL-9974-42), for a 
+discussion of the Agency's rationale for that determination.
+
+F. Aggregate Risks and Determination of Safety
+
+    EPA determines whether acute and chronic dietary pesticide 
+exposures are safe by comparing aggregate exposure estimates to the 
+acute population adjusted dose (aPAD) and chronic population adjusted 
+dose (cPAD). For linear cancer risks, EPA calculates the lifetime 
+probability of acquiring cancer given the estimated aggregate exposure. 
+Short-, intermediate-, and chronic-term risks are evaluated by 
+comparing the estimated aggregate food, water, and residential exposure 
+to the appropriate points of departure (PODs) to ensure that an 
+adequate margin of exposure (MOE) exists.
+    Acute dietary risks are below the Agency's level of concern of 100% 
+of the aPAD; they are 22% of the aPAD for infants ( https://www.epa.gov/laws-regulations/laws-and-executive-orders .
+
+A. Executive Order 12866: Regulatory Planning and Review
+
+    This action is exempt from review under Executive Order 12866 (58 
+FR 51735, October 4, 1993), because it establishes or modifies a 
+pesticide tolerance or a tolerance exemption under FFDCA section 408 in 
+response to a petition submitted to the Agency. The Office of 
+Management and Budget (OMB) has exempted these types of actions from 
+review under Executive Order 12866.
+
+B. Executive Order 14192: Unleashing Prosperity Through Deregulation
+
+    Executive Order 14192 (90 FR 9065, February 6, 2025) does not apply 
+because actions that establish a tolerance under FFDCA section 408 are 
+exempted from review under Executive Order 12866.
+
+C. Paperwork Reduction Act (PRA)
+
+    This action does not impose an information collection burden under 
+the PRA 44 U.S.C. 3501 et seq., because it does not contain any 
+information collection activities.
+
+D. Regulatory Flexibility Act (RFA)
+
+    Since tolerance actions that are established on the basis of a 
+petition under FFDCA section 408(d), such as the tolerance in this 
+final rule, do not require the issuance of a proposed rule, the 
+requirements of the RFA, 5 U.S.C. 601 et seq., do not apply to this 
+action.
+
+E. Unfunded Mandates Reform Act (UMRA)
+
+    This action does not contain an unfunded mandate of $100 million or 
+more (in 1995 dollars and adjusted annually for inflation) as described 
+in UMRA, 2 U.S.C. 1531-1538, and does not significantly or uniquely 
+affect small governments. The action imposes no enforceable duty on any 
+State, local, or
+
+[[Page 39493]]
+
+Tribal governments or on the private sector.
+
+F. Executive Order 13132: Federalism
+
+    This action does not have federalism implications as specified in 
+Executive Order 13132 (64 FR 43255, August 10, 1999), because it will 
+not have substantial direct effects on the States, on the relationship 
+between the National Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+
+G. Executive Order 13175: Consultation and Coordination With Indian 
+Tribal Governments
+
+    This action does not have Tribal implications as specified in 
+Executive Order 13175 (65 FR 67249, November 9, 2000), because it will 
+not have substantial direct effects on Tribal governments, on the 
+relationship between the Federal government and the Indian Tribes, or 
+on the distribution of power and responsibilities between the Federal 
+government and Indian Tribes.
+
+H. Executive Order 13045: Protection of Children From Environmental 
+Health Risks and Safety Risks
+
+    This action is not subject to Executive Order 13045 (62 FR 19885, 
+April 23, 1997) because tolerance actions like this one are exempt from 
+review under Executive Order 12866.
+    However, EPA's 2026 Policy on Children's Health applies to this 
+action. This rule finalizes tolerance actions under the FFDCA, which 
+requires EPA to give special consideration to exposure of infants and 
+children to the pesticide chemical residue in establishing a tolerance 
+and to ``ensure that there is a reasonable certainty that no harm will 
+result to infants and children from aggregate exposure to the pesticide 
+chemical residue . . .'' (FFDCA 408(b)(2)(C)). The Agency's 
+consideration is summarized in Unit III.E.
+
+I. Executive Order 13211: Actions Concerning Regulations That 
+Significantly Affect Energy Supply, Distribution or Use
+
+    This action is not subject to Executive Order 13211 (66 FR 28355) 
+(May 22, 2001) because it is not a significant regulatory action under 
+Executive Order 12866.
+
+J. National Technology Transfer Advancement Act (NTTAA)
+
+    This action does not involve technical standards that would require 
+Agency consideration under NTTAA section 12(d), 15 U.S.C. 272.
+
+K. Congressional Review Act (CRA)
+
+    This action is subject to the CRA, 5 U.S.C. 801 et seq., and EPA 
+will submit a rule report to each House of the Congress and to the 
+Comptroller General of the United States. This action is not a ``major 
+rule'' as defined by 5 U.S.C. 804(2).
+
+List of Subjects in 40 CFR Part 180
+
+    Environmental protection, Administrative practice and procedure, 
+Agricultural commodities, Pesticides and pests, Reporting and record 
+keeping requirements.
+
+    Dated: June 26, 2026.
+Leo Gueriguian,
+Acting Director, Office of Pesticide Programs.
+    For the reasons set forth in the preamble, 40 CFR chapter I is 
+amended as follows:
+---------------------------------------------------------------------------
+
+    \1\ This tolerance expires December 30, 2026.
+---------------------------------------------------------------------------
+
+PART 180--TOLERANCES AND EXEMPTIONS FOR PESTICIDE CHEMICAL RESIDUES 
+IN FOOD
+
+0
+1. The authority citation for part 180 continues to read as follows:
+
+    Authority:  21 U.S.C. 321(q), 346a and 371.
+
+0
+2. In Sec.  180.698, revise the table in paragraph (a) to read as 
+follows:
+
+Sec.  180.698  Chlormequat chloride; tolerances for residues.
+
+    (a) * * *
+
+                        Table 1 to Paragraph (a)
+------------------------------------------------------------------------
+                                                             Parts per
+                        Commodity                             million
+------------------------------------------------------------------------
+Barley, bran............................................              20
+Barley, grain...........................................               8
+Barley, hay.............................................             150
+Barley, straw...........................................              60
+Cattle, meat byproducts.................................               1
+Cattle, meat............................................             0.2
+Egg.....................................................             0.1
+Goat, meat byproducts...................................               1
+Goat, meat..............................................             0.2
+Hog, meat byproducts\1\.................................             0.5
+Hog, meat\1\............................................             0.2
+Horse, meat byproducts..................................               1
+Horse, meat.............................................             0.2
+Milk....................................................             0.5
+Oat, grain..............................................              40
+Oat, forage.............................................              15
+Oat, hay................................................             150
+Oat, straw..............................................              50
+Poultry, meat byproducts................................             0.1
+Poultry, meat...........................................            0.05
+Sheep, meat byproducts..................................               1
+Sheep, meat.............................................             0.2
+Wheat, bran.............................................              15
+Wheat, germ.............................................              20
+Wheat, grain............................................               5
+Wheat, forage...........................................              30
+Wheat, hay..............................................             150
+Wheat, straw............................................              70
+------------------------------------------------------------------------
+
+* * * * *
+[FR Doc. 2026-13185 Filed 6-29-26; 8:45 am]
+BILLING CODE 6560-50-P

@@ -1,0 +1,471 @@
+[Federal Register Volume 91, Number 126 (Thursday, July 2, 2026)]
+[Rules and Regulations]
+[Pages 40363-40366]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13476]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-4667; Project Identifier AD-2026-00584-T; 
+Amendment 39-23392; AD 2026-13-51]
+RIN 2120-AA64
+
+Airworthiness Directives; Gulfstream Aerospace Corporation 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Gulfstream Aerospace Corporation Model GVIII-G700 and GVIII-
+G800 airplanes. This AD was prompted by a report indicating that a 
+hollow pin cap on the right-side engine aft thrust strut mount 
+interface was found broken due to a missing sleeve bushing. This AD 
+requires a visual inspection of the upper surface of the engine mount 
+to the forward and aft thrust strut mount at the hollow pin head 
+interface, of the left and right engines, for evidence of movement or 
+distress; an inspection of the forward and aft thrust strut mount 
+hardware to ensure the sleeve bushing, nut, washers, and cotter pins 
+are properly installed; and applicable
+
+[[Page 40364]]
+
+corrective actions. The FAA previously sent an emergency AD to all 
+known U.S. owners and operators of these airplanes. The FAA is issuing 
+this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective July 17, 2026. Emergency AD 2026-13-51, 
+issued on June 18, 2026, which contains the requirements of this 
+amendment, was effective with actual notice.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of July 17, 
+2026.
+    The FAA must receive comments on this AD by August 17, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+      Federal eRulemaking Portal: Go to  regulations.gov . Follow 
+the instructions for submitting comments.
+      Fax: 202-493-2251.
+      Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+      Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at  regulations.gov  under 
+Docket No. FAA-2026-4667; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+      For Gulfstream Aerospace Corporation material identified 
+in this AD, contact Gulfstream Aerospace Corporation, Technical 
+Publications Dept., P.O. Box 2206, Savannah, GA 31402-2206; telephone 
+800-810-4853; email   [email&#160;protected]  ; website  gulfstream.com/en/customer-support .
+      You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at  regulations.gov  under 
+Docket No. FAA-2026-4667.
+
+FOR FURTHER INFORMATION CONTACT: Jeff Johnson, Senior Aviation Safety 
+Engineer, FAA, 1701 Columbia Avenue, College Park, GA 30337; phone: 
+404-474-5554; email:   [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this AD. Send your comments using a method listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2026-4667; Project 
+Identifier AD-2026-00584-T'' at the beginning of your comments. The 
+most helpful comments reference a specific portion of the final rule, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+ regulations.gov , including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to Jeff 
+Johnson, Senior Aviation Safety Engineer, FAA, 1701 Columbia Avenue, 
+College Park, GA 30337; phone: 404-474-5554; email:   [email&#160;protected]  . 
+Any commentary that the FAA receives that is not specifically 
+designated as CBI will be placed in the public docket for this 
+rulemaking.
+
+Background
+
+    The FAA issued Emergency AD 2026-13-51, dated June 18, 2026 (the 
+emergency AD), to address an unsafe condition on certain Gulfstream 
+Aerospace Corporation Model GVIII-G700 and GVIII-G800 airplanes. The 
+FAA sent the emergency AD to all known U.S. owners and operators of 
+these airplanes. The emergency AD requires a visual inspection of the 
+upper surface of the engine mount to the forward and aft thrust strut 
+mount at the hollow pin head interface, of the left and right engines, 
+for evidence of movement or distress; an inspection of the forward and 
+aft thrust strut mount hardware to ensure the sleeve bushing, nut, 
+washers, and cotter pins are properly installed; and applicable 
+corrective actions.
+    The emergency AD was prompted by a report indicating that a hollow 
+pin cap on the right-side engine aft thrust strut mount interface was 
+found broken due to a missing sleeve bushing. Further investigation 
+found the sleeve bushing was loose (displaced) within the engine pylon. 
+The airplane had accumulated 1,056 total flight hours and 324 total 
+flight cycles. During a subsequent audit, an additional airplane failed 
+a gap check at the right-side engine forward thrust strut mount 
+interface. The additional airplane had accumulated 551 total flight 
+hours and 182 total flight cycles. The engine thrust struts on both 
+airplanes were previously disconnected to perform production retrofit 
+activities prior to entry into service. An improperly installed engine 
+thrust strut could compromise the structural integrity of the engine 
+mount system and lead to failure of the engine mount system. This 
+condition, if not addressed, could result in an in-flight separation of 
+the engine from the airplane, leading to loss of control of the 
+airplane.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Gulfstream GVIII-G700 Alert Customer Bulletin No. 
+001, dated June 16, 2026; and Gulfstream GVIII-G800 Alert Customer 
+Bulletin No. 001, dated June 16, 2026. This material specifies 
+procedures for visually inspecting the upper surface of the engine 
+mount to the forward and aft thrust strut mount at the hollow pin head 
+interface, of the left and right engines, for evidence of movement or 
+distress (i.e., paint abrasion or witness marks, gouging or surface 
+damage, a broken or compromised hollow pin); inspecting the forward and 
+aft thrust strut mount hardware to ensure the sleeve bushing, nut, 
+washers, and cotter pins are properly installed; and depending on 
+findings, submitting certain information to the manufacturer for 
+further evaluation and engineering disposition (i.e., corrective 
+action).
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+[[Page 40365]]
+
+FAA's Determination
+
+    The FAA is issuing this AD because the agency has determined the 
+unsafe condition described previously is likely to exist or develop in 
+other products of the same type design.
+
+AD Requirements
+
+    This AD requires accomplishing the actions specified in the 
+material already described, except for any differences identified as 
+exceptions in the regulatory text of this AD.
+
+Interim Action
+
+    The FAA considers this AD to be an interim action. If a final 
+action is later identified, the FAA might consider further rulemaking 
+then.
+
+FAA's Justification and Determination of the Effective Date
+
+    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
+551 et seq.) authorizes agencies to dispense with notice and comment 
+procedures for rules when the agency, for ``good cause,'' finds that 
+those procedures are ``impracticable, unnecessary, or contrary to the 
+public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    An unsafe condition exists that required the immediate adoption of 
+Emergency AD 2026-13-51 issued on June 18, 2026, to all known U.S. 
+owners and operators of these airplanes. The FAA found that the risk to 
+the flying public justified forgoing notice and comment prior to 
+adoption of this rule because the urgency of the unsafe condition 
+necessitates prohibiting further flight until the airplane is inspected 
+and the applicable corrective actions are performed. These conditions 
+still exist, and the AD is hereby published in the Federal Register as 
+an amendment to 14 CFR 39.13 to make it effective to all persons. Given 
+the significance of the risk presented by this unsafe condition, it 
+must be immediately addressed. Accordingly, notice and opportunity for 
+prior public comment are impracticable and contrary to the public 
+interest pursuant to 5 U.S.C. 553(b).
+    In addition, the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days, 
+for the same reasons the FAA found good cause to forgo notice and 
+comment.
+
+Regulatory Flexibility Act (RFA)
+
+    The requirements of the RFA do not apply when an agency finds good 
+cause pursuant to 5 U.S.C. 553 to adopt a rule without prior notice and 
+comment. Because the FAA has determined that it has good cause to adopt 
+this rule without notice and comment, RFA analysis is not required.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 37 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+               Action                         Labor cost            Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspections........................  20 work-hours x $85 per                  $0          $1,700         $62,900
+                                      hour = $1,700.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition actions specified in this AD.
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this AD may be covered under warranty, thereby reducing the cost impact 
+on affected operators.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for the collection of information required by this AD is 
+2120-0056. The paperwork cost associated with this AD has been detailed 
+in the Costs of Compliance section of this document and includes time 
+for reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to: 
+Information Collection Clearance Officer, Federal Aviation 
+Administration, 10101 Hillwood Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+[[Page 40366]]
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2026-13-51 Gulfstream Aerospace Corporation: Amendment 39-23392; 
+Docket No. FAA-2026-4667; Project Identifier AD-2026-00584-T.
+
+(a) Effective Date
+
+    The FAA issued Emergency Airworthiness Directive (AD) 2026-13-51 
+on June 18, 2026 (also referred to as the emergency AD), directly to 
+affected owners and operators. As a result of such actual notice, 
+the emergency AD was effective for those owners and operators on the 
+date it was received. This AD contains the same requirements as the 
+emergency AD and, for those who did not receive actual notice, is 
+effective on July 17, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Gulfstream Aerospace Corporation airplanes, 
+certificated in any category, identified in paragraphs (c)(1) and 
+(2) of this AD.
+    (1) Model GVIII-G700 airplanes, serial numbers (S/Ns) 87002 
+through 87049 inclusive, 87053, and 87076.
+    (2) Model GVIII-G800 airplanes, S/Ns 88002 through 88014 
+inclusive.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 71, Power Plant.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report indicating that a hollow pin 
+cap on the right engine aft thrust strut was found broken due to a 
+missing sleeve bushing. The FAA is issuing this AD to address an 
+improperly installed engine thrust strut that could compromise the 
+structural integrity of the engine mount system and lead to failure 
+of the engine mount system. The unsafe condition, if not addressed, 
+could result in an in-flight separation of the engine from the 
+airplane, leading to loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Before further flight: Except as specified by paragraph (h) of 
+this AD, do all applicable actions identified as ``RC'' (required 
+for compliance) in, and in accordance with, the Accomplishment 
+Instructions of Gulfstream GVIII-G700 Alert Customer Bulletin No. 
+001, dated June 16, 2026; or Gulfstream GVIII-G800 Alert Customer 
+Bulletin No. 001, dated June 16, 2026; as applicable.
+
+(h) Exceptions to Service Information Specifications
+
+    Where GVIII-G700 Alert Customer Bulletin No. 001, dated June 16, 
+2026; and Gulfstream GVIII-G800 Alert Customer Bulletin No. 001, 
+dated June 16, 2026; specify to submit certain information to 
+Gulfstream for further evaluation and engineering disposition (i.e., 
+corrective action) before aircraft can return to service: This AD 
+requires doing the corrective action before further flight using a 
+method approved in accordance with the procedures specified in 
+paragraph (k) of this AD.
+
+(i) Credit for Previous Actions
+
+    This paragraph provides credit for the corresponding inspections 
+specified in paragraph (g) of this AD, if those actions were 
+performed before the effective date of this AD, using Gulfstream 
+Technical Evaluation Discrepancy Sheet/Workorder, Control No. TE-26-
+06-01, issued June 15, 2026.
+
+(j) Special Flight Permit
+
+    Special flight permits, as described in 14 CFR 21.197 and 
+21.199, are not allowed.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, East Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the manager of the certification office, send it to the attention of 
+the person identified in paragraph (l)(1) of this AD. Information 
+may be emailed to:   [email&#160;protected]  . Before using any approved AMOC, 
+notify your appropriate principal inspector, or lacking a principal 
+inspector, the manager of the local flight standards district 
+office/certificate holding district office.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by Gulfstream Engineering Authorized 
+Representative (EAR) of the Gulfstream Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, East 
+Certification Branch, FAA, to make those findings. To be approved, 
+the repair method, modification deviation, or alteration deviation 
+must meet the certification basis of the airplane, and the approval 
+must specifically refer to this AD.
+    (3) Except as specified by paragraph (h) of this AD: For 
+material that contains steps that are labeled as RC, the provisions 
+of paragraphs (k)(3)(i) and (ii) of this AD apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. An AMOC is required for any deviations to RC steps, 
+including substeps and identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(l) Additional Information
+
+    (1) For more information about this AD, contact Jeff Johnson, 
+Senior Aviation Safety Engineer, FAA, 1701 Columbia Avenue, College 
+Park, GA 30337; phone: 404-474-5554; email:   [email&#160;protected]  .
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (m)(3) 
+of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Gulfstream GVIII-G700 Alert Customer Bulletin No. 001, dated 
+June 16, 2026.
+    (ii) Gulfstream GVIII-G800 Alert Customer Bulletin No. 001, 
+dated June 16, 2026.
+    (3) For Gulfstream Aerospace Corporation material identified in 
+this AD, contact Gulfstream Aerospace Corporation, Technical 
+Publications Dept., P.O. Box 2206, Savannah, GA 31402-2206; 
+telephone 800-810-4853; email   [email&#160;protected]  ; website 
+ gulfstream.com/en/customer-support .
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit  www.archives.gov/federal-register/cfr/ibr-locations  or email   [email&#160;protected]  .
+
+    Issued on June 25, 2026.
+Christopher R. Parker,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-13476 Filed 7-1-26; 8:45 am]
+BILLING CODE 4910-13-P

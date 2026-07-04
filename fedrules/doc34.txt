@@ -1,0 +1,405 @@
+[Federal Register Volume 91, Number 126 (Thursday, July 2, 2026)]
+[Rules and Regulations]
+[Pages 40406-40409]
+From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ]
+[FR Doc No: 2026-13396]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Part 52
+
+[EPA-R03-OAR-2025-0205; FRL-11969-02-R3]
+
+Air Plan Approval; Delaware; 2006 24-Hour Fine Particulate Matter 
+Limited Maintenance Plan for the Philadelphia Nonattainment Area
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Environmental Protection Agency (EPA) is approving a state 
+implementation plan (SIP) revision submitted by the State of Delaware 
+through the Delaware Department of Natural Resources and Environmental 
+Control (DNREC). The revision pertains to the second 10-year limited 
+maintenance plan (LMP) for the 2006 24-hour fine particulate matter 
+(PM2.5) national ambient air quality standard (NAAQS). The LMP 
+addresses the New Castle County portion of the Philadelphia-Wilmington, 
+PA-NJ-DE Area. The EPA is approving the LMP because it provides for the 
+maintenance of the 2006 24-hour PM2.5 NAAQS through the end of the 
+second 10-year maintenance period. In addition, the EPA is finalizing 
+the process to find the LMP adequate for transportation conformity 
+purposes. The EPA is approving this revision to the Delaware SIP in 
+accordance with the requirements of the Clean Air Act (CAA).
+
+DATES: This final rule is effective on August 3, 2026.
+
+ADDRESSES: The EPA has established a docket for this action under 
+Docket ID Number EPA-R03-OAR-2025-0205. All documents in the docket are 
+listed on the  www.regulations.gov  website. Although listed in the 
+index, some information is not publicly available, e.g., confidential 
+business information (CBI) or other information whose disclosure is 
+restricted by statute. Certain other material, such as copyrighted 
+material, is not placed on the internet and will be publicly available 
+only in hard copy form. Publicly available docket materials are 
+available through  www.regulations.gov , or please contact the person 
+identified in the FOR FURTHER INFORMATION CONTACT section for 
+additional availability information.
+
+FOR FURTHER INFORMATION CONTACT: Sarah McCabe, Planning & 
+Implementation Branch (3AD30), Air & Radiation Division, U.S. 
+Environmental Protection Agency, Region III, 1600 John F Kennedy 
+Boulevard, Philadelphia, Pennsylvania 19103. The telephone number is 
+(215) 814-5786. Ms. McCabe can also be reached via electronic mail at 
+  [email&#160;protected]  .
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background
+
+    On November 13, 2009 (74 FR 58688), the EPA designated the 
+Philadelphia area as nonattainment for the 2006 24-hour PM2.5 NAAQS.\1\ 
+See 74 FR 58775 (November 13, 2009) and 40 Code of Federal Regulations 
+(CFR) 81.308. New Castle County, Delaware was included in the 
+Philadelphia nonattainment area.
+---------------------------------------------------------------------------
+
+    \1\ On October 17, 2006 (71 FR 61144), the EPA lowered the level 
+of the 24-hour PM2.5 NAAQS to 35 [micro]g/m\3\ based on a 3-year 
+average of the annual 98th percentile values of 24-hour 
+concentrations.
+---------------------------------------------------------------------------
+
+    On December 12, 2012, the State of Delaware submitted to the EPA a 
+redesignation request and maintenance plan for the New Castle County 
+portion of the Philadelphia Area. The EPA redesignated the New Castle 
+County portion of the Philadelphia Area from nonattainment to 
+attainment for the 2006 24-hour PM2.5 NAAQS and approved the 
+maintenance plan for the first 10-year maintenance period into the 
+Delaware SIP.\2\
+---------------------------------------------------------------------------
+
+    \2\ See 79 FR 45350 (August 5, 2014).
+---------------------------------------------------------------------------
+
+    On April 15, 2024, DNREC, on behalf of the State of Delaware, 
+submitted an LMP to fulfill the second 10-year planning requirement of 
+CAA section 175A(b) to ensure 2006 24-hour PM2.5 NAAQS compliance for 
+the New Castle County portion of the Philadelphia Area through 2034. On 
+November 20, 2025 (90 FR 52290), the EPA published a notice of proposed 
+rulemaking (NPRM) for the State of Delaware, proposing approval of the 
+LMP because the State made a showing, consistent with the EPA's 
+Guidance on the Limited Maintenance Plan Option for Moderate PM2.5 
+Nonattainment Areas and PM2.5 Maintenance Areas (PM2.5 LMP Guidance), 
+that the area's PM2.5 concentrations are well below the 2006 24-hour 
+PM2.5 NAAQS, have been historically stable, and that it has met all 
+other maintenance plan requirements.\3\
+---------------------------------------------------------------------------
+
+    \3\ The guidance document titled ``Guidance on the Limited 
+Maintenance Plan Option for Moderate PM2.5 Nonattainment Areas and 
+PM2.5 Maintenance Areas'' can be found at  nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P1015UL4.pdf . A copy of the guidance is in the 
+docket for the rulemaking.
+---------------------------------------------------------------------------
+
+    Additionally, in the November 20, 2025 action, the EPA initiated 
+the adequacy process and proposed that the LMP demonstrated that it is 
+unreasonable to expect that this area would experience enough motor 
+vehicle emissions growth for a violation of the NAAQS to occur, per the 
+EPA's transportation conformity regulations.\4\ The adequacy process is 
+set forth in the transportation conformity regulation at 40 CFR 
+93.118(f).
+---------------------------------------------------------------------------
+
+    \4\ See 40 CFR 93.109(e).
+---------------------------------------------------------------------------
+
+    The EPA is approving the plan because it meets all applicable 
+requirements under CAA sections 110 and 175A. As a general matter, the 
+LMP relies on the same control measures and contingency provisions to 
+maintain the 2006 24-hour PM2.5 NAAQS during the second 10-year portion 
+of the maintenance period as the maintenance
+
+[[Page 40407]]
+
+plan submitted by DNREC for the first 10-year period.
+    Further explanation of the CAA requirements, a detailed analysis of 
+the revision, and the EPA's reasons for proposing approval were 
+provided in the NPRM (90 FR 52290). The November 20, 2025 NPRM also 
+includes additional detail about the adequacy process and the EPA's 
+assessment of the adequacy of Delaware's submission. A summary of the 
+comments received, as well as the EPA's responses, are in section II of 
+this preamble.
+
+II. The EPA's Response to Comments Received
+
+    The EPA's November 20, 2025 NPRM (90 FR 52290) opened a public 
+comment period, which closed on December 22, 2025. The EPA received 
+comments from one commenter. All comments received have been placed in 
+the docket for this action.
+    A summary of the relevant comments and the EPA's response thereto 
+are listed below.
+    Comment 1: The commenter asks the EPA to include the PM2.5 LMP 
+Guidance in the docket and explain how CAA section 175A is satisfied 
+under the guidance. Additionally, the commenter requests that if the 
+guidance is being used as a binding norm, the EPA should consider a 
+notice-and-comment rulemaking as treating guidance as binding could 
+bypass the Administrative Procedure Act (APA) requirements.
+    Response 1: The EPA disagrees with this comment. The PM2.5 LMP 
+Guidance was included in the docket at the time of NPRM publication. 
+Additionally, section 175A of the CAA defines the general framework of 
+a maintenance plan. The LMP is a tool that allows certain nonattainment 
+and maintenance areas to provide for maintenance under CAA section 175A 
+based on an analysis of current and historical air quality data, rather 
+than modeling or emissions projections. Moderate PM2.5 nonattainment 
+areas or existing PM2.5 maintenance areas meeting the criteria in the 
+PM2.5 LMP Guidance may demonstrate maintenance for purposes of CAA 
+section 175A using the method described in the PM2.5 LMP Guidance and 
+the NPRM for this rule.
+    Importantly, the PM2.5 LMP Guidance as binding nor bypassing APA 
+requirements. To the extent that it builds upon previous EPA guidance, 
+such guidance does not impose legally binding requirements either.
+    Comment 2: The commenter urges the EPA to ensure transparency and 
+public accessibility when incorporating by reference. They stress 
+compliance with 1 CFR part 51 by identifying the LMP documents by 
+title, date, and version, and making them freely available to the 
+public.
+    Response 2: The EPA disagrees with the commenter's assertion that 
+it did not comply with 1 CFR part 51. In accordance with the 
+requirements of 1 CFR 51.5, all the requested documentation was 
+provided at the time of proposal. See docket ID EPA-R03-OAR-2025-0205. 
+Through this rule, the EPA is amending 40 CFR 52.420(e) by adding the 
+entry ``2006 24-hour PM2.5 Standard Second Maintenance Plan for the 
+Delaware Portion of the Philadelphia-Wilmington, PA-NJ-DE Area'' to the 
+table. It simply adds the LMP to 40 CFR 52.420(e), EPA-approved non-
+regulatory and quasi-regulatory material. The EPA has made, and will 
+continue to make, these materials generally available through 
+ www.regulations.gov  and at the EPA Region III Office (please contact 
+the person identified in the FOR FURTHER INFORMATION CONTACT section of 
+the preamble for more information).
+    Comment 3: The commenter claimed that the EPA did not comply with 
+multiple statutory requirements and Executive Order 12866. First, the 
+commenter claims that the EPA did not comply with the Paperwork 
+Reduction Act (PRA) as the Limited Maintenance Plan commits the State 
+to requirements for periodic verification of continued attainment, 
+reporting of ambient monitoring data, and the submission of emissions 
+inventories. The commenter states that once approved into the SIP, 
+these are federally enforceable duties to submit information to a 
+Federal agency. The commenter argues that as a result, the EPA must 
+explain why this action is exempt from the PRA or identify an approved 
+Information Collection Request or take steps to obtain one. Second, the 
+commenter claims that the EPA did not comply with the Unfunded Mandates 
+Reform Act (UMRA), as the EPA's conclusory statement that the action 
+does not impose Federal mandates is inadequate. The commenter indicates 
+that the LMP and its contingency measures can impose federally mandated 
+duties on the state, which by extension may lead to impacts on local 
+jurisdictions. The commenter references potential costs associated with 
+implementing contingency measures. Third, the commenter claims that the 
+EPA did not comply with the Regulatory Flexibility Act/Small Business 
+Regulatory Enforcement Fairness Act (RFA/SBREFA), as it does not 
+explain why the LMP does not have a significant impact on a substantial 
+number of small entities. Specifically, the commenter indicates that 
+the LMP's contingency measures, once federally approved, may trigger 
+the adoption and implementation of measures by small governmental 
+jurisdictions. It states that the EPA should either provide an Initial 
+Regulatory Flexibility Analysis or provide a reasoned, evidence-based 
+certification. Lastly, the commenter claims that the EPA did not comply 
+with Executive Order (E.O.) 12866 as it appears to treat the action as 
+not significant, and thus not subject to OMB review, but due to the 
+multi-state metropolitan area covered by the LMP, OMB review would aid 
+interagency coordination and transparency.
+    Response 3: The EPA disagrees with the commenter with respect to 
+its compliance with each statute and E.O. 12866. Regarding the PRA, it 
+does not apply to this action. The PRA generally provides that every 
+Federal agency must obtain OMB approval before using identical 
+questions to collect information from 10 or more persons. See 44 United 
+States Code (U.S.C.) 3502(3); 3507. The EPA is not conducting nor 
+sponsoring the collection of information from 10 or more persons. The 
+EPA is merely approving Delaware's Limited Maintenance Plan to ensure 
+continued compliance with the 2006 24-hour PM2.5 NAAQS. It is approving 
+State choices as meeting the Clean Air Act. The approval of the LMP 
+does not impose any additional regulatory requirements, beyond those 
+required by State law. The EPA has complied with the PRA by certifying 
+in the rule that the PRA does not apply because this action does not 
+involve an information collection burden as defined by the Act.\5\
+---------------------------------------------------------------------------
+
+    \5\ See 44 U.S.C. 3502(2).
+---------------------------------------------------------------------------
+
+    With regard to the UMRA, the EPA disagrees with the commenter. As 
+stated above, it merely approves Delaware's LMP and thus Delaware's 
+choices as meeting Clean Air Act requirements. This action does not 
+impose any additional regulatory requirements on sources beyond those 
+required by State law. In the context of the UMRA, it therefore does 
+not impose any Federal mandate on Delaware as that term is defined in 
+the Act. 2 U.S.C. 1555 (``Notwithstanding section 1502 of this title, 
+for purposes of this subchapter [2 U.S.C. 1551 et seq.] the term 
+``Federal mandate'' means any provision in statute or regulation or any 
+Federal court ruling that imposes an enforceable duty upon State, 
+local, or Tribal governments including a condition of Federal 
+assistance or a duty arising from participation in a voluntary Federal
+
+[[Page 40408]]
+
+program.''). Accordingly, the EPA has complied with the UMRA by making 
+its own determination that this rule will not result in expenditures of 
+$100M or more in any one year by State, local, and Tribal governments, 
+in the aggregate, or by the private sector, and therefore the Agency 
+does not need to complete a statement under 2 U.S.C. 1532.
+    Specific to the RFA and SBREFA, the EPA disagrees with the 
+commenter. These statutes are inapplicable to this rule because the EPA 
+has certified that this rule will not have a significant economic 
+impact on a substantial number of small entities. The regulatory 
+analysis provisions of the RFA are only triggered by a threshold 
+determination by the Agency that this rule will have a significant 
+economic impact on a substantial number of small entities. The EPA has 
+considered the approval of the LMP in the context of the RFA and 
+SBREFA. As previously noted, this action merely approves Delaware's LMP 
+and thus Delaware's choices as meeting Clean Air Act requirements. This 
+action does not impose any additional regulatory requirements on 
+sources beyond those required by State law. The EPA's approval of the 
+LMP does not establish any new regulatory requirement for any entity. 
+Accordingly, as the EPA has certified that this rule will not have a 
+significant economic impact on a substantial number of small entities, 
+sections 603 and 604 of the RFA do not apply to this rule. 5 U.S.C. 
+605(b).
+    Lastly, the EPA disagrees with the commenter's assertions regarding 
+Executive Order 12866. The EPA has complied with Executive Order 12866 
+by determining that this rule is not a significant regulatory action. 
+Again, the EPA is approving Delaware's LMP and as a result Delaware's 
+choices as meeting Clean Air Act requirements. This action does not 
+impose any additional regulatory requirements on sources beyond those 
+required by State law. Accordingly, the EPA has determined that this 
+rule is not a significant regulatory action as defined in E.O. 12866. 
+The EPA did not consult with the Office of Information and Regulatory 
+Affairs (OIRA) as it is not required for this action.
+
+III. Final Action
+
+    In accordance with the CAA and for the reasons set forth in the 
+NPRM, the EPA is finalizing approval of Delaware's second 10-year LMP 
+for the New Castle County portion of the Philadelphia area for the 2006 
+24-hour PM2.5 NAAQS. The EPA's review of the air quality data for the 
+area indicates that it continues to show attainment well below the 
+level of the 2006 PM2.5 NAAQS and meet all the LMP qualifying criteria 
+set forth in the PM2.5 LMP Guidance, consistent with CAA section 175A. 
+The EPA finds the 2006 24-hour PM2.5 LMP for the New Castle County 
+portion of the Philadelphia area to be sufficient to provide for 
+maintenance of the 2006 24-hour PM2.5 NAAQS in its respective area over 
+the second 10-year maintenance period, through 2034, and thereby 
+satisfy the requirements for such a plan under CAA section 175A(b). The 
+EPA finds the LMP adequate for transportation conformity purposes 
+because it demonstrates that it would be unreasonable to expect that 
+the area would experience enough motor vehicle emissions growth for a 
+PM2.5 NAAQS violation to occur, as required by 40 CFR 93.109(e). The 
+EPA is approving this second maintenance plan as a revision to the 
+Delaware SIP.
+
+IV. Statutory and Executive Order Reviews
+
+    Under the Clean Air Act, the Administrator is required to approve a 
+SIP submission that complies with the provisions of the Clean Air Act 
+and applicable Federal regulations. 42 U.S.C. 7410(k); 40 CFR 52.02(a). 
+Thus, in reviewing SIP submissions, the EPA's role is to approve State 
+choices, provided that they meet the criteria of the Clean Air Act. 
+Accordingly, this action merely approves State law as meeting Federal 
+requirements and does not impose additional requirements beyond those 
+imposed by State law. For that reason, this action:
+      Is not a significant regulatory action subject to review 
+by the Office of Management and Budget under Executive Order 12866 (58 
+FR 51735, October 4, 1993);
+      Is not an Executive Order 14192 (90 FR 9065, February 6, 
+2025) regulatory action because this action is not significant under 
+Executive Order 12866;
+      Does not impose an information collection burden under the 
+provisions of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.);
+      Is certified as not having a significant economic impact 
+on a substantial number of small entities under the Regulatory 
+Flexibility Act (5 U.S.C. 601 et seq.);
+      Does not contain any unfunded mandate or significantly or 
+uniquely affect small governments, as described in the Unfunded 
+Mandates Reform Act of 1995 (Pub. L. 104-4);
+      Does not have federalism implications as specified in 
+Executive Order 13132 (64 FR 43255, August 10, 1999);
+      Is not subject to Executive Order 13045 (62 FR 19885, 
+April 23, 1997) because it approves a State program;
+      Is not a significant regulatory action subject to 
+Executive Order 13211 (66 FR 28355, May 22, 2001); and
+      Is not subject to requirements of section 12(d) of the 
+National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 
+note) because application of those requirements would be inconsistent 
+with the Clean Air Act.
+    In addition, the SIP is not approved to apply on any Indian 
+reservation land or in any other area where the EPA or an Indian Tribe 
+has demonstrated that a Tribe has jurisdiction. In those areas of 
+Indian country, the rule does not have Tribal implications and will not 
+impose substantial direct costs on Tribal governments or preempt Tribal 
+law as specified by Executive Order 13175 (65 FR 67249, November 9, 
+2000).
+    This action is subject to the Congressional Review Act, and the EPA 
+will submit a rule report to each House of the Congress and to the 
+Comptroller General of the United States. This action is not a ``major 
+rule'' as defined by 5 U.S.C. 804(2).
+    Under section 307(b)(1) of the Clean Air Act, petitions for 
+judicial review of this action must be filed in the United States Court 
+of Appeals for the appropriate circuit by August 31, 2026. Filing a 
+petition for reconsideration by the Administrator of this final rule 
+does not affect the finality of this action for the purposes of 
+judicial review nor does it extend the time within which a petition for 
+judicial review may be filed, and shall not postpone the effectiveness 
+of such rule or action. This action may not be challenged later in 
+proceedings to enforce its requirements. (See section 307(b)(2).)
+
+List of Subjects in 40 CFR Part 52
+
+    Environmental protection, Air pollution control, Incorporation by 
+reference, Intergovernmental relations, Particulate matter, Reporting 
+and recordkeeping requirements.
+
+Amy Van Blarcom-Lackey,
+Regional Administrator, Region III.
+    For the reasons stated in the preamble, the EPA amends 40 CFR part 
+52 as follows:
+
+PART 52--APPROVAL AND PROMULGATION OF IMPLEMENTATION PLANS
+
+0
+1. The authority citation for part 52 continues to read as follows:
+
+    Authority:  42 U.S.C. 7401 et seq.
+
+[[Page 40409]]
+
+Subpart I--Delaware
+
+0
+2. In Sec.  52.420, the table in paragraph (e) is amended by adding an 
+entry ``2006 24-hour PM 2.5  Standard Second Maintenance Plan 
+for the Delaware Portion of the Philadelphia-Wilmington, PA-NJ-DE 
+Area'' at the end of the table to read as follows:
+
+Sec.  52.420  Identification of plan.
+
+* * * * *
+    (e) * * *
+
+----------------------------------------------------------------------------------------------------------------
+    Name of non-regulatory SIP          Applicable           State                                Additional
+             revision                geographic area    submittal date   EPA approval date       explanation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+2006 24-hour PM2.5 Standard        New Castle County..        04/15/24  07/02/26, 91 FR      2nd maintenance
+ Second Maintenance Plan for the                                         [INSERT Federal      plan (limited
+ Delaware Portion of the                                                 Register PAGE        maintenance plan).
+ Philadelphia-Wilmington, PA-NJ-                                         WHERE THE DOCUMENT
+ DE Area.                                                                BEGINS].
+----------------------------------------------------------------------------------------------------------------
+
+[FR Doc. 2026-13396 Filed 7-1-26; 8:45 am]
+BILLING CODE 6560-50-P
