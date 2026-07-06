@@ -1,0 +1,82 @@
+FRUS 1964-1968, Volume VIII, International Monetary and Trade Policy
+Document 295
+295. Memorandum From the Acting Special Representative for Trade Negotiations (Roth) to President Johnson
+Date: 1965-10-05
+SUBJECT: Tariff Commission Study of American Selling Price System of Customs Valuation
+Source: Johnson Library, Bator Papers, Trade, Box 13.
+
+Recommendation
+
+For the reasons given below, I recommend that you sign the letter attached at Tab A requesting the Tariff Commission to make a special study of the system of customs valuation known as American selling price (ASP).
+
+Discussion
+
+ASP System
+
+Since the enactment of the Customs Simplification Act of 1956, section 402 of the Tariff Act of 1930 has provided three alternative methods of customs valuation for purposes of computing ad valorem rates of duty on most imported products. The first and internationally-preferred method of valuation is known as "export value", or the wholesale price of the imported product offered in arm's-length transactions in the country of origin. If "export value" cannot be determined, the next method of valuation is "U.S. value", or the wholesale price of the imported product in the United States, less such elements as profit, duty, and transportation costs, in order to approximate "export value". If "U.S. value" cannot be determined, the final method of valuation is "constructed value", or an estimate of what "export value" would be based upon the costs of production in the country of origin.
+
+The three normal methods of valuation under section 402 of the Tariff Act of 1930 do not apply as a matter of law to four groups of imported products: benzenoid chemicals, rubber-soled footwear (such as sneakers), canned clams, and woolen knit gloves.
+
+With respect to benzenoid chemicals, the law provides that any imported benzenoid chemical which is competitive with a similar domestic product shall be valued on the basis of the ASP, or wholesale price, of the domestic product. If the imported benzenoid chemical is not competitive, it is to be valued, first, on the basis of U.S. value and, if this cannot be determined, then export value or constructed value.
+
+With respect to rubber-soled footwear, canned clams, and woolen knit gloves, the law provides that any such imported product which is similar to a domestic product shall be valued on the basis of the ASP of the domestic product. If the imported product is not similar to any domestic product, it is to be valued on the basis of the normal methods of valuation.
+
+In accordance with the Customs Simplification Act of 1956, section 402 of the Tariff Act of 1930 largely superseded earlier valuation provisions and contains the current definitions not only of the three normal methods of valuation but also of ASP as it applies to most of the products falling into the four groups noted above. Certain of these, however, are included in the so-called "final list" of imported products established pursuant to the Customs Simplification Act of 1956. With respect to these products subject to the ASP system, section 402a of the Tariff Act of 1930 provides for the continued application of the old definitions of valuation, including ASP and U.S. value. Thus, depending upon the product, either the current or old definitions of ASP or U.S. value may apply.
+
+It is to be noted that the application of ASP to imports of protective rubber footwear (such as rubbers and galoshes) will be abolished upon your approval of the Tariff Schedules Technical Amendments Act of 1965 (H.R. 7969), which now awaits your signature.
+
+Undesirability of ASP System
+
+It is generally recognized in the U.S. Government that ASP is not a proper system of customs valuation for the following reasons.
+
+First, the duty on an import subject to ASP is determined not by the value of that import but by the value of the competitive domestic product. As a result, the domestic manufacturer can adjust the protection afforded by the rate of duty by adjusting the price of his product.
+
+Second, an exporter of an imported product potentially subject to ASP cannot know whether that product will be subject to ASP nor what the ASP will be until it has passed through customs. The resultant uncertainty concerning the basis of valuation which will be used to compute the final duty is one of the most undesirable aspects of the ASP system from the standpoint of foreign traders.
+
+Third, the use of ASP is inconsistent with the customs practice of all of our trading partners in the non-agricultural sector, and is inconsistent with Article VI of the General Agreement on Tariffs and Trade, which establishes internationally-accepted standards of customs valuation.
+
+Fourth, the administration of the ASP system has proven to be very difficult and expensive, giving rise not only to serious legal problems but also to dissatisfaction on the part of importers, exporters, and domestic producers alike.
+
+Fifth, it has long been subject to severe criticism by our trading partners and has made more difficult our commercial relations with such important countries as the U.K., the EEC countries, and Japan.
+
+ASP System and Kennedy Round
+
+The Kennedy Round has established as one of its major goals the liberalization or elimination of non-tariff barriers to trade. The other participants regard ASP as the most serious of U.S. non-tariff barriers and they are insistent that we take steps to change it. Indeed, the EEC has gone so far as to refuse to negotiate with respect to either tariff or non-tariff barriers in the entire chemical sector until we are willing to negotiate the modification or elimination of the ASP system. In addition, the U.K. has made maintenance of its present offers of tariff concessions with respect to chemical products conditional upon the modification of ASP.
+
+Since ASP has become such a major issue in the Kennedy Round, it is our judgment that we must establish a basis for proposing a modification in the system itself. Our failure to do so would necessarily have a detrimental effect upon our negotiating posture and upon the whole Kennedy Round as well.
+
+Elimination of ASP System
+
+There are basically two ways to eliminate the ASP system. The first would be to abolish the use of ASP as a method of customs valuation and to leave the present ad valorem rates of duty where they are. We do not believe, however, that we can or should propose such an immediate and total elimination of the ASP system, primarily because it would constitute too abrupt a deprivation of protection long afforded certain segments of domestic industry.
+
+The second way would be to abolish the ASP system but to maintain an approximately equivalent degree of protection. This would be done by taking all entries of imported products subject to ASP in a given year, such as 1964, and converting the ad valorem rates based upon ASP (or in the case of non-competitive benzenoid chemicals, U.S. value) to new ad valorem rates based upon the usual methods of customs valuation which will yield an approximately equivalent rate of duty, and hence about the same amount of protection. We consider this approach to the problem to be both sound and reasonable.
+
+We are presently uncertain as to how the new ad valorem rates should be put into effect, that is, whether by legislation or by Presidential proclamation. While we are still studying this question, which is in part a legal one, we are inclined to favor the legislative approach. In either case, we would propose to continue to consult closely with key members of the Congress on this matter.
+
+Tariff Commission Study
+
+In order to formulate the conversion of rates, we believe that it would be appropriate as a first step to have an investigation carried out by the Tariff Commission, pursuant to a Presidential request. The Tariff Commission has indicated its willingness to undertake this task and to complete it by May 1, 1966, as indicated in the attached letter. Moreover, arrangements have already been made with the Bureau of Customs to develop the basic data upon which the Tariff Commission will formulate the conversion. It is our present view that the study, when finally submitted to you, should remain confidential and not be made public.
+
+It should be emphasized that the Tariff Commission's study is a critical but only first step towards our ultimate goal of putting into effect a new set of rates for the products in question. After the results of the study are known and analyzed, we will propose a further course of action to you in the light of the negotiating situation prevailing in the Kennedy Round at the time.
+
+Congressional Views
+
+With respect to the Congress, we have had recent indications that key members of both the Senate Finance and House Ways and Means Committees would be agreeable to this course of action.
+
+As noted above, the Congress had just passed the Tariff Schedules Technical Amendments Act of 1965, which provides a new rate of duty for imports of protective rubber footwear (such as rubbers and galoshes). In working out this new provision, the Congress consciously sought to arrive at a new rate which would afford an amount of tariff protection equivalent to that which had resulted from the application of ASP to imports to both natural and synthetic rubber footwear.
+
+During Senate floor debate on the bill, it was made clear that Senators Long, Smathers, Douglas, Gore, Hartke, and Ribicoff were all generally opposed to the use of ASP as a method of customs valuation and supported the conversion of rates of duty based on ASP to new rates affording the same amount of protection.
+
+In the Ways and Means Committee, Congressmen Curtis and King are known to favor this approach in abolishing the ASP system, and Chairman Mills has specifically expressed his support for having the Tariff Commission carry out the study proposed in the attached letter.
+
+Industry Reaction
+
+The only two significant sectors of domestic industry which can be expected to react to the proposed Tariff Commission study are the producers of benzenoid chemicals and of rubber-soled footwear. Both groups have long been protected by the ASP system and can be expected to resist strongly its elimination, even if an equivalent amount of protection is maintained. At the same time, they will have a full opportunity to express their views at the public hearing which the attached letter calls for.
+
+Public Release of Letter
+
+We believe that, upon its signature, the letter to the Tariff Commission should be made public. Such a release, however, is bound to provoke a number of questions, some of which cannot now be answered, including a question concerning the ultimate use to which the results of the study will be put.
+
+We recommend that, if it is signed, the letter should be released with little or no elaboration. We shall at the same time prepare answers to the most predictable questions which may be raised, to be used on a background basis with the press.
+
+Accordingly, with the concurrence of the Departments of Commerce, State, and the Treasury, the other agencies most directly concerned, I recommend that you sign the attached letter to the Tariff Commission.

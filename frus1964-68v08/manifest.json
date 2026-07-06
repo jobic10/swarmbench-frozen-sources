@@ -1,0 +1,3402 @@
+{
+ "volume": "Foreign Relations of the United States, 1964-1968, Volume VIII, International Monetary and Trade Policy",
+ "publisher": "Office of the Historian, U.S. Department of State",
+ "source_repo": "https://github.com/HistoryAtState/frus (volumes/frus1964-68v08.xml)",
+ "note": "Public-domain U.S. Government primary documents. Text extracted from the official TEI edition, footnote apparatus removed, ASCII-normalized. One file per document.",
+ "document_count": 377,
+ "documents": [
+  {
+   "n": 1,
+   "id": "d1",
+   "title": "1. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1964-01-31",
+   "subject": "New Authorization of the Exchange Stabilization Fund",
+   "word_count": 480,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d1.txt"
+  },
+  {
+   "n": 2,
+   "id": "d2",
+   "title": "2. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 502,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d2.txt"
+  },
+  {
+   "n": 3,
+   "id": "d3",
+   "title": "3. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1964-04-24",
+   "subject": "First Quarter Balance of Payments Results",
+   "word_count": 743,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d3.txt"
+  },
+  {
+   "n": 4,
+   "id": "d4",
+   "title": "4. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1964-05-01",
+   "subject": "Your Meeting with the Cabinet Committee on Balance of Payments, May 4, 1964",
+   "word_count": 480,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d4.txt"
+  },
+  {
+   "n": 5,
+   "id": "d5",
+   "title": "5. Report From the Cabinet Committee on Balance of Payments to President Johnson",
+   "date": "1964-05-01",
+   "subject": "",
+   "word_count": 1256,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d5.txt"
+  },
+  {
+   "n": 6,
+   "id": "d6",
+   "title": "6. Memorandum From the President's Special Assistant for National Security Affairs (Bundy) to Secretary of State Rusk, Secretary of the Fowler Treasury, and Secretary of Defense McNamara",
+   "date": "1964-05-08",
+   "subject": "German Offset Purchases and Troop Strength",
+   "word_count": 126,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d6.txt"
+  },
+  {
+   "n": 7,
+   "id": "d7",
+   "title": "7. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1964-05-13",
+   "subject": "First Quarter Balance of Payments Results",
+   "word_count": 295,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d7.txt"
+  },
+  {
+   "n": 8,
+   "id": "d8",
+   "title": "8. Letter From President Johnson to Secretary of State Rusk",
+   "date": "1964-05-14",
+   "subject": "",
+   "word_count": 219,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d8.txt"
+  },
+  {
+   "n": 9,
+   "id": "d9",
+   "title": "9. Telegram From the Embassy in France to the Department of State",
+   "date": "1964-06-16",
+   "subject": "",
+   "word_count": 1586,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d9.txt"
+  },
+  {
+   "n": 10,
+   "id": "d10",
+   "title": "10. Telegram From the Embassy in France to the Department of State",
+   "date": "1964-06-16",
+   "subject": "",
+   "word_count": 1656,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d10.txt"
+  },
+  {
+   "n": 11,
+   "id": "d11",
+   "title": "11. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1964-06-17",
+   "subject": "Paris Meeting of Finance Ministers of the Group of Ten on the International Monetary System",
+   "word_count": 901,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d11.txt"
+  },
+  {
+   "n": 12,
+   "id": "d12",
+   "title": "12. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 404,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d12.txt"
+  },
+  {
+   "n": 13,
+   "id": "d13",
+   "title": "13. Telegram From Prime Minister Wilson to President Johnson",
+   "date": "1964-10-24",
+   "subject": "",
+   "word_count": 758,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d13.txt"
+  },
+  {
+   "n": 14,
+   "id": "d14",
+   "title": "14. Telegram From President Johnson to Prime Minister Wilson",
+   "date": "1964-10-24",
+   "subject": "",
+   "word_count": 121,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d14.txt"
+  },
+  {
+   "n": 15,
+   "id": "d15",
+   "title": "15. Circular Telegram From the Department of State to Certain Posts",
+   "date": "1964-10-26",
+   "subject": "",
+   "word_count": 488,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d15.txt"
+  },
+  {
+   "n": 16,
+   "id": "d16",
+   "title": "16. Telegram From Prime Minister Wilson to President Johnson",
+   "date": "1964-10-27",
+   "subject": "",
+   "word_count": 168,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d16.txt"
+  },
+  {
+   "n": 17,
+   "id": "d17",
+   "title": "17. Letter From the Chairman of the Cabinet Committee on Balance of Payments (Dillon) to President Johnson",
+   "date": "1964-10-30",
+   "subject": "",
+   "word_count": 535,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d17.txt"
+  },
+  {
+   "n": 18,
+   "id": "d18",
+   "title": "18. Letter From the Chairman of the Task Force on Foreign Economic Policy (Kaysen) to President Johnson",
+   "date": "1964-11-25",
+   "subject": "",
+   "word_count": 7791,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d18.txt"
+  },
+  {
+   "n": 19,
+   "id": "d19",
+   "title": "19. Briefing Paper Prepared by the Department of State and the Department of the Treasury",
+   "date": "1964-12-04",
+   "subject": "",
+   "word_count": 2131,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d19.txt"
+  },
+  {
+   "n": 20,
+   "id": "d20",
+   "title": "20. Paper Prepared for the Cabinet Committee on Balance of Payments",
+   "date": "1964-12-09",
+   "subject": "",
+   "word_count": 1281,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d20.txt"
+  },
+  {
+   "n": 21,
+   "id": "d21",
+   "title": "21. Memorandum From the Chairman of the Council of Economic Advisers (Ackley) to President Johnson",
+   "date": "1964-12-10",
+   "subject": "The Balance of Payments",
+   "word_count": 814,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d21.txt"
+  },
+  {
+   "n": 22,
+   "id": "d22",
+   "title": "22. Memorandum From Secretary of the Treasury Dillon, the Under Secretary of State (Ball), and the President's Special Assistant for National Security Affairs (Bundy) to President Johnson",
+   "date": "1964-12-11",
+   "subject": "Task Force Report on Foreign Economic Policy",
+   "word_count": 1113,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d22.txt"
+  },
+  {
+   "n": 23,
+   "id": "d23",
+   "title": "23. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1964-12-29",
+   "subject": "",
+   "word_count": 226,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d23.txt"
+  },
+  {
+   "n": 24,
+   "id": "d24",
+   "title": "24. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1964-12-29",
+   "subject": "",
+   "word_count": 1314,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d24.txt"
+  },
+  {
+   "n": 25,
+   "id": "d25",
+   "title": "25. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1965-01-04",
+   "subject": "The Current Gold Situation and Future Prospects",
+   "word_count": 853,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d25.txt"
+  },
+  {
+   "n": 26,
+   "id": "d26",
+   "title": "26. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1965-01-05",
+   "subject": "The U.S. Balance of Payments Situation",
+   "word_count": 914,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d26.txt"
+  },
+  {
+   "n": 27,
+   "id": "d27",
+   "title": "27. Memorandum by the Chairman of the Council of Economic Advisers (Ackley)",
+   "date": "1965-01-11",
+   "subject": "Balance-of-Payments Program",
+   "word_count": 675,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d27.txt"
+  },
+  {
+   "n": 28,
+   "id": "d28",
+   "title": "28. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1965-01-15",
+   "subject": "Balance of Payments Problems with Canada",
+   "word_count": 869,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d28.txt"
+  },
+  {
+   "n": 29,
+   "id": "d29",
+   "title": "29. Memorandum of Conversation",
+   "date": "1965-01-19",
+   "subject": "",
+   "word_count": 0,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d29.txt"
+  },
+  {
+   "n": 30,
+   "id": "d30",
+   "title": "30. Memorandum From the Acting Director of the U.S. Travel Service (Black) to Secretary of Commerce Connor",
+   "date": "1965-01-21",
+   "subject": "U.S. Travel Service-Priority Items",
+   "word_count": 367,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d30.txt"
+  },
+  {
+   "n": 31,
+   "id": "d31",
+   "title": "31. Memorandum From the President's Special Assistant for National Security Affairs (Bundy) to President Johnson",
+   "date": "1965-01-22",
+   "subject": "Balance of Payments Committee Work",
+   "word_count": 640,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d31.txt"
+  },
+  {
+   "n": 32,
+   "id": "d32",
+   "title": "32. Memorandum of Conversation",
+   "date": "1965-01-22",
+   "subject": "",
+   "word_count": 0,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d32.txt"
+  },
+  {
+   "n": 33,
+   "id": "d33",
+   "title": "33. Report From the Cabinet Committee on Balance of Payments to President Johnson",
+   "date": "1965-01-22",
+   "subject": "",
+   "word_count": 4362,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d33.txt"
+  },
+  {
+   "n": 34,
+   "id": "d34",
+   "title": "34. Memorandum From the President's Special Assistant for National Security Affairs (Bundy) to President Johnson",
+   "date": "1965-02-01",
+   "subject": "Cabinet Committee Meeting on TuesdayFebruary 2.",
+   "word_count": 503,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d34.txt"
+  },
+  {
+   "n": 35,
+   "id": "d35",
+   "title": "35. Memorandum From the Chairman of the Council of Economic Advisers (Ackley) to President Johnson",
+   "date": "1965-02-01",
+   "subject": "The New Program for the Balance of Payments",
+   "word_count": 802,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d35.txt"
+  },
+  {
+   "n": 36,
+   "id": "d36",
+   "title": "36. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 184,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d36.txt"
+  },
+  {
+   "n": 37,
+   "id": "d37",
+   "title": "37. Notes of Telephone Conversation",
+   "date": "1965-02-05",
+   "subject": "",
+   "word_count": 320,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d37.txt"
+  },
+  {
+   "n": 38,
+   "id": "d38",
+   "title": "38. Memorandum From Francis M. Bator of the National Security Council Staff to President Johnson",
+   "date": "1965-02-07",
+   "subject": "",
+   "word_count": 463,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d38.txt"
+  },
+  {
+   "n": 39,
+   "id": "d39",
+   "title": "39. Memorandum From Francis M. Bator of the National Security Council Staff to the President's Special Assistant for National Security Affairs (Bundy)",
+   "date": "1965-02-08",
+   "subject": "",
+   "word_count": 379,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d39.txt"
+  },
+  {
+   "n": 40,
+   "id": "d40",
+   "title": "40. Memorandum From the President's Special Assistant for National Security Affairs (Bundy) to President Johnson",
+   "date": "1965-02-08",
+   "subject": "Balance of Payments meeting",
+   "word_count": 154,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d40.txt"
+  },
+  {
+   "n": 41,
+   "id": "d41",
+   "title": "41. Memorandum From the President's Special Assistant for National Security Affairs (Bundy) to President Johnson",
+   "date": "1965-02-09",
+   "subject": "Your call to Prime Minister Pearson on Balance of Payments",
+   "word_count": 1940,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d41.txt"
+  },
+  {
+   "n": 42,
+   "id": "d42",
+   "title": "42. Telegram From the Embassy in Japan to the Department of State",
+   "date": "1965-02-10",
+   "subject": "",
+   "word_count": 244,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d42.txt"
+  },
+  {
+   "n": 43,
+   "id": "d43",
+   "title": "43. Memorandum From Acting Secretary of the Treasury Deming to President Johnson",
+   "date": "1965-02-12",
+   "subject": "Reaction to Your Balance-of-Payments MessageReference is to the President's February 10 message; see footnote 2, Document 38.",
+   "word_count": 902,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d43.txt"
+  },
+  {
+   "n": 44,
+   "id": "d44",
+   "title": "44. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 316,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d44.txt"
+  },
+  {
+   "n": 45,
+   "id": "d45",
+   "title": "45. Paper Prepared in the Department of Commerce",
+   "date": "1965-02-18",
+   "subject": "",
+   "word_count": 1035,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d45.txt"
+  },
+  {
+   "n": 46,
+   "id": "d46",
+   "title": "46. Minutes of Meeting of the Balance of Payments Advisory Committee",
+   "date": "1965-02-26",
+   "subject": "",
+   "word_count": 453,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d46.txt"
+  },
+  {
+   "n": 47,
+   "id": "d47",
+   "title": "47. Action Memorandum From the Deputy Assistant Secretary of State for Economic Affairs (Trezise) to the Under Secretary of State (Ball)",
+   "date": "1965-03-04",
+   "subject": "Department of State Comments on Proposed Letter from Secretary Connor to U.S. Business Executives Implementing the Moral Suasion Program on Direct Investment",
+   "word_count": 1002,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d47.txt"
+  },
+  {
+   "n": 48,
+   "id": "d48",
+   "title": "48. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1965-03-05",
+   "subject": "",
+   "word_count": 630,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d48.txt"
+  },
+  {
+   "n": 49,
+   "id": "d49",
+   "title": "49. Action Memorandum From the Assistant Secretary of State for Economic Affairs (Johnson) to Secretary of State Rusk",
+   "date": "1965-03-11",
+   "subject": "Special Report of the NAC on IMF Quota Increases",
+   "word_count": 285,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d49.txt"
+  },
+  {
+   "n": 50,
+   "id": "d50",
+   "title": "50. Personal Message From Prime Minister Menzies to President Johnson",
+   "date": "1965-03-12",
+   "subject": "",
+   "word_count": 1926,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d50.txt"
+  },
+  {
+   "n": 51,
+   "id": "d51",
+   "title": "51. Letter From President Johnson to Prime Minister Menzies",
+   "date": "1965-03-12",
+   "subject": "",
+   "word_count": 91,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d51.txt"
+  },
+  {
+   "n": 52,
+   "id": "d52",
+   "title": "52. Letter From Secretary of Commerce Connor to Certain U.S. Business Leaders",
+   "date": "1965-03-12",
+   "subject": "",
+   "word_count": 1349,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d52.txt"
+  },
+  {
+   "n": 53,
+   "id": "d53",
+   "title": "53. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1965-03-17",
+   "subject": "Gold Transactions",
+   "word_count": 313,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d53.txt"
+  },
+  {
+   "n": 54,
+   "id": "d54",
+   "title": "54. Letter From President Johnson to Prime Minister Menzies",
+   "date": "1965-03-24",
+   "subject": "",
+   "word_count": 503,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d54.txt"
+  },
+  {
+   "n": 55,
+   "id": "d55",
+   "title": "55. Memorandum From the Deputy Assistant Secretary of State for Politico-Military Affairs (Kitchen) to Secretary of State Rusk",
+   "date": "1965-03-24",
+   "subject": "Probable Shortfall in German Military Offsets of DOD Balance of Payments Expenditures: Possible Redeployment of US Forces in Germany",
+   "word_count": 1017,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d55.txt"
+  },
+  {
+   "n": 56,
+   "id": "d56",
+   "title": "56. Memorandum From Secretary of the Treasury Dillon to President Johnson",
+   "date": "1965-03-27",
+   "subject": "Final Report on the Balance of Payments",
+   "word_count": 1914,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d56.txt"
+  },
+  {
+   "n": 57,
+   "id": "d57",
+   "title": "57. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1965-04-13",
+   "subject": "An Early Preliminary Look at First Quarter Balance-of-Payments Results",
+   "word_count": 398,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d57.txt"
+  },
+  {
+   "n": 58,
+   "id": "d58",
+   "title": "58. Minutes of Meeting of the Balance of Payments Advisory Committee",
+   "date": "1965-04-28",
+   "subject": "",
+   "word_count": 570,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d58.txt"
+  },
+  {
+   "n": 59,
+   "id": "d59",
+   "title": "59. Letter From Secretary of Commerce Connor to President Johnson",
+   "date": "1965-04-28",
+   "subject": "",
+   "word_count": 823,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d59.txt"
+  },
+  {
+   "n": 60,
+   "id": "d60",
+   "title": "60. Report From the Voluntary Cooperation Program Coordinating Group to the Cabinet Committee on Balance of Payments",
+   "date": "1965-05-26",
+   "subject": "Operating Problems under the Voluntary Cooperation Program",
+   "word_count": 2832,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d60.txt"
+  },
+  {
+   "n": 61,
+   "id": "d61",
+   "title": "61. Report From the Cabinet Committee on Balance of Payments to President Johnson",
+   "date": "1965-06-07",
+   "subject": "",
+   "word_count": 3327,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d61.txt"
+  },
+  {
+   "n": 62,
+   "id": "d62",
+   "title": "62. Memorandum From the Director of the Bureau of the Budget (Schultze) to President Johnson",
+   "date": "1965-06-08",
+   "subject": "\"Gold Budget\"",
+   "word_count": 311,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d62.txt"
+  },
+  {
+   "n": 63,
+   "id": "d63",
+   "title": "63. Memorandum From the President's Special Assistant for National Security Affairs (Bundy) to President Johnson",
+   "date": "1965-06-12",
+   "subject": "",
+   "word_count": 441,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d63.txt"
+  },
+  {
+   "n": 64,
+   "id": "d64",
+   "title": "64. Memorandum From President Johnson to Secretary of the Treasury Fowler",
+   "date": "1965-06-16",
+   "subject": "Forward Planning in International Finance",
+   "word_count": 895,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d64.txt"
+  },
+  {
+   "n": 65,
+   "id": "d65",
+   "title": "65. Memorandum From the Under Secretary of State (Ball) to Secretary of the Treasury Fowler",
+   "date": "1965-07-28",
+   "subject": "Some Thoughts on the British Crisis",
+   "word_count": 861,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d65.txt"
+  },
+  {
+   "n": 66,
+   "id": "d66",
+   "title": "66. Memorandum From the President's Special Assistant for National Security Affairs (Bundy) to President Johnson",
+   "date": "1965-08-05",
+   "subject": "The Sterling Crisis Deepens",
+   "word_count": 841,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d66.txt"
+  },
+  {
+   "n": 67,
+   "id": "d67",
+   "title": "67. Minutes of Meeting of the Cabinet Committee on Balance of Payments",
+   "date": "1965-08-18",
+   "subject": "",
+   "word_count": 1559,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d67.txt"
+  },
+  {
+   "n": 68,
+   "id": "d68",
+   "title": "68. Memorandum for the Record",
+   "date": "1965-09-20",
+   "subject": "",
+   "word_count": 1115,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d68.txt"
+  },
+  {
+   "n": 69,
+   "id": "d69",
+   "title": "69. Memorandum From Secretary of Commerce Connor to the President's Special Assistant for National Security Affairs (Bundy)",
+   "date": "1965-09-21",
+   "subject": "Report on the Voluntary Program to Improve the Balance of Payments",
+   "word_count": 1394,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d69.txt"
+  },
+  {
+   "n": 70,
+   "id": "d70",
+   "title": "70. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to Secretary of the Treasury Fowler",
+   "date": "1965-09-30",
+   "subject": "Some thoughts for the Balance of Payments Meeting this Afternoon",
+   "word_count": 572,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d70.txt"
+  },
+  {
+   "n": 71,
+   "id": "d71",
+   "title": "71. Minutes of Meeting of the Cabinet Committee on Balance of Payments",
+   "date": "1965-09-30",
+   "subject": "",
+   "word_count": 2320,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d71.txt"
+  },
+  {
+   "n": 72,
+   "id": "d72",
+   "title": "72. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1965-10-01",
+   "subject": "Interim Report on Balance of Payments Contingency Planning",
+   "word_count": 755,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d72.txt"
+  },
+  {
+   "n": 73,
+   "id": "d73",
+   "title": "73. Letter From the Assistant Secretary of State for Economic Affairs (Solomon) to Secretary of Commerce Connor",
+   "date": "1965-10-07",
+   "subject": "",
+   "word_count": 277,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d73.txt"
+  },
+  {
+   "n": 74,
+   "id": "d74",
+   "title": "74. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1965-10-12",
+   "subject": "",
+   "word_count": 863,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d74.txt"
+  },
+  {
+   "n": 75,
+   "id": "d75",
+   "title": "75. Memorandum of Conversation",
+   "date": "1965-10-20",
+   "subject": "Cabinet Committee (Principals Only) Meeting",
+   "word_count": 992,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d75.txt"
+  },
+  {
+   "n": 76,
+   "id": "d76",
+   "title": "76. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1965-10-22",
+   "subject": "Balance of Payments-Fourth Quarter Bolt and Nut Tightening",
+   "word_count": 3113,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d76.txt"
+  },
+  {
+   "n": 77,
+   "id": "d77",
+   "title": "77. Memorandum of Conversation",
+   "date": "1965-10-27",
+   "subject": "Cabinet Committee (Principals Only) Meeting",
+   "word_count": 2619,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d77.txt"
+  },
+  {
+   "n": 78,
+   "id": "d78",
+   "title": "78. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1965-11-16",
+   "subject": "Progress Report on Balance of Payments-Bolt and Nut Tightening-Supplement to October 22 Memo Document 76.",
+   "word_count": 969,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d78.txt"
+  },
+  {
+   "n": 79,
+   "id": "d79",
+   "title": "79. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1965-11-16",
+   "subject": "Your meeting this afternoon with Joe FowlerThe President met with Fowler and Bator in the Oval Office beginning at 3:25 p.m. to discuss the balance of payments and other economic issues. (Ibid., President's Daily Diary) No record of the meeting has been found. Presumably Fowler presented his memorandum, Document 78.",
+   "word_count": 287,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d79.txt"
+  },
+  {
+   "n": 80,
+   "id": "d80",
+   "title": "80. Minutes of Meeting of the Cabinet Committee on Balance of Payments",
+   "date": "1965-11-24",
+   "subject": "",
+   "word_count": 1180,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d80.txt"
+  },
+  {
+   "n": 81,
+   "id": "d81",
+   "title": "81. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1965-11-26",
+   "subject": "",
+   "word_count": 128,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d81.txt"
+  },
+  {
+   "n": 82,
+   "id": "d82",
+   "title": "82. Report From the Cabinet Committee on Balance of Payments to the President",
+   "date": "1965-11-26",
+   "subject": "1966 Balance of Payments Program",
+   "word_count": 1899,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d82.txt"
+  },
+  {
+   "n": 83,
+   "id": "d83",
+   "title": "83. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1965-11-29",
+   "subject": "Announcement of Balance of Payments Program",
+   "word_count": 471,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d83.txt"
+  },
+  {
+   "n": 84,
+   "id": "d84",
+   "title": "84. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to Secretary of Defense McNamara",
+   "date": "1965-11-30",
+   "subject": "",
+   "word_count": 147,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d84.txt"
+  },
+  {
+   "n": 85,
+   "id": "d85",
+   "title": "85. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1966-01-27",
+   "subject": "1965 Balance of Payments Figures",
+   "word_count": 172,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d85.txt"
+  },
+  {
+   "n": 86,
+   "id": "d86",
+   "title": "86. Circular Telegram From the Department of State to Certain Posts",
+   "date": "1966-02-14",
+   "subject": "",
+   "word_count": 526,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d86.txt"
+  },
+  {
+   "n": 87,
+   "id": "d87",
+   "title": "87. Department of the Treasury Memorandum",
+   "date": "1966-03-18",
+   "subject": "",
+   "word_count": 1736,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d87.txt"
+  },
+  {
+   "n": 88,
+   "id": "d88",
+   "title": "88. Minutes of Meeting of the Cabinet Committee on Balance of Payments",
+   "date": "1966-03-25",
+   "subject": "",
+   "word_count": 2872,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d88.txt"
+  },
+  {
+   "n": 89,
+   "id": "d89",
+   "title": "89. Memorandum From the Executive Committee of the Cabinet Committee on Balance of Payments to the Committee",
+   "date": "1966-04-18",
+   "subject": "A program of measures to reduce the 1966 potential deficit",
+   "word_count": 1495,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d89.txt"
+  },
+  {
+   "n": 90,
+   "id": "d90",
+   "title": "90. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1966-04-23",
+   "subject": "Balance of Payments Reprogramming on Tuesday, April 19",
+   "word_count": 549,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d90.txt"
+  },
+  {
+   "n": 91,
+   "id": "d91",
+   "title": "91. Report From the Voluntary Cooperation Program Coordinating Group to the Cabinet Committee on Balance of Payments",
+   "date": "1966-04-26",
+   "subject": "Operating Problems under the Voluntary Cooperation Program",
+   "word_count": 2413,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d91.txt"
+  },
+  {
+   "n": 92,
+   "id": "d92",
+   "title": "92. Memorandum From Vice President Humphrey to Secretary of the Treasury Fowler",
+   "date": "1966-04-29",
+   "subject": "",
+   "word_count": 333,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d92.txt"
+  },
+  {
+   "n": 93,
+   "id": "d93",
+   "title": "93. Minutes of Meeting",
+   "date": "1966-05-04",
+   "subject": "",
+   "word_count": 1978,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d93.txt"
+  },
+  {
+   "n": 94,
+   "id": "d94",
+   "title": "94. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1966-05-10",
+   "subject": "Balance of Payments-1966",
+   "word_count": 5004,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d94.txt"
+  },
+  {
+   "n": 95,
+   "id": "d95",
+   "title": "95. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1966-05-11",
+   "subject": "Balance of Payments",
+   "word_count": 524,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d95.txt"
+  },
+  {
+   "n": 96,
+   "id": "d96",
+   "title": "96. Circular Telegram From the Department of State to Certain Posts",
+   "date": "1966-05-13",
+   "subject": "",
+   "word_count": 265,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d96.txt"
+  },
+  {
+   "n": 97,
+   "id": "d97",
+   "title": "97. Circular Telegram From the Department of State to Certain Posts",
+   "date": "1966-05-18",
+   "subject": "",
+   "word_count": 895,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d97.txt"
+  },
+  {
+   "n": 98,
+   "id": "d98",
+   "title": "98. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1966-06-07",
+   "subject": "Action to cut balance of payments deficit in 1966",
+   "word_count": 742,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d98.txt"
+  },
+  {
+   "n": 99,
+   "id": "d99",
+   "title": "99. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1966-06-21",
+   "subject": "French Gold Purchases",
+   "word_count": 257,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d99.txt"
+  },
+  {
+   "n": 100,
+   "id": "d100",
+   "title": "100. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1966-07-06",
+   "subject": "Balance of Payments",
+   "word_count": 638,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d100.txt"
+  },
+  {
+   "n": 101,
+   "id": "d101",
+   "title": "101. Minutes of Meeting of the Cabinet Committee on Balance of Payments",
+   "date": "1966-07-14",
+   "subject": "",
+   "word_count": 2192,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d101.txt"
+  },
+  {
+   "n": 102,
+   "id": "d102",
+   "title": "102. Memorandum of Conversation Between U.S. and British Officials",
+   "date": "1966-07-29",
+   "subject": "International Monetary Situation",
+   "word_count": 773,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d102.txt"
+  },
+  {
+   "n": 103,
+   "id": "d103",
+   "title": "103. Telegram From the White House Situation Room to President Johnson, in Texas",
+   "date": "1966-08-28",
+   "subject": "",
+   "word_count": 589,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d103.txt"
+  },
+  {
+   "n": 104,
+   "id": "d104",
+   "title": "104. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 341,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d104.txt"
+  },
+  {
+   "n": 105,
+   "id": "d105",
+   "title": "105. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1966-11-08",
+   "subject": "Balance of Payments Planning for 1967",
+   "word_count": 447,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d105.txt"
+  },
+  {
+   "n": 106,
+   "id": "d106",
+   "title": "106. Minutes of Meeting of the Cabinet Committee on the Balance of Payments",
+   "date": "1966-12-05",
+   "subject": "",
+   "word_count": 2442,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d106.txt"
+  },
+  {
+   "n": 107,
+   "id": "d107",
+   "title": "107. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1966-12-06",
+   "subject": "",
+   "word_count": 446,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d107.txt"
+  },
+  {
+   "n": 108,
+   "id": "d108",
+   "title": "108. Memorandum From the Cabinet Committee on Balance of Payments to President Johnson",
+   "date": "1966-12-06",
+   "subject": "Continuation of the Voluntary Cooperation Program in 1967",
+   "word_count": 1630,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d108.txt"
+  },
+  {
+   "n": 109,
+   "id": "d109",
+   "title": "109. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1966-12-07",
+   "subject": "1967 Balance of Payments Program",
+   "word_count": 301,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d109.txt"
+  },
+  {
+   "n": 110,
+   "id": "d110",
+   "title": "110. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 155,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d110.txt"
+  },
+  {
+   "n": 111,
+   "id": "d111",
+   "title": "111. Minutes of Meeting of the Cabinet Committee on Balance of Payments",
+   "date": "1967-01-04",
+   "subject": "",
+   "word_count": 3278,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d111.txt"
+  },
+  {
+   "n": 112,
+   "id": "d112",
+   "title": "112. Memorandum From the Under Secretary of State for Political Affairs (Rostow) to President Johnson",
+   "date": "1967-01-10",
+   "subject": "Proposal to Reduce the U.S. Customs Exemption",
+   "word_count": 310,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d112.txt"
+  },
+  {
+   "n": 113,
+   "id": "d113",
+   "title": "113. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 1058,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d113.txt"
+  },
+  {
+   "n": 114,
+   "id": "d114",
+   "title": "114. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-01-13",
+   "subject": "Supplementary Balance of Payments Measures",
+   "word_count": 805,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d114.txt"
+  },
+  {
+   "n": 115,
+   "id": "d115",
+   "title": "115. Record of Meeting",
+   "date": "1967-01-21",
+   "subject": "",
+   "word_count": 414,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d115.txt"
+  },
+  {
+   "n": 116,
+   "id": "d116",
+   "title": "116. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1967-01-23",
+   "subject": "Meeting at Chequers",
+   "word_count": 689,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d116.txt"
+  },
+  {
+   "n": 117,
+   "id": "d117",
+   "title": "117. Current Economic Developments",
+   "date": "1967-01-31",
+   "subject": "",
+   "word_count": 641,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d117.txt"
+  },
+  {
+   "n": 118,
+   "id": "d118",
+   "title": "118. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1967-03-29",
+   "subject": "Two Steps to Help the Balance of Payments",
+   "word_count": 1152,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d118.txt"
+  },
+  {
+   "n": 119,
+   "id": "d119",
+   "title": "119. Letter From Secretary of the Treasury Fowler to the German Minister of Finance (Schiller)",
+   "date": "1967-04-06",
+   "subject": "",
+   "word_count": 932,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d119.txt"
+  },
+  {
+   "n": 120,
+   "id": "d120",
+   "title": "120. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1967-04-22",
+   "subject": "Meeting with Chancellor KiesingerOn April 23, George E. Christian announced that President Johnson would go to Germany to attend the funeral of Konrad Adenauer and that he would call on Chancellor Kiesinger.",
+   "word_count": 923,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d120.txt"
+  },
+  {
+   "n": 121,
+   "id": "d121",
+   "title": "121. Memorandum of Conversation",
+   "date": "1967-04-27",
+   "subject": "",
+   "word_count": 547,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d121.txt"
+  },
+  {
+   "n": 122,
+   "id": "d122",
+   "title": "122. Current Economic Developments",
+   "date": "1967-05-09",
+   "subject": "",
+   "word_count": 1251,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d122.txt"
+  },
+  {
+   "n": 123,
+   "id": "d123",
+   "title": "123. Memorandum From Acting Secretary of Commerce Trowbridge to the Chairman of the Cabinet Committee on Balance of Payments (Fowler)",
+   "date": "1967-05-15",
+   "subject": "Export Expansion Program",
+   "word_count": 502,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d123.txt"
+  },
+  {
+   "n": 124,
+   "id": "d124",
+   "title": "124. Memorandum From the Under Secretary of the Treasury for Monetary Affairs (Deming) to John J. McCloy",
+   "date": "1967-05-17",
+   "subject": "Further Developments in International Monetary Negotiations",
+   "word_count": 2095,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d124.txt"
+  },
+  {
+   "n": 125,
+   "id": "d125",
+   "title": "125. Memorandum of Conversation",
+   "date": "1967-05-26",
+   "subject": "International Monetary Negotiations",
+   "word_count": 2509,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d125.txt"
+  },
+  {
+   "n": 126,
+   "id": "d126",
+   "title": "126. Telegram From the Department of State to the Embassy in Italy",
+   "date": "1967-06-01",
+   "subject": "",
+   "word_count": 1619,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d126.txt"
+  },
+  {
+   "n": 127,
+   "id": "d127",
+   "title": "127. Memorandum From the Director of the U.S. Travel Service, Department of Commerce (Black) to Acting Secretary of Commerce Trowbridge",
+   "date": "1967-06-05",
+   "subject": "\"Discover America, Inc.\"",
+   "word_count": 887,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d127.txt"
+  },
+  {
+   "n": 128,
+   "id": "d128",
+   "title": "128. Memorandum of Telephone Conversation",
+   "date": "1967-06-12",
+   "subject": "Mr. McCloy's Trip to Germany",
+   "word_count": 1088,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d128.txt"
+  },
+  {
+   "n": 129,
+   "id": "d129",
+   "title": "129. Memorandum of Conversation",
+   "date": "1967-06-19",
+   "subject": "International Liquidity",
+   "word_count": 2654,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d129.txt"
+  },
+  {
+   "n": 130,
+   "id": "d130",
+   "title": "130. Memorandum for the Record",
+   "date": "1967-06-21",
+   "subject": "",
+   "word_count": 237,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d130.txt"
+  },
+  {
+   "n": 131,
+   "id": "d131",
+   "title": "131. Memorandum From the General Counsel, Department of Commerce (Giles) to Secretary of Commerce Trowbridge",
+   "date": "1967-06-30",
+   "subject": "U.S. Travel Service-\"Discover America, Inc.\"",
+   "word_count": 413,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d131.txt"
+  },
+  {
+   "n": 132,
+   "id": "d132",
+   "title": "132. Current Economic Developments",
+   "date": "1967-07-04",
+   "subject": "",
+   "word_count": 662,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d132.txt"
+  },
+  {
+   "n": 133,
+   "id": "d133",
+   "title": "133. Memorandum for the Files",
+   "date": "1967-07-10",
+   "subject": "Meeting of U.S. Delegation to the G-10 Ministers' Meeting-July 10, 1967 at 2:00 P.M.",
+   "word_count": 1909,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d133.txt"
+  },
+  {
+   "n": 134,
+   "id": "d134",
+   "title": "134. Telegram From the Embassy in the United Kingdom to the Department of State",
+   "date": "1967-07-18",
+   "subject": "",
+   "word_count": 336,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d134.txt"
+  },
+  {
+   "n": 135,
+   "id": "d135",
+   "title": "135. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 188,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d135.txt"
+  },
+  {
+   "n": 136,
+   "id": "d136",
+   "title": "136. Current Economic Developments",
+   "date": "1967-08-02",
+   "subject": "",
+   "word_count": 2044,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d136.txt"
+  },
+  {
+   "n": 137,
+   "id": "d137",
+   "title": "137. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1967-08-08",
+   "subject": "Balance of Payments",
+   "word_count": 2404,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d137.txt"
+  },
+  {
+   "n": 138,
+   "id": "d138",
+   "title": "138. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-08-10",
+   "subject": "",
+   "word_count": 361,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d138.txt"
+  },
+  {
+   "n": 139,
+   "id": "d139",
+   "title": "139. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1967-08-10",
+   "subject": "Our Balance of Payments Problems",
+   "word_count": 219,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d139.txt"
+  },
+  {
+   "n": 140,
+   "id": "d140",
+   "title": "140. Telegram From the Department of State to the Embassy in the United Kingdom",
+   "date": "1967-08-23",
+   "subject": "",
+   "word_count": 1493,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d140.txt"
+  },
+  {
+   "n": 141,
+   "id": "d141",
+   "title": "141. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 463,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d141.txt"
+  },
+  {
+   "n": 142,
+   "id": "d142",
+   "title": "142. Letter From French Finance and Economic Affairs Minister Debre to Secretary of the Treasury Fowler",
+   "date": "1967-09-07",
+   "subject": "",
+   "word_count": 0,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d142.txt"
+  },
+  {
+   "n": 143,
+   "id": "d143",
+   "title": "143. Memorandum From the Secretary of Commerce's Assistant (Simpich) to Secretary of Commerce Trowbridge",
+   "date": "1967-09-08",
+   "subject": "Balance of Payments Advisory Committee",
+   "word_count": 238,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d143.txt"
+  },
+  {
+   "n": 144,
+   "id": "d144",
+   "title": "144. Letter From the President of General Electric Company (Borch) to Secretary of Commerce Trowbridge",
+   "date": "1967-09-14",
+   "subject": "",
+   "word_count": 528,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d144.txt"
+  },
+  {
+   "n": 145,
+   "id": "d145",
+   "title": "145. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1967-10-06",
+   "subject": "Report on the 22nd Annual International Monetary Fund and the International Bank for Reconstruction & Development Meeting in Rio de Janeiro, Brazil",
+   "word_count": 892,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d145.txt"
+  },
+  {
+   "n": 146,
+   "id": "d146",
+   "title": "146. Memorandum From the Secretary of Commerce's Assistant (Simpich) to Secretary of Commerce Trowbridge",
+   "date": "1967-10-13",
+   "subject": "Balance of Payments Advisory Committee Meeting, October 9",
+   "word_count": 166,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d146.txt"
+  },
+  {
+   "n": 147,
+   "id": "d147",
+   "title": "147. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1967-10-19",
+   "subject": "Contingency Support For Sterling",
+   "word_count": 1504,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d147.txt"
+  },
+  {
+   "n": 148,
+   "id": "d148",
+   "title": "148. Department of Commerce Paper",
+   "date": "1967-11-07",
+   "subject": "",
+   "word_count": 1012,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d148.txt"
+  },
+  {
+   "n": 149,
+   "id": "d149",
+   "title": "149. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1967-11-11",
+   "subject": "Balance of Payments Program Announcement",
+   "word_count": 1967,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d149.txt"
+  },
+  {
+   "n": 150,
+   "id": "d150",
+   "title": "150. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1967-11-12",
+   "subject": "Sterling Crisis",
+   "word_count": 1144,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d150.txt"
+  },
+  {
+   "n": 151,
+   "id": "d151",
+   "title": "151. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1967-11-13",
+   "subject": "Sterling Crisis",
+   "word_count": 251,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d151.txt"
+  },
+  {
+   "n": 152,
+   "id": "d152",
+   "title": "152. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1967-11-16",
+   "subject": "",
+   "word_count": 227,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d152.txt"
+  },
+  {
+   "n": 153,
+   "id": "d153",
+   "title": "153. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 465,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d153.txt"
+  },
+  {
+   "n": 154,
+   "id": "d154",
+   "title": "154. Notes of Meeting",
+   "date": "1967-11-18",
+   "subject": "Sterling Devaluation and the Need for Tax Increase-November 18, 4:30 to 7:00 P.M.",
+   "word_count": 2185,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d154.txt"
+  },
+  {
+   "n": 155,
+   "id": "d155",
+   "title": "155. Telegram From the President's Special Assistant (Rostow) to President Johnson in Texas",
+   "date": "1967-11-22",
+   "subject": "",
+   "word_count": 207,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d155.txt"
+  },
+  {
+   "n": 156,
+   "id": "d156",
+   "title": "156. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1967-11-26",
+   "subject": "",
+   "word_count": 154,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d156.txt"
+  },
+  {
+   "n": 157,
+   "id": "d157",
+   "title": "157. Memorandum From Secretary of Commerce Trowbridge to Secretary of the Treasury Fowler",
+   "date": "1967-12-15",
+   "subject": "Progress Report on Administration of the Voluntary Program",
+   "word_count": 936,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d157.txt"
+  },
+  {
+   "n": 158,
+   "id": "d158",
+   "title": "158. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1967-12-15",
+   "subject": "Gold",
+   "word_count": 639,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d158.txt"
+  },
+  {
+   "n": 159,
+   "id": "d159",
+   "title": "159. Circular Telegram From the Department of State to All Posts",
+   "date": "1967-12-16",
+   "subject": "",
+   "word_count": 117,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d159.txt"
+  },
+  {
+   "n": 160,
+   "id": "d160",
+   "title": "160. Memorandum From the President's Special Assistants (Rostow and Califano) to President Johnson",
+   "date": "1967-12-18",
+   "subject": "Balance of Payments Program",
+   "word_count": 576,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d160.txt"
+  },
+  {
+   "n": 161,
+   "id": "d161",
+   "title": "161. Minutes of Meeting of the Cabinet Committee on Balance of Payments",
+   "date": "1967-12-21",
+   "subject": "",
+   "word_count": 4182,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d161.txt"
+  },
+  {
+   "n": 162,
+   "id": "d162",
+   "title": "162. Telegram From the President's Special Assistant (Califano) to President Johnson in Thailand",
+   "date": "1967-12-22",
+   "subject": "",
+   "word_count": 1528,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d162.txt"
+  },
+  {
+   "n": 163,
+   "id": "d163",
+   "title": "163. Telegram From the President's Special Assistant (Califano) to President Johnson",
+   "date": "1967-12-22",
+   "subject": "",
+   "word_count": 1184,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d163.txt"
+  },
+  {
+   "n": 164,
+   "id": "d164",
+   "title": "164. Message From President Johnson to the President's Special Assistant (Califano)",
+   "date": "1967-12-22",
+   "subject": "",
+   "word_count": 103,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d164.txt"
+  },
+  {
+   "n": 165,
+   "id": "d165",
+   "title": "165. Telegram From President Johnson to the President's Special Assistant (Califano)",
+   "date": "1967-12-23",
+   "subject": "",
+   "word_count": 803,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d165.txt"
+  },
+  {
+   "n": 166,
+   "id": "d166",
+   "title": "166. Telegram From President Johnson to the President's Special Assistant (Califano)",
+   "date": "1967-12-23",
+   "subject": "",
+   "word_count": 852,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d166.txt"
+  },
+  {
+   "n": 167,
+   "id": "d167",
+   "title": "167. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 1391,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d167.txt"
+  },
+  {
+   "n": 168,
+   "id": "d168",
+   "title": "168. Telegram From the Department of State to the Embassy in the United Kingdom",
+   "date": "1967-12-31",
+   "subject": "",
+   "word_count": 1152,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d168.txt"
+  },
+  {
+   "n": 169,
+   "id": "d169",
+   "title": "169. Telegram From the Embassy in Japan to the Department of State",
+   "date": "1968-01-03",
+   "subject": "",
+   "word_count": 891,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d169.txt"
+  },
+  {
+   "n": 170,
+   "id": "d170",
+   "title": "170. Telegram From the President's Special Assistant (Rostow) to President Johnson, in Texas",
+   "date": "1968-01-03",
+   "subject": "",
+   "word_count": 539,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d170.txt"
+  },
+  {
+   "n": 171,
+   "id": "d171",
+   "title": "171. Telegram From the President's Special Assistant (Rostow) to President Johnson, in Texas",
+   "date": "1968-01-05",
+   "subject": "",
+   "word_count": 879,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d171.txt"
+  },
+  {
+   "n": 172,
+   "id": "d172",
+   "title": "172. Telegram From the President's Special Assistant (Rostow) to the President, in Texas",
+   "date": "1968-01-05",
+   "subject": "",
+   "word_count": 537,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d172.txt"
+  },
+  {
+   "n": 173,
+   "id": "d173",
+   "title": "173. Telegram From the President's Special Assistant (Rostow) to President Johnson, in Texas",
+   "date": "1968-01-06",
+   "subject": "",
+   "word_count": 913,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d173.txt"
+  },
+  {
+   "n": 174,
+   "id": "d174",
+   "title": "174. Report by the Under Secretary of State (Katzenbach), the Under Secretary of the Treasury for Monetary Affairs (Deming), and the Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1968-01-07",
+   "subject": "Report on Our European Balance of Payments Trip",
+   "word_count": 2028,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d174.txt"
+  },
+  {
+   "n": 175,
+   "id": "d175",
+   "title": "175. Memorandum From the Under Secretary of State for Political Affairs (Rostow) to Secretary of State Rusk",
+   "date": "1968-01-08",
+   "subject": "The Balance of Payments Program: Next Steps after the First Round of Talks",
+   "word_count": 1562,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d175.txt"
+  },
+  {
+   "n": 176,
+   "id": "d176",
+   "title": "176. Telegram From the Department of State to the Embassies in Germany, Belgium, France, Italy, and the Netherlands",
+   "date": "1968-02-04",
+   "subject": "",
+   "word_count": 403,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d176.txt"
+  },
+  {
+   "n": 177,
+   "id": "d177",
+   "title": "177. Telegram From the Department of State to the Embassy in France",
+   "date": "1968-02-04",
+   "subject": "",
+   "word_count": 451,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d177.txt"
+  },
+  {
+   "n": 178,
+   "id": "d178",
+   "title": "178. Telegram From the Department of State to the Embassy in Germany",
+   "date": "1968-02-04",
+   "subject": "",
+   "word_count": 625,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d178.txt"
+  },
+  {
+   "n": 179,
+   "id": "d179",
+   "title": "179. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1968-02-07",
+   "subject": "Report on Our Balance of Payments Negotiations with Japan",
+   "word_count": 342,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d179.txt"
+  },
+  {
+   "n": 180,
+   "id": "d180",
+   "title": "180. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1968-02-07",
+   "subject": "",
+   "word_count": 579,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d180.txt"
+  },
+  {
+   "n": 181,
+   "id": "d181",
+   "title": "181. Telegram From the Embassy in Germany to the Department of State",
+   "date": "1968-02-12",
+   "subject": "",
+   "word_count": 427,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d181.txt"
+  },
+  {
+   "n": 182,
+   "id": "d182",
+   "title": "182. Current Economic Developments",
+   "date": "1968-02-27",
+   "subject": "",
+   "word_count": 2460,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d182.txt"
+  },
+  {
+   "n": 183,
+   "id": "d183",
+   "title": "183. Memorandum From the Director, Office of Industrial Nations, Department of the Treasury (Widman) to the Acting Assistant Secretary of the Treasury for International Affairs (Petty)",
+   "date": "1968-02-28",
+   "subject": "Recent Meeting of the OECD Tourism Committee",
+   "word_count": 694,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d183.txt"
+  },
+  {
+   "n": 184,
+   "id": "d184",
+   "title": "184. Memorandum From the Assistant Secretary of Commerce for Domestic and International Business (McQuade) to the President's Special Assistant (Goldstein)",
+   "date": "1968-02-29",
+   "subject": "5-Year Commerce Export Expansion Plan",
+   "word_count": 3138,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d184.txt"
+  },
+  {
+   "n": 185,
+   "id": "d185",
+   "title": "185. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 340,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d185.txt"
+  },
+  {
+   "n": 186,
+   "id": "d186",
+   "title": "186. Letter From the Special Representative for Trade Negotiations (Roth) to Secretary of the Treasury Fowler",
+   "date": "1968-03-08",
+   "subject": "",
+   "word_count": 678,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d186.txt"
+  },
+  {
+   "n": 187,
+   "id": "d187",
+   "title": "187. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1968-03-09",
+   "subject": "The Gold Issue",
+   "word_count": 346,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d187.txt"
+  },
+  {
+   "n": 188,
+   "id": "d188",
+   "title": "188. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1968-03-12",
+   "subject": "",
+   "word_count": 383,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d188.txt"
+  },
+  {
+   "n": 189,
+   "id": "d189",
+   "title": "189. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1968-03-14",
+   "subject": "Gold",
+   "word_count": 280,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d189.txt"
+  },
+  {
+   "n": 190,
+   "id": "d190",
+   "title": "190. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1968-03-14",
+   "subject": "",
+   "word_count": 280,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d190.txt"
+  },
+  {
+   "n": 191,
+   "id": "d191",
+   "title": "191. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 510,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d191.txt"
+  },
+  {
+   "n": 192,
+   "id": "d192",
+   "title": "192. Letter From the Under Secretary of State (Katzenbach) to Secretary of the Treasury Fowler",
+   "date": "1968-03-26",
+   "subject": "",
+   "word_count": 353,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d192.txt"
+  },
+  {
+   "n": 193,
+   "id": "d193",
+   "title": "193. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 560,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d193.txt"
+  },
+  {
+   "n": 194,
+   "id": "d194",
+   "title": "194. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1968-04-02",
+   "subject": "Stockholm Monetary ConferenceRegarding this conference, see Document 193. Deputy to the Assistant Secretary of the Treasury for International Affairs George H. Willis was part of the U.S. Delegation to the Stockholm Ministerial, and his notes are another record of the meetings. (Washington National Records Center, RG 56, Assistant Secretary for International Affairs, Deputy to the Assistant Secretary and Secretary of the International Monetary Group:FRC 83 A 26, Willis' Notes 66-69, notebook entitled Ministers Mtg-Stockholm, March 20-30, 1968)",
+   "word_count": 654,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d194.txt"
+  },
+  {
+   "n": 195,
+   "id": "d195",
+   "title": "195. Telegram From the Department of State to the Embassy in Japan",
+   "date": "1968-04-04",
+   "subject": "",
+   "word_count": 308,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d195.txt"
+  },
+  {
+   "n": 196,
+   "id": "d196",
+   "title": "196. Memorandum for the USTS File",
+   "date": "1968-04-16",
+   "subject": "April 16 Meeting in the White House with the Under Secretary,Howard J. Samuels. Ambassador McKinney, Mr. Goldstein, Mr. Pelikan, Robert G. Pelikan, Director, Office of International Economic Activities, Department of the Treasury, was also serving at this time as Executive Director of the President's Commission on Travel. Mr. Rommel,Presumably Wilfred H. Rommel, Assistant Director for Legislative Reference, Bureau of the Budget. and Mr. Dykman",
+   "word_count": 799,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d196.txt"
+  },
+  {
+   "n": 197,
+   "id": "d197",
+   "title": "197. Current Economic Developments",
+   "date": "1968-04-23",
+   "subject": "",
+   "word_count": 3195,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d197.txt"
+  },
+  {
+   "n": 198,
+   "id": "d198",
+   "title": "198. Telegram From the President's Special Assistant (Rostow) to President Johnson, in Texas",
+   "date": "1968-06-01",
+   "subject": "",
+   "word_count": 838,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d198.txt"
+  },
+  {
+   "n": 199,
+   "id": "d199",
+   "title": "199. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1968-06-06",
+   "subject": "",
+   "word_count": 1530,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d199.txt"
+  },
+  {
+   "n": 200,
+   "id": "d200",
+   "title": "200. Memorandum for the Record",
+   "date": "1968-07-01",
+   "subject": "Meeting with The President-Sterling Balances Problem, July 1, 1968, 6:00 p.m.",
+   "word_count": 1105,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d200.txt"
+  },
+  {
+   "n": 201,
+   "id": "d201",
+   "title": "201. Current Economic Developments",
+   "date": "1968-07-16",
+   "subject": "",
+   "word_count": 386,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d201.txt"
+  },
+  {
+   "n": 202,
+   "id": "d202",
+   "title": "202. Current Economic Developments",
+   "date": "1968-07-30",
+   "subject": "",
+   "word_count": 389,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d202.txt"
+  },
+  {
+   "n": 203,
+   "id": "d203",
+   "title": "203. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1968-09-10",
+   "subject": "",
+   "word_count": 381,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d203.txt"
+  },
+  {
+   "n": 204,
+   "id": "d204",
+   "title": "204. Memorandum From Secretary of the Treasury Fowler to President Johnson",
+   "date": "1968-11-12",
+   "subject": "Balance of Payments Program for 1969-Early Announcement of the Foreign Direct Investment Program",
+   "word_count": 816,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d204.txt"
+  },
+  {
+   "n": 205,
+   "id": "d205",
+   "title": "205. Memorandum From the President's Special Assistant (Rostow) to President Johnson",
+   "date": "1968-11-15",
+   "subject": "",
+   "word_count": 193,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d205.txt"
+  },
+  {
+   "n": 206,
+   "id": "d206",
+   "title": "206. Telegram From the Embassy in Belgium to the White House",
+   "date": "1968-11-15",
+   "subject": "",
+   "word_count": 745,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d206.txt"
+  },
+  {
+   "n": 207,
+   "id": "d207",
+   "title": "207. Telegram From the White House to the Embassy in Italy",
+   "date": "1968-11-17",
+   "subject": "",
+   "word_count": 433,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d207.txt"
+  },
+  {
+   "n": 208,
+   "id": "d208",
+   "title": "208. Telegram From the White House to the Embassy in Germany",
+   "date": "1968-11-18",
+   "subject": "",
+   "word_count": 146,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d208.txt"
+  },
+  {
+   "n": 209,
+   "id": "d209",
+   "title": "209. Message From the Embassy in Germany to the White House",
+   "date": "1968-11-18",
+   "subject": "",
+   "word_count": 336,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d209.txt"
+  },
+  {
+   "n": 210,
+   "id": "d210",
+   "title": "210. Telegram From President Johnson to Prime Minister Wilson",
+   "date": "1968-11-18",
+   "subject": "",
+   "word_count": 156,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d210.txt"
+  },
+  {
+   "n": 211,
+   "id": "d211",
+   "title": "211. Telegram From Prime Minister Wilson to President Johnson",
+   "date": "1968-11-19",
+   "subject": "",
+   "word_count": 0,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d211.txt"
+  },
+  {
+   "n": 212,
+   "id": "d212",
+   "title": "212. Telegram From Prime Minister Wilson to President Johnson",
+   "date": "1968-11-19",
+   "subject": "",
+   "word_count": 0,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d212.txt"
+  },
+  {
+   "n": 213,
+   "id": "d213",
+   "title": "213. Telegram From the President's Special Assistant (Rostow) to President Johnson, in New York",
+   "date": "1968-11-19",
+   "subject": "",
+   "word_count": 221,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d213.txt"
+  },
+  {
+   "n": 214,
+   "id": "d214",
+   "title": "214. Telegram From the Embassy in Germany to the White House",
+   "date": "1968-11-20",
+   "subject": "",
+   "word_count": 2777,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d214.txt"
+  },
+  {
+   "n": 215,
+   "id": "d215",
+   "title": "215. Telegram From the Embassy in Germany to the White House",
+   "date": "1968-11-21",
+   "subject": "",
+   "word_count": 230,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d215.txt"
+  },
+  {
+   "n": 216,
+   "id": "d216",
+   "title": "216. Telegram From the Embassy in Germany to the White House",
+   "date": "1968-11-21",
+   "subject": "",
+   "word_count": 1921,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d216.txt"
+  },
+  {
+   "n": 217,
+   "id": "d217",
+   "title": "217. Telegram From the Embassy in Germany to the White House",
+   "date": "1968-11-21",
+   "subject": "",
+   "word_count": 502,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d217.txt"
+  },
+  {
+   "n": 218,
+   "id": "d218",
+   "title": "218. Telegram From the Embassy in Germany to the White House",
+   "date": "1968-11-21",
+   "subject": "",
+   "word_count": 1105,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d218.txt"
+  },
+  {
+   "n": 219,
+   "id": "d219",
+   "title": "219. Telegram From the Embassy in Germany to the White House",
+   "date": "1968-11-22",
+   "subject": "",
+   "word_count": 237,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d219.txt"
+  },
+  {
+   "n": 220,
+   "id": "d220",
+   "title": "220. Paper by the President's Special Assistant (Rostow)",
+   "date": "1968-11-22",
+   "subject": "",
+   "word_count": 199,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d220.txt"
+  },
+  {
+   "n": 221,
+   "id": "d221",
+   "title": "221. Memorandum for the Record",
+   "date": "1968-11-23",
+   "subject": "",
+   "word_count": 1753,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d221.txt"
+  },
+  {
+   "n": 222,
+   "id": "d222",
+   "title": "222. Record of Meeting of the National Security Council",
+   "date": "1968-11-25",
+   "subject": "",
+   "word_count": 1817,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d222.txt"
+  },
+  {
+   "n": 223,
+   "id": "d223",
+   "title": "223. Message From the British Chancellor of the Exchequer (Jenkins) to Secretary of the Treasury Fowler",
+   "date": "1968-12-09",
+   "subject": "",
+   "word_count": 334,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d223.txt"
+  },
+  {
+   "n": 224,
+   "id": "d224",
+   "title": "224. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 233,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d224.txt"
+  },
+  {
+   "n": 225,
+   "id": "d225",
+   "title": "225. Letter From Secretary of Commerce Hodges to Secretary of State Rusk",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 369,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d225.txt"
+  },
+  {
+   "n": 226,
+   "id": "d226",
+   "title": "226. Memorandum From the Special Representative for Trade Negotiations (Herter) to Secretary of Agriculture Freeman and the Under Secretary of State (Ball)",
+   "date": "1964-02-06",
+   "subject": "",
+   "word_count": 1083,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d226.txt"
+  },
+  {
+   "n": 227,
+   "id": "d227",
+   "title": "227. Memorandum From Secretary of Agriculture Freeman to the President's Special Assistant for National Security Affairs (Bundy)",
+   "date": "1964-02-14",
+   "subject": "",
+   "word_count": 721,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d227.txt"
+  },
+  {
+   "n": 228,
+   "id": "d228",
+   "title": "228. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1964-02-18",
+   "subject": "",
+   "word_count": 188,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d228.txt"
+  },
+  {
+   "n": 229,
+   "id": "d229",
+   "title": "229. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 253,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d229.txt"
+  },
+  {
+   "n": 230,
+   "id": "d230",
+   "title": "230. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1964-03-20",
+   "subject": "",
+   "word_count": 292,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d230.txt"
+  },
+  {
+   "n": 231,
+   "id": "d231",
+   "title": "231. Memorandum From the Special Representative for Trade Negotiations (Herter) to President Johnson",
+   "date": "1964-03-25",
+   "subject": "",
+   "word_count": 782,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d231.txt"
+  },
+  {
+   "n": 232,
+   "id": "d232",
+   "title": "232. Minutes of Meeting of the Cabinet Committee on Export Expansion",
+   "date": "1964-04-07",
+   "subject": "",
+   "word_count": 2249,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d232.txt"
+  },
+  {
+   "n": 233,
+   "id": "d233",
+   "title": "233. Letter From the Special Representative for Trade Negotiations (Herter) to Secretary of State Rusk",
+   "date": "1964-04-08",
+   "subject": "",
+   "word_count": 605,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d233.txt"
+  },
+  {
+   "n": 234,
+   "id": "d234",
+   "title": "234. Memorandum From the Assistant General Counsel, Office of the Special Representative for Trade Negotiations (Hudec) to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1964-04-13",
+   "subject": "April 11 Meeting on Antidumping Policy",
+   "word_count": 628,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d234.txt"
+  },
+  {
+   "n": 235,
+   "id": "d235",
+   "title": "235. Circular Telegram From the Department of State to Certain Posts",
+   "date": "1964-04-22",
+   "subject": "",
+   "word_count": 482,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d235.txt"
+  },
+  {
+   "n": 236,
+   "id": "d236",
+   "title": "236. Memorandum From the Special Representative for Trade Negotiations (Herter) to President Johnson",
+   "date": "1964-04-29",
+   "subject": "Adoption of 50% Linear Rule in May 4 GATT Meeting",
+   "word_count": 1032,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d236.txt"
+  },
+  {
+   "n": 237,
+   "id": "d237",
+   "title": "237. Memorandum From the Special Representative for Trade Negotiations (Herter) to President Johnson",
+   "date": "1964-06-02",
+   "subject": "",
+   "word_count": 271,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d237.txt"
+  },
+  {
+   "n": 238,
+   "id": "d238",
+   "title": "238. Memorandum From Francis M. Bator of the National Security Council Staff to the President's Special Assistant for National Security Affairs (Bundy)",
+   "date": "1964-06-08",
+   "subject": "",
+   "word_count": 392,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d238.txt"
+  },
+  {
+   "n": 239,
+   "id": "d239",
+   "title": "239. Summary of Discussion",
+   "date": "1964-06-13",
+   "subject": "",
+   "word_count": 371,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d239.txt"
+  },
+  {
+   "n": 240,
+   "id": "d240",
+   "title": "240. Letter From Secretary of Commerce Hodges to Secretary of State Rusk",
+   "date": "1964-06-16",
+   "subject": "",
+   "word_count": 524,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d240.txt"
+  },
+  {
+   "n": 241,
+   "id": "d241",
+   "title": "241. Letter From President Johnson to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1964-07-10",
+   "subject": "",
+   "word_count": 137,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d241.txt"
+  },
+  {
+   "n": 242,
+   "id": "d242",
+   "title": "242. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1964-07-14",
+   "subject": "",
+   "word_count": 673,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d242.txt"
+  },
+  {
+   "n": 243,
+   "id": "d243",
+   "title": "243. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1964-07-14",
+   "subject": "",
+   "word_count": 1066,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d243.txt"
+  },
+  {
+   "n": 244,
+   "id": "d244",
+   "title": "244. Telegram From the Department of State to the Mission to the European Communities",
+   "date": "1964-07-21",
+   "subject": "",
+   "word_count": 332,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d244.txt"
+  },
+  {
+   "n": 245,
+   "id": "d245",
+   "title": "245. Circular Telegram From the Department of State to Certain Posts",
+   "date": "1964-08-03",
+   "subject": "",
+   "word_count": 341,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d245.txt"
+  },
+  {
+   "n": 246,
+   "id": "d246",
+   "title": "246. Letter From Secretary of Commerce Hodges to President Johnson",
+   "date": "1964-08-10",
+   "subject": "",
+   "word_count": 183,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d246.txt"
+  },
+  {
+   "n": 247,
+   "id": "d247",
+   "title": "247. Letter From Secretary of Commerce Hodges to Secretary of State Rusk",
+   "date": "1964-08-21",
+   "subject": "",
+   "word_count": 614,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d247.txt"
+  },
+  {
+   "n": 248,
+   "id": "d248",
+   "title": "248. Memorandum From the Assistant Director for Legislative Reference, Bureau of the Budget (Hughes) to President Johnson",
+   "date": "1964-08-21",
+   "subject": "Enrolled Bill H.R. 1839-Free importation of certain wild animals and birds and imposition of quotas on the importation of certain meats; Sponsor-Rep. Teague (R) California",
+   "word_count": 458,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d248.txt"
+  },
+  {
+   "n": 249,
+   "id": "d249",
+   "title": "249. Memorandum From the Special Representative for Trade Negotiations (Herter) and the Under Secretary of State (Ball) to President Johnson",
+   "date": "1964-08-25",
+   "subject": "",
+   "word_count": 167,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d249.txt"
+  },
+  {
+   "n": 250,
+   "id": "d250",
+   "title": "250. Message From Secretary of State Rusk and the Under Secretary of State (Ball) to President Johnson, in Texas",
+   "date": "1964-09-26",
+   "subject": "",
+   "word_count": 970,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d250.txt"
+  },
+  {
+   "n": 251,
+   "id": "d251",
+   "title": "251. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1964-10-10",
+   "subject": "",
+   "word_count": 504,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d251.txt"
+  },
+  {
+   "n": 252,
+   "id": "d252",
+   "title": "252. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1964-10-10",
+   "subject": "",
+   "word_count": 887,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d252.txt"
+  },
+  {
+   "n": 253,
+   "id": "d253",
+   "title": "253. Letter From the Special Representative for Trade Negotiations (Herter) to Secretary of the Treasury Dillon",
+   "date": "1964-10-26",
+   "subject": "",
+   "word_count": 296,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d253.txt"
+  },
+  {
+   "n": 254,
+   "id": "d254",
+   "title": "254. Memorandum of Conversation",
+   "date": "1964-10-27",
+   "subject": "Agricultural Rules for the Kennedy Round",
+   "word_count": 847,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d254.txt"
+  },
+  {
+   "n": 255,
+   "id": "d255",
+   "title": "255. Memorandum of Conversation",
+   "date": "1964-10-28",
+   "subject": "Agricultural Rules for the Kennedy Round",
+   "word_count": 799,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d255.txt"
+  },
+  {
+   "n": 256,
+   "id": "d256",
+   "title": "256. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 190,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d256.txt"
+  },
+  {
+   "n": 257,
+   "id": "d257",
+   "title": "257. Letter From Secretary of the Treasury Dillon to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1964-10-30",
+   "subject": "",
+   "word_count": 352,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d257.txt"
+  },
+  {
+   "n": 258,
+   "id": "d258",
+   "title": "258. Letter From Secretary of Commerce Hodges to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1964-10-30",
+   "subject": "",
+   "word_count": 729,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d258.txt"
+  },
+  {
+   "n": 259,
+   "id": "d259",
+   "title": "259. Letter From the Secretary of Commerce's Deputy for Textile Programs (Love) to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1964-11-02",
+   "subject": "",
+   "word_count": 1017,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d259.txt"
+  },
+  {
+   "n": 260,
+   "id": "d260",
+   "title": "260. Circular Telegram From the Department of State to Certain Posts",
+   "date": "1964-11-02",
+   "subject": "",
+   "word_count": 265,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d260.txt"
+  },
+  {
+   "n": 261,
+   "id": "d261",
+   "title": "261. Telegram From the Mission to the European Communities to the Department of State",
+   "date": "1964-11-03",
+   "subject": "",
+   "word_count": 655,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d261.txt"
+  },
+  {
+   "n": 262,
+   "id": "d262",
+   "title": "262. Memorandum From the Special Representative for Trade Negotiations (Herter) to President Johnson",
+   "date": "1964-11-09",
+   "subject": "Authority to Offer Tariff Concessions in the Kennedy Round",
+   "word_count": 583,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d262.txt"
+  },
+  {
+   "n": 263,
+   "id": "d263",
+   "title": "263. Memorandum of Telephone Conversation",
+   "date": "1964-11-11",
+   "subject": "",
+   "word_count": 307,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d263.txt"
+  },
+  {
+   "n": 264,
+   "id": "d264",
+   "title": "264. Memorandum of Conversation",
+   "date": "1964-11-13",
+   "subject": "",
+   "word_count": 334,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d264.txt"
+  },
+  {
+   "n": 265,
+   "id": "d265",
+   "title": "265. Memorandum From the Agricultural Trade Representative, Office of the Special Representative for Trade Negotiations (Hedges) to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1964-11-19",
+   "subject": "U.S. attitude toward grain price unification",
+   "word_count": 477,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d265.txt"
+  },
+  {
+   "n": 266,
+   "id": "d266",
+   "title": "266. Letter From Secretary of the Treasury Dillon to Secretary of Commerce Hodges",
+   "date": "1964-12-04",
+   "subject": "",
+   "word_count": 88,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d266.txt"
+  },
+  {
+   "n": 267,
+   "id": "d267",
+   "title": "267. Memorandum From the President's Special Assistant for National Security Affairs (Bundy) to President Johnson",
+   "date": "1964-12-09",
+   "subject": "Wool Textiles",
+   "word_count": 183,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d267.txt"
+  },
+  {
+   "n": 268,
+   "id": "d268",
+   "title": "268. Memorandum From the President's Special Assistant for National Security Affairs (Bundy) and Francis M. Bator of the National Security Council Staff to President Johnson",
+   "date": "1964-12-16",
+   "subject": "European Agricultural Deal",
+   "word_count": 967,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d268.txt"
+  },
+  {
+   "n": 269,
+   "id": "d269",
+   "title": "269. Letter From Secretary of Commerce Hodges to President Johnson",
+   "date": "1964-12-18",
+   "subject": "",
+   "word_count": 358,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d269.txt"
+  },
+  {
+   "n": 270,
+   "id": "d270",
+   "title": "270. Letter From the Special Representative for Trade Negotiations (Herter) to Jean Rey, Member of the Commission of the European Economic Community",
+   "date": "1964-12-21",
+   "subject": "",
+   "word_count": 446,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d270.txt"
+  },
+  {
+   "n": 271,
+   "id": "d271",
+   "title": "271. Draft Circular Telegram From the Department of State to Certain Posts",
+   "date": "1965-01-21",
+   "subject": "Visit of Vice-Minister Ohsawa of the Japanese Ministry of Agriculture-Agriculture and the Kennedy Round",
+   "word_count": 1015,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d271.txt"
+  },
+  {
+   "n": 272,
+   "id": "d272",
+   "title": "272. Memorandum From the Special Representative for Trade Negotiations (Herter) to President Johnson",
+   "date": "1965-01-19",
+   "subject": "Agriculture in the Kennedy Round",
+   "word_count": 770,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d272.txt"
+  },
+  {
+   "n": 273,
+   "id": "d273",
+   "title": "273. Letter From President Johnson to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1965-01-21",
+   "subject": "",
+   "word_count": 118,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d273.txt"
+  },
+  {
+   "n": 274,
+   "id": "d274",
+   "title": "274. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 198,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d274.txt"
+  },
+  {
+   "n": 275,
+   "id": "d275",
+   "title": "275. Memorandum From the Deputy Special Representative for Trade Negotiations (Roth) to the President's Special Assistant for National Security Affairs (Bundy)",
+   "date": "1965-02-09",
+   "subject": "",
+   "word_count": 165,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d275.txt"
+  },
+  {
+   "n": 276,
+   "id": "d276",
+   "title": "276. Memorandum of Conversation",
+   "date": "1965-02-09",
+   "subject": "",
+   "word_count": 1698,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d276.txt"
+  },
+  {
+   "n": 277,
+   "id": "d277",
+   "title": "277. Airgram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1965-02-21",
+   "subject": "Confrontation of the EEC Exceptions Submission",
+   "word_count": 1184,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d277.txt"
+  },
+  {
+   "n": 278,
+   "id": "d278",
+   "title": "278. Letter From the Special Representative for Trade Negotiations' Executive Assistant (Auchincloss) to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1965-03-08",
+   "subject": "",
+   "word_count": 1525,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d278.txt"
+  },
+  {
+   "n": 279,
+   "id": "d279",
+   "title": "279. Letter From the Special Representative for Trade Negotiations' Executive Assistant (Auchincloss) to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1965-03-23",
+   "subject": "",
+   "word_count": 545,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d279.txt"
+  },
+  {
+   "n": 280,
+   "id": "d280",
+   "title": "280. Memorandum of Conversation",
+   "date": "1965-03-29",
+   "subject": "",
+   "word_count": 1214,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d280.txt"
+  },
+  {
+   "n": 281,
+   "id": "d281",
+   "title": "281. Letter From the Special Representative for Trade Negotiations' Executive Assistant (Auchincloss) to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1965-04-07",
+   "subject": "",
+   "word_count": 664,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d281.txt"
+  },
+  {
+   "n": 282,
+   "id": "d282",
+   "title": "282. Letter From the Special Representative for Trade Negotiations' Executive Assistant (Auchincloss) to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1965-04-14",
+   "subject": "",
+   "word_count": 438,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d282.txt"
+  },
+  {
+   "n": 283,
+   "id": "d283",
+   "title": "283. Letter From the Special Representative for Trade Negotiations' Executive Assistant (Auchincloss) to the Special Representative for Trade Negotiations (Herter)",
+   "date": "1965-05-04",
+   "subject": "",
+   "word_count": 657,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d283.txt"
+  },
+  {
+   "n": 284,
+   "id": "d284",
+   "title": "284. Memorandum From the Deputy Assistant Secretary of State for European Affairs (Schaetzel) to the Deputy Director of the Office of Atlantic Political-Economic Affairs (Percival)",
+   "date": "1965-07-07",
+   "subject": "Agriculture in the Kennedy Round",
+   "word_count": 281,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d284.txt"
+  },
+  {
+   "n": 285,
+   "id": "d285",
+   "title": "285. Record of Meeting",
+   "date": "1965-07-08",
+   "subject": "",
+   "word_count": 1210,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d285.txt"
+  },
+  {
+   "n": 286,
+   "id": "d286",
+   "title": "286. Airgram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1965-07-18",
+   "subject": "Report No. 19-U.S. Delegation to Sixth Round of GATT Trade Negotiations",
+   "word_count": 1973,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d286.txt"
+  },
+  {
+   "n": 287,
+   "id": "d287",
+   "title": "287. Letter From the Special Representative for Trade Negotiations (Herter) to the President's Special Assistant for National Security Affairs (Bundy)",
+   "date": "1965-07-20",
+   "subject": "",
+   "word_count": 300,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d287.txt"
+  },
+  {
+   "n": 288,
+   "id": "d288",
+   "title": "288. Memorandum From Secretary of Agriculture Freeman to President Johnson",
+   "date": "1965-08-09",
+   "subject": "Agriculture in the Kennedy Round",
+   "word_count": 1154,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d288.txt"
+  },
+  {
+   "n": 289,
+   "id": "d289",
+   "title": "289. Memorandum From the Special Representative for Trade Negotiations (Herter) to President Johnson",
+   "date": "1965-08-09",
+   "subject": "Agriculture in the Kennedy Round",
+   "word_count": 1127,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d289.txt"
+  },
+  {
+   "n": 290,
+   "id": "d290",
+   "title": "290. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1965-08-10",
+   "subject": "Agriculture in the Kennedy Round",
+   "word_count": 475,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d290.txt"
+  },
+  {
+   "n": 291,
+   "id": "d291",
+   "title": "291. Memorandum by John J. McCloy",
+   "date": "1965-08-27",
+   "subject": "",
+   "word_count": 666,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d291.txt"
+  },
+  {
+   "n": 292,
+   "id": "d292",
+   "title": "292. Memorandum From the Special Representative for Trade Negotiations (Herter) to President Johnson",
+   "date": "1965-09-10",
+   "subject": "Agricultural Offers in the Kennedy Round",
+   "word_count": 580,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d292.txt"
+  },
+  {
+   "n": 293,
+   "id": "d293",
+   "title": "293. Memorandum From Attorney General Katzenbach to President Johnson",
+   "date": "1965-09-23",
+   "subject": "",
+   "word_count": 1155,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d293.txt"
+  },
+  {
+   "n": 294,
+   "id": "d294",
+   "title": "294. Memorandum From Secretary of Commerce Connor to President Johnson",
+   "date": "1965-09-29",
+   "subject": "Economy Automobiles",
+   "word_count": 110,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d294.txt"
+  },
+  {
+   "n": 295,
+   "id": "d295",
+   "title": "295. Memorandum From the Acting Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1965-10-05",
+   "subject": "Tariff Commission Study of American Selling Price System of Customs Valuation",
+   "word_count": 1807,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d295.txt"
+  },
+  {
+   "n": 296,
+   "id": "d296",
+   "title": "296. Memorandum From Secretary of Commerce Connor to President Johnson",
+   "date": "1965-10-25",
+   "subject": "Weekly Briefing Report",
+   "word_count": 211,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d296.txt"
+  },
+  {
+   "n": 297,
+   "id": "d297",
+   "title": "297. Memorandum of Conversation",
+   "date": "1965-11-09",
+   "subject": "",
+   "word_count": 3717,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d297.txt"
+  },
+  {
+   "n": 298,
+   "id": "d298",
+   "title": "298. Memorandum From the National Export Expansion Coordinator (Goldy) to Secretary of Commerce Connor",
+   "date": "1965-11-10",
+   "subject": "Analysis of Trade Account-1965",
+   "word_count": 3179,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d298.txt"
+  },
+  {
+   "n": 299,
+   "id": "d299",
+   "title": "299. Letter From the Special Representative for Trade Negotiations (Herter) to Secretary of the Treasury Fowler",
+   "date": "1965-11-17",
+   "subject": "",
+   "word_count": 1170,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d299.txt"
+  },
+  {
+   "n": 300,
+   "id": "d300",
+   "title": "300. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1965-12-07",
+   "subject": "A Tariff Problem",
+   "word_count": 523,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d300.txt"
+  },
+  {
+   "n": 301,
+   "id": "d301",
+   "title": "301. Memorandum of Conversation",
+   "date": "1965-12-15",
+   "subject": "Kennedy Round discussions regarding antidumping",
+   "word_count": 925,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d301.txt"
+  },
+  {
+   "n": 302,
+   "id": "d302",
+   "title": "302. Letter From Director-General of the General Agreement on Tariffs and Trade Wyndham White to Participating Governments in the Kennedy Round",
+   "date": "1966-01-03",
+   "subject": "",
+   "word_count": 5352,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d302.txt"
+  },
+  {
+   "n": 303,
+   "id": "d303",
+   "title": "303. Airgram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1966-01-06",
+   "subject": "ExOff-GATT Director General's Report of Kennedy RoundAttachment to Document 302.",
+   "word_count": 2325,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d303.txt"
+  },
+  {
+   "n": 304,
+   "id": "d304",
+   "title": "304. Memorandum of Conversation Between U.S. and EEC Officials",
+   "date": "1966-01-11",
+   "subject": "The Kennedy Round",
+   "word_count": 3394,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d304.txt"
+  },
+  {
+   "n": 305,
+   "id": "d305",
+   "title": "305. Memorandum From the Acting Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1966-02-04",
+   "subject": "Definite Acceptance of the GATT",
+   "word_count": 773,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d305.txt"
+  },
+  {
+   "n": 306,
+   "id": "d306",
+   "title": "306. Airgram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1966-02-17",
+   "subject": "Comments on EEC Commission's Report on KR",
+   "word_count": 3310,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d306.txt"
+  },
+  {
+   "n": 307,
+   "id": "d307",
+   "title": "307. Acceptance of the General Agreement on Tariffs and Trade by the United States",
+   "date": "1966-02-18",
+   "subject": "",
+   "word_count": 115,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d307.txt"
+  },
+  {
+   "n": 308,
+   "id": "d308",
+   "title": "308. Report by the Chairman of the Trade Negotiations Committee (Wyndham White) to the 23d Session of the GATT Contracting Parties",
+   "date": "1966-03-30",
+   "subject": "",
+   "word_count": 1676,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d308.txt"
+  },
+  {
+   "n": 309,
+   "id": "d309",
+   "title": "309. Letter From the Special Representative for Trade Negotiations (Herter) to Secretary of the Treasury Fowler",
+   "date": "1966-04-01",
+   "subject": "",
+   "word_count": 1118,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d309.txt"
+  },
+  {
+   "n": 310,
+   "id": "d310",
+   "title": "310. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 207,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d310.txt"
+  },
+  {
+   "n": 311,
+   "id": "d311",
+   "title": "311. Telegram From the Embassy in Belgium to the Department of State",
+   "date": "1966-07-01",
+   "subject": "",
+   "word_count": 437,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d311.txt"
+  },
+  {
+   "n": 312,
+   "id": "d312",
+   "title": "312. Airgram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1966-07-10",
+   "subject": "RTS Negotiations with Japan",
+   "word_count": 518,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d312.txt"
+  },
+  {
+   "n": 313,
+   "id": "d313",
+   "title": "313. Final Report by the United States",
+   "date": "1966-07-09",
+   "subject": "",
+   "word_count": 328,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d313.txt"
+  },
+  {
+   "n": 314,
+   "id": "d314",
+   "title": "314. Current Economic Developments",
+   "date": "1966-07-19",
+   "subject": "",
+   "word_count": 1067,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d314.txt"
+  },
+  {
+   "n": 315,
+   "id": "d315",
+   "title": "315. Memorandum From Secretary of Agriculture Freeman to President Johnson",
+   "date": "1966-08-01",
+   "subject": "Kennedy Round Negotiations-Tabling Offers, Agriculture Department exception",
+   "word_count": 1099,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d315.txt"
+  },
+  {
+   "n": 316,
+   "id": "d316",
+   "title": "316. Memorandum From the Acting Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1966-08-02",
+   "subject": "Kennedy Round Agricultural Offers",
+   "word_count": 1468,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d316.txt"
+  },
+  {
+   "n": 317,
+   "id": "d317",
+   "title": "317. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1966-08-02",
+   "subject": "Another Tactical Decision on the Kennedy Round",
+   "word_count": 833,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d317.txt"
+  },
+  {
+   "n": 318,
+   "id": "d318",
+   "title": "318. Memorandum From the Under Secretary of State (Ball) to President Johnson",
+   "date": "1966-08-15",
+   "subject": "Trade Policy-A Proposed Strategy for the United States",
+   "word_count": 1452,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d318.txt"
+  },
+  {
+   "n": 319,
+   "id": "d319",
+   "title": "319. Memorandum From the Acting Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1966-08-19",
+   "subject": "New Trade Legislation",
+   "word_count": 419,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d319.txt"
+  },
+  {
+   "n": 320,
+   "id": "d320",
+   "title": "320. Statement by the Deputy Special Representative for Trade Negotiations (Blumenthal)",
+   "date": "1966-09-14",
+   "subject": "",
+   "word_count": 1994,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d320.txt"
+  },
+  {
+   "n": 321,
+   "id": "d321",
+   "title": "321. Memorandum of Conversation",
+   "date": "1966-09-20",
+   "subject": "U.S. Fruit Export Problems: Kennedy Round and Country Problems",
+   "word_count": 1704,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d321.txt"
+  },
+  {
+   "n": 322,
+   "id": "d322",
+   "title": "322. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1966-09-23",
+   "subject": "",
+   "word_count": 379,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d322.txt"
+  },
+  {
+   "n": 323,
+   "id": "d323",
+   "title": "323. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 255,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d323.txt"
+  },
+  {
+   "n": 324,
+   "id": "d324",
+   "title": "324. Letter From Thirteen Senators to President Johnson",
+   "date": "1966-10-03",
+   "subject": "",
+   "word_count": 383,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d324.txt"
+  },
+  {
+   "n": 325,
+   "id": "d325",
+   "title": "325. Circular Airgram From the Department of State to Certain Posts",
+   "date": "1966-10-12",
+   "subject": "Statements US Farm Groups-Kennedy Round",
+   "word_count": 205,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d325.txt"
+  },
+  {
+   "n": 326,
+   "id": "d326",
+   "title": "326. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1966-12-05",
+   "subject": "",
+   "word_count": 443,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d326.txt"
+  },
+  {
+   "n": 327,
+   "id": "d327",
+   "title": "327. Letter From Secretary of Commerce Connor to President Johnson",
+   "date": "1966-12-05",
+   "subject": "",
+   "word_count": 1066,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d327.txt"
+  },
+  {
+   "n": 328,
+   "id": "d328",
+   "title": "328. Telgram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1966-12-19",
+   "subject": "",
+   "word_count": 573,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d328.txt"
+  },
+  {
+   "n": 329,
+   "id": "d329",
+   "title": "329. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-01-03",
+   "subject": "Replacement for Governor Herter",
+   "word_count": 481,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d329.txt"
+  },
+  {
+   "n": 330,
+   "id": "d330",
+   "title": "330. Memorandum From Secretary of State Rusk to President Johnson",
+   "date": "1967-02-11",
+   "subject": "A New Trade Policy for the United States",
+   "word_count": 928,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d330.txt"
+  },
+  {
+   "n": 331,
+   "id": "d331",
+   "title": "331. Memorandum From the Acting Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1967-02-13",
+   "subject": "Supplemental Authority to Offer Tariff Concessions in the Kennedy Round",
+   "word_count": 979,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d331.txt"
+  },
+  {
+   "n": 332,
+   "id": "d332",
+   "title": "332. Memorandum From the Acting Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1967-02-15",
+   "subject": "American Selling Price System of Customs Valuation",
+   "word_count": 1808,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d332.txt"
+  },
+  {
+   "n": 333,
+   "id": "d333",
+   "title": "333. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-03-08",
+   "subject": "Trade Policy",
+   "word_count": 547,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d333.txt"
+  },
+  {
+   "n": 334,
+   "id": "d334",
+   "title": "334. Memorandum From the Acting Special Representative for Trade Negotiations (Roth) to the President's Deputy Special Assistant for National Security Affairs (Bator)",
+   "date": "1967-03-13",
+   "subject": "Kennedy Round: Supplemental U.S. Offers",
+   "word_count": 867,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d334.txt"
+  },
+  {
+   "n": 335,
+   "id": "d335",
+   "title": "335. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-04-18",
+   "subject": "Management of Last Minute Strategy in the Kennedy Round",
+   "word_count": 325,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d335.txt"
+  },
+  {
+   "n": 336,
+   "id": "d336",
+   "title": "336. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to the Executive Secretary of the National Security Council (Smith)",
+   "date": "1967-04-19",
+   "subject": "",
+   "word_count": 135,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d336.txt"
+  },
+  {
+   "n": 337,
+   "id": "d337",
+   "title": "337. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1967-04-20",
+   "subject": "",
+   "word_count": 718,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d337.txt"
+  },
+  {
+   "n": 338,
+   "id": "d338",
+   "title": "338. Telegram From the Department of State to the European Office of the United Nations",
+   "date": "1967-04-21",
+   "subject": "",
+   "word_count": 789,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d338.txt"
+  },
+  {
+   "n": 339,
+   "id": "d339",
+   "title": "339. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1967-04-24",
+   "subject": "",
+   "word_count": 995,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d339.txt"
+  },
+  {
+   "n": 340,
+   "id": "d340",
+   "title": "340. Telegram From the President's Deputy Special Assistant for National Security Affairs (Bator) to the President's Special Assistant (Rostow), in Bonn",
+   "date": "1967-04-24",
+   "subject": "",
+   "word_count": 537,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d340.txt"
+  },
+  {
+   "n": 341,
+   "id": "d341",
+   "title": "341. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1967-04-25",
+   "subject": "",
+   "word_count": 890,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d341.txt"
+  },
+  {
+   "n": 342,
+   "id": "d342",
+   "title": "342. Telegram From the President's Deputy Special Assistant for National Security Affairs (Bator) to the Special Representative for Trade Negotiations (Roth)",
+   "date": "1967-04-25",
+   "subject": "",
+   "word_count": 309,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d342.txt"
+  },
+  {
+   "n": 343,
+   "id": "d343",
+   "title": "343. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1967-04-26",
+   "subject": "",
+   "word_count": 620,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d343.txt"
+  },
+  {
+   "n": 344,
+   "id": "d344",
+   "title": "344. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-04-28",
+   "subject": "Scheduling Kennedy Round Decisions",
+   "word_count": 654,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d344.txt"
+  },
+  {
+   "n": 345,
+   "id": "d345",
+   "title": "345. Memorandum From the Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1967-05-01",
+   "subject": "",
+   "word_count": 996,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d345.txt"
+  },
+  {
+   "n": 346,
+   "id": "d346",
+   "title": "346. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-05-01",
+   "subject": "Meeting Tomorrow on Kennedy Round (Bill Roth, Mike Blumenthal, Bator-11:30 a.m., Tuesday, May 2)The President met with Roth, Blumenthal, and Bator on May 2 at 11:47 a.m. (ibid., President's Daily Diary), but no record of this meeting has been found.",
+   "word_count": 576,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d346.txt"
+  },
+  {
+   "n": 347,
+   "id": "d347",
+   "title": "347. Memorandum From the Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1967-05-02",
+   "subject": "Supplemental Authority to Offer Tariff Concessions in the Kennedy Round",
+   "word_count": 1344,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d347.txt"
+  },
+  {
+   "n": 348,
+   "id": "d348",
+   "title": "348. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 296,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d348.txt"
+  },
+  {
+   "n": 349,
+   "id": "d349",
+   "title": "349. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1967-05-09",
+   "subject": "",
+   "word_count": 637,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d349.txt"
+  },
+  {
+   "n": 350,
+   "id": "d350",
+   "title": "350. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1967-05-10",
+   "subject": "",
+   "word_count": 902,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d350.txt"
+  },
+  {
+   "n": 351,
+   "id": "d351",
+   "title": "351. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-05-10",
+   "subject": "Your meeting tomorrow on the Kennedy Round (11:15 AM): Vice President; Rusk, Eugene Rostow, Solomon; Freeman; Wirtz; Trowbridge; John Rehm (for Bill Roth); Bator",
+   "word_count": 1448,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d351.txt"
+  },
+  {
+   "n": 352,
+   "id": "d352",
+   "title": "352. Memorandum of Telephone Conversation",
+   "date": "1967-05-11",
+   "subject": "",
+   "word_count": 757,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d352.txt"
+  },
+  {
+   "n": 353,
+   "id": "d353",
+   "title": "353. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-05-11",
+   "subject": "Procedure for Kennedy Round Wrap-up",
+   "word_count": 597,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d353.txt"
+  },
+  {
+   "n": 354,
+   "id": "d354",
+   "title": "354. Memorandum for the Record",
+   "date": "1967-05-13",
+   "subject": "Kennedy Round Situation Report, May 13, 1967",
+   "word_count": 199,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d354.txt"
+  },
+  {
+   "n": 355,
+   "id": "d355",
+   "title": "355. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1967-05-14",
+   "subject": "",
+   "word_count": 461,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d355.txt"
+  },
+  {
+   "n": 356,
+   "id": "d356",
+   "title": "356. Telegram From the Embassy in Japan to the Department of State",
+   "date": "1967-05-14",
+   "subject": "",
+   "word_count": 448,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d356.txt"
+  },
+  {
+   "n": 357,
+   "id": "d357",
+   "title": "357. Telegram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1967-05-15",
+   "subject": "",
+   "word_count": 570,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d357.txt"
+  },
+  {
+   "n": 358,
+   "id": "d358",
+   "title": "358. Telegram From the Department of State to the Mission of the European Office of the United Nations",
+   "date": "1967-05-15",
+   "subject": "",
+   "word_count": 50,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d358.txt"
+  },
+  {
+   "n": 359,
+   "id": "d359",
+   "title": "359. Telegram From the Mission in Geneva to the White House",
+   "date": "1967-05-16",
+   "subject": "",
+   "word_count": 162,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d359.txt"
+  },
+  {
+   "n": 360,
+   "id": "d360",
+   "title": "360. Memorandum From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-05-14",
+   "subject": "Talking Points on Kennedy Round for Leadership Breakfast (Tuesday, May 16, 1967)According to the President's Daily Diary, this meeting took place in the second floor dining room of the White House on May 16, from about 8:30 to 10:20 a.m. It was attended by the President, Vice President Humphrey, Senators Mansfield, Byrd, and Long, Speaker McCormack, Congressmen Albert, Boggs, and Mills, Postmaster General O'Brien, Harold Saunders, Mike Manatos, Bator, and Califano. Bator briefed those present on the Kennedy Round beginning at 9:15 a.m. A footnote following Mills' name reads: \"Cong. Mills was invited at Francis Bator's suggestion-The President tried to call him and thank him last night re Kennedy Round legislation and could not reach him. Bator says, 'Mills played a key role in the birth of the Trade Expansion Act, and he will be a key figure in the chemicals legislation we will need.'\" (Ibid., President's Daily Diary)",
+   "word_count": 761,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d360.txt"
+  },
+  {
+   "n": 361,
+   "id": "d361",
+   "title": "361. Memorandum From the Under Secretary of State for Political Affairs' Special Assistant (Enders) to Secretary of State Rusk",
+   "date": "1967-05-16",
+   "subject": "Kennedy Round Briefing at the Capitol, Room S-126, 9:30 A.M. and 10:30 A.M.",
+   "word_count": 1464,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d361.txt"
+  },
+  {
+   "n": 362,
+   "id": "d362",
+   "title": "362. Report on the Congressional Briefings",
+   "date": "1967-05-16",
+   "subject": "",
+   "word_count": 1417,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d362.txt"
+  },
+  {
+   "n": 363,
+   "id": "d363",
+   "title": "363. Memorandum From Acting Secretary of Commerce Trowbridge to President Johnson",
+   "date": "1967-06-07",
+   "subject": "U.S. Tariff on Raw Wool",
+   "word_count": 267,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d363.txt"
+  },
+  {
+   "n": 364,
+   "id": "d364",
+   "title": "364. Airgram From the Mission to the European Office of the United Nations to the Department of State",
+   "date": "1967-06-18",
+   "subject": "ExOff-Exchange of Letters Concerning Japan's Proposed Measures on Selected QRItems",
+   "word_count": 376,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d364.txt"
+  },
+  {
+   "n": 365,
+   "id": "d365",
+   "title": "365. Telegram From the Department of State to the Embassy in Japan",
+   "date": "1967-06-19",
+   "subject": "",
+   "word_count": 489,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d365.txt"
+  },
+  {
+   "n": 366,
+   "id": "d366",
+   "title": "366. Telegram From the Embassy in Japan to the Department of State",
+   "date": "1967-06-20",
+   "subject": "",
+   "word_count": 693,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d366.txt"
+  },
+  {
+   "n": 367,
+   "id": "d367",
+   "title": "367. Memorandum From the Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1967-06-26",
+   "subject": "Approval of Multilateral Kennedy Round Agreements",
+   "word_count": 1463,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d367.txt"
+  },
+  {
+   "n": 368,
+   "id": "d368",
+   "title": "368. Memorandum From the Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1967-06-28",
+   "subject": "Three Bilateral Agreements Concluded in Kennedy Round",
+   "word_count": 586,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d368.txt"
+  },
+  {
+   "n": 369,
+   "id": "d369",
+   "title": "369. Memorandum From the President's Deputy Special Representative for National Security Affairs (Bator) to President Johnson",
+   "date": "1967-06-28",
+   "subject": "Final Authorization to Sign the Kennedy Round Bargain",
+   "word_count": 276,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d369.txt"
+  },
+  {
+   "n": 370,
+   "id": "d370",
+   "title": "370. Telegram From the President's Deputy Special Assistant for National Security Affairs (Bator) to President Johnson, in Texas",
+   "date": "1967-06-30",
+   "subject": "",
+   "word_count": 218,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d370.txt"
+  },
+  {
+   "n": 371,
+   "id": "d371",
+   "title": "371. Memorandum From the Special Representative for Trade Negotiations (Roth) to President Johnson",
+   "date": "1967-10-09",
+   "subject": "Disposition of Four Remaining Escape-Clause Actions",
+   "word_count": 2345,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d371.txt"
+  },
+  {
+   "n": 372,
+   "id": "d372",
+   "title": "372. Memorandum From Secretary of State Rusk to President Johnson",
+   "date": "1967-10-10",
+   "subject": "Trade Policy-Protectionist Threats and Countermeasures",
+   "word_count": 856,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d372.txt"
+  },
+  {
+   "n": 373,
+   "id": "d373",
+   "title": "373. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 223,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d373.txt"
+  },
+  {
+   "n": 374,
+   "id": "d374",
+   "title": "374. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 323,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d374.txt"
+  },
+  {
+   "n": 375,
+   "id": "d375",
+   "title": "375. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 293,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d375.txt"
+  },
+  {
+   "n": 376,
+   "id": "d376",
+   "title": "376. Memorandum From the Assistant Secretary of Commerce for Domestic and International Business (McQuade) to Secretary of Commerce Trowbridge",
+   "date": "1967-12-27",
+   "subject": "Japanese Automobile Talks",
+   "word_count": 672,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d376.txt"
+  },
+  {
+   "n": 377,
+   "id": "d377",
+   "title": "377. Editorial Note",
+   "date": "1964-01-15",
+   "subject": "",
+   "word_count": 485,
+   "url": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/frus1964-68v08/docs/d377.txt"
+  }
+ ]
+}
