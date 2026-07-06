@@ -1,0 +1,35 @@
+{
+  "code": "5449000046413",
+  "assigned_category": "sodas",
+  "product_name": "Schweppes",
+  "brands": "Schweppes",
+  "quantity": "",
+  "serving_size": "1,330g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e104",
+    "en:e202",
+    "en:e300",
+    "en:e414"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "EAU GAZEIFIEE, SUCRE, JUS DE CITRON, CONSERVATEUR: E202, EMULSIFIANT: E414, ACIDIFIANT: E300, MMIES, COLORANT: E104. MISE EN BOÎTE PAR COBOMI, TECHNOPOLE BROPORT MOHAMED V-Z.I. NOUACEUR - CASABLANCA - MAROC, AUT.S/ONSSA 1:86.1.7.14, POUR LE COMPTE DE LA SOCIETE CENTRALE DES BOISSONS GAZEUSES S.A., BD AHL LOGHLAM, EX ROUTE 1015 TIT MELLIL, CASABLANCA, SCHWEPPES 1783 SONT DES MARQUES D'ATLANTIC INDUSTRIES © 2017. MAROC. SOUS L'AUTORITE DE SCHWEPPES HOLDINGS LIMITED. SCHWEPPES ET",
+  "countries_tags": [
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 19.8,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 4.4,
+    "salt_100g": 0.04,
+    "sodium_100g": 0.016,
+    "fiber_100g": 2,
+    "proteins_100g": 1,
+    "energy-kcal_serving": 0.263,
+    "sugars_serving": 0.0585,
+    "salt_serving": 0.000532
+  }
+}

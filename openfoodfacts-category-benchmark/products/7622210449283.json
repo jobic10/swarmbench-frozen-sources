@@ -1,0 +1,53 @@
+{
+  "code": "7622210449283",
+  "assigned_category": "sweet-biscuits",
+  "product_name": "Prince Goût Chocolat au blé complet",
+  "brands": "Mondelez",
+  "quantity": "300 g",
+  "serving_size": "20 g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e500",
+    "en:e503"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Céréale 50 % (Farine de blé 34,8 %, farine de blé complet 15,2 %), sucre, huiles végétales (palme, colza), cacao maigre en poudre 4,5 %, sirop de glucose, amidon de blé, poudres à lever (carbonates d'ammonium, carbonates de sodium), émulsifiant (lécithines de soja), sel, lait écrémé en poudre, perméat de lactosérum (de lait), arômes. Peut contenir œuf.",
+  "countries_tags": [
+    "en:algeria",
+    "en:belgium",
+    "en:france",
+    "en:french-polynesia",
+    "en:germany",
+    "en:guadeloupe",
+    "en:hungary",
+    "en:luxembourg",
+    "en:martinique",
+    "en:morocco",
+    "en:new-caledonia",
+    "en:reunion",
+    "en:spain",
+    "en:switzerland",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 467,
+    "fat_100g": 17,
+    "saturated-fat_100g": 5.6,
+    "sugars_100g": 32,
+    "salt_100g": 0.49,
+    "sodium_100g": 0.196,
+    "fiber_100g": 4,
+    "proteins_100g": 6.3,
+    "energy-kcal_serving": 93.4,
+    "sugars_serving": 6.4,
+    "salt_serving": 0.098
+  }
+}

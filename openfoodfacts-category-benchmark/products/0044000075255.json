@@ -1,0 +1,32 @@
+{
+  "code": "0044000075255",
+  "assigned_category": "crackers",
+  "product_name": "thin crisps sour cream & onion",
+  "brands": "Triscuit",
+  "quantity": "201 g",
+  "serving_size": "30g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk"
+  ],
+  "ingredients_text": "Whole grain wheat, canola oil, cultured cream, sea salt, sugar, onion powder, nonfat milk, dried distilled vinegar, dried parsley, natural flavor. \n\nContains: milk, wheat.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 433.333333333333,
+    "fat_100g": 15,
+    "saturated-fat_100g": 1.66666666666667,
+    "sugars_100g": 3.33333333333333,
+    "salt_100g": 1.41666666666667,
+    "sodium_100g": 0.566666666666667,
+    "fiber_100g": 10,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 130,
+    "sugars_serving": 1,
+    "salt_serving": 0.425
+  }
+}

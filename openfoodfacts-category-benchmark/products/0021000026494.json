@@ -1,0 +1,32 @@
+{
+  "code": "0021000026494",
+  "assigned_category": "mayonnaise",
+  "product_name": "Miracle Whip Dressing",
+  "brands": "Miracle Whip",
+  "quantity": "30 fl. oz (1 pt 14 fl. oz) 887 mL",
+  "serving_size": "15 g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:eggs",
+    "en:mustard",
+    "en:soybeans"
+  ],
+  "ingredients_text": "WATER, SOYBEAN OIL, HIGH FRUCTOSE CORN SYRUP, VINEGAR, MODIFIED CORNSTARCH, EGGS, SALT, NATURAL FLAVOR, MUSTARD FLOUR, POTASSIUM SORBATE AS A PRESERVATIVE, PAPRIKA, SPICE, DRIED GARLIC.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 266.666666666667,
+    "fat_100g": 23.3333333333333,
+    "saturated-fat_100g": 3.33333333333333,
+    "sugars_100g": 6.66666666666667,
+    "salt_100g": 1.58333333333333,
+    "sodium_100g": 0.633333333333333,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 40,
+    "sugars_serving": 1,
+    "salt_serving": 0.237
+  }
+}

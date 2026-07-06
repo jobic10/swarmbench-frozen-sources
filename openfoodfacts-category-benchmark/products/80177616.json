@@ -1,0 +1,42 @@
+{
+  "code": "80177616",
+  "assigned_category": "chocolate-bars",
+  "product_name": "FILLED MILK CHOCOLATE WITH A MILKY FILLING",
+  "brands": "Kinder",
+  "quantity": "100 g (8 x 12,5 g)",
+  "serving_size": "12,5 g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e322"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "fine  milk  chocolate 40% (sugar,  milk  powder, cocoa butter, cocoa mass, emulsifier (lecithins ( soya )), vanillin), sugar, skimmed  milk  powder, palm oil, concentrated  butter , emulsifier (lecithins ( soya )), vanillin,",
+  "countries_tags": [
+    "en:algeria",
+    "en:france",
+    "en:germany",
+    "en:greece",
+    "en:morocco",
+    "en:portugal",
+    "en:serbia",
+    "en:spain",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 566,
+    "fat_100g": 35,
+    "saturated-fat_100g": 22.6,
+    "sugars_100g": 53.3,
+    "salt_100g": 0.313,
+    "sodium_100g": 0.1252,
+    "proteins_100g": 8.7,
+    "energy-kcal_serving": 70.8,
+    "sugars_serving": 6.66,
+    "salt_serving": 0.0391
+  }
+}

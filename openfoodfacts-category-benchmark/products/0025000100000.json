@@ -1,0 +1,26 @@
+{
+  "code": "0025000100000",
+  "assigned_category": "orange-juice",
+  "product_name": "Simply Orange Pulp Free",
+  "brands": "Simply Beverages, Simply Juices and Drinks",
+  "quantity": "52 fl oz (1.53 l)",
+  "serving_size": "1 portion (240 ml)",
+  "nova_group": 1,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "100% orange juice",
+  "countries_tags": [
+    "en:panama",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 45.8,
+    "fat_100g": 0,
+    "sugars_100g": 9.58,
+    "proteins_100g": 0.833,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 23
+  }
+}

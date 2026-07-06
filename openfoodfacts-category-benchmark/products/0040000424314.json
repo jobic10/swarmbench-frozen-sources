@@ -1,0 +1,39 @@
+{
+  "code": "0040000424314",
+  "assigned_category": "chocolate-bars",
+  "product_name": "Snickers",
+  "brands": "Snickers",
+  "quantity": "1.86oz",
+  "serving_size": "1 bar (52.7 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "milk chocolate (sugar, cocoa butter, chocolate, skim milk, lactose, milkfat, soy lecithin, artificial flavor), peanuts, corn syrup, sugar, sugar, milkfat, skim milk, partially hydrogenated soybean oil, lactose, salt, egg whites, chocolate, artificially flavor,",
+  "countries_tags": [
+    "en:france",
+    "en:spain",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 474.38330170778,
+    "fat_100g": 22.8,
+    "saturated-fat_100g": 8.54079696394687,
+    "sugars_100g": 53.1005692599621,
+    "salt_100g": 0.5925,
+    "sodium_100g": 0.237,
+    "fiber_100g": 1.89943074003795,
+    "proteins_100g": 7.59013282732448,
+    "energy-kcal_serving": 250,
+    "sugars_serving": 28,
+    "salt_serving": 0.312
+  }
+}

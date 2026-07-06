@@ -1,0 +1,34 @@
+{
+  "code": "0012000028496",
+  "assigned_category": "energy-drinks",
+  "product_name": "DOUBLESHOT ENERGY ENERGY COFFEE BEVERAGE",
+  "brands": "STARBUCKS",
+  "quantity": "15oz",
+  "serving_size": "443 ml (443 ml)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e466",
+    "en:e955"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Starbucks Coffee (Water, Coffee), Reduced-Fat Milk, Skim Milk, Sugar, Maltodextrin, Dextrose, Taurine, Cellulose Gel, Natural Flavor, Panax Ginseng Root Extract, Inositol, Sodium Ascorbate, Guarana (Paullinia Cupana) Seed Extract, Cellulose Gum, Niacinamide, Sucralose, Ascorbic Acid (Vitamin C), Tricalcium Phosphate, Pyridoxine Hydrochloride (Vitamin B6), Riboflavin, Vitamin A Palmitate, Vitamin D3.",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 47.4040632054176,
+    "fat_100g": 0.677200902934537,
+    "saturated-fat_100g": 0.338600451467269,
+    "sugars_100g": 6.54627539503386,
+    "salt_100g": 0.0959367945823928,
+    "sodium_100g": 0.0383747178329571,
+    "proteins_100g": 2.70880361173815,
+    "energy-kcal_serving": 210,
+    "sugars_serving": 29,
+    "salt_serving": 0.425
+  }
+}

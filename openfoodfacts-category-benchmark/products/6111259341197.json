@@ -1,0 +1,42 @@
+{
+  "code": "6111259341197",
+  "assigned_category": "sweet-biscuits",
+  "product_name": "Momo black",
+  "brands": "Excelo",
+  "quantity": "36 g",
+  "serving_size": "36 g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e330",
+    "en:e334",
+    "en:e500",
+    "en:e500ii",
+    "en:e503",
+    "en:e503ii"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Farine de blé, sucre, huile végétale hydrogénée (palme), cacao en poudre (3,4%), régulateur d'acidité (acide citrique (E330), acide tartrique (E334)), poudre à lever (bicarbonate d'ammonium et bicarbonate sodium), émulsifiant végétal (lécithine de soja (E322)) et sel.",
+  "countries_tags": [
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 497,
+    "fat_100g": 21,
+    "saturated-fat_100g": 9.9,
+    "sugars_100g": 27,
+    "salt_100g": 0.32,
+    "sodium_100g": 0.128,
+    "proteins_100g": 7,
+    "energy-kcal_serving": 179,
+    "sugars_serving": 9.72,
+    "salt_serving": 0.115
+  }
+}

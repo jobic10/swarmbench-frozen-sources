@@ -1,0 +1,35 @@
+{
+  "code": "0898999011288",
+  "assigned_category": "plant-milks",
+  "product_name": "Eau de coco",
+  "brands": "Vita Coco",
+  "quantity": "1 litre",
+  "serving_size": "250 g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e418"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "WATER,\nCOCONUT WATER CONCENTRATE,\nCOCONUT PUREE, FRUCTOSE (&lt;1%), ASCORBIC ACID (VITAMIN C), GELLAN GUM",
+  "countries_tags": [
+    "en:france",
+    "en:germany",
+    "en:united-kingdom",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 22,
+    "fat_100g": 0.6,
+    "saturated-fat_100g": 0.5,
+    "sugars_100g": 2.5,
+    "salt_100g": 0.1275,
+    "sodium_100g": 0.051,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 55,
+    "sugars_serving": 6.25,
+    "salt_serving": 0.319
+  }
+}

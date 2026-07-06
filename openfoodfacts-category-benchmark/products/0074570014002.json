@@ -1,0 +1,32 @@
+{
+  "code": "0074570014002",
+  "assigned_category": "ice-cream",
+  "product_name": "chocolate ice cream",
+  "brands": "Häagen-Dazs",
+  "quantity": "14 fl oz (414 mL)",
+  "serving_size": "1 serving (129 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk"
+  ],
+  "ingredients_text": "Cream, skim milk, cane sugar, cocoa processed with alkali, egg yolks.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 240.31007751938,
+    "fat_100g": 16.2790697674419,
+    "saturated-fat_100g": 9.30232558139535,
+    "sugars_100g": 19.3798449612403,
+    "salt_100g": 0.125968992248062,
+    "sodium_100g": 0.0426356589147287,
+    "fiber_100g": 0.775193798449612,
+    "proteins_100g": 4.65116279069767,
+    "energy-kcal_serving": 310,
+    "sugars_serving": 25,
+    "salt_serving": 0.163
+  }
+}

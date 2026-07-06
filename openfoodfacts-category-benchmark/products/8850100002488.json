@@ -1,0 +1,33 @@
+{
+  "code": "8850100002488",
+  "assigned_category": "instant-noodles",
+  "product_name": "Instant Noodles Casserole Beef Flavour",
+  "brands": "Thai Preserved Food Factory Co. Ltd., Wai Wai, ไวไว",
+  "quantity": "60 g",
+  "serving_size": "60 g",
+  "nova_group": 3,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:soybeans"
+  ],
+  "ingredients_text": "noodles (52,2 g)  wheat  flour 67,50%, palm oil 10,00%, water 1,20%, salt 0,50%, seasoning sachet (4,8 g): sugar 4,60%, garlic powder 3,60%, salt 2,50%,  soy  sauce powder 1,33%, chili powder 1,00%, dried spring onion 0,50%, monosodium glutamate 0,50%, artificial beef flavour 0,17%, black pepper 0,10%, oil sachet (3,0g): palm oil 5,00%, shallot 1,50%",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 87,
+    "fat_100g": 3.4,
+    "saturated-fat_100g": 1.6,
+    "sugars_100g": 0.6,
+    "salt_100g": 1.1,
+    "sodium_100g": 0.44,
+    "fiber_100g": 5,
+    "proteins_100g": 1.9,
+    "energy-kcal_serving": 52.2,
+    "sugars_serving": 0.36,
+    "salt_serving": 0.66
+  }
+}

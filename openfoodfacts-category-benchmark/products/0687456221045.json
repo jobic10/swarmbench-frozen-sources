@@ -1,0 +1,29 @@
+{
+  "code": "0687456221045",
+  "assigned_category": "cereal-bars",
+  "product_name": "Organic Granola Bites",
+  "brands": "Made Good",
+  "quantity": "0.85 oz (24g)",
+  "serving_size": "24g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "PURE GLUTEN FREE DATS&quot;, CHOCOLATE CHIPS (CANE SUGAR, UNSWEETENED CHOCOLATE, COCDA, BUTTER CANE SUGAR, SUNFLOWER OIL, INVERT CANE SYRUP, AGAVE SYRUP, BROWN, RICE CRISPS, DRIED APPLE PIECES&quot;, INULIN, TAPIOCA STARCH, NATURAL FLAVOR, VEGETABLE EXTRACTS (SPINACH, BROCCOLI,, CARROTS, TOMATOES, BEETS, SHIITAKE, NSHROOMS), BROWN RICE SYRUP, SALT., MANC",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 458.333333333333,
+    "fat_100g": 16.6666666666667,
+    "saturated-fat_100g": 4.16666666666667,
+    "sugars_100g": 33.3333333333333,
+    "salt_100g": 0.572916666666668,
+    "sodium_100g": 0.229166666666667,
+    "fiber_100g": 8.33333333333333,
+    "proteins_100g": 8.33333333333333,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 8,
+    "salt_serving": 0.138
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "code": "0034000109418",
+  "assigned_category": "chocolate-bars",
+  "product_name": "NUTRAGEOUS",
+  "brands": "Reese's",
+  "quantity": "47 g",
+  "serving_size": "47g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e319",
+    "en:e322",
+    "en:e322i",
+    "en:e331",
+    "en:e331iii",
+    "en:e471",
+    "en:e476"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "MILK CHOCOLATE FLAVOUR COATING (40%) [SUGAR*; COCOA BUTTER; COCOA MASS; VEGETABLE OIL (PALM OIL: SHEA OIL; SUNFLOWER OIL: PALM KERNEL OIL AND/OR SAFFLOWER OIL); SKIMMED MILK POWDER; LACTOSE (MILK); MILK FAT; WHEY POWDER (MILK); EMULSIFIERS, SOYA LECITHIN (E322 POLYGLYCEROL POLYRICINOLEATE (E476); ARTIFICIAL FLAVOUR, VANILLIN); PEANUTS (26%); PEANUT BUTTER (17%) [PEANUTS SUGAR DEXTROSE: SALT: CORN SYRUP ANTIOXIDANT, TBHQ (E319); CARAMEL (17%) [HIGH FRUCTOSE CORN SYRUP*; HIGH MALTOSE CORN SYRUP*; SWEETENER SOITOL (E4201); SUGAR*;PALM KERNEL OIL: WHEY POWDER (MILK); WHEY PROTEIN CONCENTRATE (MILK); CALCIUM CASEINATE (MILK); SALT; ACIDITY REGULATOR,TRISODIUM CITRATE: ARTIFICIAL VANILLA PLAVOUR EMULSIFIER, MON0-AND DIGLYCERIDES (E471)]. *PRODUCED FROM GENETICALLY MODIFIED SUGAR BEETS, CORN, AND SOYA BEANS.",
+  "countries_tags": [
+    "en:estonia",
+    "en:france",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 539,
+    "fat_100g": 31,
+    "saturated-fat_100g": 11,
+    "sugars_100g": 45,
+    "salt_100g": 0.33,
+    "sodium_100g": 0.132,
+    "fiber_100g": 0,
+    "proteins_100g": 11.2,
+    "energy-kcal_serving": 253,
+    "sugars_serving": 21.2,
+    "salt_serving": 0.155
+  }
+}

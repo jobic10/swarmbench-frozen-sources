@@ -1,0 +1,35 @@
+{
+  "code": "0048001204362",
+  "assigned_category": "mayonnaise",
+  "product_name": "Olive Oil Mayonnaise Dressing",
+  "brands": "Hellmann's",
+  "quantity": "",
+  "serving_size": "1 Tbsp (14 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e200",
+    "en:e385"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:soybeans"
+  ],
+  "ingredients_text": "water, soybean oil, olive oil, whole eggs and egg yolks (whole eggs and egg yolks), sugar, modified potato starch, vinegar, salt, lemon juice concentrate, sorbic acid and calcium disodium edta (used to protect quality) (sorbic acid (used to protect quality) and calcium disodium edta (used to protect quality)), natural flavors, extractives of paprika,",
+  "countries_tags": [
+    "en:canada",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 400,
+    "fat_100g": 46.666666666667,
+    "saturated-fat_100g": 6.6666666666667,
+    "sugars_100g": 6.6666666666667,
+    "salt_100g": 1.8333333333333,
+    "sodium_100g": 0.73333333333332,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 56,
+    "sugars_serving": 0.933,
+    "salt_serving": 0.257
+  }
+}

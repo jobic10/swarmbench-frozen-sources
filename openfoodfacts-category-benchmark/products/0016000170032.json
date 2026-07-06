@@ -1,0 +1,33 @@
+{
+  "code": "0016000170032",
+  "assigned_category": "breakfast-cereals",
+  "product_name": "Cheerios",
+  "brands": "General Mills",
+  "quantity": "18oz (510g)",
+  "serving_size": "1 cup (39 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e306",
+    "en:e340",
+    "en:e340iii"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Whole Grain Oats, Corn Starch, Sugar, Salt, Tripotassium Phosphate. Vitamin E (mixed tocopherols) (added for freshness). Vitamins and Minerals: Calcium Carbonate, Iron and Zinc (mineral nutrients), Vitamin C (sodium ascorbate), A B Vitamin (niacinamide), Vitamin B6 (pyridoxine hydrochloride), Vitamin A (palmitate), Vitamin B₁ (thiamin mononitrate), A B Vitamin (folic acid), Vitamin B12, Vitamin D3.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 358.974358974359,
+    "fat_100g": 6.41025641025641,
+    "saturated-fat_100g": 1.28205128205128,
+    "sugars_100g": 5.12820512820513,
+    "salt_100g": 1.21794871794872,
+    "sodium_100g": 0.487179487179487,
+    "fiber_100g": 10.2564102564103,
+    "proteins_100g": 12.8205128205128,
+    "energy-kcal_serving": 140,
+    "sugars_serving": 2,
+    "salt_serving": 0.475
+  }
+}

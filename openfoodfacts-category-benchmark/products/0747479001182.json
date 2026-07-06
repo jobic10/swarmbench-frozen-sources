@@ -1,0 +1,34 @@
+{
+  "code": "0747479001182",
+  "assigned_category": "pasta-sauces",
+  "product_name": "Alfredo",
+  "brands": "Rao's Homemade",
+  "quantity": "15 oz",
+  "serving_size": "0.25 cup (62 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e339ii",
+    "en:e415"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Light Cream (cream, milk), Water, Butter (cream natural flavorings), Parmesan and Romano Cheese (pasteurized part-skim milk, cheese cultures, salt, enzymes), Enzyme Modified Egg Yolk, Contains less than 2% of Parmesan Cheese (pasteurized milk, salt, rennet), Sea Salt, Black Pepper, White Pepper, Modified Food Starch, Disodium Phosphate, Xanthan Gum.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 161.290322580645,
+    "fat_100g": 14.5161290322581,
+    "saturated-fat_100g": 9.67741935483871,
+    "sugars_100g": 1.61290322580645,
+    "salt_100g": 1.69354838709677,
+    "sodium_100g": 0.67741935483871,
+    "fiber_100g": 0,
+    "proteins_100g": 4.83870967741935,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 1,
+    "salt_serving": 1.05
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": "0889392010190",
+  "assigned_category": "energy-drinks",
+  "product_name": "Peach Vibe Sparkling White Peach Edition",
+  "brands": "CELSIUS",
+  "quantity": "12 FL OZ (355mL)",
+  "serving_size": "355.0g",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e330",
+    "en:e955"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Carbonated Filtered Water, Citric Acid, Taurine, Guarana Seed Extract, Green Tea Extract, Caffeine, Calcium Carbonate, Sucralose, Ascorbic Acid, Glucuronolactone, Ginger Root Extract, Calcium Pantothenate, Nacinamide, Natural Flavor, Pyridoxine Hydrochloride, Riboflavin, Chromium Chelate, Blotin, Cyanocobalamin, Beta-Carotene",
+  "countries_tags": [
+    "en:germany",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 2.81690336585915,
+    "fat_100g": 0,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 10,
+    "salt_serving": 0
+  }
+}

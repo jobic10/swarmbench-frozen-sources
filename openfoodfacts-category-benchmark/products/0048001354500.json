@@ -1,0 +1,34 @@
+{
+  "code": "0048001354500",
+  "assigned_category": "mayonnaise",
+  "product_name": "REAL MAYONNAISE",
+  "brands": "Hellmann's",
+  "quantity": "20 oz",
+  "serving_size": "14g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e385"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:soybeans"
+  ],
+  "ingredients_text": "soybean oil, water, whole eggs, distilled vinegar, egg yolks, salt, sugar, lemon juice concentrate, calcium disodium EDTA, natural flavors",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 714.285714285714,
+    "fat_100g": 78.5714285714286,
+    "saturated-fat_100g": 10.7142857142857,
+    "sugars_100g": 0,
+    "salt_100g": 0.2375,
+    "sodium_100g": 0.607142857142857,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 0,
+    "salt_serving": 0.0333
+  }
+}

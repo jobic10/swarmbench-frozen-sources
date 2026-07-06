@@ -1,0 +1,41 @@
+{
+  "code": "3564700633656",
+  "assigned_category": "mayonnaise",
+  "product_name": "Mayonnaise bocal A la moutarde de Dijon",
+  "brands": "Marque Repère, Rustica",
+  "quantity": "235 g",
+  "serving_size": "10 g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e14xx",
+    "en:e160a",
+    "en:e160ai",
+    "en:e224",
+    "en:e330",
+    "en:e385",
+    "en:e415"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:mustard"
+  ],
+  "ingredients_text": "Huile de colza, eau, moutarde de Dijon 5,2 % (eau, graines de moutarde, vinaigre d'alcool, sel, acidifiant : acide citrique, conservateur : disulfite de potassium), jaune d'œufs liquide* 3,7 %, jaune d'œufs en poudre 3,5 %*, vinaigre d'alcool, sel, vinaigre de vin blanc (dont conservateur : disulfite de potassium), sucre, arômes (dont moutarde), amidon modifié de maïs, sirop de glucose, acidifiant : acide citrique, colorant : bêta-carotène, stabilisant : gomme xanthane, antioxydant : E385, *Issu d'oeufs de poules élevées en plein air",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 673,
+    "fat_100g": 72.2,
+    "saturated-fat_100g": 5.7,
+    "sugars_100g": 1.3,
+    "salt_100g": 1.5,
+    "sodium_100g": 0.6,
+    "fiber_100g": 0.5,
+    "proteins_100g": 1.8,
+    "energy-kcal_serving": 67.3,
+    "sugars_serving": 0.13,
+    "salt_serving": 0.15
+  }
+}

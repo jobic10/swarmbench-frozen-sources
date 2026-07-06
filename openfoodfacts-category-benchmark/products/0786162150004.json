@@ -1,0 +1,33 @@
+{
+  "code": "0786162150004",
+  "assigned_category": "energy-drinks",
+  "product_name": "Açai-Blueberry-Pomegranate XXX Nutrient Enhanced Water",
+  "brands": "glaceau",
+  "quantity": "20 fl oz",
+  "serving_size": "20 fl. oz, 1.25 pt, 591 ml",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e330",
+    "en:e414"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "reverse osmosis water, crystalline fructose, cane sugar, less than 1% of: Vitamins A, C, B3, B5, B6, B12 (beta-carotene, ascorbic acid, niacinamide, calcium pantothenate, pyridoxine hydrochloride, cyanocobalamin), sodium selenate, manganese citrate, electrolytes (magnesium, calcium lactates, potassium phosphate), cane sugar, citric acid, gum acacia, natural flavors, fruit and vegetable juices (for color)",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 16.920473773266,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 4.3993231810491,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 26,
+    "salt_serving": 0
+  }
+}

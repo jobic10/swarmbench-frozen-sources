@@ -1,0 +1,31 @@
+{
+  "code": "0747479000413",
+  "assigned_category": "pasta-sauces",
+  "product_name": "Marinara",
+  "brands": "Rao's Homemade",
+  "quantity": "56 oz",
+  "serving_size": "0.5 cup (125 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Italian Whole Peeled Tomatoes, Olive Oil, Onions, Salt, Garlic, Basil, Black Pepper, Oregano.",
+  "countries_tags": [
+    "en:germany",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 80,
+    "fat_100g": 5.6,
+    "saturated-fat_100g": 0.8,
+    "sugars_100g": 3.2,
+    "salt_100g": 0.84,
+    "sodium_100g": 0.336,
+    "fiber_100g": 0.8,
+    "proteins_100g": 1.6,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 4,
+    "salt_serving": 1.05
+  }
+}

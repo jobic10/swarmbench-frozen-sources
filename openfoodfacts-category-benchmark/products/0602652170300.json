@@ -1,0 +1,38 @@
+{
+  "code": "0602652170300",
+  "assigned_category": "cereal-bars",
+  "product_name": "Caramel Almond & Sea Salt with Almonds",
+  "brands": "KIND",
+  "quantity": "1.4 oz",
+  "serving_size": "1.0 serving (40.0 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e160b",
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:nuts",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Almonds, chicory root fiber, honey, glucose syrup, palm kernel oil, sugar, rice flour, milk powder, sea salt, carob powder, soy lecithin, natural flavor, annatto.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 425,
+    "fat_100g": 37.5,
+    "saturated-fat_100g": 7.5,
+    "sugars_100g": 12.5,
+    "salt_100g": 0.78125,
+    "sodium_100g": 0.3125,
+    "fiber_100g": 17.5,
+    "proteins_100g": 15,
+    "energy-kcal_serving": 170,
+    "sugars_serving": 5,
+    "salt_serving": 0.312
+  }
+}

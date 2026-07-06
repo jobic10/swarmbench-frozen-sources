@@ -1,0 +1,37 @@
+{
+  "code": "42105220",
+  "assigned_category": "sodas",
+  "product_name": "Coca Cola",
+  "brands": "Coca-Cola",
+  "quantity": "450 ml",
+  "serving_size": "450ml",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e150d",
+    "en:e338"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "water, sugar, carbonic acid, e150d, e338, natural flavors including caffeine",
+  "countries_tags": [
+    "en:france",
+    "en:germany",
+    "en:italy",
+    "en:morocco",
+    "en:north-macedonia",
+    "en:switzerland",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 42,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 10.6,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 189,
+    "sugars_serving": 47.7,
+    "salt_serving": 0
+  }
+}

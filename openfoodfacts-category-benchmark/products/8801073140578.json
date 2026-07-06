@@ -1,0 +1,37 @@
+{
+  "code": "8801073140578",
+  "assigned_category": "instant-noodles",
+  "product_name": "Samyang original buldak spicy ramen",
+  "brands": "Samyang",
+  "quantity": "700g",
+  "serving_size": "140 g",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e14xx"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:soybeans",
+    "en:Wheat gluten"
+  ],
+  "ingredients_text": "noodle: wheat flour, modified starch, palm oil,  wheat gluten , soup , flake: water,  soy  sauce, sugar, artificial chicken flavor, red pepper seasoning powder,  soybean  oil, onion, red pepper seed oil, red pepper powder, yeast extract seasoning powder, garlic roast sesame, dried laver",
+  "countries_tags": [
+    "en:australia",
+    "en:germany",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 397.85,
+    "fat_100g": 12.14,
+    "saturated-fat_100g": 5,
+    "sugars_100g": 5,
+    "salt_100g": 2.91071,
+    "sodium_100g": 1.16429,
+    "fiber_100g": 1.42857,
+    "proteins_100g": 9.28,
+    "energy-kcal_serving": 557,
+    "sugars_serving": 7,
+    "salt_serving": 4.07
+  }
+}

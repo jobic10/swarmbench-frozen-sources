@@ -1,0 +1,42 @@
+{
+  "code": "0819898010080",
+  "assigned_category": "crackers",
+  "product_name": "Back To Nature",
+  "brands": "Multigrain flatbread crackers",
+  "quantity": "5.0 g",
+  "serving_size": "17g",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e306",
+    "en:e330",
+    "en:e341",
+    "en:e341i",
+    "en:e500",
+    "en:e500ii",
+    "en:e503",
+    "en:e503ii"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:gluten",
+    "en:milk"
+  ],
+  "ingredients_text": "ENRICHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SAFFLOWER OIL, WHOLE WHEAT FLOUR, WHEAT FLOUR, GOLDEN FLAX SEED, CORNSTARCH, WHOLE GRAIN MILLET, POTATO STARCH, BROWN RICE SYRUP, BROWN FLAX SEED, WHOLE GRAIN TRITICALE, WHOLE GRAIN BARLEY FLAKES, WHOLE GRAIN RYE, OATS, CANE SUGAR, LEAVENING (AMMONIUM BICARBONATE, MONOCALCIUM PHOSPHATE, BAKING SODA), MALTED BARLEY EXTRACT, SEA SALT, GARLIC POWDER, PARSLEY, ONION POWDER, CITRIC ACID, MIXED TOCOPHEROLS (TO PRESERVE FRESHNESS). CONTAINS: WHEAT. MADE IN A FACILITY THAT ALSO PROCESSES SOY, EGGS, MILK, COCONUT.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 470.588235294118,
+    "fat_100g": 14.7058823529412,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 5.88235294117647,
+    "salt_100g": 0.955882352941177,
+    "sodium_100g": 0.382352941176471,
+    "fiber_100g": 5.88235294117647,
+    "proteins_100g": 11.7647058823529,
+    "energy-kcal_serving": 80,
+    "sugars_serving": 1,
+    "salt_serving": 0.163
+  }
+}

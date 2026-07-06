@@ -1,0 +1,29 @@
+{
+  "code": "6111271520044",
+  "assigned_category": "peanut-butter",
+  "product_name": "peanut butter crunchy",
+  "brands": "",
+  "quantity": "200 g",
+  "serving_size": "",
+  "nova_group": 2,
+  "nutriscore_grade": "a",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:peanuts"
+  ],
+  "ingredients_text": "100 % cacahuètes grillées",
+  "countries_tags": [
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 608,
+    "fat_100g": 48.5,
+    "saturated-fat_100g": 5.7,
+    "sugars_100g": 3.3,
+    "salt_100g": 0.003,
+    "sodium_100g": 0.0012,
+    "fiber_100g": 10.1,
+    "proteins_100g": 23
+  }
+}

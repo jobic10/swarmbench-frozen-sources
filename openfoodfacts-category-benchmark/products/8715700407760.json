@@ -1,0 +1,35 @@
+{
+  "code": "8715700407760",
+  "assigned_category": "ketchup",
+  "product_name": "Tomato Ketchup BIO",
+  "brands": "Heinz",
+  "quantity": "580 g",
+  "serving_size": "",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:celery"
+  ],
+  "ingredients_text": "Tomates (180 g pour 100 g de Ketchup), sucre, vinaigre, sel, épices (contient céleri), poudre d'oignon, poudre d'ail,",
+  "countries_tags": [
+    "en:belgium",
+    "en:france",
+    "en:germany",
+    "en:romania",
+    "en:spain",
+    "en:switzerland",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 112,
+    "fat_100g": 0.1,
+    "saturated-fat_100g": 0.1,
+    "sugars_100g": 24.8,
+    "salt_100g": 1.7,
+    "sodium_100g": 0.68,
+    "fiber_100g": 0,
+    "proteins_100g": 1.4
+  }
+}

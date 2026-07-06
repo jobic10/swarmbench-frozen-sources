@@ -1,0 +1,38 @@
+{
+  "code": "80050094",
+  "assigned_category": "chocolate-bars",
+  "product_name": "Barra de chocolate con leche rellena a base de leche",
+  "brands": "Kinder Maxi",
+  "quantity": "21 g",
+  "serving_size": "21g",
+  "nova_group": null,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Melkesjokolade (sukker, helmelk pulver, kakaosmør, kakaomasse, emulgator: lecitiner (soya); vanillin), sukker, skummetmelkpulver, palmeolje, konsentrert smør, emulgator: lecitiner (soya), vanillin",
+  "countries_tags": [
+    "en:australia",
+    "en:france",
+    "en:italy",
+    "en:norway",
+    "en:spain",
+    "en:sweden",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 566,
+    "fat_100g": 35,
+    "saturated-fat_100g": 22.6,
+    "sugars_100g": 53.3,
+    "salt_100g": 0.313,
+    "sodium_100g": 0.1252,
+    "proteins_100g": 8.7,
+    "energy-kcal_serving": 119,
+    "sugars_serving": 11.2,
+    "salt_serving": 0.0657
+  }
+}

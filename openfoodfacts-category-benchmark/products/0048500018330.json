@@ -1,0 +1,26 @@
+{
+  "code": "0048500018330",
+  "assigned_category": "orange-juice",
+  "product_name": "100% Orange Juice",
+  "brands": "Tropicana",
+  "quantity": "",
+  "serving_size": "1 portion (240 g)",
+  "nova_group": 1,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "orange juice",
+  "countries_tags": [
+    "en:panama",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 45.8333333333333,
+    "fat_100g": 0,
+    "sugars_100g": 9.16666666666667,
+    "proteins_100g": 0.833333333333333,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 22
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "code": "0034361325250",
+  "assigned_category": "fruit-yogurts",
+  "product_name": "Activia. Fraise",
+  "brands": "Danone",
+  "quantity": "4 x 125 g",
+  "serving_size": "125.0g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e14xx",
+    "en:e440"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "LAIT entier (71%) (Origine : France), LAIT écrémé concentré ou en poudre (Origine: UE). fraise (9,5%), sucre (6,4%), crème (LAIT) (Origine: France), épaississants (amidon transformé, pectine de fruits), jus concentré de citron, concentré de carotte noire, jus concentré de carotte, arômes naturels (LAIT), ferments (dont ferments du yaourt et Bifidobacterium (LAIT)).",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 89,
+    "fat_100g": 2.8,
+    "saturated-fat_100g": 1.9,
+    "sugars_100g": 11.8,
+    "salt_100g": 0.14,
+    "sodium_100g": 0.056,
+    "proteins_100g": 3.8,
+    "energy-kcal_serving": 111,
+    "sugars_serving": 14.8,
+    "salt_serving": 0.175
+  }
+}

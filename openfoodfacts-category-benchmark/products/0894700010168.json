@@ -1,0 +1,35 @@
+{
+  "code": "0894700010168",
+  "assigned_category": "fruit-yogurts",
+  "product_name": "Greek Yogurt Black Cherry on the Bottom",
+  "brands": "Chobani",
+  "quantity": "5.3 OZ (150g)",
+  "serving_size": "1 serving (150 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e410",
+    "en:e412",
+    "en:e440"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Cultured nonfat milk, black cherries, cane sugar, water, fruit pectin, cherry juice concentrate, natural flavors, locust bean gum, guar gum, lemon juice concentrate. 6 live and active cultures: S. Thermophilus, L. Bulgaricus, L. Acidophilus, bobant.com Bifidus, L. Casei, and L. Rhamnosus.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 73.3333333333333,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 9.33333333333333,
+    "salt_100g": 0.0833333333333333,
+    "sodium_100g": 0.0333333333333333,
+    "fiber_100g": 0.666666666666667,
+    "proteins_100g": 8,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 14,
+    "salt_serving": 0.125
+  }
+}

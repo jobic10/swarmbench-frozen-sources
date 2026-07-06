@@ -1,0 +1,35 @@
+{
+  "code": "6111031005064",
+  "assigned_category": "sweet-biscuits",
+  "product_name": "Tonik",
+  "brands": "tonik",
+  "quantity": "22 g",
+  "serving_size": "23g",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Coffret fourré au cacao (41,6%) et à la vanille (208) - Ingrédients Farine de blé, sucre, huile végétale non hydrogénée (huile de palme), filtrat de lait, poudre de cacao Émulsifiant à faible teneur en cacao (322) Lécithine de soja) Agent levant (5000) Sucre artificiel (vanilline) Sel Contient du lait, du blé (gluten) du soja",
+  "countries_tags": [
+    "en:france",
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 504.347826086957,
+    "fat_100g": 22.1739130434783,
+    "saturated-fat_100g": 10.8695652173913,
+    "sugars_100g": 40,
+    "salt_100g": 0.217391304347826,
+    "sodium_100g": 0.0869565217391304,
+    "fiber_100g": 0.434782608695652,
+    "proteins_100g": 4.34782608695652,
+    "energy-kcal_serving": 116,
+    "sugars_serving": 9.2,
+    "salt_serving": 0.05
+  }
+}

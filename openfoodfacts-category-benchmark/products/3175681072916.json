@@ -1,0 +1,37 @@
+{
+  "code": "3175681072916",
+  "assigned_category": "sweet-biscuits",
+  "product_name": "Miel Châtaigne graines de lin",
+  "brands": "Gerblé",
+  "quantity": "200g",
+  "serving_size": "10g",
+  "nova_group": 4,
+  "nutriscore_grade": "b",
+  "additives_tags": [
+    "en:e322",
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk"
+  ],
+  "ingredients_text": "Farine de blé 44,7%, farine complète de blé 13,9%, huile de colza, miel toutes fleurs 9,3%, farine de châtaigne 6,2%, sucre non raffiné, graines de lin brun 5,6%, farine de riz, arômes naturels, fibre, farine d'avoine, farine de seigle, poudres à lever (carbonates de potassium, acide citrique), farine de maïs, magnésium, émulsifiant: lécithines, lactosérum en poudre, extrait de malt d'orge, sel, vitamines (D, B1, B9). Peut contenir des fruits à coque, du lupin, de la moutarde, du sésame et du soja.",
+  "countries_tags": [
+    "en:france",
+    "en:french-polynesia",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 451,
+    "fat_100g": 16,
+    "saturated-fat_100g": 1.2,
+    "sugars_100g": 14,
+    "salt_100g": 0.08,
+    "sodium_100g": 0.096,
+    "fiber_100g": 7.6,
+    "proteins_100g": 8.9,
+    "energy-kcal_serving": 45.1,
+    "sugars_serving": 1.4,
+    "salt_serving": 0.008
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "code": "8801073115514",
+  "assigned_category": "instant-noodles",
+  "product_name": "Buldak Spicy Ramen",
+  "brands": "Samyang",
+  "quantity": "135 g",
+  "serving_size": "1 serving (135 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e101",
+    "en:e101i",
+    "en:e1420",
+    "en:e160c",
+    "en:e306",
+    "en:e322",
+    "en:e322i",
+    "en:e330",
+    "en:e339ii",
+    "en:e412",
+    "en:e500",
+    "en:e500i",
+    "en:e501",
+    "en:e501i",
+    "en:e621"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:soybeans",
+    "en:Soybean oil",
+    "en:Wheat gluten"
+  ],
+  "ingredients_text": "NOODLE (73.7%): WHEAT FLOUR, MODIFIED TAPIOCA STARCH, REFINED PALM OIL, WHEAT GLUTEN, SALT, EMULSIFIER[SOY LECITHIN(E322(i))], ACIDITY REGULATOR[POTASSIUM CARBONATE(E501(i)), SODIUM CARBONATE(E500(i)), SODIUM PHOSPHATE DIBASIC(E339(ii))], THICKENER[GUAR GUM(E412)], TOCOPHEROLS (E306), GREEN TEA FLAVOR OIL, RIBOFLAVIN(E101), CITRIC ACID(E330). SOUP(25.2%): TOMATO KETCHUP (SOY), WATER, WHITE SUGAR, FLAVOUR ENHANCER[MONOSODIUM L-GLUTAMATE(E621)], ARTIFICIAL CHICKEN FLAVOR (WHEAT, SOY), ONION, CHILI PEPPER POWDER(SOY), ARTIFICIAL CHICKEN FLAVOR POWDER(WHEAT, SOY), SOYBEAN OIL, ONION POWDER, TOMATO POWDER, SOY SAUCE(WHEAT), YEAST POWDER, CHILI POWDER(WHEAT, SOY), VINEGAR, GARLIC, HOT SAUCE POWDER, DECOLORIZED CHILI EXTRACT, COLOUR[PAPRIKA EXTRACT(E160c)], BLACK PEPPER POWDER, THICKENER[MODIFIED POTATO STARCH(E1420)], JALAPENO PEPPER OIL(SOY), LIME FLAVOUR, CORIANDER LEAF FLAVOUR. FLAKE(1.1%): DRIED CARROT FLAKE, DRIED CABBAGE FLAKE, DRIED BOK CHOY.",
+  "countries_tags": [
+    "en:australia",
+    "en:germany",
+    "en:kazakhstan",
+    "en:malaysia",
+    "en:morocco",
+    "en:singapore",
+    "en:thailand",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 455.714285714286,
+    "fat_100g": 10.37,
+    "saturated-fat_100g": 5.92593,
+    "sugars_100g": 6.66667,
+    "salt_100g": 2.92593,
+    "sodium_100g": 1.11111,
+    "fiber_100g": 2.22222,
+    "proteins_100g": 10.37,
+    "energy-kcal_serving": 615,
+    "sugars_serving": 9,
+    "salt_serving": 3.95
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "code": "5000112519945",
+  "assigned_category": "sodas",
+  "product_name": "Coca-Cola Zero",
+  "brands": "Coca Cola",
+  "quantity": "330 ml",
+  "serving_size": "330 ml",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e150d",
+    "en:e290",
+    "en:e331",
+    "en:e338",
+    "en:e950",
+    "en:e951",
+    "en:e952",
+    "en:e960c"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "water, carbon dioxide, caramel coloring E-150d, acidulant phosphoric acid, sweeteners (sodium cyclamate, acesulfame K, aspartame and enzymatically produced steviol glycosides), natural flavors, caffeine flavoring, and acidity regulator (sodium citrates). Contains a source of phenylalanine.",
+  "countries_tags": [
+    "en:portugal",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 0.2,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 0.02,
+    "sodium_100g": 0.008,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 0.66,
+    "sugars_serving": 0,
+    "salt_serving": 0.066
+  }
+}

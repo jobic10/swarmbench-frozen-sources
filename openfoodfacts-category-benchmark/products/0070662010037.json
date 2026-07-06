@@ -1,0 +1,42 @@
+{
+  "code": "0070662010037",
+  "assigned_category": "instant-noodles",
+  "product_name": "Chicken Ramen Noodle Soup",
+  "brands": "Nissin",
+  "quantity": "3 oz",
+  "serving_size": "0.5 package (85 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e319",
+    "en:e330",
+    "en:e401",
+    "en:e452",
+    "en:e452vi",
+    "en:e552",
+    "en:e621",
+    "en:e627",
+    "en:e631"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:soybeans"
+  ],
+  "ingredients_text": "enriched flour (wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid), palm oil, salt, contains less than 2% of autolyzed yeast extract, calcium silicate, citric acid, disodium guanylate, disodium inosinate, dried leek flake, garlic powder, hydrolyzed corn protein, hydrolyzed soy protein, maltodextrin, monosodium glutamate, natural and artificial flavor, onion powder, potassium carbonate, powdered chicken, rendered chicken fat, sodium alginate, sodium carbonate, sodium tripolyphosphate, soybean, spice and color, sugar, tbhq (preservative), wheat,",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 447.058823529412,
+    "fat_100g": 8.23529411764706,
+    "saturated-fat_100g": 8.23529411764706,
+    "sugars_100g": 1.41176470588235,
+    "salt_100g": 0.264705882352941,
+    "sodium_100g": 0.105882352941176,
+    "fiber_100g": 2.35294117647059,
+    "proteins_100g": 5.88235294117647,
+    "energy-kcal_serving": 380,
+    "sugars_serving": 1.2,
+    "salt_serving": 0.225
+  }
+}

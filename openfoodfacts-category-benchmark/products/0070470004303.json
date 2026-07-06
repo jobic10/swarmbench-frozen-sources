@@ -1,0 +1,33 @@
+{
+  "code": "0070470004303",
+  "assigned_category": "fruit-yogurts",
+  "product_name": "Yoplait Original Strawberry",
+  "brands": "Yoplait",
+  "quantity": "32 oz",
+  "serving_size": "170 g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Cultured Grade A Low Fat Milk, Sugar, Modified Corn Starch, Contains 1% less or less of: Corn Starch, Citric Acid, Vegetable Juice (for color), Natural Flavor, Potassium Sorbate Added to Maintain Freshness, Vitamin A Acetate, Vitamin D3.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 76.4705882352941,
+    "fat_100g": 0.588235294117647,
+    "saturated-fat_100g": 0.294117647058824,
+    "sugars_100g": 12.9411764705882,
+    "salt_100g": 0.117647058823529,
+    "sodium_100g": 0.0470588235294118,
+    "fiber_100g": 0,
+    "proteins_100g": 2.94117647058824,
+    "energy-kcal_serving": 130,
+    "sugars_serving": 22,
+    "salt_serving": 0.2
+  }
+}

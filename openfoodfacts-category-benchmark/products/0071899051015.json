@@ -1,0 +1,38 @@
+{
+  "code": "0071899051015",
+  "assigned_category": "ice-cream",
+  "product_name": "Homemade Vanilla",
+  "brands": "Blue Bell Ice Cream",
+  "quantity": "473 mL",
+  "serving_size": "106 g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e102",
+    "en:e110",
+    "en:e129",
+    "en:e330",
+    "en:e407",
+    "en:e466"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "milk, cream, skim milk, peaches, sugar, high fructose corn syrup, peach juice concentrate, corn syrup, water, modified food starch, citric acid, ascorbic acid, natural and artificial flavor, cellulose gum, vegetable gums (guar, carrageenan, carob bean), artificial color ntainer 40 (includes yellow 5, yellow 6, red 40). 109g) %dv* contains bioengineered food ingredients. 36% 90% 32%",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 198.11320754717,
+    "fat_100g": 12.2641509433962,
+    "saturated-fat_100g": 6.60377358490566,
+    "sugars_100g": 22.6415094339623,
+    "salt_100g": 0.117924528301887,
+    "sodium_100g": 0.0990566037735849,
+    "fiber_100g": 0,
+    "proteins_100g": 4.71698113207547,
+    "energy-kcal_serving": 210,
+    "sugars_serving": 24,
+    "salt_serving": 0.125
+  }
+}

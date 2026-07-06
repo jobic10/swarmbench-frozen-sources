@@ -1,0 +1,36 @@
+{
+  "code": "0016229001711",
+  "assigned_category": "plant-milks",
+  "product_name": "Coconut Milk",
+  "brands": "Aroy-D, Thai Agri Foods Public Company Limited",
+  "quantity": "400ml",
+  "serving_size": "1 portion (83 ml)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e435"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "COCONUT EXTRACT 70%, WATER, EMULSIFIER E435.",
+  "countries_tags": [
+    "en:canada",
+    "en:france",
+    "en:germany",
+    "en:russia",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 180.722891566265,
+    "fat_100g": 18.0722891566265,
+    "saturated-fat_100g": 16.8674698795181,
+    "sugars_100g": 2.40963855421687,
+    "salt_100g": 0.0451807228915663,
+    "sodium_100g": 0.0180722891566265,
+    "fiber_100g": 0,
+    "proteins_100g": 1.20481927710843,
+    "energy-kcal_serving": 150,
+    "sugars_serving": 2,
+    "salt_serving": 0.0375
+  }
+}

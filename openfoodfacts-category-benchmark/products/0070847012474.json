@@ -1,0 +1,36 @@
+{
+  "code": "0070847012474",
+  "assigned_category": "energy-drinks",
+  "product_name": "Zero Ultra",
+  "brands": "Monster Energy",
+  "quantity": "1 can (16 oz)",
+  "serving_size": "1 Can (16 fl oz)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e200",
+    "en:e210",
+    "en:e330",
+    "en:e331",
+    "en:e955",
+    "en:e968"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "CARBONATED WATER, CITRIC ACID, ERYTHRITOL, TAURINE, SODIUM CITRATE, NATURAL & ARTIFICIAL FLAVORS, PANAX GINSENG FLAVOR, L-CARNITINE L-TARTRATE, CAFFEINE, SUCRALOSE, SORBIC ACID (PRESERVATIVE), BENZOIC ACID (PRESERVATIVE), NIACINAMIDE (VIT. B3), D-CALCIUM POTASSIUM (VIT. B5), PYRIDOXINE HYDROCHLORIDE (VIT. B6), CYANOCOBALMIN (VIT. B12).",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 2.11337853145553,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 0,
+    "sodium_100g": 0.08030838419531,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 10,
+    "sugars_serving": 0,
+    "salt_serving": 0
+  }
+}

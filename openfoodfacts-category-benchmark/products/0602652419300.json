@@ -1,0 +1,35 @@
+{
+  "code": "0602652419300",
+  "assigned_category": "cereal-bars",
+  "product_name": "breakfast protein Dark Chocolate Cocoa",
+  "brands": "KIND",
+  "quantity": "10.58 oz (300 g)",
+  "serving_size": "2 bars (50 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:soybeans"
+  ],
+  "ingredients_text": "oats, tapioca syrup, canola oil, soy protein isolate, semi-sweet chocolate (sugar, unsweetened chocolate, cocoa butter, soy lecithin, vanilla extract), cane sugar, raisin paste, cocoa powder, millet, molasses, buckwheat, amaranth, quinoa, natural flavor, cinnamon, sea salt, vitamin e (tocopherols to maintain freshness).",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 420,
+    "fat_100g": 16,
+    "saturated-fat_100g": 3,
+    "sugars_100g": 20,
+    "salt_100g": 0.375,
+    "sodium_100g": 0.15,
+    "fiber_100g": 6,
+    "proteins_100g": 16,
+    "energy-kcal_serving": 210,
+    "sugars_serving": 10,
+    "salt_serving": 0.188
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "code": "0819562022791",
+  "assigned_category": "breakfast-cereals",
+  "product_name": "nut granola blueberry cinnamon sweet & crunchy",
+  "brands": "Snacks Generation LLC, nútrail",
+  "quantity": "624g",
+  "serving_size": "30g",
+  "nova_group": 4,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e968"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:nuts"
+  ],
+  "ingredients_text": "sunflower seeds, pumpkin seeds, coconut, almonds, pecans, erythritol, butter (pasteurized cream, natural flavor), dried blueberries, cinnamon, salt, monkfruit extract",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 533.33333,
+    "fat_100g": 50,
+    "saturated-fat_100g": 5,
+    "sugars_100g": 6.66667,
+    "salt_100g": 0.20833,
+    "sodium_100g": 0.025,
+    "fiber_100g": 23.33333,
+    "proteins_100g": 13.33333,
+    "energy-kcal_serving": 160,
+    "sugars_serving": 2,
+    "salt_serving": 0.0625
+  }
+}

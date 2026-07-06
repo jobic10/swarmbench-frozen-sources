@@ -1,0 +1,33 @@
+{
+  "code": "0048500205723",
+  "assigned_category": "orange-juice",
+  "product_name": "No Calcium OJ",
+  "brands": "Tropicana",
+  "quantity": "1.36 L",
+  "serving_size": "240ml",
+  "nova_group": 1,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e296",
+    "en:e330"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "100% Orange juice, calcium hydroxide, citric acid, malic acid, vitamin D3.",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 45,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 9.16666666666667,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 0,
+    "proteins_100g": 0.833333333333333,
+    "energy-kcal_serving": 108,
+    "sugars_serving": 22,
+    "salt_serving": 0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "code": "0016000435094",
+  "assigned_category": "breakfast-cereals",
+  "product_name": "Toasted Whole Grain Oat Cereal",
+  "brands": "Cheerios",
+  "quantity": "2 x 1 lb 4.35 oz (20.35 oz) (576 g)",
+  "serving_size": "1 1/2 cup/taza (39 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e306",
+    "en:e340",
+    "en:e340iii"
+  ],
+  "allergens_tags": [
+    "en:none"
+  ],
+  "ingredients_text": "Whole Grain Oats, Corn Starch, Sugar, Salt, Tripotassium Phosphate. Vitamin E (mixed tocopherols) (Added to Preserve Freshness). Vitamins and Minerals [Calcium Carbonate, Iron (mineral), Zinc (mineral), Vitamin C (sodium ascorbate), niacinamide, Vitamin B6 (pyridoxine hydrochloride), Vitamin A (palmitate), Vitamin B1 (thiamin mononitrate), folic acid, Vitamin B12, Vitamin D3].",
+  "countries_tags": [
+    "en:bolivia",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 358.974358974359,
+    "fat_100g": 2.5,
+    "saturated-fat_100g": 0.5,
+    "sugars_100g": 2,
+    "salt_100g": 0.475,
+    "sodium_100g": 0.19,
+    "fiber_100g": 4,
+    "proteins_100g": 5,
+    "energy-kcal_serving": 140,
+    "sugars_serving": 0.78,
+    "salt_serving": 0.185
+  }
+}

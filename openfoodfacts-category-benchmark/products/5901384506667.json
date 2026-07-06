@@ -1,0 +1,47 @@
+{
+  "code": "5901384506667",
+  "assigned_category": "instant-noodles",
+  "product_name": "ramen porc tonkotsu",
+  "brands": "Oyakata",
+  "quantity": "350 g",
+  "serving_size": "100 g",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e14xx",
+    "en:e330",
+    "en:e500",
+    "en:e621",
+    "en:e635"
+  ],
+  "allergens_tags": [
+    "en:celery",
+    "en:crustaceans",
+    "en:fish",
+    "en:gluten",
+    "en:milk",
+    "en:molluscs",
+    "en:mustard",
+    "en:sesame-seeds",
+    "en:soybeans",
+    "en:sulphur-dioxide-and-sulphites"
+  ],
+  "ingredients_text": "Nouilles instantanées (87%): farine de BLE, huile de palme, amidon modifiés poudres à lever (carbonates de sodium, carbonates de potassium). Assaisonnement (13): exhausteurs de gout: E621, E635; extrait d'as de porc en poudre (2,2%), sucre, arômes (conferment SOJA LAIT, BLE), crème en poudre huile dep LACTOSE (issu du LAIT), protéines de LAIT, graines de SESAME, extrait de levure, sauce SOJA en poudre (graines de SOJA, BLE, maltodextrine, sele poudre, poudre de viande de poulet, all en poudre, graisse de porc (0,2%), gingembre en poudre ciboulette séchée, poivre noir, piment, comecteur d'acidité: acide citrique. &quot;Du produit total. Le produ peut contenir des traces de: crustacés, ceufs, poissons, céleri, moutarde, mollusques FN-INSTANTY",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 83,
+    "fat_100g": 3.7,
+    "saturated-fat_100g": 2,
+    "sugars_100g": 0.5,
+    "salt_100g": 0.87,
+    "sodium_100g": 0.348,
+    "fiber_100g": 0,
+    "proteins_100g": 2.2,
+    "energy-kcal_serving": 83,
+    "sugars_serving": 0.5,
+    "salt_serving": 0.87
+  }
+}

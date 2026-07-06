@@ -1,0 +1,31 @@
+{
+  "code": "0028400090858",
+  "assigned_category": "potato-chips",
+  "product_name": "Classic Potato Chips",
+  "brands": "Lay's",
+  "quantity": "1 oz (28.3 g)",
+  "serving_size": "1 portion (28.3 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "pasteurized milk, cheese cultures, salt, microbial enzymes, annatto color",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 565.371024734982,
+    "fat_100g": 35.3356890459364,
+    "saturated-fat_100g": 5.30035335689046,
+    "sugars_100g": 3.53356890459364,
+    "salt_100g": 1.23674911660777,
+    "sodium_100g": 0.49469964664311,
+    "fiber_100g": 3.53356890459364,
+    "proteins_100g": 7.06713780918728,
+    "energy-kcal_serving": 160,
+    "sugars_serving": 1,
+    "salt_serving": 0.35
+  }
+}

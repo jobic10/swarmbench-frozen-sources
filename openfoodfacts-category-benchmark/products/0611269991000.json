@@ -1,0 +1,33 @@
+{
+  "code": "0611269991000",
+  "assigned_category": "energy-drinks",
+  "product_name": "Energy Drink",
+  "brands": "Red Bull",
+  "quantity": "250 ml",
+  "serving_size": "1 can (250 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e330",
+    "en:e500",
+    "en:e500ii"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Carbonated water, sugar, glucose, citric acid, taurine, natural and artificial flavors, sodium bicarbonate, magnesium carbonate, colors, caffeine, niacinamide, pyridoxine HCl (vitamin B6), calcium pantothenate, vitamin B12",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 44,
+    "fat_100g": 0,
+    "sugars_100g": 11.2,
+    "salt_100g": 0.105,
+    "sodium_100g": 0.042,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 28,
+    "salt_serving": 0.263
+  }
+}

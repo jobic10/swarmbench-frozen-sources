@@ -1,0 +1,35 @@
+{
+  "code": "7394376620157",
+  "assigned_category": "plant-milks",
+  "product_name": "Barista edition oat drink",
+  "brands": "Oatly",
+  "quantity": "1 l",
+  "serving_size": "1 serving (100 ml)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e340",
+    "en:e340ii"
+  ],
+  "allergens_tags": [
+    "en:gluten"
+  ],
+  "ingredients_text": "water, oats 10%, rapeseed oil, acidity regulator (dipotassium phosphate), minerals (calcium carbonate, potassium iodide), salt, vitamins (d2, riboflavin, b12),",
+  "countries_tags": [
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 61,
+    "fat_100g": 3,
+    "saturated-fat_100g": 0.3,
+    "sugars_100g": 3.4,
+    "salt_100g": 0.1,
+    "sodium_100g": 0.04,
+    "fiber_100g": 0.8,
+    "proteins_100g": 1.1,
+    "energy-kcal_serving": 61,
+    "sugars_serving": 3.4,
+    "salt_serving": 0.1
+  }
+}

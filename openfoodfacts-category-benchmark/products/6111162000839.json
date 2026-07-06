@@ -1,0 +1,26 @@
+{
+  "code": "6111162000839",
+  "assigned_category": "fruit-jams",
+  "product_name": "Confiture de fraise",
+  "brands": "Délicia",
+  "quantity": "430 g",
+  "serving_size": "430g",
+  "nova_group": 3,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Fraises, sucre.",
+  "countries_tags": [
+    "en:france",
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 250,
+    "fat_100g": 0.3,
+    "sugars_100g": 63,
+    "proteins_100g": 0.5,
+    "energy-kcal_serving": 1080,
+    "sugars_serving": 271
+  }
+}

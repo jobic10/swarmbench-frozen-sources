@@ -1,0 +1,49 @@
+{
+  "code": "0839138007007",
+  "assigned_category": "chocolate-bars",
+  "product_name": "High Protein Baked Bar Chocolate Peanut Butter",
+  "brands": "Robert Irvine's Fit Crunch",
+  "quantity": "50 g",
+  "serving_size": "1 bar (46 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [
+    "en:e160a",
+    "en:e160ai",
+    "en:e202",
+    "en:e322",
+    "en:e322i",
+    "en:e420",
+    "en:e422",
+    "en:e428",
+    "en:e471",
+    "en:e500",
+    "en:e500ii",
+    "en:e955",
+    "en:e965"
+  ],
+  "allergens_tags": [
+    "en:gelatin",
+    "en:milk",
+    "en:nuts",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Protein Blend (Whey Protein Isolate,, Whey Protein Concentrate), Soy Protein Isolate,, Vegetable Oils (Palm Kernel and Palm), Vegetable, Glycerin, Peanut Butter (Dry Roasted Peanuts, Palm, Oil, Dextrose, Salt), Sorbitol, Peanuts, Sugar, Maltitol,, Gelatin [bovine), Peanut Flour, Cocoa (processed with, alkali), Brown Rice Flour and Water. Contains 2% or, less of the following: Glucose Syrup, Sunflower Oil,, Tapioca Starch, Salt, Natural Flavor, Soybean Oil,, Sucralose, Maltodextrin, Sodium Caseinate, Sunflower, Lecithin, Propylene Glycol Mono Esters, Baking Soda,, Mono & Diglycerides, Potassium Sorbate, (preservative), Acetylated Monoglycerides, Whey,, Whey Powder, Soy Lecithin, Beta-Carotene (for color),, Vitamin A Palmitate, Silicon Dioxide, Natural, Tocopherols (to preserve freshness) and Almond.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 413.04347826087,
+    "fat_100g": 17.3913043478261,
+    "saturated-fat_100g": 8.69565217391304,
+    "sugars_100g": 6.52173913043478,
+    "salt_100g": 1.08695652173913,
+    "sodium_100g": 0.434782608695652,
+    "fiber_100g": 2.17391304347826,
+    "proteins_100g": 34.7826086956522,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 3,
+    "salt_serving": 0.5
+  }
+}

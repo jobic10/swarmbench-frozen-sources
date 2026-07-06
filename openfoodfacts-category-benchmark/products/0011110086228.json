@@ -1,0 +1,32 @@
+{
+  "code": "0011110086228",
+  "assigned_category": "crackers",
+  "product_name": "Toasted sesame water crisp crackers",
+  "brands": "Private selection",
+  "quantity": "",
+  "serving_size": "4 crackers (15 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "a",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:sesame-seeds"
+  ],
+  "ingredients_text": "ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), SESAME SEEDS, HIGH OLEIC SUNFLOWER OIL, SALT, SUGAR. CONTAINS: SESAME, WHEAT..",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 70,
+    "fat_100g": 2,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 0.04,
+    "sodium_100g": 0.016,
+    "fiber_100g": 6.66666666666667,
+    "proteins_100g": 1,
+    "energy-kcal_serving": 10.5,
+    "sugars_serving": 0,
+    "salt_serving": 0.006
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "code": "0856069005124",
+  "assigned_category": "crackers",
+  "product_name": "Almond Flour Crackers Rosemary & Sea Salt",
+  "brands": "Simple Mills",
+  "quantity": "4.25 oz",
+  "serving_size": "17 crackers (30 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:nuts"
+  ],
+  "ingredients_text": "almonds, sunflower seeds, flax seeds, tapioca starch, cassava flour, organic sunflower oil, sea salt, rosemary, organic onion, organic garlic, organic pepper",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 500,
+    "fat_100g": 30,
+    "saturated-fat_100g": 1.66666666666667,
+    "sugars_100g": 0,
+    "salt_100g": 1.91666666666667,
+    "sodium_100g": 0.766666666666667,
+    "fiber_100g": 6.66666666666667,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 150,
+    "sugars_serving": 0,
+    "salt_serving": 0.575
+  }
+}

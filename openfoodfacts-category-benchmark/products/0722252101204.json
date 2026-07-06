@@ -1,0 +1,34 @@
+{
+  "code": "0722252101204",
+  "assigned_category": "cereal-bars",
+  "product_name": "ClifBar Crunchy Peanut Butter",
+  "brands": "Clif",
+  "quantity": "2.40 oz",
+  "serving_size": "1 bar (68 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Organic rolled oats, organic brown rice syrup, soy rice crisps (soy protein isolate, rice flour, barley malt extract), organic tapioca syrup, peanut butter, peanuts, organic invert cane syrup, peanut flour, chicory root fiber, organic roasted soybeans, organic soy flour, natural flavor, salt",
+  "countries_tags": [
+    "en:australia",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 260,
+    "fat_100g": 8,
+    "saturated-fat_100g": 1,
+    "sugars_100g": 17,
+    "salt_100g": 8.45e-07,
+    "sodium_100g": 3.38e-07,
+    "fiber_100g": 5,
+    "proteins_100g": 11,
+    "energy-kcal_serving": 177,
+    "sugars_serving": 11.6,
+    "salt_serving": 5.75e-07
+  }
+}

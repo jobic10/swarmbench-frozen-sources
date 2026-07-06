@@ -1,0 +1,39 @@
+{
+  "code": "0096619215607",
+  "assigned_category": "cereal-bars",
+  "product_name": "Nut Bars with Cocoa Drizzle & Sea Salt",
+  "brands": "Kirkland Signature",
+  "quantity": "30 x 1.41 oz (40 g) bars / 42.3 oz (1.2 kg)",
+  "serving_size": "1 bar (40 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e170",
+    "en:e170i",
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:nuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "ALMONDS, DARK CHOCOLATE FLAVORED COATING (CHICORY ROOT INULIN, SUGAR, PALM KERNEL OIL, COCOA POWDER PROCESSED WITH ALKALI, SOY LECITHIN, SALT, DRY WHOLE MILK), CASHEWS, CHICORY ROOT EXTRACT, SUNFLOWER SEEDS, HONEY, PECANS, RICE SYRUP, CRISP RICE (RICE FLOUR, SUGAR, CALCIUM CARBONATE, SALT), SEA SALT, SOY LECITHIN.",
+  "countries_tags": [
+    "en:bolivia",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 500,
+    "fat_100g": 37.5,
+    "saturated-fat_100g": 8.75,
+    "sugars_100g": 15,
+    "salt_100g": 0.78125,
+    "sodium_100g": 0.3125,
+    "fiber_100g": 20,
+    "proteins_100g": 12.5,
+    "energy-kcal_serving": 200,
+    "sugars_serving": 6,
+    "salt_serving": 0.312
+  }
+}

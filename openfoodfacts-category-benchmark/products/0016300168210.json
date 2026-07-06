@@ -1,0 +1,31 @@
+{
+  "code": "0016300168210",
+  "assigned_category": "orange-juice",
+  "product_name": "100% Premium Orange Juice from Concentrate",
+  "brands": "Florida's Natural",
+  "quantity": "1.53l",
+  "serving_size": "240 ml, 8 fl oz",
+  "nova_group": 1,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Pasteurized orange juice",
+  "countries_tags": [
+    "en:germany",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 46.4943276920216,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 9.29886553840431,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 0,
+    "proteins_100g": 0.84535141258221,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 22,
+    "salt_serving": 0
+  }
+}

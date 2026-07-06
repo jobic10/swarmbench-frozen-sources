@@ -1,0 +1,37 @@
+{
+  "code": "8402001010873",
+  "assigned_category": "breakfast-cereals",
+  "product_name": "Muesli Crunchy",
+  "brands": "Hacendado",
+  "quantity": "200gr",
+  "serving_size": "",
+  "nova_group": 4,
+  "nutriscore_grade": "a",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk"
+  ],
+  "ingredients_text": "Copos de avena (gluten) (52%), fibras vegetales (achicoria, maiz), harina (20%) (arroz, trigo (gluten)), aceite de girasol alto oleico, extracto de malta de cebada (gluten), aromas, sal. Puede contener trazas de frutos de cáscara, soja, leche, cacahuetes, semillas de sésamo, sulfitos y mostaza.",
+  "countries_tags": [
+    "en:canada",
+    "en:china",
+    "en:ecuador",
+    "en:france",
+    "en:portugal",
+    "en:russia",
+    "en:spain",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 401,
+    "fat_100g": 12,
+    "saturated-fat_100g": 1.4,
+    "sugars_100g": 3.2,
+    "salt_100g": 0.08,
+    "sodium_100g": 0.032,
+    "fiber_100g": 23,
+    "proteins_100g": 8.8
+  }
+}

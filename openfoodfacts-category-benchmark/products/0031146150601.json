@@ -1,0 +1,50 @@
+{
+  "code": "0031146150601",
+  "assigned_category": "instant-noodles",
+  "product_name": "SHIN RAMYUN",
+  "brands": "NONGSHIM",
+  "quantity": "120 g",
+  "serving_size": "1 bag (120 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e307b",
+    "en:e322",
+    "en:e339",
+    "en:e414",
+    "en:e420",
+    "en:e452",
+    "en:e500",
+    "en:e501",
+    "en:e621",
+    "en:e627",
+    "en:e631"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:gluten",
+    "en:milk",
+    "en:nuts",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "WHEAT FLOUR, STARCHES (POTATO, WHEAT), VEGETABLE OIL (e307B), SALT, MINERAL SALTS (e501, e500, e452, e339), EMULSIFIER (e322, (SOY)), SOY SAUCE, green tea extract. \r\n\r\nHYDROLYSED VEGETABLE PROTEIN (SOY, CORN) SALT, MALTODEXTRIN, YEAST EXTRACT, SOY SAUCE, spices, SUGAR, FRUCTOSE, SWEETENER (e420), FLAVOUR ENHANCERS e627, e621, e631), SOYBEAN, WHEAT FLOUR, VEGETABLES OILS (SOY), THICKENER (e414), CORN FLOUR, GLUCOSE, vegetables, EMULSIFIER (e322, SOY).\r\n\nDried Vegetables, SOYBEAN, SOY SAUCE, WHEAT GLUTEN, YEAST EXTRACT, SUGAR, salt, cocoa, CORN STARCH, VEGETABLE OIL (SOY).\r\n\r\nALLERGY INFORMATION: Contains WHEAT and SOY. Produced in a facility that also processes product that contains EGG, PEANUTS, MILK and TREE NUTS.",
+  "countries_tags": [
+    "en:france",
+    "en:new-zealand",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 425,
+    "fat_100g": 8,
+    "saturated-fat_100g": 4,
+    "sugars_100g": 2,
+    "salt_100g": 2.025,
+    "sodium_100g": 810,
+    "fiber_100g": 2,
+    "proteins_100g": 5,
+    "energy-kcal_serving": 510,
+    "sugars_serving": 2.4,
+    "salt_serving": 2.43
+  }
+}

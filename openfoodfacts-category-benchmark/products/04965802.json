@@ -1,0 +1,32 @@
+{
+  "code": "04965802",
+  "assigned_category": "sodas",
+  "product_name": "Diet Coke",
+  "brands": "Coca-Cola",
+  "quantity": "355 ml",
+  "serving_size": "1 can (355 ml)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e150c",
+    "en:e212",
+    "en:e330",
+    "en:e338",
+    "en:e951"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "CARBONATED WATER, CARAMEL COLOR, ASPARTAME, PHOSPHORIC ACID, POTASSIUM BENZOATE (TO PROTECT TASTE), NATURAL FLAVORS, CITRIC ACID, CAFFEINE.\r\n\r\nPHENYLKETONURICS: CONTAINS PHENYLALANINE\r\n\r\nNO CALORIES, NO SUGAR",
+  "countries_tags": [
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 0,
+    "fat_100g": 0,
+    "salt_100g": 0.028169014084507,
+    "sodium_100g": 0.0112676056338028,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 0,
+    "salt_serving": 0.1
+  }
+}

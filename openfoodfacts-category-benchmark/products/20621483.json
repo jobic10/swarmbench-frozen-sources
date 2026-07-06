@@ -1,0 +1,38 @@
+{
+  "code": "20621483",
+  "assigned_category": "breakfast-cereals",
+  "product_name": "Special Flakes Bran Flakes",
+  "brands": "Crownfield",
+  "quantity": "500 g",
+  "serving_size": "50 g",
+  "nova_group": 3,
+  "nutriscore_grade": "b",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten"
+  ],
+  "ingredients_text": "80% Shredded Wholegrain Wheat, 16% Wheat Bran, Sugar, Barley Malt Extract, Salt, Honey.",
+  "countries_tags": [
+    "en:belgium",
+    "en:france",
+    "en:germany",
+    "en:greece",
+    "en:netherlands",
+    "en:portugal",
+    "en:spain",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 376.666666666667,
+    "fat_100g": 2,
+    "saturated-fat_100g": 0.5,
+    "sugars_100g": 13.2,
+    "salt_100g": 0.63,
+    "sodium_100g": 0.252,
+    "fiber_100g": 17.2,
+    "proteins_100g": 11.1,
+    "energy-kcal_serving": 188,
+    "sugars_serving": 6.6,
+    "salt_serving": 0.315
+  }
+}

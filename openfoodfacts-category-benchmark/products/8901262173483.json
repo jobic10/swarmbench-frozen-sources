@@ -1,0 +1,40 @@
+{
+  "code": "8901262173483",
+  "assigned_category": "ice-cream",
+  "product_name": "Amul Fruit 'N' Nut Fantasy",
+  "brands": "Amul",
+  "quantity": "540 gm",
+  "serving_size": "54 g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e102",
+    "en:e110",
+    "en:e407",
+    "en:e412",
+    "en:e415",
+    "en:e466"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:nuts"
+  ],
+  "ingredients_text": "Milk solids, sugar, orange jelly,bmikk chocolate chips, cashew pieces, raisins, emulsifier 471, stabilizers (407,412,466,415), artificial flavouring, colours (102,110)",
+  "countries_tags": [
+    "en:india",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 418.518518518519,
+    "fat_100g": 25.1851851851852,
+    "saturated-fat_100g": 14.0740740740741,
+    "sugars_100g": 41.2962962962963,
+    "salt_100g": 0.226851851851852,
+    "sodium_100g": 0.0907407407407407,
+    "fiber_100g": 0,
+    "proteins_100g": 7.40740740740741,
+    "energy-kcal_serving": 226,
+    "sugars_serving": 22.3,
+    "salt_serving": 0.123
+  }
+}

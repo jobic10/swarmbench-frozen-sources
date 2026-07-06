@@ -1,0 +1,32 @@
+{
+  "code": "0074570004003",
+  "assigned_category": "ice-cream",
+  "product_name": "vanilla ice cream",
+  "brands": "Häagen-Dazs",
+  "quantity": "335 g",
+  "serving_size": "129 g",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk"
+  ],
+  "ingredients_text": "Cream, skim milk, cane sugar, egg yolks, vanilla extract.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 248.062015503876,
+    "fat_100g": 16.2790697674419,
+    "saturated-fat_100g": 10.077519379845,
+    "sugars_100g": 19.3798449612403,
+    "salt_100g": 0.145348837209302,
+    "sodium_100g": 0.0581395348837209,
+    "fiber_100g": 0,
+    "proteins_100g": 6.97674418604651,
+    "energy-kcal_serving": 320,
+    "sugars_serving": 25,
+    "salt_serving": 0.188
+  }
+}
