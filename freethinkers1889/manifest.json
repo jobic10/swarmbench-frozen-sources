@@ -2,3014 +2,5798 @@
  "documents": [
   {
    "n": 1,
-   "name": "Abbot (Francis Ellingwood)",
-   "born": 1836,
-   "word_count": 114
+   "name": "Abauzit (Firmin)",
+   "born": 1679,
+   "era": "seventeenth",
+   "word_count": 87
   },
   {
    "n": 2,
-   "name": "Abul-Ola (Ahmad ibn Abd Allah ibn Sulaiman)",
-   "born": 973,
-   "word_count": 100
+   "name": "Abbot (Francis Ellingwood)",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 114
   },
   {
    "n": 3,
-   "name": "Ackermann (Louise-Victorine, née Choquet)",
-   "born": 1813,
-   "word_count": 115
+   "name": "Abu-Fazil (Abu al Fadhl ibn Mubarak, called Al Hindi)",
+   "born": 1572,
+   "era": "precursors",
+   "word_count": 72
   },
   {
    "n": 4,
-   "name": "Acollas (Pierre Antoine René Paul Emile)",
-   "born": 1826,
-   "word_count": 96
+   "name": "Abul-Ola (Ahmad ibn Abd Allah ibn Sulaiman)",
+   "born": 973,
+   "era": "precursors",
+   "word_count": 100
   },
   {
    "n": 5,
-   "name": "Acontius (Jacobus--Italian, Giacomo Aconzio)",
-   "born": 1557,
-   "word_count": 139
+   "name": "Ackermann (Louise-Victorine, née Choquet)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 115
   },
   {
    "n": 6,
-   "name": "Adler (Felix)",
-   "born": 1851,
-   "word_count": 118
+   "name": "Acollas (Pierre Antoine René Paul Emile)",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 96
   },
   {
    "n": 7,
-   "name": "Akbar (Jalal-ed-din Muhammad)",
-   "born": 1542,
-   "word_count": 93
-  },
-  {
-   "n": 8,
-   "name": "Alembert (Jean le Rond d')",
-   "born": 1717,
-   "word_count": 253
-  },
-  {
-   "n": 9,
-   "name": "Alfieri (Vittorio)",
-   "born": 1223,
-   "word_count": 300
-  },
-  {
-   "n": 10,
-   "name": "Allen (Charles Grant Blairfindie)",
-   "born": 1848,
-   "word_count": 100
-  },
-  {
-   "n": 11,
-   "name": "Allen (Ethan)",
-   "born": 1737,
-   "word_count": 158
-  },
-  {
-   "n": 12,
-   "name": "Alpharabius (Muhammad ibn Muhammad ibn Tarkhan)",
-   "born": 1204,
-   "word_count": 180
-  },
-  {
-   "n": 13,
-   "name": "Amberley (John Russell)",
-   "born": 1843,
-   "word_count": 121
-  },
-  {
-   "n": 14,
-   "name": "Ammianus (Marcellinus)",
-   "born": 499,
-   "word_count": 252
-  },
-  {
-   "n": 15,
-   "name": "Andrieux (Louis)",
-   "born": 1840,
-   "word_count": 117
-  },
-  {
-   "n": 16,
-   "name": "Annet (Peter)",
-   "born": 1693,
-   "word_count": 432
-  },
-  {
-   "n": 17,
-   "name": "Arago (Dominique François Jean)",
-   "born": 1786,
-   "word_count": 96
-  },
-  {
-   "n": 18,
-   "name": "Ardigo (Roberto)",
-   "born": 1828,
-   "word_count": 92
-  },
-  {
-   "n": 19,
-   "name": "Argens (Jean Baptiste de Boyer)",
-   "born": 1704,
-   "word_count": 124
-  },
-  {
-   "n": 20,
-   "name": "Argental (Charles Augustin de Ferriol)",
-   "born": 444,
-   "word_count": 333
-  },
-  {
-   "n": 21,
-   "name": "Arnold (Matthew)",
-   "born": 1822,
-   "word_count": 187
-  },
-  {
-   "n": 22,
-   "name": "Aurelius (Marcus Antoninus)",
-   "born": null,
-   "word_count": 189
-  },
-  {
-   "n": 23,
-   "name": "Austin (Charles)",
-   "born": 1799,
-   "word_count": 145
-  },
-  {
-   "n": 24,
-   "name": "Austin (John)",
-   "born": 1790,
-   "word_count": 142
-  },
-  {
-   "n": 25,
-   "name": "Averroes (Muhammad Ibn-Ahmad Ibn Rushd)",
-   "born": 1126,
-   "word_count": 120
-  },
-  {
-   "n": 26,
-   "name": "Bagehot (Walter)",
-   "born": 1826,
-   "word_count": 92
-  },
-  {
-   "n": 27,
-   "name": "Bailey (Samuel)",
-   "born": 1791,
-   "word_count": 130
-  },
-  {
-   "n": 28,
-   "name": "Baillie (George)",
-   "born": 1854,
-   "word_count": 142
-  },
-  {
-   "n": 29,
-   "name": "Bain (Alexander)",
-   "born": 1818,
-   "word_count": 187
-  },
-  {
-   "n": 30,
-   "name": "Bakunin (Mikhail Aleksandrovich)",
-   "born": 1814,
-   "word_count": 233
-  },
-  {
-   "n": 31,
-   "name": "Ball (William Platt)",
-   "born": 1844,
-   "word_count": 145
-  },
-  {
-   "n": 32,
-   "name": "Barlow (Joel)",
-   "born": 1754,
-   "word_count": 108
-  },
-  {
-   "n": 33,
-   "name": "Barni (Jules Romain)",
-   "born": 1818,
-   "word_count": 99
-  },
-  {
-   "n": 34,
-   "name": "Barrett (Thomas Squire)",
-   "born": 1842,
-   "word_count": 104
-  },
-  {
-   "n": 35,
-   "name": "Baskerville (John)",
-   "born": 1706,
-   "word_count": 163
-  },
-  {
-   "n": 36,
-   "name": "Baudelaire (Charles Pierre)",
-   "born": 1821,
-   "word_count": 99
-  },
-  {
-   "n": 37,
-   "name": "Bauer (Bruno)",
-   "born": 1809,
-   "word_count": 228
-  },
-  {
-   "n": 38,
-   "name": "Baur (Ferdinand Christian von)",
-   "born": 1792,
-   "word_count": 133
-  },
-  {
-   "n": 39,
-   "name": "Bayle (Pierre)",
-   "born": 1647,
-   "word_count": 166
-  },
-  {
-   "n": 40,
-   "name": "Beausobre (Louis de)",
-   "born": 1730,
-   "word_count": 93
-  },
-  {
-   "n": 41,
-   "name": "Bebel (Ferdinand August)",
-   "born": 1840,
-   "word_count": 93
-  },
-  {
-   "n": 42,
-   "name": "Beethoven (Ludwig van)",
-   "born": 1770,
-   "word_count": 206
-  },
-  {
-   "n": 43,
-   "name": "Bekker (Balthasar)",
-   "born": 1634,
-   "word_count": 110
-  },
-  {
-   "n": 44,
-   "name": "Bell (Thomas Evans)",
-   "born": 1842,
-   "word_count": 95
-  },
-  {
-   "n": 45,
-   "name": "Bennett (De Robigne Mortimer)",
-   "born": 1818,
-   "word_count": 242
-  },
-  {
-   "n": 46,
-   "name": "Bentham (Jeremy)",
-   "born": 1748,
-   "word_count": 166
-  },
-  {
-   "n": 47,
-   "name": "Berkenhout (Dr. John)",
-   "born": 1731,
-   "word_count": 106
-  },
-  {
-   "n": 48,
-   "name": "Berquin (Louis de)",
-   "born": 1489,
-   "word_count": 105
-  },
-  {
-   "n": 49,
-   "name": "Bert (Paul)",
-   "born": 1833,
-   "word_count": 189
-  },
-  {
-   "n": 50,
-   "name": "Besant (Annie)",
-   "born": 1847,
-   "word_count": 445
-  },
-  {
-   "n": 51,
-   "name": "Beverland (Hadrianus)",
-   "born": 1654,
-   "word_count": 92
-  },
-  {
-   "n": 52,
-   "name": "Beyle (Marie Henri)",
-   "born": 1783,
-   "word_count": 93
-  },
-  {
-   "n": 53,
-   "name": "Bianchi (Angelo)",
-   "born": 1799,
-   "word_count": 134
-  },
-  {
-   "n": 54,
-   "name": "Biddle or Bidle (John)",
-   "born": 1615,
-   "word_count": 131
-  },
-  {
-   "n": 55,
-   "name": "Billaud-Varenne (Jean Nicolas)",
-   "born": 1756,
-   "word_count": 186
-  },
-  {
-   "n": 56,
-   "name": "Birch (William John)",
-   "born": 1811,
-   "word_count": 153
-  },
-  {
-   "n": 57,
-   "name": "Björnson (Björnstjerne)",
-   "born": 1832,
-   "word_count": 168
-  },
-  {
-   "n": 58,
-   "name": "Blanqui (Louis Auguste)",
-   "born": 1805,
-   "word_count": 152
-  },
-  {
-   "n": 59,
-   "name": "Blind (Karl)",
-   "born": 1826,
-   "word_count": 164
-  },
-  {
-   "n": 60,
-   "name": "Blount (Charles)",
-   "born": 1654,
-   "word_count": 153
-  },
-  {
-   "n": 61,
-   "name": "Bodin (Jean)",
-   "born": 1530,
-   "word_count": 113
-  },
-  {
-   "n": 62,
-   "name": "Bolingbroke (Henry Saint John)",
-   "born": 1672,
-   "word_count": 108
-  },
-  {
-   "n": 63,
-   "name": "Boni (Filippo de)",
-   "born": 1820,
-   "word_count": 202
-  },
-  {
-   "n": 64,
-   "name": "Boulainvilliers (Henri de)",
-   "born": 1658,
-   "word_count": 104
-  },
-  {
-   "n": 65,
-   "name": "Boulanger (Nicolas-Antoine)",
-   "born": 1722,
-   "word_count": 132
-  },
-  {
-   "n": 66,
-   "name": "Bowring (Sir John, K.B., LL D.)",
-   "born": 1792,
-   "word_count": 149
-  },
-  {
-   "n": 67,
-   "name": "Boyle (Humphrey)",
-   "born": 1821,
-   "word_count": 114
-  },
-  {
-   "n": 68,
-   "name": "Bradlaugh (Charles)",
-   "born": 1833,
-   "word_count": 425
-  },
-  {
-   "n": 69,
-   "name": "Bray (Charles)",
-   "born": 1811,
-   "word_count": 238
-  },
-  {
-   "n": 70,
-   "name": "Brissot (Jean Pierre)",
-   "born": 1754,
-   "word_count": 158
-  },
-  {
-   "n": 71,
-   "name": "Broussais (François Joseph Victor)",
-   "born": 1772,
-   "word_count": 124
-  },
-  {
-   "n": 72,
-   "name": "Brown (George William)",
-   "born": 1820,
-   "word_count": 94
-  },
-  {
-   "n": 73,
-   "name": "Browne (Sir Thomas)",
-   "born": 1605,
-   "word_count": 124
-  },
-  {
-   "n": 74,
-   "name": "Bruno (Giordano)",
-   "born": 1548,
-   "word_count": 290
-  },
-  {
-   "n": 75,
-   "name": "Buchanan (George)",
-   "born": 1506,
-   "word_count": 216
-  },
-  {
-   "n": 76,
-   "name": "Buchanan (Robert)",
-   "born": 1813,
-   "word_count": 114
-  },
-  {
-   "n": 77,
-   "name": "Buckle (Henry Thomas)",
-   "born": 1821,
-   "word_count": 175
-  },
-  {
-   "n": 78,
-   "name": "Buechner (Friedrich Karl Christian Ludwig)",
-   "born": 1824,
-   "word_count": 137
-  },
-  {
-   "n": 79,
-   "name": "Buffon (Georges Louis Leclerc)",
-   "born": 1707,
-   "word_count": 94
-  },
-  {
-   "n": 80,
-   "name": "Burdon (William)",
-   "born": 1764,
-   "word_count": 116
-  },
-  {
-   "n": 81,
-   "name": "Burnet (Thomas)",
-   "born": 1635,
-   "word_count": 236
-  },
-  {
-   "n": 82,
-   "name": "Burnett (James)",
-   "born": 1714,
-   "word_count": 107
-  },
-  {
-   "n": 83,
-   "name": "Burr (William Henry)",
-   "born": 1819,
-   "word_count": 114
-  },
-  {
-   "n": 84,
-   "name": "Burton (Sir Richard Francis)",
-   "born": 1821,
-   "word_count": 185
-  },
-  {
-   "n": 85,
-   "name": "Butler (Samuel)",
-   "born": 1612,
-   "word_count": 112
-  },
-  {
-   "n": 86,
-   "name": "Byron (George Gordon Noel)",
-   "born": 1788,
-   "word_count": 243
-  },
-  {
-   "n": 87,
-   "name": "Cabanis (Pierre Jean George)",
-   "born": 1757,
-   "word_count": 106
-  },
-  {
-   "n": 88,
-   "name": "Cæsalpinus (Andreas)",
-   "born": 1519,
-   "word_count": 91
-  },
-  {
-   "n": 89,
-   "name": "Cæsar (Caius Julius)",
-   "born": null,
-   "word_count": 185
-  },
-  {
-   "n": 90,
-   "name": "Campanella (Tommaso)",
-   "born": 1568,
-   "word_count": 274
-  },
-  {
-   "n": 91,
-   "name": "Campbell (Alexander)",
-   "born": 1827,
-   "word_count": 111
-  },
-  {
-   "n": 92,
-   "name": "Canestrini (Giovanni)",
-   "born": 1835,
-   "word_count": 95
-  },
-  {
-   "n": 93,
-   "name": "Cardano (Girolamo)",
-   "born": 1501,
-   "word_count": 194
-  },
-  {
-   "n": 94,
-   "name": "Carducci (Giosuè)",
-   "born": 1836,
-   "word_count": 135
-  },
-  {
-   "n": 95,
-   "name": "Carlile (Eliza Sharples)",
-   "born": 1831,
-   "word_count": 97
-  },
-  {
-   "n": 96,
-   "name": "Carlile (Richard)",
-   "born": 1790,
-   "word_count": 318
-  },
-  {
-   "n": 97,
-   "name": "Carlyle (Thomas)",
-   "born": 213,
-   "word_count": 423
-  },
-  {
-   "n": 98,
-   "name": "Carra (Jean Louis)",
-   "born": 1743,
-   "word_count": 118
-  },
-  {
-   "n": 99,
-   "name": "Carrel (Jean Baptiste Nicolas Armand)",
-   "born": 1800,
-   "word_count": 147
-  },
-  {
-   "n": 100,
-   "name": "Castelar y Ripoll (Emilio)",
-   "born": 1832,
-   "word_count": 158
-  },
-  {
-   "n": 101,
-   "name": "Cazelles (Emile)",
-   "born": 1257,
-   "word_count": 94
-  },
-  {
-   "n": 102,
-   "name": "Cellarius (Martin)",
-   "born": 1522,
-   "word_count": 137
-  },
-  {
-   "n": 103,
-   "name": "Chaloner (Thomas)",
-   "born": 1595,
-   "word_count": 103
-  },
-  {
-   "n": 104,
-   "name": "Chamfort (Sébastien Roch Nicolas)",
-   "born": 1741,
-   "word_count": 147
-  },
-  {
-   "n": 105,
-   "name": "Chastelet du or Chatelet Lomont (Gabrielle Emilie le Tonnelier de\nBreteuil)",
-   "born": 1706,
-   "word_count": 91
-  },
-  {
-   "n": 106,
-   "name": "Chaucer (Geoffrey)",
-   "born": 1340,
-   "word_count": 105
-  },
-  {
-   "n": 107,
-   "name": "Chaumette (Pierre Gaspard)",
-   "born": 1763,
-   "word_count": 221
-  },
-  {
-   "n": 108,
-   "name": "Chenier (Marie André de)",
-   "born": 1762,
-   "word_count": 143
-  },
-  {
-   "n": 109,
-   "name": "Chenier (Marie Joseph de)",
-   "born": 1764,
-   "word_count": 91
-  },
-  {
-   "n": 110,
-   "name": "Chies y Gomez (Ramon)",
-   "born": 1845,
-   "word_count": 113
-  },
-  {
-   "n": 111,
-   "name": "Child (Lydia Maria)",
-   "born": 1802,
-   "word_count": 107
-  },
-  {
-   "n": 112,
-   "name": "Clarke (John)",
-   "born": 1824,
-   "word_count": 117
-  },
-  {
-   "n": 113,
-   "name": "Clarke (Marcus)",
-   "born": 1847,
-   "word_count": 97
-  },
-  {
-   "n": 114,
-   "name": "Clemenceau (Georges Benjamin Eugene)",
-   "born": 1841,
-   "word_count": 98
-  },
-  {
-   "n": 115,
-   "name": "Clifford (Martin)",
-   "born": 1671,
-   "word_count": 107
-  },
-  {
-   "n": 116,
-   "name": "Clifford (William Kingdon)",
-   "born": 1845,
-   "word_count": 237
-  },
-  {
-   "n": 117,
-   "name": "Cloots or Clootz (Johann Baptist, afterwards Anacharsis)",
-   "born": 1755,
-   "word_count": 223
-  },
-  {
-   "n": 118,
-   "name": "Clough (Arthur Hugh)",
-   "born": 1819,
+   "name": "Acontius (Jacobus--Italian, Giacomo Aconzio)",
+   "born": 1557,
+   "era": "precursors",
    "word_count": 139
   },
   {
-   "n": 119,
-   "name": "Colenso (John William)",
-   "born": 1814,
-   "word_count": 100
+   "n": 8,
+   "name": "Acosta (Uriel)",
+   "born": 1597,
+   "era": "precursors",
+   "word_count": 74
   },
   {
-   "n": 120,
-   "name": "Collins (Anthony)",
-   "born": 1676,
-   "word_count": 269
+   "n": 9,
+   "name": "Adler (Felix)",
+   "born": 1851,
+   "era": "victorian",
+   "word_count": 118
   },
   {
-   "n": 121,
-   "name": "Combe (George)",
-   "born": 1788,
-   "word_count": 145
-  },
-  {
-   "n": 122,
-   "name": "Comte (Isidore Auguste Marie François Xavier)",
-   "born": 1798,
-   "word_count": 367
-  },
-  {
-   "n": 123,
-   "name": "Condorcet (Marie Jean Antoine Nicolas Caritat, Marquis de)",
-   "born": 1743,
-   "word_count": 222
-  },
-  {
-   "n": 124,
-   "name": "Condorcet (Sophie de Grouchy Caritat, Marquise de)",
-   "born": 1765,
-   "word_count": 100
-  },
-  {
-   "n": 125,
-   "name": "Confucius (Kung Kew)",
-   "born": null,
-   "word_count": 124
-  },
-  {
-   "n": 126,
-   "name": "Constant de Rebecque (Henri Benjamin)",
-   "born": 1767,
+   "n": 10,
+   "name": "Akbar (Jalal-ed-din Muhammad)",
+   "born": 1542,
+   "era": "precursors",
    "word_count": 93
   },
   {
-   "n": 127,
-   "name": "Conway (Moncure Daniel)",
-   "born": 1832,
-   "word_count": 206
+   "n": 11,
+   "name": "Alciati (Giovanni Paolo)",
+   "born": 1564,
+   "era": "precursors",
+   "word_count": 61
   },
   {
-   "n": 128,
-   "name": "Cook (Kenningale Robert)",
-   "born": 1845,
-   "word_count": 108
+   "n": 12,
+   "name": "Alembert (Jean le Rond d')",
+   "born": 1717,
+   "era": "enlightenment",
+   "word_count": 253
   },
   {
-   "n": 129,
-   "name": "Cooper (Robert)",
-   "born": 1819,
-   "word_count": 229
+   "n": 13,
+   "name": "Alfieri (Vittorio)",
+   "born": 1223,
+   "era": "precursors",
+   "word_count": 300
   },
   {
-   "n": 130,
-   "name": "Cooper (Thomas)",
-   "born": 1759,
-   "word_count": 273
-  },
-  {
-   "n": 131,
-   "name": "Coornhert (Dirk Volkertszoon)",
-   "born": 1522,
-   "word_count": 106
-  },
-  {
-   "n": 132,
-   "name": "Corvin-Wiersbitski (Otto Julius Bernhard von)",
-   "born": 1812,
-   "word_count": 132
-  },
-  {
-   "n": 133,
-   "name": "Cox (the Right Rev. Sir George William)",
-   "born": 1827,
-   "word_count": 108
-  },
-  {
-   "n": 134,
-   "name": "Craig (Edward Thomas)",
-   "born": 1804,
-   "word_count": 104
-  },
-  {
-   "n": 135,
-   "name": "Cranbrook (Rev. James.)",
-   "born": 1817,
-   "word_count": 125
-  },
-  {
-   "n": 136,
-   "name": "Cremonini (Cesare)",
-   "born": 1550,
-   "word_count": 119
-  },
-  {
-   "n": 137,
-   "name": "Croly (David Goodman)",
-   "born": 1831,
-   "word_count": 94
-  },
-  {
-   "n": 138,
-   "name": "Crozier (John Beattie)",
-   "born": 1849,
-   "word_count": 183
-  },
-  {
-   "n": 139,
-   "name": "Cyrano de Bergerac (Savinien)",
-   "born": 1619,
-   "word_count": 134
-  },
-  {
-   "n": 140,
-   "name": "Dale (Antonius van)",
-   "born": 1638,
-   "word_count": 96
-  },
-  {
-   "n": 141,
-   "name": "Damilaville (Etienne Noël)",
-   "born": 1721,
-   "word_count": 114
-  },
-  {
-   "n": 142,
-   "name": "Danton (Georges Jacques)",
-   "born": 1759,
-   "word_count": 192
-  },
-  {
-   "n": 143,
-   "name": "Darwin (Charles Robert)",
-   "born": 1809,
-   "word_count": 320
-  },
-  {
-   "n": 144,
-   "name": "Darwin (Erasmus)",
-   "born": 1731,
-   "word_count": 104
-  },
-  {
-   "n": 145,
-   "name": "Daunou (Pierre Claude François)",
-   "born": 1761,
-   "word_count": 90
-  },
-  {
-   "n": 146,
-   "name": "Davenport (John)",
-   "born": 1789,
-   "word_count": 122
-  },
-  {
-   "n": 147,
-   "name": "De Gubernatis (Angelo)",
-   "born": 1840,
-   "word_count": 101
-  },
-  {
-   "n": 148,
-   "name": "Dekker (Eduard Douwes)",
-   "born": 1820,
-   "word_count": 218
-  },
-  {
-   "n": 149,
-   "name": "Delambre (Jean Baptiste Joseph)",
-   "born": 1749,
-   "word_count": 104
-  },
-  {
-   "n": 150,
-   "name": "Delescluze (Louis Charles)",
-   "born": 1809,
-   "word_count": 107
-  },
-  {
-   "n": 151,
-   "name": "De Maillet. See Maillet (Benoît de)",
-   "born": 460,
-   "word_count": 138
-  },
-  {
-   "n": 152,
-   "name": "De Paepe (César)",
-   "born": 1842,
-   "word_count": 131
-  },
-  {
-   "n": 153,
-   "name": "De Potter (Louis Antoine Joseph)",
-   "born": 1786,
-   "word_count": 129
-  },
-  {
-   "n": 154,
-   "name": "Desbarreaux (Jacques Vallée)",
-   "born": 1602,
-   "word_count": 92
-  },
-  {
-   "n": 155,
-   "name": "Descartes (René)",
-   "born": 1596,
-   "word_count": 130
-  },
-  {
-   "n": 156,
-   "name": "Deschamps (Léger-Marie)",
-   "born": 1716,
-   "word_count": 119
-  },
-  {
-   "n": 157,
-   "name": "Deslandes (André François Boureau)",
-   "born": 1690,
-   "word_count": 102
-  },
-  {
-   "n": 158,
-   "name": "Des Maizeaux (Pierre)",
-   "born": 1673,
-   "word_count": 106
-  },
-  {
-   "n": 159,
-   "name": "Desmoulins (Lucié Simplice Camille Benôit)",
-   "born": 1770,
-   "word_count": 156
-  },
-  {
-   "n": 160,
-   "name": "Des Periers (Jean Bonaventure)",
-   "born": 1510,
-   "word_count": 148
-  },
-  {
-   "n": 161,
-   "name": "Destutt de Tracy (Antoine Louis de Claude)",
-   "born": 1754,
-   "word_count": 104
-  },
-  {
-   "n": 162,
-   "name": "Deubler (Konrad)",
-   "born": 1814,
+   "n": 14,
+   "name": "Allen (Charles Grant Blairfindie)",
+   "born": 1848,
+   "era": "victorian",
    "word_count": 100
   },
   {
-   "n": 163,
-   "name": "D'Holbach. See Holbach (P. H. D. von)",
-   "born": null,
-   "word_count": 155
+   "n": 15,
+   "name": "Allen (Ethan)",
+   "born": 1737,
+   "era": "enlightenment",
+   "word_count": 158
   },
   {
-   "n": 164,
-   "name": "Diderot (Denis)",
-   "born": 1713,
-   "word_count": 198
+   "n": 16,
+   "name": "Alpharabius (Muhammad ibn Muhammad ibn Tarkhan)",
+   "born": 1204,
+   "era": "precursors",
+   "word_count": 180
   },
   {
-   "n": 165,
-   "name": "Dodel-Port (Prof. Arnold)",
+   "n": 17,
+   "name": "Amberley (John Russell)",
    "born": 1843,
+   "era": "victorian",
+   "word_count": 121
+  },
+  {
+   "n": 18,
+   "name": "Ammianus (Marcellinus)",
+   "born": 499,
+   "era": "precursors",
+   "word_count": 252
+  },
+  {
+   "n": 19,
+   "name": "Andrews (Stephen Pearl)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 87
+  },
+  {
+   "n": 20,
+   "name": "Andrieux (Louis)",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 117
+  },
+  {
+   "n": 21,
+   "name": "Annet (Peter)",
+   "born": 1693,
+   "era": "seventeenth",
+   "word_count": 432
+  },
+  {
+   "n": 22,
+   "name": "Anthony (Susan Brownell)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 23,
+   "name": "Apelt (Ernst Friedrich)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 89
+  },
+  {
+   "n": 24,
+   "name": "Arago (Dominique François Jean)",
+   "born": 1786,
+   "era": "revolutions",
+   "word_count": 96
+  },
+  {
+   "n": 25,
+   "name": "Ardigo (Roberto)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 26,
+   "name": "Argens (Jean Baptiste de Boyer)",
+   "born": 1704,
+   "era": "enlightenment",
    "word_count": 124
   },
   {
-   "n": 166,
-   "name": "Dolet (Etienne)",
-   "born": 1509,
-   "word_count": 199
+   "n": 27,
+   "name": "Argental (Charles Augustin de Ferriol)",
+   "born": 444,
+   "era": "precursors",
+   "word_count": 333
   },
   {
-   "n": 167,
-   "name": "Draper (John William)",
-   "born": 1811,
-   "word_count": 123
+   "n": 28,
+   "name": "Arnold (Matthew)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 187
   },
   {
-   "n": 168,
-   "name": "Drummond (Sir William)",
-   "born": 1770,
-   "word_count": 113
+   "n": 29,
+   "name": "Arnould (Arthur)",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 88
   },
   {
-   "n": 169,
-   "name": "Du Bois-Reymond (Emil)",
+   "n": 30,
+   "name": "Asseline (Louis)",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 89
+  },
+  {
+   "n": 31,
+   "name": "Assezat (Jules)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 69
+  },
+  {
+   "n": 32,
+   "name": "Atkinson (Henry George)",
    "born": 1818,
-   "word_count": 147
+   "era": "revolutions",
+   "word_count": 80
   },
   {
-   "n": 170,
-   "name": "Du Deffand (Marie)",
-   "born": 1697,
-   "word_count": 138
+   "n": 33,
+   "name": "Austin (Charles)",
+   "born": 1799,
+   "era": "revolutions",
+   "word_count": 145
   },
   {
-   "n": 171,
-   "name": "Dulaure (Jacques Antoine)",
-   "born": 1755,
-   "word_count": 109
+   "n": 34,
+   "name": "Austin (John)",
+   "born": 1790,
+   "era": "revolutions",
+   "word_count": 142
   },
   {
-   "n": 172,
-   "name": "Dulaurens (Henri Joseph)",
-   "born": 1719,
-   "word_count": 111
+   "n": 35,
+   "name": "Avenel (Georges)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 65
   },
   {
-   "n": 173,
-   "name": "Dumarsais (César Chesneau)",
-   "born": 1676,
-   "word_count": 119
+   "n": 36,
+   "name": "Averroes (Muhammad Ibn-Ahmad Ibn Rushd)",
+   "born": 1126,
+   "era": "precursors",
+   "word_count": 120
   },
   {
-   "n": 174,
-   "name": "Dupuis (Charles François)",
-   "born": 1742,
+   "n": 37,
+   "name": "Avicenna (Husain Ibn Abdallah, called Ibn Sina)",
+   "born": 980,
+   "era": "precursors",
+   "word_count": 69
+  },
+  {
+   "n": 38,
+   "name": "Bagehot (Walter)",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 39,
+   "name": "Bahnsen (Julius Friedrich August)",
+   "born": 1830,
+   "era": "victorian",
+   "word_count": 75
+  },
+  {
+   "n": 40,
+   "name": "Bahrdt (Karl Friedrich)",
+   "born": 1741,
+   "era": "enlightenment",
+   "word_count": 72
+  },
+  {
+   "n": 41,
+   "name": "Bailey (Samuel)",
+   "born": 1791,
+   "era": "revolutions",
+   "word_count": 130
+  },
+  {
+   "n": 42,
+   "name": "Baillie (George)",
+   "born": 1854,
+   "era": "victorian",
+   "word_count": 142
+  },
+  {
+   "n": 43,
+   "name": "Bain (Alexander)",
+   "born": 1818,
+   "era": "revolutions",
+   "word_count": 187
+  },
+  {
+   "n": 44,
+   "name": "Bainham (James)",
+   "born": 1531,
+   "era": "precursors",
+   "word_count": 88
+  },
+  {
+   "n": 45,
+   "name": "Baissac (Jules)",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 46,
+   "name": "Bakunin (Mikhail Aleksandrovich)",
+   "born": 1814,
+   "era": "revolutions",
+   "word_count": 233
+  },
+  {
+   "n": 47,
+   "name": "Ball (William Platt)",
+   "born": 1844,
+   "era": "victorian",
+   "word_count": 145
+  },
+  {
+   "n": 48,
+   "name": "Baltzer (Wilhelm Eduard)",
+   "born": 1814,
+   "era": "revolutions",
+   "word_count": 66
+  },
+  {
+   "n": 49,
+   "name": "Bancel (François Désiré)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 73
+  },
+  {
+   "n": 50,
+   "name": "Barlow (Joel)",
+   "born": 1754,
+   "era": "enlightenment",
+   "word_count": 108
+  },
+  {
+   "n": 51,
+   "name": "Barni (Jules Romain)",
+   "born": 1818,
+   "era": "revolutions",
+   "word_count": 99
+  },
+  {
+   "n": 52,
+   "name": "Barrett (Thomas Squire)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 104
+  },
+  {
+   "n": 53,
+   "name": "Barrillot (François)",
+   "born": 1818,
+   "era": "revolutions",
+   "word_count": 72
+  },
+  {
+   "n": 54,
+   "name": "Barthez (Paul Joseph)",
+   "born": 1734,
+   "era": "enlightenment",
+   "word_count": 89
+  },
+  {
+   "n": 55,
+   "name": "Basedow (Johann Bernhard)",
+   "born": 1723,
+   "era": "enlightenment",
+   "word_count": 74
+  },
+  {
+   "n": 56,
+   "name": "Baskerville (John)",
+   "born": 1706,
+   "era": "enlightenment",
+   "word_count": 163
+  },
+  {
+   "n": 57,
+   "name": "Baudelaire (Charles Pierre)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 99
+  },
+  {
+   "n": 58,
+   "name": "Bauer (Bruno)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 228
+  },
+  {
+   "n": 59,
+   "name": "Baur (Ferdinand Christian von)",
+   "born": 1792,
+   "era": "revolutions",
+   "word_count": 133
+  },
+  {
+   "n": 60,
+   "name": "Bayle (Pierre)",
+   "born": 1647,
+   "era": "seventeenth",
+   "word_count": 166
+  },
+  {
+   "n": 61,
+   "name": "Beausobre (Louis de)",
+   "born": 1730,
+   "era": "enlightenment",
+   "word_count": 93
+  },
+  {
+   "n": 62,
+   "name": "Bebel (Ferdinand August)",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 93
+  },
+  {
+   "n": 63,
+   "name": "Beethoven (Ludwig van)",
+   "born": 1770,
+   "era": "revolutions",
+   "word_count": 206
+  },
+  {
+   "n": 64,
+   "name": "Bekker (Balthasar)",
+   "born": 1634,
+   "era": "seventeenth",
+   "word_count": 110
+  },
+  {
+   "n": 65,
+   "name": "Bell (Thomas Evans)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 95
+  },
+  {
+   "n": 66,
+   "name": "Bell (William S.)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 66
+  },
+  {
+   "n": 67,
+   "name": "Bennett (De Robigne Mortimer)",
+   "born": 1818,
+   "era": "revolutions",
+   "word_count": 242
+  },
+  {
+   "n": 68,
+   "name": "Bentham (Jeremy)",
+   "born": 1748,
+   "era": "enlightenment",
+   "word_count": 166
+  },
+  {
+   "n": 69,
+   "name": "Bergk (Johann Adam)",
+   "born": 1769,
+   "era": "enlightenment",
+   "word_count": 69
+  },
+  {
+   "n": 70,
+   "name": "Berigardus (Claudius)",
+   "born": 1591,
+   "era": "precursors",
+   "word_count": 84
+  },
+  {
+   "n": 71,
+   "name": "Berkenhout (Dr. John)",
+   "born": 1731,
+   "era": "enlightenment",
+   "word_count": 106
+  },
+  {
+   "n": 72,
+   "name": "Berlioz (Louis Hector)",
+   "born": 1803,
+   "era": "revolutions",
+   "word_count": 65
+  },
+  {
+   "n": 73,
+   "name": "Bernard (Claude)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 64
+  },
+  {
+   "n": 74,
+   "name": "Bernier (François)",
+   "born": 1625,
+   "era": "seventeenth",
+   "word_count": 78
+  },
+  {
+   "n": 75,
+   "name": "Bernstein (Aaron)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 83
+  },
+  {
+   "n": 76,
+   "name": "Berquin (Louis de)",
+   "born": 1489,
+   "era": "precursors",
+   "word_count": 105
+  },
+  {
+   "n": 77,
+   "name": "Bert (Paul)",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 189
+  },
+  {
+   "n": 78,
+   "name": "Besant (Annie)",
+   "born": 1847,
+   "era": "victorian",
+   "word_count": 445
+  },
+  {
+   "n": 79,
+   "name": "Beverland (Hadrianus)",
+   "born": 1654,
+   "era": "seventeenth",
+   "word_count": 92
+  },
+  {
+   "n": 80,
+   "name": "Beyle (Marie Henri)",
+   "born": 1783,
+   "era": "revolutions",
+   "word_count": 93
+  },
+  {
+   "n": 81,
+   "name": "Bianchi (Angelo)",
+   "born": 1799,
+   "era": "revolutions",
+   "word_count": 134
+  },
+  {
+   "n": 82,
+   "name": "Biandrata or Blandrata (Giorgio)",
+   "born": 1515,
+   "era": "precursors",
+   "word_count": 64
+  },
+  {
+   "n": 83,
+   "name": "Biddle or Bidle (John)",
+   "born": 1615,
+   "era": "seventeenth",
    "word_count": 131
   },
   {
+   "n": 84,
+   "name": "Billaud-Varenne (Jean Nicolas)",
+   "born": 1756,
+   "era": "enlightenment",
+   "word_count": 186
+  },
+  {
+   "n": 85,
+   "name": "Birch (William John)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 153
+  },
+  {
+   "n": 86,
+   "name": "Björnson (Björnstjerne)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 168
+  },
+  {
+   "n": 87,
+   "name": "Blanqui (Louis Auguste)",
+   "born": 1805,
+   "era": "revolutions",
+   "word_count": 152
+  },
+  {
+   "n": 88,
+   "name": "Blind (Karl)",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 164
+  },
+  {
+   "n": 89,
+   "name": "Blount (Charles)",
+   "born": 1654,
+   "era": "seventeenth",
+   "word_count": 153
+  },
+  {
+   "n": 90,
+   "name": "Boerne (Ludwig)",
+   "born": 1786,
+   "era": "revolutions",
+   "word_count": 60
+  },
+  {
+   "n": 91,
+   "name": "Bodin (Jean)",
+   "born": 1530,
+   "era": "precursors",
+   "word_count": 113
+  },
+  {
+   "n": 92,
+   "name": "Boichot (Jean Baptiste)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 64
+  },
+  {
+   "n": 93,
+   "name": "Boindin (Nicolas)",
+   "born": 1676,
+   "era": "seventeenth",
+   "word_count": 83
+  },
+  {
+   "n": 94,
+   "name": "Boissiere (Jean Baptiste Prudence)",
+   "born": 1806,
+   "era": "revolutions",
+   "word_count": 64
+  },
+  {
+   "n": 95,
+   "name": "Bolingbroke (Henry Saint John)",
+   "born": 1672,
+   "era": "seventeenth",
+   "word_count": 108
+  },
+  {
+   "n": 96,
+   "name": "Boni (Filippo de)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 202
+  },
+  {
+   "n": 97,
+   "name": "Born (Ignaz von)",
+   "born": 1742,
+   "era": "enlightenment",
+   "word_count": 61
+  },
+  {
+   "n": 98,
+   "name": "Boulainvilliers (Henri de)",
+   "born": 1658,
+   "era": "seventeenth",
+   "word_count": 104
+  },
+  {
+   "n": 99,
+   "name": "Boulanger (Nicolas-Antoine)",
+   "born": 1722,
+   "era": "enlightenment",
+   "word_count": 132
+  },
+  {
+   "n": 100,
+   "name": "Bovio (Giovanni)",
+   "born": 1887,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 101,
+   "name": "Bowring (Sir John, K.B., LL D.)",
+   "born": 1792,
+   "era": "revolutions",
+   "word_count": 149
+  },
+  {
+   "n": 102,
+   "name": "Boyle (Humphrey)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 114
+  },
+  {
+   "n": 103,
+   "name": "Bradlaugh (Charles)",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 425
+  },
+  {
+   "n": 104,
+   "name": "Brandes (Georg Morris Cohen)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 84
+  },
+  {
+   "n": 105,
+   "name": "Bray (Charles)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 238
+  },
+  {
+   "n": 106,
+   "name": "Brissot (Jean Pierre)",
+   "born": 1754,
+   "era": "enlightenment",
+   "word_count": 158
+  },
+  {
+   "n": 107,
+   "name": "Broca (Pierre Paul)",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 75
+  },
+  {
+   "n": 108,
+   "name": "Brooksbank (William)",
+   "born": 1801,
+   "era": "revolutions",
+   "word_count": 67
+  },
+  {
+   "n": 109,
+   "name": "Broussais (François Joseph Victor)",
+   "born": 1772,
+   "era": "revolutions",
+   "word_count": 124
+  },
+  {
+   "n": 110,
+   "name": "Brown (George William)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 94
+  },
+  {
+   "n": 111,
+   "name": "Browne (Sir Thomas)",
+   "born": 1605,
+   "era": "seventeenth",
+   "word_count": 124
+  },
+  {
+   "n": 112,
+   "name": "Bruno (Giordano)",
+   "born": 1548,
+   "era": "precursors",
+   "word_count": 290
+  },
+  {
+   "n": 113,
+   "name": "Buchanan (George)",
+   "born": 1506,
+   "era": "precursors",
+   "word_count": 216
+  },
+  {
+   "n": 114,
+   "name": "Buchanan (Robert)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 114
+  },
+  {
+   "n": 115,
+   "name": "Buckle (Henry Thomas)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 175
+  },
+  {
+   "n": 116,
+   "name": "Buechner (Friedrich Karl Christian Ludwig)",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 137
+  },
+  {
+   "n": 117,
+   "name": "Buffon (Georges Louis Leclerc)",
+   "born": 1707,
+   "era": "enlightenment",
+   "word_count": 94
+  },
+  {
+   "n": 118,
+   "name": "Bufalini (Maurizio)",
+   "born": 1787,
+   "era": "revolutions",
+   "word_count": 63
+  },
+  {
+   "n": 119,
+   "name": "Burdon (William)",
+   "born": 1764,
+   "era": "enlightenment",
+   "word_count": 116
+  },
+  {
+   "n": 120,
+   "name": "Burigny (Jean Levesque de)",
+   "born": 1692,
+   "era": "seventeenth",
+   "word_count": 83
+  },
+  {
+   "n": 121,
+   "name": "Burnet (Thomas)",
+   "born": 1635,
+   "era": "seventeenth",
+   "word_count": 236
+  },
+  {
+   "n": 122,
+   "name": "Burnett (James)",
+   "born": 1714,
+   "era": "enlightenment",
+   "word_count": 107
+  },
+  {
+   "n": 123,
+   "name": "Burnouf (Emile Louis)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 124,
+   "name": "Burnouf (Eugène)",
+   "born": 1801,
+   "era": "revolutions",
+   "word_count": 77
+  },
+  {
+   "n": 125,
+   "name": "Burns (Robert)",
+   "born": 1759,
+   "era": "enlightenment",
+   "word_count": 67
+  },
+  {
+   "n": 126,
+   "name": "Burr (William Henry)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 114
+  },
+  {
+   "n": 127,
+   "name": "Burton (Sir Richard Francis)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 185
+  },
+  {
+   "n": 128,
+   "name": "Butler (Samuel)",
+   "born": 1612,
+   "era": "seventeenth",
+   "word_count": 112
+  },
+  {
+   "n": 129,
+   "name": "Byron (George Gordon Noel)",
+   "born": 1788,
+   "era": "revolutions",
+   "word_count": 243
+  },
+  {
+   "n": 130,
+   "name": "Cabanis (Pierre Jean George)",
+   "born": 1757,
+   "era": "enlightenment",
+   "word_count": 106
+  },
+  {
+   "n": 131,
+   "name": "Cæsalpinus (Andreas)",
+   "born": 1519,
+   "era": "precursors",
+   "word_count": 91
+  },
+  {
+   "n": 132,
+   "name": "Callet (Pierre Auguste)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 80
+  },
+  {
+   "n": 133,
+   "name": "Campanella (Tommaso)",
+   "born": 1568,
+   "era": "precursors",
+   "word_count": 274
+  },
+  {
+   "n": 134,
+   "name": "Campbell (Alexander)",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 111
+  },
+  {
+   "n": 135,
+   "name": "Campion (William)",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 74
+  },
+  {
+   "n": 136,
+   "name": "Canestrini (Giovanni)",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 95
+  },
+  {
+   "n": 137,
+   "name": "Cardano (Girolamo)",
+   "born": 1501,
+   "era": "precursors",
+   "word_count": 194
+  },
+  {
+   "n": 138,
+   "name": "Carducci (Giosuè)",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 135
+  },
+  {
+   "n": 139,
+   "name": "Carlile (Eliza Sharples)",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 97
+  },
+  {
+   "n": 140,
+   "name": "Carlile (Richard)",
+   "born": 1790,
+   "era": "revolutions",
+   "word_count": 318
+  },
+  {
+   "n": 141,
+   "name": "Carlyle (Thomas)",
+   "born": 213,
+   "era": "precursors",
+   "word_count": 423
+  },
+  {
+   "n": 142,
+   "name": "Carneri (Bartholomäus von)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 65
+  },
+  {
+   "n": 143,
+   "name": "Carra (Jean Louis)",
+   "born": 1743,
+   "era": "enlightenment",
+   "word_count": 118
+  },
+  {
+   "n": 144,
+   "name": "Carrel (Jean Baptiste Nicolas Armand)",
+   "born": 1800,
+   "era": "revolutions",
+   "word_count": 147
+  },
+  {
+   "n": 145,
+   "name": "Castelar y Ripoll (Emilio)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 158
+  },
+  {
+   "n": 146,
+   "name": "Castelli (David)",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 61
+  },
+  {
+   "n": 147,
+   "name": "Castilhon (Jean Louis)",
+   "born": 1720,
+   "era": "enlightenment",
+   "word_count": 64
+  },
+  {
+   "n": 148,
+   "name": "Cavalcante (Guido)",
+   "born": 1230,
+   "era": "precursors",
+   "word_count": 75
+  },
+  {
+   "n": 149,
+   "name": "Cayla (Jean Mamert)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 83
+  },
+  {
+   "n": 150,
+   "name": "Cazelles (Emile)",
+   "born": 1257,
+   "era": "precursors",
+   "word_count": 94
+  },
+  {
+   "n": 151,
+   "name": "Cellarius (Martin)",
+   "born": 1522,
+   "era": "precursors",
+   "word_count": 137
+  },
+  {
+   "n": 152,
+   "name": "Cerutti (Giuseppe Antonio Gioachino)",
+   "born": 1738,
+   "era": "enlightenment",
+   "word_count": 81
+  },
+  {
+   "n": 153,
+   "name": "Chaloner (Thomas)",
+   "born": 1595,
+   "era": "precursors",
+   "word_count": 103
+  },
+  {
+   "n": 154,
+   "name": "Chambers (Ephraim)",
+   "born": 1680,
+   "era": "seventeenth",
+   "word_count": 77
+  },
+  {
+   "n": 155,
+   "name": "Chamfort (Sébastien Roch Nicolas)",
+   "born": 1741,
+   "era": "enlightenment",
+   "word_count": 147
+  },
+  {
+   "n": 156,
+   "name": "Chappellsmith (Margaret)",
+   "born": 1806,
+   "era": "revolutions",
+   "word_count": 83
+  },
+  {
+   "n": 157,
+   "name": "Charma (Antoine)",
+   "born": 1801,
+   "era": "revolutions",
+   "word_count": 61
+  },
+  {
+   "n": 158,
+   "name": "Chastelet du or Chatelet Lomont (Gabrielle Emilie le Tonnelier de\nBreteuil)",
+   "born": 1706,
+   "era": "enlightenment",
+   "word_count": 91
+  },
+  {
+   "n": 159,
+   "name": "Chatterton (Thomas)",
+   "born": 1752,
+   "era": "enlightenment",
+   "word_count": 79
+  },
+  {
+   "n": 160,
+   "name": "Chaucer (Geoffrey)",
+   "born": 1340,
+   "era": "precursors",
+   "word_count": 105
+  },
+  {
+   "n": 161,
+   "name": "Chaumette (Pierre Gaspard)",
+   "born": 1763,
+   "era": "enlightenment",
+   "word_count": 221
+  },
+  {
+   "n": 162,
+   "name": "Chenier (Marie André de)",
+   "born": 1762,
+   "era": "enlightenment",
+   "word_count": 143
+  },
+  {
+   "n": 163,
+   "name": "Chenier (Marie Joseph de)",
+   "born": 1764,
+   "era": "enlightenment",
+   "word_count": 91
+  },
+  {
+   "n": 164,
+   "name": "Chernuishevsky or Tchernycheiosky (Nikolai Gerasimovich)",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 61
+  },
+  {
+   "n": 165,
+   "name": "Chies y Gomez (Ramon)",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 113
+  },
+  {
+   "n": 166,
+   "name": "Child (Lydia Maria)",
+   "born": 1802,
+   "era": "revolutions",
+   "word_count": 107
+  },
+  {
+   "n": 167,
+   "name": "Chilton (William)",
+   "born": 1815,
+   "era": "revolutions",
+   "word_count": 74
+  },
+  {
+   "n": 168,
+   "name": "Chubb (Thomas)",
+   "born": 1679,
+   "era": "seventeenth",
+   "word_count": 78
+  },
+  {
+   "n": 169,
+   "name": "Clarke (John)",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 117
+  },
+  {
+   "n": 170,
+   "name": "Clarke (Marcus)",
+   "born": 1847,
+   "era": "victorian",
+   "word_count": 97
+  },
+  {
+   "n": 171,
+   "name": "Clayton (Robert)",
+   "born": 1695,
+   "era": "seventeenth",
+   "word_count": 89
+  },
+  {
+   "n": 172,
+   "name": "Cleave (John)",
+   "born": 1837,
+   "era": "victorian",
+   "word_count": 62
+  },
+  {
+   "n": 173,
+   "name": "Clemenceau (Georges Benjamin Eugene)",
+   "born": 1841,
+   "era": "victorian",
+   "word_count": 98
+  },
+  {
+   "n": 174,
+   "name": "Clemens (Samuel Langhorne)",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 61
+  },
+  {
    "n": 175,
-   "name": "Duvernet (Théophile Imarigeon)",
-   "born": 1730,
+   "name": "Clifford (Martin)",
+   "born": 1671,
+   "era": "seventeenth",
    "word_count": 107
   },
   {
    "n": 176,
-   "name": "Eaton (Daniel Isaac)",
-   "born": 1752,
-   "word_count": 236
+   "name": "Clifford (William Kingdon)",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 237
   },
   {
    "n": 177,
-   "name": "Edelmann (Johann Christian)",
-   "born": 1698,
-   "word_count": 130
+   "name": "Cloots or Clootz (Johann Baptist, afterwards Anacharsis)",
+   "born": 1755,
+   "era": "enlightenment",
+   "word_count": 223
   },
   {
    "n": 178,
-   "name": "Eichhorn (Johann Gottfried)",
-   "born": 1752,
-   "word_count": 428
+   "name": "Clough (Arthur Hugh)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 139
   },
   {
    "n": 179,
-   "name": "Elliotson (John, M.D., F.R.S.)",
-   "born": 1791,
-   "word_count": 149
+   "name": "Colenso (John William)",
+   "born": 1814,
+   "era": "revolutions",
+   "word_count": 100
   },
   {
    "n": 180,
-   "name": "Eichthal (Gustave d')",
-   "born": 1804,
-   "word_count": 93
+   "name": "Collins (Anthony)",
+   "born": 1676,
+   "era": "seventeenth",
+   "word_count": 269
   },
   {
    "n": 181,
-   "name": "Emerson (Ralph Waldo)",
-   "born": 1803,
-   "word_count": 134
+   "name": "Colman (Lucy N.)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 83
   },
   {
    "n": 182,
-   "name": "Emmet (Robert)",
-   "born": 1778,
-   "word_count": 91
+   "name": "Combe (Abram)",
+   "born": 1785,
+   "era": "revolutions",
+   "word_count": 75
   },
   {
    "n": 183,
-   "name": "English (George Bethune)",
-   "born": 1787,
-   "word_count": 123
+   "name": "Combe (George)",
+   "born": 1788,
+   "era": "revolutions",
+   "word_count": 145
   },
   {
    "n": 184,
-   "name": "Ensor (George)",
-   "born": 1769,
-   "word_count": 328
+   "name": "Comte (Isidore Auguste Marie François Xavier)",
+   "born": 1798,
+   "era": "revolutions",
+   "word_count": 367
   },
   {
    "n": 185,
-   "name": "Espronceda (José)",
-   "born": 1810,
-   "word_count": 227
+   "name": "Condillac (Etienne Bonnot de)",
+   "born": 1715,
+   "era": "enlightenment",
+   "word_count": 69
   },
   {
    "n": 186,
-   "name": "Estienne (Henri)",
-   "born": 1528,
-   "word_count": 109
+   "name": "Condorcet (Marie Jean Antoine Nicolas Caritat, Marquis de)",
+   "born": 1743,
+   "era": "enlightenment",
+   "word_count": 222
   },
   {
    "n": 187,
-   "name": "Evans (George Henry)",
-   "born": 1803,
-   "word_count": 90
+   "name": "Condorcet (Sophie de Grouchy Caritat, Marquise de)",
+   "born": 1765,
+   "era": "enlightenment",
+   "word_count": 100
   },
   {
    "n": 188,
-   "name": "Evanson (Edward)",
-   "born": 1731,
-   "word_count": 209
+   "name": "Congreve (Richard)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 78
   },
   {
    "n": 189,
-   "name": "Ferrari (Giuseppe)",
-   "born": 1811,
-   "word_count": 154
+   "name": "Connor (Bernard)",
+   "born": 1666,
+   "era": "seventeenth",
+   "word_count": 60
   },
   {
    "n": 190,
-   "name": "Feuerbach (Ludwig Andreas)",
-   "born": 1804,
-   "word_count": 224
+   "name": "Constant de Rebecque (Henri Benjamin)",
+   "born": 1767,
+   "era": "enlightenment",
+   "word_count": 93
   },
   {
    "n": 191,
-   "name": "Fichte (Johann Gottlieb)",
-   "born": 1762,
-   "word_count": 187
+   "name": "Conway (Moncure Daniel)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 206
   },
   {
    "n": 192,
-   "name": "Fiorentino (Francesco)",
-   "born": 1834,
-   "word_count": 111
-  },
-  {
-   "n": 193,
-   "name": "Flaubert (Gustave)",
-   "born": 1821,
-   "word_count": 132
-  },
-  {
-   "n": 194,
-   "name": "Flourens (Gustave)",
-   "born": 1838,
+   "name": "Cook (Kenningale Robert)",
+   "born": 1845,
+   "era": "victorian",
    "word_count": 108
   },
   {
+   "n": 193,
+   "name": "Cooper (Henry)",
+   "born": 1784,
+   "era": "revolutions",
+   "word_count": 77
+  },
+  {
+   "n": 194,
+   "name": "Cooper (John Gilbert)",
+   "born": 1723,
+   "era": "enlightenment",
+   "word_count": 64
+  },
+  {
    "n": 195,
-   "name": "Fontenelle (Bernard le Bovier de)",
-   "born": 1657,
-   "word_count": 201
+   "name": "Cooper (Robert)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 229
   },
   {
    "n": 196,
-   "name": "Foote (George William)",
-   "born": 1850,
-   "word_count": 440
+   "name": "Cooper (Thomas)",
+   "born": 1759,
+   "era": "enlightenment",
+   "word_count": 273
   },
   {
    "n": 197,
-   "name": "Fouillee (Alfred)",
-   "born": 1838,
-   "word_count": 147
+   "name": "Coornhert (Dirk Volkertszoon)",
+   "born": 1522,
+   "era": "precursors",
+   "word_count": 106
   },
   {
    "n": 198,
-   "name": "Forberg (Friedrich Karl)",
-   "born": 1770,
-   "word_count": 109
+   "name": "Corvin-Wiersbitski (Otto Julius Bernhard von)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 132
   },
   {
    "n": 199,
-   "name": "Forder (Robert)",
-   "born": 1844,
-   "word_count": 90
+   "name": "Cotta (Bernhard)",
+   "born": 1808,
+   "era": "revolutions",
+   "word_count": 73
   },
   {
    "n": 200,
-   "name": "Forlong (James George Roche)",
-   "born": 1824,
-   "word_count": 231
+   "name": "Courier (Paul Louis)",
+   "born": 1772,
+   "era": "revolutions",
+   "word_count": 79
   },
   {
    "n": 201,
-   "name": "Fox (William Johnson)",
-   "born": 1786,
-   "word_count": 294
+   "name": "Cox (the Right Rev. Sir George William)",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 108
   },
   {
    "n": 202,
-   "name": "Franklin (Benjamin)",
-   "born": 1706,
-   "word_count": 163
+   "name": "Craig (Edward Thomas)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 104
   },
   {
    "n": 203,
-   "name": "Frederick II. (Emperor of Germany)",
-   "born": 1194,
-   "word_count": 178
+   "name": "Cramer (Johan Nicolai)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 84
   },
   {
    "n": 204,
-   "name": "Frederick the Great (King of Prussia)",
-   "born": 1712,
-   "word_count": 130
+   "name": "Cranbrook (Rev. James.)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 125
   },
   {
    "n": 205,
-   "name": "Fréret (Nicolas)",
-   "born": 1688,
-   "word_count": 165
+   "name": "Cremonini (Cesare)",
+   "born": 1550,
+   "era": "precursors",
+   "word_count": 119
   },
   {
    "n": 206,
-   "name": "Frothingham (Octavius Brooks)",
-   "born": 1822,
+   "name": "Croly (David Goodman)",
+   "born": 1831,
+   "era": "victorian",
    "word_count": 94
   },
   {
    "n": 207,
-   "name": "Froude (James Anthony)",
-   "born": 1818,
-   "word_count": 184
+   "name": "Crozier (John Beattie)",
+   "born": 1849,
+   "era": "victorian",
+   "word_count": 183
   },
   {
    "n": 208,
-   "name": "Fry (John)",
-   "born": 1640,
-   "word_count": 104
+   "name": "Cuffeler (Abraham Johann)",
+   "born": 1684,
+   "era": "seventeenth",
+   "word_count": 64
   },
   {
    "n": 209,
-   "name": "Gabarro (Bartolomé)",
-   "born": 1846,
-   "word_count": 121
+   "name": "Cuper (Frans)",
+   "born": 1676,
+   "era": "seventeenth",
+   "word_count": 64
   },
   {
    "n": 210,
-   "name": "Gagern (Carlos von)",
-   "born": 1826,
-   "word_count": 113
-  },
-  {
-   "n": 211,
-   "name": "Galton (Francis)",
-   "born": 1822,
-   "word_count": 115
-  },
-  {
-   "n": 212,
-   "name": "Gambetta (Léon Michel)",
-   "born": 1838,
-   "word_count": 193
-  },
-  {
-   "n": 213,
-   "name": "Garborg (Arne)",
-   "born": 1851,
-   "word_count": 91
-  },
-  {
-   "n": 214,
-   "name": "Garibaldi (Guiseppe)",
-   "born": 1807,
-   "word_count": 360
-  },
-  {
-   "n": 215,
-   "name": "Gautama (called also Gotama, Buddha, and Sakyamuni)",
-   "born": 624,
+   "name": "Cyrano de Bergerac (Savinien)",
+   "born": 1619,
+   "era": "seventeenth",
    "word_count": 134
   },
   {
-   "n": 216,
-   "name": "Geijer (Erik Gustaf)",
-   "born": 1783,
-   "word_count": 122
+   "n": 211,
+   "name": "Czolbe (Heinrich)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 83
   },
   {
-   "n": 217,
-   "name": "Gentilis (Giovanni Valentino)",
-   "born": 1520,
-   "word_count": 128
+   "n": 212,
+   "name": "Dale (Antonius van)",
+   "born": 1638,
+   "era": "seventeenth",
+   "word_count": 96
   },
   {
-   "n": 218,
-   "name": "Giannone (Pietro)",
-   "born": 1676,
-   "word_count": 116
-  },
-  {
-   "n": 219,
-   "name": "Gibbon (Edward)",
-   "born": 1737,
-   "word_count": 129
-  },
-  {
-   "n": 220,
-   "name": "Giessenburg (Rudolf Charles d'Ablaing van)",
-   "born": 1826,
-   "word_count": 177
-  },
-  {
-   "n": 221,
-   "name": "Gilbert (Claude)",
-   "born": 1652,
-   "word_count": 93
-  },
-  {
-   "n": 222,
-   "name": "Giles (Rev. John Allen, D.Ph.)",
-   "born": 1808,
-   "word_count": 126
-  },
-  {
-   "n": 223,
-   "name": "Girard (Stephen)",
-   "born": 1750,
-   "word_count": 181
-  },
-  {
-   "n": 224,
-   "name": "Glisson (Francis)",
-   "born": 1597,
-   "word_count": 97
-  },
-  {
-   "n": 225,
-   "name": "Godwin (William)",
-   "born": 1756,
-   "word_count": 177
-  },
-  {
-   "n": 226,
-   "name": "Goethe (Johann Wolfgang von)",
-   "born": 1749,
-   "word_count": 328
-  },
-  {
-   "n": 227,
-   "name": "Goldstuecker (Theodor)",
-   "born": 1821,
-   "word_count": 103
-  },
-  {
-   "n": 228,
-   "name": "Gordon (Thomas)",
-   "born": 1684,
-   "word_count": 123
-  },
-  {
-   "n": 229,
-   "name": "Greg (William Rathbone)",
-   "born": 1809,
-   "word_count": 128
-  },
-  {
-   "n": 230,
-   "name": "Grimm (Friedrich Melchior von)",
-   "born": 1723,
+   "n": 213,
+   "name": "Damilaville (Etienne Noël)",
+   "born": 1721,
+   "era": "enlightenment",
    "word_count": 114
   },
   {
-   "n": 231,
-   "name": "Grote (George)",
-   "born": 1794,
-   "word_count": 189
+   "n": 214,
+   "name": "Danton (Georges Jacques)",
+   "born": 1759,
+   "era": "enlightenment",
+   "word_count": 192
   },
   {
-   "n": 232,
-   "name": "Gruen (Karl)",
-   "born": 1817,
-   "word_count": 101
+   "n": 215,
+   "name": "Dapper (Olfert)",
+   "born": 1650,
+   "era": "seventeenth",
+   "word_count": 63
   },
   {
-   "n": 233,
-   "name": "Guépin (Ange)",
-   "born": 1805,
-   "word_count": 105
+   "n": 216,
+   "name": "Darwin (Charles Robert)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 320
   },
   {
-   "n": 234,
-   "name": "Gueroult (Adolphe)",
-   "born": 1850,
+   "n": 217,
+   "name": "Darwin (Erasmus)",
+   "born": 1731,
+   "era": "enlightenment",
    "word_count": 104
   },
   {
-   "n": 235,
-   "name": "Gueudeville (Nicolas)",
-   "born": 1654,
-   "word_count": 108
+   "n": 218,
+   "name": "Daunou (Pierre Claude François)",
+   "born": 1761,
+   "era": "enlightenment",
+   "word_count": 90
   },
   {
-   "n": 236,
-   "name": "Günst (Dr. Frans Christiaan)",
-   "born": 1823,
-   "word_count": 169
+   "n": 219,
+   "name": "Davenport (John)",
+   "born": 1789,
+   "era": "revolutions",
+   "word_count": 122
   },
   {
-   "n": 237,
-   "name": "Guyau (Marie Jean)",
-   "born": 1854,
-   "word_count": 159
+   "n": 220,
+   "name": "David (Jacques Louis)",
+   "born": 1748,
+   "era": "enlightenment",
+   "word_count": 64
   },
   {
-   "n": 238,
-   "name": "Haeckel (Ernst Heinrich Philipp August)",
-   "born": 1834,
-   "word_count": 146
+   "n": 221,
+   "name": "Davidis or David (Ferencz)",
+   "born": 1510,
+   "era": "precursors",
+   "word_count": 67
   },
   {
-   "n": 239,
-   "name": "Halley (Edmund)",
-   "born": 1656,
+   "n": 222,
+   "name": "De Gubernatis (Angelo)",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 101
+  },
+  {
+   "n": 223,
+   "name": "Dekker (Eduard Douwes)",
+   "born": 1820,
+   "era": "victorian",
    "word_count": 218
   },
   {
-   "n": 240,
-   "name": "Hanson (Sir Richard Davies)",
-   "born": 1805,
+   "n": 224,
+   "name": "Delambre (Jean Baptiste Joseph)",
+   "born": 1749,
+   "era": "enlightenment",
+   "word_count": 104
+  },
+  {
+   "n": 225,
+   "name": "Delboeuf (Joseph Remi Léopold)",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 63
+  },
+  {
+   "n": 226,
+   "name": "Delbos (Léon)",
+   "born": 1849,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 227,
+   "name": "Delescluze (Louis Charles)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 107
+  },
+  {
+   "n": 228,
+   "name": "Deleyre (Alexandre)",
+   "born": 1726,
+   "era": "enlightenment",
+   "word_count": 89
+  },
+  {
+   "n": 229,
+   "name": "De Maillet. See Maillet (Benoît de)",
+   "born": 460,
+   "era": "precursors",
+   "word_count": 138
+  },
+  {
+   "n": 230,
+   "name": "Denton (William F.)",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 78
+  },
+  {
+   "n": 231,
+   "name": "De Paepe (César)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 131
+  },
+  {
+   "n": 232,
+   "name": "De Potter (Louis Antoine Joseph)",
+   "born": 1786,
+   "era": "revolutions",
+   "word_count": 129
+  },
+  {
+   "n": 233,
+   "name": "Deraismes (Maria)",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 234,
+   "name": "Desbarreaux (Jacques Vallée)",
+   "born": 1602,
+   "era": "seventeenth",
+   "word_count": 92
+  },
+  {
+   "n": 235,
+   "name": "Descartes (René)",
+   "born": 1596,
+   "era": "precursors",
+   "word_count": 130
+  },
+  {
+   "n": 236,
+   "name": "Deschamps (Léger-Marie)",
+   "born": 1716,
+   "era": "enlightenment",
+   "word_count": 119
+  },
+  {
+   "n": 237,
+   "name": "Deslandes (André François Boureau)",
+   "born": 1690,
+   "era": "seventeenth",
+   "word_count": 102
+  },
+  {
+   "n": 238,
+   "name": "Des Maizeaux (Pierre)",
+   "born": 1673,
+   "era": "seventeenth",
    "word_count": 106
   },
   {
+   "n": 239,
+   "name": "Desmoulins (Lucié Simplice Camille Benôit)",
+   "born": 1770,
+   "era": "revolutions",
+   "word_count": 156
+  },
+  {
+   "n": 240,
+   "name": "Des Periers (Jean Bonaventure)",
+   "born": 1510,
+   "era": "precursors",
+   "word_count": 148
+  },
+  {
    "n": 241,
-   "name": "Hardwicke (Herbert Junius)",
-   "born": 1850,
-   "word_count": 103
+   "name": "Destutt de Tracy (Antoine Louis de Claude)",
+   "born": 1754,
+   "era": "enlightenment",
+   "word_count": 104
   },
   {
    "n": 242,
-   "name": "Harrison (Frederic)",
-   "born": 1831,
-   "word_count": 115
+   "name": "Detrosier (Rowland)",
+   "born": 1796,
+   "era": "revolutions",
+   "word_count": 86
   },
   {
    "n": 243,
-   "name": "Hartmann (Karl Robert Eduard)",
-   "born": 1842,
-   "word_count": 103
+   "name": "Deubler (Konrad)",
+   "born": 1814,
+   "era": "revolutions",
+   "word_count": 100
   },
   {
    "n": 244,
-   "name": "Hartogh Heys van Zouteveen (Dr. Herman)",
-   "born": 1841,
-   "word_count": 290
+   "name": "Diderot (Denis)",
+   "born": 1713,
+   "era": "enlightenment",
+   "word_count": 198
   },
   {
    "n": 245,
-   "name": "Haslam (Charles Junius)",
-   "born": 1811,
-   "word_count": 110
+   "name": "Dippel (Johann Konrad)",
+   "born": 1672,
+   "era": "seventeenth",
+   "word_count": 88
   },
   {
    "n": 246,
-   "name": "Hegel (Georg Wilhelm Friedrich)",
-   "born": 1770,
-   "word_count": 111
+   "name": "Dodel-Port (Prof. Arnold)",
+   "born": 1843,
+   "era": "victorian",
+   "word_count": 124
   },
   {
    "n": 247,
-   "name": "Heine (Heinrich)",
-   "born": 1797,
-   "word_count": 190
+   "name": "Dodwell (Henry)",
+   "born": 1726,
+   "era": "enlightenment",
+   "word_count": 87
   },
   {
    "n": 248,
-   "name": "Heinzen (Karl Peter)",
-   "born": 1809,
-   "word_count": 177
+   "name": "Dolet (Etienne)",
+   "born": 1509,
+   "era": "precursors",
+   "word_count": 199
   },
   {
    "n": 249,
-   "name": "Helvetius (Claude Adrien)",
-   "born": 1719,
-   "word_count": 236
+   "name": "Draper (John William)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 123
   },
   {
    "n": 250,
-   "name": "Henin de Cuvillers (Etienne Felix)",
-   "born": 1755,
+   "name": "Drummond (Sir William)",
+   "born": 1770,
+   "era": "revolutions",
    "word_count": 113
   },
   {
    "n": 251,
-   "name": "Herault de Sechelles (Marie Jean)",
-   "born": 1760,
-   "word_count": 92
+   "name": "Duboc (Julius)",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 71
   },
   {
    "n": 252,
-   "name": "Herbert (Edward)",
-   "born": 1581,
-   "word_count": 121
+   "name": "Dubois (Pierre)",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 68
   },
   {
    "n": 253,
-   "name": "Hertzen or Gertsen (Aleksandr Ivanovich)",
-   "born": 1839,
-   "word_count": 195
+   "name": "Du Bois-Reymond (Emil)",
+   "born": 1818,
+   "era": "revolutions",
+   "word_count": 147
   },
   {
    "n": 254,
-   "name": "Hetherington (Henry)",
-   "born": 1792,
-   "word_count": 188
+   "name": "Du Deffand (Marie)",
+   "born": 1697,
+   "era": "seventeenth",
+   "word_count": 138
   },
   {
    "n": 255,
-   "name": "Hibbert (Julian)",
-   "born": 1801,
-   "word_count": 175
+   "name": "Dulaure (Jacques Antoine)",
+   "born": 1755,
+   "era": "enlightenment",
+   "word_count": 109
   },
   {
    "n": 256,
-   "name": "Higgins (Godfrey)",
-   "born": 1771,
-   "word_count": 152
+   "name": "Dulaurens (Henri Joseph)",
+   "born": 1719,
+   "era": "enlightenment",
+   "word_count": 111
   },
   {
    "n": 257,
-   "name": "Hillebrand (Karl)",
-   "born": 1829,
-   "word_count": 145
+   "name": "Dulk (Albert Friedrich Benno)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 73
   },
   {
    "n": 258,
-   "name": "Hobbes (Thomas)",
-   "born": 1588,
-   "word_count": 117
-  },
-  {
-   "n": 259,
-   "name": "Holbach (Paul Heinrich Dietrich von)",
-   "born": 1723,
-   "word_count": 393
-  },
-  {
-   "n": 260,
-   "name": "Holwell (John Zephaniah)",
-   "born": 1711,
-   "word_count": 101
-  },
-  {
-   "n": 261,
-   "name": "Holyoake (Austin)",
-   "born": 1826,
-   "word_count": 158
-  },
-  {
-   "n": 262,
-   "name": "Holyoake (George Jacob)",
-   "born": 1817,
-   "word_count": 304
-  },
-  {
-   "n": 263,
-   "name": "Houston (George)",
-   "born": 1799,
-   "word_count": 100
-  },
-  {
-   "n": 264,
-   "name": "Hovelacque (Abel)",
-   "born": 1843,
-   "word_count": 167
-  },
-  {
-   "n": 265,
-   "name": "Hugo (Victor Marie)",
-   "born": 1802,
-   "word_count": 189
-  },
-  {
-   "n": 266,
-   "name": "Humboldt (Friedrich Heinrich Alexander von)",
-   "born": 1769,
-   "word_count": 248
-  },
-  {
-   "n": 267,
-   "name": "Humboldt (Karl Wilhelm von)",
-   "born": 1767,
-   "word_count": 128
-  },
-  {
-   "n": 268,
-   "name": "Hume (David)",
-   "born": 1711,
-   "word_count": 211
-  },
-  {
-   "n": 269,
-   "name": "Hunt (James Henry Leigh)",
-   "born": 1784,
-   "word_count": 120
-  },
-  {
-   "n": 270,
-   "name": "Hutten (Ulrich von)",
-   "born": 1488,
-   "word_count": 123
-  },
-  {
-   "n": 271,
-   "name": "Huxley (Thomas Henry)",
-   "born": 1825,
-   "word_count": 325
-  },
-  {
-   "n": 272,
-   "name": "Ibsen (Henrik)",
-   "born": 1828,
-   "word_count": 125
-  },
-  {
-   "n": 273,
-   "name": "Ingersoll (Robert Green)",
-   "born": 1833,
-   "word_count": 208
-  },
-  {
-   "n": 274,
-   "name": "Inman (Thomas)",
-   "born": 1820,
-   "word_count": 148
-  },
-  {
-   "n": 275,
-   "name": "Isoard Delisle (Jean Baptiste Claude)",
-   "born": 1743,
-   "word_count": 102
-  },
-  {
-   "n": 276,
-   "name": "Jefferson (Thomas)",
-   "born": 1743,
-   "word_count": 164
-  },
-  {
-   "n": 277,
-   "name": "Johnson (Richard Mentor)",
-   "born": 1781,
-   "word_count": 96
-  },
-  {
-   "n": 278,
-   "name": "Johnson (Samuel)",
-   "born": 1822,
-   "word_count": 90
-  },
-  {
-   "n": 279,
-   "name": "Jones (Ernest Charles)",
-   "born": 1819,
-   "word_count": 109
-  },
-  {
-   "n": 280,
-   "name": "Jones (John Gale)",
-   "born": 1771,
-   "word_count": 107
-  },
-  {
-   "n": 281,
-   "name": "Jones (Lloyd)",
-   "born": 1811,
-   "word_count": 322
-  },
-  {
-   "n": 282,
-   "name": "Julianus (Flavius Claudius)",
-   "born": null,
-   "word_count": 145
-  },
-  {
-   "n": 283,
-   "name": "Junghuhn (Franz Wilhelm)",
-   "born": 1812,
-   "word_count": 192
-  },
-  {
-   "n": 284,
-   "name": "Kalisch (Moritz Marcus)",
-   "born": 1828,
-   "word_count": 121
-  },
-  {
-   "n": 285,
-   "name": "Kant (Immanuel)",
-   "born": 1724,
-   "word_count": 125
-  },
-  {
-   "n": 286,
-   "name": "Keith (James Francis Edward)",
-   "born": 1696,
-   "word_count": 120
-  },
-  {
-   "n": 287,
-   "name": "Kerr (Michael Crawford)",
-   "born": 1827,
-   "word_count": 97
-  },
-  {
-   "n": 288,
-   "name": "Khayyam (Omar)",
-   "born": 1123,
-   "word_count": 91
-  },
-  {
-   "n": 289,
-   "name": "Kneeland (Abner)",
-   "born": 1774,
-   "word_count": 202
-  },
-  {
-   "n": 290,
-   "name": "Knutzen (Matthias)",
-   "born": 1645,
-   "word_count": 138
-  },
-  {
-   "n": 291,
-   "name": "Koerbagh (Adriaan)",
-   "born": 1632,
-   "word_count": 115
-  },
-  {
-   "n": 292,
-   "name": "Korn (Selig)",
-   "born": 1804,
-   "word_count": 94
-  },
-  {
-   "n": 293,
-   "name": "Krause (Ernst H. Ludwig)",
-   "born": 1839,
-   "word_count": 136
-  },
-  {
-   "n": 294,
-   "name": "Krekel (Arnold)",
-   "born": 1815,
+   "name": "Dumarsais (César Chesneau)",
+   "born": 1676,
+   "era": "seventeenth",
    "word_count": 119
   },
   {
-   "n": 295,
-   "name": "Kropotkin (Petr Aleksyeevich)",
-   "born": 1842,
-   "word_count": 116
+   "n": 259,
+   "name": "Duncker (Maximilian Wolfgang)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 69
   },
   {
-   "n": 296,
-   "name": "Laing (Samuel)",
-   "born": 1812,
-   "word_count": 135
-  },
-  {
-   "n": 297,
-   "name": "Lalande (Joseph Jèrome le Francais de)",
-   "born": 1732,
-   "word_count": 189
-  },
-  {
-   "n": 298,
-   "name": "Lamarck (Jean Baptiste Pierre Antoine de Monet)",
-   "born": 1744,
-   "word_count": 95
-  },
-  {
-   "n": 299,
-   "name": "Lamettrie (Julian Offray de)",
-   "born": 1709,
-   "word_count": 252
-  },
-  {
-   "n": 300,
-   "name": "Landor (Walter Savage)",
-   "born": 1775,
-   "word_count": 129
-  },
-  {
-   "n": 301,
-   "name": "Lanessan (Jean Louis de)",
-   "born": 1843,
-   "word_count": 107
-  },
-  {
-   "n": 302,
-   "name": "Lange (Friedrich Albert)",
-   "born": 1828,
-   "word_count": 102
-  },
-  {
-   "n": 303,
-   "name": "La Place (Pierre Simon)",
-   "born": 1749,
-   "word_count": 109
-  },
-  {
-   "n": 304,
-   "name": "Larevelliere-Lepaux (Louis Marie DE)",
-   "born": 1753,
-   "word_count": 99
-  },
-  {
-   "n": 305,
-   "name": "Larra (Mariano José de)",
-   "born": 1809,
-   "word_count": 160
-  },
-  {
-   "n": 306,
-   "name": "Larroque (Patrice)",
-   "born": 1801,
-   "word_count": 124
-  },
-  {
-   "n": 307,
-   "name": "Lastarria (José Victorino)",
-   "born": 1812,
-   "word_count": 104
-  },
-  {
-   "n": 308,
-   "name": "Lawrence (James)",
-   "born": 1773,
-   "word_count": 111
-  },
-  {
-   "n": 309,
-   "name": "Leconte de Lisle (Charles Marie René)",
-   "born": 1818,
-   "word_count": 95
-  },
-  {
-   "n": 310,
-   "name": "Lefevre (André)",
-   "born": 1834,
-   "word_count": 92
-  },
-  {
-   "n": 311,
-   "name": "Legate (Bartholomew)",
-   "born": 1572,
-   "word_count": 120
-  },
-  {
-   "n": 312,
-   "name": "Lennstrand (Viktor E.)",
-   "born": 1861,
-   "word_count": 114
-  },
-  {
-   "n": 313,
-   "name": "Leopardi (Giacomo)",
-   "born": 1798,
-   "word_count": 91
-  },
-  {
-   "n": 314,
-   "name": "Lermontov (Mikhail Yur'evich)",
-   "born": 1814,
-   "word_count": 109
-  },
-  {
-   "n": 315,
-   "name": "Leroux (Pierre)",
-   "born": 1797,
-   "word_count": 114
-  },
-  {
-   "n": 316,
-   "name": "Lessing (Gotthold Ephraim)",
-   "born": 1729,
-   "word_count": 113
-  },
-  {
-   "n": 317,
-   "name": "Lewes (George Henry)",
-   "born": 1817,
-   "word_count": 166
-  },
-  {
-   "n": 318,
-   "name": "Lincoln (Abraham)",
-   "born": 1809,
-   "word_count": 99
-  },
-  {
-   "n": 319,
-   "name": "Lindkvist (Alfred)",
-   "born": 1860,
-   "word_count": 113
-  },
-  {
-   "n": 320,
-   "name": "Linton (William James)",
-   "born": 1812,
-   "word_count": 100
-  },
-  {
-   "n": 321,
-   "name": "Littre (Maximilian Paul Emile)",
-   "born": 1801,
-   "word_count": 220
-  },
-  {
-   "n": 322,
-   "name": "Lorand (Georges)",
-   "born": 1851,
-   "word_count": 93
-  },
-  {
-   "n": 323,
-   "name": "Macchi (Mauro)",
-   "born": 1818,
-   "word_count": 111
-  },
-  {
-   "n": 324,
-   "name": "Madach (Imré)",
-   "born": 1823,
-   "word_count": 95
-  },
-  {
-   "n": 325,
-   "name": "Maillet (Benôit de)",
-   "born": 1656,
-   "word_count": 139
-  },
-  {
-   "n": 326,
-   "name": "Mandeville (Bernhard)",
-   "born": 1670,
-   "word_count": 126
-  },
-  {
-   "n": 327,
-   "name": "Marechal (Pierre Sylvain)",
-   "born": 1750,
-   "word_count": 214
-  },
-  {
-   "n": 328,
-   "name": "Marlow (Christopher)",
-   "born": 1564,
-   "word_count": 104
-  },
-  {
-   "n": 329,
-   "name": "Marten (Henry)",
-   "born": 1602,
-   "word_count": 122
-  },
-  {
-   "n": 330,
-   "name": "Martin (Emma)",
-   "born": 1812,
-   "word_count": 129
-  },
-  {
-   "n": 331,
-   "name": "Martin (Bon Louis Henri)",
-   "born": 1810,
-   "word_count": 93
-  },
-  {
-   "n": 332,
-   "name": "Martineau (Harriet)",
-   "born": 1803,
-   "word_count": 116
-  },
-  {
-   "n": 333,
-   "name": "Massey (Gerald)",
-   "born": 1828,
-   "word_count": 184
-  },
-  {
-   "n": 334,
-   "name": "Maubert de Gouvest (Jean Henri)",
-   "born": 1721,
-   "word_count": 112
-  },
-  {
-   "n": 335,
-   "name": "Maudsley (Henry)",
-   "born": 1835,
-   "word_count": 91
-  },
-  {
-   "n": 336,
-   "name": "Mazzini (Giuseppe)",
-   "born": 1808,
-   "word_count": 141
-  },
-  {
-   "n": 337,
-   "name": "Mendoza (Diego Hurtado de)",
-   "born": 1503,
-   "word_count": 117
-  },
-  {
-   "n": 338,
-   "name": "Meredith (George)",
-   "born": 1828,
-   "word_count": 115
-  },
-  {
-   "n": 339,
-   "name": "Meslier or Mellier (Jean)",
-   "born": 1664,
+   "n": 260,
+   "name": "Dupuis (Charles François)",
+   "born": 1742,
+   "era": "enlightenment",
    "word_count": 131
   },
   {
-   "n": 340,
-   "name": "Michelet (Jules)",
-   "born": 1798,
-   "word_count": 105
-  },
-  {
-   "n": 341,
-   "name": "Mill (James)",
-   "born": 1773,
-   "word_count": 123
-  },
-  {
-   "n": 342,
-   "name": "Mill (John Stuart)",
-   "born": 1806,
-   "word_count": 190
-  },
-  {
-   "n": 343,
-   "name": "Milliere (Jean Baptiste)",
-   "born": 1817,
-   "word_count": 108
-  },
-  {
-   "n": 344,
-   "name": "Mirabeau (Honoré Gabriel Riquetti Comte de)",
-   "born": 1749,
-   "word_count": 195
-  },
-  {
-   "n": 345,
-   "name": "Molesworth (Sir William)",
-   "born": 1810,
-   "word_count": 93
-  },
-  {
-   "n": 346,
-   "name": "Monge (Gaspard)",
-   "born": 1746,
-   "word_count": 105
-  },
-  {
-   "n": 347,
-   "name": "Monroe (J. R.)",
-   "born": 1825,
-   "word_count": 145
-  },
-  {
-   "n": 348,
-   "name": "Montaigne (Michel de)",
-   "born": 1533,
-   "word_count": 158
-  },
-  {
-   "n": 349,
-   "name": "Monteil (Charles François Louis Edgar)",
-   "born": 1845,
-   "word_count": 113
-  },
-  {
-   "n": 350,
-   "name": "Montesquieu (Charles de Secondat)",
-   "born": 1689,
-   "word_count": 97
-  },
-  {
-   "n": 351,
-   "name": "Montgomery (Edmund)",
-   "born": 1835,
-   "word_count": 124
-  },
-  {
-   "n": 352,
-   "name": "Morgan (Thomas)",
-   "born": 1737,
-   "word_count": 116
-  },
-  {
-   "n": 353,
-   "name": "Morin (André Saturnin)",
-   "born": 1807,
-   "word_count": 179
-  },
-  {
-   "n": 354,
-   "name": "Morison (James Augustus Cotter)",
-   "born": 1831,
-   "word_count": 193
-  },
-  {
-   "n": 355,
-   "name": "Morley (John)",
-   "born": 1838,
-   "word_count": 111
-  },
-  {
-   "n": 356,
-   "name": "Mortillet (Louis Laurent Gabriel de)",
-   "born": 1821,
-   "word_count": 100
-  },
-  {
-   "n": 357,
-   "name": "Moss (Arthur B.)",
-   "born": 1855,
-   "word_count": 101
-  },
-  {
-   "n": 358,
-   "name": "Mott (Lucretia)",
-   "born": 757,
-   "word_count": 112
-  },
-  {
-   "n": 359,
-   "name": "Naigeon (Jacques André)",
-   "born": 1728,
-   "word_count": 186
-  },
-  {
-   "n": 360,
-   "name": "Naquet (Joseph Alfred)",
-   "born": 1834,
-   "word_count": 137
-  },
-  {
-   "n": 361,
-   "name": "Newman (Francis William)",
-   "born": 1805,
-   "word_count": 177
-  },
-  {
-   "n": 362,
-   "name": "Nieuwenhuis (Ferdinand Jakob Domela)",
-   "born": 1848,
-   "word_count": 145
-  },
-  {
-   "n": 363,
-   "name": "Nystrom (Anton Christen)",
-   "born": 1842,
-   "word_count": 90
-  },
-  {
-   "n": 364,
-   "name": "Ochino (Bernardino Tommasini)",
-   "born": 1487,
-   "word_count": 137
-  },
-  {
-   "n": 365,
-   "name": "Oswald (Felix Leopold)",
-   "born": 1845,
-   "word_count": 98
-  },
-  {
-   "n": 366,
-   "name": "Owen (Robert)",
-   "born": 1771,
-   "word_count": 227
-  },
-  {
-   "n": 367,
-   "name": "Owen (Robert Dale)",
-   "born": 1800,
-   "word_count": 180
-  },
-  {
-   "n": 368,
-   "name": "Paine (Thomas)",
-   "born": 1737,
-   "word_count": 379
-  },
-  {
-   "n": 369,
-   "name": "Paleario (Aonio)",
-   "born": 1500,
-   "word_count": 134
-  },
-  {
-   "n": 370,
-   "name": "Palmer (Courtlandt)",
-   "born": 1843,
-   "word_count": 100
-  },
-  {
-   "n": 371,
-   "name": "Palmer (Elihu)",
-   "born": 1764,
-   "word_count": 162
-  },
-  {
-   "n": 372,
-   "name": "Parker (Theodore)",
-   "born": 518,
-   "word_count": 219
-  },
-  {
-   "n": 373,
-   "name": "Passerano (Alberto Radicati di)",
-   "born": 1736,
-   "word_count": 155
-  },
-  {
-   "n": 374,
-   "name": "Pasteur (Louis)",
-   "born": 1822,
-   "word_count": 100
-  },
-  {
-   "n": 375,
-   "name": "Pastoret (Claude Emmanuel Joseph Pierre de)",
-   "born": 1756,
-   "word_count": 191
-  },
-  {
-   "n": 376,
-   "name": "Paterson (Thomas)",
-   "born": 1843,
-   "word_count": 118
-  },
-  {
-   "n": 377,
-   "name": "Peacock or Pecock (Reginald)",
-   "born": 1390,
-   "word_count": 137
-  },
-  {
-   "n": 378,
-   "name": "Pelletan (Pierre Clement Eugène)",
-   "born": 1813,
-   "word_count": 158
-  },
-  {
-   "n": 379,
-   "name": "Petit (Claude)",
-   "born": 1665,
-   "word_count": 102
-  },
-  {
-   "n": 380,
-   "name": "Petruccelli della Gattina (Ferdinando)",
-   "born": 1816,
-   "word_count": 137
-  },
-  {
-   "n": 381,
-   "name": "Peyrat (Alphonse)",
-   "born": 1812,
-   "word_count": 90
-  },
-  {
-   "n": 382,
-   "name": "Peyrere (Isaac de la)",
-   "born": 1594,
-   "word_count": 156
-  },
-  {
-   "n": 383,
-   "name": "Pillsbury (Parker)",
-   "born": 1809,
-   "word_count": 96
-  },
-  {
-   "n": 384,
-   "name": "Piron (Alexis)",
-   "born": 1689,
-   "word_count": 116
-  },
-  {
-   "n": 385,
-   "name": "Pitt (William)",
-   "born": 1708,
-   "word_count": 138
-  },
-  {
-   "n": 386,
-   "name": "Place (Francis)",
-   "born": 1779,
-   "word_count": 98
-  },
-  {
-   "n": 387,
-   "name": "Pliny (Caius Plinius Secundus)",
-   "born": null,
-   "word_count": 102
-  },
-  {
-   "n": 388,
-   "name": "Plumer (William)",
-   "born": 1759,
-   "word_count": 166
-  },
-  {
-   "n": 389,
-   "name": "Poe (Edgar Allan)",
-   "born": 1809,
-   "word_count": 137
-  },
-  {
-   "n": 390,
-   "name": "Pomponazzi (Pietro)",
-   "born": 1462,
-   "word_count": 162
-  },
-  {
-   "n": 391,
-   "name": "Ponnat (de)",
-   "born": 1810,
-   "word_count": 249
-  },
-  {
-   "n": 392,
-   "name": "Porzio (Simone)",
-   "born": 1708,
-   "word_count": 96
-  },
-  {
-   "n": 393,
-   "name": "Potvin (Charles)",
-   "born": 1818,
-   "word_count": 93
-  },
-  {
-   "n": 394,
-   "name": "Pougens (Marie Charles Joseph de)",
-   "born": 1755,
-   "word_count": 112
-  },
-  {
-   "n": 395,
-   "name": "Poultier D'Elmolte (François Martin)",
-   "born": 1753,
-   "word_count": 102
-  },
-  {
-   "n": 396,
-   "name": "Prades (Jean Martin de)",
-   "born": 1720,
-   "word_count": 175
-  },
-  {
-   "n": 397,
-   "name": "Premontval (Andre Pierre Le Guay de)",
-   "born": 1716,
-   "word_count": 98
-  },
-  {
-   "n": 398,
-   "name": "Priestley (Joseph)",
-   "born": 1733,
-   "word_count": 192
-  },
-  {
-   "n": 399,
-   "name": "Proctor (Richard Anthony)",
-   "born": 1837,
-   "word_count": 247
-  },
-  {
-   "n": 400,
-   "name": "Proudhon (Pierre Joseph)",
-   "born": 480,
-   "word_count": 361
-  },
-  {
-   "n": 401,
-   "name": "Pushkin (Aleksandr Sergyeevich)",
-   "born": 1799,
-   "word_count": 104
-  },
-  {
-   "n": 402,
-   "name": "Pyat (Felix)",
-   "born": 1810,
-   "word_count": 285
-  },
-  {
-   "n": 403,
-   "name": "Rabelais (François)",
-   "born": 1495,
-   "word_count": 127
-  },
-  {
-   "n": 404,
-   "name": "Raspail (François Vincent)",
-   "born": 1794,
-   "word_count": 109
-  },
-  {
-   "n": 405,
-   "name": "Rawson (Albert Leighton)",
-   "born": 1829,
-   "word_count": 97
-  },
-  {
-   "n": 406,
-   "name": "Raynal (Guillaume Thomas François)",
-   "born": 1713,
-   "word_count": 115
-  },
-  {
-   "n": 407,
-   "name": "Reade (William Winwood)",
-   "born": 1824,
-   "word_count": 121
-  },
-  {
-   "n": 408,
-   "name": "Reclus (Jean Jacques Elisée)",
-   "born": 1830,
-   "word_count": 195
-  },
-  {
-   "n": 409,
-   "name": "Regnard (Albert Adrien)",
-   "born": 1836,
-   "word_count": 141
-  },
-  {
-   "n": 410,
-   "name": "Reil (Johann Christian)",
-   "born": 1758,
-   "word_count": 91
-  },
-  {
-   "n": 411,
-   "name": "Reimarus (Hermann Samuel)",
-   "born": 1694,
-   "word_count": 90
-  },
-  {
-   "n": 412,
-   "name": "Renan (Joseph Ernest)",
-   "born": 1823,
-   "word_count": 297
-  },
-  {
-   "n": 413,
-   "name": "Ricciardi (Giuseppe Napoleone)",
-   "born": 1808,
-   "word_count": 200
-  },
-  {
-   "n": 414,
-   "name": "Roalfe (Matilda)",
-   "born": 1813,
-   "word_count": 125
-  },
-  {
-   "n": 415,
-   "name": "Robin (Charles Philippe)",
-   "born": 1821,
-   "word_count": 103
-  },
-  {
-   "n": 416,
-   "name": "Robinet (Jean Eugène François)",
-   "born": 1825,
-   "word_count": 97
-  },
-  {
-   "n": 417,
-   "name": "Rogeard (Louis Auguste)",
-   "born": 1820,
+   "n": 261,
+   "name": "Duvernet (Théophile Imarigeon)",
+   "born": 1730,
+   "era": "enlightenment",
    "word_count": 107
   },
   {
-   "n": 418,
-   "name": "Roland (Marie Jeanne)",
-   "born": 1732,
-   "word_count": 160
+   "n": 262,
+   "name": "Eaton (Daniel Isaac)",
+   "born": 1752,
+   "era": "enlightenment",
+   "word_count": 236
   },
   {
-   "n": 419,
-   "name": "Romagnosi (Giovanni Domenico)",
-   "born": 1761,
-   "word_count": 99
+   "n": 263,
+   "name": "Eberhard (Johann August)",
+   "born": 1739,
+   "era": "enlightenment",
+   "word_count": 61
   },
   {
-   "n": 420,
-   "name": "Ronge (Johannes)",
+   "n": 264,
+   "name": "Edelmann (Johann Christian)",
+   "born": 1698,
+   "era": "seventeenth",
+   "word_count": 130
+  },
+  {
+   "n": 265,
+   "name": "Edison (Thomas Alva)",
+   "born": 1847,
+   "era": "victorian",
+   "word_count": 75
+  },
+  {
+   "n": 266,
+   "name": "Eenens (Ferdinand)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 70
+  },
+  {
+   "n": 267,
+   "name": "Eichhorn (Johann Gottfried)",
+   "born": 1752,
+   "era": "enlightenment",
+   "word_count": 428
+  },
+  {
+   "n": 268,
+   "name": "Elliotson (John, M.D., F.R.S.)",
+   "born": 1791,
+   "era": "revolutions",
+   "word_count": 149
+  },
+  {
+   "n": 269,
+   "name": "Eichthal (Gustave d')",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 93
+  },
+  {
+   "n": 270,
+   "name": "Emerson (Ralph Waldo)",
+   "born": 1803,
+   "era": "revolutions",
+   "word_count": 134
+  },
+  {
+   "n": 271,
+   "name": "Emerson (William)",
+   "born": 1701,
+   "era": "enlightenment",
+   "word_count": 82
+  },
+  {
+   "n": 272,
+   "name": "Emmet (Robert)",
+   "born": 1778,
+   "era": "revolutions",
+   "word_count": 91
+  },
+  {
+   "n": 273,
+   "name": "Engledue (William Collins)",
    "born": 1813,
-   "word_count": 102
+   "era": "revolutions",
+   "word_count": 73
   },
   {
-   "n": 421,
-   "name": "Rose (Ernestine Louise)",
+   "n": 274,
+   "name": "English (George Bethune)",
+   "born": 1787,
+   "era": "revolutions",
+   "word_count": 123
+  },
+  {
+   "n": 275,
+   "name": "Ensor (George)",
+   "born": 1769,
+   "era": "enlightenment",
+   "word_count": 328
+  },
+  {
+   "n": 276,
+   "name": "Escherny (François Louis d')",
+   "born": 1733,
+   "era": "enlightenment",
+   "word_count": 62
+  },
+  {
+   "n": 277,
+   "name": "Espronceda (José)",
    "born": 1810,
-   "word_count": 238
+   "era": "revolutions",
+   "word_count": 227
   },
   {
-   "n": 422,
-   "name": "Rotteck (Karl Wenceslaus von)",
-   "born": 1775,
-   "word_count": 95
+   "n": 278,
+   "name": "Estienne (Henri)",
+   "born": 1528,
+   "era": "precursors",
+   "word_count": 109
   },
   {
-   "n": 423,
-   "name": "Rousseau (Jean Jacques)",
+   "n": 279,
+   "name": "Ettel (Konrad)",
+   "born": 1847,
+   "era": "victorian",
+   "word_count": 65
+  },
+  {
+   "n": 280,
+   "name": "Evans (George Henry)",
+   "born": 1803,
+   "era": "revolutions",
+   "word_count": 90
+  },
+  {
+   "n": 281,
+   "name": "Evanson (Edward)",
+   "born": 1731,
+   "era": "enlightenment",
+   "word_count": 209
+  },
+  {
+   "n": 282,
+   "name": "Eudes (Emile François Désiré)",
+   "born": 1844,
+   "era": "victorian",
+   "word_count": 75
+  },
+  {
+   "n": 283,
+   "name": "Ewerbeck (August Hermann)",
+   "born": 1848,
+   "era": "victorian",
+   "word_count": 84
+  },
+  {
+   "n": 284,
+   "name": "Fabre D'Eglantine (Philippe François Nazaire)",
+   "born": 1755,
+   "era": "enlightenment",
+   "word_count": 62
+  },
+  {
+   "n": 285,
+   "name": "Fellowes (Robert)",
+   "born": 1771,
+   "era": "revolutions",
+   "word_count": 61
+  },
+  {
+   "n": 286,
+   "name": "Ferrari (Giuseppe)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 154
+  },
+  {
+   "n": 287,
+   "name": "Ferrière (Emile)",
+   "born": 1830,
+   "era": "victorian",
+   "word_count": 78
+  },
+  {
+   "n": 288,
+   "name": "Feuerbach (Friedrich Heinrich)",
+   "born": 1806,
+   "era": "revolutions",
+   "word_count": 60
+  },
+  {
+   "n": 289,
+   "name": "Feuerbach (Ludwig Andreas)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 224
+  },
+  {
+   "n": 290,
+   "name": "Fichte (Johann Gottlieb)",
+   "born": 1762,
+   "era": "enlightenment",
+   "word_count": 187
+  },
+  {
+   "n": 291,
+   "name": "Fiorentino (Francesco)",
+   "born": 1834,
+   "era": "victorian",
+   "word_count": 111
+  },
+  {
+   "n": 292,
+   "name": "Fiske (John)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 66
+  },
+  {
+   "n": 293,
+   "name": "Flaubert (Gustave)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 132
+  },
+  {
+   "n": 294,
+   "name": "Flourens (Marie Jean Pierre)",
+   "born": 1794,
+   "era": "revolutions",
+   "word_count": 61
+  },
+  {
+   "n": 295,
+   "name": "Flourens (Gustave)",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 108
+  },
+  {
+   "n": 296,
+   "name": "Fonblanque (Albany William)",
+   "born": 1793,
+   "era": "revolutions",
+   "word_count": 75
+  },
+  {
+   "n": 297,
+   "name": "Fontenelle (Bernard le Bovier de)",
+   "born": 1657,
+   "era": "seventeenth",
+   "word_count": 201
+  },
+  {
+   "n": 298,
+   "name": "Foote (George William)",
+   "born": 1850,
+   "era": "victorian",
+   "word_count": 440
+  },
+  {
+   "n": 299,
+   "name": "Fouillee (Alfred)",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 147
+  },
+  {
+   "n": 300,
+   "name": "Forberg (Friedrich Karl)",
+   "born": 1770,
+   "era": "revolutions",
+   "word_count": 109
+  },
+  {
+   "n": 301,
+   "name": "Forder (Robert)",
+   "born": 1844,
+   "era": "victorian",
+   "word_count": 90
+  },
+  {
+   "n": 302,
+   "name": "Forlong (James George Roche)",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 231
+  },
+  {
+   "n": 303,
+   "name": "Fox (William Johnson)",
+   "born": 1786,
+   "era": "revolutions",
+   "word_count": 294
+  },
+  {
+   "n": 304,
+   "name": "Francois de Neufchateau (Nicolas Louis)",
+   "born": 1750,
+   "era": "enlightenment",
+   "word_count": 71
+  },
+  {
+   "n": 305,
+   "name": "Franklin (Benjamin)",
+   "born": 1706,
+   "era": "enlightenment",
+   "word_count": 163
+  },
+  {
+   "n": 306,
+   "name": "Frauenstaedt (Christian Martin Julius)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 77
+  },
+  {
+   "n": 307,
+   "name": "Frederick II. (Emperor of Germany)",
+   "born": 1194,
+   "era": "precursors",
+   "word_count": 178
+  },
+  {
+   "n": 308,
+   "name": "Frederick the Great (King of Prussia)",
    "born": 1712,
+   "era": "enlightenment",
+   "word_count": 130
+  },
+  {
+   "n": 309,
+   "name": "Freiligrath (Ferdinand)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 79
+  },
+  {
+   "n": 310,
+   "name": "Fréret (Nicolas)",
+   "born": 1688,
+   "era": "seventeenth",
+   "word_count": 165
+  },
+  {
+   "n": 311,
+   "name": "Frey (William)",
+   "born": 1839,
+   "era": "victorian",
+   "word_count": 88
+  },
+  {
+   "n": 312,
+   "name": "Fries (Jacob Friedrich)",
+   "born": 1773,
+   "era": "revolutions",
+   "word_count": 73
+  },
+  {
+   "n": 313,
+   "name": "Frothingham (Octavius Brooks)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 94
+  },
+  {
+   "n": 314,
+   "name": "Froude (James Anthony)",
+   "born": 1818,
+   "era": "revolutions",
+   "word_count": 184
+  },
+  {
+   "n": 315,
+   "name": "Fry (John)",
+   "born": 1640,
+   "era": "seventeenth",
+   "word_count": 104
+  },
+  {
+   "n": 316,
+   "name": "Fuller (Sarah Margaret)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 60
+  },
+  {
+   "n": 317,
+   "name": "Furnemont (Léon)",
+   "born": 1861,
+   "era": "victorian",
+   "word_count": 76
+  },
+  {
+   "n": 318,
+   "name": "Gabarro (Bartolomé)",
+   "born": 1846,
+   "era": "victorian",
+   "word_count": 121
+  },
+  {
+   "n": 319,
+   "name": "Gage (Matilda Joslyn)",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 320,
+   "name": "Gagern (Carlos von)",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 113
+  },
+  {
+   "n": 321,
+   "name": "Gall (Franz Joseph)",
+   "born": 1758,
+   "era": "enlightenment",
+   "word_count": 63
+  },
+  {
+   "n": 322,
+   "name": "Galton (Francis)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 115
+  },
+  {
+   "n": 323,
+   "name": "Gambetta (Léon Michel)",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 193
+  },
+  {
+   "n": 324,
+   "name": "Gambon (Ferdinand Charles)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 325,
+   "name": "Garat (Dominique Joseph)",
+   "born": 1749,
+   "era": "enlightenment",
+   "word_count": 78
+  },
+  {
+   "n": 326,
+   "name": "Garborg (Arne)",
+   "born": 1851,
+   "era": "victorian",
+   "word_count": 91
+  },
+  {
+   "n": 327,
+   "name": "Garcia-Vao (Antonio Rodriguez)",
+   "born": 1862,
+   "era": "victorian",
+   "word_count": 89
+  },
+  {
+   "n": 328,
+   "name": "Garibaldi (Guiseppe)",
+   "born": 1807,
+   "era": "revolutions",
+   "word_count": 360
+  },
+  {
+   "n": 329,
+   "name": "Gautama (called also Gotama, Buddha, and Sakyamuni)",
+   "born": 624,
+   "era": "precursors",
+   "word_count": 134
+  },
+  {
+   "n": 330,
+   "name": "Gautier (Théophile)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 77
+  },
+  {
+   "n": 331,
+   "name": "Geijer (Erik Gustaf)",
+   "born": 1783,
+   "era": "revolutions",
+   "word_count": 122
+  },
+  {
+   "n": 332,
+   "name": "Gemistos (Georgios)",
+   "born": 1355,
+   "era": "precursors",
+   "word_count": 82
+  },
+  {
+   "n": 333,
+   "name": "Gendre (Barbe)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 79
+  },
+  {
+   "n": 334,
+   "name": "Genin (François)",
+   "born": 1803,
+   "era": "revolutions",
+   "word_count": 86
+  },
+  {
+   "n": 335,
+   "name": "Gensonne (Armand)",
+   "born": 1758,
+   "era": "enlightenment",
+   "word_count": 60
+  },
+  {
+   "n": 336,
+   "name": "Gentilis (Giovanni Valentino)",
+   "born": 1520,
+   "era": "precursors",
+   "word_count": 128
+  },
+  {
+   "n": 337,
+   "name": "Ghillany (Friedrich Wilhelm)",
+   "born": 1807,
+   "era": "revolutions",
+   "word_count": 88
+  },
+  {
+   "n": 338,
+   "name": "Giannone (Pietro)",
+   "born": 1676,
+   "era": "seventeenth",
+   "word_count": 116
+  },
+  {
+   "n": 339,
+   "name": "Gibbon (Edward)",
+   "born": 1737,
+   "era": "enlightenment",
+   "word_count": 129
+  },
+  {
+   "n": 340,
+   "name": "Gibson (Ellen Elvira)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 341,
+   "name": "Giessenburg (Rudolf Charles d'Ablaing van)",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 177
+  },
+  {
+   "n": 342,
+   "name": "Gilbert (Claude)",
+   "born": 1652,
+   "era": "seventeenth",
+   "word_count": 93
+  },
+  {
+   "n": 343,
+   "name": "Gill (Charles)",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 78
+  },
+  {
+   "n": 344,
+   "name": "Giles (Rev. John Allen, D.Ph.)",
+   "born": 1808,
+   "era": "revolutions",
+   "word_count": 126
+  },
+  {
+   "n": 345,
+   "name": "Ginguene (Pierre Louis)",
+   "born": 1748,
+   "era": "enlightenment",
+   "word_count": 74
+  },
+  {
+   "n": 346,
+   "name": "Girard (Stephen)",
+   "born": 1750,
+   "era": "enlightenment",
+   "word_count": 181
+  },
+  {
+   "n": 347,
+   "name": "Glennie (John Stuart Stuart)",
+   "born": 1873,
+   "era": "victorian",
+   "word_count": 64
+  },
+  {
+   "n": 348,
+   "name": "Glisson (Francis)",
+   "born": 1597,
+   "era": "precursors",
+   "word_count": 97
+  },
+  {
+   "n": 349,
+   "name": "Godwin (William)",
+   "born": 1756,
+   "era": "enlightenment",
+   "word_count": 177
+  },
+  {
+   "n": 350,
+   "name": "Goethe (Johann Wolfgang von)",
+   "born": 1749,
+   "era": "enlightenment",
+   "word_count": 328
+  },
+  {
+   "n": 351,
+   "name": "Goldstuecker (Theodor)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 103
+  },
+  {
+   "n": 352,
+   "name": "Gordon (Thomas)",
+   "born": 1684,
+   "era": "seventeenth",
+   "word_count": 123
+  },
+  {
+   "n": 353,
+   "name": "Gorlæus (David)",
+   "born": 1505,
+   "era": "precursors",
+   "word_count": 85
+  },
+  {
+   "n": 354,
+   "name": "Gray (Asa)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 67
+  },
+  {
+   "n": 355,
+   "name": "Greg (William Rathbone)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 128
+  },
+  {
+   "n": 356,
+   "name": "Grenier (Pierre Jules)",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 357,
+   "name": "Grimm (Friedrich Melchior von)",
+   "born": 1723,
+   "era": "enlightenment",
+   "word_count": 114
+  },
+  {
+   "n": 358,
+   "name": "Grisebach (Eduard)",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 72
+  },
+  {
+   "n": 359,
+   "name": "Grote (George)",
+   "born": 1794,
+   "era": "revolutions",
+   "word_count": 189
+  },
+  {
+   "n": 360,
+   "name": "Gruen (Karl)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 101
+  },
+  {
+   "n": 361,
+   "name": "Guadet (Marguerite Elie)",
+   "born": 1758,
+   "era": "enlightenment",
+   "word_count": 63
+  },
+  {
+   "n": 362,
+   "name": "Guépin (Ange)",
+   "born": 1805,
+   "era": "revolutions",
+   "word_count": 105
+  },
+  {
+   "n": 363,
+   "name": "Gueroult (Adolphe)",
+   "born": 1850,
+   "era": "victorian",
+   "word_count": 104
+  },
+  {
+   "n": 364,
+   "name": "Gueudeville (Nicolas)",
+   "born": 1654,
+   "era": "seventeenth",
+   "word_count": 108
+  },
+  {
+   "n": 365,
+   "name": "Günst (Dr. Frans Christiaan)",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 169
+  },
+  {
+   "n": 366,
+   "name": "Guyau (Marie Jean)",
+   "born": 1854,
+   "era": "victorian",
+   "word_count": 159
+  },
+  {
+   "n": 367,
+   "name": "Guyot (Yves)",
+   "born": 1843,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 368,
+   "name": "Haeckel (Ernst Heinrich Philipp August)",
+   "born": 1834,
+   "era": "victorian",
+   "word_count": 146
+  },
+  {
+   "n": 369,
+   "name": "Hagen (Benjamin Olive)",
+   "born": 1791,
+   "era": "revolutions",
+   "word_count": 71
+  },
+  {
+   "n": 370,
+   "name": "Halley (Edmund)",
+   "born": 1656,
+   "era": "seventeenth",
+   "word_count": 218
+  },
+  {
+   "n": 371,
+   "name": "Hanson (Sir Richard Davies)",
+   "born": 1805,
+   "era": "revolutions",
+   "word_count": 106
+  },
+  {
+   "n": 372,
+   "name": "Hardwicke (Herbert Junius)",
+   "born": 1850,
+   "era": "victorian",
+   "word_count": 103
+  },
+  {
+   "n": 373,
+   "name": "Harrison (Frederic)",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 115
+  },
+  {
+   "n": 374,
+   "name": "Hartmann (Karl Robert Eduard)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 103
+  },
+  {
+   "n": 375,
+   "name": "Hartogh Heys van Zouteveen (Dr. Herman)",
+   "born": 1841,
+   "era": "victorian",
+   "word_count": 290
+  },
+  {
+   "n": 376,
+   "name": "Haslam (Charles Junius)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 110
+  },
+  {
+   "n": 377,
+   "name": "Haureau (Jean Barthelemy)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 65
+  },
+  {
+   "n": 378,
+   "name": "Hauy (Valentine)",
+   "born": 1745,
+   "era": "enlightenment",
+   "word_count": 62
+  },
+  {
+   "n": 379,
+   "name": "Havet (Ernest August Eugène)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 79
+  },
+  {
+   "n": 380,
+   "name": "Hawkesworth (John)",
+   "born": 1715,
+   "era": "enlightenment",
+   "word_count": 81
+  },
+  {
+   "n": 381,
+   "name": "Hegel (Georg Wilhelm Friedrich)",
+   "born": 1770,
+   "era": "revolutions",
+   "word_count": 111
+  },
+  {
+   "n": 382,
+   "name": "Heine (Heinrich)",
+   "born": 1797,
+   "era": "revolutions",
+   "word_count": 190
+  },
+  {
+   "n": 383,
+   "name": "Heinzen (Karl Peter)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 177
+  },
+  {
+   "n": 384,
+   "name": "Helvetius (Claude Adrien)",
+   "born": 1719,
+   "era": "enlightenment",
+   "word_count": 236
+  },
+  {
+   "n": 385,
+   "name": "Henin de Cuvillers (Etienne Felix)",
+   "born": 1755,
+   "era": "enlightenment",
+   "word_count": 113
+  },
+  {
+   "n": 386,
+   "name": "Hennell (Charles Christian)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 84
+  },
+  {
+   "n": 387,
+   "name": "Herault de Sechelles (Marie Jean)",
+   "born": 1760,
+   "era": "enlightenment",
+   "word_count": 92
+  },
+  {
+   "n": 388,
+   "name": "Herbert (Edward)",
+   "born": 1581,
+   "era": "precursors",
+   "word_count": 121
+  },
+  {
+   "n": 389,
+   "name": "Hertzen or Gertsen (Aleksandr Ivanovich)",
+   "born": 1839,
+   "era": "victorian",
+   "word_count": 195
+  },
+  {
+   "n": 390,
+   "name": "Hetherington (Henry)",
+   "born": 1792,
+   "era": "revolutions",
+   "word_count": 188
+  },
+  {
+   "n": 391,
+   "name": "Hibbert (Julian)",
+   "born": 1801,
+   "era": "revolutions",
+   "word_count": 175
+  },
+  {
+   "n": 392,
+   "name": "Higgins (Godfrey)",
+   "born": 1771,
+   "era": "revolutions",
+   "word_count": 152
+  },
+  {
+   "n": 393,
+   "name": "Hillebrand (Karl)",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 145
+  },
+  {
+   "n": 394,
+   "name": "Hins (Eugène)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 72
+  },
+  {
+   "n": 395,
+   "name": "Hoadley (George)",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 61
+  },
+  {
+   "n": 396,
+   "name": "Hobbes (Thomas)",
+   "born": 1588,
+   "era": "precursors",
+   "word_count": 117
+  },
+  {
+   "n": 397,
+   "name": "Holbach (Paul Heinrich Dietrich von)",
+   "born": 1723,
+   "era": "enlightenment",
+   "word_count": 393
+  },
+  {
+   "n": 398,
+   "name": "Holcroft (Thomas)",
+   "born": 1745,
+   "era": "enlightenment",
+   "word_count": 71
+  },
+  {
+   "n": 399,
+   "name": "Hollick (Dr. Frederick)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 67
+  },
+  {
+   "n": 400,
+   "name": "Hollis (John)",
+   "born": 1757,
+   "era": "enlightenment",
+   "word_count": 61
+  },
+  {
+   "n": 401,
+   "name": "Holwell (John Zephaniah)",
+   "born": 1711,
+   "era": "enlightenment",
+   "word_count": 101
+  },
+  {
+   "n": 402,
+   "name": "Holyoake (Austin)",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 158
+  },
+  {
+   "n": 403,
+   "name": "Holyoake (George Jacob)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 304
+  },
+  {
+   "n": 404,
+   "name": "Home (Henry)",
+   "born": 1696,
+   "era": "seventeenth",
+   "word_count": 79
+  },
+  {
+   "n": 405,
+   "name": "Houston (George)",
+   "born": 1799,
+   "era": "revolutions",
+   "word_count": 100
+  },
+  {
+   "n": 406,
+   "name": "Hovelacque (Abel)",
+   "born": 1843,
+   "era": "victorian",
+   "word_count": 167
+  },
+  {
+   "n": 407,
+   "name": "Huber (Marie)",
+   "born": 1694,
+   "era": "seventeenth",
+   "word_count": 62
+  },
+  {
+   "n": 408,
+   "name": "Hugo (Victor Marie)",
+   "born": 1802,
+   "era": "revolutions",
+   "word_count": 189
+  },
+  {
+   "n": 409,
+   "name": "Hugues (Clovis)",
+   "born": 1850,
+   "era": "victorian",
+   "word_count": 60
+  },
+  {
+   "n": 410,
+   "name": "Humboldt (Friedrich Heinrich Alexander von)",
+   "born": 1769,
+   "era": "enlightenment",
    "word_count": 248
   },
   {
+   "n": 411,
+   "name": "Humboldt (Karl Wilhelm von)",
+   "born": 1767,
+   "era": "enlightenment",
+   "word_count": 128
+  },
+  {
+   "n": 412,
+   "name": "Hume (David)",
+   "born": 1711,
+   "era": "enlightenment",
+   "word_count": 211
+  },
+  {
+   "n": 413,
+   "name": "Hunt (James Henry Leigh)",
+   "born": 1784,
+   "era": "revolutions",
+   "word_count": 120
+  },
+  {
+   "n": 414,
+   "name": "Hutten (Ulrich von)",
+   "born": 1488,
+   "era": "precursors",
+   "word_count": 123
+  },
+  {
+   "n": 415,
+   "name": "Hutton (James)",
+   "born": 1736,
+   "era": "enlightenment",
+   "word_count": 84
+  },
+  {
+   "n": 416,
+   "name": "Huxley (Thomas Henry)",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 325
+  },
+  {
+   "n": 417,
+   "name": "Ibsen (Henrik)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 125
+  },
+  {
+   "n": 418,
+   "name": "Ilive (Jacob)",
+   "born": 1710,
+   "era": "enlightenment",
+   "word_count": 83
+  },
+  {
+   "n": 419,
+   "name": "Ingersoll (Robert Green)",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 208
+  },
+  {
+   "n": 420,
+   "name": "Inman (Thomas)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 148
+  },
+  {
+   "n": 421,
+   "name": "Isnard (Maximin)",
+   "born": 1751,
+   "era": "enlightenment",
+   "word_count": 75
+  },
+  {
+   "n": 422,
+   "name": "Isoard Delisle (Jean Baptiste Claude)",
+   "born": 1743,
+   "era": "enlightenment",
+   "word_count": 102
+  },
+  {
+   "n": 423,
+   "name": "Jacolliot (Louis)",
+   "born": 1806,
+   "era": "revolutions",
+   "word_count": 64
+  },
+  {
    "n": 424,
-   "name": "Royer (Clemence Auguste)",
-   "born": 1830,
+   "name": "Jefferson (Thomas)",
+   "born": 1743,
+   "era": "enlightenment",
    "word_count": 164
   },
   {
    "n": 425,
-   "name": "Ruge (Arnold)",
-   "born": 1802,
-   "word_count": 106
-  },
-  {
-   "n": 426,
-   "name": "Sainte Beuve (Charles Augustin)",
-   "born": 1804,
-   "word_count": 108
-  },
-  {
-   "n": 427,
-   "name": "Saint Evremond (Charles de Marguetel de Saint Denis)",
-   "born": 1713,
-   "word_count": 103
-  },
-  {
-   "n": 428,
-   "name": "Saint Lambert (Charles, or rather Jean François de)",
-   "born": 1717,
-   "word_count": 98
-  },
-  {
-   "n": 429,
-   "name": "Saltus (Edgar Evertson)",
-   "born": 1858,
-   "word_count": 91
-  },
-  {
-   "n": 430,
-   "name": "Salverte (Anne Joseph Eusèbe Baconniere de)",
-   "born": 1771,
-   "word_count": 125
-  },
-  {
-   "n": 431,
-   "name": "Sand (George)",
-   "born": 1804,
-   "word_count": 144
-  },
-  {
-   "n": 432,
-   "name": "Saunderson (Nicholas)",
-   "born": 1682,
-   "word_count": 102
-  },
-  {
-   "n": 433,
-   "name": "Scherer (Edmond)",
-   "born": 1815,
-   "word_count": 112
-  },
-  {
-   "n": 434,
-   "name": "Schoelcher (Victor)",
-   "born": 1804,
-   "word_count": 133
-  },
-  {
-   "n": 435,
-   "name": "Scholl (Karl)",
-   "born": 1820,
-   "word_count": 107
-  },
-  {
-   "n": 436,
-   "name": "Schopenhauer (Arthur)",
-   "born": 1788,
-   "word_count": 154
-  },
-  {
-   "n": 437,
-   "name": "Scott (Thomas)",
-   "born": 1808,
-   "word_count": 130
-  },
-  {
-   "n": 438,
-   "name": "Seaver (Horace Holley)",
-   "born": 1810,
-   "word_count": 101
-  },
-  {
-   "n": 439,
-   "name": "Seeley (John Robert)",
-   "born": 1834,
-   "word_count": 101
-  },
-  {
-   "n": 440,
-   "name": "Semerie (Eugène)",
-   "born": 1832,
-   "word_count": 109
-  },
-  {
-   "n": 441,
-   "name": "Serveto y Reves (Miguel)",
-   "born": 1509,
-   "word_count": 123
-  },
-  {
-   "n": 442,
-   "name": "Seume (Johann Gottfried)",
-   "born": 1763,
+   "name": "Johnson (Richard Mentor)",
+   "born": 1781,
+   "era": "revolutions",
    "word_count": 96
   },
   {
-   "n": 443,
-   "name": "Shaftesbury (Anthony Ashley Cooper)",
-   "born": 1671,
-   "word_count": 108
+   "n": 426,
+   "name": "Johnson (Samuel)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 90
   },
   {
-   "n": 444,
-   "name": "Shakespeare (William)",
-   "born": 1564,
-   "word_count": 143
-  },
-  {
-   "n": 445,
-   "name": "Shaw (James Dickson)",
-   "born": 1841,
-   "word_count": 95
-  },
-  {
-   "n": 446,
-   "name": "Shelley (Percy Bysshe)",
-   "born": 1792,
-   "word_count": 227
-  },
-  {
-   "n": 447,
-   "name": "Soury (Auguste Jules)",
-   "born": 1842,
-   "word_count": 154
-  },
-  {
-   "n": 448,
-   "name": "Southwell (Charles)",
-   "born": 1814,
-   "word_count": 157
-  },
-  {
-   "n": 449,
-   "name": "Spencer (Herbert)",
-   "born": 1820,
-   "word_count": 158
-  },
-  {
-   "n": 450,
-   "name": "Spinoza (Baruch)",
-   "born": 1632,
-   "word_count": 179
-  },
-  {
-   "n": 451,
-   "name": "Standring (George)",
-   "born": 1855,
-   "word_count": 102
-  },
-  {
-   "n": 452,
-   "name": "Starcke (Carl Nicolay)",
-   "born": 1858,
-   "word_count": 93
-  },
-  {
-   "n": 453,
-   "name": "Stefanoni (Luigi)",
-   "born": 1842,
-   "word_count": 105
-  },
-  {
-   "n": 454,
-   "name": "Stephen (Sir James FitzJames)",
-   "born": 1829,
-   "word_count": 117
-  },
-  {
-   "n": 455,
-   "name": "Stephen (Leslie)",
-   "born": 1832,
-   "word_count": 102
-  },
-  {
-   "n": 456,
-   "name": "Stern (J)",
-   "born": null,
-   "word_count": 146
-  },
-  {
-   "n": 457,
-   "name": "Strange (Thomas Lumsden)",
-   "born": 1884,
-   "word_count": 165
-  },
-  {
-   "n": 458,
-   "name": "Strauss (David Friedrich)",
-   "born": 1808,
-   "word_count": 194
-  },
-  {
-   "n": 459,
-   "name": "Swinburne (Algernon Charles)",
-   "born": 1837,
-   "word_count": 94
-  },
-  {
-   "n": 460,
-   "name": "Symes (Joseph)",
-   "born": 1841,
-   "word_count": 127
-  },
-  {
-   "n": 461,
-   "name": "Taine (Hippolyte Adolphe)",
-   "born": 1828,
-   "word_count": 125
-  },
-  {
-   "n": 462,
-   "name": "Talandier (Alfred)",
-   "born": 1828,
-   "word_count": 105
-  },
-  {
-   "n": 463,
-   "name": "Taylor (Robert)",
-   "born": 1784,
-   "word_count": 262
-  },
-  {
-   "n": 464,
-   "name": "Taylor (William)",
-   "born": 1765,
-   "word_count": 135
-  },
-  {
-   "n": 465,
-   "name": "Thaer (Albrecht Daniel)",
-   "born": 1590,
-   "word_count": 126
-  },
-  {
-   "n": 466,
-   "name": "Thomson (James)",
-   "born": 1834,
-   "word_count": 148
-  },
-  {
-   "n": 467,
-   "name": "Thorild (Thomas)",
-   "born": 1759,
-   "word_count": 118
-  },
-  {
-   "n": 468,
-   "name": "Tindal (Matthew)",
-   "born": 1657,
-   "word_count": 112
-  },
-  {
-   "n": 469,
-   "name": "Toland (John)",
-   "born": 1669,
-   "word_count": 252
-  },
-  {
-   "n": 470,
-   "name": "Trelawny (Edward John)",
-   "born": 1792,
-   "word_count": 92
-  },
-  {
-   "n": 471,
-   "name": "Trezza (Gaetano)",
-   "born": 1828,
-   "word_count": 93
-  },
-  {
-   "n": 472,
-   "name": "Tridon (Edme Marie, Gustave)",
-   "born": 1841,
-   "word_count": 204
-  },
-  {
-   "n": 473,
-   "name": "Truelove (Edward)",
-   "born": 1809,
-   "word_count": 130
-  },
-  {
-   "n": 474,
-   "name": "Tylor (Edward Burnet)",
-   "born": 1832,
-   "word_count": 119
-  },
-  {
-   "n": 475,
-   "name": "Tyndall (John)",
-   "born": 1820,
-   "word_count": 112
-  },
-  {
-   "n": 476,
-   "name": "Underwood (Benjamin F.)",
-   "born": 1839,
+   "n": 427,
+   "name": "Jones (Ernest Charles)",
+   "born": 1819,
+   "era": "revolutions",
    "word_count": 109
   },
   {
+   "n": 428,
+   "name": "Jones (John Gale)",
+   "born": 1771,
+   "era": "revolutions",
+   "word_count": 107
+  },
+  {
+   "n": 429,
+   "name": "Jones (Lloyd)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 322
+  },
+  {
+   "n": 430,
+   "name": "Junghuhn (Franz Wilhelm)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 192
+  },
+  {
+   "n": 431,
+   "name": "Kalisch (Moritz Marcus)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 121
+  },
+  {
+   "n": 432,
+   "name": "Kant (Immanuel)",
+   "born": 1724,
+   "era": "enlightenment",
+   "word_count": 125
+  },
+  {
+   "n": 433,
+   "name": "Keim (Karl Theodor)",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 75
+  },
+  {
+   "n": 434,
+   "name": "Keith (James Francis Edward)",
+   "born": 1696,
+   "era": "seventeenth",
+   "word_count": 120
+  },
+  {
+   "n": 435,
+   "name": "Kenrick (William)",
+   "born": 1720,
+   "era": "enlightenment",
+   "word_count": 85
+  },
+  {
+   "n": 436,
+   "name": "Kerr (Michael Crawford)",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 97
+  },
+  {
+   "n": 437,
+   "name": "Khayyam (Omar)",
+   "born": 1123,
+   "era": "precursors",
+   "word_count": 91
+  },
+  {
+   "n": 438,
+   "name": "Kneeland (Abner)",
+   "born": 1774,
+   "era": "revolutions",
+   "word_count": 202
+  },
+  {
+   "n": 439,
+   "name": "Knowlton (Charles)",
+   "born": 1800,
+   "era": "revolutions",
+   "word_count": 67
+  },
+  {
+   "n": 440,
+   "name": "Knutzen (Matthias)",
+   "born": 1645,
+   "era": "seventeenth",
+   "word_count": 138
+  },
+  {
+   "n": 441,
+   "name": "Koerbagh (Adriaan)",
+   "born": 1632,
+   "era": "seventeenth",
+   "word_count": 115
+  },
+  {
+   "n": 442,
+   "name": "Korn (Selig)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 94
+  },
+  {
+   "n": 443,
+   "name": "Krause (Ernst H. Ludwig)",
+   "born": 1839,
+   "era": "victorian",
+   "word_count": 136
+  },
+  {
+   "n": 444,
+   "name": "Krekel (Arnold)",
+   "born": 1815,
+   "era": "revolutions",
+   "word_count": 119
+  },
+  {
+   "n": 445,
+   "name": "Kropotkin (Petr Aleksyeevich)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 116
+  },
+  {
+   "n": 446,
+   "name": "Lacroix (Sigismund)",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 76
+  },
+  {
+   "n": 447,
+   "name": "Laffitte (Pierre)",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 73
+  },
+  {
+   "n": 448,
+   "name": "Laing (Samuel)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 135
+  },
+  {
+   "n": 449,
+   "name": "Lakanal (Joseph)",
+   "born": 1762,
+   "era": "enlightenment",
+   "word_count": 76
+  },
+  {
+   "n": 450,
+   "name": "Lalande (Joseph Jèrome le Francais de)",
+   "born": 1732,
+   "era": "enlightenment",
+   "word_count": 189
+  },
+  {
+   "n": 451,
+   "name": "Lamarck (Jean Baptiste Pierre Antoine de Monet)",
+   "born": 1744,
+   "era": "enlightenment",
+   "word_count": 95
+  },
+  {
+   "n": 452,
+   "name": "Lamettrie (Julian Offray de)",
+   "born": 1709,
+   "era": "enlightenment",
+   "word_count": 252
+  },
+  {
+   "n": 453,
+   "name": "La Mothe Le Vayer (François de)",
+   "born": 1588,
+   "era": "precursors",
+   "word_count": 71
+  },
+  {
+   "n": 454,
+   "name": "Landor (Walter Savage)",
+   "born": 1775,
+   "era": "revolutions",
+   "word_count": 129
+  },
+  {
+   "n": 455,
+   "name": "Lanessan (Jean Louis de)",
+   "born": 1843,
+   "era": "victorian",
+   "word_count": 107
+  },
+  {
+   "n": 456,
+   "name": "Lang (Andrew)",
+   "born": 1844,
+   "era": "victorian",
+   "word_count": 80
+  },
+  {
+   "n": 457,
+   "name": "Lange (Friedrich Albert)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 102
+  },
+  {
+   "n": 458,
+   "name": "Lankester (Edwin Ray)",
+   "born": 1847,
+   "era": "victorian",
+   "word_count": 66
+  },
+  {
+   "n": 459,
+   "name": "La Place (Pierre Simon)",
+   "born": 1749,
+   "era": "enlightenment",
+   "word_count": 109
+  },
+  {
+   "n": 460,
+   "name": "Larevelliere-Lepaux (Louis Marie DE)",
+   "born": 1753,
+   "era": "enlightenment",
+   "word_count": 99
+  },
+  {
+   "n": 461,
+   "name": "Larousse (Pierre Athanase)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 63
+  },
+  {
+   "n": 462,
+   "name": "Larra (Mariano José de)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 160
+  },
+  {
+   "n": 463,
+   "name": "Larroque (Patrice)",
+   "born": 1801,
+   "era": "revolutions",
+   "word_count": 124
+  },
+  {
+   "n": 464,
+   "name": "Lassalle (Ferdinand Johann Gottlieb)",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 465,
+   "name": "Lastarria (José Victorino)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 104
+  },
+  {
+   "n": 466,
+   "name": "Lau (Theodor Ludwig)",
+   "born": 1670,
+   "era": "seventeenth",
+   "word_count": 80
+  },
+  {
+   "n": 467,
+   "name": "Laurent (François)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 88
+  },
+  {
+   "n": 468,
+   "name": "Lawrence (James)",
+   "born": 1773,
+   "era": "revolutions",
+   "word_count": 111
+  },
+  {
+   "n": 469,
+   "name": "Lawrence (Sir William)",
+   "born": 1783,
+   "era": "revolutions",
+   "word_count": 82
+  },
+  {
+   "n": 470,
+   "name": "Lecky (William Edward Hartpole)",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 61
+  },
+  {
+   "n": 471,
+   "name": "Leconte de Lisle (Charles Marie René)",
+   "born": 1818,
+   "era": "revolutions",
+   "word_count": 95
+  },
+  {
+   "n": 472,
+   "name": "Lecount (Peter)",
+   "born": 1839,
+   "era": "victorian",
+   "word_count": 84
+  },
+  {
+   "n": 473,
+   "name": "Lefevre (André)",
+   "born": 1834,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 474,
+   "name": "Legate (Bartholomew)",
+   "born": 1572,
+   "era": "precursors",
+   "word_count": 120
+  },
+  {
+   "n": 475,
+   "name": "Lennstrand (Viktor E.)",
+   "born": 1861,
+   "era": "victorian",
+   "word_count": 114
+  },
+  {
+   "n": 476,
+   "name": "Leopardi (Giacomo)",
+   "born": 1798,
+   "era": "revolutions",
+   "word_count": 91
+  },
+  {
    "n": 477,
-   "name": "Vanini (Lucilio, afterwards Julius Cæsar)",
-   "born": 1585,
-   "word_count": 208
+   "name": "Lequinio (Joseph Marie)",
+   "born": 1740,
+   "era": "enlightenment",
+   "word_count": 89
   },
   {
    "n": 478,
-   "name": "Vergniaud (Pierre Victurnien)",
-   "born": 1759,
+   "name": "Lermontov (Mikhail Yur'evich)",
+   "born": 1814,
+   "era": "revolutions",
    "word_count": 109
   },
   {
    "n": 479,
-   "name": "Vischer (Friedrich Theodor)",
-   "born": 1807,
-   "word_count": 96
+   "name": "Leroux (Pierre)",
+   "born": 1797,
+   "era": "revolutions",
+   "word_count": 114
   },
   {
    "n": 480,
-   "name": "Vogt (Karl)",
-   "born": 1817,
-   "word_count": 111
+   "name": "Lespinasse (Adolf Frederik Henri de)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 69
   },
   {
    "n": 481,
-   "name": "Volney (Constantin François Chassebouf de)",
-   "born": 1757,
-   "word_count": 142
+   "name": "Lessing (Gotthold Ephraim)",
+   "born": 1729,
+   "era": "enlightenment",
+   "word_count": 113
   },
   {
    "n": 482,
-   "name": "Voltaire (François Marie. Arouet de)",
-   "born": 1694,
-   "word_count": 276
+   "name": "L'Estrange (Thomas)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 88
   },
   {
    "n": 483,
-   "name": "Walker (Thomas)",
-   "born": 1858,
-   "word_count": 91
+   "name": "Lewes (George Henry)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 166
   },
   {
    "n": 484,
-   "name": "Watson (James)",
-   "born": 1799,
-   "word_count": 136
-  },
-  {
-   "n": 485,
-   "name": "Watts (Charles)",
-   "born": 1835,
-   "word_count": 92
-  },
-  {
-   "n": 486,
-   "name": "Whitman (Walt)",
-   "born": 1819,
+   "name": "Lincoln (Abraham)",
+   "born": 1809,
+   "era": "revolutions",
    "word_count": 99
   },
   {
+   "n": 485,
+   "name": "Lindet (Robert Thomas)",
+   "born": 1743,
+   "era": "enlightenment",
+   "word_count": 77
+  },
+  {
+   "n": 486,
+   "name": "Lindkvist (Alfred)",
+   "born": 1860,
+   "era": "victorian",
+   "word_count": 113
+  },
+  {
    "n": 487,
-   "name": "Willis (Robert)",
-   "born": 1799,
-   "word_count": 93
+   "name": "Liniere (François Payot de)",
+   "born": 1628,
+   "era": "seventeenth",
+   "word_count": 61
   },
   {
    "n": 488,
-   "name": "Wislicenus (Gustav Adolf)",
-   "born": 1803,
-   "word_count": 100
+   "name": "Linton (Eliza, née Lynn)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 80
   },
   {
    "n": 489,
-   "name": "Woolston (Thomas)",
-   "born": 1669,
-   "word_count": 106
+   "name": "Linton (William James)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 100
   },
   {
    "n": 490,
-   "name": "Wright (Frances)",
-   "born": 1795,
-   "word_count": 124
+   "name": "Liscow (Christian Ludwig)",
+   "born": 1701,
+   "era": "enlightenment",
+   "word_count": 87
   },
   {
    "n": 491,
-   "name": "Zuppetta (Luigi)",
-   "born": 881,
-   "word_count": 146
+   "name": "Liszinski (Casimir)",
+   "born": 1688,
+   "era": "seventeenth",
+   "word_count": 61
   },
   {
    "n": 492,
-   "name": "Amari (Michele)",
-   "born": 1806,
-   "word_count": 96
+   "name": "Littre (Maximilian Paul Emile)",
+   "born": 1801,
+   "era": "revolutions",
+   "word_count": 220
   },
   {
    "n": 493,
-   "name": "Anderson (Marie)",
-   "born": 1842,
-   "word_count": 103
+   "name": "Lorand (Georges)",
+   "born": 1851,
+   "era": "victorian",
+   "word_count": 93
   },
   {
    "n": 494,
-   "name": "Auerbach (Berthold)",
-   "born": 1812,
-   "word_count": 143
+   "name": "Lubbock (Sir John)",
+   "born": 1834,
+   "era": "victorian",
+   "word_count": 75
   },
   {
    "n": 495,
-   "name": "Boutteville (Marc Lucien)",
-   "born": 1838,
-   "word_count": 116
+   "name": "Maccall (William)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 77
   },
   {
    "n": 496,
-   "name": "Brismee (Desiré)",
-   "born": 1822,
-   "word_count": 170
-  },
-  {
-   "n": 497,
-   "name": "Cavia (Mariano)",
-   "born": 1859,
-   "word_count": 94
-  },
-  {
-   "n": 498,
-   "name": "Guimet (Etienne Emile)",
-   "born": 1836,
-   "word_count": 129
-  },
-  {
-   "n": 499,
-   "name": "Lloyd (William Watkiss)",
-   "born": 1865,
-   "word_count": 170
-  },
-  {
-   "n": 500,
-   "name": "Maglia (Adolfo de)",
-   "born": 1859,
-   "word_count": 109
-  },
-  {
-   "n": 501,
-   "name": "Mendizabal (Juan Alvarez)",
-   "born": 1790,
+   "name": "Macchi (Mauro)",
+   "born": 1818,
+   "era": "revolutions",
    "word_count": 111
   },
   {
+   "n": 497,
+   "name": "Mackey (Sampson Arnold)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 67
+  },
+  {
+   "n": 498,
+   "name": "Madach (Imré)",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 95
+  },
+  {
+   "n": 499,
+   "name": "Maillet (Benôit de)",
+   "born": 1656,
+   "era": "seventeenth",
+   "word_count": 139
+  },
+  {
+   "n": 500,
+   "name": "Malherbe (François de)",
+   "born": 1555,
+   "era": "precursors",
+   "word_count": 71
+  },
+  {
+   "n": 501,
+   "name": "Mandeville (Bernhard)",
+   "born": 1670,
+   "era": "seventeenth",
+   "word_count": 126
+  },
+  {
    "n": 502,
+   "name": "Mantegazza (Paolo)",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 76
+  },
+  {
+   "n": 503,
+   "name": "Marchena (José)",
+   "born": 1768,
+   "era": "enlightenment",
+   "word_count": 75
+  },
+  {
+   "n": 504,
+   "name": "Marechal (Pierre Sylvain)",
+   "born": 1750,
+   "era": "enlightenment",
+   "word_count": 214
+  },
+  {
+   "n": 505,
+   "name": "Marlow (Christopher)",
+   "born": 1564,
+   "era": "precursors",
+   "word_count": 104
+  },
+  {
+   "n": 506,
+   "name": "Marten (Henry)",
+   "born": 1602,
+   "era": "seventeenth",
+   "word_count": 122
+  },
+  {
+   "n": 507,
+   "name": "Martin (Emma)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 129
+  },
+  {
+   "n": 508,
+   "name": "Martin (Bon Louis Henri)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 93
+  },
+  {
+   "n": 509,
+   "name": "Martin (Louis Auguste)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 60
+  },
+  {
+   "n": 510,
+   "name": "Martineau (Harriet)",
+   "born": 1803,
+   "era": "revolutions",
+   "word_count": 116
+  },
+  {
+   "n": 511,
+   "name": "Massey (Gerald)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 184
+  },
+  {
+   "n": 512,
+   "name": "Massol (Marie Alexandre)",
+   "born": 1805,
+   "era": "revolutions",
+   "word_count": 72
+  },
+  {
+   "n": 513,
+   "name": "Maubert de Gouvest (Jean Henri)",
+   "born": 1721,
+   "era": "enlightenment",
+   "word_count": 112
+  },
+  {
+   "n": 514,
+   "name": "Maudsley (Henry)",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 91
+  },
+  {
+   "n": 515,
+   "name": "Mauvillon (Jakob von)",
+   "born": 1743,
+   "era": "enlightenment",
+   "word_count": 88
+  },
+  {
+   "n": 516,
+   "name": "Mazzini (Giuseppe)",
+   "born": 1808,
+   "era": "revolutions",
+   "word_count": 141
+  },
+  {
+   "n": 517,
+   "name": "Mendoza (Diego Hurtado de)",
+   "born": 1503,
+   "era": "precursors",
+   "word_count": 117
+  },
+  {
+   "n": 518,
+   "name": "Mendum (Josiah P.)",
+   "born": 1811,
+   "era": "revolutions",
+   "word_count": 81
+  },
+  {
+   "n": 519,
+   "name": "Mentelle (Edme)",
+   "born": 1730,
+   "era": "enlightenment",
+   "word_count": 60
+  },
+  {
+   "n": 520,
+   "name": "Meredith (George)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 115
+  },
+  {
+   "n": 521,
+   "name": "Meslier or Mellier (Jean)",
+   "born": 1664,
+   "era": "seventeenth",
+   "word_count": 131
+  },
+  {
+   "n": 522,
+   "name": "Metchnikov (Léon)",
+   "born": 330,
+   "era": "precursors",
+   "word_count": 65
+  },
+  {
+   "n": 523,
+   "name": "Meyer (Lodewijk)",
+   "born": 1666,
+   "era": "seventeenth",
+   "word_count": 65
+  },
+  {
+   "n": 524,
+   "name": "Michelet (Jules)",
+   "born": 1798,
+   "era": "revolutions",
+   "word_count": 105
+  },
+  {
+   "n": 525,
+   "name": "Middleton (Conyers)",
+   "born": 1683,
+   "era": "seventeenth",
+   "word_count": 63
+  },
+  {
+   "n": 526,
+   "name": "Mill (James)",
+   "born": 1773,
+   "era": "revolutions",
+   "word_count": 123
+  },
+  {
+   "n": 527,
+   "name": "Mill (John Stuart)",
+   "born": 1806,
+   "era": "revolutions",
+   "word_count": 190
+  },
+  {
+   "n": 528,
+   "name": "Milliere (Jean Baptiste)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 108
+  },
+  {
+   "n": 529,
+   "name": "Mirabaud (Jean Baptiste de)",
+   "born": 1675,
+   "era": "seventeenth",
+   "word_count": 89
+  },
+  {
+   "n": 530,
+   "name": "Mirabeau (Honoré Gabriel Riquetti Comte de)",
+   "born": 1749,
+   "era": "enlightenment",
+   "word_count": 195
+  },
+  {
+   "n": 531,
+   "name": "Miranda (Don Francisco)",
+   "born": 1750,
+   "era": "enlightenment",
+   "word_count": 87
+  },
+  {
+   "n": 532,
+   "name": "Mitchell (Logan)",
+   "born": 1841,
+   "era": "victorian",
+   "word_count": 63
+  },
+  {
+   "n": 533,
+   "name": "Mittermaier (Karl Josef Anton von)",
+   "born": 1787,
+   "era": "revolutions",
+   "word_count": 76
+  },
+  {
+   "n": 534,
+   "name": "Moleschott (Jacob)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 80
+  },
+  {
+   "n": 535,
+   "name": "Molesworth (Sir William)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 93
+  },
+  {
+   "n": 536,
+   "name": "Mommsen (Theodor)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 61
+  },
+  {
+   "n": 537,
+   "name": "Monge (Gaspard)",
+   "born": 1746,
+   "era": "enlightenment",
+   "word_count": 105
+  },
+  {
+   "n": 538,
+   "name": "Monroe (J. R.)",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 145
+  },
+  {
+   "n": 539,
+   "name": "Montaigne (Michel de)",
+   "born": 1533,
+   "era": "precursors",
+   "word_count": 158
+  },
+  {
+   "n": 540,
+   "name": "Monteil (Charles François Louis Edgar)",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 113
+  },
+  {
+   "n": 541,
+   "name": "Montesquieu (Charles de Secondat)",
+   "born": 1689,
+   "era": "seventeenth",
+   "word_count": 97
+  },
+  {
+   "n": 542,
+   "name": "Montgomery (Edmund)",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 124
+  },
+  {
+   "n": 543,
+   "name": "Mook (Friedrich)",
+   "born": 1844,
+   "era": "victorian",
+   "word_count": 78
+  },
+  {
+   "n": 544,
+   "name": "Moreau (Hégésippe)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 63
+  },
+  {
+   "n": 545,
+   "name": "Moreau (Jacques Joseph)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 73
+  },
+  {
+   "n": 546,
+   "name": "Morgan (Thomas)",
+   "born": 1737,
+   "era": "enlightenment",
+   "word_count": 116
+  },
+  {
+   "n": 547,
+   "name": "Morgan (Sir Thomas Charles)",
+   "born": 1783,
+   "era": "revolutions",
+   "word_count": 73
+  },
+  {
+   "n": 548,
+   "name": "Morin (André Saturnin)",
+   "born": 1807,
+   "era": "revolutions",
+   "word_count": 179
+  },
+  {
+   "n": 549,
+   "name": "Morison (James Augustus Cotter)",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 193
+  },
+  {
+   "n": 550,
+   "name": "Morley (John)",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 111
+  },
+  {
+   "n": 551,
+   "name": "Mortillet (Louis Laurent Gabriel de)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 100
+  },
+  {
+   "n": 552,
+   "name": "Moss (Arthur B.)",
+   "born": 1855,
+   "era": "victorian",
+   "word_count": 101
+  },
+  {
+   "n": 553,
+   "name": "Mott (Lucretia)",
+   "born": 757,
+   "era": "precursors",
+   "word_count": 112
+  },
+  {
+   "n": 554,
+   "name": "Musset (Louis Charles Alfred de)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 74
+  },
+  {
+   "n": 555,
+   "name": "Naber (Samuel Adriaan)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 61
+  },
+  {
+   "n": 556,
+   "name": "Naigeon (Jacques André)",
+   "born": 1728,
+   "era": "enlightenment",
+   "word_count": 186
+  },
+  {
+   "n": 557,
+   "name": "Naquet (Joseph Alfred)",
+   "born": 1834,
+   "era": "victorian",
+   "word_count": 137
+  },
+  {
+   "n": 558,
+   "name": "Newcomb (Simon)",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 68
+  },
+  {
+   "n": 559,
+   "name": "Newman (Francis William)",
+   "born": 1805,
+   "era": "revolutions",
+   "word_count": 177
+  },
+  {
+   "n": 560,
+   "name": "Nicholson (William)",
+   "born": 1753,
+   "era": "enlightenment",
+   "word_count": 85
+  },
+  {
+   "n": 561,
+   "name": "Nieuwenhuis (Ferdinand Jakob Domela)",
+   "born": 1848,
+   "era": "victorian",
+   "word_count": 145
+  },
+  {
+   "n": 562,
+   "name": "Noeldeke (Theodor)",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 63
+  },
+  {
+   "n": 563,
+   "name": "Noire (Ludwig)",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 63
+  },
+  {
+   "n": 564,
+   "name": "Nott (Josiah Clark)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 62
+  },
+  {
+   "n": 565,
+   "name": "Nystrom (Anton Christen)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 90
+  },
+  {
+   "n": 566,
+   "name": "Ochino (Bernardino Tommasini)",
+   "born": 1487,
+   "era": "precursors",
+   "word_count": 137
+  },
+  {
+   "n": 567,
+   "name": "O'Connor (Arthur, afterwards Condorcet)",
+   "born": 1768,
+   "era": "enlightenment",
+   "word_count": 78
+  },
+  {
+   "n": 568,
+   "name": "Oken (Lorenz)",
+   "born": 1779,
+   "era": "revolutions",
+   "word_count": 88
+  },
+  {
+   "n": 569,
+   "name": "Onimus (Ernest Nicolas Joseph)",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 75
+  },
+  {
+   "n": 570,
+   "name": "Osborne (Francis)",
+   "born": 1589,
+   "era": "precursors",
+   "word_count": 60
+  },
+  {
+   "n": 571,
+   "name": "Oswald (Felix Leopold)",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 98
+  },
+  {
+   "n": 572,
+   "name": "O'Toole (Adam Duff)",
+   "born": 1327,
+   "era": "precursors",
+   "word_count": 78
+  },
+  {
+   "n": 573,
+   "name": "Owen (Robert)",
+   "born": 1771,
+   "era": "revolutions",
+   "word_count": 227
+  },
+  {
+   "n": 574,
+   "name": "Owen (Robert Dale)",
+   "born": 1800,
+   "era": "revolutions",
+   "word_count": 180
+  },
+  {
+   "n": 575,
+   "name": "Pagano (Francisco Mario Saverio Antonio Carlo Pasquale)",
+   "born": 1748,
+   "era": "enlightenment",
+   "word_count": 84
+  },
+  {
+   "n": 576,
+   "name": "Page (David)",
+   "born": 1814,
+   "era": "revolutions",
+   "word_count": 88
+  },
+  {
+   "n": 577,
+   "name": "Paget (Violet)",
+   "born": 1886,
+   "era": "victorian",
+   "word_count": 67
+  },
+  {
+   "n": 578,
+   "name": "Paine (Thomas)",
+   "born": 1737,
+   "era": "enlightenment",
+   "word_count": 379
+  },
+  {
+   "n": 579,
+   "name": "Paleario (Aonio)",
+   "born": 1500,
+   "era": "precursors",
+   "word_count": 134
+  },
+  {
+   "n": 580,
+   "name": "Pallas (Peter Simon)",
+   "born": 1741,
+   "era": "enlightenment",
+   "word_count": 70
+  },
+  {
+   "n": 581,
+   "name": "Palmer (Courtlandt)",
+   "born": 1843,
+   "era": "victorian",
+   "word_count": 100
+  },
+  {
+   "n": 582,
+   "name": "Palmer (Elihu)",
+   "born": 1764,
+   "era": "enlightenment",
+   "word_count": 162
+  },
+  {
+   "n": 583,
+   "name": "Pancoucke (Charles Joseph)",
+   "born": 1736,
+   "era": "enlightenment",
+   "word_count": 70
+  },
+  {
+   "n": 584,
+   "name": "Paquet (Henri Remi René)",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 71
+  },
+  {
+   "n": 585,
+   "name": "Parker (Theodore)",
+   "born": 518,
+   "era": "precursors",
+   "word_count": 219
+  },
+  {
+   "n": 586,
+   "name": "Parny (Évariste Désiré de Forges de)",
+   "born": 1753,
+   "era": "enlightenment",
+   "word_count": 86
+  },
+  {
+   "n": 587,
+   "name": "Parton (James)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 70
+  },
+  {
+   "n": 588,
+   "name": "Passerano (Alberto Radicati di)",
+   "born": 1736,
+   "era": "enlightenment",
+   "word_count": 155
+  },
+  {
+   "n": 589,
+   "name": "Pasteur (Louis)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 100
+  },
+  {
+   "n": 590,
+   "name": "Pastoret (Claude Emmanuel Joseph Pierre de)",
+   "born": 1756,
+   "era": "enlightenment",
+   "word_count": 191
+  },
+  {
+   "n": 591,
+   "name": "Paterson (Thomas)",
+   "born": 1843,
+   "era": "victorian",
+   "word_count": 118
+  },
+  {
+   "n": 592,
+   "name": "Peacock or Pecock (Reginald)",
+   "born": 1390,
+   "era": "precursors",
+   "word_count": 137
+  },
+  {
+   "n": 593,
+   "name": "Pelletan (Pierre Clement Eugène)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 158
+  },
+  {
+   "n": 594,
+   "name": "Petit (Claude)",
+   "born": 1665,
+   "era": "seventeenth",
+   "word_count": 102
+  },
+  {
+   "n": 595,
+   "name": "Petruccelli della Gattina (Ferdinando)",
+   "born": 1816,
+   "era": "revolutions",
+   "word_count": 137
+  },
+  {
+   "n": 596,
+   "name": "Peyrard (François)",
+   "born": 1760,
+   "era": "enlightenment",
+   "word_count": 80
+  },
+  {
+   "n": 597,
+   "name": "Peyrat (Alphonse)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 90
+  },
+  {
+   "n": 598,
+   "name": "Peyrere (Isaac de la)",
+   "born": 1594,
+   "era": "precursors",
+   "word_count": 156
+  },
+  {
+   "n": 599,
+   "name": "Phillips (Sir Richard)",
+   "born": 1767,
+   "era": "enlightenment",
+   "word_count": 60
+  },
+  {
+   "n": 600,
+   "name": "Pi-y Margall (Francisco)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 601,
+   "name": "Pierson (Allard)",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 71
+  },
+  {
+   "n": 602,
+   "name": "Pigault-Lebrun (Guillaume Charles Antoine)",
+   "born": 1753,
+   "era": "enlightenment",
+   "word_count": 83
+  },
+  {
+   "n": 603,
+   "name": "Pillsbury (Parker)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 96
+  },
+  {
+   "n": 604,
+   "name": "Piron (Alexis)",
+   "born": 1689,
+   "era": "seventeenth",
+   "word_count": 116
+  },
+  {
+   "n": 605,
+   "name": "Pitt (William)",
+   "born": 1708,
+   "era": "enlightenment",
+   "word_count": 138
+  },
+  {
+   "n": 606,
+   "name": "Place (Francis)",
+   "born": 1779,
+   "era": "revolutions",
+   "word_count": 98
+  },
+  {
+   "n": 607,
+   "name": "Plumer (William)",
+   "born": 1759,
+   "era": "enlightenment",
+   "word_count": 166
+  },
+  {
+   "n": 608,
+   "name": "Poe (Edgar Allan)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 137
+  },
+  {
+   "n": 609,
+   "name": "Pomponazzi (Pietro)",
+   "born": 1462,
+   "era": "precursors",
+   "word_count": 162
+  },
+  {
+   "n": 610,
+   "name": "Ponnat (de)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 249
+  },
+  {
+   "n": 611,
+   "name": "Porzio (Simone)",
+   "born": 1708,
+   "era": "enlightenment",
+   "word_count": 96
+  },
+  {
+   "n": 612,
+   "name": "Potvin (Charles)",
+   "born": 1818,
+   "era": "revolutions",
+   "word_count": 93
+  },
+  {
+   "n": 613,
+   "name": "Pouchet (Felix Archimède)",
+   "born": 1800,
+   "era": "revolutions",
+   "word_count": 73
+  },
+  {
+   "n": 614,
+   "name": "Pouchet (Henri Charles George)",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 69
+  },
+  {
+   "n": 615,
+   "name": "Pougens (Marie Charles Joseph de)",
+   "born": 1755,
+   "era": "enlightenment",
+   "word_count": 112
+  },
+  {
+   "n": 616,
+   "name": "Poultier D'Elmolte (François Martin)",
+   "born": 1753,
+   "era": "enlightenment",
+   "word_count": 102
+  },
+  {
+   "n": 617,
+   "name": "Prades (Jean Martin de)",
+   "born": 1720,
+   "era": "enlightenment",
+   "word_count": 175
+  },
+  {
+   "n": 618,
+   "name": "Prater (Horatio)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 72
+  },
+  {
+   "n": 619,
+   "name": "Premontval (Andre Pierre Le Guay de)",
+   "born": 1716,
+   "era": "enlightenment",
+   "word_count": 98
+  },
+  {
+   "n": 620,
+   "name": "Priestley (Joseph)",
+   "born": 1733,
+   "era": "enlightenment",
+   "word_count": 192
+  },
+  {
+   "n": 621,
+   "name": "Proctor (Richard Anthony)",
+   "born": 1837,
+   "era": "victorian",
+   "word_count": 247
+  },
+  {
+   "n": 622,
+   "name": "Proudhon (Pierre Joseph)",
+   "born": 480,
+   "era": "precursors",
+   "word_count": 361
+  },
+  {
+   "n": 623,
+   "name": "Pushkin (Aleksandr Sergyeevich)",
+   "born": 1799,
+   "era": "revolutions",
+   "word_count": 104
+  },
+  {
+   "n": 624,
+   "name": "Putnam (Samuel P.)",
+   "born": 1887,
+   "era": "victorian",
+   "word_count": 83
+  },
+  {
+   "n": 625,
+   "name": "Pyat (Felix)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 285
+  },
+  {
+   "n": 626,
+   "name": "Quinet (Edgar)",
+   "born": 1803,
+   "era": "revolutions",
+   "word_count": 82
+  },
+  {
+   "n": 627,
+   "name": "Rabelais (François)",
+   "born": 1495,
+   "era": "precursors",
+   "word_count": 127
+  },
+  {
+   "n": 628,
+   "name": "Ramaer (Anton Gerard Willem)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 74
+  },
+  {
+   "n": 629,
+   "name": "Ramee (Louise de la)",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 62
+  },
+  {
+   "n": 630,
+   "name": "Ramsey (William James)",
+   "born": 1844,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 631,
+   "name": "Ranc (Arthur)",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 632,
+   "name": "Raspail (François Vincent)",
+   "born": 1794,
+   "era": "revolutions",
+   "word_count": 109
+  },
+  {
+   "n": 633,
+   "name": "Rawson (Albert Leighton)",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 97
+  },
+  {
+   "n": 634,
+   "name": "Raynal (Guillaume Thomas François)",
+   "born": 1713,
+   "era": "enlightenment",
+   "word_count": 115
+  },
+  {
+   "n": 635,
+   "name": "Reade (William Winwood)",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 121
+  },
+  {
+   "n": 636,
+   "name": "Reclus (Jean Jacques Elisée)",
+   "born": 1830,
+   "era": "victorian",
+   "word_count": 195
+  },
+  {
+   "n": 637,
+   "name": "Reghillini de Schio (M.)",
+   "born": 1760,
+   "era": "enlightenment",
+   "word_count": 61
+  },
+  {
+   "n": 638,
+   "name": "Regnard (Albert Adrien)",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 141
+  },
+  {
+   "n": 639,
+   "name": "Regnard (Jean François)",
+   "born": 1655,
+   "era": "seventeenth",
+   "word_count": 85
+  },
+  {
+   "n": 640,
+   "name": "Reich (Eduard)",
+   "born": 1839,
+   "era": "victorian",
+   "word_count": 76
+  },
+  {
+   "n": 641,
+   "name": "Reil (Johann Christian)",
+   "born": 1758,
+   "era": "enlightenment",
+   "word_count": 91
+  },
+  {
+   "n": 642,
+   "name": "Reimarus (Hermann Samuel)",
+   "born": 1694,
+   "era": "seventeenth",
+   "word_count": 90
+  },
+  {
+   "n": 643,
+   "name": "Reitzel (Robert)",
+   "born": 1849,
+   "era": "victorian",
+   "word_count": 72
+  },
+  {
+   "n": 644,
+   "name": "Renan (Joseph Ernest)",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 297
+  },
+  {
+   "n": 645,
+   "name": "Renouvier (Charles Bernard)",
+   "born": 1815,
+   "era": "revolutions",
+   "word_count": 61
+  },
+  {
+   "n": 646,
+   "name": "Reynaud (Jean Ernest)",
+   "born": 1806,
+   "era": "revolutions",
+   "word_count": 65
+  },
+  {
+   "n": 647,
+   "name": "Reynolds (Charles B.)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 70
+  },
+  {
+   "n": 648,
+   "name": "Ribot (Théodule)",
+   "born": 1839,
+   "era": "victorian",
+   "word_count": 61
+  },
+  {
+   "n": 649,
+   "name": "Ricciardi (Giuseppe Napoleone)",
+   "born": 1808,
+   "era": "revolutions",
+   "word_count": 200
+  },
+  {
+   "n": 650,
+   "name": "Richer (Léon)",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 63
+  },
+  {
+   "n": 651,
+   "name": "Roalfe (Matilda)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 125
+  },
+  {
+   "n": 652,
+   "name": "Robert (Pierre François Joseph)",
+   "born": 1763,
+   "era": "enlightenment",
+   "word_count": 69
+  },
+  {
+   "n": 653,
+   "name": "Robertson (John Mackinnon)",
+   "born": 1856,
+   "era": "victorian",
+   "word_count": 84
+  },
+  {
+   "n": 654,
+   "name": "Robin (Charles Philippe)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 103
+  },
+  {
+   "n": 655,
+   "name": "Robinet (Jean Baptiste René)",
+   "born": 1735,
+   "era": "enlightenment",
+   "word_count": 74
+  },
+  {
+   "n": 656,
+   "name": "Robinet (Jean Eugène François)",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 97
+  },
+  {
+   "n": 657,
+   "name": "Rogeard (Louis Auguste)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 107
+  },
+  {
+   "n": 658,
+   "name": "Roland (Marie Jeanne)",
+   "born": 1732,
+   "era": "enlightenment",
+   "word_count": 160
+  },
+  {
+   "n": 659,
+   "name": "Romagnosi (Giovanni Domenico)",
+   "born": 1761,
+   "era": "enlightenment",
+   "word_count": 99
+  },
+  {
+   "n": 660,
+   "name": "Romme (Gilbert)",
+   "born": 1750,
+   "era": "enlightenment",
+   "word_count": 81
+  },
+  {
+   "n": 661,
+   "name": "Ronge (Johannes)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 102
+  },
+  {
+   "n": 662,
+   "name": "Rose (Ernestine Louise)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 238
+  },
+  {
+   "n": 663,
+   "name": "Rossetti (William Michael)",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 66
+  },
+  {
+   "n": 664,
+   "name": "Rotteck (Karl Wenceslaus von)",
+   "born": 1775,
+   "era": "revolutions",
+   "word_count": 95
+  },
+  {
+   "n": 665,
+   "name": "Rousseau (Jean Jacques)",
+   "born": 1712,
+   "era": "enlightenment",
+   "word_count": 248
+  },
+  {
+   "n": 666,
+   "name": "Royer (Clemence Auguste)",
+   "born": 1830,
+   "era": "victorian",
+   "word_count": 164
+  },
+  {
+   "n": 667,
+   "name": "Rüdt (P. A.)",
+   "born": 1844,
+   "era": "victorian",
+   "word_count": 80
+  },
+  {
+   "n": 668,
+   "name": "Ruge (Arnold)",
+   "born": 1802,
+   "era": "revolutions",
+   "word_count": 106
+  },
+  {
+   "n": 669,
+   "name": "Sabin (Ibn)",
+   "born": 1218,
+   "era": "precursors",
+   "word_count": 69
+  },
+  {
+   "n": 670,
+   "name": "Sainte Beuve (Charles Augustin)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 108
+  },
+  {
+   "n": 671,
+   "name": "Saint Evremond (Charles de Marguetel de Saint Denis)",
+   "born": 1713,
+   "era": "enlightenment",
+   "word_count": 103
+  },
+  {
+   "n": 672,
+   "name": "Saint-Glain (Dominique de)",
+   "born": 1620,
+   "era": "seventeenth",
+   "word_count": 86
+  },
+  {
+   "n": 673,
+   "name": "Saint Lambert (Charles, or rather Jean François de)",
+   "born": 1717,
+   "era": "enlightenment",
+   "word_count": 98
+  },
+  {
+   "n": 674,
+   "name": "Sale (George)",
+   "born": 1680,
+   "era": "seventeenth",
+   "word_count": 71
+  },
+  {
+   "n": 675,
+   "name": "Sallet (Friedrich von)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 87
+  },
+  {
+   "n": 676,
+   "name": "Saltus (Edgar Evertson)",
+   "born": 1858,
+   "era": "victorian",
+   "word_count": 91
+  },
+  {
+   "n": 677,
+   "name": "Salverte (Anne Joseph Eusèbe Baconniere de)",
+   "born": 1771,
+   "era": "revolutions",
+   "word_count": 125
+  },
+  {
+   "n": 678,
+   "name": "Sand (George)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 144
+  },
+  {
+   "n": 679,
+   "name": "Saull (William Devonshire)",
+   "born": 1783,
+   "era": "revolutions",
+   "word_count": 63
+  },
+  {
+   "n": 680,
+   "name": "Saunderson (Nicholas)",
+   "born": 1682,
+   "era": "seventeenth",
+   "word_count": 102
+  },
+  {
+   "n": 681,
+   "name": "Sbarbaro (Pietro)",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 70
+  },
+  {
+   "n": 682,
+   "name": "Scherer (Edmond)",
+   "born": 1815,
+   "era": "revolutions",
+   "word_count": 112
+  },
+  {
+   "n": 683,
+   "name": "Scherr (Johannes)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 71
+  },
+  {
+   "n": 684,
+   "name": "Schiller (Johann Christoph Friedrich von)",
+   "born": 1759,
+   "era": "enlightenment",
+   "word_count": 70
+  },
+  {
+   "n": 685,
+   "name": "Schmidt (Eduard Oskar)",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 60
+  },
+  {
+   "n": 686,
+   "name": "Schmidt (Kaspar)",
+   "born": 1806,
+   "era": "revolutions",
+   "word_count": 73
+  },
+  {
+   "n": 687,
+   "name": "Schoelcher (Victor)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 133
+  },
+  {
+   "n": 688,
+   "name": "Scholl (Karl)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 107
+  },
+  {
+   "n": 689,
+   "name": "Schopenhauer (Arthur)",
+   "born": 1788,
+   "era": "revolutions",
+   "word_count": 154
+  },
+  {
+   "n": 690,
+   "name": "Schroeter (Eduard)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 63
+  },
+  {
+   "n": 691,
+   "name": "Schuenemann Pott (Friedrich)",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 63
+  },
+  {
+   "n": 692,
+   "name": "Schultze (Karl August Julius Fritz)",
+   "born": 1846,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 693,
+   "name": "Schumann (Robert Alexander)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 63
+  },
+  {
+   "n": 694,
+   "name": "Scott (Thomas)",
+   "born": 1808,
+   "era": "revolutions",
+   "word_count": 130
+  },
+  {
+   "n": 695,
+   "name": "Seaver (Horace Holley)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 101
+  },
+  {
+   "n": 696,
+   "name": "Seeley (John Robert)",
+   "born": 1834,
+   "era": "victorian",
+   "word_count": 101
+  },
+  {
+   "n": 697,
+   "name": "Semerie (Eugène)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 109
+  },
+  {
+   "n": 698,
+   "name": "Serveto y Reves (Miguel)",
+   "born": 1509,
+   "era": "precursors",
+   "word_count": 123
+  },
+  {
+   "n": 699,
+   "name": "Seume (Johann Gottfried)",
+   "born": 1763,
+   "era": "enlightenment",
+   "word_count": 96
+  },
+  {
+   "n": 700,
+   "name": "Shaftesbury (Anthony Ashley Cooper)",
+   "born": 1671,
+   "era": "seventeenth",
+   "word_count": 108
+  },
+  {
+   "n": 701,
+   "name": "Shakespeare (William)",
+   "born": 1564,
+   "era": "precursors",
+   "word_count": 143
+  },
+  {
+   "n": 702,
+   "name": "Shaw (James Dickson)",
+   "born": 1841,
+   "era": "victorian",
+   "word_count": 95
+  },
+  {
+   "n": 703,
+   "name": "Shelley (Percy Bysshe)",
+   "born": 1792,
+   "era": "revolutions",
+   "word_count": 227
+  },
+  {
+   "n": 704,
+   "name": "Sidney (Algernon)",
+   "born": 1617,
+   "era": "seventeenth",
+   "word_count": 61
+  },
+  {
+   "n": 705,
+   "name": "Simcox (Edith)",
+   "born": 1872,
+   "era": "victorian",
+   "word_count": 69
+  },
+  {
+   "n": 706,
+   "name": "Simon (Richard)",
+   "born": 1638,
+   "era": "seventeenth",
+   "word_count": 82
+  },
+  {
+   "n": 707,
+   "name": "Slenker (Elmina)",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 68
+  },
+  {
+   "n": 708,
+   "name": "Smith (Geritt)",
+   "born": 1799,
+   "era": "revolutions",
+   "word_count": 75
+  },
+  {
+   "n": 709,
+   "name": "Snoilsky (Karl Johan Gustav)",
+   "born": 1841,
+   "era": "victorian",
+   "word_count": 73
+  },
+  {
+   "n": 710,
+   "name": "Somerset (Edward Adolphus Saint Maur)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 77
+  },
+  {
+   "n": 711,
+   "name": "Soury (Auguste Jules)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 154
+  },
+  {
+   "n": 712,
+   "name": "Southwell (Charles)",
+   "born": 1814,
+   "era": "revolutions",
+   "word_count": 157
+  },
+  {
+   "n": 713,
+   "name": "Spencer (Herbert)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 158
+  },
+  {
+   "n": 714,
+   "name": "Spinoza (Baruch)",
+   "born": 1632,
+   "era": "seventeenth",
+   "word_count": 179
+  },
+  {
+   "n": 715,
+   "name": "Standring (George)",
+   "born": 1855,
+   "era": "victorian",
+   "word_count": 102
+  },
+  {
+   "n": 716,
+   "name": "Stanton (Elizabeth, née Cady)",
+   "born": 1815,
+   "era": "revolutions",
+   "word_count": 88
+  },
+  {
+   "n": 717,
+   "name": "Starcke (Carl Nicolay)",
+   "born": 1858,
+   "era": "victorian",
+   "word_count": 93
+  },
+  {
+   "n": 718,
+   "name": "Stefanoni (Luigi)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 105
+  },
+  {
+   "n": 719,
+   "name": "Stephen (Sir James FitzJames)",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 117
+  },
+  {
+   "n": 720,
+   "name": "Stephen (Leslie)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 102
+  },
+  {
+   "n": 721,
+   "name": "Stosch (Friedrich Wilhelm)",
+   "born": 1646,
+   "era": "seventeenth",
+   "word_count": 73
+  },
+  {
+   "n": 722,
+   "name": "Strange (Thomas Lumsden)",
+   "born": 1884,
+   "era": "victorian",
+   "word_count": 165
+  },
+  {
+   "n": 723,
+   "name": "Strauss (David Friedrich)",
+   "born": 1808,
+   "era": "revolutions",
+   "word_count": 194
+  },
+  {
+   "n": 724,
+   "name": "Strozzi (Piero)",
+   "born": 1500,
+   "era": "precursors",
+   "word_count": 66
+  },
+  {
+   "n": 725,
+   "name": "Sue (Marie Joseph, called Eugène)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 61
+  },
+  {
+   "n": 726,
+   "name": "Sunderland (La Roy)",
+   "born": 1803,
+   "era": "revolutions",
+   "word_count": 76
+  },
+  {
+   "n": 727,
+   "name": "Swinburne (Algernon Charles)",
+   "born": 1837,
+   "era": "victorian",
+   "word_count": 94
+  },
+  {
+   "n": 728,
+   "name": "Symes (Joseph)",
+   "born": 1841,
+   "era": "victorian",
+   "word_count": 127
+  },
+  {
+   "n": 729,
+   "name": "Symonds (John Addington)",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 63
+  },
+  {
+   "n": 730,
+   "name": "Taine (Hippolyte Adolphe)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 125
+  },
+  {
+   "n": 731,
+   "name": "Talandier (Alfred)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 105
+  },
+  {
+   "n": 732,
+   "name": "Taurellus (Nicolaus)",
+   "born": 1547,
+   "era": "precursors",
+   "word_count": 70
+  },
+  {
+   "n": 733,
+   "name": "Taylor (Robert)",
+   "born": 1784,
+   "era": "revolutions",
+   "word_count": 262
+  },
+  {
+   "n": 734,
+   "name": "Taylor (Thomas)",
+   "born": 1758,
+   "era": "enlightenment",
+   "word_count": 81
+  },
+  {
+   "n": 735,
+   "name": "Taylor (William)",
+   "born": 1765,
+   "era": "enlightenment",
+   "word_count": 135
+  },
+  {
+   "n": 736,
+   "name": "Tchernychewsky (N. G.)",
+   "born": 1818,
+   "era": "revolutions",
+   "word_count": 83
+  },
+  {
+   "n": 737,
+   "name": "Telesio (Bernardino)",
+   "born": 1509,
+   "era": "precursors",
+   "word_count": 85
+  },
+  {
+   "n": 738,
+   "name": "Thaer (Albrecht Daniel)",
+   "born": 1590,
+   "era": "precursors",
+   "word_count": 126
+  },
+  {
+   "n": 739,
+   "name": "Thomson (Charles Otto)",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 740,
+   "name": "Thomson (James)",
+   "born": 1834,
+   "era": "victorian",
+   "word_count": 148
+  },
+  {
+   "n": 741,
+   "name": "Thorild (Thomas)",
+   "born": 1759,
+   "era": "enlightenment",
+   "word_count": 118
+  },
+  {
+   "n": 742,
+   "name": "Thulie (Jean Baptiste Henri)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 62
+  },
+  {
+   "n": 743,
+   "name": "Tiele (Cornelis Petrus)",
+   "born": 1830,
+   "era": "victorian",
+   "word_count": 89
+  },
+  {
+   "n": 744,
+   "name": "Tindal (Matthew)",
+   "born": 1657,
+   "era": "seventeenth",
+   "word_count": 112
+  },
+  {
+   "n": 745,
+   "name": "Toland (John)",
+   "born": 1669,
+   "era": "seventeenth",
+   "word_count": 252
+  },
+  {
+   "n": 746,
+   "name": "Tone (Theobald Wolfe)",
+   "born": 1763,
+   "era": "enlightenment",
+   "word_count": 63
+  },
+  {
+   "n": 747,
+   "name": "Travis (Henry)",
+   "born": 1807,
+   "era": "revolutions",
+   "word_count": 62
+  },
+  {
+   "n": 748,
+   "name": "Trelawny (Edward John)",
+   "born": 1792,
+   "era": "revolutions",
+   "word_count": 92
+  },
+  {
+   "n": 749,
+   "name": "Trenchard (John)",
+   "born": 1669,
+   "era": "seventeenth",
+   "word_count": 78
+  },
+  {
+   "n": 750,
+   "name": "Trezza (Gaetano)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 93
+  },
+  {
+   "n": 751,
+   "name": "Tridon (Edme Marie, Gustave)",
+   "born": 1841,
+   "era": "victorian",
+   "word_count": 204
+  },
+  {
+   "n": 752,
+   "name": "Truelove (Edward)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 130
+  },
+  {
+   "n": 753,
+   "name": "Trumbull (Matthew M.)",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 70
+  },
+  {
+   "n": 754,
+   "name": "Tylor (Edward Burnet)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 119
+  },
+  {
+   "n": 755,
+   "name": "Tyndall (John)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 112
+  },
+  {
+   "n": 756,
+   "name": "Uhlich (Johann Jacob Marcus Lebericht)",
+   "born": 1799,
+   "era": "revolutions",
+   "word_count": 62
+  },
+  {
+   "n": 757,
+   "name": "Underwood (Benjamin F.)",
+   "born": 1839,
+   "era": "victorian",
+   "word_count": 109
+  },
+  {
+   "n": 758,
+   "name": "Vacherot (Etienne)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 73
+  },
+  {
+   "n": 759,
+   "name": "Vanini (Lucilio, afterwards Julius Cæsar)",
+   "born": 1585,
+   "era": "precursors",
+   "word_count": 208
+  },
+  {
+   "n": 760,
+   "name": "Vapereau (Louis Gustave)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 88
+  },
+  {
+   "n": 761,
+   "name": "Varnhagen von Ense (Earl August Ludwig Philipp)",
+   "born": 1785,
+   "era": "revolutions",
+   "word_count": 65
+  },
+  {
+   "n": 762,
+   "name": "Vauvenargues (Luc de Clapiers)",
+   "born": 1715,
+   "era": "enlightenment",
+   "word_count": 74
+  },
+  {
+   "n": 763,
+   "name": "Vereschagin (Vasily)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 66
+  },
+  {
+   "n": 764,
+   "name": "Vergniaud (Pierre Victurnien)",
+   "born": 1759,
+   "era": "enlightenment",
+   "word_count": 109
+  },
+  {
+   "n": 765,
+   "name": "Viardot (Louis)",
+   "born": 1800,
+   "era": "revolutions",
+   "word_count": 83
+  },
+  {
+   "n": 766,
+   "name": "Virchow (Rudolf)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 68
+  },
+  {
+   "n": 767,
+   "name": "Vischer (Friedrich Theodor)",
+   "born": 1807,
+   "era": "revolutions",
+   "word_count": 96
+  },
+  {
+   "n": 768,
+   "name": "Voelkel (Titus)",
+   "born": 1841,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 769,
+   "name": "Vogt (Karl)",
+   "born": 1817,
+   "era": "revolutions",
+   "word_count": 111
+  },
+  {
+   "n": 770,
+   "name": "Volney (Constantin François Chassebouf de)",
+   "born": 1757,
+   "era": "enlightenment",
+   "word_count": 142
+  },
+  {
+   "n": 771,
+   "name": "Voltaire (François Marie. Arouet de)",
+   "born": 1694,
+   "era": "seventeenth",
+   "word_count": 276
+  },
+  {
+   "n": 772,
+   "name": "Voysey (Charles)",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 76
+  },
+  {
+   "n": 773,
+   "name": "Wagner (Wilhelm Richard)",
+   "born": 1813,
+   "era": "revolutions",
+   "word_count": 84
+  },
+  {
+   "n": 774,
+   "name": "Waite (Charles Burlingame)",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 66
+  },
+  {
+   "n": 775,
+   "name": "Walker (Thomas)",
+   "born": 1858,
+   "era": "victorian",
+   "word_count": 91
+  },
+  {
+   "n": 776,
+   "name": "Ward (Lester Frank)",
+   "born": 1841,
+   "era": "victorian",
+   "word_count": 76
+  },
+  {
+   "n": 777,
+   "name": "Washburn (L. K.)",
+   "born": 1846,
+   "era": "victorian",
+   "word_count": 86
+  },
+  {
+   "n": 778,
+   "name": "Watson (James)",
+   "born": 1799,
+   "era": "revolutions",
+   "word_count": 136
+  },
+  {
+   "n": 779,
+   "name": "Watts (Charles)",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 780,
+   "name": "Watts (John)",
+   "born": 1834,
+   "era": "victorian",
+   "word_count": 80
+  },
+  {
+   "n": 781,
+   "name": "Weber (Karl Julius)",
+   "born": 1767,
+   "era": "enlightenment",
+   "word_count": 64
+  },
+  {
+   "n": 782,
+   "name": "Westbrook (Richard Brodhead)",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 71
+  },
+  {
+   "n": 783,
+   "name": "White (Andrew Dickson)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 784,
+   "name": "Whitman (Walt)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 99
+  },
+  {
+   "n": 785,
+   "name": "Wieland (Christopher Martin)",
+   "born": 1733,
+   "era": "enlightenment",
+   "word_count": 64
+  },
+  {
+   "n": 786,
+   "name": "Williams (David)",
+   "born": 1738,
+   "era": "enlightenment",
+   "word_count": 85
+  },
+  {
+   "n": 787,
+   "name": "Willis (Robert)",
+   "born": 1799,
+   "era": "revolutions",
+   "word_count": 93
+  },
+  {
+   "n": 788,
+   "name": "Wislicenus (Gustav Adolf)",
+   "born": 1803,
+   "era": "revolutions",
+   "word_count": 100
+  },
+  {
+   "n": 789,
+   "name": "Wollstonecraft (Mary)",
+   "born": 1759,
+   "era": "enlightenment",
+   "word_count": 62
+  },
+  {
+   "n": 790,
+   "name": "Woolston (Thomas)",
+   "born": 1669,
+   "era": "seventeenth",
+   "word_count": 106
+  },
+  {
+   "n": 791,
+   "name": "Wright (Elizur)",
+   "born": 1804,
+   "era": "revolutions",
+   "word_count": 73
+  },
+  {
+   "n": 792,
+   "name": "Wright (Frances)",
+   "born": 1795,
+   "era": "revolutions",
+   "word_count": 124
+  },
+  {
+   "n": 793,
+   "name": "Wundt (Wilhelm Max)",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 61
+  },
+  {
+   "n": 794,
+   "name": "Youmans (Edward Livingstone)",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 70
+  },
+  {
+   "n": 795,
+   "name": "Zeller (Eduard)",
+   "born": 1814,
+   "era": "revolutions",
+   "word_count": 68
+  },
+  {
+   "n": 796,
+   "name": "Zuppetta (Luigi)",
+   "born": 881,
+   "era": "precursors",
+   "word_count": 146
+  },
+  {
+   "n": 797,
+   "name": "Acuna (Rosario de)",
+   "born": 1854,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 798,
+   "name": "Admiraal (Aart)",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 77
+  },
+  {
+   "n": 799,
+   "name": "Amari (Michele)",
+   "born": 1806,
+   "era": "revolutions",
+   "word_count": 96
+  },
+  {
+   "n": 800,
+   "name": "Anderson (Marie)",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 103
+  },
+  {
+   "n": 801,
+   "name": "Aranda (Pedro Pablo Abarca de Bolea)",
+   "born": 1718,
+   "era": "enlightenment",
+   "word_count": 68
+  },
+  {
+   "n": 802,
+   "name": "Argilleres (Antoine)",
+   "born": 1561,
+   "era": "precursors",
+   "word_count": 77
+  },
+  {
+   "n": 803,
+   "name": "Aszo y Del Rio (Ignacio Jordan de)",
+   "born": 1742,
+   "era": "enlightenment",
+   "word_count": 72
+  },
+  {
+   "n": 804,
+   "name": "Auerbach (Berthold)",
+   "born": 1812,
+   "era": "revolutions",
+   "word_count": 143
+  },
+  {
+   "n": 805,
+   "name": "Bedingfield (Richard, W. T.)",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 806,
+   "name": "Blum (Robert)",
+   "born": 1807,
+   "era": "revolutions",
+   "word_count": 87
+  },
+  {
+   "n": 807,
+   "name": "Bolin (A. W.)",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 62
+  },
+  {
+   "n": 808,
+   "name": "Bourneville (Magloire Désir)",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 77
+  },
+  {
+   "n": 809,
+   "name": "Boutteville (Marc Lucien)",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 116
+  },
+  {
+   "n": 810,
+   "name": "Brismee (Desiré)",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 170
+  },
+  {
+   "n": 811,
+   "name": "Cavia (Mariano)",
+   "born": 1859,
+   "era": "victorian",
+   "word_count": 94
+  },
+  {
+   "n": 812,
+   "name": "Deschanel (Emile Auguste)",
+   "born": 1819,
+   "era": "revolutions",
+   "word_count": 61
+  },
+  {
+   "n": 813,
+   "name": "Duller (Eduard)",
+   "born": 1809,
+   "era": "revolutions",
+   "word_count": 72
+  },
+  {
+   "n": 814,
+   "name": "Figueras-y-Moracas (Estanilas)",
+   "born": 1810,
+   "era": "revolutions",
+   "word_count": 69
+  },
+  {
+   "n": 815,
+   "name": "Guimet (Etienne Emile)",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 129
+  },
+  {
+   "n": 816,
+   "name": "Heyse (Paul Johann Ludwig)",
+   "born": 1830,
+   "era": "victorian",
+   "word_count": 64
+  },
+  {
+   "n": 817,
+   "name": "Hoeffding (Harald)",
+   "born": 1843,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 818,
+   "name": "Jacobsen (Jens Peter)",
+   "born": 1847,
+   "era": "victorian",
+   "word_count": 67
+  },
+  {
+   "n": 819,
+   "name": "Kleist (Heinrich von)",
+   "born": 1777,
+   "era": "revolutions",
+   "word_count": 77
+  },
+  {
+   "n": 820,
+   "name": "Letourneau (Charles Jean Marie)",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 86
+  },
+  {
+   "n": 821,
+   "name": "Lloyd (William Watkiss)",
+   "born": 1865,
+   "era": "victorian",
+   "word_count": 170
+  },
+  {
+   "n": 822,
+   "name": "Maglia (Adolfo de)",
+   "born": 1859,
+   "era": "victorian",
+   "word_count": 109
+  },
+  {
+   "n": 823,
+   "name": "Mendizabal (Juan Alvarez)",
+   "born": 1790,
+   "era": "revolutions",
+   "word_count": 111
+  },
+  {
+   "n": 824,
+   "name": "Miralta (Constancio)",
+   "born": 1849,
+   "era": "victorian",
+   "word_count": 62
+  },
+  {
+   "n": 825,
+   "name": "Moraita (Miguel)",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 76
+  },
+  {
+   "n": 826,
+   "name": "Nees Von Esenbeck (Christian Gottfried)",
+   "born": 1776,
+   "era": "revolutions",
+   "word_count": 66
+  },
+  {
+   "n": 827,
+   "name": "Tocco (Felice)",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 71
+  },
+  {
+   "n": 828,
    "name": "Wheeler (Joseph Mazzini)",
    "born": 1850,
+   "era": "victorian",
    "word_count": 117
   }
  ]
