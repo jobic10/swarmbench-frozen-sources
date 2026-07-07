@@ -1,0 +1,98 @@
+{
+  "agriculture": {
+    "subcommittee_id": "agriculture",
+    "bill_name": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",
+    "house_pkg": "CRPT-118hrpt124",
+    "senate_pkg": "CRPT-118srpt44",
+    "house_url": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt124/html/CRPT-118hrpt124.htm",
+    "senate_url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt44/html/CRPT-118srpt44.htm",
+    "house_words": 55095,
+    "house_file": "agriculture__house.txt",
+    "senate_words": 68771,
+    "senate_file": "agriculture__senate.txt"
+  },
+  "defense": {
+    "subcommittee_id": "defense",
+    "bill_name": "Department of Defense",
+    "house_pkg": "CRPT-118hrpt121",
+    "senate_pkg": "CRPT-118srpt81",
+    "house_url": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt121/html/CRPT-118hrpt121.htm",
+    "senate_url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt81/html/CRPT-118srpt81.htm",
+    "house_words": 49142,
+    "house_file": "defense__house.txt",
+    "senate_words": 59361,
+    "senate_file": "defense__senate.txt"
+  },
+  "energy-water": {
+    "subcommittee_id": "energy-water",
+    "bill_name": "Energy and Water Development and Related Agencies",
+    "house_pkg": "CRPT-118hrpt126",
+    "senate_pkg": "CRPT-118srpt72",
+    "house_url": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt126/html/CRPT-118hrpt126.htm",
+    "senate_url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt72/html/CRPT-118srpt72.htm",
+    "house_words": 56063,
+    "house_file": "energy-water__house.txt",
+    "senate_words": 72366,
+    "senate_file": "energy-water__senate.txt"
+  },
+  "financial-services": {
+    "subcommittee_id": "financial-services",
+    "bill_name": "Financial Services and General Government",
+    "house_pkg": "CRPT-118hrpt145",
+    "senate_pkg": "CRPT-118srpt61",
+    "house_url": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt145/html/CRPT-118hrpt145.htm",
+    "senate_url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt61/html/CRPT-118srpt61.htm",
+    "house_words": 111006,
+    "house_file": "financial-services__house.txt",
+    "senate_words": 57883,
+    "senate_file": "financial-services__senate.txt"
+  },
+  "homeland-security": {
+    "subcommittee_id": "homeland-security",
+    "bill_name": "Department of Homeland Security",
+    "house_pkg": "CRPT-118hrpt123",
+    "senate_pkg": "CRPT-118srpt85",
+    "house_url": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt123/html/CRPT-118hrpt123.htm",
+    "senate_url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt85/html/CRPT-118srpt85.htm",
+    "house_words": 61018,
+    "house_file": "homeland-security__house.txt",
+    "senate_words": 66822,
+    "senate_file": "homeland-security__senate.txt"
+  },
+  "transportation-hud": {
+    "subcommittee_id": "transportation-hud",
+    "bill_name": "Transportation, Housing and Urban Development, and Related Agencies",
+    "house_pkg": "CRPT-118hrpt154",
+    "senate_pkg": "CRPT-118srpt70",
+    "house_url": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt154/html/CRPT-118hrpt154.htm",
+    "senate_url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt70/html/CRPT-118srpt70.htm",
+    "house_words": 70389,
+    "house_file": "transportation-hud__house.txt",
+    "senate_words": 94300,
+    "senate_file": "transportation-hud__senate.txt"
+  },
+  "milcon-va": {
+    "subcommittee_id": "milcon-va",
+    "bill_name": "Military Construction, Veterans Affairs, and Related Agencies",
+    "house_pkg": "CRPT-118hrpt122",
+    "senate_pkg": "CRPT-118srpt43",
+    "house_url": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt122/html/CRPT-118hrpt122.htm",
+    "senate_url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt43/html/CRPT-118srpt43.htm",
+    "house_words": 34797,
+    "house_file": "milcon-va__house.txt",
+    "senate_words": 42141,
+    "senate_file": "milcon-va__senate.txt"
+  },
+  "legislative-branch": {
+    "subcommittee_id": "legislative-branch",
+    "bill_name": "Legislative Branch",
+    "house_pkg": "CRPT-118hrpt120",
+    "senate_pkg": "CRPT-118srpt60",
+    "house_url": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt120/html/CRPT-118hrpt120.htm",
+    "senate_url": "https://www.govinfo.gov/content/pkg/CRPT-118srpt60/html/CRPT-118srpt60.htm",
+    "house_words": 15859,
+    "house_file": "legislative-branch__house.txt",
+    "senate_words": 27082,
+    "senate_file": "legislative-branch__senate.txt"
+  }
+}
