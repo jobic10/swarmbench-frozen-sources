@@ -1,0 +1,3016 @@
+{
+ "documents": [
+  {
+   "n": 1,
+   "name": "Abbot (Francis Ellingwood)",
+   "born": 1836,
+   "word_count": 114
+  },
+  {
+   "n": 2,
+   "name": "Abul-Ola (Ahmad ibn Abd Allah ibn Sulaiman)",
+   "born": 973,
+   "word_count": 100
+  },
+  {
+   "n": 3,
+   "name": "Ackermann (Louise-Victorine, née Choquet)",
+   "born": 1813,
+   "word_count": 115
+  },
+  {
+   "n": 4,
+   "name": "Acollas (Pierre Antoine René Paul Emile)",
+   "born": 1826,
+   "word_count": 96
+  },
+  {
+   "n": 5,
+   "name": "Acontius (Jacobus--Italian, Giacomo Aconzio)",
+   "born": 1557,
+   "word_count": 139
+  },
+  {
+   "n": 6,
+   "name": "Adler (Felix)",
+   "born": 1851,
+   "word_count": 118
+  },
+  {
+   "n": 7,
+   "name": "Akbar (Jalal-ed-din Muhammad)",
+   "born": 1542,
+   "word_count": 93
+  },
+  {
+   "n": 8,
+   "name": "Alembert (Jean le Rond d')",
+   "born": 1717,
+   "word_count": 253
+  },
+  {
+   "n": 9,
+   "name": "Alfieri (Vittorio)",
+   "born": 1223,
+   "word_count": 300
+  },
+  {
+   "n": 10,
+   "name": "Allen (Charles Grant Blairfindie)",
+   "born": 1848,
+   "word_count": 100
+  },
+  {
+   "n": 11,
+   "name": "Allen (Ethan)",
+   "born": 1737,
+   "word_count": 158
+  },
+  {
+   "n": 12,
+   "name": "Alpharabius (Muhammad ibn Muhammad ibn Tarkhan)",
+   "born": 1204,
+   "word_count": 180
+  },
+  {
+   "n": 13,
+   "name": "Amberley (John Russell)",
+   "born": 1843,
+   "word_count": 121
+  },
+  {
+   "n": 14,
+   "name": "Ammianus (Marcellinus)",
+   "born": 499,
+   "word_count": 252
+  },
+  {
+   "n": 15,
+   "name": "Andrieux (Louis)",
+   "born": 1840,
+   "word_count": 117
+  },
+  {
+   "n": 16,
+   "name": "Annet (Peter)",
+   "born": 1693,
+   "word_count": 432
+  },
+  {
+   "n": 17,
+   "name": "Arago (Dominique François Jean)",
+   "born": 1786,
+   "word_count": 96
+  },
+  {
+   "n": 18,
+   "name": "Ardigo (Roberto)",
+   "born": 1828,
+   "word_count": 92
+  },
+  {
+   "n": 19,
+   "name": "Argens (Jean Baptiste de Boyer)",
+   "born": 1704,
+   "word_count": 124
+  },
+  {
+   "n": 20,
+   "name": "Argental (Charles Augustin de Ferriol)",
+   "born": 444,
+   "word_count": 333
+  },
+  {
+   "n": 21,
+   "name": "Arnold (Matthew)",
+   "born": 1822,
+   "word_count": 187
+  },
+  {
+   "n": 22,
+   "name": "Aurelius (Marcus Antoninus)",
+   "born": null,
+   "word_count": 189
+  },
+  {
+   "n": 23,
+   "name": "Austin (Charles)",
+   "born": 1799,
+   "word_count": 145
+  },
+  {
+   "n": 24,
+   "name": "Austin (John)",
+   "born": 1790,
+   "word_count": 142
+  },
+  {
+   "n": 25,
+   "name": "Averroes (Muhammad Ibn-Ahmad Ibn Rushd)",
+   "born": 1126,
+   "word_count": 120
+  },
+  {
+   "n": 26,
+   "name": "Bagehot (Walter)",
+   "born": 1826,
+   "word_count": 92
+  },
+  {
+   "n": 27,
+   "name": "Bailey (Samuel)",
+   "born": 1791,
+   "word_count": 130
+  },
+  {
+   "n": 28,
+   "name": "Baillie (George)",
+   "born": 1854,
+   "word_count": 142
+  },
+  {
+   "n": 29,
+   "name": "Bain (Alexander)",
+   "born": 1818,
+   "word_count": 187
+  },
+  {
+   "n": 30,
+   "name": "Bakunin (Mikhail Aleksandrovich)",
+   "born": 1814,
+   "word_count": 233
+  },
+  {
+   "n": 31,
+   "name": "Ball (William Platt)",
+   "born": 1844,
+   "word_count": 145
+  },
+  {
+   "n": 32,
+   "name": "Barlow (Joel)",
+   "born": 1754,
+   "word_count": 108
+  },
+  {
+   "n": 33,
+   "name": "Barni (Jules Romain)",
+   "born": 1818,
+   "word_count": 99
+  },
+  {
+   "n": 34,
+   "name": "Barrett (Thomas Squire)",
+   "born": 1842,
+   "word_count": 104
+  },
+  {
+   "n": 35,
+   "name": "Baskerville (John)",
+   "born": 1706,
+   "word_count": 163
+  },
+  {
+   "n": 36,
+   "name": "Baudelaire (Charles Pierre)",
+   "born": 1821,
+   "word_count": 99
+  },
+  {
+   "n": 37,
+   "name": "Bauer (Bruno)",
+   "born": 1809,
+   "word_count": 228
+  },
+  {
+   "n": 38,
+   "name": "Baur (Ferdinand Christian von)",
+   "born": 1792,
+   "word_count": 133
+  },
+  {
+   "n": 39,
+   "name": "Bayle (Pierre)",
+   "born": 1647,
+   "word_count": 166
+  },
+  {
+   "n": 40,
+   "name": "Beausobre (Louis de)",
+   "born": 1730,
+   "word_count": 93
+  },
+  {
+   "n": 41,
+   "name": "Bebel (Ferdinand August)",
+   "born": 1840,
+   "word_count": 93
+  },
+  {
+   "n": 42,
+   "name": "Beethoven (Ludwig van)",
+   "born": 1770,
+   "word_count": 206
+  },
+  {
+   "n": 43,
+   "name": "Bekker (Balthasar)",
+   "born": 1634,
+   "word_count": 110
+  },
+  {
+   "n": 44,
+   "name": "Bell (Thomas Evans)",
+   "born": 1842,
+   "word_count": 95
+  },
+  {
+   "n": 45,
+   "name": "Bennett (De Robigne Mortimer)",
+   "born": 1818,
+   "word_count": 242
+  },
+  {
+   "n": 46,
+   "name": "Bentham (Jeremy)",
+   "born": 1748,
+   "word_count": 166
+  },
+  {
+   "n": 47,
+   "name": "Berkenhout (Dr. John)",
+   "born": 1731,
+   "word_count": 106
+  },
+  {
+   "n": 48,
+   "name": "Berquin (Louis de)",
+   "born": 1489,
+   "word_count": 105
+  },
+  {
+   "n": 49,
+   "name": "Bert (Paul)",
+   "born": 1833,
+   "word_count": 189
+  },
+  {
+   "n": 50,
+   "name": "Besant (Annie)",
+   "born": 1847,
+   "word_count": 445
+  },
+  {
+   "n": 51,
+   "name": "Beverland (Hadrianus)",
+   "born": 1654,
+   "word_count": 92
+  },
+  {
+   "n": 52,
+   "name": "Beyle (Marie Henri)",
+   "born": 1783,
+   "word_count": 93
+  },
+  {
+   "n": 53,
+   "name": "Bianchi (Angelo)",
+   "born": 1799,
+   "word_count": 134
+  },
+  {
+   "n": 54,
+   "name": "Biddle or Bidle (John)",
+   "born": 1615,
+   "word_count": 131
+  },
+  {
+   "n": 55,
+   "name": "Billaud-Varenne (Jean Nicolas)",
+   "born": 1756,
+   "word_count": 186
+  },
+  {
+   "n": 56,
+   "name": "Birch (William John)",
+   "born": 1811,
+   "word_count": 153
+  },
+  {
+   "n": 57,
+   "name": "Björnson (Björnstjerne)",
+   "born": 1832,
+   "word_count": 168
+  },
+  {
+   "n": 58,
+   "name": "Blanqui (Louis Auguste)",
+   "born": 1805,
+   "word_count": 152
+  },
+  {
+   "n": 59,
+   "name": "Blind (Karl)",
+   "born": 1826,
+   "word_count": 164
+  },
+  {
+   "n": 60,
+   "name": "Blount (Charles)",
+   "born": 1654,
+   "word_count": 153
+  },
+  {
+   "n": 61,
+   "name": "Bodin (Jean)",
+   "born": 1530,
+   "word_count": 113
+  },
+  {
+   "n": 62,
+   "name": "Bolingbroke (Henry Saint John)",
+   "born": 1672,
+   "word_count": 108
+  },
+  {
+   "n": 63,
+   "name": "Boni (Filippo de)",
+   "born": 1820,
+   "word_count": 202
+  },
+  {
+   "n": 64,
+   "name": "Boulainvilliers (Henri de)",
+   "born": 1658,
+   "word_count": 104
+  },
+  {
+   "n": 65,
+   "name": "Boulanger (Nicolas-Antoine)",
+   "born": 1722,
+   "word_count": 132
+  },
+  {
+   "n": 66,
+   "name": "Bowring (Sir John, K.B., LL D.)",
+   "born": 1792,
+   "word_count": 149
+  },
+  {
+   "n": 67,
+   "name": "Boyle (Humphrey)",
+   "born": 1821,
+   "word_count": 114
+  },
+  {
+   "n": 68,
+   "name": "Bradlaugh (Charles)",
+   "born": 1833,
+   "word_count": 425
+  },
+  {
+   "n": 69,
+   "name": "Bray (Charles)",
+   "born": 1811,
+   "word_count": 238
+  },
+  {
+   "n": 70,
+   "name": "Brissot (Jean Pierre)",
+   "born": 1754,
+   "word_count": 158
+  },
+  {
+   "n": 71,
+   "name": "Broussais (François Joseph Victor)",
+   "born": 1772,
+   "word_count": 124
+  },
+  {
+   "n": 72,
+   "name": "Brown (George William)",
+   "born": 1820,
+   "word_count": 94
+  },
+  {
+   "n": 73,
+   "name": "Browne (Sir Thomas)",
+   "born": 1605,
+   "word_count": 124
+  },
+  {
+   "n": 74,
+   "name": "Bruno (Giordano)",
+   "born": 1548,
+   "word_count": 290
+  },
+  {
+   "n": 75,
+   "name": "Buchanan (George)",
+   "born": 1506,
+   "word_count": 216
+  },
+  {
+   "n": 76,
+   "name": "Buchanan (Robert)",
+   "born": 1813,
+   "word_count": 114
+  },
+  {
+   "n": 77,
+   "name": "Buckle (Henry Thomas)",
+   "born": 1821,
+   "word_count": 175
+  },
+  {
+   "n": 78,
+   "name": "Buechner (Friedrich Karl Christian Ludwig)",
+   "born": 1824,
+   "word_count": 137
+  },
+  {
+   "n": 79,
+   "name": "Buffon (Georges Louis Leclerc)",
+   "born": 1707,
+   "word_count": 94
+  },
+  {
+   "n": 80,
+   "name": "Burdon (William)",
+   "born": 1764,
+   "word_count": 116
+  },
+  {
+   "n": 81,
+   "name": "Burnet (Thomas)",
+   "born": 1635,
+   "word_count": 236
+  },
+  {
+   "n": 82,
+   "name": "Burnett (James)",
+   "born": 1714,
+   "word_count": 107
+  },
+  {
+   "n": 83,
+   "name": "Burr (William Henry)",
+   "born": 1819,
+   "word_count": 114
+  },
+  {
+   "n": 84,
+   "name": "Burton (Sir Richard Francis)",
+   "born": 1821,
+   "word_count": 185
+  },
+  {
+   "n": 85,
+   "name": "Butler (Samuel)",
+   "born": 1612,
+   "word_count": 112
+  },
+  {
+   "n": 86,
+   "name": "Byron (George Gordon Noel)",
+   "born": 1788,
+   "word_count": 243
+  },
+  {
+   "n": 87,
+   "name": "Cabanis (Pierre Jean George)",
+   "born": 1757,
+   "word_count": 106
+  },
+  {
+   "n": 88,
+   "name": "Cæsalpinus (Andreas)",
+   "born": 1519,
+   "word_count": 91
+  },
+  {
+   "n": 89,
+   "name": "Cæsar (Caius Julius)",
+   "born": null,
+   "word_count": 185
+  },
+  {
+   "n": 90,
+   "name": "Campanella (Tommaso)",
+   "born": 1568,
+   "word_count": 274
+  },
+  {
+   "n": 91,
+   "name": "Campbell (Alexander)",
+   "born": 1827,
+   "word_count": 111
+  },
+  {
+   "n": 92,
+   "name": "Canestrini (Giovanni)",
+   "born": 1835,
+   "word_count": 95
+  },
+  {
+   "n": 93,
+   "name": "Cardano (Girolamo)",
+   "born": 1501,
+   "word_count": 194
+  },
+  {
+   "n": 94,
+   "name": "Carducci (Giosuè)",
+   "born": 1836,
+   "word_count": 135
+  },
+  {
+   "n": 95,
+   "name": "Carlile (Eliza Sharples)",
+   "born": 1831,
+   "word_count": 97
+  },
+  {
+   "n": 96,
+   "name": "Carlile (Richard)",
+   "born": 1790,
+   "word_count": 318
+  },
+  {
+   "n": 97,
+   "name": "Carlyle (Thomas)",
+   "born": 213,
+   "word_count": 423
+  },
+  {
+   "n": 98,
+   "name": "Carra (Jean Louis)",
+   "born": 1743,
+   "word_count": 118
+  },
+  {
+   "n": 99,
+   "name": "Carrel (Jean Baptiste Nicolas Armand)",
+   "born": 1800,
+   "word_count": 147
+  },
+  {
+   "n": 100,
+   "name": "Castelar y Ripoll (Emilio)",
+   "born": 1832,
+   "word_count": 158
+  },
+  {
+   "n": 101,
+   "name": "Cazelles (Emile)",
+   "born": 1257,
+   "word_count": 94
+  },
+  {
+   "n": 102,
+   "name": "Cellarius (Martin)",
+   "born": 1522,
+   "word_count": 137
+  },
+  {
+   "n": 103,
+   "name": "Chaloner (Thomas)",
+   "born": 1595,
+   "word_count": 103
+  },
+  {
+   "n": 104,
+   "name": "Chamfort (Sébastien Roch Nicolas)",
+   "born": 1741,
+   "word_count": 147
+  },
+  {
+   "n": 105,
+   "name": "Chastelet du or Chatelet Lomont (Gabrielle Emilie le Tonnelier de\nBreteuil)",
+   "born": 1706,
+   "word_count": 91
+  },
+  {
+   "n": 106,
+   "name": "Chaucer (Geoffrey)",
+   "born": 1340,
+   "word_count": 105
+  },
+  {
+   "n": 107,
+   "name": "Chaumette (Pierre Gaspard)",
+   "born": 1763,
+   "word_count": 221
+  },
+  {
+   "n": 108,
+   "name": "Chenier (Marie André de)",
+   "born": 1762,
+   "word_count": 143
+  },
+  {
+   "n": 109,
+   "name": "Chenier (Marie Joseph de)",
+   "born": 1764,
+   "word_count": 91
+  },
+  {
+   "n": 110,
+   "name": "Chies y Gomez (Ramon)",
+   "born": 1845,
+   "word_count": 113
+  },
+  {
+   "n": 111,
+   "name": "Child (Lydia Maria)",
+   "born": 1802,
+   "word_count": 107
+  },
+  {
+   "n": 112,
+   "name": "Clarke (John)",
+   "born": 1824,
+   "word_count": 117
+  },
+  {
+   "n": 113,
+   "name": "Clarke (Marcus)",
+   "born": 1847,
+   "word_count": 97
+  },
+  {
+   "n": 114,
+   "name": "Clemenceau (Georges Benjamin Eugene)",
+   "born": 1841,
+   "word_count": 98
+  },
+  {
+   "n": 115,
+   "name": "Clifford (Martin)",
+   "born": 1671,
+   "word_count": 107
+  },
+  {
+   "n": 116,
+   "name": "Clifford (William Kingdon)",
+   "born": 1845,
+   "word_count": 237
+  },
+  {
+   "n": 117,
+   "name": "Cloots or Clootz (Johann Baptist, afterwards Anacharsis)",
+   "born": 1755,
+   "word_count": 223
+  },
+  {
+   "n": 118,
+   "name": "Clough (Arthur Hugh)",
+   "born": 1819,
+   "word_count": 139
+  },
+  {
+   "n": 119,
+   "name": "Colenso (John William)",
+   "born": 1814,
+   "word_count": 100
+  },
+  {
+   "n": 120,
+   "name": "Collins (Anthony)",
+   "born": 1676,
+   "word_count": 269
+  },
+  {
+   "n": 121,
+   "name": "Combe (George)",
+   "born": 1788,
+   "word_count": 145
+  },
+  {
+   "n": 122,
+   "name": "Comte (Isidore Auguste Marie François Xavier)",
+   "born": 1798,
+   "word_count": 367
+  },
+  {
+   "n": 123,
+   "name": "Condorcet (Marie Jean Antoine Nicolas Caritat, Marquis de)",
+   "born": 1743,
+   "word_count": 222
+  },
+  {
+   "n": 124,
+   "name": "Condorcet (Sophie de Grouchy Caritat, Marquise de)",
+   "born": 1765,
+   "word_count": 100
+  },
+  {
+   "n": 125,
+   "name": "Confucius (Kung Kew)",
+   "born": null,
+   "word_count": 124
+  },
+  {
+   "n": 126,
+   "name": "Constant de Rebecque (Henri Benjamin)",
+   "born": 1767,
+   "word_count": 93
+  },
+  {
+   "n": 127,
+   "name": "Conway (Moncure Daniel)",
+   "born": 1832,
+   "word_count": 206
+  },
+  {
+   "n": 128,
+   "name": "Cook (Kenningale Robert)",
+   "born": 1845,
+   "word_count": 108
+  },
+  {
+   "n": 129,
+   "name": "Cooper (Robert)",
+   "born": 1819,
+   "word_count": 229
+  },
+  {
+   "n": 130,
+   "name": "Cooper (Thomas)",
+   "born": 1759,
+   "word_count": 273
+  },
+  {
+   "n": 131,
+   "name": "Coornhert (Dirk Volkertszoon)",
+   "born": 1522,
+   "word_count": 106
+  },
+  {
+   "n": 132,
+   "name": "Corvin-Wiersbitski (Otto Julius Bernhard von)",
+   "born": 1812,
+   "word_count": 132
+  },
+  {
+   "n": 133,
+   "name": "Cox (the Right Rev. Sir George William)",
+   "born": 1827,
+   "word_count": 108
+  },
+  {
+   "n": 134,
+   "name": "Craig (Edward Thomas)",
+   "born": 1804,
+   "word_count": 104
+  },
+  {
+   "n": 135,
+   "name": "Cranbrook (Rev. James.)",
+   "born": 1817,
+   "word_count": 125
+  },
+  {
+   "n": 136,
+   "name": "Cremonini (Cesare)",
+   "born": 1550,
+   "word_count": 119
+  },
+  {
+   "n": 137,
+   "name": "Croly (David Goodman)",
+   "born": 1831,
+   "word_count": 94
+  },
+  {
+   "n": 138,
+   "name": "Crozier (John Beattie)",
+   "born": 1849,
+   "word_count": 183
+  },
+  {
+   "n": 139,
+   "name": "Cyrano de Bergerac (Savinien)",
+   "born": 1619,
+   "word_count": 134
+  },
+  {
+   "n": 140,
+   "name": "Dale (Antonius van)",
+   "born": 1638,
+   "word_count": 96
+  },
+  {
+   "n": 141,
+   "name": "Damilaville (Etienne Noël)",
+   "born": 1721,
+   "word_count": 114
+  },
+  {
+   "n": 142,
+   "name": "Danton (Georges Jacques)",
+   "born": 1759,
+   "word_count": 192
+  },
+  {
+   "n": 143,
+   "name": "Darwin (Charles Robert)",
+   "born": 1809,
+   "word_count": 320
+  },
+  {
+   "n": 144,
+   "name": "Darwin (Erasmus)",
+   "born": 1731,
+   "word_count": 104
+  },
+  {
+   "n": 145,
+   "name": "Daunou (Pierre Claude François)",
+   "born": 1761,
+   "word_count": 90
+  },
+  {
+   "n": 146,
+   "name": "Davenport (John)",
+   "born": 1789,
+   "word_count": 122
+  },
+  {
+   "n": 147,
+   "name": "De Gubernatis (Angelo)",
+   "born": 1840,
+   "word_count": 101
+  },
+  {
+   "n": 148,
+   "name": "Dekker (Eduard Douwes)",
+   "born": 1820,
+   "word_count": 218
+  },
+  {
+   "n": 149,
+   "name": "Delambre (Jean Baptiste Joseph)",
+   "born": 1749,
+   "word_count": 104
+  },
+  {
+   "n": 150,
+   "name": "Delescluze (Louis Charles)",
+   "born": 1809,
+   "word_count": 107
+  },
+  {
+   "n": 151,
+   "name": "De Maillet. See Maillet (Benoît de)",
+   "born": 460,
+   "word_count": 138
+  },
+  {
+   "n": 152,
+   "name": "De Paepe (César)",
+   "born": 1842,
+   "word_count": 131
+  },
+  {
+   "n": 153,
+   "name": "De Potter (Louis Antoine Joseph)",
+   "born": 1786,
+   "word_count": 129
+  },
+  {
+   "n": 154,
+   "name": "Desbarreaux (Jacques Vallée)",
+   "born": 1602,
+   "word_count": 92
+  },
+  {
+   "n": 155,
+   "name": "Descartes (René)",
+   "born": 1596,
+   "word_count": 130
+  },
+  {
+   "n": 156,
+   "name": "Deschamps (Léger-Marie)",
+   "born": 1716,
+   "word_count": 119
+  },
+  {
+   "n": 157,
+   "name": "Deslandes (André François Boureau)",
+   "born": 1690,
+   "word_count": 102
+  },
+  {
+   "n": 158,
+   "name": "Des Maizeaux (Pierre)",
+   "born": 1673,
+   "word_count": 106
+  },
+  {
+   "n": 159,
+   "name": "Desmoulins (Lucié Simplice Camille Benôit)",
+   "born": 1770,
+   "word_count": 156
+  },
+  {
+   "n": 160,
+   "name": "Des Periers (Jean Bonaventure)",
+   "born": 1510,
+   "word_count": 148
+  },
+  {
+   "n": 161,
+   "name": "Destutt de Tracy (Antoine Louis de Claude)",
+   "born": 1754,
+   "word_count": 104
+  },
+  {
+   "n": 162,
+   "name": "Deubler (Konrad)",
+   "born": 1814,
+   "word_count": 100
+  },
+  {
+   "n": 163,
+   "name": "D'Holbach. See Holbach (P. H. D. von)",
+   "born": null,
+   "word_count": 155
+  },
+  {
+   "n": 164,
+   "name": "Diderot (Denis)",
+   "born": 1713,
+   "word_count": 198
+  },
+  {
+   "n": 165,
+   "name": "Dodel-Port (Prof. Arnold)",
+   "born": 1843,
+   "word_count": 124
+  },
+  {
+   "n": 166,
+   "name": "Dolet (Etienne)",
+   "born": 1509,
+   "word_count": 199
+  },
+  {
+   "n": 167,
+   "name": "Draper (John William)",
+   "born": 1811,
+   "word_count": 123
+  },
+  {
+   "n": 168,
+   "name": "Drummond (Sir William)",
+   "born": 1770,
+   "word_count": 113
+  },
+  {
+   "n": 169,
+   "name": "Du Bois-Reymond (Emil)",
+   "born": 1818,
+   "word_count": 147
+  },
+  {
+   "n": 170,
+   "name": "Du Deffand (Marie)",
+   "born": 1697,
+   "word_count": 138
+  },
+  {
+   "n": 171,
+   "name": "Dulaure (Jacques Antoine)",
+   "born": 1755,
+   "word_count": 109
+  },
+  {
+   "n": 172,
+   "name": "Dulaurens (Henri Joseph)",
+   "born": 1719,
+   "word_count": 111
+  },
+  {
+   "n": 173,
+   "name": "Dumarsais (César Chesneau)",
+   "born": 1676,
+   "word_count": 119
+  },
+  {
+   "n": 174,
+   "name": "Dupuis (Charles François)",
+   "born": 1742,
+   "word_count": 131
+  },
+  {
+   "n": 175,
+   "name": "Duvernet (Théophile Imarigeon)",
+   "born": 1730,
+   "word_count": 107
+  },
+  {
+   "n": 176,
+   "name": "Eaton (Daniel Isaac)",
+   "born": 1752,
+   "word_count": 236
+  },
+  {
+   "n": 177,
+   "name": "Edelmann (Johann Christian)",
+   "born": 1698,
+   "word_count": 130
+  },
+  {
+   "n": 178,
+   "name": "Eichhorn (Johann Gottfried)",
+   "born": 1752,
+   "word_count": 428
+  },
+  {
+   "n": 179,
+   "name": "Elliotson (John, M.D., F.R.S.)",
+   "born": 1791,
+   "word_count": 149
+  },
+  {
+   "n": 180,
+   "name": "Eichthal (Gustave d')",
+   "born": 1804,
+   "word_count": 93
+  },
+  {
+   "n": 181,
+   "name": "Emerson (Ralph Waldo)",
+   "born": 1803,
+   "word_count": 134
+  },
+  {
+   "n": 182,
+   "name": "Emmet (Robert)",
+   "born": 1778,
+   "word_count": 91
+  },
+  {
+   "n": 183,
+   "name": "English (George Bethune)",
+   "born": 1787,
+   "word_count": 123
+  },
+  {
+   "n": 184,
+   "name": "Ensor (George)",
+   "born": 1769,
+   "word_count": 328
+  },
+  {
+   "n": 185,
+   "name": "Espronceda (José)",
+   "born": 1810,
+   "word_count": 227
+  },
+  {
+   "n": 186,
+   "name": "Estienne (Henri)",
+   "born": 1528,
+   "word_count": 109
+  },
+  {
+   "n": 187,
+   "name": "Evans (George Henry)",
+   "born": 1803,
+   "word_count": 90
+  },
+  {
+   "n": 188,
+   "name": "Evanson (Edward)",
+   "born": 1731,
+   "word_count": 209
+  },
+  {
+   "n": 189,
+   "name": "Ferrari (Giuseppe)",
+   "born": 1811,
+   "word_count": 154
+  },
+  {
+   "n": 190,
+   "name": "Feuerbach (Ludwig Andreas)",
+   "born": 1804,
+   "word_count": 224
+  },
+  {
+   "n": 191,
+   "name": "Fichte (Johann Gottlieb)",
+   "born": 1762,
+   "word_count": 187
+  },
+  {
+   "n": 192,
+   "name": "Fiorentino (Francesco)",
+   "born": 1834,
+   "word_count": 111
+  },
+  {
+   "n": 193,
+   "name": "Flaubert (Gustave)",
+   "born": 1821,
+   "word_count": 132
+  },
+  {
+   "n": 194,
+   "name": "Flourens (Gustave)",
+   "born": 1838,
+   "word_count": 108
+  },
+  {
+   "n": 195,
+   "name": "Fontenelle (Bernard le Bovier de)",
+   "born": 1657,
+   "word_count": 201
+  },
+  {
+   "n": 196,
+   "name": "Foote (George William)",
+   "born": 1850,
+   "word_count": 440
+  },
+  {
+   "n": 197,
+   "name": "Fouillee (Alfred)",
+   "born": 1838,
+   "word_count": 147
+  },
+  {
+   "n": 198,
+   "name": "Forberg (Friedrich Karl)",
+   "born": 1770,
+   "word_count": 109
+  },
+  {
+   "n": 199,
+   "name": "Forder (Robert)",
+   "born": 1844,
+   "word_count": 90
+  },
+  {
+   "n": 200,
+   "name": "Forlong (James George Roche)",
+   "born": 1824,
+   "word_count": 231
+  },
+  {
+   "n": 201,
+   "name": "Fox (William Johnson)",
+   "born": 1786,
+   "word_count": 294
+  },
+  {
+   "n": 202,
+   "name": "Franklin (Benjamin)",
+   "born": 1706,
+   "word_count": 163
+  },
+  {
+   "n": 203,
+   "name": "Frederick II. (Emperor of Germany)",
+   "born": 1194,
+   "word_count": 178
+  },
+  {
+   "n": 204,
+   "name": "Frederick the Great (King of Prussia)",
+   "born": 1712,
+   "word_count": 130
+  },
+  {
+   "n": 205,
+   "name": "Fréret (Nicolas)",
+   "born": 1688,
+   "word_count": 165
+  },
+  {
+   "n": 206,
+   "name": "Frothingham (Octavius Brooks)",
+   "born": 1822,
+   "word_count": 94
+  },
+  {
+   "n": 207,
+   "name": "Froude (James Anthony)",
+   "born": 1818,
+   "word_count": 184
+  },
+  {
+   "n": 208,
+   "name": "Fry (John)",
+   "born": 1640,
+   "word_count": 104
+  },
+  {
+   "n": 209,
+   "name": "Gabarro (Bartolomé)",
+   "born": 1846,
+   "word_count": 121
+  },
+  {
+   "n": 210,
+   "name": "Gagern (Carlos von)",
+   "born": 1826,
+   "word_count": 113
+  },
+  {
+   "n": 211,
+   "name": "Galton (Francis)",
+   "born": 1822,
+   "word_count": 115
+  },
+  {
+   "n": 212,
+   "name": "Gambetta (Léon Michel)",
+   "born": 1838,
+   "word_count": 193
+  },
+  {
+   "n": 213,
+   "name": "Garborg (Arne)",
+   "born": 1851,
+   "word_count": 91
+  },
+  {
+   "n": 214,
+   "name": "Garibaldi (Guiseppe)",
+   "born": 1807,
+   "word_count": 360
+  },
+  {
+   "n": 215,
+   "name": "Gautama (called also Gotama, Buddha, and Sakyamuni)",
+   "born": 624,
+   "word_count": 134
+  },
+  {
+   "n": 216,
+   "name": "Geijer (Erik Gustaf)",
+   "born": 1783,
+   "word_count": 122
+  },
+  {
+   "n": 217,
+   "name": "Gentilis (Giovanni Valentino)",
+   "born": 1520,
+   "word_count": 128
+  },
+  {
+   "n": 218,
+   "name": "Giannone (Pietro)",
+   "born": 1676,
+   "word_count": 116
+  },
+  {
+   "n": 219,
+   "name": "Gibbon (Edward)",
+   "born": 1737,
+   "word_count": 129
+  },
+  {
+   "n": 220,
+   "name": "Giessenburg (Rudolf Charles d'Ablaing van)",
+   "born": 1826,
+   "word_count": 177
+  },
+  {
+   "n": 221,
+   "name": "Gilbert (Claude)",
+   "born": 1652,
+   "word_count": 93
+  },
+  {
+   "n": 222,
+   "name": "Giles (Rev. John Allen, D.Ph.)",
+   "born": 1808,
+   "word_count": 126
+  },
+  {
+   "n": 223,
+   "name": "Girard (Stephen)",
+   "born": 1750,
+   "word_count": 181
+  },
+  {
+   "n": 224,
+   "name": "Glisson (Francis)",
+   "born": 1597,
+   "word_count": 97
+  },
+  {
+   "n": 225,
+   "name": "Godwin (William)",
+   "born": 1756,
+   "word_count": 177
+  },
+  {
+   "n": 226,
+   "name": "Goethe (Johann Wolfgang von)",
+   "born": 1749,
+   "word_count": 328
+  },
+  {
+   "n": 227,
+   "name": "Goldstuecker (Theodor)",
+   "born": 1821,
+   "word_count": 103
+  },
+  {
+   "n": 228,
+   "name": "Gordon (Thomas)",
+   "born": 1684,
+   "word_count": 123
+  },
+  {
+   "n": 229,
+   "name": "Greg (William Rathbone)",
+   "born": 1809,
+   "word_count": 128
+  },
+  {
+   "n": 230,
+   "name": "Grimm (Friedrich Melchior von)",
+   "born": 1723,
+   "word_count": 114
+  },
+  {
+   "n": 231,
+   "name": "Grote (George)",
+   "born": 1794,
+   "word_count": 189
+  },
+  {
+   "n": 232,
+   "name": "Gruen (Karl)",
+   "born": 1817,
+   "word_count": 101
+  },
+  {
+   "n": 233,
+   "name": "Guépin (Ange)",
+   "born": 1805,
+   "word_count": 105
+  },
+  {
+   "n": 234,
+   "name": "Gueroult (Adolphe)",
+   "born": 1850,
+   "word_count": 104
+  },
+  {
+   "n": 235,
+   "name": "Gueudeville (Nicolas)",
+   "born": 1654,
+   "word_count": 108
+  },
+  {
+   "n": 236,
+   "name": "Günst (Dr. Frans Christiaan)",
+   "born": 1823,
+   "word_count": 169
+  },
+  {
+   "n": 237,
+   "name": "Guyau (Marie Jean)",
+   "born": 1854,
+   "word_count": 159
+  },
+  {
+   "n": 238,
+   "name": "Haeckel (Ernst Heinrich Philipp August)",
+   "born": 1834,
+   "word_count": 146
+  },
+  {
+   "n": 239,
+   "name": "Halley (Edmund)",
+   "born": 1656,
+   "word_count": 218
+  },
+  {
+   "n": 240,
+   "name": "Hanson (Sir Richard Davies)",
+   "born": 1805,
+   "word_count": 106
+  },
+  {
+   "n": 241,
+   "name": "Hardwicke (Herbert Junius)",
+   "born": 1850,
+   "word_count": 103
+  },
+  {
+   "n": 242,
+   "name": "Harrison (Frederic)",
+   "born": 1831,
+   "word_count": 115
+  },
+  {
+   "n": 243,
+   "name": "Hartmann (Karl Robert Eduard)",
+   "born": 1842,
+   "word_count": 103
+  },
+  {
+   "n": 244,
+   "name": "Hartogh Heys van Zouteveen (Dr. Herman)",
+   "born": 1841,
+   "word_count": 290
+  },
+  {
+   "n": 245,
+   "name": "Haslam (Charles Junius)",
+   "born": 1811,
+   "word_count": 110
+  },
+  {
+   "n": 246,
+   "name": "Hegel (Georg Wilhelm Friedrich)",
+   "born": 1770,
+   "word_count": 111
+  },
+  {
+   "n": 247,
+   "name": "Heine (Heinrich)",
+   "born": 1797,
+   "word_count": 190
+  },
+  {
+   "n": 248,
+   "name": "Heinzen (Karl Peter)",
+   "born": 1809,
+   "word_count": 177
+  },
+  {
+   "n": 249,
+   "name": "Helvetius (Claude Adrien)",
+   "born": 1719,
+   "word_count": 236
+  },
+  {
+   "n": 250,
+   "name": "Henin de Cuvillers (Etienne Felix)",
+   "born": 1755,
+   "word_count": 113
+  },
+  {
+   "n": 251,
+   "name": "Herault de Sechelles (Marie Jean)",
+   "born": 1760,
+   "word_count": 92
+  },
+  {
+   "n": 252,
+   "name": "Herbert (Edward)",
+   "born": 1581,
+   "word_count": 121
+  },
+  {
+   "n": 253,
+   "name": "Hertzen or Gertsen (Aleksandr Ivanovich)",
+   "born": 1839,
+   "word_count": 195
+  },
+  {
+   "n": 254,
+   "name": "Hetherington (Henry)",
+   "born": 1792,
+   "word_count": 188
+  },
+  {
+   "n": 255,
+   "name": "Hibbert (Julian)",
+   "born": 1801,
+   "word_count": 175
+  },
+  {
+   "n": 256,
+   "name": "Higgins (Godfrey)",
+   "born": 1771,
+   "word_count": 152
+  },
+  {
+   "n": 257,
+   "name": "Hillebrand (Karl)",
+   "born": 1829,
+   "word_count": 145
+  },
+  {
+   "n": 258,
+   "name": "Hobbes (Thomas)",
+   "born": 1588,
+   "word_count": 117
+  },
+  {
+   "n": 259,
+   "name": "Holbach (Paul Heinrich Dietrich von)",
+   "born": 1723,
+   "word_count": 393
+  },
+  {
+   "n": 260,
+   "name": "Holwell (John Zephaniah)",
+   "born": 1711,
+   "word_count": 101
+  },
+  {
+   "n": 261,
+   "name": "Holyoake (Austin)",
+   "born": 1826,
+   "word_count": 158
+  },
+  {
+   "n": 262,
+   "name": "Holyoake (George Jacob)",
+   "born": 1817,
+   "word_count": 304
+  },
+  {
+   "n": 263,
+   "name": "Houston (George)",
+   "born": 1799,
+   "word_count": 100
+  },
+  {
+   "n": 264,
+   "name": "Hovelacque (Abel)",
+   "born": 1843,
+   "word_count": 167
+  },
+  {
+   "n": 265,
+   "name": "Hugo (Victor Marie)",
+   "born": 1802,
+   "word_count": 189
+  },
+  {
+   "n": 266,
+   "name": "Humboldt (Friedrich Heinrich Alexander von)",
+   "born": 1769,
+   "word_count": 248
+  },
+  {
+   "n": 267,
+   "name": "Humboldt (Karl Wilhelm von)",
+   "born": 1767,
+   "word_count": 128
+  },
+  {
+   "n": 268,
+   "name": "Hume (David)",
+   "born": 1711,
+   "word_count": 211
+  },
+  {
+   "n": 269,
+   "name": "Hunt (James Henry Leigh)",
+   "born": 1784,
+   "word_count": 120
+  },
+  {
+   "n": 270,
+   "name": "Hutten (Ulrich von)",
+   "born": 1488,
+   "word_count": 123
+  },
+  {
+   "n": 271,
+   "name": "Huxley (Thomas Henry)",
+   "born": 1825,
+   "word_count": 325
+  },
+  {
+   "n": 272,
+   "name": "Ibsen (Henrik)",
+   "born": 1828,
+   "word_count": 125
+  },
+  {
+   "n": 273,
+   "name": "Ingersoll (Robert Green)",
+   "born": 1833,
+   "word_count": 208
+  },
+  {
+   "n": 274,
+   "name": "Inman (Thomas)",
+   "born": 1820,
+   "word_count": 148
+  },
+  {
+   "n": 275,
+   "name": "Isoard Delisle (Jean Baptiste Claude)",
+   "born": 1743,
+   "word_count": 102
+  },
+  {
+   "n": 276,
+   "name": "Jefferson (Thomas)",
+   "born": 1743,
+   "word_count": 164
+  },
+  {
+   "n": 277,
+   "name": "Johnson (Richard Mentor)",
+   "born": 1781,
+   "word_count": 96
+  },
+  {
+   "n": 278,
+   "name": "Johnson (Samuel)",
+   "born": 1822,
+   "word_count": 90
+  },
+  {
+   "n": 279,
+   "name": "Jones (Ernest Charles)",
+   "born": 1819,
+   "word_count": 109
+  },
+  {
+   "n": 280,
+   "name": "Jones (John Gale)",
+   "born": 1771,
+   "word_count": 107
+  },
+  {
+   "n": 281,
+   "name": "Jones (Lloyd)",
+   "born": 1811,
+   "word_count": 322
+  },
+  {
+   "n": 282,
+   "name": "Julianus (Flavius Claudius)",
+   "born": null,
+   "word_count": 145
+  },
+  {
+   "n": 283,
+   "name": "Junghuhn (Franz Wilhelm)",
+   "born": 1812,
+   "word_count": 192
+  },
+  {
+   "n": 284,
+   "name": "Kalisch (Moritz Marcus)",
+   "born": 1828,
+   "word_count": 121
+  },
+  {
+   "n": 285,
+   "name": "Kant (Immanuel)",
+   "born": 1724,
+   "word_count": 125
+  },
+  {
+   "n": 286,
+   "name": "Keith (James Francis Edward)",
+   "born": 1696,
+   "word_count": 120
+  },
+  {
+   "n": 287,
+   "name": "Kerr (Michael Crawford)",
+   "born": 1827,
+   "word_count": 97
+  },
+  {
+   "n": 288,
+   "name": "Khayyam (Omar)",
+   "born": 1123,
+   "word_count": 91
+  },
+  {
+   "n": 289,
+   "name": "Kneeland (Abner)",
+   "born": 1774,
+   "word_count": 202
+  },
+  {
+   "n": 290,
+   "name": "Knutzen (Matthias)",
+   "born": 1645,
+   "word_count": 138
+  },
+  {
+   "n": 291,
+   "name": "Koerbagh (Adriaan)",
+   "born": 1632,
+   "word_count": 115
+  },
+  {
+   "n": 292,
+   "name": "Korn (Selig)",
+   "born": 1804,
+   "word_count": 94
+  },
+  {
+   "n": 293,
+   "name": "Krause (Ernst H. Ludwig)",
+   "born": 1839,
+   "word_count": 136
+  },
+  {
+   "n": 294,
+   "name": "Krekel (Arnold)",
+   "born": 1815,
+   "word_count": 119
+  },
+  {
+   "n": 295,
+   "name": "Kropotkin (Petr Aleksyeevich)",
+   "born": 1842,
+   "word_count": 116
+  },
+  {
+   "n": 296,
+   "name": "Laing (Samuel)",
+   "born": 1812,
+   "word_count": 135
+  },
+  {
+   "n": 297,
+   "name": "Lalande (Joseph Jèrome le Francais de)",
+   "born": 1732,
+   "word_count": 189
+  },
+  {
+   "n": 298,
+   "name": "Lamarck (Jean Baptiste Pierre Antoine de Monet)",
+   "born": 1744,
+   "word_count": 95
+  },
+  {
+   "n": 299,
+   "name": "Lamettrie (Julian Offray de)",
+   "born": 1709,
+   "word_count": 252
+  },
+  {
+   "n": 300,
+   "name": "Landor (Walter Savage)",
+   "born": 1775,
+   "word_count": 129
+  },
+  {
+   "n": 301,
+   "name": "Lanessan (Jean Louis de)",
+   "born": 1843,
+   "word_count": 107
+  },
+  {
+   "n": 302,
+   "name": "Lange (Friedrich Albert)",
+   "born": 1828,
+   "word_count": 102
+  },
+  {
+   "n": 303,
+   "name": "La Place (Pierre Simon)",
+   "born": 1749,
+   "word_count": 109
+  },
+  {
+   "n": 304,
+   "name": "Larevelliere-Lepaux (Louis Marie DE)",
+   "born": 1753,
+   "word_count": 99
+  },
+  {
+   "n": 305,
+   "name": "Larra (Mariano José de)",
+   "born": 1809,
+   "word_count": 160
+  },
+  {
+   "n": 306,
+   "name": "Larroque (Patrice)",
+   "born": 1801,
+   "word_count": 124
+  },
+  {
+   "n": 307,
+   "name": "Lastarria (José Victorino)",
+   "born": 1812,
+   "word_count": 104
+  },
+  {
+   "n": 308,
+   "name": "Lawrence (James)",
+   "born": 1773,
+   "word_count": 111
+  },
+  {
+   "n": 309,
+   "name": "Leconte de Lisle (Charles Marie René)",
+   "born": 1818,
+   "word_count": 95
+  },
+  {
+   "n": 310,
+   "name": "Lefevre (André)",
+   "born": 1834,
+   "word_count": 92
+  },
+  {
+   "n": 311,
+   "name": "Legate (Bartholomew)",
+   "born": 1572,
+   "word_count": 120
+  },
+  {
+   "n": 312,
+   "name": "Lennstrand (Viktor E.)",
+   "born": 1861,
+   "word_count": 114
+  },
+  {
+   "n": 313,
+   "name": "Leopardi (Giacomo)",
+   "born": 1798,
+   "word_count": 91
+  },
+  {
+   "n": 314,
+   "name": "Lermontov (Mikhail Yur'evich)",
+   "born": 1814,
+   "word_count": 109
+  },
+  {
+   "n": 315,
+   "name": "Leroux (Pierre)",
+   "born": 1797,
+   "word_count": 114
+  },
+  {
+   "n": 316,
+   "name": "Lessing (Gotthold Ephraim)",
+   "born": 1729,
+   "word_count": 113
+  },
+  {
+   "n": 317,
+   "name": "Lewes (George Henry)",
+   "born": 1817,
+   "word_count": 166
+  },
+  {
+   "n": 318,
+   "name": "Lincoln (Abraham)",
+   "born": 1809,
+   "word_count": 99
+  },
+  {
+   "n": 319,
+   "name": "Lindkvist (Alfred)",
+   "born": 1860,
+   "word_count": 113
+  },
+  {
+   "n": 320,
+   "name": "Linton (William James)",
+   "born": 1812,
+   "word_count": 100
+  },
+  {
+   "n": 321,
+   "name": "Littre (Maximilian Paul Emile)",
+   "born": 1801,
+   "word_count": 220
+  },
+  {
+   "n": 322,
+   "name": "Lorand (Georges)",
+   "born": 1851,
+   "word_count": 93
+  },
+  {
+   "n": 323,
+   "name": "Macchi (Mauro)",
+   "born": 1818,
+   "word_count": 111
+  },
+  {
+   "n": 324,
+   "name": "Madach (Imré)",
+   "born": 1823,
+   "word_count": 95
+  },
+  {
+   "n": 325,
+   "name": "Maillet (Benôit de)",
+   "born": 1656,
+   "word_count": 139
+  },
+  {
+   "n": 326,
+   "name": "Mandeville (Bernhard)",
+   "born": 1670,
+   "word_count": 126
+  },
+  {
+   "n": 327,
+   "name": "Marechal (Pierre Sylvain)",
+   "born": 1750,
+   "word_count": 214
+  },
+  {
+   "n": 328,
+   "name": "Marlow (Christopher)",
+   "born": 1564,
+   "word_count": 104
+  },
+  {
+   "n": 329,
+   "name": "Marten (Henry)",
+   "born": 1602,
+   "word_count": 122
+  },
+  {
+   "n": 330,
+   "name": "Martin (Emma)",
+   "born": 1812,
+   "word_count": 129
+  },
+  {
+   "n": 331,
+   "name": "Martin (Bon Louis Henri)",
+   "born": 1810,
+   "word_count": 93
+  },
+  {
+   "n": 332,
+   "name": "Martineau (Harriet)",
+   "born": 1803,
+   "word_count": 116
+  },
+  {
+   "n": 333,
+   "name": "Massey (Gerald)",
+   "born": 1828,
+   "word_count": 184
+  },
+  {
+   "n": 334,
+   "name": "Maubert de Gouvest (Jean Henri)",
+   "born": 1721,
+   "word_count": 112
+  },
+  {
+   "n": 335,
+   "name": "Maudsley (Henry)",
+   "born": 1835,
+   "word_count": 91
+  },
+  {
+   "n": 336,
+   "name": "Mazzini (Giuseppe)",
+   "born": 1808,
+   "word_count": 141
+  },
+  {
+   "n": 337,
+   "name": "Mendoza (Diego Hurtado de)",
+   "born": 1503,
+   "word_count": 117
+  },
+  {
+   "n": 338,
+   "name": "Meredith (George)",
+   "born": 1828,
+   "word_count": 115
+  },
+  {
+   "n": 339,
+   "name": "Meslier or Mellier (Jean)",
+   "born": 1664,
+   "word_count": 131
+  },
+  {
+   "n": 340,
+   "name": "Michelet (Jules)",
+   "born": 1798,
+   "word_count": 105
+  },
+  {
+   "n": 341,
+   "name": "Mill (James)",
+   "born": 1773,
+   "word_count": 123
+  },
+  {
+   "n": 342,
+   "name": "Mill (John Stuart)",
+   "born": 1806,
+   "word_count": 190
+  },
+  {
+   "n": 343,
+   "name": "Milliere (Jean Baptiste)",
+   "born": 1817,
+   "word_count": 108
+  },
+  {
+   "n": 344,
+   "name": "Mirabeau (Honoré Gabriel Riquetti Comte de)",
+   "born": 1749,
+   "word_count": 195
+  },
+  {
+   "n": 345,
+   "name": "Molesworth (Sir William)",
+   "born": 1810,
+   "word_count": 93
+  },
+  {
+   "n": 346,
+   "name": "Monge (Gaspard)",
+   "born": 1746,
+   "word_count": 105
+  },
+  {
+   "n": 347,
+   "name": "Monroe (J. R.)",
+   "born": 1825,
+   "word_count": 145
+  },
+  {
+   "n": 348,
+   "name": "Montaigne (Michel de)",
+   "born": 1533,
+   "word_count": 158
+  },
+  {
+   "n": 349,
+   "name": "Monteil (Charles François Louis Edgar)",
+   "born": 1845,
+   "word_count": 113
+  },
+  {
+   "n": 350,
+   "name": "Montesquieu (Charles de Secondat)",
+   "born": 1689,
+   "word_count": 97
+  },
+  {
+   "n": 351,
+   "name": "Montgomery (Edmund)",
+   "born": 1835,
+   "word_count": 124
+  },
+  {
+   "n": 352,
+   "name": "Morgan (Thomas)",
+   "born": 1737,
+   "word_count": 116
+  },
+  {
+   "n": 353,
+   "name": "Morin (André Saturnin)",
+   "born": 1807,
+   "word_count": 179
+  },
+  {
+   "n": 354,
+   "name": "Morison (James Augustus Cotter)",
+   "born": 1831,
+   "word_count": 193
+  },
+  {
+   "n": 355,
+   "name": "Morley (John)",
+   "born": 1838,
+   "word_count": 111
+  },
+  {
+   "n": 356,
+   "name": "Mortillet (Louis Laurent Gabriel de)",
+   "born": 1821,
+   "word_count": 100
+  },
+  {
+   "n": 357,
+   "name": "Moss (Arthur B.)",
+   "born": 1855,
+   "word_count": 101
+  },
+  {
+   "n": 358,
+   "name": "Mott (Lucretia)",
+   "born": 757,
+   "word_count": 112
+  },
+  {
+   "n": 359,
+   "name": "Naigeon (Jacques André)",
+   "born": 1728,
+   "word_count": 186
+  },
+  {
+   "n": 360,
+   "name": "Naquet (Joseph Alfred)",
+   "born": 1834,
+   "word_count": 137
+  },
+  {
+   "n": 361,
+   "name": "Newman (Francis William)",
+   "born": 1805,
+   "word_count": 177
+  },
+  {
+   "n": 362,
+   "name": "Nieuwenhuis (Ferdinand Jakob Domela)",
+   "born": 1848,
+   "word_count": 145
+  },
+  {
+   "n": 363,
+   "name": "Nystrom (Anton Christen)",
+   "born": 1842,
+   "word_count": 90
+  },
+  {
+   "n": 364,
+   "name": "Ochino (Bernardino Tommasini)",
+   "born": 1487,
+   "word_count": 137
+  },
+  {
+   "n": 365,
+   "name": "Oswald (Felix Leopold)",
+   "born": 1845,
+   "word_count": 98
+  },
+  {
+   "n": 366,
+   "name": "Owen (Robert)",
+   "born": 1771,
+   "word_count": 227
+  },
+  {
+   "n": 367,
+   "name": "Owen (Robert Dale)",
+   "born": 1800,
+   "word_count": 180
+  },
+  {
+   "n": 368,
+   "name": "Paine (Thomas)",
+   "born": 1737,
+   "word_count": 379
+  },
+  {
+   "n": 369,
+   "name": "Paleario (Aonio)",
+   "born": 1500,
+   "word_count": 134
+  },
+  {
+   "n": 370,
+   "name": "Palmer (Courtlandt)",
+   "born": 1843,
+   "word_count": 100
+  },
+  {
+   "n": 371,
+   "name": "Palmer (Elihu)",
+   "born": 1764,
+   "word_count": 162
+  },
+  {
+   "n": 372,
+   "name": "Parker (Theodore)",
+   "born": 518,
+   "word_count": 219
+  },
+  {
+   "n": 373,
+   "name": "Passerano (Alberto Radicati di)",
+   "born": 1736,
+   "word_count": 155
+  },
+  {
+   "n": 374,
+   "name": "Pasteur (Louis)",
+   "born": 1822,
+   "word_count": 100
+  },
+  {
+   "n": 375,
+   "name": "Pastoret (Claude Emmanuel Joseph Pierre de)",
+   "born": 1756,
+   "word_count": 191
+  },
+  {
+   "n": 376,
+   "name": "Paterson (Thomas)",
+   "born": 1843,
+   "word_count": 118
+  },
+  {
+   "n": 377,
+   "name": "Peacock or Pecock (Reginald)",
+   "born": 1390,
+   "word_count": 137
+  },
+  {
+   "n": 378,
+   "name": "Pelletan (Pierre Clement Eugène)",
+   "born": 1813,
+   "word_count": 158
+  },
+  {
+   "n": 379,
+   "name": "Petit (Claude)",
+   "born": 1665,
+   "word_count": 102
+  },
+  {
+   "n": 380,
+   "name": "Petruccelli della Gattina (Ferdinando)",
+   "born": 1816,
+   "word_count": 137
+  },
+  {
+   "n": 381,
+   "name": "Peyrat (Alphonse)",
+   "born": 1812,
+   "word_count": 90
+  },
+  {
+   "n": 382,
+   "name": "Peyrere (Isaac de la)",
+   "born": 1594,
+   "word_count": 156
+  },
+  {
+   "n": 383,
+   "name": "Pillsbury (Parker)",
+   "born": 1809,
+   "word_count": 96
+  },
+  {
+   "n": 384,
+   "name": "Piron (Alexis)",
+   "born": 1689,
+   "word_count": 116
+  },
+  {
+   "n": 385,
+   "name": "Pitt (William)",
+   "born": 1708,
+   "word_count": 138
+  },
+  {
+   "n": 386,
+   "name": "Place (Francis)",
+   "born": 1779,
+   "word_count": 98
+  },
+  {
+   "n": 387,
+   "name": "Pliny (Caius Plinius Secundus)",
+   "born": null,
+   "word_count": 102
+  },
+  {
+   "n": 388,
+   "name": "Plumer (William)",
+   "born": 1759,
+   "word_count": 166
+  },
+  {
+   "n": 389,
+   "name": "Poe (Edgar Allan)",
+   "born": 1809,
+   "word_count": 137
+  },
+  {
+   "n": 390,
+   "name": "Pomponazzi (Pietro)",
+   "born": 1462,
+   "word_count": 162
+  },
+  {
+   "n": 391,
+   "name": "Ponnat (de)",
+   "born": 1810,
+   "word_count": 249
+  },
+  {
+   "n": 392,
+   "name": "Porzio (Simone)",
+   "born": 1708,
+   "word_count": 96
+  },
+  {
+   "n": 393,
+   "name": "Potvin (Charles)",
+   "born": 1818,
+   "word_count": 93
+  },
+  {
+   "n": 394,
+   "name": "Pougens (Marie Charles Joseph de)",
+   "born": 1755,
+   "word_count": 112
+  },
+  {
+   "n": 395,
+   "name": "Poultier D'Elmolte (François Martin)",
+   "born": 1753,
+   "word_count": 102
+  },
+  {
+   "n": 396,
+   "name": "Prades (Jean Martin de)",
+   "born": 1720,
+   "word_count": 175
+  },
+  {
+   "n": 397,
+   "name": "Premontval (Andre Pierre Le Guay de)",
+   "born": 1716,
+   "word_count": 98
+  },
+  {
+   "n": 398,
+   "name": "Priestley (Joseph)",
+   "born": 1733,
+   "word_count": 192
+  },
+  {
+   "n": 399,
+   "name": "Proctor (Richard Anthony)",
+   "born": 1837,
+   "word_count": 247
+  },
+  {
+   "n": 400,
+   "name": "Proudhon (Pierre Joseph)",
+   "born": 480,
+   "word_count": 361
+  },
+  {
+   "n": 401,
+   "name": "Pushkin (Aleksandr Sergyeevich)",
+   "born": 1799,
+   "word_count": 104
+  },
+  {
+   "n": 402,
+   "name": "Pyat (Felix)",
+   "born": 1810,
+   "word_count": 285
+  },
+  {
+   "n": 403,
+   "name": "Rabelais (François)",
+   "born": 1495,
+   "word_count": 127
+  },
+  {
+   "n": 404,
+   "name": "Raspail (François Vincent)",
+   "born": 1794,
+   "word_count": 109
+  },
+  {
+   "n": 405,
+   "name": "Rawson (Albert Leighton)",
+   "born": 1829,
+   "word_count": 97
+  },
+  {
+   "n": 406,
+   "name": "Raynal (Guillaume Thomas François)",
+   "born": 1713,
+   "word_count": 115
+  },
+  {
+   "n": 407,
+   "name": "Reade (William Winwood)",
+   "born": 1824,
+   "word_count": 121
+  },
+  {
+   "n": 408,
+   "name": "Reclus (Jean Jacques Elisée)",
+   "born": 1830,
+   "word_count": 195
+  },
+  {
+   "n": 409,
+   "name": "Regnard (Albert Adrien)",
+   "born": 1836,
+   "word_count": 141
+  },
+  {
+   "n": 410,
+   "name": "Reil (Johann Christian)",
+   "born": 1758,
+   "word_count": 91
+  },
+  {
+   "n": 411,
+   "name": "Reimarus (Hermann Samuel)",
+   "born": 1694,
+   "word_count": 90
+  },
+  {
+   "n": 412,
+   "name": "Renan (Joseph Ernest)",
+   "born": 1823,
+   "word_count": 297
+  },
+  {
+   "n": 413,
+   "name": "Ricciardi (Giuseppe Napoleone)",
+   "born": 1808,
+   "word_count": 200
+  },
+  {
+   "n": 414,
+   "name": "Roalfe (Matilda)",
+   "born": 1813,
+   "word_count": 125
+  },
+  {
+   "n": 415,
+   "name": "Robin (Charles Philippe)",
+   "born": 1821,
+   "word_count": 103
+  },
+  {
+   "n": 416,
+   "name": "Robinet (Jean Eugène François)",
+   "born": 1825,
+   "word_count": 97
+  },
+  {
+   "n": 417,
+   "name": "Rogeard (Louis Auguste)",
+   "born": 1820,
+   "word_count": 107
+  },
+  {
+   "n": 418,
+   "name": "Roland (Marie Jeanne)",
+   "born": 1732,
+   "word_count": 160
+  },
+  {
+   "n": 419,
+   "name": "Romagnosi (Giovanni Domenico)",
+   "born": 1761,
+   "word_count": 99
+  },
+  {
+   "n": 420,
+   "name": "Ronge (Johannes)",
+   "born": 1813,
+   "word_count": 102
+  },
+  {
+   "n": 421,
+   "name": "Rose (Ernestine Louise)",
+   "born": 1810,
+   "word_count": 238
+  },
+  {
+   "n": 422,
+   "name": "Rotteck (Karl Wenceslaus von)",
+   "born": 1775,
+   "word_count": 95
+  },
+  {
+   "n": 423,
+   "name": "Rousseau (Jean Jacques)",
+   "born": 1712,
+   "word_count": 248
+  },
+  {
+   "n": 424,
+   "name": "Royer (Clemence Auguste)",
+   "born": 1830,
+   "word_count": 164
+  },
+  {
+   "n": 425,
+   "name": "Ruge (Arnold)",
+   "born": 1802,
+   "word_count": 106
+  },
+  {
+   "n": 426,
+   "name": "Sainte Beuve (Charles Augustin)",
+   "born": 1804,
+   "word_count": 108
+  },
+  {
+   "n": 427,
+   "name": "Saint Evremond (Charles de Marguetel de Saint Denis)",
+   "born": 1713,
+   "word_count": 103
+  },
+  {
+   "n": 428,
+   "name": "Saint Lambert (Charles, or rather Jean François de)",
+   "born": 1717,
+   "word_count": 98
+  },
+  {
+   "n": 429,
+   "name": "Saltus (Edgar Evertson)",
+   "born": 1858,
+   "word_count": 91
+  },
+  {
+   "n": 430,
+   "name": "Salverte (Anne Joseph Eusèbe Baconniere de)",
+   "born": 1771,
+   "word_count": 125
+  },
+  {
+   "n": 431,
+   "name": "Sand (George)",
+   "born": 1804,
+   "word_count": 144
+  },
+  {
+   "n": 432,
+   "name": "Saunderson (Nicholas)",
+   "born": 1682,
+   "word_count": 102
+  },
+  {
+   "n": 433,
+   "name": "Scherer (Edmond)",
+   "born": 1815,
+   "word_count": 112
+  },
+  {
+   "n": 434,
+   "name": "Schoelcher (Victor)",
+   "born": 1804,
+   "word_count": 133
+  },
+  {
+   "n": 435,
+   "name": "Scholl (Karl)",
+   "born": 1820,
+   "word_count": 107
+  },
+  {
+   "n": 436,
+   "name": "Schopenhauer (Arthur)",
+   "born": 1788,
+   "word_count": 154
+  },
+  {
+   "n": 437,
+   "name": "Scott (Thomas)",
+   "born": 1808,
+   "word_count": 130
+  },
+  {
+   "n": 438,
+   "name": "Seaver (Horace Holley)",
+   "born": 1810,
+   "word_count": 101
+  },
+  {
+   "n": 439,
+   "name": "Seeley (John Robert)",
+   "born": 1834,
+   "word_count": 101
+  },
+  {
+   "n": 440,
+   "name": "Semerie (Eugène)",
+   "born": 1832,
+   "word_count": 109
+  },
+  {
+   "n": 441,
+   "name": "Serveto y Reves (Miguel)",
+   "born": 1509,
+   "word_count": 123
+  },
+  {
+   "n": 442,
+   "name": "Seume (Johann Gottfried)",
+   "born": 1763,
+   "word_count": 96
+  },
+  {
+   "n": 443,
+   "name": "Shaftesbury (Anthony Ashley Cooper)",
+   "born": 1671,
+   "word_count": 108
+  },
+  {
+   "n": 444,
+   "name": "Shakespeare (William)",
+   "born": 1564,
+   "word_count": 143
+  },
+  {
+   "n": 445,
+   "name": "Shaw (James Dickson)",
+   "born": 1841,
+   "word_count": 95
+  },
+  {
+   "n": 446,
+   "name": "Shelley (Percy Bysshe)",
+   "born": 1792,
+   "word_count": 227
+  },
+  {
+   "n": 447,
+   "name": "Soury (Auguste Jules)",
+   "born": 1842,
+   "word_count": 154
+  },
+  {
+   "n": 448,
+   "name": "Southwell (Charles)",
+   "born": 1814,
+   "word_count": 157
+  },
+  {
+   "n": 449,
+   "name": "Spencer (Herbert)",
+   "born": 1820,
+   "word_count": 158
+  },
+  {
+   "n": 450,
+   "name": "Spinoza (Baruch)",
+   "born": 1632,
+   "word_count": 179
+  },
+  {
+   "n": 451,
+   "name": "Standring (George)",
+   "born": 1855,
+   "word_count": 102
+  },
+  {
+   "n": 452,
+   "name": "Starcke (Carl Nicolay)",
+   "born": 1858,
+   "word_count": 93
+  },
+  {
+   "n": 453,
+   "name": "Stefanoni (Luigi)",
+   "born": 1842,
+   "word_count": 105
+  },
+  {
+   "n": 454,
+   "name": "Stephen (Sir James FitzJames)",
+   "born": 1829,
+   "word_count": 117
+  },
+  {
+   "n": 455,
+   "name": "Stephen (Leslie)",
+   "born": 1832,
+   "word_count": 102
+  },
+  {
+   "n": 456,
+   "name": "Stern (J)",
+   "born": null,
+   "word_count": 146
+  },
+  {
+   "n": 457,
+   "name": "Strange (Thomas Lumsden)",
+   "born": 1884,
+   "word_count": 165
+  },
+  {
+   "n": 458,
+   "name": "Strauss (David Friedrich)",
+   "born": 1808,
+   "word_count": 194
+  },
+  {
+   "n": 459,
+   "name": "Swinburne (Algernon Charles)",
+   "born": 1837,
+   "word_count": 94
+  },
+  {
+   "n": 460,
+   "name": "Symes (Joseph)",
+   "born": 1841,
+   "word_count": 127
+  },
+  {
+   "n": 461,
+   "name": "Taine (Hippolyte Adolphe)",
+   "born": 1828,
+   "word_count": 125
+  },
+  {
+   "n": 462,
+   "name": "Talandier (Alfred)",
+   "born": 1828,
+   "word_count": 105
+  },
+  {
+   "n": 463,
+   "name": "Taylor (Robert)",
+   "born": 1784,
+   "word_count": 262
+  },
+  {
+   "n": 464,
+   "name": "Taylor (William)",
+   "born": 1765,
+   "word_count": 135
+  },
+  {
+   "n": 465,
+   "name": "Thaer (Albrecht Daniel)",
+   "born": 1590,
+   "word_count": 126
+  },
+  {
+   "n": 466,
+   "name": "Thomson (James)",
+   "born": 1834,
+   "word_count": 148
+  },
+  {
+   "n": 467,
+   "name": "Thorild (Thomas)",
+   "born": 1759,
+   "word_count": 118
+  },
+  {
+   "n": 468,
+   "name": "Tindal (Matthew)",
+   "born": 1657,
+   "word_count": 112
+  },
+  {
+   "n": 469,
+   "name": "Toland (John)",
+   "born": 1669,
+   "word_count": 252
+  },
+  {
+   "n": 470,
+   "name": "Trelawny (Edward John)",
+   "born": 1792,
+   "word_count": 92
+  },
+  {
+   "n": 471,
+   "name": "Trezza (Gaetano)",
+   "born": 1828,
+   "word_count": 93
+  },
+  {
+   "n": 472,
+   "name": "Tridon (Edme Marie, Gustave)",
+   "born": 1841,
+   "word_count": 204
+  },
+  {
+   "n": 473,
+   "name": "Truelove (Edward)",
+   "born": 1809,
+   "word_count": 130
+  },
+  {
+   "n": 474,
+   "name": "Tylor (Edward Burnet)",
+   "born": 1832,
+   "word_count": 119
+  },
+  {
+   "n": 475,
+   "name": "Tyndall (John)",
+   "born": 1820,
+   "word_count": 112
+  },
+  {
+   "n": 476,
+   "name": "Underwood (Benjamin F.)",
+   "born": 1839,
+   "word_count": 109
+  },
+  {
+   "n": 477,
+   "name": "Vanini (Lucilio, afterwards Julius Cæsar)",
+   "born": 1585,
+   "word_count": 208
+  },
+  {
+   "n": 478,
+   "name": "Vergniaud (Pierre Victurnien)",
+   "born": 1759,
+   "word_count": 109
+  },
+  {
+   "n": 479,
+   "name": "Vischer (Friedrich Theodor)",
+   "born": 1807,
+   "word_count": 96
+  },
+  {
+   "n": 480,
+   "name": "Vogt (Karl)",
+   "born": 1817,
+   "word_count": 111
+  },
+  {
+   "n": 481,
+   "name": "Volney (Constantin François Chassebouf de)",
+   "born": 1757,
+   "word_count": 142
+  },
+  {
+   "n": 482,
+   "name": "Voltaire (François Marie. Arouet de)",
+   "born": 1694,
+   "word_count": 276
+  },
+  {
+   "n": 483,
+   "name": "Walker (Thomas)",
+   "born": 1858,
+   "word_count": 91
+  },
+  {
+   "n": 484,
+   "name": "Watson (James)",
+   "born": 1799,
+   "word_count": 136
+  },
+  {
+   "n": 485,
+   "name": "Watts (Charles)",
+   "born": 1835,
+   "word_count": 92
+  },
+  {
+   "n": 486,
+   "name": "Whitman (Walt)",
+   "born": 1819,
+   "word_count": 99
+  },
+  {
+   "n": 487,
+   "name": "Willis (Robert)",
+   "born": 1799,
+   "word_count": 93
+  },
+  {
+   "n": 488,
+   "name": "Wislicenus (Gustav Adolf)",
+   "born": 1803,
+   "word_count": 100
+  },
+  {
+   "n": 489,
+   "name": "Woolston (Thomas)",
+   "born": 1669,
+   "word_count": 106
+  },
+  {
+   "n": 490,
+   "name": "Wright (Frances)",
+   "born": 1795,
+   "word_count": 124
+  },
+  {
+   "n": 491,
+   "name": "Zuppetta (Luigi)",
+   "born": 881,
+   "word_count": 146
+  },
+  {
+   "n": 492,
+   "name": "Amari (Michele)",
+   "born": 1806,
+   "word_count": 96
+  },
+  {
+   "n": 493,
+   "name": "Anderson (Marie)",
+   "born": 1842,
+   "word_count": 103
+  },
+  {
+   "n": 494,
+   "name": "Auerbach (Berthold)",
+   "born": 1812,
+   "word_count": 143
+  },
+  {
+   "n": 495,
+   "name": "Boutteville (Marc Lucien)",
+   "born": 1838,
+   "word_count": 116
+  },
+  {
+   "n": 496,
+   "name": "Brismee (Desiré)",
+   "born": 1822,
+   "word_count": 170
+  },
+  {
+   "n": 497,
+   "name": "Cavia (Mariano)",
+   "born": 1859,
+   "word_count": 94
+  },
+  {
+   "n": 498,
+   "name": "Guimet (Etienne Emile)",
+   "born": 1836,
+   "word_count": 129
+  },
+  {
+   "n": 499,
+   "name": "Lloyd (William Watkiss)",
+   "born": 1865,
+   "word_count": 170
+  },
+  {
+   "n": 500,
+   "name": "Maglia (Adolfo de)",
+   "born": 1859,
+   "word_count": 109
+  },
+  {
+   "n": 501,
+   "name": "Mendizabal (Juan Alvarez)",
+   "born": 1790,
+   "word_count": 111
+  },
+  {
+   "n": 502,
+   "name": "Wheeler (Joseph Mazzini)",
+   "born": 1850,
+   "word_count": 117
+  }
+ ]
+}
