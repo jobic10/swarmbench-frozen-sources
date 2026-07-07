@@ -1,0 +1,41 @@
+{
+  "id": 142,
+  "name": "Minnesota Twins",
+  "abbrev": "MIN",
+  "division": "American League Central",
+  "league": "American League",
+  "wins": 82,
+  "losses": 80,
+  "win_pct": 0.506,
+  "runs_scored": 742,
+  "runs_allowed": 735,
+  "run_diff": 7,
+  "pythag_expected_wins": 81.8,
+  "pythag_diff": 0.2,
+  "hitting": {
+    "homeRuns": 183,
+    "avg": ".246",
+    "obp": ".315",
+    "slg": ".411",
+    "ops": ".726",
+    "stolenBases": 65,
+    "strikeOuts": 1306,
+    "doubles": 309,
+    "triples": 23,
+    "rbi": 702,
+    "baseOnBalls": 473,
+    "hits": 1352,
+    "runs": 742
+  },
+  "pitching": {
+    "era": "4.26",
+    "whip": "1.23",
+    "strikeOuts": 1500,
+    "saves": 43,
+    "homeRuns": 190,
+    "earnedRuns": 682,
+    "runs": 735,
+    "hits": 1333,
+    "baseOnBalls": 433
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 112,
+  "name": "Chicago Cubs",
+  "abbrev": "CHC",
+  "division": "National League Central",
+  "league": "National League",
+  "wins": 83,
+  "losses": 79,
+  "win_pct": 0.512,
+  "runs_scored": 736,
+  "runs_allowed": 669,
+  "run_diff": 67,
+  "pythag_expected_wins": 88.7,
+  "pythag_diff": -5.7,
+  "hitting": {
+    "homeRuns": 170,
+    "avg": ".242",
+    "obp": ".317",
+    "slg": ".393",
+    "ops": ".710",
+    "stolenBases": 143,
+    "strikeOuts": 1362,
+    "doubles": 253,
+    "triples": 29,
+    "rbi": 696,
+    "baseOnBalls": 546,
+    "hits": 1318,
+    "runs": 736
+  },
+  "pitching": {
+    "era": "3.78",
+    "whip": "1.25",
+    "strikeOuts": 1348,
+    "saves": 38,
+    "homeRuns": 181,
+    "earnedRuns": 602,
+    "runs": 669,
+    "hits": 1302,
+    "baseOnBalls": 485
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 146,
+  "name": "Miami Marlins",
+  "abbrev": "MIA",
+  "division": "National League East",
+  "league": "National League",
+  "wins": 62,
+  "losses": 100,
+  "win_pct": 0.383,
+  "runs_scored": 637,
+  "runs_allowed": 841,
+  "run_diff": -204,
+  "pythag_expected_wins": 59.1,
+  "pythag_diff": 2.9,
+  "hitting": {
+    "homeRuns": 150,
+    "avg": ".244",
+    "obp": ".300",
+    "slg": ".378",
+    "ops": ".678",
+    "stolenBases": 125,
+    "strikeOuts": 1410,
+    "doubles": 243,
+    "triples": 23,
+    "rbi": 611,
+    "baseOnBalls": 403,
+    "hits": 1347,
+    "runs": 637
+  },
+  "pitching": {
+    "era": "4.73",
+    "whip": "1.38",
+    "strikeOuts": 1317,
+    "saves": 33,
+    "homeRuns": 195,
+    "earnedRuns": 755,
+    "runs": 841,
+    "hits": 1431,
+    "baseOnBalls": 556
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 117,
+  "name": "Houston Astros",
+  "abbrev": "HOU",
+  "division": "American League West",
+  "league": "American League",
+  "wins": 88,
+  "losses": 73,
+  "win_pct": 0.547,
+  "runs_scored": 740,
+  "runs_allowed": 649,
+  "run_diff": 91,
+  "pythag_expected_wins": 91.0,
+  "pythag_diff": -3.0,
+  "hitting": {
+    "homeRuns": 190,
+    "avg": ".262",
+    "obp": ".322",
+    "slg": ".418",
+    "ops": ".740",
+    "stolenBases": 93,
+    "strikeOuts": 1176,
+    "doubles": 264,
+    "triples": 16,
+    "rbi": 701,
+    "baseOnBalls": 448,
+    "hits": 1448,
+    "runs": 740
+  },
+  "pitching": {
+    "era": "3.74",
+    "whip": "1.24",
+    "strikeOuts": 1479,
+    "saves": 43,
+    "homeRuns": 183,
+    "earnedRuns": 595,
+    "runs": 649,
+    "hits": 1238,
+    "baseOnBalls": 544
+  }
+}

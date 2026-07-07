@@ -1,0 +1,41 @@
+{
+  "id": 147,
+  "name": "New York Yankees",
+  "abbrev": "NYY",
+  "division": "American League East",
+  "league": "American League",
+  "wins": 94,
+  "losses": 68,
+  "win_pct": 0.58,
+  "runs_scored": 815,
+  "runs_allowed": 668,
+  "run_diff": 147,
+  "pythag_expected_wins": 96.9,
+  "pythag_diff": -2.9,
+  "hitting": {
+    "homeRuns": 237,
+    "avg": ".248",
+    "obp": ".333",
+    "slg": ".429",
+    "ops": ".762",
+    "stolenBases": 88,
+    "strikeOuts": 1326,
+    "doubles": 243,
+    "triples": 15,
+    "rbi": 782,
+    "baseOnBalls": 672,
+    "hits": 1352,
+    "runs": 815
+  },
+  "pitching": {
+    "era": "3.74",
+    "whip": "1.24",
+    "strikeOuts": 1457,
+    "saves": 45,
+    "homeRuns": 181,
+    "earnedRuns": 604,
+    "runs": 668,
+    "hits": 1272,
+    "baseOnBalls": 533
+  }
+}

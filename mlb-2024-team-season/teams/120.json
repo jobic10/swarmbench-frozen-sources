@@ -1,0 +1,41 @@
+{
+  "id": 120,
+  "name": "Washington Nationals",
+  "abbrev": "WSH",
+  "division": "National League East",
+  "league": "National League",
+  "wins": 71,
+  "losses": 91,
+  "win_pct": 0.438,
+  "runs_scored": 660,
+  "runs_allowed": 764,
+  "run_diff": -104,
+  "pythag_expected_wins": 69.2,
+  "pythag_diff": 1.8,
+  "hitting": {
+    "homeRuns": 135,
+    "avg": ".243",
+    "obp": ".309",
+    "slg": ".375",
+    "ops": ".684",
+    "stolenBases": 223,
+    "strikeOuts": 1220,
+    "doubles": 267,
+    "triples": 18,
+    "rbi": 621,
+    "baseOnBalls": 456,
+    "hits": 1306,
+    "runs": 660
+  },
+  "pitching": {
+    "era": "4.30",
+    "whip": "1.33",
+    "strikeOuts": 1314,
+    "saves": 40,
+    "homeRuns": 168,
+    "earnedRuns": 685,
+    "runs": 764,
+    "hits": 1429,
+    "baseOnBalls": 473
+  }
+}

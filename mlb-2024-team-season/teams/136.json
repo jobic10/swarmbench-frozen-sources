@@ -1,0 +1,41 @@
+{
+  "id": 136,
+  "name": "Seattle Mariners",
+  "abbrev": "SEA",
+  "division": "American League West",
+  "league": "American League",
+  "wins": 85,
+  "losses": 77,
+  "win_pct": 0.525,
+  "runs_scored": 676,
+  "runs_allowed": 607,
+  "run_diff": 69,
+  "pythag_expected_wins": 89.7,
+  "pythag_diff": -4.7,
+  "hitting": {
+    "homeRuns": 185,
+    "avg": ".224",
+    "obp": ".311",
+    "slg": ".376",
+    "ops": ".687",
+    "stolenBases": 140,
+    "strikeOuts": 1625,
+    "doubles": 228,
+    "triples": 13,
+    "rbi": 642,
+    "baseOnBalls": 571,
+    "hits": 1195,
+    "runs": 676
+  },
+  "pitching": {
+    "era": "3.49",
+    "whip": "1.08",
+    "strikeOuts": 1416,
+    "saves": 34,
+    "homeRuns": 183,
+    "earnedRuns": 556,
+    "runs": 607,
+    "hits": 1174,
+    "baseOnBalls": 369
+  }
+}

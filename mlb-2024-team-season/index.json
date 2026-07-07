@@ -1,0 +1,158 @@
+{
+  "season": 2024,
+  "source": "MLB Stats API (statsapi.mlb.com)",
+  "teams": {
+    "108": {
+      "name": "Los Angeles Angels",
+      "abbrev": "LAA",
+      "division": "American League West"
+    },
+    "109": {
+      "name": "Arizona Diamondbacks",
+      "abbrev": "AZ",
+      "division": "National League West"
+    },
+    "110": {
+      "name": "Baltimore Orioles",
+      "abbrev": "BAL",
+      "division": "American League East"
+    },
+    "111": {
+      "name": "Boston Red Sox",
+      "abbrev": "BOS",
+      "division": "American League East"
+    },
+    "112": {
+      "name": "Chicago Cubs",
+      "abbrev": "CHC",
+      "division": "National League Central"
+    },
+    "113": {
+      "name": "Cincinnati Reds",
+      "abbrev": "CIN",
+      "division": "National League Central"
+    },
+    "114": {
+      "name": "Cleveland Guardians",
+      "abbrev": "CLE",
+      "division": "American League Central"
+    },
+    "115": {
+      "name": "Colorado Rockies",
+      "abbrev": "COL",
+      "division": "National League West"
+    },
+    "116": {
+      "name": "Detroit Tigers",
+      "abbrev": "DET",
+      "division": "American League Central"
+    },
+    "117": {
+      "name": "Houston Astros",
+      "abbrev": "HOU",
+      "division": "American League West"
+    },
+    "118": {
+      "name": "Kansas City Royals",
+      "abbrev": "KC",
+      "division": "American League Central"
+    },
+    "119": {
+      "name": "Los Angeles Dodgers",
+      "abbrev": "LAD",
+      "division": "National League West"
+    },
+    "120": {
+      "name": "Washington Nationals",
+      "abbrev": "WSH",
+      "division": "National League East"
+    },
+    "121": {
+      "name": "New York Mets",
+      "abbrev": "NYM",
+      "division": "National League East"
+    },
+    "133": {
+      "name": "Oakland Athletics",
+      "abbrev": "OAK",
+      "division": "American League West"
+    },
+    "134": {
+      "name": "Pittsburgh Pirates",
+      "abbrev": "PIT",
+      "division": "National League Central"
+    },
+    "135": {
+      "name": "San Diego Padres",
+      "abbrev": "SD",
+      "division": "National League West"
+    },
+    "136": {
+      "name": "Seattle Mariners",
+      "abbrev": "SEA",
+      "division": "American League West"
+    },
+    "137": {
+      "name": "San Francisco Giants",
+      "abbrev": "SF",
+      "division": "National League West"
+    },
+    "138": {
+      "name": "St. Louis Cardinals",
+      "abbrev": "STL",
+      "division": "National League Central"
+    },
+    "139": {
+      "name": "Tampa Bay Rays",
+      "abbrev": "TB",
+      "division": "American League East"
+    },
+    "140": {
+      "name": "Texas Rangers",
+      "abbrev": "TEX",
+      "division": "American League West"
+    },
+    "141": {
+      "name": "Toronto Blue Jays",
+      "abbrev": "TOR",
+      "division": "American League East"
+    },
+    "142": {
+      "name": "Minnesota Twins",
+      "abbrev": "MIN",
+      "division": "American League Central"
+    },
+    "143": {
+      "name": "Philadelphia Phillies",
+      "abbrev": "PHI",
+      "division": "National League East"
+    },
+    "144": {
+      "name": "Atlanta Braves",
+      "abbrev": "ATL",
+      "division": "National League East"
+    },
+    "145": {
+      "name": "Chicago White Sox",
+      "abbrev": "CWS",
+      "division": "American League Central"
+    },
+    "146": {
+      "name": "Miami Marlins",
+      "abbrev": "MIA",
+      "division": "National League East"
+    },
+    "147": {
+      "name": "New York Yankees",
+      "abbrev": "NYY",
+      "division": "American League East"
+    },
+    "158": {
+      "name": "Milwaukee Brewers",
+      "abbrev": "MIL",
+      "division": "National League Central"
+    }
+  },
+  "team_url_pattern": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/mlb-2024-team-season/teams/<id>.json",
+  "team_count": 30
+}

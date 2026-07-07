@@ -1,0 +1,41 @@
+{
+  "id": 111,
+  "name": "Boston Red Sox",
+  "abbrev": "BOS",
+  "division": "American League East",
+  "league": "American League",
+  "wins": 81,
+  "losses": 81,
+  "win_pct": 0.5,
+  "runs_scored": 751,
+  "runs_allowed": 747,
+  "run_diff": 4,
+  "pythag_expected_wins": 81.4,
+  "pythag_diff": -0.4,
+  "hitting": {
+    "homeRuns": 194,
+    "avg": ".252",
+    "obp": ".319",
+    "slg": ".423",
+    "ops": ".742",
+    "stolenBases": 144,
+    "strikeOuts": 1570,
+    "doubles": 311,
+    "triples": 30,
+    "rbi": 724,
+    "baseOnBalls": 493,
+    "hits": 1404,
+    "runs": 751
+  },
+  "pitching": {
+    "era": "4.04",
+    "whip": "1.26",
+    "strikeOuts": 1353,
+    "saves": 40,
+    "homeRuns": 189,
+    "earnedRuns": 652,
+    "runs": 747,
+    "hits": 1363,
+    "baseOnBalls": 461
+  }
+}

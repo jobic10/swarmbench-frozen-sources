@@ -1,0 +1,41 @@
+{
+  "id": 135,
+  "name": "San Diego Padres",
+  "abbrev": "SD",
+  "division": "National League West",
+  "league": "National League",
+  "wins": 93,
+  "losses": 69,
+  "win_pct": 0.574,
+  "runs_scored": 760,
+  "runs_allowed": 669,
+  "run_diff": 91,
+  "pythag_expected_wins": 91.3,
+  "pythag_diff": 1.7,
+  "hitting": {
+    "homeRuns": 190,
+    "avg": ".263",
+    "obp": ".324",
+    "slg": ".420",
+    "ops": ".744",
+    "stolenBases": 120,
+    "strikeOuts": 1077,
+    "doubles": 259,
+    "triples": 18,
+    "rbi": 726,
+    "baseOnBalls": 458,
+    "hits": 1456,
+    "runs": 760
+  },
+  "pitching": {
+    "era": "3.86",
+    "whip": "1.22",
+    "strikeOuts": 1453,
+    "saves": 44,
+    "homeRuns": 169,
+    "earnedRuns": 617,
+    "runs": 669,
+    "hits": 1296,
+    "baseOnBalls": 462
+  }
+}

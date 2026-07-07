@@ -1,0 +1,41 @@
+{
+  "id": 138,
+  "name": "St. Louis Cardinals",
+  "abbrev": "STL",
+  "division": "National League Central",
+  "league": "National League",
+  "wins": 83,
+  "losses": 79,
+  "win_pct": 0.512,
+  "runs_scored": 672,
+  "runs_allowed": 719,
+  "run_diff": -47,
+  "pythag_expected_wins": 75.5,
+  "pythag_diff": 7.5,
+  "hitting": {
+    "homeRuns": 165,
+    "avg": ".248",
+    "obp": ".312",
+    "slg": ".392",
+    "ops": ".704",
+    "stolenBases": 91,
+    "strikeOuts": 1318,
+    "doubles": 257,
+    "triples": 21,
+    "rbi": 639,
+    "baseOnBalls": 478,
+    "hits": 1363,
+    "runs": 672
+  },
+  "pitching": {
+    "era": "4.04",
+    "whip": "1.26",
+    "strikeOuts": 1308,
+    "saves": 55,
+    "homeRuns": 174,
+    "earnedRuns": 648,
+    "runs": 719,
+    "hits": 1363,
+    "baseOnBalls": 454
+  }
+}

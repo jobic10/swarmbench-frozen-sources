@@ -1,0 +1,41 @@
+{
+  "id": 115,
+  "name": "Colorado Rockies",
+  "abbrev": "COL",
+  "division": "National League West",
+  "league": "National League",
+  "wins": 61,
+  "losses": 101,
+  "win_pct": 0.377,
+  "runs_scored": 682,
+  "runs_allowed": 929,
+  "run_diff": -247,
+  "pythag_expected_wins": 56.7,
+  "pythag_diff": 4.3,
+  "hitting": {
+    "homeRuns": 179,
+    "avg": ".242",
+    "obp": ".304",
+    "slg": ".400",
+    "ops": ".704",
+    "stolenBases": 85,
+    "strikeOuts": 1617,
+    "doubles": 277,
+    "triples": 25,
+    "rbi": 655,
+    "baseOnBalls": 453,
+    "hits": 1319,
+    "runs": 682
+  },
+  "pitching": {
+    "era": "5.47",
+    "whip": "1.52",
+    "strikeOuts": 1118,
+    "saves": 37,
+    "homeRuns": 221,
+    "earnedRuns": 867,
+    "runs": 929,
+    "hits": 1604,
+    "baseOnBalls": 563
+  }
+}

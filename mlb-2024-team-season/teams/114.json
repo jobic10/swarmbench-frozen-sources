@@ -1,0 +1,41 @@
+{
+  "id": 114,
+  "name": "Cleveland Guardians",
+  "abbrev": "CLE",
+  "division": "American League Central",
+  "league": "American League",
+  "wins": 92,
+  "losses": 69,
+  "win_pct": 0.571,
+  "runs_scored": 708,
+  "runs_allowed": 621,
+  "run_diff": 87,
+  "pythag_expected_wins": 91.0,
+  "pythag_diff": 1.0,
+  "hitting": {
+    "homeRuns": 185,
+    "avg": ".238",
+    "obp": ".307",
+    "slg": ".395",
+    "ops": ".702",
+    "stolenBases": 148,
+    "strikeOuts": 1196,
+    "doubles": 245,
+    "triples": 18,
+    "rbi": 670,
+    "baseOnBalls": 466,
+    "hits": 1263,
+    "runs": 708
+  },
+  "pitching": {
+    "era": "3.61",
+    "whip": "1.20",
+    "strikeOuts": 1410,
+    "saves": 53,
+    "homeRuns": 179,
+    "earnedRuns": 572,
+    "runs": 621,
+    "hits": 1224,
+    "baseOnBalls": 492
+  }
+}

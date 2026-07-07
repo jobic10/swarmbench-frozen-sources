@@ -1,0 +1,41 @@
+{
+  "id": 113,
+  "name": "Cincinnati Reds",
+  "abbrev": "CIN",
+  "division": "National League Central",
+  "league": "National League",
+  "wins": 77,
+  "losses": 85,
+  "win_pct": 0.475,
+  "runs_scored": 699,
+  "runs_allowed": 694,
+  "run_diff": 5,
+  "pythag_expected_wins": 81.6,
+  "pythag_diff": -4.6,
+  "hitting": {
+    "homeRuns": 174,
+    "avg": ".231",
+    "obp": ".305",
+    "slg": ".388",
+    "ops": ".693",
+    "stolenBases": 207,
+    "strikeOuts": 1459,
+    "doubles": 257,
+    "triples": 29,
+    "rbi": 663,
+    "baseOnBalls": 496,
+    "hits": 1230,
+    "runs": 699
+  },
+  "pitching": {
+    "era": "4.09",
+    "whip": "1.25",
+    "strikeOuts": 1370,
+    "saves": 36,
+    "homeRuns": 196,
+    "earnedRuns": 649,
+    "runs": 694,
+    "hits": 1302,
+    "baseOnBalls": 487
+  }
+}

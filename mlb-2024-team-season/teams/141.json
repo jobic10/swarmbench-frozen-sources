@@ -1,0 +1,41 @@
+{
+  "id": 141,
+  "name": "Toronto Blue Jays",
+  "abbrev": "TOR",
+  "division": "American League East",
+  "league": "American League",
+  "wins": 74,
+  "losses": 88,
+  "win_pct": 0.457,
+  "runs_scored": 671,
+  "runs_allowed": 743,
+  "run_diff": -72,
+  "pythag_expected_wins": 72.8,
+  "pythag_diff": 1.2,
+  "hitting": {
+    "homeRuns": 156,
+    "avg": ".241",
+    "obp": ".313",
+    "slg": ".389",
+    "ops": ".702",
+    "stolenBases": 72,
+    "strikeOuts": 1233,
+    "doubles": 280,
+    "triples": 26,
+    "rbi": 640,
+    "baseOnBalls": 510,
+    "hits": 1306,
+    "runs": 671
+  },
+  "pitching": {
+    "era": "4.29",
+    "whip": "1.27",
+    "strikeOuts": 1314,
+    "saves": 36,
+    "homeRuns": 208,
+    "earnedRuns": 681,
+    "runs": 743,
+    "hits": 1316,
+    "baseOnBalls": 503
+  }
+}

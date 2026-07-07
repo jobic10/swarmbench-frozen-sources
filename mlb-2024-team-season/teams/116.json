@@ -1,0 +1,41 @@
+{
+  "id": 116,
+  "name": "Detroit Tigers",
+  "abbrev": "DET",
+  "division": "American League Central",
+  "league": "American League",
+  "wins": 86,
+  "losses": 76,
+  "win_pct": 0.531,
+  "runs_scored": 682,
+  "runs_allowed": 642,
+  "run_diff": 40,
+  "pythag_expected_wins": 85.9,
+  "pythag_diff": 0.1,
+  "hitting": {
+    "homeRuns": 162,
+    "avg": ".234",
+    "obp": ".300",
+    "slg": ".385",
+    "ops": ".685",
+    "stolenBases": 76,
+    "strikeOuts": 1461,
+    "doubles": 244,
+    "triples": 47,
+    "rbi": 656,
+    "baseOnBalls": 476,
+    "hits": 1273,
+    "runs": 682
+  },
+  "pitching": {
+    "era": "3.61",
+    "whip": "1.16",
+    "strikeOuts": 1354,
+    "saves": 45,
+    "homeRuns": 159,
+    "earnedRuns": 581,
+    "runs": 642,
+    "hits": 1265,
+    "baseOnBalls": 416
+  }
+}

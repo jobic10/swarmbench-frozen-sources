@@ -1,0 +1,41 @@
+{
+  "id": 137,
+  "name": "San Francisco Giants",
+  "abbrev": "SF",
+  "division": "National League West",
+  "league": "National League",
+  "wins": 80,
+  "losses": 82,
+  "win_pct": 0.494,
+  "runs_scored": 693,
+  "runs_allowed": 699,
+  "run_diff": -6,
+  "pythag_expected_wins": 80.3,
+  "pythag_diff": -0.3,
+  "hitting": {
+    "homeRuns": 177,
+    "avg": ".239",
+    "obp": ".305",
+    "slg": ".396",
+    "ops": ".701",
+    "stolenBases": 68,
+    "strikeOuts": 1452,
+    "doubles": 266,
+    "triples": 30,
+    "rbi": 661,
+    "baseOnBalls": 492,
+    "hits": 1303,
+    "runs": 693
+  },
+  "pitching": {
+    "era": "4.10",
+    "whip": "1.30",
+    "strikeOuts": 1436,
+    "saves": 36,
+    "homeRuns": 153,
+    "earnedRuns": 653,
+    "runs": 699,
+    "hits": 1339,
+    "baseOnBalls": 526
+  }
+}

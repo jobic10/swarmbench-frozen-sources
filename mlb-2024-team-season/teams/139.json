@@ -1,0 +1,41 @@
+{
+  "id": 139,
+  "name": "Tampa Bay Rays",
+  "abbrev": "TB",
+  "division": "American League East",
+  "league": "American League",
+  "wins": 80,
+  "losses": 82,
+  "win_pct": 0.494,
+  "runs_scored": 604,
+  "runs_allowed": 663,
+  "run_diff": -59,
+  "pythag_expected_wins": 73.5,
+  "pythag_diff": 6.5,
+  "hitting": {
+    "homeRuns": 147,
+    "avg": ".230",
+    "obp": ".302",
+    "slg": ".366",
+    "ops": ".668",
+    "stolenBases": 178,
+    "strikeOuts": 1485,
+    "doubles": 245,
+    "triples": 23,
+    "rbi": 564,
+    "baseOnBalls": 493,
+    "hits": 1241,
+    "runs": 604
+  },
+  "pitching": {
+    "era": "3.77",
+    "whip": "1.20",
+    "strikeOuts": 1406,
+    "saves": 51,
+    "homeRuns": 196,
+    "earnedRuns": 604,
+    "runs": 663,
+    "hits": 1286,
+    "baseOnBalls": 445
+  }
+}

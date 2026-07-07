@@ -1,0 +1,41 @@
+{
+  "id": 108,
+  "name": "Los Angeles Angels",
+  "abbrev": "LAA",
+  "division": "American League West",
+  "league": "American League",
+  "wins": 63,
+  "losses": 99,
+  "win_pct": 0.389,
+  "runs_scored": 635,
+  "runs_allowed": 797,
+  "run_diff": -162,
+  "pythag_expected_wins": 62.9,
+  "pythag_diff": 0.1,
+  "hitting": {
+    "homeRuns": 165,
+    "avg": ".229",
+    "obp": ".301",
+    "slg": ".369",
+    "ops": ".670",
+    "stolenBases": 133,
+    "strikeOuts": 1416,
+    "doubles": 227,
+    "triples": 15,
+    "rbi": 596,
+    "baseOnBalls": 482,
+    "hits": 1227,
+    "runs": 635
+  },
+  "pitching": {
+    "era": "4.56",
+    "whip": "1.35",
+    "strikeOuts": 1252,
+    "saves": 35,
+    "homeRuns": 202,
+    "earnedRuns": 725,
+    "runs": 797,
+    "hits": 1328,
+    "baseOnBalls": 601
+  }
+}

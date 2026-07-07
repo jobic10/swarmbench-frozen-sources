@@ -1,0 +1,41 @@
+{
+  "id": 110,
+  "name": "Baltimore Orioles",
+  "abbrev": "BAL",
+  "division": "American League East",
+  "league": "American League",
+  "wins": 91,
+  "losses": 71,
+  "win_pct": 0.562,
+  "runs_scored": 786,
+  "runs_allowed": 699,
+  "run_diff": 87,
+  "pythag_expected_wins": 90.5,
+  "pythag_diff": 0.5,
+  "hitting": {
+    "homeRuns": 235,
+    "avg": ".250",
+    "obp": ".315",
+    "slg": ".435",
+    "ops": ".750",
+    "stolenBases": 98,
+    "strikeOuts": 1359,
+    "doubles": 262,
+    "triples": 33,
+    "rbi": 759,
+    "baseOnBalls": 489,
+    "hits": 1391,
+    "runs": 786
+  },
+  "pitching": {
+    "era": "3.94",
+    "whip": "1.24",
+    "strikeOuts": 1380,
+    "saves": 46,
+    "homeRuns": 175,
+    "earnedRuns": 632,
+    "runs": 699,
+    "hits": 1303,
+    "baseOnBalls": 481
+  }
+}

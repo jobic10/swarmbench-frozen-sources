@@ -1,0 +1,41 @@
+{
+  "id": 119,
+  "name": "Los Angeles Dodgers",
+  "abbrev": "LAD",
+  "division": "National League West",
+  "league": "National League",
+  "wins": 98,
+  "losses": 64,
+  "win_pct": 0.605,
+  "runs_scored": 842,
+  "runs_allowed": 686,
+  "run_diff": 156,
+  "pythag_expected_wins": 97.4,
+  "pythag_diff": 0.6,
+  "hitting": {
+    "homeRuns": 233,
+    "avg": ".258",
+    "obp": ".335",
+    "slg": ".446",
+    "ops": ".781",
+    "stolenBases": 136,
+    "strikeOuts": 1336,
+    "doubles": 291,
+    "triples": 26,
+    "rbi": 815,
+    "baseOnBalls": 602,
+    "hits": 1423,
+    "runs": 842
+  },
+  "pitching": {
+    "era": "3.90",
+    "whip": "1.23",
+    "strikeOuts": 1390,
+    "saves": 50,
+    "homeRuns": 198,
+    "earnedRuns": 626,
+    "runs": 686,
+    "hits": 1273,
+    "baseOnBalls": 501
+  }
+}

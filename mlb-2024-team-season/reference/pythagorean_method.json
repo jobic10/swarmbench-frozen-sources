@@ -1,0 +1,5 @@
+{
+  "name": "Pythagorean expected wins (Bill James)",
+  "formula": "expected_wins = runs_scored^2 / (runs_scored^2 + runs_allowed^2) * games_played",
+  "note": "games_played = wins + losses. A team whose actual wins exceed its expected wins over-performed its run differential (often read as luck/bullpen/one-run-game record); under-performing is the reverse. Use exponent 2 so figures reconcile across the pack."
+}

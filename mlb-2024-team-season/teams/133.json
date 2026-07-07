@@ -1,0 +1,41 @@
+{
+  "id": 133,
+  "name": "Oakland Athletics",
+  "abbrev": "OAK",
+  "division": "American League West",
+  "league": "American League",
+  "wins": 69,
+  "losses": 93,
+  "win_pct": 0.426,
+  "runs_scored": 643,
+  "runs_allowed": 764,
+  "run_diff": -121,
+  "pythag_expected_wins": 67.2,
+  "pythag_diff": 1.8,
+  "hitting": {
+    "homeRuns": 196,
+    "avg": ".233",
+    "obp": ".301",
+    "slg": ".393",
+    "ops": ".694",
+    "stolenBases": 98,
+    "strikeOuts": 1502,
+    "doubles": 240,
+    "triples": 19,
+    "rbi": 619,
+    "baseOnBalls": 493,
+    "hits": 1267,
+    "runs": 643
+  },
+  "pitching": {
+    "era": "4.37",
+    "whip": "1.33",
+    "strikeOuts": 1263,
+    "saves": 35,
+    "homeRuns": 169,
+    "earnedRuns": 698,
+    "runs": 764,
+    "hits": 1385,
+    "baseOnBalls": 530
+  }
+}

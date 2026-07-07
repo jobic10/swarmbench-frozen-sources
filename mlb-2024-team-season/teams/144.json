@@ -1,0 +1,41 @@
+{
+  "id": 144,
+  "name": "Atlanta Braves",
+  "abbrev": "ATL",
+  "division": "National League East",
+  "league": "National League",
+  "wins": 89,
+  "losses": 73,
+  "win_pct": 0.549,
+  "runs_scored": 704,
+  "runs_allowed": 607,
+  "run_diff": 97,
+  "pythag_expected_wins": 92.9,
+  "pythag_diff": -3.9,
+  "hitting": {
+    "homeRuns": 213,
+    "avg": ".243",
+    "obp": ".309",
+    "slg": ".415",
+    "ops": ".724",
+    "stolenBases": 69,
+    "strikeOuts": 1461,
+    "doubles": 273,
+    "triples": 15,
+    "rbi": 674,
+    "baseOnBalls": 485,
+    "hits": 1333,
+    "runs": 704
+  },
+  "pitching": {
+    "era": "3.49",
+    "whip": "1.20",
+    "strikeOuts": 1553,
+    "saves": 40,
+    "homeRuns": 150,
+    "earnedRuns": 559,
+    "runs": 607,
+    "hits": 1277,
+    "baseOnBalls": 449
+  }
+}

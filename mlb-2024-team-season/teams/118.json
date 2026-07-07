@@ -1,0 +1,41 @@
+{
+  "id": 118,
+  "name": "Kansas City Royals",
+  "abbrev": "KC",
+  "division": "American League Central",
+  "league": "American League",
+  "wins": 86,
+  "losses": 76,
+  "win_pct": 0.531,
+  "runs_scored": 735,
+  "runs_allowed": 644,
+  "run_diff": 91,
+  "pythag_expected_wins": 91.6,
+  "pythag_diff": -5.6,
+  "hitting": {
+    "homeRuns": 170,
+    "avg": ".248",
+    "obp": ".306",
+    "slg": ".403",
+    "ops": ".709",
+    "stolenBases": 134,
+    "strikeOuts": 1161,
+    "doubles": 264,
+    "triples": 35,
+    "rbi": 711,
+    "baseOnBalls": 429,
+    "hits": 1343,
+    "runs": 735
+  },
+  "pitching": {
+    "era": "3.76",
+    "whip": "1.24",
+    "strikeOuts": 1339,
+    "saves": 41,
+    "homeRuns": 146,
+    "earnedRuns": 596,
+    "runs": 644,
+    "hits": 1303,
+    "baseOnBalls": 472
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 143,
+  "name": "Philadelphia Phillies",
+  "abbrev": "PHI",
+  "division": "National League East",
+  "league": "National League",
+  "wins": 95,
+  "losses": 67,
+  "win_pct": 0.586,
+  "runs_scored": 784,
+  "runs_allowed": 671,
+  "run_diff": 113,
+  "pythag_expected_wins": 93.5,
+  "pythag_diff": 1.5,
+  "hitting": {
+    "homeRuns": 198,
+    "avg": ".257",
+    "obp": ".325",
+    "slg": ".425",
+    "ops": ".750",
+    "stolenBases": 148,
+    "strikeOuts": 1370,
+    "doubles": 285,
+    "triples": 24,
+    "rbi": 750,
+    "baseOnBalls": 515,
+    "hits": 1423,
+    "runs": 784
+  },
+  "pitching": {
+    "era": "3.85",
+    "whip": "1.24",
+    "strikeOuts": 1433,
+    "saves": 37,
+    "homeRuns": 181,
+    "earnedRuns": 617,
+    "runs": 671,
+    "hits": 1339,
+    "baseOnBalls": 444
+  }
+}

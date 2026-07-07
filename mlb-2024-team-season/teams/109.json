@@ -1,0 +1,41 @@
+{
+  "id": 109,
+  "name": "Arizona Diamondbacks",
+  "abbrev": "AZ",
+  "division": "National League West",
+  "league": "National League",
+  "wins": 89,
+  "losses": 73,
+  "win_pct": 0.549,
+  "runs_scored": 886,
+  "runs_allowed": 788,
+  "run_diff": 98,
+  "pythag_expected_wins": 90.5,
+  "pythag_diff": -1.5,
+  "hitting": {
+    "homeRuns": 211,
+    "avg": ".263",
+    "obp": ".337",
+    "slg": ".440",
+    "ops": ".777",
+    "stolenBases": 119,
+    "strikeOuts": 1265,
+    "doubles": 271,
+    "triples": 37,
+    "rbi": 845,
+    "baseOnBalls": 569,
+    "hits": 1452,
+    "runs": 886
+  },
+  "pitching": {
+    "era": "4.62",
+    "whip": "1.35",
+    "strikeOuts": 1313,
+    "saves": 38,
+    "homeRuns": 181,
+    "earnedRuns": 741,
+    "runs": 788,
+    "hits": 1468,
+    "baseOnBalls": 481
+  }
+}

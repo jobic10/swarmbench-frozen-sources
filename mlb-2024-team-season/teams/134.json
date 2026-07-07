@@ -1,0 +1,41 @@
+{
+  "id": 134,
+  "name": "Pittsburgh Pirates",
+  "abbrev": "PIT",
+  "division": "National League Central",
+  "league": "National League",
+  "wins": 76,
+  "losses": 86,
+  "win_pct": 0.469,
+  "runs_scored": 665,
+  "runs_allowed": 739,
+  "run_diff": -74,
+  "pythag_expected_wins": 72.5,
+  "pythag_diff": 3.5,
+  "hitting": {
+    "homeRuns": 160,
+    "avg": ".234",
+    "obp": ".301",
+    "slg": ".371",
+    "ops": ".672",
+    "stolenBases": 106,
+    "strikeOuts": 1506,
+    "doubles": 236,
+    "triples": 17,
+    "rbi": 643,
+    "baseOnBalls": 485,
+    "hits": 1283,
+    "runs": 665
+  },
+  "pitching": {
+    "era": "4.15",
+    "whip": "1.31",
+    "strikeOuts": 1356,
+    "saves": 43,
+    "homeRuns": 166,
+    "earnedRuns": 664,
+    "runs": 739,
+    "hits": 1369,
+    "baseOnBalls": 515
+  }
+}

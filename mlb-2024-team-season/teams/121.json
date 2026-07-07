@@ -1,0 +1,41 @@
+{
+  "id": 121,
+  "name": "New York Mets",
+  "abbrev": "NYM",
+  "division": "National League East",
+  "league": "National League",
+  "wins": 89,
+  "losses": 73,
+  "win_pct": 0.549,
+  "runs_scored": 768,
+  "runs_allowed": 697,
+  "run_diff": 71,
+  "pythag_expected_wins": 88.8,
+  "pythag_diff": 0.2,
+  "hitting": {
+    "homeRuns": 207,
+    "avg": ".246",
+    "obp": ".319",
+    "slg": ".415",
+    "ops": ".734",
+    "stolenBases": 106,
+    "strikeOuts": 1382,
+    "doubles": 279,
+    "triples": 15,
+    "rbi": 735,
+    "baseOnBalls": 514,
+    "hits": 1357,
+    "runs": 768
+  },
+  "pitching": {
+    "era": "3.96",
+    "whip": "1.26",
+    "strikeOuts": 1455,
+    "saves": 39,
+    "homeRuns": 165,
+    "earnedRuns": 634,
+    "runs": 697,
+    "hits": 1232,
+    "baseOnBalls": 586
+  }
+}

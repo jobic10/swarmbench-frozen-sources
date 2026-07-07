@@ -1,0 +1,41 @@
+{
+  "id": 145,
+  "name": "Chicago White Sox",
+  "abbrev": "CWS",
+  "division": "American League Central",
+  "league": "American League",
+  "wins": 41,
+  "losses": 121,
+  "win_pct": 0.253,
+  "runs_scored": 507,
+  "runs_allowed": 813,
+  "run_diff": -306,
+  "pythag_expected_wins": 45.4,
+  "pythag_diff": -4.4,
+  "hitting": {
+    "homeRuns": 133,
+    "avg": ".221",
+    "obp": ".278",
+    "slg": ".340",
+    "ops": ".618",
+    "stolenBases": 90,
+    "strikeOuts": 1403,
+    "doubles": 226,
+    "triples": 9,
+    "rbi": 485,
+    "baseOnBalls": 395,
+    "hits": 1187,
+    "runs": 507
+  },
+  "pitching": {
+    "era": "4.67",
+    "whip": "1.44",
+    "strikeOuts": 1366,
+    "saves": 21,
+    "homeRuns": 201,
+    "earnedRuns": 737,
+    "runs": 813,
+    "hits": 1397,
+    "baseOnBalls": 643
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 140,
+  "name": "Texas Rangers",
+  "abbrev": "TEX",
+  "division": "American League West",
+  "league": "American League",
+  "wins": 78,
+  "losses": 84,
+  "win_pct": 0.481,
+  "runs_scored": 683,
+  "runs_allowed": 738,
+  "run_diff": -55,
+  "pythag_expected_wins": 74.7,
+  "pythag_diff": 3.3,
+  "hitting": {
+    "homeRuns": 176,
+    "avg": ".238",
+    "obp": ".305",
+    "slg": ".380",
+    "ops": ".685",
+    "stolenBases": 97,
+    "strikeOuts": 1284,
+    "doubles": 220,
+    "triples": 15,
+    "rbi": 652,
+    "baseOnBalls": 490,
+    "hits": 1302,
+    "runs": 683
+  },
+  "pitching": {
+    "era": "4.35",
+    "whip": "1.30",
+    "strikeOuts": 1371,
+    "saves": 38,
+    "homeRuns": 198,
+    "earnedRuns": 690,
+    "runs": 738,
+    "hits": 1323,
+    "baseOnBalls": 530
+  }
+}
