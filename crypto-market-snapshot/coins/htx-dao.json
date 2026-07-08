@@ -1,0 +1,21 @@
+{
+  "id": "htx-dao",
+  "symbol": "HTX",
+  "name": "HTX DAO",
+  "market_cap_rank": 45,
+  "market_cap": 1679676139,
+  "current_price": 1.85e-06,
+  "total_volume": 7959930,
+  "high_24h": 1.89e-06,
+  "low_24h": 1.78e-06,
+  "ath": 3.75e-06,
+  "ath_change_percentage": -50.6,
+  "atl": 8.00816e-07,
+  "atl_change_percentage": 131.6,
+  "price_change_percentage_24h": 3.9,
+  "price_change_percentage_7d": 14.42,
+  "price_change_percentage_30d": 5.17,
+  "circulating_supply": 905707664073577.8,
+  "total_supply": 905707664073577.8,
+  "max_supply": 999990000000000.0
+}

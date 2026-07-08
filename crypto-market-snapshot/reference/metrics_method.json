@@ -1,0 +1,6 @@
+{
+  "note": "Derived read metrics to compute per coin, so figures reconcile across the pack.",
+  "drawdown_from_ath_pct": "how far below the all-time high the price sits, = -(ath_change_percentage). Larger means deeper drawdown / more recovery room.",
+  "liquidity_ratio": "total_volume / market_cap. Higher means more 24h turnover relative to size (more liquid / more speculative churn).",
+  "supply_issued_pct": "circulating_supply / max_supply * 100, only where a max supply exists. Higher means less future dilution."
+}

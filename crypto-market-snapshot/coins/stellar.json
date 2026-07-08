@@ -1,0 +1,21 @@
+{
+  "id": "stellar",
+  "symbol": "XLM",
+  "name": "Stellar",
+  "market_cap_rank": 18,
+  "market_cap": 6338124573,
+  "current_price": 0.1857,
+  "total_volume": 199737847,
+  "high_24h": 0.196524,
+  "low_24h": 0.184746,
+  "ath": 0.875563,
+  "ath_change_percentage": -78.8,
+  "atl": 0.00047612,
+  "atl_change_percentage": 38967.6,
+  "price_change_percentage_24h": -5.27,
+  "price_change_percentage_7d": -9.87,
+  "price_change_percentage_30d": -8.12,
+  "circulating_supply": 34126331170.06359,
+  "total_supply": 50001786839.91257,
+  "max_supply": null
+}

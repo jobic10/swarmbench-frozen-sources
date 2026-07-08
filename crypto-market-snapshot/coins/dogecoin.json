@@ -1,0 +1,21 @@
+{
+  "id": "dogecoin",
+  "symbol": "DOGE",
+  "name": "Dogecoin",
+  "market_cap_rank": 11,
+  "market_cap": 11275715684,
+  "current_price": 0.072747,
+  "total_volume": 608927343,
+  "high_24h": 0.075505,
+  "low_24h": 0.07252,
+  "ath": 0.731578,
+  "ath_change_percentage": -90.1,
+  "atl": 8.69e-05,
+  "atl_change_percentage": 83609.8,
+  "price_change_percentage_24h": -3.05,
+  "price_change_percentage_7d": 1.23,
+  "price_change_percentage_30d": -15.12,
+  "circulating_supply": 154977456383.7052,
+  "total_supply": 154979686383.7052,
+  "max_supply": null
+}

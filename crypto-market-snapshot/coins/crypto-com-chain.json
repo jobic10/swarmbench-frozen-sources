@@ -1,0 +1,21 @@
+{
+  "id": "crypto-com-chain",
+  "symbol": "CRO",
+  "name": "Cronos",
+  "market_cap_rank": 34,
+  "market_cap": 2587366610,
+  "current_price": 0.05616,
+  "total_volume": 7671926,
+  "high_24h": 0.058294,
+  "low_24h": 0.056185,
+  "ath": 0.891544,
+  "ath_change_percentage": -93.7,
+  "atl": 0.0121196,
+  "atl_change_percentage": 363.7,
+  "price_change_percentage_24h": -2.99,
+  "price_change_percentage_7d": 4.6,
+  "price_change_percentage_30d": -9.04,
+  "circulating_supply": 46069829666.56389,
+  "total_supply": 98769799630.39099,
+  "max_supply": 100000000000.0
+}

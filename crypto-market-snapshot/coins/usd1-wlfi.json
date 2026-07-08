@@ -1,0 +1,21 @@
+{
+  "id": "usd1-wlfi",
+  "symbol": "USD1",
+  "name": "USD1",
+  "market_cap_rank": 24,
+  "market_cap": 4510634411,
+  "current_price": 0.998874,
+  "total_volume": 640924662,
+  "high_24h": 0.999374,
+  "low_24h": 0.998056,
+  "ath": 1.025,
+  "ath_change_percentage": -2.5,
+  "atl": 0.989633,
+  "atl_change_percentage": 0.9,
+  "price_change_percentage_24h": 0.03,
+  "price_change_percentage_7d": 0.0,
+  "price_change_percentage_30d": -0.05,
+  "circulating_supply": 4515234722.220084,
+  "total_supply": 4515234722.220084,
+  "max_supply": null
+}

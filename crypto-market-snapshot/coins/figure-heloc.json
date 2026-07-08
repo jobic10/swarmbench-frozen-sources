@@ -1,0 +1,21 @@
+{
+  "id": "figure-heloc",
+  "symbol": "FIGR_HELOC",
+  "name": "Figure Heloc",
+  "market_cap_rank": 9,
+  "market_cap": 20087481494,
+  "current_price": 1.025,
+  "total_volume": 43511995,
+  "high_24h": 1.035,
+  "low_24h": 1.025,
+  "ath": 1.049,
+  "ath_change_percentage": -2.3,
+  "atl": 0.155357,
+  "atl_change_percentage": 560.1,
+  "price_change_percentage_24h": -0.92,
+  "price_change_percentage_7d": 1.09,
+  "price_change_percentage_30d": -0.77,
+  "circulating_supply": 19589275290.768,
+  "total_supply": 19589275290.768,
+  "max_supply": null
+}

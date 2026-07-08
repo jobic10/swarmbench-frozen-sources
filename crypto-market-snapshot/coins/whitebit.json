@@ -1,0 +1,21 @@
+{
+  "id": "whitebit",
+  "symbol": "WBT",
+  "name": "WhiteBIT Coin",
+  "market_cap_rank": 16,
+  "market_cap": 6586274650,
+  "current_price": 55.78,
+  "total_volume": 57127731,
+  "high_24h": 56.98,
+  "low_24h": 55.5,
+  "ath": 64.11,
+  "ath_change_percentage": -13.0,
+  "atl": 3.06,
+  "atl_change_percentage": 1722.5,
+  "price_change_percentage_24h": -1.47,
+  "price_change_percentage_7d": 2.73,
+  "price_change_percentage_30d": 24.03,
+  "circulating_supply": 118075917.0,
+  "total_supply": 293975916.0,
+  "max_supply": 400000000.0
+}

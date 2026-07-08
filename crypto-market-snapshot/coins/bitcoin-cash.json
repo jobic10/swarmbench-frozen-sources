@@ -1,0 +1,21 @@
+{
+  "id": "bitcoin-cash",
+  "symbol": "BCH",
+  "name": "Bitcoin Cash",
+  "market_cap_rank": 22,
+  "market_cap": 4760272957,
+  "current_price": 237.27,
+  "total_volume": 106709327,
+  "high_24h": 244.36,
+  "low_24h": 235.83,
+  "ath": 3785.82,
+  "ath_change_percentage": -93.7,
+  "atl": 76.93,
+  "atl_change_percentage": 208.4,
+  "price_change_percentage_24h": -0.42,
+  "price_change_percentage_7d": 15.92,
+  "price_change_percentage_30d": 7.26,
+  "circulating_supply": 20058449.89665078,
+  "total_supply": 20058449.89665078,
+  "max_supply": 21000000.0
+}

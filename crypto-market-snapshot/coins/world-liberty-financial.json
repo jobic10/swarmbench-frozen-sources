@@ -1,0 +1,21 @@
+{
+  "id": "world-liberty-financial",
+  "symbol": "WLFI",
+  "name": "World Liberty Financial",
+  "market_cap_rank": 43,
+  "market_cap": 1859456018,
+  "current_price": 0.058521,
+  "total_volume": 41267267,
+  "high_24h": 0.061202,
+  "low_24h": 0.057671,
+  "ath": 0.331336,
+  "ath_change_percentage": -82.3,
+  "atl": 0.051632,
+  "atl_change_percentage": 13.3,
+  "price_change_percentage_24h": -0.69,
+  "price_change_percentage_7d": -0.29,
+  "price_change_percentage_30d": 3.98,
+  "circulating_supply": 31774270433.0,
+  "total_supply": 100000000000.0,
+  "max_supply": 100000000000.0
+}

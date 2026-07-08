@@ -1,0 +1,21 @@
+{
+  "id": "monero",
+  "symbol": "XMR",
+  "name": "Monero",
+  "market_cap_rank": 19,
+  "market_cap": 6207689329,
+  "current_price": 330.59,
+  "total_volume": 107305865,
+  "high_24h": 336.35,
+  "low_24h": 324.71,
+  "ath": 797.73,
+  "ath_change_percentage": -58.6,
+  "atl": 0.216177,
+  "atl_change_percentage": 152824.9,
+  "price_change_percentage_24h": 1.35,
+  "price_change_percentage_7d": 6.66,
+  "price_change_percentage_30d": 8.31,
+  "circulating_supply": 18775048.09768851,
+  "total_supply": 18775048.09768851,
+  "max_supply": null
+}

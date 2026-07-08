@@ -1,0 +1,21 @@
+{
+  "id": "shiba-inu",
+  "symbol": "SHIB",
+  "name": "Shiba Inu",
+  "market_cap_rank": 35,
+  "market_cap": 2536168307,
+  "current_price": 4.3e-06,
+  "total_volume": 63906006,
+  "high_24h": 4.49e-06,
+  "low_24h": 4.3e-06,
+  "ath": 8.616e-05,
+  "ath_change_percentage": -95.0,
+  "atl": 5.6366e-11,
+  "atl_change_percentage": 7632896.7,
+  "price_change_percentage_24h": -0.61,
+  "price_change_percentage_7d": 1.73,
+  "price_change_percentage_30d": -8.44,
+  "circulating_supply": 589243094584062.9,
+  "total_supply": 589499774302172.2,
+  "max_supply": null
+}

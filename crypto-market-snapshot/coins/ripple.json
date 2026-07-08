@@ -1,0 +1,21 @@
+{
+  "id": "ripple",
+  "symbol": "XRP",
+  "name": "XRP",
+  "market_cap_rank": 6,
+  "market_cap": 68522079089,
+  "current_price": 1.097,
+  "total_volume": 1435747544,
+  "high_24h": 1.13,
+  "low_24h": 1.093,
+  "ath": 3.65,
+  "ath_change_percentage": -69.9,
+  "atl": 0.00268621,
+  "atl_change_percentage": 40726.9,
+  "price_change_percentage_24h": -2.7,
+  "price_change_percentage_7d": 5.02,
+  "price_change_percentage_30d": -5.04,
+  "circulating_supply": 62466503703.0,
+  "total_supply": 99985639695.0,
+  "max_supply": 100000000000.0
+}

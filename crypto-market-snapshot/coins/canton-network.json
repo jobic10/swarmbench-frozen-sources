@@ -1,0 +1,21 @@
+{
+  "id": "canton-network",
+  "symbol": "CC",
+  "name": "Canton",
+  "market_cap_rank": 21,
+  "market_cap": 5047794802,
+  "current_price": 0.129361,
+  "total_volume": 11089133,
+  "high_24h": 0.137488,
+  "low_24h": 0.129336,
+  "ath": 0.194152,
+  "ath_change_percentage": -33.4,
+  "atl": 0.059024,
+  "atl_change_percentage": 119.2,
+  "price_change_percentage_24h": -5.91,
+  "price_change_percentage_7d": -10.18,
+  "price_change_percentage_30d": -21.37,
+  "circulating_supply": 39019585797.00302,
+  "total_supply": 39019585797.00302,
+  "max_supply": null
+}

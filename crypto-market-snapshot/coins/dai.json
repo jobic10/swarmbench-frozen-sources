@@ -1,0 +1,21 @@
+{
+  "id": "dai",
+  "symbol": "DAI",
+  "name": "Dai",
+  "market_cap_rank": 23,
+  "market_cap": 4631009810,
+  "current_price": 0.999669,
+  "total_volume": 210376697,
+  "high_24h": 1.0,
+  "low_24h": 0.999521,
+  "ath": 1.22,
+  "ath_change_percentage": -18.0,
+  "atl": 0.88196,
+  "atl_change_percentage": 13.4,
+  "price_change_percentage_24h": -0.03,
+  "price_change_percentage_7d": 0.0,
+  "price_change_percentage_30d": -0.01,
+  "circulating_supply": 4632484946.574479,
+  "total_supply": 4632484946.574479,
+  "max_supply": null
+}

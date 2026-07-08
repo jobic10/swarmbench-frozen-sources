@@ -1,0 +1,21 @@
+{
+  "id": "memecore",
+  "symbol": "M",
+  "name": "MemeCore",
+  "market_cap_rank": 44,
+  "market_cap": 1843067699,
+  "current_price": 1.39,
+  "total_volume": 15313223,
+  "high_24h": 1.56,
+  "low_24h": 1.23,
+  "ath": 4.82,
+  "ath_change_percentage": -71.1,
+  "atl": 0.04746135,
+  "atl_change_percentage": 2831.7,
+  "price_change_percentage_24h": 10.37,
+  "price_change_percentage_7d": 76.83,
+  "price_change_percentage_30d": -54.29,
+  "circulating_supply": 1321446756.776461,
+  "total_supply": 5388763529.283686,
+  "max_supply": 10000000000.0
+}

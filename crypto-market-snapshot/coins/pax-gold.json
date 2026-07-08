@@ -1,0 +1,21 @@
+{
+  "id": "pax-gold",
+  "symbol": "PAXG",
+  "name": "PAX Gold",
+  "market_cap_rank": 42,
+  "market_cap": 1862848973,
+  "current_price": 4119.98,
+  "total_volume": 134754729,
+  "high_24h": 4167.0,
+  "low_24h": 4091.67,
+  "ath": 5619.09,
+  "ath_change_percentage": -26.7,
+  "atl": 1399.64,
+  "atl_change_percentage": 194.4,
+  "price_change_percentage_24h": -0.02,
+  "price_change_percentage_7d": 3.62,
+  "price_change_percentage_30d": -4.54,
+  "circulating_supply": 452150.218713,
+  "total_supply": 452150.218713,
+  "max_supply": null
+}

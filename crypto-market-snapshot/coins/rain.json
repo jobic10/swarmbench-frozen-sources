@@ -1,0 +1,21 @@
+{
+  "id": "rain",
+  "symbol": "RAIN",
+  "name": "Rain",
+  "market_cap_rank": 13,
+  "market_cap": 9812850268,
+  "current_price": 0.01482493,
+  "total_volume": 34960794,
+  "high_24h": 0.01507867,
+  "low_24h": 0.01482196,
+  "ath": 0.01614328,
+  "ath_change_percentage": -8.0,
+  "atl": 0.00222126,
+  "atl_change_percentage": 569.0,
+  "price_change_percentage_24h": -1.47,
+  "price_change_percentage_7d": -6.16,
+  "price_change_percentage_30d": 10.49,
+  "circulating_supply": 661835737257.7246,
+  "total_supply": 1149842236285.365,
+  "max_supply": 1150000000000.0
+}

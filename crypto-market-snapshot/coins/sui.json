@@ -1,0 +1,21 @@
+{
+  "id": "sui",
+  "symbol": "SUI",
+  "name": "Sui",
+  "market_cap_rank": 31,
+  "market_cap": 2902208931,
+  "current_price": 0.716033,
+  "total_volume": 217874013,
+  "high_24h": 0.748429,
+  "low_24h": 0.711982,
+  "ath": 5.35,
+  "ath_change_percentage": -86.6,
+  "atl": 0.364846,
+  "atl_change_percentage": 96.3,
+  "price_change_percentage_24h": -2.46,
+  "price_change_percentage_7d": 2.16,
+  "price_change_percentage_30d": -4.92,
+  "circulating_supply": 4052334085.342099,
+  "total_supply": 10000000000.0,
+  "max_supply": 10000000000.0
+}

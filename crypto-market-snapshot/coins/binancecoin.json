@@ -1,0 +1,21 @@
+{
+  "id": "binancecoin",
+  "symbol": "BNB",
+  "name": "BNB",
+  "market_cap_rank": 4,
+  "market_cap": 76779494504,
+  "current_price": 569.6,
+  "total_volume": 584518596,
+  "high_24h": 585.75,
+  "low_24h": 568.41,
+  "ath": 1369.99,
+  "ath_change_percentage": -58.4,
+  "atl": 0.0398177,
+  "atl_change_percentage": 1430430.9,
+  "price_change_percentage_24h": -1.53,
+  "price_change_percentage_7d": 3.74,
+  "price_change_percentage_30d": -5.33,
+  "circulating_supply": 134782300.3299999,
+  "total_supply": 134782300.3299999,
+  "max_supply": 200000000.0
+}

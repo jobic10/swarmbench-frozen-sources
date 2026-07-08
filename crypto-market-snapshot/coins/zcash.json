@@ -1,0 +1,21 @@
+{
+  "id": "zcash",
+  "symbol": "ZEC",
+  "name": "Zcash",
+  "market_cap_rank": 15,
+  "market_cap": 8075304219,
+  "current_price": 481.05,
+  "total_volume": 571452010,
+  "high_24h": 509.05,
+  "low_24h": 444.51,
+  "ath": 3191.93,
+  "ath_change_percentage": -84.9,
+  "atl": 16.08,
+  "atl_change_percentage": 2891.6,
+  "price_change_percentage_24h": 7.24,
+  "price_change_percentage_7d": 20.36,
+  "price_change_percentage_30d": 11.63,
+  "circulating_supply": 16791065.7905448,
+  "total_supply": 16792623.6030448,
+  "max_supply": 21000000.0
+}

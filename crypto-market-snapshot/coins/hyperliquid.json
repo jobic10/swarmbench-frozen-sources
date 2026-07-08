@@ -1,0 +1,21 @@
+{
+  "id": "hyperliquid",
+  "symbol": "HYPE",
+  "name": "Hyperliquid",
+  "market_cap_rank": 10,
+  "market_cap": 15141604840,
+  "current_price": 68.07,
+  "total_volume": 568038644,
+  "high_24h": 72.52,
+  "low_24h": 67.52,
+  "ath": 76.7,
+  "ath_change_percentage": -11.3,
+  "atl": 3.81,
+  "atl_change_percentage": 1687.2,
+  "price_change_percentage_24h": -3.02,
+  "price_change_percentage_7d": 5.73,
+  "price_change_percentage_30d": 10.6,
+  "circulating_supply": 222445714.0741414,
+  "total_supply": 955307079.4341414,
+  "max_supply": 1000000000.0
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hedera-hashgraph",
+  "symbol": "HBAR",
+  "name": "Hedera",
+  "market_cap_rank": 30,
+  "market_cap": 3081500146,
+  "current_price": 0.07037,
+  "total_volume": 59899436,
+  "high_24h": 0.072698,
+  "low_24h": 0.070086,
+  "ath": 0.569229,
+  "ath_change_percentage": -87.6,
+  "atl": 0.00986111,
+  "atl_change_percentage": 615.7,
+  "price_change_percentage_24h": -2.5,
+  "price_change_percentage_7d": 0.49,
+  "price_change_percentage_30d": -14.3,
+  "circulating_supply": 43789905604.02199,
+  "total_supply": 50000000000.0,
+  "max_supply": 50000000000.0
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ethena-usde",
+  "symbol": "USDE",
+  "name": "Ethena USDe",
+  "market_cap_rank": 25,
+  "market_cap": 4405375786,
+  "current_price": 0.998643,
+  "total_volume": 51849669,
+  "high_24h": 0.998843,
+  "low_24h": 0.998351,
+  "ath": 1.034,
+  "ath_change_percentage": -3.4,
+  "atl": 0.929486,
+  "atl_change_percentage": 7.4,
+  "price_change_percentage_24h": -0.01,
+  "price_change_percentage_7d": 0.07,
+  "price_change_percentage_30d": -0.08,
+  "circulating_supply": 4411362717.13463,
+  "total_supply": 4411362717.13463,
+  "max_supply": null
+}

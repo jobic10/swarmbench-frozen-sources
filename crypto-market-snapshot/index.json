@@ -1,0 +1,232 @@
+{
+  "snapshot": "CoinGecko markets (usd)",
+  "coins": {
+    "bitcoin": {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "rank": 1
+    },
+    "ethereum": {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "rank": 2
+    },
+    "tether": {
+      "symbol": "USDT",
+      "name": "Tether",
+      "rank": 3
+    },
+    "binancecoin": {
+      "symbol": "BNB",
+      "name": "BNB",
+      "rank": 4
+    },
+    "usd-coin": {
+      "symbol": "USDC",
+      "name": "USDC",
+      "rank": 5
+    },
+    "ripple": {
+      "symbol": "XRP",
+      "name": "XRP",
+      "rank": 6
+    },
+    "solana": {
+      "symbol": "SOL",
+      "name": "Solana",
+      "rank": 7
+    },
+    "tron": {
+      "symbol": "TRX",
+      "name": "TRON",
+      "rank": 8
+    },
+    "figure-heloc": {
+      "symbol": "FIGR_HELOC",
+      "name": "Figure Heloc",
+      "rank": 9
+    },
+    "hyperliquid": {
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "rank": 10
+    },
+    "dogecoin": {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "rank": 11
+    },
+    "usds": {
+      "symbol": "USDS",
+      "name": "USDS",
+      "rank": 12
+    },
+    "rain": {
+      "symbol": "RAIN",
+      "name": "Rain",
+      "rank": 13
+    },
+    "leo-token": {
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "rank": 14
+    },
+    "zcash": {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "rank": 15
+    },
+    "whitebit": {
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
+      "rank": 16
+    },
+    "cardano": {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "rank": 17
+    },
+    "stellar": {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "rank": 18
+    },
+    "monero": {
+      "symbol": "XMR",
+      "name": "Monero",
+      "rank": 19
+    },
+    "chainlink": {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "rank": 20
+    },
+    "canton-network": {
+      "symbol": "CC",
+      "name": "Canton",
+      "rank": 21
+    },
+    "bitcoin-cash": {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "rank": 22
+    },
+    "dai": {
+      "symbol": "DAI",
+      "name": "Dai",
+      "rank": 23
+    },
+    "usd1-wlfi": {
+      "symbol": "USD1",
+      "name": "USD1",
+      "rank": 24
+    },
+    "ethena-usde": {
+      "symbol": "USDE",
+      "name": "Ethena USDe",
+      "rank": 25
+    },
+    "the-open-network": {
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
+      "rank": 26
+    },
+    "litecoin": {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "rank": 27
+    },
+    "global-dollar": {
+      "symbol": "USDG",
+      "name": "Global Dollar",
+      "rank": 28
+    },
+    "hashnote-usyc": {
+      "symbol": "USYC",
+      "name": "Circle USYC",
+      "rank": 29
+    },
+    "hedera-hashgraph": {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "rank": 30
+    },
+    "sui": {
+      "symbol": "SUI",
+      "name": "Sui",
+      "rank": 31
+    },
+    "paypal-usd": {
+      "symbol": "PYUSD",
+      "name": "PayPal USD",
+      "rank": 32
+    },
+    "avalanche-2": {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "rank": 33
+    },
+    "crypto-com-chain": {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "rank": 34
+    },
+    "shiba-inu": {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "rank": 35
+    },
+    "tether-gold": {
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "rank": 36
+    },
+    "near": {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "rank": 37
+    },
+    "blackrock-usd-institutional-digital-liquidity-fund": {
+      "symbol": "BUIDL",
+      "name": "BlackRock USD Institutional Digital Liquidity Fund",
+      "rank": 38
+    },
+    "ondo-us-dollar-yield": {
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "rank": 39
+    },
+    "bittensor": {
+      "symbol": "TAO",
+      "name": "Bittensor",
+      "rank": 40
+    },
+    "uniswap": {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "rank": 41
+    },
+    "pax-gold": {
+      "symbol": "PAXG",
+      "name": "PAX Gold",
+      "rank": 42
+    },
+    "world-liberty-financial": {
+      "symbol": "WLFI",
+      "name": "World Liberty Financial",
+      "rank": 43
+    },
+    "memecore": {
+      "symbol": "M",
+      "name": "MemeCore",
+      "rank": 44
+    },
+    "htx-dao": {
+      "symbol": "HTX",
+      "name": "HTX DAO",
+      "rank": 45
+    }
+  },
+  "coin_url_pattern": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/crypto-market-snapshot/coins/<id>.json",
+  "coin_count": 45
+}

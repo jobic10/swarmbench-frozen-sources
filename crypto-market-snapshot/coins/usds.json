@@ -1,0 +1,21 @@
+{
+  "id": "usds",
+  "symbol": "USDS",
+  "name": "USDS",
+  "market_cap_rank": 12,
+  "market_cap": 11001651149,
+  "current_price": 0.99975,
+  "total_volume": 5007644,
+  "high_24h": 0.999869,
+  "low_24h": 0.999599,
+  "ath": 1.15,
+  "ath_change_percentage": -13.2,
+  "atl": 0.948265,
+  "atl_change_percentage": 5.4,
+  "price_change_percentage_24h": -0.0,
+  "price_change_percentage_7d": 0.03,
+  "price_change_percentage_30d": 0.01,
+  "circulating_supply": 11004398822.74091,
+  "total_supply": 11002343632.24391,
+  "max_supply": null
+}

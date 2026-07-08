@@ -1,0 +1,21 @@
+{
+  "id": "the-open-network",
+  "symbol": "GRAM",
+  "name": "Gram (prev. Toncoin)",
+  "market_cap_rank": 26,
+  "market_cap": 4331253247,
+  "current_price": 1.59,
+  "total_volume": 182821152,
+  "high_24h": 1.72,
+  "low_24h": 1.57,
+  "ath": 8.25,
+  "ath_change_percentage": -80.6,
+  "atl": 0.519364,
+  "atl_change_percentage": 207.6,
+  "price_change_percentage_24h": -7.37,
+  "price_change_percentage_7d": 4.96,
+  "price_change_percentage_30d": -6.0,
+  "circulating_supply": 2717751738.535094,
+  "total_supply": 5210464273.088562,
+  "max_supply": null
+}

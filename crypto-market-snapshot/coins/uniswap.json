@@ -1,0 +1,21 @@
+{
+  "id": "uniswap",
+  "symbol": "UNI",
+  "name": "Uniswap",
+  "market_cap_rank": 41,
+  "market_cap": 1992804657,
+  "current_price": 3.21,
+  "total_volume": 168087038,
+  "high_24h": 3.3,
+  "low_24h": 3.11,
+  "ath": 44.92,
+  "ath_change_percentage": -92.8,
+  "atl": 1.03,
+  "atl_change_percentage": 212.8,
+  "price_change_percentage_24h": 2.55,
+  "price_change_percentage_7d": 14.75,
+  "price_change_percentage_30d": 25.26,
+  "circulating_supply": 621019561.5538775,
+  "total_supply": 893154420.0329479,
+  "max_supply": 1000000000.0
+}

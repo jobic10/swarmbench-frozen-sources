@@ -1,0 +1,21 @@
+{
+  "id": "blackrock-usd-institutional-digital-liquidity-fund",
+  "symbol": "BUIDL",
+  "name": "BlackRock USD Institutional Digital Liquidity Fund",
+  "market_cap_rank": 38,
+  "market_cap": 2247966167,
+  "current_price": 1.0,
+  "total_volume": 0.0,
+  "high_24h": 1.0,
+  "low_24h": 1.0,
+  "ath": 1.0,
+  "ath_change_percentage": 0.0,
+  "atl": 1.0,
+  "atl_change_percentage": 0.0,
+  "price_change_percentage_24h": 0.0,
+  "price_change_percentage_7d": 0.0,
+  "price_change_percentage_30d": 0.0,
+  "circulating_supply": 2247966167.300449,
+  "total_supply": 2247966167.300449,
+  "max_supply": null
+}

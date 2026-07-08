@@ -1,0 +1,21 @@
+{
+  "id": "leo-token",
+  "symbol": "LEO",
+  "name": "LEO Token",
+  "market_cap_rank": 14,
+  "market_cap": 8656954161,
+  "current_price": 9.41,
+  "total_volume": 326234,
+  "high_24h": 9.44,
+  "low_24h": 9.31,
+  "ath": 10.57,
+  "ath_change_percentage": -11.0,
+  "atl": 0.799859,
+  "atl_change_percentage": 1076.2,
+  "price_change_percentage_24h": 0.13,
+  "price_change_percentage_7d": 1.67,
+  "price_change_percentage_30d": -2.63,
+  "circulating_supply": 920252666.9,
+  "total_supply": 985239504.0,
+  "max_supply": null
+}
