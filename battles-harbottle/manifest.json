@@ -1,0 +1,6808 @@
+{
+ "documents": [
+  {
+   "n": 1,
+   "name": "Abensberg (Campaign of Wagram.)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 82
+  },
+  {
+   "n": 2,
+   "name": "Aboukir (British Invasion of Egypt)",
+   "year": 1801,
+   "era": "revolutionary",
+   "word_count": 62
+  },
+  {
+   "n": 3,
+   "name": "Abu Hamed (Soudan Campaigns)",
+   "year": 1897,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 4,
+   "name": "Abu Klea (Soudan Campaigns)",
+   "year": 1885,
+   "era": "modern",
+   "word_count": 87
+  },
+  {
+   "n": 5,
+   "name": "Abu Kru (Soudan Campaigns)",
+   "year": 1885,
+   "era": "modern",
+   "word_count": 65
+  },
+  {
+   "n": 6,
+   "name": "Acragas (Second Carthaginian Invasion of Sicily)",
+   "year": -406,
+   "era": "ancient",
+   "word_count": 106
+  },
+  {
+   "n": 7,
+   "name": "Acre (Third Crusade)",
+   "year": 1189,
+   "era": "medieval",
+   "word_count": 58
+  },
+  {
+   "n": 8,
+   "name": "Acre (French Invasion of Egypt)",
+   "year": 1799,
+   "era": "revolutionary",
+   "word_count": 123
+  },
+  {
+   "n": 9,
+   "name": "Acs (Hungarian Rising)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 51
+  },
+  {
+   "n": 10,
+   "name": "Actium (Mark Antony’s Second Rebellion)",
+   "year": -31,
+   "era": "ancient",
+   "word_count": 102
+  },
+  {
+   "n": 11,
+   "name": "Adnatuca (Gallic Wars)",
+   "year": -53,
+   "era": "ancient",
+   "word_count": 62
+  },
+  {
+   "n": 12,
+   "name": "Adrianople (Bulgarian Rising)",
+   "year": 1205,
+   "era": "medieval",
+   "word_count": 63
+  },
+  {
+   "n": 13,
+   "name": "Adwalton Moor (Civil War)",
+   "year": -458,
+   "era": "ancient",
+   "word_count": 272
+  },
+  {
+   "n": 14,
+   "name": "Aghrim (Wars of the Revolution)",
+   "year": 1691,
+   "era": "earlymodern",
+   "word_count": 75
+  },
+  {
+   "n": 15,
+   "name": "Agincourt (Hundred Years’ War)",
+   "year": 1415,
+   "era": "medieval",
+   "word_count": 91
+  },
+  {
+   "n": 16,
+   "name": "Agnadello (War of the League of Cambrai)",
+   "year": 1509,
+   "era": "earlymodern",
+   "word_count": 57
+  },
+  {
+   "n": 17,
+   "name": "Agra (Second Mahratta War)",
+   "year": 1803,
+   "era": "revolutionary",
+   "word_count": 78
+  },
+  {
+   "n": 18,
+   "name": "Agra (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 109
+  },
+  {
+   "n": 19,
+   "name": "Ahmednugger (Mogul Invasion of the Deccan)",
+   "year": 1599,
+   "era": "earlymodern",
+   "word_count": 73
+  },
+  {
+   "n": 20,
+   "name": "Aiguillon (Hundred Years’ War)",
+   "year": 1347,
+   "era": "medieval",
+   "word_count": 62
+  },
+  {
+   "n": 21,
+   "name": "Aix, Ile d’ (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 22,
+   "name": "Alamo, Storming of the (Texan Rising)",
+   "year": 1836,
+   "era": "modern",
+   "word_count": 123
+  },
+  {
+   "n": 23,
+   "name": "Aland (Russo-Swedish Wars)",
+   "year": 1714,
+   "era": "revolutionary",
+   "word_count": 77
+  },
+  {
+   "n": 24,
+   "name": "Albuera (Peninsular War)",
+   "year": 1811,
+   "era": "revolutionary",
+   "word_count": 100
+  },
+  {
+   "n": 25,
+   "name": "Aleppo (Tartar Invasion of Syria)",
+   "year": 1400,
+   "era": "medieval",
+   "word_count": 63
+  },
+  {
+   "n": 26,
+   "name": "Alesia (Gallic War)",
+   "year": -52,
+   "era": "ancient",
+   "word_count": 93
+  },
+  {
+   "n": 27,
+   "name": "Alexandria (British Invasion of Egypt)",
+   "year": 1801,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 28,
+   "name": "Alford (Civil War)",
+   "year": 1645,
+   "era": "earlymodern",
+   "word_count": 51
+  },
+  {
+   "n": 29,
+   "name": "Algeciras Bay (Napoleonic Wars)",
+   "year": 1801,
+   "era": "revolutionary",
+   "word_count": 129
+  },
+  {
+   "n": 30,
+   "name": "Algiers",
+   "year": 1775,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 31,
+   "name": "Algiers, Bombardment of",
+   "year": 1816,
+   "era": "modern",
+   "word_count": 85
+  },
+  {
+   "n": 32,
+   "name": "Alhama (War of Granada)",
+   "year": 1482,
+   "era": "medieval",
+   "word_count": 125
+  },
+  {
+   "n": 33,
+   "name": "Alhandega (Moorish Empire in Spain)",
+   "year": 939,
+   "era": "medieval",
+   "word_count": 61
+  },
+  {
+   "n": 34,
+   "name": "Alicante (War of the Spanish Succession)",
+   "year": 1706,
+   "era": "revolutionary",
+   "word_count": 56
+  },
+  {
+   "n": 35,
+   "name": "Aligurh (First Mahratta War)",
+   "year": 1803,
+   "era": "revolutionary",
+   "word_count": 85
+  },
+  {
+   "n": 36,
+   "name": "Aliwal (First Sikh War)",
+   "year": 1846,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 37,
+   "name": "Aljubarotta",
+   "year": 1385,
+   "era": "medieval",
+   "word_count": 53
+  },
+  {
+   "n": 38,
+   "name": "Alkmaar (Netherlands War of Independence)",
+   "year": 1573,
+   "era": "earlymodern",
+   "word_count": 79
+  },
+  {
+   "n": 39,
+   "name": "Alkmaar (Wars of the French Revolution)",
+   "year": 1799,
+   "era": "revolutionary",
+   "word_count": 78
+  },
+  {
+   "n": 40,
+   "name": "Allia, The (First Invasion of the Gauls)",
+   "year": 389,
+   "era": "ancient",
+   "word_count": 70
+  },
+  {
+   "n": 41,
+   "name": "Alma (Crimean War)",
+   "year": 1854,
+   "era": "modern",
+   "word_count": 96
+  },
+  {
+   "n": 42,
+   "name": "Almanza (War of the Spanish Succession)",
+   "year": 1707,
+   "era": "revolutionary",
+   "word_count": 77
+  },
+  {
+   "n": 43,
+   "name": "Alresford (Civil War)",
+   "year": 1644,
+   "era": "earlymodern",
+   "word_count": 50
+  },
+  {
+   "n": 44,
+   "name": "Alsen (Schleswig-Holstein War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 45,
+   "name": "Altendorf (Thirty Years’ War)",
+   "year": 1632,
+   "era": "earlymodern",
+   "word_count": 75
+  },
+  {
+   "n": 46,
+   "name": "Ambur",
+   "year": 1749,
+   "era": "revolutionary",
+   "word_count": 53
+  },
+  {
+   "n": 47,
+   "name": "Ambur",
+   "year": 1767,
+   "era": "revolutionary",
+   "word_count": 83
+  },
+  {
+   "n": 48,
+   "name": "Amida (Persian Wars)",
+   "year": 359,
+   "era": "ancient",
+   "word_count": 123
+  },
+  {
+   "n": 49,
+   "name": "Amorium (Moslem Invasion of Asia Minor)",
+   "year": 838,
+   "era": "medieval",
+   "word_count": 79
+  },
+  {
+   "n": 50,
+   "name": "Amphipolis (Peloponnesian War)",
+   "year": 422,
+   "era": "ancient",
+   "word_count": 88
+  },
+  {
+   "n": 51,
+   "name": "Ancona (Unification of Italy)",
+   "year": 1860,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 52,
+   "name": "Angora (Tartar Invasion of Asia Minor)",
+   "year": 1402,
+   "era": "medieval",
+   "word_count": 57
+  },
+  {
+   "n": 53,
+   "name": "Angostura (Paraguayan War)",
+   "year": 1868,
+   "era": "modern",
+   "word_count": 55
+  },
+  {
+   "n": 54,
+   "name": "Antietam (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 88
+  },
+  {
+   "n": 55,
+   "name": "Antioch (First Crusade)",
+   "year": 1097,
+   "era": "medieval",
+   "word_count": 113
+  },
+  {
+   "n": 56,
+   "name": "Antwerp (Netherlands War of Independence)",
+   "year": 1576,
+   "era": "earlymodern",
+   "word_count": 61
+  },
+  {
+   "n": 57,
+   "name": "Aquidaban (Paraguayan War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 92
+  },
+  {
+   "n": 58,
+   "name": "Aquileia (Eugenius’ Usurpation)",
+   "year": 394,
+   "era": "ancient",
+   "word_count": 93
+  },
+  {
+   "n": 59,
+   "name": "Aras (First Mahratta War)",
+   "year": 1775,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 60,
+   "name": "Arbela (Alexander’s Asiatic Campaign)",
+   "year": 331,
+   "era": "ancient",
+   "word_count": 101
+  },
+  {
+   "n": 61,
+   "name": "Arcola (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 114
+  },
+  {
+   "n": 62,
+   "name": "Arcot",
+   "year": 1751,
+   "era": "revolutionary",
+   "word_count": 108
+  },
+  {
+   "n": 63,
+   "name": "Argaum (Second Mahratta War)",
+   "year": 1803,
+   "era": "revolutionary",
+   "word_count": 85
+  },
+  {
+   "n": 64,
+   "name": "Argentoratum",
+   "year": 357,
+   "era": "ancient",
+   "word_count": 87
+  },
+  {
+   "n": 65,
+   "name": "Arginusæ (Peloponnesian War)",
+   "year": -406,
+   "era": "ancient",
+   "word_count": 84
+  },
+  {
+   "n": 66,
+   "name": "Arikera (Second Mysore War)",
+   "year": 1791,
+   "era": "revolutionary",
+   "word_count": 91
+  },
+  {
+   "n": 67,
+   "name": "Arnee",
+   "year": 1751,
+   "era": "revolutionary",
+   "word_count": 78
+  },
+  {
+   "n": 68,
+   "name": "Arques (Eighth Civil War)",
+   "year": 1589,
+   "era": "earlymodern",
+   "word_count": 79
+  },
+  {
+   "n": 69,
+   "name": "Arras (Wars of Louis XIV)",
+   "year": 1654,
+   "era": "earlymodern",
+   "word_count": 56
+  },
+  {
+   "n": 70,
+   "name": "Arsouf (Third Crusade)",
+   "year": 1192,
+   "era": "medieval",
+   "word_count": 56
+  },
+  {
+   "n": 71,
+   "name": "Asculum (Pyrrhus’ Invasion of Italy)",
+   "year": -279,
+   "era": "ancient",
+   "word_count": 58
+  },
+  {
+   "n": 72,
+   "name": "Ashdown (Danish Invasion)",
+   "year": 871,
+   "era": "medieval",
+   "word_count": 57
+  },
+  {
+   "n": 73,
+   "name": "Asirghur (Third Mahratta War)",
+   "year": 1819,
+   "era": "modern",
+   "word_count": 65
+  },
+  {
+   "n": 74,
+   "name": "Askultsik (Ottoman Wars)",
+   "year": 1828,
+   "era": "modern",
+   "word_count": 55
+  },
+  {
+   "n": 75,
+   "name": "Aspern (Campaign of Wagram)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 125
+  },
+  {
+   "n": 76,
+   "name": "Assandun (Danish Invasion)",
+   "year": 1016,
+   "era": "medieval",
+   "word_count": 53
+  },
+  {
+   "n": 77,
+   "name": "Assaye (First Mahratta War)",
+   "year": 1803,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 78,
+   "name": "Astrakhan",
+   "year": 1569,
+   "era": "earlymodern",
+   "word_count": 62
+  },
+  {
+   "n": 79,
+   "name": "Atahualpa (Conquest of Peru)",
+   "year": 1531,
+   "era": "earlymodern",
+   "word_count": 51
+  },
+  {
+   "n": 80,
+   "name": "Atbara (Soudan Campaigns)",
+   "year": 1898,
+   "era": "modern",
+   "word_count": 71
+  },
+  {
+   "n": 81,
+   "name": "Auray",
+   "year": 1364,
+   "era": "medieval",
+   "word_count": 113
+  },
+  {
+   "n": 82,
+   "name": "Austerlitz (Campaign of the Danube)",
+   "year": 1805,
+   "era": "revolutionary",
+   "word_count": 115
+  },
+  {
+   "n": 83,
+   "name": "Avaricum (Gallic War)",
+   "year": -53,
+   "era": "ancient",
+   "word_count": 61
+  },
+  {
+   "n": 84,
+   "name": "Axarquia (War of Granada)",
+   "year": 1483,
+   "era": "medieval",
+   "word_count": 68
+  },
+  {
+   "n": 85,
+   "name": "Ayacucho (South American War of Independence)",
+   "year": 1824,
+   "era": "modern",
+   "word_count": 67
+  },
+  {
+   "n": 86,
+   "name": "Badajos (Peninsular War)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 80
+  },
+  {
+   "n": 87,
+   "name": "Bagradas (Civil War of Cæsar and Pompey)",
+   "year": -49,
+   "era": "ancient",
+   "word_count": 62
+  },
+  {
+   "n": 88,
+   "name": "Bahur (Seven Years’ War)",
+   "year": 1752,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 89,
+   "name": "Balaclava (Crimean War)",
+   "year": 1854,
+   "era": "modern",
+   "word_count": 163
+  },
+  {
+   "n": 90,
+   "name": "Balls Bluff (American Civil War)",
+   "year": 1861,
+   "era": "modern",
+   "word_count": 61
+  },
+  {
+   "n": 91,
+   "name": "Baltimore (Second American War)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 69
+  },
+  {
+   "n": 92,
+   "name": "Bamian (Tartar Invasion of Kharismia)",
+   "year": 1221,
+   "era": "medieval",
+   "word_count": 59
+  },
+  {
+   "n": 93,
+   "name": "Bannockburn (Scottish Wars)",
+   "year": 1314,
+   "era": "medieval",
+   "word_count": 52
+  },
+  {
+   "n": 94,
+   "name": "Bapaume (Franco-German War)",
+   "year": 1871,
+   "era": "modern",
+   "word_count": 74
+  },
+  {
+   "n": 95,
+   "name": "Barnet (Wars of the Roses)",
+   "year": 1471,
+   "era": "medieval",
+   "word_count": 89
+  },
+  {
+   "n": 96,
+   "name": "Barosa (Peninsular War)",
+   "year": 1811,
+   "era": "revolutionary",
+   "word_count": 72
+  },
+  {
+   "n": 97,
+   "name": "Bassano (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 87
+  },
+  {
+   "n": 98,
+   "name": "Bassein (First Mahratta War)",
+   "year": 1780,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 99,
+   "name": "Bassorah (Arab Revolt)",
+   "year": 665,
+   "era": "medieval",
+   "word_count": 86
+  },
+  {
+   "n": 100,
+   "name": "Batavia (Napoleonic Wars)",
+   "year": 1811,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 101,
+   "name": "Bautzen (Campaign of Leipzic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 119
+  },
+  {
+   "n": 102,
+   "name": "Bavay (Gallic War)",
+   "year": -57,
+   "era": "ancient",
+   "word_count": 61
+  },
+  {
+   "n": 103,
+   "name": "Baza (War of Granada)",
+   "year": 1489,
+   "era": "medieval",
+   "word_count": 52
+  },
+  {
+   "n": 104,
+   "name": "Beachy Head (War of the Revolution)",
+   "year": 1690,
+   "era": "earlymodern",
+   "word_count": 57
+  },
+  {
+   "n": 105,
+   "name": "Beaugé (Hundred Years’ War)",
+   "year": 1421,
+   "era": "medieval",
+   "word_count": 84
+  },
+  {
+   "n": 106,
+   "name": "Beaumont (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 55
+  },
+  {
+   "n": 107,
+   "name": "Beaune-la-Rolande (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 61
+  },
+  {
+   "n": 108,
+   "name": "Bedr (Mohammed’s War with the Koreish)",
+   "year": 623,
+   "era": "medieval",
+   "word_count": 53
+  },
+  {
+   "n": 109,
+   "name": "Belgrade (Ottoman Wars)",
+   "year": 1456,
+   "era": "medieval",
+   "word_count": 61
+  },
+  {
+   "n": 110,
+   "name": "Belgrade (Ottoman Wars)",
+   "year": 1717,
+   "era": "revolutionary",
+   "word_count": 91
+  },
+  {
+   "n": 111,
+   "name": "Belle Isle (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 112,
+   "name": "Belmont (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 63
+  },
+  {
+   "n": 113,
+   "name": "Benevento (Italian Wars)",
+   "year": 1266,
+   "era": "medieval",
+   "word_count": 50
+  },
+  {
+   "n": 114,
+   "name": "Beneventum (Pyrrhus’ Invasion of Italy)",
+   "year": -275,
+   "era": "ancient",
+   "word_count": 105
+  },
+  {
+   "n": 115,
+   "name": "Bennington (American War of Independence)",
+   "year": 1777,
+   "era": "revolutionary",
+   "word_count": 72
+  },
+  {
+   "n": 116,
+   "name": "Berea (Kaffir Wars)",
+   "year": 1852,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 117,
+   "name": "Bergen-op-Zoom (War of the Austrian Succession)",
+   "year": 1747,
+   "era": "revolutionary",
+   "word_count": 84
+  },
+  {
+   "n": 118,
+   "name": "Bergen-op-Zoom (Wars of the French Revolution)",
+   "year": 1875,
+   "era": "modern",
+   "word_count": 98
+  },
+  {
+   "n": 119,
+   "name": "Bergen-op-Zoom (Wars of the French Revolution)",
+   "year": 1799,
+   "era": "revolutionary",
+   "word_count": 103
+  },
+  {
+   "n": 120,
+   "name": "Béthune (War of the Spanish Succession)",
+   "year": 1707,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 121,
+   "name": "Betwa, The (Indian Mutiny)",
+   "year": 1858,
+   "era": "modern",
+   "word_count": 64
+  },
+  {
+   "n": 122,
+   "name": "Beymaroo (First Afghan War)",
+   "year": 1841,
+   "era": "modern",
+   "word_count": 63
+  },
+  {
+   "n": 123,
+   "name": "Bhurtpur (Second Mahratta War)",
+   "year": 1805,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 124,
+   "name": "Bibracte (Gallic War)",
+   "year": -58,
+   "era": "ancient",
+   "word_count": 66
+  },
+  {
+   "n": 125,
+   "name": "Bilbao (First Carlist War)",
+   "year": 1836,
+   "era": "modern",
+   "word_count": 86
+  },
+  {
+   "n": 126,
+   "name": "Bithur (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 52
+  },
+  {
+   "n": 127,
+   "name": "Bladensburg (Second American War)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 79
+  },
+  {
+   "n": 128,
+   "name": "Blanquefort (Hundred Years’ War)",
+   "year": 1450,
+   "era": "medieval",
+   "word_count": 66
+  },
+  {
+   "n": 129,
+   "name": "Blenheim (War of the Spanish Succession)",
+   "year": 1704,
+   "era": "revolutionary",
+   "word_count": 113
+  },
+  {
+   "n": 130,
+   "name": "Bloore Heath (Wars of the Roses)",
+   "year": 1459,
+   "era": "medieval",
+   "word_count": 56
+  },
+  {
+   "n": 131,
+   "name": "Blueberg (Napoleonic Wars)",
+   "year": 1806,
+   "era": "revolutionary",
+   "word_count": 62
+  },
+  {
+   "n": 132,
+   "name": "Bois-le-Duc (Wars of the French Revolution)",
+   "year": 1794,
+   "era": "revolutionary",
+   "word_count": 71
+  },
+  {
+   "n": 133,
+   "name": "Bokhara (Tartar Invasion of Kharismia)",
+   "year": 1220,
+   "era": "medieval",
+   "word_count": 72
+  },
+  {
+   "n": 134,
+   "name": "Boomplaats",
+   "year": 1848,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 135,
+   "name": "Borodino (Moscow Campaign)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 104
+  },
+  {
+   "n": 136,
+   "name": "Boroughbridge (Rebellion of the Marches)",
+   "year": 1322,
+   "era": "medieval",
+   "word_count": 53
+  },
+  {
+   "n": 137,
+   "name": "Bosra (Moslem Invasion of Syria)",
+   "year": 632,
+   "era": "medieval",
+   "word_count": 75
+  },
+  {
+   "n": 138,
+   "name": "Bosworth Field (Wars of the Roses)",
+   "year": 1485,
+   "era": "medieval",
+   "word_count": 78
+  },
+  {
+   "n": 139,
+   "name": "Bovianum (Second Samnite War)",
+   "year": -307,
+   "era": "ancient",
+   "word_count": 59
+  },
+  {
+   "n": 140,
+   "name": "Boyaca (South American War of Independence)",
+   "year": 1819,
+   "era": "modern",
+   "word_count": 64
+  },
+  {
+   "n": 141,
+   "name": "Boyne, The (War of the Revolution)",
+   "year": 1690,
+   "era": "earlymodern",
+   "word_count": 74
+  },
+  {
+   "n": 142,
+   "name": "Brandywine (American War of Independence)",
+   "year": 1777,
+   "era": "revolutionary",
+   "word_count": 71
+  },
+  {
+   "n": 143,
+   "name": "Breitenfeld, Second Battle (Thirty Years’ War)",
+   "year": 1642,
+   "era": "earlymodern",
+   "word_count": 56
+  },
+  {
+   "n": 144,
+   "name": "Brenneville",
+   "year": 1119,
+   "era": "medieval",
+   "word_count": 52
+  },
+  {
+   "n": 145,
+   "name": "Brescia (Italian Rising)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 85
+  },
+  {
+   "n": 146,
+   "name": "Breslau (Seven Years’ War)",
+   "year": 1757,
+   "era": "revolutionary",
+   "word_count": 76
+  },
+  {
+   "n": 147,
+   "name": "Bridge of Dee (Civil War)",
+   "year": 1639,
+   "era": "earlymodern",
+   "word_count": 66
+  },
+  {
+   "n": 148,
+   "name": "Brienne (Allied Invasion of France)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 149,
+   "name": "Brihuega (War of the Spanish Succession)",
+   "year": 1710,
+   "era": "revolutionary",
+   "word_count": 59
+  },
+  {
+   "n": 150,
+   "name": "Buena Vista (Americo-Mexican War)",
+   "year": 1846,
+   "era": "modern",
+   "word_count": 82
+  },
+  {
+   "n": 151,
+   "name": "Buenos Ayres (Napoleonic Wars)",
+   "year": 1806,
+   "era": "revolutionary",
+   "word_count": 71
+  },
+  {
+   "n": 152,
+   "name": "Buenos Ayres (Napoleonic Wars)",
+   "year": 1807,
+   "era": "revolutionary",
+   "word_count": 52
+  },
+  {
+   "n": 153,
+   "name": "Bull Run (American Civil War)",
+   "year": 1861,
+   "era": "modern",
+   "word_count": 80
+  },
+  {
+   "n": 154,
+   "name": "Bull Run, Second Battle (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 52
+  },
+  {
+   "n": 155,
+   "name": "Burlington Heights (Second American War)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 156,
+   "name": "Busaco (Peninsular War)",
+   "year": 1810,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 157,
+   "name": "Buxar",
+   "year": 1764,
+   "era": "revolutionary",
+   "word_count": 59
+  },
+  {
+   "n": 158,
+   "name": "Buzenval (Franco-German War)",
+   "year": 1871,
+   "era": "modern",
+   "word_count": 98
+  },
+  {
+   "n": 159,
+   "name": "Byzantium",
+   "year": 318,
+   "era": "ancient",
+   "word_count": 56
+  },
+  {
+   "n": 160,
+   "name": "Byzantium (War of the Two Empires)",
+   "year": 323,
+   "era": "ancient",
+   "word_count": 66
+  },
+  {
+   "n": 161,
+   "name": "Cadesia (Moslem Invasion of Persia)",
+   "year": 636,
+   "era": "medieval",
+   "word_count": 71
+  },
+  {
+   "n": 162,
+   "name": "Cairo (Ottoman Wars)",
+   "year": 1517,
+   "era": "earlymodern",
+   "word_count": 51
+  },
+  {
+   "n": 163,
+   "name": "Cajwah",
+   "year": 1659,
+   "era": "earlymodern",
+   "word_count": 52
+  },
+  {
+   "n": 164,
+   "name": "Calafat (Crimean War)",
+   "year": 1854,
+   "era": "modern",
+   "word_count": 62
+  },
+  {
+   "n": 165,
+   "name": "Calais (Hundred Years’ War)",
+   "year": 1346,
+   "era": "medieval",
+   "word_count": 67
+  },
+  {
+   "n": 166,
+   "name": "Calais",
+   "year": 1558,
+   "era": "earlymodern",
+   "word_count": 50
+  },
+  {
+   "n": 167,
+   "name": "Calcutta",
+   "year": 1756,
+   "era": "revolutionary",
+   "word_count": 155
+  },
+  {
+   "n": 168,
+   "name": "Caldiero (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 169,
+   "name": "Caldiero (Napoleon’s Italian Campaigns)",
+   "year": 1800,
+   "era": "revolutionary",
+   "word_count": 106
+  },
+  {
+   "n": 170,
+   "name": "Calicut (Second Mysore War)",
+   "year": 1790,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 171,
+   "name": "Callao (South American War of Independence)",
+   "year": 1820,
+   "era": "modern",
+   "word_count": 71
+  },
+  {
+   "n": 172,
+   "name": "Camden (American War of Independence)",
+   "year": 1780,
+   "era": "revolutionary",
+   "word_count": 78
+  },
+  {
+   "n": 173,
+   "name": "Camerinum (Third Samnite War)",
+   "year": -298,
+   "era": "ancient",
+   "word_count": 65
+  },
+  {
+   "n": 174,
+   "name": "Campaldino (Guelfs and Ghibellines)",
+   "year": 1289,
+   "era": "medieval",
+   "word_count": 50
+  },
+  {
+   "n": 175,
+   "name": "Campo Santo (War of the Austrian Succession)",
+   "year": 1743,
+   "era": "revolutionary",
+   "word_count": 52
+  },
+  {
+   "n": 176,
+   "name": "Camperdown (Wars of the French Revolution)",
+   "year": 1797,
+   "era": "revolutionary",
+   "word_count": 90
+  },
+  {
+   "n": 177,
+   "name": "Candia (Candian War)",
+   "year": 1648,
+   "era": "earlymodern",
+   "word_count": 79
+  },
+  {
+   "n": 178,
+   "name": "Cannæ (Second Punic War)",
+   "year": -216,
+   "era": "ancient",
+   "word_count": 79
+  },
+  {
+   "n": 179,
+   "name": "Cape Bona (Invasion of the Vandals)",
+   "year": 468,
+   "era": "ancient",
+   "word_count": 64
+  },
+  {
+   "n": 180,
+   "name": "Cape Finisterre (Napoleonic Wars)",
+   "year": 1805,
+   "era": "revolutionary",
+   "word_count": 88
+  },
+  {
+   "n": 181,
+   "name": "Cape Passaro (War of the Quadruple Alliance)",
+   "year": 1718,
+   "era": "revolutionary",
+   "word_count": 77
+  },
+  {
+   "n": 182,
+   "name": "Cape St. Vincent (Wars of the French Revolution)",
+   "year": 1797,
+   "era": "revolutionary",
+   "word_count": 79
+  },
+  {
+   "n": 183,
+   "name": "Carbisdale (Civil War)",
+   "year": 1650,
+   "era": "earlymodern",
+   "word_count": 72
+  },
+  {
+   "n": 184,
+   "name": "Carnoul (Persian Invasion of India)",
+   "year": 1739,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 185,
+   "name": "Carrhæ (Parthian War)",
+   "year": -53,
+   "era": "ancient",
+   "word_count": 75
+  },
+  {
+   "n": 186,
+   "name": "Carrical (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 52
+  },
+  {
+   "n": 187,
+   "name": "Carthage (Third Punic War)",
+   "year": -152,
+   "era": "ancient",
+   "word_count": 96
+  },
+  {
+   "n": 188,
+   "name": "Carthage (Invasion of the Vandals)",
+   "year": 533,
+   "era": "medieval",
+   "word_count": 97
+  },
+  {
+   "n": 189,
+   "name": "Cassano (War of the Spanish Succession)",
+   "year": 1705,
+   "era": "revolutionary",
+   "word_count": 55
+  },
+  {
+   "n": 190,
+   "name": "Castelfidardo (Unification of Italy)",
+   "year": 1860,
+   "era": "modern",
+   "word_count": 52
+  },
+  {
+   "n": 191,
+   "name": "Castiglione (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 152
+  },
+  {
+   "n": 192,
+   "name": "Castillon (Hundred Years’ War)",
+   "year": 1453,
+   "era": "medieval",
+   "word_count": 65
+  },
+  {
+   "n": 193,
+   "name": "Catana (Second Carthaginian Invasion of Sicily)",
+   "year": -387,
+   "era": "ancient",
+   "word_count": 59
+  },
+  {
+   "n": 194,
+   "name": "Cedar Creek (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 73
+  },
+  {
+   "n": 195,
+   "name": "Cedar Mountain (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 196,
+   "name": "Chæronea (Amphictyonic War)",
+   "year": -338,
+   "era": "ancient",
+   "word_count": 107
+  },
+  {
+   "n": 197,
+   "name": "Châlons (Revolt of the Legions of Aquitaine)",
+   "year": 271,
+   "era": "ancient",
+   "word_count": 64
+  },
+  {
+   "n": 198,
+   "name": "Châlons (Invasion of the Huns)",
+   "year": 451,
+   "era": "ancient",
+   "word_count": 95
+  },
+  {
+   "n": 199,
+   "name": "Châlons",
+   "year": 1274,
+   "era": "medieval",
+   "word_count": 50
+  },
+  {
+   "n": 200,
+   "name": "Champ-Aubert (Allied Invasion of France)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 169
+  },
+  {
+   "n": 201,
+   "name": "Chancellorsville (American Civil War)",
+   "year": 1863,
+   "era": "modern",
+   "word_count": 147
+  },
+  {
+   "n": 202,
+   "name": "Chanda (Third Mahratta War)",
+   "year": 1818,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 203,
+   "name": "Charenton (War of the Fronde)",
+   "year": 1649,
+   "era": "earlymodern",
+   "word_count": 52
+  },
+  {
+   "n": 204,
+   "name": "Charleston (American Civil War)",
+   "year": 1863,
+   "era": "modern",
+   "word_count": 169
+  },
+  {
+   "n": 205,
+   "name": "Chattanooga (American Civil War)",
+   "year": 1863,
+   "era": "modern",
+   "word_count": 134
+  },
+  {
+   "n": 206,
+   "name": "Che-mul-pho (Russo-Japanese War)",
+   "year": 1904,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 207,
+   "name": "Chetaté (Crimean War)",
+   "year": 1854,
+   "era": "modern",
+   "word_count": 101
+  },
+  {
+   "n": 208,
+   "name": "Chiari (War of the Spanish Succession)",
+   "year": 1701,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 209,
+   "name": "Chickahominy (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 87
+  },
+  {
+   "n": 210,
+   "name": "Chickamauga (American Civil War)",
+   "year": 1863,
+   "era": "modern",
+   "word_count": 108
+  },
+  {
+   "n": 211,
+   "name": "Chillianwallah (Second Sikh War)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 212,
+   "name": "Chios (Social War)",
+   "year": -357,
+   "era": "ancient",
+   "word_count": 69
+  },
+  {
+   "n": 213,
+   "name": "Chios",
+   "year": -201,
+   "era": "ancient",
+   "word_count": 50
+  },
+  {
+   "n": 214,
+   "name": "Chiozza (War of Chiozza)",
+   "year": 1380,
+   "era": "medieval",
+   "word_count": 63
+  },
+  {
+   "n": 215,
+   "name": "Chitor",
+   "year": 1535,
+   "era": "earlymodern",
+   "word_count": 229
+  },
+  {
+   "n": 216,
+   "name": "Chitral (Chitral Campaign)",
+   "year": 1895,
+   "era": "modern",
+   "word_count": 104
+  },
+  {
+   "n": 217,
+   "name": "Chizai (Hundred Years’ War)",
+   "year": 1372,
+   "era": "medieval",
+   "word_count": 59
+  },
+  {
+   "n": 218,
+   "name": "Chong-ju (Russo-Japanese War)",
+   "year": 1904,
+   "era": "modern",
+   "word_count": 51
+  },
+  {
+   "n": 219,
+   "name": "Chotusitz (War of the Austrian Succession)",
+   "year": 1742,
+   "era": "revolutionary",
+   "word_count": 83
+  },
+  {
+   "n": 220,
+   "name": "Chrysopolis (War of the Two Empires)",
+   "year": 323,
+   "era": "ancient",
+   "word_count": 51
+  },
+  {
+   "n": 221,
+   "name": "Chunar",
+   "year": 1538,
+   "era": "earlymodern",
+   "word_count": 64
+  },
+  {
+   "n": 222,
+   "name": "Cibalis (War of the Two Empires)",
+   "year": 315,
+   "era": "ancient",
+   "word_count": 92
+  },
+  {
+   "n": 223,
+   "name": "Ciudad Rodrigo (Peninsular War)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 50
+  },
+  {
+   "n": 224,
+   "name": "Clissau (Swedo-Polish Wars)",
+   "year": 1702,
+   "era": "revolutionary",
+   "word_count": 55
+  },
+  {
+   "n": 225,
+   "name": "Cnidus",
+   "year": -394,
+   "era": "ancient",
+   "word_count": 126
+  },
+  {
+   "n": 226,
+   "name": "Colenso (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 72
+  },
+  {
+   "n": 227,
+   "name": "Colline Gate (Civil War of Marius and Sulla)",
+   "year": -82,
+   "era": "ancient",
+   "word_count": 52
+  },
+  {
+   "n": 228,
+   "name": "Colombey (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 56
+  },
+  {
+   "n": 229,
+   "name": "Concon (Chilian Civil War)",
+   "year": 1891,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 230,
+   "name": "Constantine (Conquest of Algeria)",
+   "year": 1836,
+   "era": "modern",
+   "word_count": 106
+  },
+  {
+   "n": 231,
+   "name": "Constantinople (Moslem Invasion of Europe)",
+   "year": 668,
+   "era": "medieval",
+   "word_count": 165
+  },
+  {
+   "n": 232,
+   "name": "Constantinople (Fourth Crusade)",
+   "year": 1203,
+   "era": "medieval",
+   "word_count": 141
+  },
+  {
+   "n": 233,
+   "name": "Constantinople (Ottoman Invasion of Europe)",
+   "year": 1422,
+   "era": "medieval",
+   "word_count": 135
+  },
+  {
+   "n": 234,
+   "name": "Copenhagen (Napoleonic Wars)",
+   "year": 1801,
+   "era": "revolutionary",
+   "word_count": 136
+  },
+  {
+   "n": 235,
+   "name": "Copenhagen (Napoleonic Wars)",
+   "year": 1807,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 236,
+   "name": "Corinth (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 86
+  },
+  {
+   "n": 237,
+   "name": "Coroneia (Bœotian Wars)",
+   "year": -447,
+   "era": "ancient",
+   "word_count": 58
+  },
+  {
+   "n": 238,
+   "name": "Coroneia (Corinthian War)",
+   "year": -394,
+   "era": "ancient",
+   "word_count": 56
+  },
+  {
+   "n": 239,
+   "name": "Corumba (Paraguayan War)",
+   "year": 1877,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 240,
+   "name": "Coruña (Peninsular War)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 51
+  },
+  {
+   "n": 241,
+   "name": "Compedion (Wars of Alexander’s Successors)",
+   "year": -281,
+   "era": "ancient",
+   "word_count": 52
+  },
+  {
+   "n": 242,
+   "name": "Coulmiers (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 243,
+   "name": "Courtrai (Flemish War)",
+   "year": 1302,
+   "era": "medieval",
+   "word_count": 64
+  },
+  {
+   "n": 244,
+   "name": "Covelong (Seven Years’ War)",
+   "year": 1752,
+   "era": "revolutionary",
+   "word_count": 76
+  },
+  {
+   "n": 245,
+   "name": "Coverypank (Seven Years’ War)",
+   "year": 1752,
+   "era": "revolutionary",
+   "word_count": 73
+  },
+  {
+   "n": 246,
+   "name": "Craonne (Allied Invasion of France)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 247,
+   "name": "Cravant (Hundred Years’ War)",
+   "year": 1423,
+   "era": "medieval",
+   "word_count": 61
+  },
+  {
+   "n": 248,
+   "name": "Cremona (War of the Spanish Succession)",
+   "year": 1702,
+   "era": "revolutionary",
+   "word_count": 83
+  },
+  {
+   "n": 249,
+   "name": "Cressy (Hundred Years’ War)",
+   "year": 1346,
+   "era": "medieval",
+   "word_count": 70
+  },
+  {
+   "n": 250,
+   "name": "Crimisus (Third Carthaginian Invasion of Sicily)",
+   "year": -340,
+   "era": "ancient",
+   "word_count": 102
+  },
+  {
+   "n": 251,
+   "name": "Crosskeys (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 88
+  },
+  {
+   "n": 252,
+   "name": "Cuddalore",
+   "year": 1783,
+   "era": "revolutionary",
+   "word_count": 70
+  },
+  {
+   "n": 253,
+   "name": "Culloden (Rebellion of the Forty-five)",
+   "year": 1746,
+   "era": "revolutionary",
+   "word_count": 79
+  },
+  {
+   "n": 254,
+   "name": "Cunaxa (Expedition of Cyrus the Younger)",
+   "year": -401,
+   "era": "ancient",
+   "word_count": 96
+  },
+  {
+   "n": 255,
+   "name": "Custozza (Seven Weeks’ War)",
+   "year": 1866,
+   "era": "modern",
+   "word_count": 96
+  },
+  {
+   "n": 256,
+   "name": "Cuzco (Conquest of Peru)",
+   "year": 1536,
+   "era": "earlymodern",
+   "word_count": 79
+  },
+  {
+   "n": 257,
+   "name": "Cynoscephalæ",
+   "year": 364,
+   "era": "ancient",
+   "word_count": 78
+  },
+  {
+   "n": 258,
+   "name": "Cynoscephalæ (Second Macedonian War)",
+   "year": -197,
+   "era": "ancient",
+   "word_count": 92
+  },
+  {
+   "n": 259,
+   "name": "Cynossema (Peloponnesian War)",
+   "year": 411,
+   "era": "ancient",
+   "word_count": 54
+  },
+  {
+   "n": 260,
+   "name": "Cyzicus (First Mithridatic War)",
+   "year": -88,
+   "era": "ancient",
+   "word_count": 58
+  },
+  {
+   "n": 261,
+   "name": "Czarnovo (Campaign of Friedland)",
+   "year": 1806,
+   "era": "revolutionary",
+   "word_count": 50
+  },
+  {
+   "n": 262,
+   "name": "Czaslau (War of the Austrian Succession)",
+   "year": 1742,
+   "era": "revolutionary",
+   "word_count": 52
+  },
+  {
+   "n": 263,
+   "name": "Dalmanutha (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 86
+  },
+  {
+   "n": 264,
+   "name": "Damascus (Moslem Invasion of Syria)",
+   "year": 633,
+   "era": "medieval",
+   "word_count": 95
+  },
+  {
+   "n": 265,
+   "name": "Dantzig (Thirty Years’ War)",
+   "year": 1627,
+   "era": "earlymodern",
+   "word_count": 87
+  },
+  {
+   "n": 266,
+   "name": "Dantzig (Campaign of Friedland)",
+   "year": 1807,
+   "era": "revolutionary",
+   "word_count": 161
+  },
+  {
+   "n": 267,
+   "name": "Dargai (Tirah Campaign)",
+   "year": 1897,
+   "era": "modern",
+   "word_count": 74
+  },
+  {
+   "n": 268,
+   "name": "Dazaifu (Chinese Invasion of Japan)",
+   "year": 1281,
+   "era": "medieval",
+   "word_count": 95
+  },
+  {
+   "n": 269,
+   "name": "Delhi (First Mongol Invasion)",
+   "year": 1297,
+   "era": "medieval",
+   "word_count": 75
+  },
+  {
+   "n": 270,
+   "name": "Delhi (Second Mongol Invasion)",
+   "year": 1398,
+   "era": "medieval",
+   "word_count": 70
+  },
+  {
+   "n": 271,
+   "name": "Delhi (Second Mahratta War)",
+   "year": 1803,
+   "era": "revolutionary",
+   "word_count": 63
+  },
+  {
+   "n": 272,
+   "name": "Delhi (Second Mahratta War)",
+   "year": 1804,
+   "era": "revolutionary",
+   "word_count": 56
+  },
+  {
+   "n": 273,
+   "name": "Delhi (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 107
+  },
+  {
+   "n": 274,
+   "name": "Delium (Peloponnesian War)",
+   "year": -424,
+   "era": "ancient",
+   "word_count": 69
+  },
+  {
+   "n": 275,
+   "name": "Denain (War of the Spanish Succession)",
+   "year": 1712,
+   "era": "revolutionary",
+   "word_count": 63
+  },
+  {
+   "n": 276,
+   "name": "Dennewitz (Campaign of Leipsic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 84
+  },
+  {
+   "n": 277,
+   "name": "Dessau (Thirty Years’ War)",
+   "year": 1626,
+   "era": "earlymodern",
+   "word_count": 54
+  },
+  {
+   "n": 278,
+   "name": "Dettingen (War of the Austrian Succession)",
+   "year": 1743,
+   "era": "revolutionary",
+   "word_count": 124
+  },
+  {
+   "n": 279,
+   "name": "Devicotta",
+   "year": 1749,
+   "era": "revolutionary",
+   "word_count": 71
+  },
+  {
+   "n": 280,
+   "name": "Diamond Hill (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 68
+  },
+  {
+   "n": 281,
+   "name": "Diu",
+   "year": 1537,
+   "era": "earlymodern",
+   "word_count": 77
+  },
+  {
+   "n": 282,
+   "name": "Diu",
+   "year": 1545,
+   "era": "earlymodern",
+   "word_count": 69
+  },
+  {
+   "n": 283,
+   "name": "Dniester (Ottoman Wars)",
+   "year": 1769,
+   "era": "revolutionary",
+   "word_count": 50
+  },
+  {
+   "n": 284,
+   "name": "Dogger Bank (Dutch Wars)",
+   "year": 1781,
+   "era": "revolutionary",
+   "word_count": 69
+  },
+  {
+   "n": 285,
+   "name": "Dolni-Dubnik (Russo-Turkish War)",
+   "year": 1877,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 286,
+   "name": "Dominica",
+   "year": 1782,
+   "era": "revolutionary",
+   "word_count": 117
+  },
+  {
+   "n": 287,
+   "name": "Domokos (Greco-Turkish War)",
+   "year": 1879,
+   "era": "modern",
+   "word_count": 101
+  },
+  {
+   "n": 288,
+   "name": "Donabew (First Burmah War)",
+   "year": 1825,
+   "era": "modern",
+   "word_count": 62
+  },
+  {
+   "n": 289,
+   "name": "Donauwörth (War of the Spanish Succession)",
+   "year": 1704,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 290,
+   "name": "Dorylæum (First Crusade)",
+   "year": 1097,
+   "era": "medieval",
+   "word_count": 53
+  },
+  {
+   "n": 291,
+   "name": "Douai (War of the Spanish Succession)",
+   "year": 1710,
+   "era": "revolutionary",
+   "word_count": 57
+  },
+  {
+   "n": 292,
+   "name": "Douro (Peninsular War)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 53
+  },
+  {
+   "n": 293,
+   "name": "Downs, The (Dutch Wars)",
+   "year": 1666,
+   "era": "earlymodern",
+   "word_count": 52
+  },
+  {
+   "n": 294,
+   "name": "Dresden (Campaign of Leipsic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 126
+  },
+  {
+   "n": 295,
+   "name": "Dreux (First Civil War)",
+   "year": 1562,
+   "era": "earlymodern",
+   "word_count": 63
+  },
+  {
+   "n": 296,
+   "name": "Driefontein (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 77
+  },
+  {
+   "n": 297,
+   "name": "Drogheda (Civil War)",
+   "year": 1649,
+   "era": "earlymodern",
+   "word_count": 61
+  },
+  {
+   "n": 298,
+   "name": "Dunbar (Scottish Wars)",
+   "year": 1339,
+   "era": "medieval",
+   "word_count": 50
+  },
+  {
+   "n": 299,
+   "name": "Dunbar (Civil War)",
+   "year": 1650,
+   "era": "earlymodern",
+   "word_count": 51
+  },
+  {
+   "n": 300,
+   "name": "Dunes (Wars of Louis XIV)",
+   "year": 1650,
+   "era": "earlymodern",
+   "word_count": 68
+  },
+  {
+   "n": 301,
+   "name": "Dunkeld (Jacobite Rising)",
+   "year": 1689,
+   "era": "earlymodern",
+   "word_count": 51
+  },
+  {
+   "n": 302,
+   "name": "Durazzo (Norman Invasion of Italy)",
+   "year": 1081,
+   "era": "medieval",
+   "word_count": 112
+  },
+  {
+   "n": 303,
+   "name": "Dwina, The (Swedo-Polish War)",
+   "year": 1701,
+   "era": "revolutionary",
+   "word_count": 73
+  },
+  {
+   "n": 304,
+   "name": "Dyrrachium (Civil War of Cæsar and Pompey)",
+   "year": -48,
+   "era": "ancient",
+   "word_count": 61
+  },
+  {
+   "n": 305,
+   "name": "Ebersberg (Campaign of Wagram)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 68
+  },
+  {
+   "n": 306,
+   "name": "Eckmühl (Campaign of Wagram)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 83
+  },
+  {
+   "n": 307,
+   "name": "Ecnomus (First Punic War)",
+   "year": -256,
+   "era": "ancient",
+   "word_count": 60
+  },
+  {
+   "n": 308,
+   "name": "Edgeworth (Wars of the Roses)",
+   "year": 1469,
+   "era": "medieval",
+   "word_count": 63
+  },
+  {
+   "n": 309,
+   "name": "Edgehill (Civil War)",
+   "year": 1642,
+   "era": "earlymodern",
+   "word_count": 62
+  },
+  {
+   "n": 310,
+   "name": "Elandslaagte (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 74
+  },
+  {
+   "n": 311,
+   "name": "Elands River (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 90
+  },
+  {
+   "n": 312,
+   "name": "El Caney (Spanish-American War)",
+   "year": 1898,
+   "era": "modern",
+   "word_count": 64
+  },
+  {
+   "n": 313,
+   "name": "Elinga (Second Punic War)",
+   "year": -206,
+   "era": "ancient",
+   "word_count": 53
+  },
+  {
+   "n": 314,
+   "name": "Elleporus",
+   "year": -389,
+   "era": "ancient",
+   "word_count": 63
+  },
+  {
+   "n": 315,
+   "name": "Embata (Social War)",
+   "year": -356,
+   "era": "ancient",
+   "word_count": 59
+  },
+  {
+   "n": 316,
+   "name": "Engen (Wars of the French Revolution)",
+   "year": 1800,
+   "era": "revolutionary",
+   "word_count": 104
+  },
+  {
+   "n": 317,
+   "name": "Eutaw Springs (American War of Independence)",
+   "year": 1781,
+   "era": "revolutionary",
+   "word_count": 56
+  },
+  {
+   "n": 318,
+   "name": "Ephesus (Ionian War)",
+   "year": 499,
+   "era": "ancient",
+   "word_count": 54
+  },
+  {
+   "n": 319,
+   "name": "Erbach (Wars of the French Revolution)",
+   "year": 1800,
+   "era": "revolutionary",
+   "word_count": 63
+  },
+  {
+   "n": 320,
+   "name": "Eurymedon, The (Third Persian Invasion)",
+   "year": -470,
+   "era": "ancient",
+   "word_count": 58
+  },
+  {
+   "n": 321,
+   "name": "Eylau (Campaign of Friedland)",
+   "year": 1807,
+   "era": "revolutionary",
+   "word_count": 98
+  },
+  {
+   "n": 322,
+   "name": "Fair Oaks (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 109
+  },
+  {
+   "n": 323,
+   "name": "Falkirk (Scottish Wars)",
+   "year": 1298,
+   "era": "medieval",
+   "word_count": 78
+  },
+  {
+   "n": 324,
+   "name": "Falkirk (Rebellion of the Forty-five)",
+   "year": 1746,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 325,
+   "name": "Famagosta (Cyprus War)",
+   "year": 1570,
+   "era": "earlymodern",
+   "word_count": 70
+  },
+  {
+   "n": 326,
+   "name": "Farquhar’s Farm (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 120
+  },
+  {
+   "n": 327,
+   "name": "Ferkeh (Soudan Campaigns)",
+   "year": 1896,
+   "era": "modern",
+   "word_count": 73
+  },
+  {
+   "n": 328,
+   "name": "Ferozeshah (First Sikh War)",
+   "year": 1845,
+   "era": "modern",
+   "word_count": 75
+  },
+  {
+   "n": 329,
+   "name": "Fleurus (Thirty Years’ War)",
+   "year": 1622,
+   "era": "earlymodern",
+   "word_count": 69
+  },
+  {
+   "n": 330,
+   "name": "Flodden (Scottish Wars)",
+   "year": 1513,
+   "era": "earlymodern",
+   "word_count": 53
+  },
+  {
+   "n": 331,
+   "name": "Florence (German Invasion of Italy)",
+   "year": 406,
+   "era": "ancient",
+   "word_count": 58
+  },
+  {
+   "n": 332,
+   "name": "Fontenoy (War of the Austrian Succession)",
+   "year": 1745,
+   "era": "revolutionary",
+   "word_count": 78
+  },
+  {
+   "n": 333,
+   "name": "Fornovo (Italian Wars)",
+   "year": 1495,
+   "era": "medieval",
+   "word_count": 54
+  },
+  {
+   "n": 334,
+   "name": "Fort St. David (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 51
+  },
+  {
+   "n": 335,
+   "name": "Fort St. David (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 58
+  },
+  {
+   "n": 336,
+   "name": "Fort William Henry (Seven Years’ War)",
+   "year": 1757,
+   "era": "revolutionary",
+   "word_count": 98
+  },
+  {
+   "n": 337,
+   "name": "Frankfort-on-Oder (Thirty Years’ War)",
+   "year": 1631,
+   "era": "earlymodern",
+   "word_count": 51
+  },
+  {
+   "n": 338,
+   "name": "Franklin (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 76
+  },
+  {
+   "n": 339,
+   "name": "Fredericksburg (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 76
+  },
+  {
+   "n": 340,
+   "name": "Fribourg (Thirty Years’ War)",
+   "year": 1644,
+   "era": "earlymodern",
+   "word_count": 137
+  },
+  {
+   "n": 341,
+   "name": "Friedland (Campaign of Friedland)",
+   "year": 1807,
+   "era": "revolutionary",
+   "word_count": 138
+  },
+  {
+   "n": 342,
+   "name": "Fuentes d’Oñoro (Peninsular War)",
+   "year": 1811,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 343,
+   "name": "Garigliano (Italian Wars)",
+   "year": 1503,
+   "era": "earlymodern",
+   "word_count": 66
+  },
+  {
+   "n": 344,
+   "name": "Garigliano (Italian Wars)",
+   "year": 1503,
+   "era": "earlymodern",
+   "word_count": 77
+  },
+  {
+   "n": 345,
+   "name": "Gate Pah (Maori War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 74
+  },
+  {
+   "n": 346,
+   "name": "Gaulauli (Indian Mutiny)",
+   "year": 1858,
+   "era": "modern",
+   "word_count": 61
+  },
+  {
+   "n": 347,
+   "name": "Gemblours (Netherlands War of Independence)",
+   "year": 1578,
+   "era": "earlymodern",
+   "word_count": 92
+  },
+  {
+   "n": 348,
+   "name": "Genoa (Wars of the French Revolution)",
+   "year": 1795,
+   "era": "revolutionary",
+   "word_count": 56
+  },
+  {
+   "n": 349,
+   "name": "Genoa (Napoleon’s Italian Campaigns)",
+   "year": 1800,
+   "era": "revolutionary",
+   "word_count": 70
+  },
+  {
+   "n": 350,
+   "name": "Geok Tepe (Russian Conquest of Central Asia)",
+   "year": 1878,
+   "era": "modern",
+   "word_count": 116
+  },
+  {
+   "n": 351,
+   "name": "Gergovia (Gallic War)",
+   "year": -52,
+   "era": "ancient",
+   "word_count": 50
+  },
+  {
+   "n": 352,
+   "name": "Gerona (Peninsular War)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 55
+  },
+  {
+   "n": 353,
+   "name": "Gettysburg (American Civil War)",
+   "year": 1863,
+   "era": "modern",
+   "word_count": 141
+  },
+  {
+   "n": 354,
+   "name": "Ghuzni (First Afghan War)",
+   "year": 1839,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 355,
+   "name": "Gibraltar",
+   "year": 1779,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 356,
+   "name": "Gingi (Mogul Invasion of the Deccan)",
+   "year": 1689,
+   "era": "earlymodern",
+   "word_count": 64
+  },
+  {
+   "n": 357,
+   "name": "Gislikon (War of the Sonderbund)",
+   "year": 1847,
+   "era": "modern",
+   "word_count": 59
+  },
+  {
+   "n": 358,
+   "name": "Golden Rock (Seven Years’ War)",
+   "year": 1753,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 359,
+   "name": "Goodwins, The (Dutch Wars)",
+   "year": 1666,
+   "era": "earlymodern",
+   "word_count": 97
+  },
+  {
+   "n": 360,
+   "name": "Goraria (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 61
+  },
+  {
+   "n": 361,
+   "name": "Gorni-Dubnik (Russo-Turkish War)",
+   "year": 1877,
+   "era": "modern",
+   "word_count": 71
+  },
+  {
+   "n": 362,
+   "name": "Goa",
+   "year": 1511,
+   "era": "earlymodern",
+   "word_count": 95
+  },
+  {
+   "n": 363,
+   "name": "Granada (War of Granada)",
+   "year": 1491,
+   "era": "medieval",
+   "word_count": 74
+  },
+  {
+   "n": 364,
+   "name": "Grandson (Burgundian Wars)",
+   "year": 1476,
+   "era": "medieval",
+   "word_count": 63
+  },
+  {
+   "n": 365,
+   "name": "Granicus, The (Alexander’s Asiatic Campaigns)",
+   "year": 334,
+   "era": "ancient",
+   "word_count": 78
+  },
+  {
+   "n": 366,
+   "name": "Grant’s Hill (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 58
+  },
+  {
+   "n": 367,
+   "name": "Graspan (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 79
+  },
+  {
+   "n": 368,
+   "name": "Gravelines",
+   "year": 1538,
+   "era": "earlymodern",
+   "word_count": 80
+  },
+  {
+   "n": 369,
+   "name": "Gravelotte (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 98
+  },
+  {
+   "n": 370,
+   "name": "Great Meadows (Seven Years’ War)",
+   "year": 1752,
+   "era": "revolutionary",
+   "word_count": 55
+  },
+  {
+   "n": 371,
+   "name": "Grenada (American War of Independence)",
+   "year": 1779,
+   "era": "revolutionary",
+   "word_count": 63
+  },
+  {
+   "n": 372,
+   "name": "Gross-Beeren (Campaign of Leipsic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 80
+  },
+  {
+   "n": 373,
+   "name": "Guildford Court House (American War of Independence)",
+   "year": 1781,
+   "era": "revolutionary",
+   "word_count": 87
+  },
+  {
+   "n": 374,
+   "name": "Guinegate",
+   "year": 1513,
+   "era": "earlymodern",
+   "word_count": 56
+  },
+  {
+   "n": 375,
+   "name": "Gujerat (Second Sikh War)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 376,
+   "name": "Gwalior (Indian Mutiny)",
+   "year": 1858,
+   "era": "modern",
+   "word_count": 88
+  },
+  {
+   "n": 377,
+   "name": "Haarlem (Netherlands War of Independence)",
+   "year": 1572,
+   "era": "earlymodern",
+   "word_count": 165
+  },
+  {
+   "n": 378,
+   "name": "Hadranum",
+   "year": -344,
+   "era": "ancient",
+   "word_count": 65
+  },
+  {
+   "n": 379,
+   "name": "Hadrianople (War of the Two Empires)",
+   "year": 323,
+   "era": "ancient",
+   "word_count": 61
+  },
+  {
+   "n": 380,
+   "name": "Hadrianople (Second Gothic Invasion of the East)",
+   "year": 378,
+   "era": "ancient",
+   "word_count": 74
+  },
+  {
+   "n": 381,
+   "name": "Hahozaki (Tartar Invasion of Japan)",
+   "year": 1274,
+   "era": "medieval",
+   "word_count": 67
+  },
+  {
+   "n": 382,
+   "name": "Haliartus",
+   "year": -395,
+   "era": "ancient",
+   "word_count": 59
+  },
+  {
+   "n": 383,
+   "name": "Halidon Hill (Scottish Wars)",
+   "year": 1383,
+   "era": "medieval",
+   "word_count": 59
+  },
+  {
+   "n": 384,
+   "name": "Hallue (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 72
+  },
+  {
+   "n": 385,
+   "name": "Hampton Roads (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 92
+  },
+  {
+   "n": 386,
+   "name": "Hanau (Campaign of Leipsic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 103
+  },
+  {
+   "n": 387,
+   "name": "Harlaw",
+   "year": 1411,
+   "era": "medieval",
+   "word_count": 68
+  },
+  {
+   "n": 388,
+   "name": "Haslach (Campaign of the Danube)",
+   "year": 1805,
+   "era": "revolutionary",
+   "word_count": 58
+  },
+  {
+   "n": 389,
+   "name": "Hastenbech (Seven Years’ War)",
+   "year": 1757,
+   "era": "revolutionary",
+   "word_count": 63
+  },
+  {
+   "n": 390,
+   "name": "Hastings (Norman Conquest)",
+   "year": 1066,
+   "era": "medieval",
+   "word_count": 61
+  },
+  {
+   "n": 391,
+   "name": "Havana (War of the Austrian Succession)",
+   "year": 1748,
+   "era": "revolutionary",
+   "word_count": 51
+  },
+  {
+   "n": 392,
+   "name": "Heiliger-Zee (Netherlands War of Independence)",
+   "year": 1568,
+   "era": "earlymodern",
+   "word_count": 89
+  },
+  {
+   "n": 393,
+   "name": "Heilsberg (Campaign of Friedland)",
+   "year": 1807,
+   "era": "revolutionary",
+   "word_count": 79
+  },
+  {
+   "n": 394,
+   "name": "Hellespont (War of the Two Empires)",
+   "year": 323,
+   "era": "ancient",
+   "word_count": 52
+  },
+  {
+   "n": 395,
+   "name": "Helsingborg (Dano-Swedish Wars)",
+   "year": 1710,
+   "era": "revolutionary",
+   "word_count": 60
+  },
+  {
+   "n": 396,
+   "name": "Heraclea (Pyrrhus’ Invasion of Italy)",
+   "year": -280,
+   "era": "ancient",
+   "word_count": 59
+  },
+  {
+   "n": 397,
+   "name": "Heraclea",
+   "year": 313,
+   "era": "ancient",
+   "word_count": 70
+  },
+  {
+   "n": 398,
+   "name": "Herat (Tartar Invasion of Afghanistan)",
+   "year": 1220,
+   "era": "medieval",
+   "word_count": 85
+  },
+  {
+   "n": 399,
+   "name": "Herat (Perso-Afghan Wars)",
+   "year": 1837,
+   "era": "modern",
+   "word_count": 66
+  },
+  {
+   "n": 400,
+   "name": "Hernani (First Carlist War)",
+   "year": 1837,
+   "era": "modern",
+   "word_count": 76
+  },
+  {
+   "n": 401,
+   "name": "Herrera (First Carlist War)",
+   "year": 1837,
+   "era": "modern",
+   "word_count": 82
+  },
+  {
+   "n": 402,
+   "name": "Herrings, The (Hundred Years’ War)",
+   "year": 1429,
+   "era": "medieval",
+   "word_count": 58
+  },
+  {
+   "n": 403,
+   "name": "Hexham (Wars of the Roses)",
+   "year": 1464,
+   "era": "medieval",
+   "word_count": 54
+  },
+  {
+   "n": 404,
+   "name": "Himera (Second Carthaginian Invasion of Sicily)",
+   "year": -409,
+   "era": "ancient",
+   "word_count": 74
+  },
+  {
+   "n": 405,
+   "name": "Hippo (Invasion of the Vandals)",
+   "year": 430,
+   "era": "ancient",
+   "word_count": 52
+  },
+  {
+   "n": 406,
+   "name": "Hochkirchen (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 91
+  },
+  {
+   "n": 407,
+   "name": "Hochstett (Wars of the French Revolution)",
+   "year": 1800,
+   "era": "revolutionary",
+   "word_count": 81
+  },
+  {
+   "n": 408,
+   "name": "Hoechst (Thirty Years’ War)",
+   "year": 1622,
+   "era": "earlymodern",
+   "word_count": 78
+  },
+  {
+   "n": 409,
+   "name": "Hohenfriedberg (War of the Austrian Succession)",
+   "year": 1745,
+   "era": "revolutionary",
+   "word_count": 76
+  },
+  {
+   "n": 410,
+   "name": "Hohenlinden (Wars of the French Revolution)",
+   "year": 1800,
+   "era": "revolutionary",
+   "word_count": 80
+  },
+  {
+   "n": 411,
+   "name": "Honain",
+   "year": 629,
+   "era": "medieval",
+   "word_count": 54
+  },
+  {
+   "n": 412,
+   "name": "Hooghly, The",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 413,
+   "name": "Huesca (First Carlist War)",
+   "year": 1837,
+   "era": "modern",
+   "word_count": 64
+  },
+  {
+   "n": 414,
+   "name": "Hydaspes, The (Alexander’s Campaigns in Asia)",
+   "year": -327,
+   "era": "ancient",
+   "word_count": 62
+  },
+  {
+   "n": 415,
+   "name": "Hyderabad (Conquest of Scinde)",
+   "year": 1843,
+   "era": "modern",
+   "word_count": 69
+  },
+  {
+   "n": 416,
+   "name": "Immac (Revolt of Elagabalus)",
+   "year": 218,
+   "era": "ancient",
+   "word_count": 62
+  },
+  {
+   "n": 417,
+   "name": "Indus, The (Tartar Invasion of Kharismia)",
+   "year": 1221,
+   "era": "medieval",
+   "word_count": 57
+  },
+  {
+   "n": 418,
+   "name": "Inkerman (Crimean War)",
+   "year": 1854,
+   "era": "modern",
+   "word_count": 76
+  },
+  {
+   "n": 419,
+   "name": "Inverlochy (Civil War)",
+   "year": 1645,
+   "era": "earlymodern",
+   "word_count": 55
+  },
+  {
+   "n": 420,
+   "name": "Isandhlwana (Zulu War)",
+   "year": 1879,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 421,
+   "name": "Isaszcq (Hungarian Rising)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 65
+  },
+  {
+   "n": 422,
+   "name": "Isle de France (Napoleonic Wars)",
+   "year": 1810,
+   "era": "revolutionary",
+   "word_count": 59
+  },
+  {
+   "n": 423,
+   "name": "Isly (Abd-el-Kader’s Rebellion)",
+   "year": 1844,
+   "era": "modern",
+   "word_count": 63
+  },
+  {
+   "n": 424,
+   "name": "Issus (Alexander’s Asiatic Campaigns)",
+   "year": -333,
+   "era": "ancient",
+   "word_count": 114
+  },
+  {
+   "n": 425,
+   "name": "Jellalabad (First Afghan War)",
+   "year": 1842,
+   "era": "modern",
+   "word_count": 139
+  },
+  {
+   "n": 426,
+   "name": "Jena (Campaign of Jena)",
+   "year": 1806,
+   "era": "revolutionary",
+   "word_count": 150
+  },
+  {
+   "n": 427,
+   "name": "Jerusalem (Jewish War)",
+   "year": 100,
+   "era": "ancient",
+   "word_count": 89
+  },
+  {
+   "n": 428,
+   "name": "Jerusalem",
+   "year": 1187,
+   "era": "medieval",
+   "word_count": 56
+  },
+  {
+   "n": 429,
+   "name": "Jidballi (Somali Expedition)",
+   "year": 1904,
+   "era": "modern",
+   "word_count": 56
+  },
+  {
+   "n": 430,
+   "name": "Jitgurh (Gurkha War)",
+   "year": 1815,
+   "era": "revolutionary",
+   "word_count": 65
+  },
+  {
+   "n": 431,
+   "name": "Julian’s Defeat by the Persians (Persian Wars)",
+   "year": 363,
+   "era": "ancient",
+   "word_count": 96
+  },
+  {
+   "n": 432,
+   "name": "Kagoshima (Satsuma Rebellion)",
+   "year": 1876,
+   "era": "modern",
+   "word_count": 76
+  },
+  {
+   "n": 433,
+   "name": "Kagul (Ottoman Wars)",
+   "year": 1770,
+   "era": "revolutionary",
+   "word_count": 59
+  },
+  {
+   "n": 434,
+   "name": "Kalunga (Gurkha War)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 93
+  },
+  {
+   "n": 435,
+   "name": "Kandahar (Perso-Afghan Wars)",
+   "year": 1648,
+   "era": "earlymodern",
+   "word_count": 87
+  },
+  {
+   "n": 436,
+   "name": "Kapolna (Hungarian Rising)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 437,
+   "name": "Karaku (Tartar Invasion of Kharismia)",
+   "year": 1218,
+   "era": "medieval",
+   "word_count": 57
+  },
+  {
+   "n": 438,
+   "name": "Kars (Russo-Turkish War)",
+   "year": 1877,
+   "era": "modern",
+   "word_count": 91
+  },
+  {
+   "n": 439,
+   "name": "Kassassin (Arabi’s Rebellion)",
+   "year": 1882,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 440,
+   "name": "Katzbach (Campaign of Leipsic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 81
+  },
+  {
+   "n": 441,
+   "name": "Keresztes (Ottoman Wars)",
+   "year": 1596,
+   "era": "earlymodern",
+   "word_count": 63
+  },
+  {
+   "n": 442,
+   "name": "Khartoum (Soudan Campaign)",
+   "year": 1884,
+   "era": "modern",
+   "word_count": 70
+  },
+  {
+   "n": 443,
+   "name": "Khojah Pass (First Afghan War)",
+   "year": 1842,
+   "era": "modern",
+   "word_count": 52
+  },
+  {
+   "n": 444,
+   "name": "Killiecrankie (Jacobite Rising)",
+   "year": 1689,
+   "era": "earlymodern",
+   "word_count": 73
+  },
+  {
+   "n": 445,
+   "name": "Kimberley (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 70
+  },
+  {
+   "n": 446,
+   "name": "Kineyri (Second Sikh War)",
+   "year": 1848,
+   "era": "modern",
+   "word_count": 84
+  },
+  {
+   "n": 447,
+   "name": "Kinsale (O’Neil’s Rebellion)",
+   "year": 1601,
+   "era": "earlymodern",
+   "word_count": 59
+  },
+  {
+   "n": 448,
+   "name": "Kirkee (Third Mahratta War)",
+   "year": 1817,
+   "era": "modern",
+   "word_count": 68
+  },
+  {
+   "n": 449,
+   "name": "Kiu-lien-cheng (Russo-Japanese War)",
+   "year": 1904,
+   "era": "modern",
+   "word_count": 70
+  },
+  {
+   "n": 450,
+   "name": "Koeniggratz (Seven Weeks’ War)",
+   "year": 1866,
+   "era": "modern",
+   "word_count": 124
+  },
+  {
+   "n": 451,
+   "name": "Kojende (Tartar Invasion of Kharismia)",
+   "year": 1219,
+   "era": "medieval",
+   "word_count": 67
+  },
+  {
+   "n": 452,
+   "name": "Kolin (Seven Years’ War)",
+   "year": 1757,
+   "era": "revolutionary",
+   "word_count": 81
+  },
+  {
+   "n": 453,
+   "name": "Komatsu (Nine Years’ War)",
+   "year": 1062,
+   "era": "medieval",
+   "word_count": 61
+  },
+  {
+   "n": 454,
+   "name": "Komorn (Hungarian Rising)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 455,
+   "name": "Korygaom (Third Mahratta War)",
+   "year": 1818,
+   "era": "modern",
+   "word_count": 70
+  },
+  {
+   "n": 456,
+   "name": "Kossova (Ottoman Wars)",
+   "year": 1389,
+   "era": "medieval",
+   "word_count": 51
+  },
+  {
+   "n": 457,
+   "name": "Kossova (Ottoman Wars)",
+   "year": 1747,
+   "era": "revolutionary",
+   "word_count": 104
+  },
+  {
+   "n": 458,
+   "name": "Kotzim (Ottoman Wars)",
+   "year": 1622,
+   "era": "earlymodern",
+   "word_count": 63
+  },
+  {
+   "n": 459,
+   "name": "Kotzim (Ottoman Wars)",
+   "year": 1673,
+   "era": "earlymodern",
+   "word_count": 63
+  },
+  {
+   "n": 460,
+   "name": "Krasnaoi (Moscow Campaign)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 57
+  },
+  {
+   "n": 461,
+   "name": "Krotzka (Ottoman Wars)",
+   "year": 1739,
+   "era": "revolutionary",
+   "word_count": 70
+  },
+  {
+   "n": 462,
+   "name": "Kulevtcha (Ottoman Wars)",
+   "year": 1829,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 463,
+   "name": "Kulm (Campaign of Leipsic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 112
+  },
+  {
+   "n": 464,
+   "name": "Kumamoto (Satsuma Rebellion)",
+   "year": 1876,
+   "era": "modern",
+   "word_count": 109
+  },
+  {
+   "n": 465,
+   "name": "Kunersdorf (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 92
+  },
+  {
+   "n": 466,
+   "name": "Kurdlah",
+   "year": 1795,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 467,
+   "name": "Lade (Ionian War)",
+   "year": -494,
+   "era": "ancient",
+   "word_count": 64
+  },
+  {
+   "n": 468,
+   "name": "Ladysmith (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 159
+  },
+  {
+   "n": 469,
+   "name": "La Favorita (Napoleon’s Italian Campaigns)",
+   "year": 1797,
+   "era": "revolutionary",
+   "word_count": 69
+  },
+  {
+   "n": 470,
+   "name": "La Fère Champenoise (Allied Invasion of France)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 51
+  },
+  {
+   "n": 471,
+   "name": "Lagos (War of the Revolution)",
+   "year": 1693,
+   "era": "earlymodern",
+   "word_count": 60
+  },
+  {
+   "n": 472,
+   "name": "La Hogue (War of the Revolution)",
+   "year": 1692,
+   "era": "earlymodern",
+   "word_count": 71
+  },
+  {
+   "n": 473,
+   "name": "Lake George (Seven Years’ War)",
+   "year": 1755,
+   "era": "revolutionary",
+   "word_count": 89
+  },
+  {
+   "n": 474,
+   "name": "Lake Regillus",
+   "year": -497,
+   "era": "ancient",
+   "word_count": 105
+  },
+  {
+   "n": 475,
+   "name": "Lake Vadimon (Gallic Invasion of Italy)",
+   "year": -283,
+   "era": "ancient",
+   "word_count": 66
+  },
+  {
+   "n": 476,
+   "name": "Landau (War of the Spanish Succession)",
+   "year": 1702,
+   "era": "revolutionary",
+   "word_count": 50
+  },
+  {
+   "n": 477,
+   "name": "Langensalza (Seven Weeks’ War)",
+   "year": 1866,
+   "era": "modern",
+   "word_count": 88
+  },
+  {
+   "n": 478,
+   "name": "Langside",
+   "year": 1568,
+   "era": "earlymodern",
+   "word_count": 60
+  },
+  {
+   "n": 479,
+   "name": "Laon (Allied Invasion of France)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 76
+  },
+  {
+   "n": 480,
+   "name": "La Placilla (Chilian Civil War)",
+   "year": 1891,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 481,
+   "name": "La Puebla (Franco-Mexican War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 60
+  },
+  {
+   "n": 482,
+   "name": "La Puebla (Franco-Mexican War)",
+   "year": 1863,
+   "era": "modern",
+   "word_count": 185
+  },
+  {
+   "n": 483,
+   "name": "Largs (Norse Invasion of Scotland)",
+   "year": 1263,
+   "era": "medieval",
+   "word_count": 89
+  },
+  {
+   "n": 484,
+   "name": "La Rochelle (Huguenot Rebellion)",
+   "year": 1627,
+   "era": "earlymodern",
+   "word_count": 51
+  },
+  {
+   "n": 485,
+   "name": "La Rothière (Allied Campaign in France)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 86
+  },
+  {
+   "n": 486,
+   "name": "Las Navas de Tolosa (Moorish Empire in Spain)",
+   "year": 1212,
+   "era": "medieval",
+   "word_count": 52
+  },
+  {
+   "n": 487,
+   "name": "Laswari (Second Mahratta War)",
+   "year": 1803,
+   "era": "revolutionary",
+   "word_count": 68
+  },
+  {
+   "n": 488,
+   "name": "Laupen (Burgundian Wars)",
+   "year": 1339,
+   "era": "medieval",
+   "word_count": 54
+  },
+  {
+   "n": 489,
+   "name": "Lawfeldt (War of the Austrian Succession)",
+   "year": 1747,
+   "era": "revolutionary",
+   "word_count": 79
+  },
+  {
+   "n": 490,
+   "name": "Leck, The (Thirty Years’ War)",
+   "year": 1632,
+   "era": "earlymodern",
+   "word_count": 67
+  },
+  {
+   "n": 491,
+   "name": "Leipsic (Thirty Years’ War)",
+   "year": 1631,
+   "era": "earlymodern",
+   "word_count": 138
+  },
+  {
+   "n": 492,
+   "name": "Leipsic (Campaign of Leipsic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 215
+  },
+  {
+   "n": 493,
+   "name": "Le Mans (Franco-German War)",
+   "year": 150,
+   "era": "ancient",
+   "word_count": 70
+  },
+  {
+   "n": 494,
+   "name": "Lens (Thirty Years’ War)",
+   "year": 1648,
+   "era": "earlymodern",
+   "word_count": 55
+  },
+  {
+   "n": 495,
+   "name": "Lepanto (Cyprus War)",
+   "year": 1571,
+   "era": "earlymodern",
+   "word_count": 89
+  },
+  {
+   "n": 496,
+   "name": "Lerida (Thirty Years’ War)",
+   "year": 1647,
+   "era": "earlymodern",
+   "word_count": 72
+  },
+  {
+   "n": 497,
+   "name": "Lesno (Russo-Swedish War)",
+   "year": 1709,
+   "era": "revolutionary",
+   "word_count": 80
+  },
+  {
+   "n": 498,
+   "name": "Leucopetra (Wars of the Achæan League)",
+   "year": 146,
+   "era": "ancient",
+   "word_count": 52
+  },
+  {
+   "n": 499,
+   "name": "Leuctra (Bœotian War)",
+   "year": 371,
+   "era": "ancient",
+   "word_count": 58
+  },
+  {
+   "n": 500,
+   "name": "Leuthen (Seven Years’ War)",
+   "year": 1757,
+   "era": "revolutionary",
+   "word_count": 102
+  },
+  {
+   "n": 501,
+   "name": "Leyden (Netherlands War of Independence)",
+   "year": 1574,
+   "era": "earlymodern",
+   "word_count": 167
+  },
+  {
+   "n": 502,
+   "name": "Lignitz (Seven Years’ War)",
+   "year": 1760,
+   "era": "revolutionary",
+   "word_count": 83
+  },
+  {
+   "n": 503,
+   "name": "Ligny (Hundred Days)",
+   "year": 1815,
+   "era": "revolutionary",
+   "word_count": 71
+  },
+  {
+   "n": 504,
+   "name": "Lilybæum (First Punic War)",
+   "year": -250,
+   "era": "ancient",
+   "word_count": 135
+  },
+  {
+   "n": 505,
+   "name": "Linkoping",
+   "year": 1598,
+   "era": "earlymodern",
+   "word_count": 60
+  },
+  {
+   "n": 506,
+   "name": "Lippe (Germanic Wars)",
+   "year": -11,
+   "era": "ancient",
+   "word_count": 54
+  },
+  {
+   "n": 507,
+   "name": "Lissa (Seven Weeks’ War)",
+   "year": 1866,
+   "era": "modern",
+   "word_count": 112
+  },
+  {
+   "n": 508,
+   "name": "Little Big Horn (Sioux Rising)",
+   "year": 1876,
+   "era": "modern",
+   "word_count": 68
+  },
+  {
+   "n": 509,
+   "name": "Lodi, Bridge of (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 99
+  },
+  {
+   "n": 510,
+   "name": "Loftcha (Russo-Turkish War)",
+   "year": 1877,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 511,
+   "name": "Loigny-Pouprey (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 60
+  },
+  {
+   "n": 512,
+   "name": "Loja (War of Granada)",
+   "year": 1482,
+   "era": "medieval",
+   "word_count": 71
+  },
+  {
+   "n": 513,
+   "name": "Londonderry (War of the Revolution)",
+   "year": 1689,
+   "era": "earlymodern",
+   "word_count": 87
+  },
+  {
+   "n": 514,
+   "name": "Loudon Hill (Scottish Wars)",
+   "year": 1306,
+   "era": "medieval",
+   "word_count": 51
+  },
+  {
+   "n": 515,
+   "name": "Louisburg (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 123
+  },
+  {
+   "n": 516,
+   "name": "Lowositz (Seven Years’ War)",
+   "year": 1756,
+   "era": "revolutionary",
+   "word_count": 75
+  },
+  {
+   "n": 517,
+   "name": "Lucena (War of Granada)",
+   "year": 1483,
+   "era": "medieval",
+   "word_count": 72
+  },
+  {
+   "n": 518,
+   "name": "Lucknow (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 210
+  },
+  {
+   "n": 519,
+   "name": "Lundy’s Lane (Second American War)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 520,
+   "name": "Lutter (Thirty Years’ War)",
+   "year": 1626,
+   "era": "earlymodern",
+   "word_count": 102
+  },
+  {
+   "n": 521,
+   "name": "Lützen (Thirty Years’ War)",
+   "year": 1632,
+   "era": "earlymodern",
+   "word_count": 89
+  },
+  {
+   "n": 522,
+   "name": "Lützen (Campaign of Leipsic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 94
+  },
+  {
+   "n": 523,
+   "name": "Luzzara (War of the Spanish Succession)",
+   "year": 1702,
+   "era": "revolutionary",
+   "word_count": 53
+  },
+  {
+   "n": 524,
+   "name": "Lynn Haven Bay",
+   "year": 1781,
+   "era": "revolutionary",
+   "word_count": 75
+  },
+  {
+   "n": 525,
+   "name": "Madonna dell’ Oleno (War of the Austrian Succession)",
+   "year": 1744,
+   "era": "revolutionary",
+   "word_count": 78
+  },
+  {
+   "n": 526,
+   "name": "Madras (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 86
+  },
+  {
+   "n": 527,
+   "name": "Maestricht (Netherlands War of Independence)",
+   "year": 1579,
+   "era": "earlymodern",
+   "word_count": 76
+  },
+  {
+   "n": 528,
+   "name": "Mafeking (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 123
+  },
+  {
+   "n": 529,
+   "name": "Magdeburg (Thirty Years’ War)",
+   "year": 1631,
+   "era": "earlymodern",
+   "word_count": 93
+  },
+  {
+   "n": 530,
+   "name": "Magenta (Franco-Austrian War)",
+   "year": 1859,
+   "era": "modern",
+   "word_count": 54
+  },
+  {
+   "n": 531,
+   "name": "Magersfontein (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 108
+  },
+  {
+   "n": 532,
+   "name": "Magnesia (War with Antiochus the Great)",
+   "year": -190,
+   "era": "ancient",
+   "word_count": 77
+  },
+  {
+   "n": 533,
+   "name": "Maharajpur (Gwalior War)",
+   "year": 1843,
+   "era": "modern",
+   "word_count": 86
+  },
+  {
+   "n": 534,
+   "name": "Maharajpur (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 68
+  },
+  {
+   "n": 535,
+   "name": "Mahidpur (Third Mahratta War)",
+   "year": 1817,
+   "era": "modern",
+   "word_count": 55
+  },
+  {
+   "n": 536,
+   "name": "Maida (Napoleonic Wars)",
+   "year": 1806,
+   "era": "revolutionary",
+   "word_count": 51
+  },
+  {
+   "n": 537,
+   "name": "Maiwand (Second Afghan War)",
+   "year": 1880,
+   "era": "modern",
+   "word_count": 67
+  },
+  {
+   "n": 538,
+   "name": "Majuba (First Boer War)",
+   "year": 1881,
+   "era": "modern",
+   "word_count": 109
+  },
+  {
+   "n": 539,
+   "name": "Malaga (War of Granada)",
+   "year": 1487,
+   "era": "medieval",
+   "word_count": 53
+  },
+  {
+   "n": 540,
+   "name": "Malaga (War of the Spanish Succession)",
+   "year": 1704,
+   "era": "revolutionary",
+   "word_count": 122
+  },
+  {
+   "n": 541,
+   "name": "Malavilly (Third Mysore War)",
+   "year": 1799,
+   "era": "revolutionary",
+   "word_count": 51
+  },
+  {
+   "n": 542,
+   "name": "Malo-Jaroslawetz (Moscow Campaign)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 75
+  },
+  {
+   "n": 543,
+   "name": "Malplaquet (War of the Spanish Succession)",
+   "year": 1709,
+   "era": "revolutionary",
+   "word_count": 106
+  },
+  {
+   "n": 544,
+   "name": "Malta (Ottoman Wars)",
+   "year": 1565,
+   "era": "earlymodern",
+   "word_count": 65
+  },
+  {
+   "n": 545,
+   "name": "Mangalore (First Mysore War)",
+   "year": 1783,
+   "era": "revolutionary",
+   "word_count": 93
+  },
+  {
+   "n": 546,
+   "name": "Mansfield (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 64
+  },
+  {
+   "n": 547,
+   "name": "Mantineia (Peloponnesian War)",
+   "year": -418,
+   "era": "ancient",
+   "word_count": 70
+  },
+  {
+   "n": 548,
+   "name": "Mantineia (Bœotian War)",
+   "year": -362,
+   "era": "ancient",
+   "word_count": 78
+  },
+  {
+   "n": 549,
+   "name": "Mantua (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 115
+  },
+  {
+   "n": 550,
+   "name": "Marathon (Second Persian Invasion)",
+   "year": 490,
+   "era": "ancient",
+   "word_count": 120
+  },
+  {
+   "n": 551,
+   "name": "Mardis (War of the Two Empires)",
+   "year": 315,
+   "era": "ancient",
+   "word_count": 91
+  },
+  {
+   "n": 552,
+   "name": "Marengo (Napoleon’s Italian Campaigns)",
+   "year": 1800,
+   "era": "revolutionary",
+   "word_count": 81
+  },
+  {
+   "n": 553,
+   "name": "Margus",
+   "year": 285,
+   "era": "ancient",
+   "word_count": 74
+  },
+  {
+   "n": 554,
+   "name": "Mariendahl (Thirty Years’ War)",
+   "year": 1645,
+   "era": "earlymodern",
+   "word_count": 63
+  },
+  {
+   "n": 555,
+   "name": "Marignano (Italian Wars)",
+   "year": 1575,
+   "era": "earlymodern",
+   "word_count": 113
+  },
+  {
+   "n": 556,
+   "name": "Marseglia (Wars of Louis XIV)",
+   "year": 1693,
+   "era": "earlymodern",
+   "word_count": 66
+  },
+  {
+   "n": 557,
+   "name": "Mars-la-Tour (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 103
+  },
+  {
+   "n": 558,
+   "name": "Marston Moor (Civil War)",
+   "year": 1644,
+   "era": "earlymodern",
+   "word_count": 68
+  },
+  {
+   "n": 559,
+   "name": "Martinesti (Ottoman Wars)",
+   "year": 1789,
+   "era": "revolutionary",
+   "word_count": 59
+  },
+  {
+   "n": 560,
+   "name": "Matchin (Ottoman Wars)",
+   "year": 1791,
+   "era": "revolutionary",
+   "word_count": 56
+  },
+  {
+   "n": 561,
+   "name": "Maypo (South American War of Independence)",
+   "year": 1818,
+   "era": "modern",
+   "word_count": 55
+  },
+  {
+   "n": 562,
+   "name": "Medina (Mohammed’s War with the Koreish)",
+   "year": 625,
+   "era": "medieval",
+   "word_count": 58
+  },
+  {
+   "n": 563,
+   "name": "Medola (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 75
+  },
+  {
+   "n": 564,
+   "name": "Meeanee (Scinde Campaign)",
+   "year": 1843,
+   "era": "modern",
+   "word_count": 84
+  },
+  {
+   "n": 565,
+   "name": "Megalopolis",
+   "year": -331,
+   "era": "ancient",
+   "word_count": 61
+  },
+  {
+   "n": 566,
+   "name": "Megalopolis (Wars of the Achæan League)",
+   "year": -226,
+   "era": "ancient",
+   "word_count": 54
+  },
+  {
+   "n": 567,
+   "name": "Melanthias (Sclavonian Invasion)",
+   "year": 559,
+   "era": "medieval",
+   "word_count": 54
+  },
+  {
+   "n": 568,
+   "name": "Meldorp",
+   "year": 1500,
+   "era": "earlymodern",
+   "word_count": 60
+  },
+  {
+   "n": 569,
+   "name": "Melitene (Persian Wars)",
+   "year": 578,
+   "era": "medieval",
+   "word_count": 88
+  },
+  {
+   "n": 570,
+   "name": "Memphis (Athenian Expedition to Egypt)",
+   "year": -459,
+   "era": "ancient",
+   "word_count": 55
+  },
+  {
+   "n": 571,
+   "name": "Memphis (Moslem Conquest of Egypt)",
+   "year": 638,
+   "era": "medieval",
+   "word_count": 57
+  },
+  {
+   "n": 572,
+   "name": "Mensourah (Fifth Crusade),",
+   "year": 1249,
+   "era": "medieval",
+   "word_count": 73
+  },
+  {
+   "n": 573,
+   "name": "Mentana (Garibaldian Rising)",
+   "year": 1867,
+   "era": "modern",
+   "word_count": 70
+  },
+  {
+   "n": 574,
+   "name": "Messina",
+   "year": 1284,
+   "era": "medieval",
+   "word_count": 61
+  },
+  {
+   "n": 575,
+   "name": "Metaurus (Second Punic War)",
+   "year": 207,
+   "era": "ancient",
+   "word_count": 105
+  },
+  {
+   "n": 576,
+   "name": "Metz (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 68
+  },
+  {
+   "n": 577,
+   "name": "Middelburg (Netherlands War of Independence)",
+   "year": 1593,
+   "era": "earlymodern",
+   "word_count": 55
+  },
+  {
+   "n": 578,
+   "name": "Millesimo (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 579,
+   "name": "Mill Springs (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 68
+  },
+  {
+   "n": 580,
+   "name": "Minden (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 120
+  },
+  {
+   "n": 581,
+   "name": "Minorca (Seven Years’ War)",
+   "year": 1756,
+   "era": "revolutionary",
+   "word_count": 100
+  },
+  {
+   "n": 582,
+   "name": "Miraflores (Peruvio-Chilian War)",
+   "year": 1881,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 583,
+   "name": "Missolonghi (Greek War of Independence)",
+   "year": 1821,
+   "era": "modern",
+   "word_count": 127
+  },
+  {
+   "n": 584,
+   "name": "Miyako",
+   "year": 1391,
+   "era": "medieval",
+   "word_count": 54
+  },
+  {
+   "n": 585,
+   "name": "Modder River (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 91
+  },
+  {
+   "n": 586,
+   "name": "Mohacz (Ottoman Wars)",
+   "year": 1526,
+   "era": "earlymodern",
+   "word_count": 74
+  },
+  {
+   "n": 587,
+   "name": "Monongahela (Seven Years’ War)",
+   "year": 1755,
+   "era": "revolutionary",
+   "word_count": 87
+  },
+  {
+   "n": 588,
+   "name": "Montcontour (Third Civil War)",
+   "year": 1569,
+   "era": "earlymodern",
+   "word_count": 52
+  },
+  {
+   "n": 589,
+   "name": "Montebello (Napoleon’s Italian Campaigns)",
+   "year": 1800,
+   "era": "revolutionary",
+   "word_count": 75
+  },
+  {
+   "n": 590,
+   "name": "Montenotte (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 80
+  },
+  {
+   "n": 591,
+   "name": "Montevideo (Uruguayan War of Independence)",
+   "year": 1843,
+   "era": "modern",
+   "word_count": 83
+  },
+  {
+   "n": 592,
+   "name": "Montmorenci (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 88
+  },
+  {
+   "n": 593,
+   "name": "Montreal (Seven Years’ War)",
+   "year": 1760,
+   "era": "revolutionary",
+   "word_count": 52
+  },
+  {
+   "n": 594,
+   "name": "Moodkee (First Sikh War)",
+   "year": 1845,
+   "era": "modern",
+   "word_count": 82
+  },
+  {
+   "n": 595,
+   "name": "Mook (Netherlands War of Independence)",
+   "year": 1574,
+   "era": "earlymodern",
+   "word_count": 60
+  },
+  {
+   "n": 596,
+   "name": "Morat (Burgundian Wars)",
+   "year": 1746,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 597,
+   "name": "Morgarten (First Swiss-Austrian War)",
+   "year": 1315,
+   "era": "medieval",
+   "word_count": 64
+  },
+  {
+   "n": 598,
+   "name": "Morshedabad",
+   "year": 1763,
+   "era": "revolutionary",
+   "word_count": 56
+  },
+  {
+   "n": 599,
+   "name": "Mortara (Italian Rising)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 76
+  },
+  {
+   "n": 600,
+   "name": "Mortlack (Danish Invasion of Scotland)",
+   "year": 1010,
+   "era": "medieval",
+   "word_count": 58
+  },
+  {
+   "n": 601,
+   "name": "Möskirch (Wars of the French Revolution)",
+   "year": 1800,
+   "era": "revolutionary",
+   "word_count": 70
+  },
+  {
+   "n": 602,
+   "name": "Motya",
+   "year": -398,
+   "era": "ancient",
+   "word_count": 131
+  },
+  {
+   "n": 603,
+   "name": "Mount Seleucus (Revolt of Magnentius)",
+   "year": 353,
+   "era": "ancient",
+   "word_count": 50
+  },
+  {
+   "n": 604,
+   "name": "Mühlberg (Wars of Charles V)",
+   "year": 1547,
+   "era": "earlymodern",
+   "word_count": 52
+  },
+  {
+   "n": 605,
+   "name": "Mühlhausen (Gallic War)",
+   "year": -58,
+   "era": "ancient",
+   "word_count": 59
+  },
+  {
+   "n": 606,
+   "name": "Mukwanpur (Gurkha War)",
+   "year": 1816,
+   "era": "modern",
+   "word_count": 60
+  },
+  {
+   "n": 607,
+   "name": "Multan (Second Sikh War)",
+   "year": 1848,
+   "era": "modern",
+   "word_count": 79
+  },
+  {
+   "n": 608,
+   "name": "Munda (Civil War of Cæsar and Pompey)",
+   "year": -45,
+   "era": "ancient",
+   "word_count": 64
+  },
+  {
+   "n": 609,
+   "name": "Murfreesboro (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 110
+  },
+  {
+   "n": 610,
+   "name": "Muta (Moslem Invasion of Syria)",
+   "year": 629,
+   "era": "medieval",
+   "word_count": 76
+  },
+  {
+   "n": 611,
+   "name": "Muthal, The (Jugurthine War)",
+   "year": -108,
+   "era": "ancient",
+   "word_count": 51
+  },
+  {
+   "n": 612,
+   "name": "Mycale (Third Persian Invasion)",
+   "year": 479,
+   "era": "ancient",
+   "word_count": 58
+  },
+  {
+   "n": 613,
+   "name": "Mylæ (First Punic War)",
+   "year": -260,
+   "era": "ancient",
+   "word_count": 57
+  },
+  {
+   "n": 614,
+   "name": "Nachod (Seven Weeks’ War)",
+   "year": 1866,
+   "era": "modern",
+   "word_count": 62
+  },
+  {
+   "n": 615,
+   "name": "Næfels (War of Kiburg)",
+   "year": 1388,
+   "era": "medieval",
+   "word_count": 66
+  },
+  {
+   "n": 616,
+   "name": "Naissus (Gothic Invasion of the East)",
+   "year": 269,
+   "era": "ancient",
+   "word_count": 65
+  },
+  {
+   "n": 617,
+   "name": "Nanshan (Russo-Japanese War)",
+   "year": 1904,
+   "era": "modern",
+   "word_count": 141
+  },
+  {
+   "n": 618,
+   "name": "Narva (Russo-Swedish War)",
+   "year": 1700,
+   "era": "revolutionary",
+   "word_count": 86
+  },
+  {
+   "n": 619,
+   "name": "Naseby (Civil War)",
+   "year": 1645,
+   "era": "earlymodern",
+   "word_count": 78
+  },
+  {
+   "n": 620,
+   "name": "Nashville (American Civil War)",
+   "year": 1863,
+   "era": "modern",
+   "word_count": 93
+  },
+  {
+   "n": 621,
+   "name": "Naupactus (Peloponnesian War)",
+   "year": 429,
+   "era": "ancient",
+   "word_count": 93
+  },
+  {
+   "n": 622,
+   "name": "Navarino (Greek War of Independence)",
+   "year": 1827,
+   "era": "modern",
+   "word_count": 74
+  },
+  {
+   "n": 623,
+   "name": "Navarrete (Hundred Years’ War)",
+   "year": 1367,
+   "era": "medieval",
+   "word_count": 57
+  },
+  {
+   "n": 624,
+   "name": "Neerwinde (War of the Revolution)",
+   "year": 1693,
+   "era": "earlymodern",
+   "word_count": 100
+  },
+  {
+   "n": 625,
+   "name": "Negapatam",
+   "year": 1746,
+   "era": "revolutionary",
+   "word_count": 59
+  },
+  {
+   "n": 626,
+   "name": "Negapatam",
+   "year": 1782,
+   "era": "revolutionary",
+   "word_count": 52
+  },
+  {
+   "n": 627,
+   "name": "Newburn (Scottish Wars)",
+   "year": 1640,
+   "era": "earlymodern",
+   "word_count": 61
+  },
+  {
+   "n": 628,
+   "name": "Newbury (Civil War)",
+   "year": 1643,
+   "era": "earlymodern",
+   "word_count": 104
+  },
+  {
+   "n": 629,
+   "name": "Newmarket (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 84
+  },
+  {
+   "n": 630,
+   "name": "New Orleans (Second American War)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 144
+  },
+  {
+   "n": 631,
+   "name": "New Ross (Irish Rebellion)",
+   "year": 1799,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 632,
+   "name": "Niagara (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 86
+  },
+  {
+   "n": 633,
+   "name": "Nicopolis (Third Mithridatic War)",
+   "year": -66,
+   "era": "ancient",
+   "word_count": 58
+  },
+  {
+   "n": 634,
+   "name": "Nicopolis (Ottoman Wars)",
+   "year": 1395,
+   "era": "medieval",
+   "word_count": 87
+  },
+  {
+   "n": 635,
+   "name": "Nieuport (Netherlands War of Independence)",
+   "year": 1600,
+   "era": "earlymodern",
+   "word_count": 52
+  },
+  {
+   "n": 636,
+   "name": "Nile (French Invasion of Egypt)",
+   "year": 1798,
+   "era": "revolutionary",
+   "word_count": 88
+  },
+  {
+   "n": 637,
+   "name": "Nineveh (Persian Wars)",
+   "year": 627,
+   "era": "medieval",
+   "word_count": 82
+  },
+  {
+   "n": 638,
+   "name": "Nisib (Mehemet Ali’s Second Rebellion)",
+   "year": 1839,
+   "era": "modern",
+   "word_count": 67
+  },
+  {
+   "n": 639,
+   "name": "Nisibis (Persian Wars)",
+   "year": 338,
+   "era": "ancient",
+   "word_count": 143
+  },
+  {
+   "n": 640,
+   "name": "Nive (Peninsular War)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 80
+  },
+  {
+   "n": 641,
+   "name": "Nivelle (Peninsular War)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 50
+  },
+  {
+   "n": 642,
+   "name": "Nordlingen (Thirty Years’ War)",
+   "year": 1634,
+   "era": "earlymodern",
+   "word_count": 59
+  },
+  {
+   "n": 643,
+   "name": "Nordlingen (Wars of Louis XIV)",
+   "year": 1645,
+   "era": "earlymodern",
+   "word_count": 65
+  },
+  {
+   "n": 644,
+   "name": "Northampton (Wars of the Roses)",
+   "year": 1460,
+   "era": "medieval",
+   "word_count": 52
+  },
+  {
+   "n": 645,
+   "name": "Novi (Wars of the French Revolution)",
+   "year": 1799,
+   "era": "revolutionary",
+   "word_count": 60
+  },
+  {
+   "n": 646,
+   "name": "Numantia (Lusitanian War)",
+   "year": -142,
+   "era": "ancient",
+   "word_count": 115
+  },
+  {
+   "n": 647,
+   "name": "Ocean Pond (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 54
+  },
+  {
+   "n": 648,
+   "name": "Odawara (Hojo Rebellion)",
+   "year": -457,
+   "era": "ancient",
+   "word_count": 94
+  },
+  {
+   "n": 649,
+   "name": "Ofen (Hungarian Rising)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 650,
+   "name": "Olmedo",
+   "year": 1467,
+   "era": "medieval",
+   "word_count": 65
+  },
+  {
+   "n": 651,
+   "name": "Olmütz (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 76
+  },
+  {
+   "n": 652,
+   "name": "Omdurman (Soudan Campaigns)",
+   "year": 1898,
+   "era": "modern",
+   "word_count": 133
+  },
+  {
+   "n": 653,
+   "name": "Onao (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 654,
+   "name": "Ooscata",
+   "year": 1768,
+   "era": "revolutionary",
+   "word_count": 51
+  },
+  {
+   "n": 655,
+   "name": "Opequan (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 50
+  },
+  {
+   "n": 656,
+   "name": "Oran (Ximenes’ Expedition to Morocco)",
+   "year": 1509,
+   "era": "earlymodern",
+   "word_count": 77
+  },
+  {
+   "n": 657,
+   "name": "Orleans (Hundred Years’ War)",
+   "year": 1428,
+   "era": "medieval",
+   "word_count": 83
+  },
+  {
+   "n": 658,
+   "name": "Ostend (Netherlands War of Independence)",
+   "year": 1601,
+   "era": "earlymodern",
+   "word_count": 66
+  },
+  {
+   "n": 659,
+   "name": "Ostrowno (Campaign of Moscow)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 58
+  },
+  {
+   "n": 660,
+   "name": "Otrar (Tartar Invasion of Kharismia)",
+   "year": 1219,
+   "era": "medieval",
+   "word_count": 59
+  },
+  {
+   "n": 661,
+   "name": "Otumba (Conquest of Mexico)",
+   "year": 1520,
+   "era": "earlymodern",
+   "word_count": 83
+  },
+  {
+   "n": 662,
+   "name": "Oudenarde (War of the Spanish Succession)",
+   "year": 1708,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 663,
+   "name": "Paardeberg (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 114
+  },
+  {
+   "n": 664,
+   "name": "Pagahar (First Burmah War)",
+   "year": 1825,
+   "era": "modern",
+   "word_count": 51
+  },
+  {
+   "n": 665,
+   "name": "Pagasæan Gulf (Sacred War)",
+   "year": -352,
+   "era": "ancient",
+   "word_count": 53
+  },
+  {
+   "n": 666,
+   "name": "Palais Gallien (War of the Fronde)",
+   "year": 1649,
+   "era": "earlymodern",
+   "word_count": 61
+  },
+  {
+   "n": 667,
+   "name": "Palermo (Italian Rising)",
+   "year": 1848,
+   "era": "modern",
+   "word_count": 84
+  },
+  {
+   "n": 668,
+   "name": "Palmyra (Expedition to Palmyra)",
+   "year": 272,
+   "era": "ancient",
+   "word_count": 93
+  },
+  {
+   "n": 669,
+   "name": "Panama (Raids of the Buccaneers)",
+   "year": 1670,
+   "era": "earlymodern",
+   "word_count": 109
+  },
+  {
+   "n": 670,
+   "name": "Panama (Raids of the Buccaneers)",
+   "year": 1680,
+   "era": "earlymodern",
+   "word_count": 53
+  },
+  {
+   "n": 671,
+   "name": "Pandu Naddi (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 64
+  },
+  {
+   "n": 672,
+   "name": "Pandu Naddi (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 61
+  },
+  {
+   "n": 673,
+   "name": "Panipat (Third Mongol Invasion)",
+   "year": 1526,
+   "era": "earlymodern",
+   "word_count": 57
+  },
+  {
+   "n": 674,
+   "name": "Panipat",
+   "year": 1536,
+   "era": "earlymodern",
+   "word_count": 69
+  },
+  {
+   "n": 675,
+   "name": "Panipat",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 676,
+   "name": "Panormus (First Punic War)",
+   "year": -250,
+   "era": "ancient",
+   "word_count": 92
+  },
+  {
+   "n": 677,
+   "name": "Parætakene Mountains (Wars of Alexander’s Successors)",
+   "year": 316,
+   "era": "ancient",
+   "word_count": 50
+  },
+  {
+   "n": 678,
+   "name": "Paris (Allied Invasion of France)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 83
+  },
+  {
+   "n": 679,
+   "name": "Paris (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 680,
+   "name": "Patay (Hundred Years’ War)",
+   "year": 1429,
+   "era": "medieval",
+   "word_count": 82
+  },
+  {
+   "n": 681,
+   "name": "Pavia (Wars of Charles V)",
+   "year": 1525,
+   "era": "earlymodern",
+   "word_count": 94
+  },
+  {
+   "n": 682,
+   "name": "Peach Tree Creek (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 72
+  },
+  {
+   "n": 683,
+   "name": "Pea Ridge (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 90
+  },
+  {
+   "n": 684,
+   "name": "Peiwar Kotal (Second Afghan War)",
+   "year": 1878,
+   "era": "modern",
+   "word_count": 61
+  },
+  {
+   "n": 685,
+   "name": "Pelischat (Russo-Turkish War)",
+   "year": 1877,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 686,
+   "name": "Perpignan",
+   "year": 1474,
+   "era": "medieval",
+   "word_count": 74
+  },
+  {
+   "n": 687,
+   "name": "Perryville (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 62
+  },
+  {
+   "n": 688,
+   "name": "Persepolis (Wars of Alexander’s Successors)",
+   "year": -316,
+   "era": "ancient",
+   "word_count": 59
+  },
+  {
+   "n": 689,
+   "name": "Petersburg (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 138
+  },
+  {
+   "n": 690,
+   "name": "Petersburg (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 72
+  },
+  {
+   "n": 691,
+   "name": "Petra (Persian Wars)",
+   "year": 500,
+   "era": "medieval",
+   "word_count": 146
+  },
+  {
+   "n": 692,
+   "name": "Pharsalus (Civil War of Cæsar and Pompey)",
+   "year": -48,
+   "era": "ancient",
+   "word_count": 69
+  },
+  {
+   "n": 693,
+   "name": "Philippi (Rebellion of Brutus)",
+   "year": -42,
+   "era": "ancient",
+   "word_count": 90
+  },
+  {
+   "n": 694,
+   "name": "Philippopolis (Russo-Turkish War)",
+   "year": 1878,
+   "era": "modern",
+   "word_count": 56
+  },
+  {
+   "n": 695,
+   "name": "Pieter’s Hill (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 136
+  },
+  {
+   "n": 696,
+   "name": "Pinkie Cleugh (Scottish Wars)",
+   "year": 1547,
+   "era": "earlymodern",
+   "word_count": 54
+  },
+  {
+   "n": 697,
+   "name": "Pirot (Servo-Bulgarian War)",
+   "year": 1885,
+   "era": "modern",
+   "word_count": 88
+  },
+  {
+   "n": 698,
+   "name": "Plains of Abraham (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 104
+  },
+  {
+   "n": 699,
+   "name": "Plassy (Seven Years’ War)",
+   "year": 1757,
+   "era": "revolutionary",
+   "word_count": 73
+  },
+  {
+   "n": 700,
+   "name": "Platæa (Third Persian Invasion)",
+   "year": -479,
+   "era": "ancient",
+   "word_count": 90
+  },
+  {
+   "n": 701,
+   "name": "Platæa (Peloponnesian War)",
+   "year": 429,
+   "era": "ancient",
+   "word_count": 122
+  },
+  {
+   "n": 702,
+   "name": "Plescow (Russo-Swedish Wars)",
+   "year": 1615,
+   "era": "earlymodern",
+   "word_count": 91
+  },
+  {
+   "n": 703,
+   "name": "Poitiers (Hundred Years’ War)",
+   "year": 1356,
+   "era": "medieval",
+   "word_count": 84
+  },
+  {
+   "n": 704,
+   "name": "Pola (War of Chiozza)",
+   "year": 1380,
+   "era": "medieval",
+   "word_count": 58
+  },
+  {
+   "n": 705,
+   "name": "Pollentia (First Gothic Invasion of Italy)",
+   "year": 403,
+   "era": "ancient",
+   "word_count": 86
+  },
+  {
+   "n": 706,
+   "name": "Pollicore (First Mysore War)",
+   "year": 1781,
+   "era": "revolutionary",
+   "word_count": 50
+  },
+  {
+   "n": 707,
+   "name": "Polotsk (Moscow Campaign)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 58
+  },
+  {
+   "n": 708,
+   "name": "Ponani (First Mysore War)",
+   "year": 1780,
+   "era": "revolutionary",
+   "word_count": 55
+  },
+  {
+   "n": 709,
+   "name": "Pondicherry",
+   "year": 1748,
+   "era": "revolutionary",
+   "word_count": 72
+  },
+  {
+   "n": 710,
+   "name": "Pondicherry (Seven Years’ War)",
+   "year": 1760,
+   "era": "revolutionary",
+   "word_count": 91
+  },
+  {
+   "n": 711,
+   "name": "Pondicherry",
+   "year": 1783,
+   "era": "revolutionary",
+   "word_count": 67
+  },
+  {
+   "n": 712,
+   "name": "Pont Valain (Hundred Years’ War)",
+   "year": 1370,
+   "era": "medieval",
+   "word_count": 73
+  },
+  {
+   "n": 713,
+   "name": "Poonah (Second Mahratta War)",
+   "year": 1802,
+   "era": "revolutionary",
+   "word_count": 50
+  },
+  {
+   "n": 714,
+   "name": "Port Arthur (Russo-Japanese War)",
+   "year": 1904,
+   "era": "modern",
+   "word_count": 255
+  },
+  {
+   "n": 715,
+   "name": "Porte St. Antoine (Wars of the Fronde)",
+   "year": 1652,
+   "era": "earlymodern",
+   "word_count": 80
+  },
+  {
+   "n": 716,
+   "name": "Port Hudson (American Civil War)",
+   "year": 1863,
+   "era": "modern",
+   "word_count": 77
+  },
+  {
+   "n": 717,
+   "name": "Portland (Dutch Wars)",
+   "year": 1653,
+   "era": "earlymodern",
+   "word_count": 140
+  },
+  {
+   "n": 718,
+   "name": "Porto Novo (First Mysore War)",
+   "year": 1781,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 719,
+   "name": "Prague (Thirty Years’ War)",
+   "year": 1620,
+   "era": "earlymodern",
+   "word_count": 69
+  },
+  {
+   "n": 720,
+   "name": "Prague (Seven Years’ War)",
+   "year": 1757,
+   "era": "revolutionary",
+   "word_count": 65
+  },
+  {
+   "n": 721,
+   "name": "Preston (Rebellion of the Fifteen)",
+   "year": 1715,
+   "era": "revolutionary",
+   "word_count": 92
+  },
+  {
+   "n": 722,
+   "name": "Prestonpans (Rebellion of the Forty-five)",
+   "year": 1745,
+   "era": "revolutionary",
+   "word_count": 69
+  },
+  {
+   "n": 723,
+   "name": "Pultowa (Russo-Swedish Wars)",
+   "year": 1709,
+   "era": "revolutionary",
+   "word_count": 67
+  },
+  {
+   "n": 724,
+   "name": "Pultusk (Campaign of Friedland)",
+   "year": 1806,
+   "era": "revolutionary",
+   "word_count": 102
+  },
+  {
+   "n": 725,
+   "name": "Pydna (Third Macedonian War)",
+   "year": 168,
+   "era": "ancient",
+   "word_count": 76
+  },
+  {
+   "n": 726,
+   "name": "Pyramids (French Invasion of Egypt)",
+   "year": 1798,
+   "era": "revolutionary",
+   "word_count": 74
+  },
+  {
+   "n": 727,
+   "name": "Pyrenees (Peninsular War)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 62
+  },
+  {
+   "n": 728,
+   "name": "Pylos and Sphacteria (Peloponnesian War)",
+   "year": -425,
+   "era": "ancient",
+   "word_count": 102
+  },
+  {
+   "n": 729,
+   "name": "Quatre Bras (Hundred Days)",
+   "year": 1815,
+   "era": "revolutionary",
+   "word_count": 101
+  },
+  {
+   "n": 730,
+   "name": "Quebec (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 185
+  },
+  {
+   "n": 731,
+   "name": "Queenston Heights (Second American War)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 55
+  },
+  {
+   "n": 732,
+   "name": "Quiberon Bay (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 123
+  },
+  {
+   "n": 733,
+   "name": "Raab (Campaign of Wagram)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 70
+  },
+  {
+   "n": 734,
+   "name": "Radcot Bridge",
+   "year": 1387,
+   "era": "medieval",
+   "word_count": 52
+  },
+  {
+   "n": 735,
+   "name": "Rakersberg (Ottoman Wars)",
+   "year": 1416,
+   "era": "medieval",
+   "word_count": 60
+  },
+  {
+   "n": 736,
+   "name": "Ramillies (Seven Years’ War)",
+   "year": 1706,
+   "era": "revolutionary",
+   "word_count": 73
+  },
+  {
+   "n": 737,
+   "name": "Ramnugger (Second Sikh War)",
+   "year": 1849,
+   "era": "modern",
+   "word_count": 63
+  },
+  {
+   "n": 738,
+   "name": "Raszyn (Campaign of Wagram)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 84
+  },
+  {
+   "n": 739,
+   "name": "Rathmines (Civil War)",
+   "year": 1649,
+   "era": "earlymodern",
+   "word_count": 66
+  },
+  {
+   "n": 740,
+   "name": "Ravenna",
+   "year": 729,
+   "era": "medieval",
+   "word_count": 74
+  },
+  {
+   "n": 741,
+   "name": "Redan (Crimean War)",
+   "year": 1855,
+   "era": "modern",
+   "word_count": 72
+  },
+  {
+   "n": 742,
+   "name": "Revolax (Finland War)",
+   "year": 1808,
+   "era": "revolutionary",
+   "word_count": 52
+  },
+  {
+   "n": 743,
+   "name": "Rhé",
+   "year": 1627,
+   "era": "earlymodern",
+   "word_count": 80
+  },
+  {
+   "n": 744,
+   "name": "Rheinfeldt (Thirty Years’ War)",
+   "year": 1638,
+   "era": "earlymodern",
+   "word_count": 80
+  },
+  {
+   "n": 745,
+   "name": "Rhodes (Ottoman Wars)",
+   "year": 1480,
+   "era": "medieval",
+   "word_count": 126
+  },
+  {
+   "n": 746,
+   "name": "Richmond (American Civil War)",
+   "year": 1865,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 747,
+   "name": "Rich Mountain (American Civil War)",
+   "year": 1861,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 748,
+   "name": "Rietfontein (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 80
+  },
+  {
+   "n": 749,
+   "name": "Rieti (Neapolitan Rising)",
+   "year": 1821,
+   "era": "modern",
+   "word_count": 70
+  },
+  {
+   "n": 750,
+   "name": "Riga (Thirty Years’ War)",
+   "year": 1621,
+   "era": "earlymodern",
+   "word_count": 71
+  },
+  {
+   "n": 751,
+   "name": "Rivoli (Napoleon’s Italian Campaigns)",
+   "year": 1797,
+   "era": "revolutionary",
+   "word_count": 96
+  },
+  {
+   "n": 752,
+   "name": "Roanoke Island (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 76
+  },
+  {
+   "n": 753,
+   "name": "Rocroi (Thirty Years’ War)",
+   "year": 1643,
+   "era": "earlymodern",
+   "word_count": 90
+  },
+  {
+   "n": 754,
+   "name": "Rome (First Invasion of the Gauls)",
+   "year": -387,
+   "era": "ancient",
+   "word_count": 73
+  },
+  {
+   "n": 755,
+   "name": "Rome (Second Gothic Invasion of Italy)",
+   "year": 408,
+   "era": "ancient",
+   "word_count": 143
+  },
+  {
+   "n": 756,
+   "name": "Rome (Second Gothic War)",
+   "year": 546,
+   "era": "medieval",
+   "word_count": 176
+  },
+  {
+   "n": 757,
+   "name": "Rome",
+   "year": 1082,
+   "era": "medieval",
+   "word_count": 68
+  },
+  {
+   "n": 758,
+   "name": "Rome (Italian Rising)",
+   "year": 1848,
+   "era": "modern",
+   "word_count": 124
+  },
+  {
+   "n": 759,
+   "name": "Romerswael (Netherlands War of Independence)",
+   "year": 1574,
+   "era": "earlymodern",
+   "word_count": 53
+  },
+  {
+   "n": 760,
+   "name": "Roncesvalles (Peninsular War)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 57
+  },
+  {
+   "n": 761,
+   "name": "Rorke’s Drift (Zulu War)",
+   "year": 1879,
+   "era": "modern",
+   "word_count": 106
+  },
+  {
+   "n": 762,
+   "name": "Rosbach (Seven Years’ War)",
+   "year": 1757,
+   "era": "revolutionary",
+   "word_count": 79
+  },
+  {
+   "n": 763,
+   "name": "Rosbecque",
+   "year": 1382,
+   "era": "medieval",
+   "word_count": 55
+  },
+  {
+   "n": 764,
+   "name": "Roundway Down (Civil War)",
+   "year": 1643,
+   "era": "earlymodern",
+   "word_count": 65
+  },
+  {
+   "n": 765,
+   "name": "Roveredo (Napoleon’s Italian Campaigns)",
+   "year": 1796,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 766,
+   "name": "Rowton Heath (Civil War)",
+   "year": 1645,
+   "era": "earlymodern",
+   "word_count": 65
+  },
+  {
+   "n": 767,
+   "name": "Roseburgh (Scottish Wars)",
+   "year": 1460,
+   "era": "medieval",
+   "word_count": 61
+  },
+  {
+   "n": 768,
+   "name": "Rynemants (Netherlands War of Independence)",
+   "year": 1578,
+   "era": "earlymodern",
+   "word_count": 86
+  },
+  {
+   "n": 769,
+   "name": "Saalfeld (Campaign of Jena)",
+   "year": 1806,
+   "era": "revolutionary",
+   "word_count": 80
+  },
+  {
+   "n": 770,
+   "name": "Sabugal (Peninsular War)",
+   "year": 1811,
+   "era": "revolutionary",
+   "word_count": 50
+  },
+  {
+   "n": 771,
+   "name": "Sacile (Napoleon’s Wars)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 772,
+   "name": "Sacripontus (Civil War of Marius and Sulla)",
+   "year": -82,
+   "era": "ancient",
+   "word_count": 51
+  },
+  {
+   "n": 773,
+   "name": "Sadulapur (Second Sikh War)",
+   "year": 1848,
+   "era": "modern",
+   "word_count": 74
+  },
+  {
+   "n": 774,
+   "name": "Sagunto (Peninsular War)",
+   "year": 1811,
+   "era": "revolutionary",
+   "word_count": 103
+  },
+  {
+   "n": 775,
+   "name": "St. Alban’s (Wars of the Roses)",
+   "year": 1455,
+   "era": "medieval",
+   "word_count": 153
+  },
+  {
+   "n": 776,
+   "name": "Ste. Foy (Seven Years’ War)",
+   "year": 1760,
+   "era": "revolutionary",
+   "word_count": 59
+  },
+  {
+   "n": 777,
+   "name": "St. Gothard (Ottoman Wars)",
+   "year": 1664,
+   "era": "earlymodern",
+   "word_count": 82
+  },
+  {
+   "n": 778,
+   "name": "St. Jacob an der Mirs (Armagnac War)",
+   "year": 1444,
+   "era": "medieval",
+   "word_count": 57
+  },
+  {
+   "n": 779,
+   "name": "St. Kitts (Dutch Wars)",
+   "year": 1667,
+   "era": "earlymodern",
+   "word_count": 88
+  },
+  {
+   "n": 780,
+   "name": "St. Quentin",
+   "year": 1557,
+   "era": "earlymodern",
+   "word_count": 78
+  },
+  {
+   "n": 781,
+   "name": "Salamanca (Peninsular War)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 101
+  },
+  {
+   "n": 782,
+   "name": "Salamis (Third Persian Invasion)",
+   "year": 480,
+   "era": "ancient",
+   "word_count": 91
+  },
+  {
+   "n": 783,
+   "name": "Salano (Moorish Empire in Spain)",
+   "year": 1340,
+   "era": "medieval",
+   "word_count": 51
+  },
+  {
+   "n": 784,
+   "name": "Samarcand (Tartar Invasion of Kharismia)",
+   "year": 1220,
+   "era": "medieval",
+   "word_count": 107
+  },
+  {
+   "n": 785,
+   "name": "Samaghar (Rebellion of Aurungzebe)",
+   "year": 1658,
+   "era": "earlymodern",
+   "word_count": 50
+  },
+  {
+   "n": 786,
+   "name": "Sanna’s Post (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 129
+  },
+  {
+   "n": 787,
+   "name": "San Sebastian (Peninsular War)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 91
+  },
+  {
+   "n": 788,
+   "name": "San Sebastian (First Carlist War)",
+   "year": 1836,
+   "era": "modern",
+   "word_count": 64
+  },
+  {
+   "n": 789,
+   "name": "Santa Vittoria (War of the Spanish Succession)",
+   "year": 1702,
+   "era": "revolutionary",
+   "word_count": 59
+  },
+  {
+   "n": 790,
+   "name": "Santiago (Spanish-American War)",
+   "year": 1898,
+   "era": "modern",
+   "word_count": 70
+  },
+  {
+   "n": 791,
+   "name": "Saragossa (War of the Spanish Succession)",
+   "year": 1700,
+   "era": "revolutionary",
+   "word_count": 71
+  },
+  {
+   "n": 792,
+   "name": "Saragossa (Peninsular War)",
+   "year": 1808,
+   "era": "revolutionary",
+   "word_count": 118
+  },
+  {
+   "n": 793,
+   "name": "Sárkány (Hungarian Rising)",
+   "year": 1848,
+   "era": "modern",
+   "word_count": 57
+  },
+  {
+   "n": 794,
+   "name": "Sauroren (Peninsular War)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 85
+  },
+  {
+   "n": 795,
+   "name": "Savandroog (Second Mysore War)",
+   "year": 1791,
+   "era": "revolutionary",
+   "word_count": 59
+  },
+  {
+   "n": 796,
+   "name": "Saxa Rubra (Revolt of Maxentius)",
+   "year": 312,
+   "era": "ancient",
+   "word_count": 74
+  },
+  {
+   "n": 797,
+   "name": "Scio (Ottoman Wars)",
+   "year": 1769,
+   "era": "revolutionary",
+   "word_count": 61
+  },
+  {
+   "n": 798,
+   "name": "Schipka Pass (Russo-Turkish War)",
+   "year": 1877,
+   "era": "modern",
+   "word_count": 183
+  },
+  {
+   "n": 799,
+   "name": "Scutari (Ottoman Wars)",
+   "year": 1474,
+   "era": "medieval",
+   "word_count": 128
+  },
+  {
+   "n": 800,
+   "name": "Sebastopol (Crimean War)",
+   "year": 1854,
+   "era": "modern",
+   "word_count": 154
+  },
+  {
+   "n": 801,
+   "name": "Secunderbagh (Indian Mutiny)",
+   "year": 1857,
+   "era": "modern",
+   "word_count": 69
+  },
+  {
+   "n": 802,
+   "name": "Sedan (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 144
+  },
+  {
+   "n": 803,
+   "name": "Sedgemoor (Monmouth’s Rebellion)",
+   "year": 1685,
+   "era": "earlymodern",
+   "word_count": 73
+  },
+  {
+   "n": 804,
+   "name": "Seine Mouth (Hundred Years’ War)",
+   "year": 1416,
+   "era": "medieval",
+   "word_count": 69
+  },
+  {
+   "n": 805,
+   "name": "Selby (Civil War)",
+   "year": 1644,
+   "era": "earlymodern",
+   "word_count": 65
+  },
+  {
+   "n": 806,
+   "name": "Seminara (Italian Wars)",
+   "year": 1495,
+   "era": "medieval",
+   "word_count": 58
+  },
+  {
+   "n": 807,
+   "name": "Sempach (War of Sempach)",
+   "year": 1386,
+   "era": "medieval",
+   "word_count": 66
+  },
+  {
+   "n": 808,
+   "name": "Seneff (Wars of Louis XIV)",
+   "year": 1674,
+   "era": "earlymodern",
+   "word_count": 86
+  },
+  {
+   "n": 809,
+   "name": "Senekal (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 50
+  },
+  {
+   "n": 810,
+   "name": "Sentinum (Third Samnite War)",
+   "year": -298,
+   "era": "ancient",
+   "word_count": 102
+  },
+  {
+   "n": 811,
+   "name": "Seringapatam (Second Mysore War)",
+   "year": 1792,
+   "era": "revolutionary",
+   "word_count": 83
+  },
+  {
+   "n": 812,
+   "name": "Seringapatam (Third Mysore War)",
+   "year": 1799,
+   "era": "revolutionary",
+   "word_count": 67
+  },
+  {
+   "n": 813,
+   "name": "Seringham (Seven Years’ War)",
+   "year": 1753,
+   "era": "revolutionary",
+   "word_count": 68
+  },
+  {
+   "n": 814,
+   "name": "Seven Days’ Battles (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 296
+  },
+  {
+   "n": 815,
+   "name": "Shaldiran (Ottoman Wars)",
+   "year": 1514,
+   "era": "earlymodern",
+   "word_count": 59
+  },
+  {
+   "n": 816,
+   "name": "Shannon and Chesapeake (Second American War)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 96
+  },
+  {
+   "n": 817,
+   "name": "Sheriffmuir (Rebellion of the Fifteen)",
+   "year": 1715,
+   "era": "revolutionary",
+   "word_count": 58
+  },
+  {
+   "n": 818,
+   "name": "Shijo Nawate (War of the Northern and Southern Empires)",
+   "year": 1339,
+   "era": "medieval",
+   "word_count": 81
+  },
+  {
+   "n": 819,
+   "name": "Shiloh (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 116
+  },
+  {
+   "n": 820,
+   "name": "Sholapur (Third Mahratta War)",
+   "year": 1818,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 821,
+   "name": "Sholingur (First Mysore War)",
+   "year": 1781,
+   "era": "revolutionary",
+   "word_count": 68
+  },
+  {
+   "n": 822,
+   "name": "Sidassir (Third Mysore War)",
+   "year": 1799,
+   "era": "revolutionary",
+   "word_count": 67
+  },
+  {
+   "n": 823,
+   "name": "Sikajoki (Finland War)",
+   "year": 1808,
+   "era": "revolutionary",
+   "word_count": 75
+  },
+  {
+   "n": 824,
+   "name": "Silistria (Crimean War)",
+   "year": 1854,
+   "era": "modern",
+   "word_count": 67
+  },
+  {
+   "n": 825,
+   "name": "Simnitza (Russo-Turkish War)",
+   "year": 1877,
+   "era": "modern",
+   "word_count": 65
+  },
+  {
+   "n": 826,
+   "name": "Singara (Persian Wars)",
+   "year": 348,
+   "era": "ancient",
+   "word_count": 91
+  },
+  {
+   "n": 827,
+   "name": "Sitabaldi (Third Mahratta War)",
+   "year": 1817,
+   "era": "modern",
+   "word_count": 61
+  },
+  {
+   "n": 828,
+   "name": "Slivnitza (Servo-Bulgarian War)",
+   "year": 1885,
+   "era": "modern",
+   "word_count": 148
+  },
+  {
+   "n": 829,
+   "name": "Sluys (Hundred Years’ War)",
+   "year": 1340,
+   "era": "medieval",
+   "word_count": 56
+  },
+  {
+   "n": 830,
+   "name": "Smolensko (Russo-Swedish Wars)",
+   "year": 1708,
+   "era": "revolutionary",
+   "word_count": 82
+  },
+  {
+   "n": 831,
+   "name": "Smolensko (Campaign of Moscow)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 832,
+   "name": "Sobraon (First Sikh War)",
+   "year": 1846,
+   "era": "modern",
+   "word_count": 66
+  },
+  {
+   "n": 833,
+   "name": "Soczawa (Ottoman Wars)",
+   "year": 1676,
+   "era": "earlymodern",
+   "word_count": 59
+  },
+  {
+   "n": 834,
+   "name": "Sohr (War of the Austrian Succession)",
+   "year": 1745,
+   "era": "revolutionary",
+   "word_count": 72
+  },
+  {
+   "n": 835,
+   "name": "Solebay (Dutch Wars)",
+   "year": 1672,
+   "era": "earlymodern",
+   "word_count": 94
+  },
+  {
+   "n": 836,
+   "name": "Solferino (Franco-Austrian War)",
+   "year": 1859,
+   "era": "modern",
+   "word_count": 130
+  },
+  {
+   "n": 837,
+   "name": "Son-Tai (Tongking War)",
+   "year": 1883,
+   "era": "modern",
+   "word_count": 94
+  },
+  {
+   "n": 838,
+   "name": "South Mountain (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 97
+  },
+  {
+   "n": 839,
+   "name": "Southwark (Cade’s Rebellion)",
+   "year": 1450,
+   "era": "medieval",
+   "word_count": 55
+  },
+  {
+   "n": 840,
+   "name": "Spicheren (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 105
+  },
+  {
+   "n": 841,
+   "name": "Spira (War of the Spanish Succession)",
+   "year": 1703,
+   "era": "revolutionary",
+   "word_count": 56
+  },
+  {
+   "n": 842,
+   "name": "Spottsylvania (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 148
+  },
+  {
+   "n": 843,
+   "name": "Standard, The (Scottish Wars)",
+   "year": 1138,
+   "era": "medieval",
+   "word_count": 79
+  },
+  {
+   "n": 844,
+   "name": "Stavrichani (Ottoman Wars)",
+   "year": 1739,
+   "era": "revolutionary",
+   "word_count": 51
+  },
+  {
+   "n": 845,
+   "name": "Steinkirk (War of the Revolution)",
+   "year": 1692,
+   "era": "earlymodern",
+   "word_count": 55
+  },
+  {
+   "n": 846,
+   "name": "Stillwater (American War of Independence)",
+   "year": 1777,
+   "era": "revolutionary",
+   "word_count": 129
+  },
+  {
+   "n": 847,
+   "name": "Stirling (Scottish Wars)",
+   "year": 1297,
+   "era": "medieval",
+   "word_count": 50
+  },
+  {
+   "n": 848,
+   "name": "Stoke (Lambert Simnel’s Rebellion)",
+   "year": 1487,
+   "era": "medieval",
+   "word_count": 53
+  },
+  {
+   "n": 849,
+   "name": "Stormberg (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 60
+  },
+  {
+   "n": 850,
+   "name": "Stralsund (Thirty Years’ War)",
+   "year": 1628,
+   "era": "earlymodern",
+   "word_count": 83
+  },
+  {
+   "n": 851,
+   "name": "Stralsund (Dano-Swedish Wars)",
+   "year": 1715,
+   "era": "revolutionary",
+   "word_count": 124
+  },
+  {
+   "n": 852,
+   "name": "Sugar-loaf Rock (Seven Years’ War)",
+   "year": 1753,
+   "era": "revolutionary",
+   "word_count": 72
+  },
+  {
+   "n": 853,
+   "name": "Sveaborg (Finland War)",
+   "year": 1808,
+   "era": "revolutionary",
+   "word_count": 105
+  },
+  {
+   "n": 854,
+   "name": "Sybota",
+   "year": 433,
+   "era": "ancient",
+   "word_count": 83
+  },
+  {
+   "n": 855,
+   "name": "Syracuse (Athenian Expedition to Sicily)",
+   "year": 134,
+   "era": "ancient",
+   "word_count": 158
+  },
+  {
+   "n": 856,
+   "name": "Syracuse (Second Carthaginian Invasion)",
+   "year": -387,
+   "era": "ancient",
+   "word_count": 114
+  },
+  {
+   "n": 857,
+   "name": "Syracuse (Second Punic War)",
+   "year": 213,
+   "era": "ancient",
+   "word_count": 144
+  },
+  {
+   "n": 858,
+   "name": "Szigeth (Ottoman Wars)",
+   "year": 1566,
+   "era": "earlymodern",
+   "word_count": 66
+  },
+  {
+   "n": 859,
+   "name": "Tabraca (Revolt of Gildo)",
+   "year": 398,
+   "era": "ancient",
+   "word_count": 52
+  },
+  {
+   "n": 860,
+   "name": "Tagina (Second Gothic War)",
+   "year": 552,
+   "era": "medieval",
+   "word_count": 50
+  },
+  {
+   "n": 861,
+   "name": "Takashima (Chinese Invasion of Japan)",
+   "year": 1281,
+   "era": "medieval",
+   "word_count": 51
+  },
+  {
+   "n": 862,
+   "name": "Taku Forts (Second China War)",
+   "year": 1859,
+   "era": "modern",
+   "word_count": 175
+  },
+  {
+   "n": 863,
+   "name": "Talana Hill (Second Boer War)",
+   "year": 1899,
+   "era": "modern",
+   "word_count": 94
+  },
+  {
+   "n": 864,
+   "name": "Talavera (Peninsular War)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 77
+  },
+  {
+   "n": 865,
+   "name": "Talneer (Third Mahratta War)",
+   "year": 1818,
+   "era": "modern",
+   "word_count": 111
+  },
+  {
+   "n": 866,
+   "name": "Tamai (Soudan Campaigns)",
+   "year": 1884,
+   "era": "modern",
+   "word_count": 74
+  },
+  {
+   "n": 867,
+   "name": "Tanagra",
+   "year": 457,
+   "era": "ancient",
+   "word_count": 61
+  },
+  {
+   "n": 868,
+   "name": "Tanjore (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 74
+  },
+  {
+   "n": 869,
+   "name": "Tarento (Italian Wars)",
+   "year": 1501,
+   "era": "earlymodern",
+   "word_count": 108
+  },
+  {
+   "n": 870,
+   "name": "Tarragona (Peninsular War)",
+   "year": 1811,
+   "era": "revolutionary",
+   "word_count": 78
+  },
+  {
+   "n": 871,
+   "name": "Tashkessen (Russo-Turkish War)",
+   "year": 1877,
+   "era": "modern",
+   "word_count": 71
+  },
+  {
+   "n": 872,
+   "name": "Tauris (Civil War of Cæsar and Pompey)",
+   "year": -47,
+   "era": "ancient",
+   "word_count": 56
+  },
+  {
+   "n": 873,
+   "name": "Te-li-ssu (Russo-Japanese War)",
+   "year": 1904,
+   "era": "modern",
+   "word_count": 104
+  },
+  {
+   "n": 874,
+   "name": "Tergoes (Netherlands War of Independence)",
+   "year": 1572,
+   "era": "earlymodern",
+   "word_count": 65
+  },
+  {
+   "n": 875,
+   "name": "Texel (Dutch Wars)",
+   "year": 1653,
+   "era": "earlymodern",
+   "word_count": 68
+  },
+  {
+   "n": 876,
+   "name": "Thermopylæ (Third Persian Invasion)",
+   "year": 480,
+   "era": "ancient",
+   "word_count": 63
+  },
+  {
+   "n": 877,
+   "name": "Thermopylæ (War with Antiochus)",
+   "year": -191,
+   "era": "ancient",
+   "word_count": 57
+  },
+  {
+   "n": 878,
+   "name": "Tiberias",
+   "year": 1187,
+   "era": "medieval",
+   "word_count": 62
+  },
+  {
+   "n": 879,
+   "name": "Ticonderoga (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 190
+  },
+  {
+   "n": 880,
+   "name": "Tigranocerta (Third Mithridatic War)",
+   "year": -69,
+   "era": "ancient",
+   "word_count": 75
+  },
+  {
+   "n": 881,
+   "name": "Tigris (Persian Wars)",
+   "year": 363,
+   "era": "ancient",
+   "word_count": 69
+  },
+  {
+   "n": 882,
+   "name": "Tippermuir (Civil War)",
+   "year": 1644,
+   "era": "earlymodern",
+   "word_count": 51
+  },
+  {
+   "n": 883,
+   "name": "Tofrek (Soudan Campaigns)",
+   "year": 1885,
+   "era": "modern",
+   "word_count": 83
+  },
+  {
+   "n": 884,
+   "name": "Tondeman’s Woods (Seven Years’ War)",
+   "year": 1754,
+   "era": "revolutionary",
+   "word_count": 74
+  },
+  {
+   "n": 885,
+   "name": "Torgau (Seven Years’ War)",
+   "year": 1760,
+   "era": "revolutionary",
+   "word_count": 104
+  },
+  {
+   "n": 886,
+   "name": "Toro (War of the Castilian Succession)",
+   "year": 1476,
+   "era": "medieval",
+   "word_count": 62
+  },
+  {
+   "n": 887,
+   "name": "Toulon (War of the Austrian Succession)",
+   "year": 1744,
+   "era": "revolutionary",
+   "word_count": 64
+  },
+  {
+   "n": 888,
+   "name": "Toulon (Wars of the French Revolution)",
+   "year": 1793,
+   "era": "revolutionary",
+   "word_count": 72
+  },
+  {
+   "n": 889,
+   "name": "Toulouse (Peninsular War)",
+   "year": 1814,
+   "era": "revolutionary",
+   "word_count": 78
+  },
+  {
+   "n": 890,
+   "name": "Tournay (Netherlands War of Independence)",
+   "year": 1581,
+   "era": "earlymodern",
+   "word_count": 59
+  },
+  {
+   "n": 891,
+   "name": "Tours (Moslem Invasion of France)",
+   "year": 732,
+   "era": "medieval",
+   "word_count": 56
+  },
+  {
+   "n": 892,
+   "name": "Towton (Wars of the Roses)",
+   "year": 1461,
+   "era": "medieval",
+   "word_count": 67
+  },
+  {
+   "n": 893,
+   "name": "Trafalgar (Napoleonic Wars)",
+   "year": 1805,
+   "era": "revolutionary",
+   "word_count": 125
+  },
+  {
+   "n": 894,
+   "name": "Trautenau (Seven Weeks’ War)",
+   "year": 1866,
+   "era": "modern",
+   "word_count": 74
+  },
+  {
+   "n": 895,
+   "name": "Travancore (Second Mysore War)",
+   "year": 1789,
+   "era": "revolutionary",
+   "word_count": 71
+  },
+  {
+   "n": 896,
+   "name": "Trebbia (Second Punic War)",
+   "year": -218,
+   "era": "ancient",
+   "word_count": 89
+  },
+  {
+   "n": 897,
+   "name": "Tricameron (Invasion of the Vandals)",
+   "year": 533,
+   "era": "medieval",
+   "word_count": 69
+  },
+  {
+   "n": 898,
+   "name": "Trichinopoly",
+   "year": 1741,
+   "era": "revolutionary",
+   "word_count": 76
+  },
+  {
+   "n": 899,
+   "name": "Trincomalee (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 52
+  },
+  {
+   "n": 900,
+   "name": "Trincomalee (First Mysore War)",
+   "year": 1767,
+   "era": "revolutionary",
+   "word_count": 126
+  },
+  {
+   "n": 901,
+   "name": "Trincomalee",
+   "year": 1782,
+   "era": "revolutionary",
+   "word_count": 98
+  },
+  {
+   "n": 902,
+   "name": "Trout Brook (Seven Years’ War)",
+   "year": 1758,
+   "era": "revolutionary",
+   "word_count": 93
+  },
+  {
+   "n": 903,
+   "name": "Tunis (First Punic War)",
+   "year": -255,
+   "era": "ancient",
+   "word_count": 58
+  },
+  {
+   "n": 904,
+   "name": "Turbigo (Franco-Austrian War)",
+   "year": 1859,
+   "era": "modern",
+   "word_count": 58
+  },
+  {
+   "n": 905,
+   "name": "Turin (War of the Spanish Succession)",
+   "year": 1706,
+   "era": "revolutionary",
+   "word_count": 120
+  },
+  {
+   "n": 906,
+   "name": "Uji (Taira War)",
+   "year": 1180,
+   "era": "medieval",
+   "word_count": 51
+  },
+  {
+   "n": 907,
+   "name": "Upsala (Dano-Swedish Wars)",
+   "year": 1520,
+   "era": "earlymodern",
+   "word_count": 57
+  },
+  {
+   "n": 908,
+   "name": "Urosan (Invasion of Korea)",
+   "year": 1595,
+   "era": "earlymodern",
+   "word_count": 64
+  },
+  {
+   "n": 909,
+   "name": "Ushant (Wars of the French Revolution)",
+   "year": 1794,
+   "era": "revolutionary",
+   "word_count": 127
+  },
+  {
+   "n": 910,
+   "name": "Vaalkranz (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 62
+  },
+  {
+   "n": 911,
+   "name": "Valenciennes (Netherlands War of Independence)",
+   "year": 1566,
+   "era": "earlymodern",
+   "word_count": 67
+  },
+  {
+   "n": 912,
+   "name": "Valenciennes",
+   "year": 1566,
+   "era": "earlymodern",
+   "word_count": 88
+  },
+  {
+   "n": 913,
+   "name": "Valetta (Wars of the French Revolution)",
+   "year": 1798,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 914,
+   "name": "Valutinagora (Moscow Campaign)",
+   "year": 1812,
+   "era": "revolutionary",
+   "word_count": 62
+  },
+  {
+   "n": 915,
+   "name": "Varna (Ottoman Wars)",
+   "year": 1444,
+   "era": "medieval",
+   "word_count": 53
+  },
+  {
+   "n": 916,
+   "name": "Varus. Defeat of (Germanic Wars)",
+   "year": 9,
+   "era": "ancient",
+   "word_count": 88
+  },
+  {
+   "n": 917,
+   "name": "Veii",
+   "year": -400,
+   "era": "ancient",
+   "word_count": 81
+  },
+  {
+   "n": 918,
+   "name": "Velestinos (Greco-Turkish War)",
+   "year": 1897,
+   "era": "modern",
+   "word_count": 62
+  },
+  {
+   "n": 919,
+   "name": "Verneuil (Hundred Years’ War)",
+   "year": 1424,
+   "era": "medieval",
+   "word_count": 77
+  },
+  {
+   "n": 920,
+   "name": "Veseris (Latin War)",
+   "year": -339,
+   "era": "ancient",
+   "word_count": 85
+  },
+  {
+   "n": 921,
+   "name": "Vicksburg (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 214
+  },
+  {
+   "n": 922,
+   "name": "Vienna (Ottoman Wars)",
+   "year": 1529,
+   "era": "earlymodern",
+   "word_count": 65
+  },
+  {
+   "n": 923,
+   "name": "Vienna (Ottoman Wars)",
+   "year": 1683,
+   "era": "earlymodern",
+   "word_count": 80
+  },
+  {
+   "n": 924,
+   "name": "Vigo Bay (War of the Spanish Succession)",
+   "year": 1702,
+   "era": "revolutionary",
+   "word_count": 65
+  },
+  {
+   "n": 925,
+   "name": "Villach (Ottoman Wars)",
+   "year": 1492,
+   "era": "medieval",
+   "word_count": 56
+  },
+  {
+   "n": 926,
+   "name": "Villa Viciosa (War of the Spanish Succession)",
+   "year": 1710,
+   "era": "revolutionary",
+   "word_count": 78
+  },
+  {
+   "n": 927,
+   "name": "Vimiera (Peninsular War)",
+   "year": 1808,
+   "era": "revolutionary",
+   "word_count": 66
+  },
+  {
+   "n": 928,
+   "name": "Vittoria (Peninsular War)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 75
+  },
+  {
+   "n": 929,
+   "name": "Volconda",
+   "year": 1751,
+   "era": "revolutionary",
+   "word_count": 57
+  },
+  {
+   "n": 930,
+   "name": "Volturno (Unification of Italy)",
+   "year": 1860,
+   "era": "modern",
+   "word_count": 72
+  },
+  {
+   "n": 931,
+   "name": "Wagram (Campaign of Wagram)",
+   "year": 1809,
+   "era": "revolutionary",
+   "word_count": 152
+  },
+  {
+   "n": 932,
+   "name": "Wakefield (Wars of the Roses)",
+   "year": 1460,
+   "era": "medieval",
+   "word_count": 75
+  },
+  {
+   "n": 933,
+   "name": "Wandewash (Seven Years’ War)",
+   "year": 1760,
+   "era": "revolutionary",
+   "word_count": 62
+  },
+  {
+   "n": 934,
+   "name": "Wandewash (First Mysore War)",
+   "year": 1780,
+   "era": "revolutionary",
+   "word_count": 63
+  },
+  {
+   "n": 935,
+   "name": "Warburg (Seven Years’ War)",
+   "year": 1759,
+   "era": "revolutionary",
+   "word_count": 51
+  },
+  {
+   "n": 936,
+   "name": "Warsaw (Second Polish Rising)",
+   "year": 1831,
+   "era": "modern",
+   "word_count": 122
+  },
+  {
+   "n": 937,
+   "name": "Wartemberg (Campaign of Leipsic)",
+   "year": 1813,
+   "era": "revolutionary",
+   "word_count": 67
+  },
+  {
+   "n": 938,
+   "name": "Waterloo (Hundred Days)",
+   "year": 1815,
+   "era": "revolutionary",
+   "word_count": 182
+  },
+  {
+   "n": 939,
+   "name": "Wavre (Hundred Days)",
+   "year": 1815,
+   "era": "revolutionary",
+   "word_count": 58
+  },
+  {
+   "n": 940,
+   "name": "Weissenburg (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 69
+  },
+  {
+   "n": 941,
+   "name": "Wepener (Second Boer War)",
+   "year": 1900,
+   "era": "modern",
+   "word_count": 72
+  },
+  {
+   "n": 942,
+   "name": "Werben (Thirty Years’ War)",
+   "year": 1631,
+   "era": "earlymodern",
+   "word_count": 79
+  },
+  {
+   "n": 943,
+   "name": "Wilderness, The (American Civil War)",
+   "year": 1864,
+   "era": "modern",
+   "word_count": 150
+  },
+  {
+   "n": 944,
+   "name": "Williamsburg (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 53
+  },
+  {
+   "n": 945,
+   "name": "Wilson’s Creek (American Civil War)",
+   "year": 1861,
+   "era": "modern",
+   "word_count": 70
+  },
+  {
+   "n": 946,
+   "name": "Wimpfen (Thirty Years’ War)",
+   "year": 1622,
+   "era": "earlymodern",
+   "word_count": 83
+  },
+  {
+   "n": 947,
+   "name": "Wisloch (Thirty Years’ War)",
+   "year": 1622,
+   "era": "earlymodern",
+   "word_count": 72
+  },
+  {
+   "n": 948,
+   "name": "Worcester (Civil War)",
+   "year": 1651,
+   "era": "earlymodern",
+   "word_count": 88
+  },
+  {
+   "n": 949,
+   "name": "Worth (Franco-German War)",
+   "year": 1870,
+   "era": "modern",
+   "word_count": 85
+  },
+  {
+   "n": 950,
+   "name": "Wargaom (First Mahratta War)",
+   "year": 1779,
+   "era": "revolutionary",
+   "word_count": 69
+  },
+  {
+   "n": 951,
+   "name": "Wynandael (Napoleonic Wars)",
+   "year": 1808,
+   "era": "revolutionary",
+   "word_count": 57
+  },
+  {
+   "n": 952,
+   "name": "Xeres (Moslem Empire in Spain)",
+   "year": 711,
+   "era": "medieval",
+   "word_count": 94
+  },
+  {
+   "n": 953,
+   "name": "Yalu (Chino-Japanese War)",
+   "year": 1894,
+   "era": "modern",
+   "word_count": 152
+  },
+  {
+   "n": 954,
+   "name": "Yermuk (Moslem Invasion of Syria)",
+   "year": 636,
+   "era": "medieval",
+   "word_count": 51
+  },
+  {
+   "n": 955,
+   "name": "Yorktown (American War of Independence)",
+   "year": 1781,
+   "era": "revolutionary",
+   "word_count": 54
+  },
+  {
+   "n": 956,
+   "name": "Yorktown (American Civil War)",
+   "year": 1862,
+   "era": "modern",
+   "word_count": 78
+  },
+  {
+   "n": 957,
+   "name": "Youghiogany (Seven Years’ War)",
+   "year": 1754,
+   "era": "revolutionary",
+   "word_count": 77
+  },
+  {
+   "n": 958,
+   "name": "Zama (Second Punic War)",
+   "year": -202,
+   "era": "ancient",
+   "word_count": 93
+  },
+  {
+   "n": 959,
+   "name": "Zeuta (Ottoman Wars)",
+   "year": 1679,
+   "era": "earlymodern",
+   "word_count": 63
+  },
+  {
+   "n": 960,
+   "name": "Ziela",
+   "year": -47,
+   "era": "ancient",
+   "word_count": 52
+  },
+  {
+   "n": 961,
+   "name": "Zurakow (Ottoman War)",
+   "year": 1676,
+   "era": "earlymodern",
+   "word_count": 76
+  },
+  {
+   "n": 962,
+   "name": "Zutphen (Netherlands War of Independence)",
+   "year": 1586,
+   "era": "earlymodern",
+   "word_count": 64
+  },
+  {
+   "n": 963,
+   "name": "E",
+   "year": 125,
+   "era": "ancient",
+   "word_count": 272
+  },
+  {
+   "n": 964,
+   "name": "F",
+   "year": 116,
+   "era": "ancient",
+   "word_count": 380
+  },
+  {
+   "n": 965,
+   "name": "G",
+   "year": 253,
+   "era": "ancient",
+   "word_count": 467
+  },
+  {
+   "n": 966,
+   "name": "I",
+   "year": 160,
+   "era": "ancient",
+   "word_count": 153
+  },
+  {
+   "n": 967,
+   "name": "J",
+   "year": 169,
+   "era": "ancient",
+   "word_count": 261
+  },
+  {
+   "n": 968,
+   "name": "L",
+   "year": 176,
+   "era": "ancient",
+   "word_count": 480
+  },
+  {
+   "n": 969,
+   "name": "N",
+   "year": 210,
+   "era": "ancient",
+   "word_count": 338
+  },
+  {
+   "n": 970,
+   "name": "Q",
+   "year": 221,
+   "era": "ancient",
+   "word_count": 427
+  },
+  {
+   "n": 971,
+   "name": "W",
+   "year": 130,
+   "era": "ancient",
+   "word_count": 464
+  },
+  {
+   "n": 972,
+   "name": "Z",
+   "year": 156,
+   "era": "ancient",
+   "word_count": 65
+  }
+ ]
+}
