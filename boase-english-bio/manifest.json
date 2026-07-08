@@ -1,0 +1,6556 @@
+{
+ "documents": [
+  {
+   "n": 1,
+   "name": "ABBOTT, REV",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 121
+  },
+  {
+   "n": 2,
+   "name": "ABERDEEN, GEORGE JOHN JAMES HAMILTON-GORDON",
+   "born": 1834,
+   "era": "victorian",
+   "word_count": 130
+  },
+  {
+   "n": 3,
+   "name": "ABRAHAM, THOMAS",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 166
+  },
+  {
+   "n": 4,
+   "name": "ADAM, SIR FREDERICK",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 175
+  },
+  {
+   "n": 5,
+   "name": "ADAMS, SIR GEORGE POWNOLL",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 122
+  },
+  {
+   "n": 6,
+   "name": "ADAMS, JOHN",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 206
+  },
+  {
+   "n": 7,
+   "name": "ADAMS, ROBERT",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 144
+  },
+  {
+   "n": 8,
+   "name": "ADAMS, WILLIAM BRIDGES",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 152
+  },
+  {
+   "n": 9,
+   "name": "ADAMS, WILLIAM HENRY",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 152
+  },
+  {
+   "n": 10,
+   "name": "ADDISON, THOMAS",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 282
+  },
+  {
+   "n": 11,
+   "name": "ADY, VENERABLE WILLIAM BRICE",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 89
+  },
+  {
+   "n": 12,
+   "name": "AGNEW, THOMAS",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 107
+  },
+  {
+   "n": 13,
+   "name": "AILSA, ARCHIBALD KENNEDY",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 84
+  },
+  {
+   "n": 14,
+   "name": "AINSLIE, REV",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 122
+  },
+  {
+   "n": 15,
+   "name": "AIREY, RICHARD AIREY",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 180
+  },
+  {
+   "n": 16,
+   "name": "AITCHISON, SIR JOHN",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 106
+  },
+  {
+   "n": 17,
+   "name": "AITON, JOHN",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 82
+  },
+  {
+   "n": 18,
+   "name": "ALDERSON, SIR JAMES",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 191
+  },
+  {
+   "n": 19,
+   "name": "ALDIS, SIR CHARLES",
+   "born": 1776,
+   "era": "georgian",
+   "word_count": 104
+  },
+  {
+   "n": 20,
+   "name": "ALDRIDGE, IRA FREDERICK",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 181
+  },
+  {
+   "n": 21,
+   "name": "ALEXANDER, JOHN HENRY",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 109
+  },
+  {
+   "n": 22,
+   "name": "ALISON, WILLIAM PULTENEY",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 137
+  },
+  {
+   "n": 23,
+   "name": "ALLEN, REV",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 124
+  },
+  {
+   "n": 24,
+   "name": "ALLEN, WILLIAM",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 88
+  },
+  {
+   "n": 25,
+   "name": "ALMOND, EMMA",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 113
+  },
+  {
+   "n": 26,
+   "name": "AMEUNEY, ANTONIUS GEORGE",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 94
+  },
+  {
+   "n": 27,
+   "name": "AMOS, ANDREW",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 182
+  },
+  {
+   "n": 28,
+   "name": "ANDERSON, ADAM",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 94
+  },
+  {
+   "n": 29,
+   "name": "ANDERSON, ARTHUR",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 135
+  },
+  {
+   "n": 30,
+   "name": "ANDERSON, SIR GEORGE WILLIAM",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 119
+  },
+  {
+   "n": 31,
+   "name": "ANDERSON, SIR HENRY LACON",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 111
+  },
+  {
+   "n": 32,
+   "name": "ANDERSON, SIR JAMES EGLINTON",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 94
+  },
+  {
+   "n": 33,
+   "name": "ANDERSON, JOSEPH JOCELYN",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 83
+  },
+  {
+   "n": 34,
+   "name": "ANSTER, JOHN",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 135
+  },
+  {
+   "n": 35,
+   "name": "ANSTEY, THOMAS CHISHOLM",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 328
+  },
+  {
+   "n": 36,
+   "name": "ARBUTHNOT, SIR ALEXANDER DUNDAS Young",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 118
+  },
+  {
+   "n": 37,
+   "name": "ARBUTHNOT, CHARLES GEORGE JAMES",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 91
+  },
+  {
+   "n": 38,
+   "name": "ARCEDECKNE, ANDREW",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 103
+  },
+  {
+   "n": 39,
+   "name": "ARCHER, FREDERICK SCOTT",
+   "born": 1813,
+   "era": "railway",
+   "word_count": 114
+  },
+  {
+   "n": 40,
+   "name": "ARCHIBALD, SIR THOMAS DICKSON",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 136
+  },
+  {
+   "n": 41,
+   "name": "ARMITAGE, SIR ELKANAH",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 88
+  },
+  {
+   "n": 42,
+   "name": "ARMSTRONG, SIR RICHARD",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 112
+  },
+  {
+   "n": 43,
+   "name": "ARMSTRONG, ROBERT BAYNES",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 93
+  },
+  {
+   "n": 44,
+   "name": "ARNOLD, REV",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 45,
+   "name": "ARNOLD, SAMUEL JAMES",
+   "born": 1774,
+   "era": "georgian",
+   "word_count": 159
+  },
+  {
+   "n": 46,
+   "name": "ARNOLD, THOMAS JAMES",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 100
+  },
+  {
+   "n": 47,
+   "name": "ARNOLD, REV",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 101
+  },
+  {
+   "n": 48,
+   "name": "ASHBURTON, WILLIAM BINGHAM BARING",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 132
+  },
+  {
+   "n": 49,
+   "name": "ASHWORTH, SIR FREDERICK",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 93
+  },
+  {
+   "n": 50,
+   "name": "ASHWORTH, REV",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 99
+  },
+  {
+   "n": 51,
+   "name": "ASPLAND, ALFRED",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 101
+  },
+  {
+   "n": 52,
+   "name": "ATHERTON, CHARLES",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 99
+  },
+  {
+   "n": 53,
+   "name": "ATHERTON, SIR WILLIAM",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 127
+  },
+  {
+   "n": 54,
+   "name": "ATHLUMNEY, WILLIAM MEREDYTH SOMERVILLE",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 55,
+   "name": "ATKINS, EDWARD",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 56,
+   "name": "ATKINSON, SIR JASPER",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 95
+  },
+  {
+   "n": 57,
+   "name": "AUCHMUTY, SIR SAMUEL BENJAMIN",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 90
+  },
+  {
+   "n": 58,
+   "name": "AYRE, REV",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 90
+  },
+  {
+   "n": 59,
+   "name": "AYRTON, MATILDA",
+   "born": 1846,
+   "era": "victorian",
+   "word_count": 113
+  },
+  {
+   "n": 60,
+   "name": "BABINGTON, BENJAMIN GUY",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 162
+  },
+  {
+   "n": 61,
+   "name": "BADGLEY",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 87
+  },
+  {
+   "n": 62,
+   "name": "BADHAM, REV",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 108
+  },
+  {
+   "n": 63,
+   "name": "BAILEY, SAMUEL",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 139
+  },
+  {
+   "n": 64,
+   "name": "BAIN, ALEXANDER",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 98
+  },
+  {
+   "n": 65,
+   "name": "BAINBRIGGE, SIR PHILIP",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 96
+  },
+  {
+   "n": 66,
+   "name": "BAINES, THOMAS",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 105
+  },
+  {
+   "n": 67,
+   "name": "BALDWIN, CHARLES",
+   "born": 1774,
+   "era": "georgian",
+   "word_count": 103
+  },
+  {
+   "n": 68,
+   "name": "BALL, NICHOLAS",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 81
+  },
+  {
+   "n": 69,
+   "name": "BALL, WILLIAM",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 94
+  },
+  {
+   "n": 70,
+   "name": "BALL-HUGHES, EDWARD HUGHES",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 160
+  },
+  {
+   "n": 71,
+   "name": "BALLARD, JOHN ARCHIBALD",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 83
+  },
+  {
+   "n": 72,
+   "name": "BALY, WILLIAM",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 141
+  },
+  {
+   "n": 73,
+   "name": "BANKES, GEORGE",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 141
+  },
+  {
+   "n": 74,
+   "name": "BANTING, WILLIAM",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 95
+  },
+  {
+   "n": 75,
+   "name": "BARBER, WILLIAM HENRY",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 195
+  },
+  {
+   "n": 76,
+   "name": "BARCLAY, VERY REV",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 110
+  },
+  {
+   "n": 77,
+   "name": "BARKER, HENRY ASTON",
+   "born": 1774,
+   "era": "georgian",
+   "word_count": 110
+  },
+  {
+   "n": 78,
+   "name": "BARKER, THOMAS JONES",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 96
+  },
+  {
+   "n": 79,
+   "name": "BARKER, WILLIAM BURCKHARDT",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 93
+  },
+  {
+   "n": 80,
+   "name": "BARLOW, PETER WILLIAM",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 90
+  },
+  {
+   "n": 81,
+   "name": "BARMBY, JOHN GOODWYN",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 104
+  },
+  {
+   "n": 82,
+   "name": "BARNARD, SIR ANDREW FRANCIS",
+   "born": 1773,
+   "era": "georgian",
+   "word_count": 124
+  },
+  {
+   "n": 83,
+   "name": "BARNARD, SIR HENRY WILLIAM",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 124
+  },
+  {
+   "n": 84,
+   "name": "BARRON, RIGHT REV",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 85,
+   "name": "BARRY, RIGHT REV",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 101
+  },
+  {
+   "n": 86,
+   "name": "BARRY, SIR REDMOND",
+   "born": 1813,
+   "era": "railway",
+   "word_count": 143
+  },
+  {
+   "n": 87,
+   "name": "BARRYMORE, MRS",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 92
+  },
+  {
+   "n": 88,
+   "name": "BARTHOLOMEW, VEN",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 85
+  },
+  {
+   "n": 89,
+   "name": "BARTLEY, GEORGE",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 129
+  },
+  {
+   "n": 90,
+   "name": "BATES, JOSHUA",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 104
+  },
+  {
+   "n": 91,
+   "name": "BAUME, PIERRE HENRI JOSEPH",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 112
+  },
+  {
+   "n": 92,
+   "name": "BAXTER, EVAN BUCHANAN",
+   "born": 1844,
+   "era": "victorian",
+   "word_count": 128
+  },
+  {
+   "n": 93,
+   "name": "BAYLEY, FREDERICK WILLIAM NAYLOR",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 137
+  },
+  {
+   "n": 94,
+   "name": "BAYLEY, WILLIAM BUTTERWORTH",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 81
+  },
+  {
+   "n": 95,
+   "name": "BEATSON, GEORGE STEWART",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 80
+  },
+  {
+   "n": 96,
+   "name": "BEATSON, WILLIAM FERGUSON",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 117
+  },
+  {
+   "n": 97,
+   "name": "BEATTIE, WILLIAM",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 119
+  },
+  {
+   "n": 98,
+   "name": "BEAUFORT, SIR FRANCIS",
+   "born": 1774,
+   "era": "georgian",
+   "word_count": 166
+  },
+  {
+   "n": 99,
+   "name": "BEAVAN, CHARLES",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 97
+  },
+  {
+   "n": 100,
+   "name": "BEAZLEY, SAMUEL",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 132
+  },
+  {
+   "n": 101,
+   "name": "BECHER, LADY ELIZA",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 125
+  },
+  {
+   "n": 102,
+   "name": "BEDFORD, FRANCIS",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 103,
+   "name": "BEECHING, JAMES",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 85
+  },
+  {
+   "n": 104,
+   "name": "BEHNES, WILLIAM",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 93
+  },
+  {
+   "n": 105,
+   "name": "BELCHER, SIR EDWARD",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 229
+  },
+  {
+   "n": 106,
+   "name": "BELFORD, WILLIAM ROWLES",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 124
+  },
+  {
+   "n": 107,
+   "name": "BELHAVEN",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 81
+  },
+  {
+   "n": 108,
+   "name": "BELL, REV",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 85
+  },
+  {
+   "n": 109,
+   "name": "BELL, SIR SYDNEY SMITH",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 102
+  },
+  {
+   "n": 110,
+   "name": "BELT, THOMAS",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 108
+  },
+  {
+   "n": 111,
+   "name": "BELZONI, SARAH",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 85
+  },
+  {
+   "n": 112,
+   "name": "BENJAMIN, JUDAH PHILIP",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 217
+  },
+  {
+   "n": 113,
+   "name": "BENNETT, THOMAS RANDLE",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 96
+  },
+  {
+   "n": 114,
+   "name": "BENNETT, WILLIAM",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 83
+  },
+  {
+   "n": 115,
+   "name": "BENNIS, GEORGE GEARY",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 108
+  },
+  {
+   "n": 116,
+   "name": "BENSON, REV",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 105
+  },
+  {
+   "n": 117,
+   "name": "BENSON, SIR JOHN",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 98
+  },
+  {
+   "n": 118,
+   "name": "BENTLEY, RICHARD",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 111
+  },
+  {
+   "n": 119,
+   "name": "BERGNE, JOHN BRODRIBB",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 96
+  },
+  {
+   "n": 120,
+   "name": "BERNARD, HERMANN",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 111
+  },
+  {
+   "n": 121,
+   "name": "BETHELL, JOHN",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 101
+  },
+  {
+   "n": 122,
+   "name": "BICHENO, JAMES EBENEZER",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 108
+  },
+  {
+   "n": 123,
+   "name": "BINDLEY, CHARLES",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 104
+  },
+  {
+   "n": 124,
+   "name": "BINDON, SAMUEL HENRY",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 108
+  },
+  {
+   "n": 125,
+   "name": "BINGHAM, PEREGRINE",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 139
+  },
+  {
+   "n": 126,
+   "name": "BINGHAM, REV",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 103
+  },
+  {
+   "n": 127,
+   "name": "BINNEY, EDWARD WILLIAM",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 116
+  },
+  {
+   "n": 128,
+   "name": "BINNEY, REV",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 300
+  },
+  {
+   "n": 129,
+   "name": "BIRCH, REV",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 115
+  },
+  {
+   "n": 130,
+   "name": "BIRD, ROBERT MERTTINS",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 86
+  },
+  {
+   "n": 131,
+   "name": "BIRD, WILLIAM WILBERFORCE",
+   "born": 1784,
+   "era": "georgian",
+   "word_count": 107
+  },
+  {
+   "n": 132,
+   "name": "BIRKINSHAW, JOHN CASS",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 90
+  },
+  {
+   "n": 133,
+   "name": "BIRMINGHAM, JOHN",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 81
+  },
+  {
+   "n": 134,
+   "name": "BISHOP, ANNE",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 206
+  },
+  {
+   "n": 135,
+   "name": "BLACK, REV",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 105
+  },
+  {
+   "n": 136,
+   "name": "BLACK, JAMES",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 143
+  },
+  {
+   "n": 137,
+   "name": "BLACK, JOHN",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 98
+  },
+  {
+   "n": 138,
+   "name": "BLACK, PATRICK",
+   "born": 1813,
+   "era": "railway",
+   "word_count": 112
+  },
+  {
+   "n": 139,
+   "name": "BLACKALL, SAMUEL WENSLEY",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 95
+  },
+  {
+   "n": 140,
+   "name": "BLACKBURN, REV",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 101
+  },
+  {
+   "n": 141,
+   "name": "BLACKER, REV",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 88
+  },
+  {
+   "n": 142,
+   "name": "BLACKWOOD, GEORGE FREDERICK",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 143,
+   "name": "BLAKENEY, SIR EDWARD",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 132
+  },
+  {
+   "n": 144,
+   "name": "BLEECK, ARTHUR HENRY",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 93
+  },
+  {
+   "n": 145,
+   "name": "BLENKIRON, WILLIAM",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 168
+  },
+  {
+   "n": 146,
+   "name": "BLEWITT, JONATHAN",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 168
+  },
+  {
+   "n": 147,
+   "name": "BLUNT, REV",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 201
+  },
+  {
+   "n": 148,
+   "name": "BODE, REV",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 107
+  },
+  {
+   "n": 149,
+   "name": "BOLENO, HARRY",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 162
+  },
+  {
+   "n": 150,
+   "name": "BOLLAERT, WILLIAM",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 108
+  },
+  {
+   "n": 151,
+   "name": "BOND, HENRY JOHN HAYLES",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 86
+  },
+  {
+   "n": 152,
+   "name": "BONNEY, FRANCIS AUGUSTUS BURDETT",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 91
+  },
+  {
+   "n": 153,
+   "name": "BOOTH, JAMES",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 131
+  },
+  {
+   "n": 154,
+   "name": "BOOTH, SARAH",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 98
+  },
+  {
+   "n": 155,
+   "name": "BORLAND, JAMES",
+   "born": 1774,
+   "era": "georgian",
+   "word_count": 95
+  },
+  {
+   "n": 156,
+   "name": "BOSWORTH, REV",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 161
+  },
+  {
+   "n": 157,
+   "name": "BOUCHER, REV",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 158,
+   "name": "BOUCHIER, REV",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 89
+  },
+  {
+   "n": 159,
+   "name": "BOULT, SWINTON",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 106
+  },
+  {
+   "n": 160,
+   "name": "BOURDILLON, JAMES DEWAR",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 113
+  },
+  {
+   "n": 161,
+   "name": "BOURKE, WALTER MCWILLIAM",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 88
+  },
+  {
+   "n": 162,
+   "name": "BOVILL, GEORGE HINTON",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 133
+  },
+  {
+   "n": 163,
+   "name": "BOWERBANK, JAMES SCOTT",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 108
+  },
+  {
+   "n": 164,
+   "name": "BOWERS, VERY REV",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 118
+  },
+  {
+   "n": 165,
+   "name": "BOWLBY, THOMAS WILLIAM",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 121
+  },
+  {
+   "n": 166,
+   "name": "BOWLES, SIR GEORGE",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 130
+  },
+  {
+   "n": 167,
+   "name": "BOWLES, SIR WILLIAM",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 132
+  },
+  {
+   "n": 168,
+   "name": "BOWMAN, HENRIETTA",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 99
+  },
+  {
+   "n": 169,
+   "name": "BOYD, VERY REV",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 129
+  },
+  {
+   "n": 170,
+   "name": "BOYD, BENJAMIN",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 110
+  },
+  {
+   "n": 171,
+   "name": "BOYD, JOHN M’NEILL",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 102
+  },
+  {
+   "n": 172,
+   "name": "BOYLE, ROBERT",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 95
+  },
+  {
+   "n": 173,
+   "name": "BOYS, EDWARD",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 96
+  },
+  {
+   "n": 174,
+   "name": "BOYS, REV",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 117
+  },
+  {
+   "n": 175,
+   "name": "BRADLEY, REV",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 104
+  },
+  {
+   "n": 176,
+   "name": "BRAIDWOOD, JAMES",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 135
+  },
+  {
+   "n": 177,
+   "name": "BRAND, WILLIAM",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 81
+  },
+  {
+   "n": 178,
+   "name": "BRANDE, EVERARD AUGUSTUS",
+   "born": 1776,
+   "era": "georgian",
+   "word_count": 94
+  },
+  {
+   "n": 179,
+   "name": "BRANDON, JOHN RAPHAEL",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 120
+  },
+  {
+   "n": 180,
+   "name": "BRANDT, FRANCIS FREDERICK",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 99
+  },
+  {
+   "n": 181,
+   "name": "BRAYLEY, EDWARD WEDLAKE",
+   "born": 1773,
+   "era": "georgian",
+   "word_count": 133
+  },
+  {
+   "n": 182,
+   "name": "BRAYLEY, EDWARD WILLIAM",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 114
+  },
+  {
+   "n": 183,
+   "name": "BRENTON, SIR LANCELOT CHARLES LEE",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 134
+  },
+  {
+   "n": 184,
+   "name": "BRERETON, SIR WILLIAM",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 98
+  },
+  {
+   "n": 185,
+   "name": "BRETT, JOHN WATKINS",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 114
+  },
+  {
+   "n": 186,
+   "name": "BREWER, REV",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 167
+  },
+  {
+   "n": 187,
+   "name": "BREWSTER, ABRAHAM",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 121
+  },
+  {
+   "n": 188,
+   "name": "BRIGHT, REV",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 89
+  },
+  {
+   "n": 189,
+   "name": "BRIGSTOCKE, THOMAS",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 91
+  },
+  {
+   "n": 190,
+   "name": "BROMFIELD, WILLIAM ARNOLD",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 112
+  },
+  {
+   "n": 191,
+   "name": "BROOKE, RICHARD",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 107
+  },
+  {
+   "n": 192,
+   "name": "BROOKE, WILLIAM HENRY",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 136
+  },
+  {
+   "n": 193,
+   "name": "BROOM, HERBERT",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 106
+  },
+  {
+   "n": 194,
+   "name": "BROOME, HENRY ALFRED",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 180
+  },
+  {
+   "n": 195,
+   "name": "BROTHERTON, EDWARD",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 94
+  },
+  {
+   "n": 196,
+   "name": "BROTHERTON, SIR THOMAS WILLIAM",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 129
+  },
+  {
+   "n": 197,
+   "name": "BROWN, CHARLES PHILIP",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 126
+  },
+  {
+   "n": 198,
+   "name": "BROWN, JOSEPH",
+   "born": 1784,
+   "era": "georgian",
+   "word_count": 114
+  },
+  {
+   "n": 199,
+   "name": "BROWN, RAWDON LUBBOCK",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 91
+  },
+  {
+   "n": 200,
+   "name": "BROWN, SIR SAMUEL",
+   "born": 1776,
+   "era": "georgian",
+   "word_count": 90
+  },
+  {
+   "n": 201,
+   "name": "BROWN, SAMUEL",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 95
+  },
+  {
+   "n": 202,
+   "name": "BROWN, THOMAS",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 108
+  },
+  {
+   "n": 203,
+   "name": "BROWN, SIR WILLIAM",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 82
+  },
+  {
+   "n": 204,
+   "name": "BROWNE, GEORGE",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 94
+  },
+  {
+   "n": 205,
+   "name": "BROWNE, REV",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 111
+  },
+  {
+   "n": 206,
+   "name": "BROWNE, JOHN ROSS",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 90
+  },
+  {
+   "n": 207,
+   "name": "BROWNE, WALTER RALEIGH",
+   "born": 1842,
+   "era": "victorian",
+   "word_count": 127
+  },
+  {
+   "n": 208,
+   "name": "BROWNE, WILLIAM ALEXANDER FRANCIS",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 209,
+   "name": "BROWNSMITH, JOHN LEMAN",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 82
+  },
+  {
+   "n": 210,
+   "name": "BRUCE, JOHN",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 85
+  },
+  {
+   "n": 211,
+   "name": "BRUNTON, REV",
+   "born": 1772,
+   "era": "georgian",
+   "word_count": 92
+  },
+  {
+   "n": 212,
+   "name": "BUCHANAN, GEORGE",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 86
+  },
+  {
+   "n": 213,
+   "name": "BUCHANAN, REV",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 85
+  },
+  {
+   "n": 214,
+   "name": "BUCHANAN, REV",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 100
+  },
+  {
+   "n": 215,
+   "name": "BUCHANAN, WILLIAM",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 81
+  },
+  {
+   "n": 216,
+   "name": "BUCKLEY, WILLIAM",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 124
+  },
+  {
+   "n": 217,
+   "name": "BUCKLEY-MATHEW, SIR GEORGE BENVENUTO",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 136
+  },
+  {
+   "n": 218,
+   "name": "BUCKMAN, JAMES",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 99
+  },
+  {
+   "n": 219,
+   "name": "BUDD, GEORGE",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 131
+  },
+  {
+   "n": 220,
+   "name": "BUDD, WILLIAM",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 81
+  },
+  {
+   "n": 221,
+   "name": "BUDGE, REV",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 88
+  },
+  {
+   "n": 222,
+   "name": "BULLIONS, REV",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 93
+  },
+  {
+   "n": 223,
+   "name": "BULLOCK, REV",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 89
+  },
+  {
+   "n": 224,
+   "name": "BULTEEL, HENRY BELLENDEN",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 177
+  },
+  {
+   "n": 225,
+   "name": "BURCHELL, WILLIAM JOHN",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 97
+  },
+  {
+   "n": 226,
+   "name": "BURGES, GEORGE",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 138
+  },
+  {
+   "n": 227,
+   "name": "BURKE, ROBERT O’HARA",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 122
+  },
+  {
+   "n": 228,
+   "name": "BURNELL, GEORGE ROWDEN",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 114
+  },
+  {
+   "n": 229,
+   "name": "BURNETT, SIR WILLIAM",
+   "born": 1779,
+   "era": "georgian",
+   "word_count": 187
+  },
+  {
+   "n": 230,
+   "name": "BURTON, WILLIAM EVANS",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 178
+  },
+  {
+   "n": 231,
+   "name": "BUSHNAN, JOHN STEVENSON",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 91
+  },
+  {
+   "n": 232,
+   "name": "BUTLER, FRANCIS",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 233,
+   "name": "BUTLER, JAMES ARMAR",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 234,
+   "name": "CABBELL, BENJAMIN BOND",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 99
+  },
+  {
+   "n": 235,
+   "name": "CADBURY, RICHARD TAPPER",
+   "born": 1768,
+   "era": "georgian",
+   "word_count": 81
+  },
+  {
+   "n": 236,
+   "name": "CADELL, FRANCIS",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 133
+  },
+  {
+   "n": 237,
+   "name": "CALCRAFT, WILLIAM",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 111
+  },
+  {
+   "n": 238,
+   "name": "CALDWELL, SIR JAMES LILLYMAN",
+   "born": 1770,
+   "era": "georgian",
+   "word_count": 81
+  },
+  {
+   "n": 239,
+   "name": "CALVERT, REV",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 89
+  },
+  {
+   "n": 240,
+   "name": "CAMERON, REV",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 91
+  },
+  {
+   "n": 241,
+   "name": "CAMERON, GEORGE POULETT",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 100
+  },
+  {
+   "n": 242,
+   "name": "CAMIDGE, JOHN",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 95
+  },
+  {
+   "n": 243,
+   "name": "CAMPBELL, REV",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 91
+  },
+  {
+   "n": 244,
+   "name": "CAMPBELL, SIR JOHN",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 86
+  },
+  {
+   "n": 245,
+   "name": "CAMPBELL, SIR JOHN",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 112
+  },
+  {
+   "n": 246,
+   "name": "CAMPBELL, ROBERT CALDER",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 103
+  },
+  {
+   "n": 247,
+   "name": "CANNON, ROBERT",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 160
+  },
+  {
+   "n": 248,
+   "name": "CARADORI-ALLAN, MARIA CATERINA ROSALBINA",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 157
+  },
+  {
+   "n": 249,
+   "name": "CAREW, JOHN EDWARD",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 153
+  },
+  {
+   "n": 250,
+   "name": "CAREY, JAMES",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 108
+  },
+  {
+   "n": 251,
+   "name": "CARLETON, JOHN WILLIAM",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 98
+  },
+  {
+   "n": 252,
+   "name": "CARLILE, REV",
+   "born": 1784,
+   "era": "georgian",
+   "word_count": 97
+  },
+  {
+   "n": 253,
+   "name": "CARMICHAEL, JAMES",
+   "born": 1776,
+   "era": "georgian",
+   "word_count": 105
+  },
+  {
+   "n": 254,
+   "name": "CARON",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 112
+  },
+  {
+   "n": 255,
+   "name": "CARPENTER, REV",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 86
+  },
+  {
+   "n": 256,
+   "name": "CARPENTER, WILLIAM",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 147
+  },
+  {
+   "n": 257,
+   "name": "CARTLITCH, JOHN",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 156
+  },
+  {
+   "n": 258,
+   "name": "CARTWRIGHT, SAMUEL",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 96
+  },
+  {
+   "n": 259,
+   "name": "CARY, GEORGE HUNTER",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 260,
+   "name": "CARYSFORT, JOHN PROBY",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 93
+  },
+  {
+   "n": 261,
+   "name": "CASWALL, REV",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 110
+  },
+  {
+   "n": 262,
+   "name": "CATTERMOLE, REV",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 88
+  },
+  {
+   "n": 263,
+   "name": "CAUSTON, SIR JOSEPH",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 87
+  },
+  {
+   "n": 264,
+   "name": "CAUTLEY, SIR PROBY THOMAS",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 133
+  },
+  {
+   "n": 265,
+   "name": "CAVENDISH, FREDERICK CHARLES",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 177
+  },
+  {
+   "n": 266,
+   "name": "CECIL, REV",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 80
+  },
+  {
+   "n": 267,
+   "name": "CHABOT, CHARLES",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 85
+  },
+  {
+   "n": 268,
+   "name": "CHADS, SIR HENRY DUCIE",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 146
+  },
+  {
+   "n": 269,
+   "name": "CHALMERS, GEORGE PAUL",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 86
+  },
+  {
+   "n": 270,
+   "name": "CHALMERS, SIR WILLIAM",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 105
+  },
+  {
+   "n": 271,
+   "name": "CHAMBERLAYNE, THOMAS",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 150
+  },
+  {
+   "n": 272,
+   "name": "CHAMBERS, WILLIAM FREDERIC",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 159
+  },
+  {
+   "n": 273,
+   "name": "CHAMIER, FREDERICK",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 125
+  },
+  {
+   "n": 274,
+   "name": "CHANDLER, JOHANNA",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 83
+  },
+  {
+   "n": 275,
+   "name": "CHAPMAN, HENRY SAMUEL",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 122
+  },
+  {
+   "n": 276,
+   "name": "CHAPMAN, HENRY THOMAS",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 88
+  },
+  {
+   "n": 277,
+   "name": "CHAPMAN, SIR STEPHEN REMNANT",
+   "born": 1776,
+   "era": "georgian",
+   "word_count": 109
+  },
+  {
+   "n": 278,
+   "name": "CHARNOCK, RICHARD",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 115
+  },
+  {
+   "n": 279,
+   "name": "CHART, HENRY NYE",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 105
+  },
+  {
+   "n": 280,
+   "name": "CHASE, ANN",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 104
+  },
+  {
+   "n": 281,
+   "name": "CHATTERTON, SIR JAMES CHARLES",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 121
+  },
+  {
+   "n": 282,
+   "name": "CHATTERTON, JOHN BALSIR",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 85
+  },
+  {
+   "n": 283,
+   "name": "CHAVASSE, PYE HENRY",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 96
+  },
+  {
+   "n": 284,
+   "name": "CHEAPE, DOUGLAS",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 111
+  },
+  {
+   "n": 285,
+   "name": "CHENERY, THOMAS",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 147
+  },
+  {
+   "n": 286,
+   "name": "CHERMSIDE, SIR ROBERT ALEXANDER",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 87
+  },
+  {
+   "n": 287,
+   "name": "CHEVERS, NORMAN",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 143
+  },
+  {
+   "n": 288,
+   "name": "CHIFNEY, SAMUEL",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 104
+  },
+  {
+   "n": 289,
+   "name": "CHILDE, HENRY LANGDON",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 80
+  },
+  {
+   "n": 290,
+   "name": "CHILDERS, ROBERT",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 142
+  },
+  {
+   "n": 291,
+   "name": "CHISHOLM, CAROLINE",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 128
+  },
+  {
+   "n": 292,
+   "name": "CHITTY, EDWARD",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 99
+  },
+  {
+   "n": 293,
+   "name": "CHITTY, THOMAS",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 97
+  },
+  {
+   "n": 294,
+   "name": "CHORLEY, CHARLES",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 109
+  },
+  {
+   "n": 295,
+   "name": "CHRISTIE, ALEXANDER",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 87
+  },
+  {
+   "n": 296,
+   "name": "CHRISTMAS, REV",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 162
+  },
+  {
+   "n": 297,
+   "name": "CHURCH, SIR RICHARD",
+   "born": 1784,
+   "era": "georgian",
+   "word_count": 82
+  },
+  {
+   "n": 298,
+   "name": "CHURCHILL, FLEETWOOD",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 83
+  },
+  {
+   "n": 299,
+   "name": "CHURCHILL, HENRY ADRIAN",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 86
+  },
+  {
+   "n": 300,
+   "name": "CLARK, THOMAS",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 86
+  },
+  {
+   "n": 301,
+   "name": "CLARK, WILLIAM GEORGE",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 162
+  },
+  {
+   "n": 302,
+   "name": "CLARK, SIR WILLIAM STEPHENSON",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 95
+  },
+  {
+   "n": 303,
+   "name": "CLARK-KENNEDY, SIR ALEXANDER KENNEDY",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 110
+  },
+  {
+   "n": 304,
+   "name": "CLARKE, JAMES FERNANDEZ",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 82
+  },
+  {
+   "n": 305,
+   "name": "CLARKE, JOHN",
+   "born": 1830,
+   "era": "victorian",
+   "word_count": 177
+  },
+  {
+   "n": 306,
+   "name": "CLARKE, REV",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 96
+  },
+  {
+   "n": 307,
+   "name": "CLARKE, SEYMOUR",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 81
+  },
+  {
+   "n": 308,
+   "name": "CLARKE, WILLIAM FAIRLIE",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 119
+  },
+  {
+   "n": 309,
+   "name": "CLASPER, HENRY",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 186
+  },
+  {
+   "n": 310,
+   "name": "CLAY, JAMES",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 251
+  },
+  {
+   "n": 311,
+   "name": "CLAY, REV",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 118
+  },
+  {
+   "n": 312,
+   "name": "CLEMO, EBENEZER",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 313,
+   "name": "CLIFTON, SIR",
+   "born": 1772,
+   "era": "georgian",
+   "word_count": 104
+  },
+  {
+   "n": 314,
+   "name": "CLISSOLD, REV",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 118
+  },
+  {
+   "n": 315,
+   "name": "CLIVE, GEORGE",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 128
+  },
+  {
+   "n": 316,
+   "name": "COBBIN, REV",
+   "born": 1777,
+   "era": "georgian",
+   "word_count": 115
+  },
+  {
+   "n": 317,
+   "name": "COBBOLD, REV",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 82
+  },
+  {
+   "n": 318,
+   "name": "COCHRANE, JOHN GEORGE",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 106
+  },
+  {
+   "n": 319,
+   "name": "COCKAYNE, REV",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 102
+  },
+  {
+   "n": 320,
+   "name": "COGAN, REV",
+   "born": 1762,
+   "era": "georgian",
+   "word_count": 86
+  },
+  {
+   "n": 321,
+   "name": "COLEBROOKE, SIR WILLIAM MACBEAN GEORGE",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 121
+  },
+  {
+   "n": 322,
+   "name": "COLLINS, FRANCES",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 159
+  },
+  {
+   "n": 323,
+   "name": "COLLINS, JOHN",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 112
+  },
+  {
+   "n": 324,
+   "name": "COLLINSON, JAMES",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 89
+  },
+  {
+   "n": 325,
+   "name": "COLVIN, JOHN RUSSELL",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 107
+  },
+  {
+   "n": 326,
+   "name": "COMBE, THOMAS",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 102
+  },
+  {
+   "n": 327,
+   "name": "CONDY, NICHOLAS",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 100
+  },
+  {
+   "n": 328,
+   "name": "CONGREVE, SIR WILLIAM AUGUSTUS",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 329,
+   "name": "CONINGHAM, WILLIAM",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 88
+  },
+  {
+   "n": 330,
+   "name": "CONNELLAN, OWEN",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 91
+  },
+  {
+   "n": 331,
+   "name": "CONQUEST, JOHN TRICKER",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 116
+  },
+  {
+   "n": 332,
+   "name": "COODE, GEORGE",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 130
+  },
+  {
+   "n": 333,
+   "name": "COOKE, GEORGE WINGROVE",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 144
+  },
+  {
+   "n": 334,
+   "name": "COOKE, SIR JOHN HENRY",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 83
+  },
+  {
+   "n": 335,
+   "name": "COOKE, REV",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 131
+  },
+  {
+   "n": 336,
+   "name": "COOKE, REV",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 96
+  },
+  {
+   "n": 337,
+   "name": "COOKE, SIR WILLIAM FOTHERGILL",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 244
+  },
+  {
+   "n": 338,
+   "name": "COOMBES, ROBERT",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 145
+  },
+  {
+   "n": 339,
+   "name": "COOPE, OCTAVIUS EDWARD",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 129
+  },
+  {
+   "n": 340,
+   "name": "COOPER, CHARLES PURTON",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 209
+  },
+  {
+   "n": 341,
+   "name": "COOPER, EDWARD JOSHUA",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 105
+  },
+  {
+   "n": 342,
+   "name": "COOPER, JOHN",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 138
+  },
+  {
+   "n": 343,
+   "name": "COOPER, WILLIAM RICKETTS",
+   "born": 1843,
+   "era": "victorian",
+   "word_count": 99
+  },
+  {
+   "n": 344,
+   "name": "COOTE, HENRY CHARLES",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 106
+  },
+  {
+   "n": 345,
+   "name": "COPELAND, THOMAS",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 101
+  },
+  {
+   "n": 346,
+   "name": "COPLAND, JAMES",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 152
+  },
+  {
+   "n": 347,
+   "name": "CORBALLIS, JOHN RICHARD",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 88
+  },
+  {
+   "n": 348,
+   "name": "CORBAUX, MARIE FRAN",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 133
+  },
+  {
+   "n": 349,
+   "name": "CORMACK, SIR JOHN ROSE",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 107
+  },
+  {
+   "n": 350,
+   "name": "CORRI, HAYDN",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 139
+  },
+  {
+   "n": 351,
+   "name": "CORRI, PATRICK ANTHONY",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 90
+  },
+  {
+   "n": 352,
+   "name": "CORSER, REV",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 125
+  },
+  {
+   "n": 353,
+   "name": "COSTELLO, DUDLEY",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 147
+  },
+  {
+   "n": 354,
+   "name": "COSTELLO, LOUISA STUART",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 104
+  },
+  {
+   "n": 355,
+   "name": "COTTERILL, RIGHT REV",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 119
+  },
+  {
+   "n": 356,
+   "name": "COTTLE, JOSEPH",
+   "born": 1770,
+   "era": "georgian",
+   "word_count": 94
+  },
+  {
+   "n": 357,
+   "name": "COTTON, VERY REV",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 144
+  },
+  {
+   "n": 358,
+   "name": "COTTON, WILLIAM",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 111
+  },
+  {
+   "n": 359,
+   "name": "COTTON, SIR WILLOUGHBY",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 149
+  },
+  {
+   "n": 360,
+   "name": "COULSON, WALTER",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 104
+  },
+  {
+   "n": 361,
+   "name": "COWEN, SIR JOSEPH",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 81
+  },
+  {
+   "n": 362,
+   "name": "COWIE, HUGH",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 102
+  },
+  {
+   "n": 363,
+   "name": "COWPER, EDWARD",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 90
+  },
+  {
+   "n": 364,
+   "name": "COX, REV",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 117
+  },
+  {
+   "n": 365,
+   "name": "COX, EDWARD WILLIAM",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 221
+  },
+  {
+   "n": 366,
+   "name": "COX, REV",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 111
+  },
+  {
+   "n": 367,
+   "name": "COXE, SIR JAMES",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 86
+  },
+  {
+   "n": 368,
+   "name": "COYNE, JOSEPH STIRLING",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 151
+  },
+  {
+   "n": 369,
+   "name": "CRAIGIE, SIR PATRICK EDMONSTONE",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 101
+  },
+  {
+   "n": 370,
+   "name": "CRAIK, GEORGE LILLIE",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 165
+  },
+  {
+   "n": 371,
+   "name": "CRAMPTON, PHILIP CECIL",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 132
+  },
+  {
+   "n": 372,
+   "name": "CRAMPTON, THOMAS",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 99
+  },
+  {
+   "n": 373,
+   "name": "CRAUFURD, JAMES",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 84
+  },
+  {
+   "n": 374,
+   "name": "CRAWFORD, GEORGE MORLAND",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 83
+  },
+  {
+   "n": 375,
+   "name": "CREASY, SIR EDWARD SHEPHERD",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 167
+  },
+  {
+   "n": 376,
+   "name": "CRESSWELL, SIR CRESSWELL",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 184
+  },
+  {
+   "n": 377,
+   "name": "CRESTADORO, ANDREA",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 154
+  },
+  {
+   "n": 378,
+   "name": "CRICHTON, SIR ARCHIBALD WILLIAM",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 87
+  },
+  {
+   "n": 379,
+   "name": "CRINNON, RIGHT REV",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 380,
+   "name": "CRIPPS, JOHN MARTEN",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 87
+  },
+  {
+   "n": 381,
+   "name": "CROSS, JOHN",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 97
+  },
+  {
+   "n": 382,
+   "name": "CROWDER, SIR RICHARD BUDDEN",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 112
+  },
+  {
+   "n": 383,
+   "name": "CROWE, CATHERINE ANN",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 251
+  },
+  {
+   "n": 384,
+   "name": "CRUM, WALTER",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 86
+  },
+  {
+   "n": 385,
+   "name": "CUBBON, SIR MARK",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 101
+  },
+  {
+   "n": 386,
+   "name": "CUBITT, SIR WILLIAM",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 168
+  },
+  {
+   "n": 387,
+   "name": "CUBITT, WILLIAM",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 96
+  },
+  {
+   "n": 388,
+   "name": "CULLIMORE, ISAAC",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 93
+  },
+  {
+   "n": 389,
+   "name": "CUMBERLAND, FREDERIC WILLIAM",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 83
+  },
+  {
+   "n": 390,
+   "name": "CUNNINGHAM, PETER MILLER",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 90
+  },
+  {
+   "n": 391,
+   "name": "CURETON, REV",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 168
+  },
+  {
+   "n": 392,
+   "name": "CURLING, THOMAS BLIZARD",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 100
+  },
+  {
+   "n": 393,
+   "name": "CUSACK, JAMES WILLIAM",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 111
+  },
+  {
+   "n": 394,
+   "name": "DACRES, SIR RICHARD JAMES",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 86
+  },
+  {
+   "n": 395,
+   "name": "DACRES, SIR SIDNEY COLPOYS",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 227
+  },
+  {
+   "n": 396,
+   "name": "DAGLISH, ROBERT",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 275
+  },
+  {
+   "n": 397,
+   "name": "DAINTREE, RICHARD",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 197
+  },
+  {
+   "n": 398,
+   "name": "DALLAS, ENEAS SWEETLAND",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 146
+  },
+  {
+   "n": 399,
+   "name": "DALRYMPLE, SIR ADOLPHUS JOHN",
+   "born": 1784,
+   "era": "georgian",
+   "word_count": 87
+  },
+  {
+   "n": 400,
+   "name": "DALRYMPLE, JOHN",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 93
+  },
+  {
+   "n": 401,
+   "name": "DALYELL, SIR JOHN GRAHAM",
+   "born": 1775,
+   "era": "georgian",
+   "word_count": 128
+  },
+  {
+   "n": 402,
+   "name": "DANCE, CHARLES",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 93
+  },
+  {
+   "n": 403,
+   "name": "DANIELL, WILLIAM FREEMAN",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 404,
+   "name": "DANSEY, REV",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 102
+  },
+  {
+   "n": 405,
+   "name": "DARBY-GRIFFITH, CHRISTOPHER",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 121
+  },
+  {
+   "n": 406,
+   "name": "DARLEY, RIGHT REV",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 109
+  },
+  {
+   "n": 407,
+   "name": "DARLING, SIR CHARLES HENRY",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 93
+  },
+  {
+   "n": 408,
+   "name": "DARLING, JAMES",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 80
+  },
+  {
+   "n": 409,
+   "name": "DARLING, SIR RALPH",
+   "born": 1775,
+   "era": "georgian",
+   "word_count": 117
+  },
+  {
+   "n": 410,
+   "name": "DART, JOSEPH HENRY",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 114
+  },
+  {
+   "n": 411,
+   "name": "DAVENPORT, JOHN MARRIOTT",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 89
+  },
+  {
+   "n": 412,
+   "name": "DAVIES, DAVID CHRISTOPHER",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 86
+  },
+  {
+   "n": 413,
+   "name": "DAVIES, WILLIAM EDMUND",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 180
+  },
+  {
+   "n": 414,
+   "name": "DAVIS, RIGHT REV",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 82
+  },
+  {
+   "n": 415,
+   "name": "DAVIS, JAMES EDWARD",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 113
+  },
+  {
+   "n": 416,
+   "name": "DAVISON, MARIA REBECCA",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 124
+  },
+  {
+   "n": 417,
+   "name": "DAVY, DAVID ELISHA",
+   "born": 1769,
+   "era": "georgian",
+   "word_count": 102
+  },
+  {
+   "n": 418,
+   "name": "DAVY, EDMUND",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 104
+  },
+  {
+   "n": 419,
+   "name": "DAVY, SIR WILLIAM GABRIEL",
+   "born": 1779,
+   "era": "georgian",
+   "word_count": 81
+  },
+  {
+   "n": 420,
+   "name": "DAWSON, ROBERT KEARSLEY",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 90
+  },
+  {
+   "n": 421,
+   "name": "DAY, JOHN BARHAM",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 106
+  },
+  {
+   "n": 422,
+   "name": "DAYMAN, REV",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 423,
+   "name": "DEALTRY, RIGHT REV",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 105
+  },
+  {
+   "n": 424,
+   "name": "DEANE, SIR THOMAS",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 83
+  },
+  {
+   "n": 425,
+   "name": "DEAS, SIR DAVID",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 426,
+   "name": "DEASY, RICKARD",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 97
+  },
+  {
+   "n": 427,
+   "name": "DE",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 428,
+   "name": "DE",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 161
+  },
+  {
+   "n": 429,
+   "name": "DELAGARDE, PHILIP CHILWELL",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 153
+  },
+  {
+   "n": 430,
+   "name": "DE",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 118
+  },
+  {
+   "n": 431,
+   "name": "DE",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 91
+  },
+  {
+   "n": 432,
+   "name": "DENDY, WALTER COOPER",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 96
+  },
+  {
+   "n": 433,
+   "name": "DE",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 90
+  },
+  {
+   "n": 434,
+   "name": "DE",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 91
+  },
+  {
+   "n": 435,
+   "name": "DIAMOND, HUGH WELCH",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 98
+  },
+  {
+   "n": 436,
+   "name": "DICK, ROBERT",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 116
+  },
+  {
+   "n": 437,
+   "name": "DICKINSON, SIR JOHN NODES",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 95
+  },
+  {
+   "n": 438,
+   "name": "DICKSON, ELIZABETH",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 95
+  },
+  {
+   "n": 439,
+   "name": "DICKSON, ELLEN",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 88
+  },
+  {
+   "n": 440,
+   "name": "DICKSON, ROBERT",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 100
+  },
+  {
+   "n": 441,
+   "name": "DIGBY, KENELM HENRY",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 91
+  },
+  {
+   "n": 442,
+   "name": "DILLON, JOHN BLAKE",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 139
+  },
+  {
+   "n": 443,
+   "name": "DIPROSE, JOHN",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 117
+  },
+  {
+   "n": 444,
+   "name": "DISTIN, JOHN",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 80
+  },
+  {
+   "n": 445,
+   "name": "DIXON, WILLIAM JERROLD",
+   "born": 1848,
+   "era": "victorian",
+   "word_count": 128
+  },
+  {
+   "n": 446,
+   "name": "DOBSON, JOHN",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 86
+  },
+  {
+   "n": 447,
+   "name": "DODD, GEORGE",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 92
+  },
+  {
+   "n": 448,
+   "name": "DODSWORTH, REV",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 91
+  },
+  {
+   "n": 449,
+   "name": "DONOUGHMORE, JOHN HELY-HUTCHINSON",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 188
+  },
+  {
+   "n": 450,
+   "name": "DOUBLEDAY, THOMAS",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 126
+  },
+  {
+   "n": 451,
+   "name": "DOUDNEY, REV",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 107
+  },
+  {
+   "n": 452,
+   "name": "DOUGLAS, SIR NEIL",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 132
+  },
+  {
+   "n": 453,
+   "name": "DOVETON, SIR JOHN",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 91
+  },
+  {
+   "n": 454,
+   "name": "DOWLING, VINCENT GEORGE",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 113
+  },
+  {
+   "n": 455,
+   "name": "DOWNIE, SIR ALEXANDER MACKENZIE",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 90
+  },
+  {
+   "n": 456,
+   "name": "DOWNMAN, SIR THOMAS CHARLES FRANCIS",
+   "born": 1776,
+   "era": "georgian",
+   "word_count": 85
+  },
+  {
+   "n": 457,
+   "name": "DOYLE, ANDREW",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 92
+  },
+  {
+   "n": 458,
+   "name": "DOYLE, JOHN",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 107
+  },
+  {
+   "n": 459,
+   "name": "DOYLE, SIR JOHN MILLEY",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 135
+  },
+  {
+   "n": 460,
+   "name": "DOYLE, RICHARD",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 166
+  },
+  {
+   "n": 461,
+   "name": "DOYLE, SIR WILLIAM HENRY",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 88
+  },
+  {
+   "n": 462,
+   "name": "DOYNE, WILLIAM THOMAS",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 111
+  },
+  {
+   "n": 463,
+   "name": "DREW, REV",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 133
+  },
+  {
+   "n": 464,
+   "name": "DROOP, HENRY RICHMOND",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 465,
+   "name": "DRUITT, ROBERT",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 119
+  },
+  {
+   "n": 466,
+   "name": "DRUMMOND, JAMES LAWSON",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 118
+  },
+  {
+   "n": 467,
+   "name": "DRUMMOND, PETER ROBERT",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 97
+  },
+  {
+   "n": 468,
+   "name": "DRUMMOND, REV",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 132
+  },
+  {
+   "n": 469,
+   "name": "DRURY, WILLIAM BARKER",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 107
+  },
+  {
+   "n": 470,
+   "name": "DUANE, WILLIAM JOHN",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 96
+  },
+  {
+   "n": 471,
+   "name": "DUDLEY, REV",
+   "born": 1762,
+   "era": "georgian",
+   "word_count": 82
+  },
+  {
+   "n": 472,
+   "name": "DUFF, MARY ANN",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 111
+  },
+  {
+   "n": 473,
+   "name": "DUFFY, EDWARD",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 88
+  },
+  {
+   "n": 474,
+   "name": "DUMBRECK, SIR DAVID",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 87
+  },
+  {
+   "n": 475,
+   "name": "DUNCAN, REV",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 144
+  },
+  {
+   "n": 476,
+   "name": "DUNCOMBE, THOMAS SLINGSBY",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 195
+  },
+  {
+   "n": 477,
+   "name": "DUNDAS, SIR DAVID",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 94
+  },
+  {
+   "n": 478,
+   "name": "DUNN, JOHN",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 126
+  },
+  {
+   "n": 479,
+   "name": "DUNN, ROBERT",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 93
+  },
+  {
+   "n": 480,
+   "name": "DUNNE, FRANCIS PLUNKETT",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 107
+  },
+  {
+   "n": 481,
+   "name": "DUTTON, FRANCIS STACKER",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 176
+  },
+  {
+   "n": 482,
+   "name": "DYCE-SOMBRE, DAVID OCHTERLONY",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 213
+  },
+  {
+   "n": 483,
+   "name": "EDISON, JOHN SIBBALD",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 99
+  },
+  {
+   "n": 484,
+   "name": "EDMONDS, GEORGE",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 148
+  },
+  {
+   "n": 485,
+   "name": "EDMONDSTON, LAURENCE",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 88
+  },
+  {
+   "n": 486,
+   "name": "EDWARDS, EDWARD",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 100
+  },
+  {
+   "n": 487,
+   "name": "EDWIN, ELIZABETH REBECCA",
+   "born": 1769,
+   "era": "georgian",
+   "word_count": 85
+  },
+  {
+   "n": 488,
+   "name": "ELDRED, JOSEPH",
+   "born": 1843,
+   "era": "victorian",
+   "word_count": 98
+  },
+  {
+   "n": 489,
+   "name": "ELLACOMBE, REV",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 134
+  },
+  {
+   "n": 490,
+   "name": "ELLICE, EDWARD",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 116
+  },
+  {
+   "n": 491,
+   "name": "ELLIOT, SIR CHARLES",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 105
+  },
+  {
+   "n": 492,
+   "name": "ELLIOT, SIR HENRY MIERS",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 101
+  },
+  {
+   "n": 493,
+   "name": "ELLIOT, SIR THOMAS FREDERICK",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 82
+  },
+  {
+   "n": 494,
+   "name": "ELLIOTT, GEORGE PERCY",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 495,
+   "name": "ELLIOTT, SIR WILLIAM HENRY",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 93
+  },
+  {
+   "n": 496,
+   "name": "ELLIS, SIR HENRY",
+   "born": 1777,
+   "era": "georgian",
+   "word_count": 111
+  },
+  {
+   "n": 497,
+   "name": "ELLIS, JOHN",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 90
+  },
+  {
+   "n": 498,
+   "name": "ELLIS, SARAH",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 126
+  },
+  {
+   "n": 499,
+   "name": "ELLIS, THOMAS FLOWER",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 147
+  },
+  {
+   "n": 500,
+   "name": "ELLIS, WILLIAM",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 98
+  },
+  {
+   "n": 501,
+   "name": "ELLIS, REV",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 502,
+   "name": "ELLIS, WYNN",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 165
+  },
+  {
+   "n": 503,
+   "name": "ELVEY, STEPHEN",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 504,
+   "name": "EVANS, DAVID MORIER",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 505,
+   "name": "EVANS, FREDERICK JOHN",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 97
+  },
+  {
+   "n": 506,
+   "name": "EVERITT, ALLEN EDWARD",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 507,
+   "name": "EWING, JULIANA HORATIA",
+   "born": 1813,
+   "era": "railway",
+   "word_count": 97
+  },
+  {
+   "n": 508,
+   "name": "EXALL, WILLIAM",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 109
+  },
+  {
+   "n": 509,
+   "name": "FAIRBAIRN, SIR PETER",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 106
+  },
+  {
+   "n": 510,
+   "name": "FAIRFAX, JOHN",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 511,
+   "name": "FAIRHOLT, FREDERICK WILLIAM",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 89
+  },
+  {
+   "n": 512,
+   "name": "FALCONER, EDMUND",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 140
+  },
+  {
+   "n": 513,
+   "name": "FARLEY, CHARLES",
+   "born": 1771,
+   "era": "georgian",
+   "word_count": 82
+  },
+  {
+   "n": 514,
+   "name": "FAUSSETT, THOMAS GODFREY",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 95
+  },
+  {
+   "n": 515,
+   "name": "FAWSITT, AMY",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 138
+  },
+  {
+   "n": 516,
+   "name": "FEATHERSTONHAUGH, GEORGE WILLIAM",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 115
+  },
+  {
+   "n": 517,
+   "name": "FEENEY, PATRICK",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 94
+  },
+  {
+   "n": 518,
+   "name": "FELLOWES, SIR JAMES",
+   "born": 1772,
+   "era": "georgian",
+   "word_count": 123
+  },
+  {
+   "n": 519,
+   "name": "FELLOWS, SIR CHARLES",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 92
+  },
+  {
+   "n": 520,
+   "name": "FELLOWS, THOMAS HOWARD",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 108
+  },
+  {
+   "n": 521,
+   "name": "FENN, REV",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 522,
+   "name": "FERGUSON, SIR ADAM",
+   "born": 1771,
+   "era": "georgian",
+   "word_count": 83
+  },
+  {
+   "n": 523,
+   "name": "FERGUSON, JAMES FREDERIC",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 90
+  },
+  {
+   "n": 524,
+   "name": "FEW, ROBERT",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 90
+  },
+  {
+   "n": 525,
+   "name": "FIELD, GEORGE",
+   "born": 1777,
+   "era": "georgian",
+   "word_count": 89
+  },
+  {
+   "n": 526,
+   "name": "FIELD, JOSEPH",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 91
+  },
+  {
+   "n": 527,
+   "name": "FIELD, JOSHUA",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 84
+  },
+  {
+   "n": 528,
+   "name": "FINDEN, WILLIAM",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 170
+  },
+  {
+   "n": 529,
+   "name": "FINDLATER, ANDREW",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 87
+  },
+  {
+   "n": 530,
+   "name": "FINDLAY, ALEXANDER GEORGE",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 166
+  },
+  {
+   "n": 531,
+   "name": "FINLAYSON, JOHN",
+   "born": 1770,
+   "era": "georgian",
+   "word_count": 170
+  },
+  {
+   "n": 532,
+   "name": "FINNIS, THOMAS QUESTED",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 123
+  },
+  {
+   "n": 533,
+   "name": "FIRBANK, JOSEPH",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 93
+  },
+  {
+   "n": 534,
+   "name": "FISHBOURNE, EDMUND GARDINER",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 90
+  },
+  {
+   "n": 535,
+   "name": "FISHER, DAVID",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 83
+  },
+  {
+   "n": 536,
+   "name": "FISHER, DAVID",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 157
+  },
+  {
+   "n": 537,
+   "name": "FISHER, SIR JAMES HURTLE",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 81
+  },
+  {
+   "n": 538,
+   "name": "FISHER, WALTER DAVID",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 97
+  },
+  {
+   "n": 539,
+   "name": "FISHER, WILLIAM WEBSTER",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 89
+  },
+  {
+   "n": 540,
+   "name": "FISK, WILLIAM",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 107
+  },
+  {
+   "n": 541,
+   "name": "FITTON, MICHAEL",
+   "born": 1766,
+   "era": "georgian",
+   "word_count": 88
+  },
+  {
+   "n": 542,
+   "name": "FITTON, WILLIAM HENRY",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 140
+  },
+  {
+   "n": 543,
+   "name": "FITZBALL, EDWARD",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 103
+  },
+  {
+   "n": 544,
+   "name": "FITZGERALD, JOHN DAVID FITZGERALD",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 171
+  },
+  {
+   "n": 545,
+   "name": "FITZGERALD, SIR JOHN FORSTER",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 103
+  },
+  {
+   "n": 546,
+   "name": "FITZGERALD, SIR WILLIAM ROBERT SEYMOUR",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 112
+  },
+  {
+   "n": 547,
+   "name": "FITZGIBBON, EDWARD",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 180
+  },
+  {
+   "n": 548,
+   "name": "FITZ",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 109
+  },
+  {
+   "n": 549,
+   "name": "FITZWILLIAM, FANNY ELIZABETH",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 214
+  },
+  {
+   "n": 550,
+   "name": "FLANAGAN, REV",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 115
+  },
+  {
+   "n": 551,
+   "name": "FLEMING, SIR VALENTINE",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 83
+  },
+  {
+   "n": 552,
+   "name": "FLETCHER, JOSEPH",
+   "born": 1813,
+   "era": "railway",
+   "word_count": 88
+  },
+  {
+   "n": 553,
+   "name": "FLOWERS, GEORGE FRENCH",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 105
+  },
+  {
+   "n": 554,
+   "name": "FONBLANQUE, ALBANY WILLIAM",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 91
+  },
+  {
+   "n": 555,
+   "name": "FONBLANQUE, JOHN SAMUEL MARTIN DE",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 102
+  },
+  {
+   "n": 556,
+   "name": "FORBES, SIR CHARLES FERGUSSON",
+   "born": 1779,
+   "era": "georgian",
+   "word_count": 122
+  },
+  {
+   "n": 557,
+   "name": "FORBES, JOHN HAY",
+   "born": 1776,
+   "era": "georgian",
+   "word_count": 85
+  },
+  {
+   "n": 558,
+   "name": "FORD, RICHARD",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 117
+  },
+  {
+   "n": 559,
+   "name": "FORMBY, REV",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 113
+  },
+  {
+   "n": 560,
+   "name": "FOSTER, JOHN FREDERIC",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 85
+  },
+  {
+   "n": 561,
+   "name": "FOWKE, FRANCIS",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 135
+  },
+  {
+   "n": 562,
+   "name": "FOX, WILLIAM TILBURY",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 84
+  },
+  {
+   "n": 563,
+   "name": "FRANCATELLI, CHARLES ELM",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 90
+  },
+  {
+   "n": 564,
+   "name": "FRANCIS, FRANCIS",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 93
+  },
+  {
+   "n": 565,
+   "name": "FRANCIS, GEORGE GRANT",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 81
+  },
+  {
+   "n": 566,
+   "name": "FRANCIS, JAMES GOODALL",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 80
+  },
+  {
+   "n": 567,
+   "name": "FRANKLIN, LADY JANE",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 121
+  },
+  {
+   "n": 568,
+   "name": "FRANKS, SIR JOHN",
+   "born": 1769,
+   "era": "georgian",
+   "word_count": 80
+  },
+  {
+   "n": 569,
+   "name": "FRASER, PATRICK",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 128
+  },
+  {
+   "n": 570,
+   "name": "FREER, JOHN CHARLES",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 99
+  },
+  {
+   "n": 571,
+   "name": "FROST, CHARLES",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 84
+  },
+  {
+   "n": 572,
+   "name": "FROST, WILLIAM EDWARD",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 83
+  },
+  {
+   "n": 573,
+   "name": "FULTON, HAMILTON HENRY",
+   "born": 1813,
+   "era": "railway",
+   "word_count": 99
+  },
+  {
+   "n": 574,
+   "name": "GAMBIER, SIR EDWARD JOHN",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 91
+  },
+  {
+   "n": 575,
+   "name": "GARBETT, VEN",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 97
+  },
+  {
+   "n": 576,
+   "name": "GARDEN, REV",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 95
+  },
+  {
+   "n": 577,
+   "name": "GARDNER, JOHN",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 90
+  },
+  {
+   "n": 578,
+   "name": "GARRETT, RICHARD",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 93
+  },
+  {
+   "n": 579,
+   "name": "GARRETT, SIR ROBERT",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 91
+  },
+  {
+   "n": 580,
+   "name": "GARVOCK, SIR JOHN",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 581,
+   "name": "GEACH, CHARLES",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 93
+  },
+  {
+   "n": 582,
+   "name": "GEDGE, REV",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 89
+  },
+  {
+   "n": 583,
+   "name": "GENDALL, JOHN",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 87
+  },
+  {
+   "n": 584,
+   "name": "GIBBES, SIR GEORGE SMITH",
+   "born": 1771,
+   "era": "georgian",
+   "word_count": 110
+  },
+  {
+   "n": 585,
+   "name": "GIBBS, SIR BENJAMIN THOMAS BRANDRETH",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 144
+  },
+  {
+   "n": 586,
+   "name": "GIBBS, MRS",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 124
+  },
+  {
+   "n": 587,
+   "name": "GIBSON, WILLIAM SIDNEY",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 94
+  },
+  {
+   "n": 588,
+   "name": "GIFFARD, JOHN WALTER DE LONGUEVILLE",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 101
+  },
+  {
+   "n": 589,
+   "name": "GILBERT, RICHARD",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 94
+  },
+  {
+   "n": 590,
+   "name": "GILDERDALE, REV",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 86
+  },
+  {
+   "n": 591,
+   "name": "GILLAN, REV",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 114
+  },
+  {
+   "n": 592,
+   "name": "GILLIES, ROBERT PIERCE",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 122
+  },
+  {
+   "n": 593,
+   "name": "GILPIN, CHARLES",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 94
+  },
+  {
+   "n": 594,
+   "name": "GLIDDON, GEORGE ROBINS",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 85
+  },
+  {
+   "n": 595,
+   "name": "GLOVER, EDMUND",
+   "born": 1813,
+   "era": "railway",
+   "word_count": 99
+  },
+  {
+   "n": 596,
+   "name": "GLOVER, STEPHEN",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 96
+  },
+  {
+   "n": 597,
+   "name": "GODKIN, JAMES",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 112
+  },
+  {
+   "n": 598,
+   "name": "GODLEY, JOHN ROBERT",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 101
+  },
+  {
+   "n": 599,
+   "name": "GOODWIN, CHARLES WYCLIFFE",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 600,
+   "name": "GORDON, ADAM LINDSAY",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 110
+  },
+  {
+   "n": 601,
+   "name": "GORDON, SIR JAMES ALEXANDER",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 106
+  },
+  {
+   "n": 602,
+   "name": "GORDON, SIR JOHN WATSON-",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 107
+  },
+  {
+   "n": 603,
+   "name": "GORDON, SIR JOHN WILLIAM",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 115
+  },
+  {
+   "n": 604,
+   "name": "GORE, CATHERINE GRACE FRANCES",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 202
+  },
+  {
+   "n": 605,
+   "name": "GOTCH, REV",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 91
+  },
+  {
+   "n": 606,
+   "name": "GOUDY, REV",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 86
+  },
+  {
+   "n": 607,
+   "name": "GOULBURN, EDWARD",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 130
+  },
+  {
+   "n": 608,
+   "name": "GOWAN, OGLE ROBERT",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 93
+  },
+  {
+   "n": 609,
+   "name": "GOWANS, SIR JAMES",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 610,
+   "name": "GRAHAM, CLEMENTINA STIRLING",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 124
+  },
+  {
+   "n": 611,
+   "name": "GRAHAM, SIR FORTESCUE",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 92
+  },
+  {
+   "n": 612,
+   "name": "GRAHAM, JAMES GILLESPIE",
+   "born": 1777,
+   "era": "georgian",
+   "word_count": 121
+  },
+  {
+   "n": 613,
+   "name": "GRAHAM, WILLIAM",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 87
+  },
+  {
+   "n": 614,
+   "name": "GRAHAM-GILBERT, JOHN",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 88
+  },
+  {
+   "n": 615,
+   "name": "GRAINGER, RICHARD DUGARD",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 133
+  },
+  {
+   "n": 616,
+   "name": "GRANT, JAMES",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 113
+  },
+  {
+   "n": 617,
+   "name": "GRANT, JAMES",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 618,
+   "name": "GRANT, JAMES MACPHERSON",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 96
+  },
+  {
+   "n": 619,
+   "name": "GRANT, SIR JAMES ROBERT",
+   "born": 1773,
+   "era": "georgian",
+   "word_count": 80
+  },
+  {
+   "n": 620,
+   "name": "GRANT, SIR THOMAS TASSELL",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 119
+  },
+  {
+   "n": 621,
+   "name": "GRANT, WILLIAM AUGUSTINE IGNATIUS",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 134
+  },
+  {
+   "n": 622,
+   "name": "GRANT, SIR WILLIAM KEIR",
+   "born": 1771,
+   "era": "georgian",
+   "word_count": 142
+  },
+  {
+   "n": 623,
+   "name": "GRANTHAM, JOHN",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 139
+  },
+  {
+   "n": 624,
+   "name": "GRATTAN, HENRY PLUNKETT",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 169
+  },
+  {
+   "n": 625,
+   "name": "GRATTAN, MRS",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 155
+  },
+  {
+   "n": 626,
+   "name": "GRATTAN, THOMAS COLLEY",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 132
+  },
+  {
+   "n": 627,
+   "name": "GRAVES, REV",
+   "born": 1791,
+   "era": "regency",
+   "word_count": 90
+  },
+  {
+   "n": 628,
+   "name": "GRAVES, SAMUEL ROBERT",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 105
+  },
+  {
+   "n": 629,
+   "name": "GRAY, SIR JOHN",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 141
+  },
+  {
+   "n": 630,
+   "name": "GRAY, MARIA EMMA",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 119
+  },
+  {
+   "n": 631,
+   "name": "GRAY, PETER",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 105
+  },
+  {
+   "n": 632,
+   "name": "GREEN, REV",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 121
+  },
+  {
+   "n": 633,
+   "name": "GREEN, BENJAMIN RICHARD",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 81
+  },
+  {
+   "n": 634,
+   "name": "GREEN, ELIZA",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 111
+  },
+  {
+   "n": 635,
+   "name": "GREEN, RICHARD",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 130
+  },
+  {
+   "n": 636,
+   "name": "GREEN, REV",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 94
+  },
+  {
+   "n": 637,
+   "name": "GREENE, JOHN BAKER STAFFORD",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 98
+  },
+  {
+   "n": 638,
+   "name": "GREENE, RICHARD WILSON",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 111
+  },
+  {
+   "n": 639,
+   "name": "GREENHOW, EDWARD HEADLAM",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 105
+  },
+  {
+   "n": 640,
+   "name": "GREENWOOD, THOMAS",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 83
+  },
+  {
+   "n": 641,
+   "name": "GREENWOOD, THOMAS LONGDON",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 111
+  },
+  {
+   "n": 642,
+   "name": "GREER, SAMUEL MACURDY",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 84
+  },
+  {
+   "n": 643,
+   "name": "GREG, PERCY",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 117
+  },
+  {
+   "n": 644,
+   "name": "GREG, WILLIAM RATHBONE",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 113
+  },
+  {
+   "n": 645,
+   "name": "GREGER, MAX",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 100
+  },
+  {
+   "n": 646,
+   "name": "GREGORY, BARNARD",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 119
+  },
+  {
+   "n": 647,
+   "name": "GRESWELL, REV",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 82
+  },
+  {
+   "n": 648,
+   "name": "GRETTON, REV",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 81
+  },
+  {
+   "n": 649,
+   "name": "GREY, SIR CHARLES EDWARD",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 127
+  },
+  {
+   "n": 650,
+   "name": "GREY, JOHN",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 85
+  },
+  {
+   "n": 651,
+   "name": "GRIFFIN, CHARLES",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 652,
+   "name": "GRIFFIN, JOHN JOSEPH",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 94
+  },
+  {
+   "n": 653,
+   "name": "GRIFFITH, REV",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 99
+  },
+  {
+   "n": 654,
+   "name": "GRIFFITHS, REV",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 131
+  },
+  {
+   "n": 655,
+   "name": "GRIMSHAW, JAMES",
+   "born": 1846,
+   "era": "victorian",
+   "word_count": 102
+  },
+  {
+   "n": 656,
+   "name": "GRINFIELD, REV",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 87
+  },
+  {
+   "n": 657,
+   "name": "GUEST, EDWIN",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 97
+  },
+  {
+   "n": 658,
+   "name": "GUICCIOLI, COUNTESS TERESA",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 88
+  },
+  {
+   "n": 659,
+   "name": "GUPPY, THOMAS RICHARD",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 142
+  },
+  {
+   "n": 660,
+   "name": "GURNEY, JOHN HENRY",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 94
+  },
+  {
+   "n": 661,
+   "name": "GUTCH, JOHN MATHEW",
+   "born": 1776,
+   "era": "georgian",
+   "word_count": 106
+  },
+  {
+   "n": 662,
+   "name": "GUY, SIR PHILIP MELMOTH NELSON",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 663,
+   "name": "GUY, WILLIAM AUGUSTUS",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 95
+  },
+  {
+   "n": 664,
+   "name": "GYE, FREDERICK",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 132
+  },
+  {
+   "n": 665,
+   "name": "HABERSHON, MATTHEW",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 81
+  },
+  {
+   "n": 666,
+   "name": "HABERSHON, SAMUEL OSBORNE",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 104
+  },
+  {
+   "n": 667,
+   "name": "HADDAN, THOMAS HENRY",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 104
+  },
+  {
+   "n": 668,
+   "name": "HADLEY, SIMEON CHARLES",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 96
+  },
+  {
+   "n": 669,
+   "name": "HAGGARD, JOHN",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 121
+  },
+  {
+   "n": 670,
+   "name": "HALCOMB, JOHN",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 90
+  },
+  {
+   "n": 671,
+   "name": "HALES, MARY BARBARA FELICITAS",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 88
+  },
+  {
+   "n": 672,
+   "name": "HALIBURTON, THOMAS CHANDLER",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 130
+  },
+  {
+   "n": 673,
+   "name": "HALIDAY, CHARLES",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 95
+  },
+  {
+   "n": 674,
+   "name": "HALKETT, SAMUEL",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 111
+  },
+  {
+   "n": 675,
+   "name": "HALL, CHARLES RADCLYFFE",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 95
+  },
+  {
+   "n": 676,
+   "name": "HALL, COLLINSON",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 105
+  },
+  {
+   "n": 677,
+   "name": "HALL, JAMES",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 678,
+   "name": "HALL, SIR JOHN",
+   "born": 1779,
+   "era": "georgian",
+   "word_count": 86
+  },
+  {
+   "n": 679,
+   "name": "HALL, SIR JOHN",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 93
+  },
+  {
+   "n": 680,
+   "name": "HALL, REV",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 83
+  },
+  {
+   "n": 681,
+   "name": "HALL, THOMAS JAMES",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 92
+  },
+  {
+   "n": 682,
+   "name": "HALL, SIR WILLIAM HUTCHEON",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 127
+  },
+  {
+   "n": 683,
+   "name": "HALL, REV",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 98
+  },
+  {
+   "n": 684,
+   "name": "HALLARD, FREDERICK",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 88
+  },
+  {
+   "n": 685,
+   "name": "HALPINE, CHARLES GRAHAM",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 117
+  },
+  {
+   "n": 686,
+   "name": "HAMBLETON, REV",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 89
+  },
+  {
+   "n": 687,
+   "name": "HAMEL, JOSEPH VON",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 101
+  },
+  {
+   "n": 688,
+   "name": "HAMILTON, REV",
+   "born": 1813,
+   "era": "railway",
+   "word_count": 97
+  },
+  {
+   "n": 689,
+   "name": "HAMILTON, JOHN",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 81
+  },
+  {
+   "n": 690,
+   "name": "HAMILTON, THOMAS",
+   "born": 1784,
+   "era": "georgian",
+   "word_count": 92
+  },
+  {
+   "n": 691,
+   "name": "HAMLET, THOMAS",
+   "born": 1770,
+   "era": "georgian",
+   "word_count": 116
+  },
+  {
+   "n": 692,
+   "name": "HAMMOND, GEORGE",
+   "born": 1763,
+   "era": "georgian",
+   "word_count": 96
+  },
+  {
+   "n": 693,
+   "name": "HAMMOND, JAMES LEMPRIERE",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 94
+  },
+  {
+   "n": 694,
+   "name": "HANCOCK, JOHN",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 96
+  },
+  {
+   "n": 695,
+   "name": "HANCOCK, WILLIAM NEILSON",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 99
+  },
+  {
+   "n": 696,
+   "name": "HANN, JAMES",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 89
+  },
+  {
+   "n": 697,
+   "name": "HANNA, REV",
+   "born": 1772,
+   "era": "georgian",
+   "word_count": 99
+  },
+  {
+   "n": 698,
+   "name": "HANNAY, ROBERT",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 95
+  },
+  {
+   "n": 699,
+   "name": "HARCOURT, CHARLES",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 119
+  },
+  {
+   "n": 700,
+   "name": "HARCOURT, REV",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 89
+  },
+  {
+   "n": 701,
+   "name": "HARCOURT, REV",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 146
+  },
+  {
+   "n": 702,
+   "name": "HARDING, ANNE RAIKES",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 94
+  },
+  {
+   "n": 703,
+   "name": "HARDING, JAMES DUFFIELD",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 136
+  },
+  {
+   "n": 704,
+   "name": "HARDING, SIR JOHN DORNEY",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 111
+  },
+  {
+   "n": 705,
+   "name": "HARDWICKE, WILLIAM",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 84
+  },
+  {
+   "n": 706,
+   "name": "HARDY, REV",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 91
+  },
+  {
+   "n": 707,
+   "name": "HARDY, SAMUEL LITTLE",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 93
+  },
+  {
+   "n": 708,
+   "name": "HARGREAVE, CHARLES JAMES",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 105
+  },
+  {
+   "n": 709,
+   "name": "HARINGTON, REV",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 113
+  },
+  {
+   "n": 710,
+   "name": "HARLAND, EDWARD JAMES",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 113
+  },
+  {
+   "n": 711,
+   "name": "HARLE, WILLIAM LOCKEY",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 115
+  },
+  {
+   "n": 712,
+   "name": "HARLOWE, SARAH",
+   "born": 1765,
+   "era": "georgian",
+   "word_count": 97
+  },
+  {
+   "n": 713,
+   "name": "HARMER, JAMES",
+   "born": 1777,
+   "era": "georgian",
+   "word_count": 186
+  },
+  {
+   "n": 714,
+   "name": "HARRADEN, RICHARD BANKES",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 83
+  },
+  {
+   "n": 715,
+   "name": "HARRIS, JOHN",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 113
+  },
+  {
+   "n": 716,
+   "name": "HARRIS, SIR THOMAS NOEL",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 112
+  },
+  {
+   "n": 717,
+   "name": "HARRISON, SIR GEORGE",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 105
+  },
+  {
+   "n": 718,
+   "name": "HARRISON, MARY",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 81
+  },
+  {
+   "n": 719,
+   "name": "HARRISON, ROBERT ALEXANDER",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 106
+  },
+  {
+   "n": 720,
+   "name": "HARRISON, SAMUEL",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 110
+  },
+  {
+   "n": 721,
+   "name": "HARRISON, REV",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 81
+  },
+  {
+   "n": 722,
+   "name": "HARRISON, WILLIAM WATERS",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 80
+  },
+  {
+   "n": 723,
+   "name": "HART, ALBAN",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 89
+  },
+  {
+   "n": 724,
+   "name": "HART, JOHN",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 121
+  },
+  {
+   "n": 725,
+   "name": "HART, SOLOMON ALEXANDER",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 128
+  },
+  {
+   "n": 726,
+   "name": "HARTING, JAMES VINCENT",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 93
+  },
+  {
+   "n": 727,
+   "name": "HARTLEY, JAMES",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 103
+  },
+  {
+   "n": 728,
+   "name": "HARTLEY, JESSE",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 105
+  },
+  {
+   "n": 729,
+   "name": "HARTLEY, LEONARD LAWRIE",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 85
+  },
+  {
+   "n": 730,
+   "name": "HARTNOLL, JOHN HOOPER",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 89
+  },
+  {
+   "n": 731,
+   "name": "HARVEY, ALEXANDER",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 84
+  },
+  {
+   "n": 732,
+   "name": "HARVEY, DANIEL WHITTLE",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 338
+  },
+  {
+   "n": 733,
+   "name": "HARVEY, SIR GEORGE",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 119
+  },
+  {
+   "n": 734,
+   "name": "HARVEY, SIR JOHN",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 81
+  },
+  {
+   "n": 735,
+   "name": "HARVEY, REV",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 102
+  },
+  {
+   "n": 736,
+   "name": "HARVEY, THOMAS",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 115
+  },
+  {
+   "n": 737,
+   "name": "HARVEY, WILLIAM",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 139
+  },
+  {
+   "n": 738,
+   "name": "HARVEY, REV",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 105
+  },
+  {
+   "n": 739,
+   "name": "HARWOOD, ISABELLA NEIL",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 117
+  },
+  {
+   "n": 740,
+   "name": "HARWOOD, PHILIP",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 104
+  },
+  {
+   "n": 741,
+   "name": "HATCHELL, JOHN",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 80
+  },
+  {
+   "n": 742,
+   "name": "HAVERFIELD, ROBERT ROSS",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 107
+  },
+  {
+   "n": 743,
+   "name": "HAVILLAND, JOHN VON SONNENTAG DE",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 91
+  },
+  {
+   "n": 744,
+   "name": "HAWES, MARIA BILLINGTON",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 137
+  },
+  {
+   "n": 745,
+   "name": "HAWKINS, SUSANNA",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 90
+  },
+  {
+   "n": 746,
+   "name": "HAWKINS, WALTER",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 96
+  },
+  {
+   "n": 747,
+   "name": "HAWKSHAW, ANN",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 80
+  },
+  {
+   "n": 748,
+   "name": "HAWTREY, REV",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 80
+  },
+  {
+   "n": 749,
+   "name": "HAY, DAVID RAMSAY",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 88
+  },
+  {
+   "n": 750,
+   "name": "HAY, MARY CECIL",
+   "born": 1840,
+   "era": "victorian",
+   "word_count": 96
+  },
+  {
+   "n": 751,
+   "name": "HAYDN, JOSEPH TIMOTHY",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 114
+  },
+  {
+   "n": 752,
+   "name": "HAYES, EDMUND",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 100
+  },
+  {
+   "n": 753,
+   "name": "HAYES, MICHAEL ANGELO",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 89
+  },
+  {
+   "n": 754,
+   "name": "HAYES, WILLIAM",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 109
+  },
+  {
+   "n": 755,
+   "name": "HAYWARD, HENRY",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 87
+  },
+  {
+   "n": 756,
+   "name": "HAZLEWOOD, COLIN HENRY",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 757,
+   "name": "HEAD, SIR GEORGE",
+   "born": 1782,
+   "era": "georgian",
+   "word_count": 138
+  },
+  {
+   "n": 758,
+   "name": "HEADLAND, EDWARD",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 88
+  },
+  {
+   "n": 759,
+   "name": "HEADLAND, REV",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 89
+  },
+  {
+   "n": 760,
+   "name": "HEAPHY, CHARLES",
+   "born": 1818,
+   "era": "victorian",
+   "word_count": 109
+  },
+  {
+   "n": 761,
+   "name": "HEATH, CAROLINE",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 179
+  },
+  {
+   "n": 762,
+   "name": "HEATH, REV",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 118
+  },
+  {
+   "n": 763,
+   "name": "HEATH, REV",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 80
+  },
+  {
+   "n": 764,
+   "name": "HEBB, CHRISTOPHER HENRY",
+   "born": 1771,
+   "era": "georgian",
+   "word_count": 109
+  },
+  {
+   "n": 765,
+   "name": "HEINKE, JOHN WILLIAM",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 100
+  },
+  {
+   "n": 766,
+   "name": "HELLER, ROBERT",
+   "born": 1830,
+   "era": "victorian",
+   "word_count": 205
+  },
+  {
+   "n": 767,
+   "name": "HEMANS, CHARLES ISIDORE",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 83
+  },
+  {
+   "n": 768,
+   "name": "HEMING, DEMPSTER",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 81
+  },
+  {
+   "n": 769,
+   "name": "HEMPEL, CARL",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 117
+  },
+  {
+   "n": 770,
+   "name": "HENDERSON, ALEXANDER",
+   "born": 1828,
+   "era": "victorian",
+   "word_count": 112
+  },
+  {
+   "n": 771,
+   "name": "HENDERSON, REV",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 126
+  },
+  {
+   "n": 772,
+   "name": "HENDERSON, EBENEZER",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 118
+  },
+  {
+   "n": 773,
+   "name": "HENDERSON, JAMES",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 774,
+   "name": "HENDERSON, JOHN",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 90
+  },
+  {
+   "n": 775,
+   "name": "HENDERSON, JOHN",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 126
+  },
+  {
+   "n": 776,
+   "name": "HENGLER, FREDERICK CHARLES",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 142
+  },
+  {
+   "n": 777,
+   "name": "HENLEY, WILLIAM THOMAS",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 126
+  },
+  {
+   "n": 778,
+   "name": "HENN, JONATHAN",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 103
+  },
+  {
+   "n": 779,
+   "name": "HENNESSY, WILLIAM MAUNSELL",
+   "born": 1829,
+   "era": "victorian",
+   "word_count": 117
+  },
+  {
+   "n": 780,
+   "name": "HENNINGSEN, CHARLES FREDERICK",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 116
+  },
+  {
+   "n": 781,
+   "name": "HENRY, ALEXANDER",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 92
+  },
+  {
+   "n": 782,
+   "name": "HENRY, SIR THOMAS",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 100
+  },
+  {
+   "n": 783,
+   "name": "HENSOM, GRAVENER",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 107
+  },
+  {
+   "n": 784,
+   "name": "HERAPATH, SPENCER",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 785,
+   "name": "HERAPATH, WILLIAM BIRD",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 95
+  },
+  {
+   "n": 786,
+   "name": "HERBERT, HENRY ARTHUR",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 82
+  },
+  {
+   "n": 787,
+   "name": "HERBERT, SIR THOMAS",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 89
+  },
+  {
+   "n": 788,
+   "name": "HERBERT, WILLIAM",
+   "born": 1771,
+   "era": "georgian",
+   "word_count": 82
+  },
+  {
+   "n": 789,
+   "name": "HERING, GEORGE EDWARDS",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 128
+  },
+  {
+   "n": 790,
+   "name": "HERON, DENIS CAULFIELD",
+   "born": 1826,
+   "era": "victorian",
+   "word_count": 160
+  },
+  {
+   "n": 791,
+   "name": "HERRIES, SIR CHARLES JOHN",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 82
+  },
+  {
+   "n": 792,
+   "name": "HERRIES, JOHN CHARLES",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 235
+  },
+  {
+   "n": 793,
+   "name": "HERRIES, SIR WILLIAM LEWIS",
+   "born": 1785,
+   "era": "georgian",
+   "word_count": 112
+  },
+  {
+   "n": 794,
+   "name": "HERRING, JOHN FREDERICK",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 204
+  },
+  {
+   "n": 795,
+   "name": "HERSHON, PAUL ISAAC",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 93
+  },
+  {
+   "n": 796,
+   "name": "HERTFORD, MARIA SEYMOUR-CONWAY",
+   "born": 1771,
+   "era": "georgian",
+   "word_count": 120
+  },
+  {
+   "n": 797,
+   "name": "HERTSLET, LEWIS",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 90
+  },
+  {
+   "n": 798,
+   "name": "HERTZEN",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 145
+  },
+  {
+   "n": 799,
+   "name": "HESLOP, REV",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 800,
+   "name": "HESLOP, THOMAS PRETIOUS",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 175
+  },
+  {
+   "n": 801,
+   "name": "HEWITT, JOHN",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 802,
+   "name": "HEWLETT, THOMAS GILLHAM",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 93
+  },
+  {
+   "n": 803,
+   "name": "HEY, VEN",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 110
+  },
+  {
+   "n": 804,
+   "name": "HEYWOOD, JOHN",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 108
+  },
+  {
+   "n": 805,
+   "name": "HEYWORTH, LAWRENCE",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 141
+  },
+  {
+   "n": 806,
+   "name": "HIBBERD, JAMES SHIRLEY",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 114
+  },
+  {
+   "n": 807,
+   "name": "HIBBS, REV",
+   "born": 1812,
+   "era": "railway",
+   "word_count": 158
+  },
+  {
+   "n": 808,
+   "name": "HICKEY, REV",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 209
+  },
+  {
+   "n": 809,
+   "name": "HICKS, AGNES ROSS",
+   "born": 1850,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 810,
+   "name": "HIGGS, WILLIAM ALPHEUS",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 90
+  },
+  {
+   "n": 811,
+   "name": "HILDITCH, SIR EDWARD",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 81
+  },
+  {
+   "n": 812,
+   "name": "HILDYARD, JOHN",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 89
+  },
+  {
+   "n": 813,
+   "name": "HILES, JOHN",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 89
+  },
+  {
+   "n": 814,
+   "name": "HILL, DAVID OCTAVIUS",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 136
+  },
+  {
+   "n": 815,
+   "name": "HILL, SIR DUDLEY ST",
+   "born": 1790,
+   "era": "regency",
+   "word_count": 128
+  },
+  {
+   "n": 816,
+   "name": "HILL, HENRY",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 114
+  },
+  {
+   "n": 817,
+   "name": "HILL, SIR HUGH",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 83
+  },
+  {
+   "n": 818,
+   "name": "HILL, REV",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 109
+  },
+  {
+   "n": 819,
+   "name": "HILL, WILLIAM",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 92
+  },
+  {
+   "n": 820,
+   "name": "HILLIER, GEORGE",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 90
+  },
+  {
+   "n": 821,
+   "name": "HILLIER, THOMAS",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 88
+  },
+  {
+   "n": 822,
+   "name": "HILTON, HILDA",
+   "born": 1853,
+   "era": "victorian",
+   "word_count": 131
+  },
+  {
+   "n": 823,
+   "name": "HIND, REV",
+   "born": 1796,
+   "era": "regency",
+   "word_count": 83
+  },
+  {
+   "n": 824,
+   "name": "HINDLEY, CHARLES",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 825,
+   "name": "HINDMARSH, SIR JOHN",
+   "born": 1786,
+   "era": "georgian",
+   "word_count": 97
+  },
+  {
+   "n": 826,
+   "name": "HINDS, RIGHT REV",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 160
+  },
+  {
+   "n": 827,
+   "name": "HINGSTON, EDWARD PERON",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 150
+  },
+  {
+   "n": 828,
+   "name": "HINTON, JAMES",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 160
+  },
+  {
+   "n": 829,
+   "name": "HOBSON, MARTIN",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 95
+  },
+  {
+   "n": 830,
+   "name": "HOBSON, WILLIAM ROBERT",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 123
+  },
+  {
+   "n": 831,
+   "name": "HOBY, REV",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 96
+  },
+  {
+   "n": 832,
+   "name": "HODGES, SIR GEORGE FLOYD",
+   "born": 1792,
+   "era": "regency",
+   "word_count": 115
+  },
+  {
+   "n": 833,
+   "name": "HODGKINSON, REV",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 117
+  },
+  {
+   "n": 834,
+   "name": "HODGSON, CHRISTOPHER",
+   "born": 1784,
+   "era": "georgian",
+   "word_count": 130
+  },
+  {
+   "n": 835,
+   "name": "HODGSON, JOHN STUDHOLME",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 92
+  },
+  {
+   "n": 836,
+   "name": "HODGSON, JOSEPH",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 136
+  },
+  {
+   "n": 837,
+   "name": "HODGSON, MARY",
+   "born": 1835,
+   "era": "victorian",
+   "word_count": 93
+  },
+  {
+   "n": 838,
+   "name": "HODGSON, SIR ROBERT",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 110
+  },
+  {
+   "n": 839,
+   "name": "HODGSON, WILLIAM",
+   "born": 1745,
+   "era": "georgian",
+   "word_count": 114
+  },
+  {
+   "n": 840,
+   "name": "HODSON, VEN",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 103
+  },
+  {
+   "n": 841,
+   "name": "HODSON, MARGARET",
+   "born": 1778,
+   "era": "georgian",
+   "word_count": 106
+  },
+  {
+   "n": 842,
+   "name": "HOGAN, JOHN",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 116
+  },
+  {
+   "n": 843,
+   "name": "HOGAN, JOHN SHERIDAN",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 113
+  },
+  {
+   "n": 844,
+   "name": "HOGARTH, GEORGE",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 112
+  },
+  {
+   "n": 845,
+   "name": "HOLDEN, REV",
+   "born": 1783,
+   "era": "georgian",
+   "word_count": 95
+  },
+  {
+   "n": 846,
+   "name": "HOLL, HENRY",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 132
+  },
+  {
+   "n": 847,
+   "name": "HOLLAND, REV",
+   "born": 1837,
+   "era": "victorian",
+   "word_count": 112
+  },
+  {
+   "n": 848,
+   "name": "HOLLAND, REV",
+   "born": 1772,
+   "era": "georgian",
+   "word_count": 130
+  },
+  {
+   "n": 849,
+   "name": "HOLLINGS, JAMES FRANCIS",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 89
+  },
+  {
+   "n": 850,
+   "name": "HOLLINGWORTH, VEN",
+   "born": 1779,
+   "era": "georgian",
+   "word_count": 90
+  },
+  {
+   "n": 851,
+   "name": "HOLLINS, PETER",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 852,
+   "name": "HOLLOND, ELLEN JULIA",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 120
+  },
+  {
+   "n": 853,
+   "name": "HOLMAN, MRS",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 117
+  },
+  {
+   "n": 854,
+   "name": "HOLMES, EDWARD",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 89
+  },
+  {
+   "n": 855,
+   "name": "HOLMES, REV",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 112
+  },
+  {
+   "n": 856,
+   "name": "HOLMES, ROBERT",
+   "born": 1765,
+   "era": "georgian",
+   "word_count": 106
+  },
+  {
+   "n": 857,
+   "name": "HOLMES, WILLIAM",
+   "born": 1779,
+   "era": "georgian",
+   "word_count": 115
+  },
+  {
+   "n": 858,
+   "name": "HOLMES, SIR WILLIAM HENRY",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 859,
+   "name": "HOLMES, SIR WILLIAM RICHARD",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 86
+  },
+  {
+   "n": 860,
+   "name": "HOLT, THOMAS",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 102
+  },
+  {
+   "n": 861,
+   "name": "HOLT, THOMAS LITTLETON",
+   "born": 1794,
+   "era": "regency",
+   "word_count": 107
+  },
+  {
+   "n": 862,
+   "name": "HOME, DAVID MILNE",
+   "born": 1804,
+   "era": "reform",
+   "word_count": 106
+  },
+  {
+   "n": 863,
+   "name": "HOMER, JOHN JAMES",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 138
+  },
+  {
+   "n": 864,
+   "name": "HORNYGOLD, WILLIAM",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 95
+  },
+  {
+   "n": 865,
+   "name": "HONYWOOD, REV",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 89
+  },
+  {
+   "n": 866,
+   "name": "HOOD, PETER",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 89
+  },
+  {
+   "n": 867,
+   "name": "HOOPER, GEORGE",
+   "born": 1824,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 868,
+   "name": "HOOPER, WILLIAM HULME",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 90
+  },
+  {
+   "n": 869,
+   "name": "HOPE, ANNE",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 82
+  },
+  {
+   "n": 870,
+   "name": "HOPE, HENRY THOMAS",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 93
+  },
+  {
+   "n": 871,
+   "name": "HOPE, WILLIAM WILLIAMS",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 103
+  },
+  {
+   "n": 872,
+   "name": "HOPKINS, REV",
+   "born": 1845,
+   "era": "victorian",
+   "word_count": 80
+  },
+  {
+   "n": 873,
+   "name": "HOPKINSON, SIR CHARLES",
+   "born": 1784,
+   "era": "georgian",
+   "word_count": 84
+  },
+  {
+   "n": 874,
+   "name": "HOPPUS, REV",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 98
+  },
+  {
+   "n": 875,
+   "name": "HORN, MARION",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 107
+  },
+  {
+   "n": 876,
+   "name": "HORNE, SIR WILLIAM",
+   "born": 1774,
+   "era": "georgian",
+   "word_count": 133
+  },
+  {
+   "n": 877,
+   "name": "HORSFORD, SIR ROBERT MARSH",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 878,
+   "name": "HORWITZ, BERNARD",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 103
+  },
+  {
+   "n": 879,
+   "name": "HOSACK, JOHN",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 98
+  },
+  {
+   "n": 880,
+   "name": "HOSKINS, SAMUEL ELLIOTT",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 99
+  },
+  {
+   "n": 881,
+   "name": "HOSKINS, WILLIAM",
+   "born": 1816,
+   "era": "railway",
+   "word_count": 121
+  },
+  {
+   "n": 882,
+   "name": "HOUGH, REV",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 82
+  },
+  {
+   "n": 883,
+   "name": "HOUGHTON, ARTHUR BOYD",
+   "born": 1836,
+   "era": "victorian",
+   "word_count": 94
+  },
+  {
+   "n": 884,
+   "name": "HOUSTON, REV",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 109
+  },
+  {
+   "n": 885,
+   "name": "HOWARD, FRANK",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 109
+  },
+  {
+   "n": 886,
+   "name": "HOWARD, JOHN MORGAN",
+   "born": 1837,
+   "era": "victorian",
+   "word_count": 86
+  },
+  {
+   "n": 887,
+   "name": "HOWELL, JOHN",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 118
+  },
+  {
+   "n": 888,
+   "name": "HOWELL, JOHN",
+   "born": 1807,
+   "era": "reform",
+   "word_count": 103
+  },
+  {
+   "n": 889,
+   "name": "HOWITT, HERBERT CHARLTON",
+   "born": 1838,
+   "era": "victorian",
+   "word_count": 87
+  },
+  {
+   "n": 890,
+   "name": "HOWITT, RICHARD",
+   "born": 1799,
+   "era": "reform",
+   "word_count": 102
+  },
+  {
+   "n": 891,
+   "name": "HOWLEY, SIR JOHN",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 84
+  },
+  {
+   "n": 892,
+   "name": "HOWS, JOHN WILLIAM STANHOPE",
+   "born": 1797,
+   "era": "regency",
+   "word_count": 84
+  },
+  {
+   "n": 893,
+   "name": "HOYLE, WILLIAM",
+   "born": 1831,
+   "era": "victorian",
+   "word_count": 116
+  },
+  {
+   "n": 894,
+   "name": "HUARD, LOUIS",
+   "born": 1813,
+   "era": "railway",
+   "word_count": 80
+  },
+  {
+   "n": 895,
+   "name": "HUBBARD, THOMAS",
+   "born": 1789,
+   "era": "regency",
+   "word_count": 88
+  },
+  {
+   "n": 896,
+   "name": "HUDSON, GEORGE",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 233
+  },
+  {
+   "n": 897,
+   "name": "HUDSON, JAMES",
+   "born": 1811,
+   "era": "railway",
+   "word_count": 163
+  },
+  {
+   "n": 898,
+   "name": "HUDSON, SIR JAMES",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 162
+  },
+  {
+   "n": 899,
+   "name": "HUE, CLEMENT",
+   "born": 1779,
+   "era": "georgian",
+   "word_count": 256
+  },
+  {
+   "n": 900,
+   "name": "HUGGINS, WILLIAM",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 102
+  },
+  {
+   "n": 901,
+   "name": "HUGHES, EDWARD",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 100
+  },
+  {
+   "n": 902,
+   "name": "HUGHES, REV",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 94
+  },
+  {
+   "n": 903,
+   "name": "HUGHES, REV",
+   "born": 1810,
+   "era": "railway",
+   "word_count": 98
+  },
+  {
+   "n": 904,
+   "name": "HUGHES, VEN",
+   "born": 1787,
+   "era": "georgian",
+   "word_count": 97
+  },
+  {
+   "n": 905,
+   "name": "HUGHES, JOHN",
+   "born": 1823,
+   "era": "victorian",
+   "word_count": 82
+  },
+  {
+   "n": 906,
+   "name": "HUGHES, JOHN",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 87
+  },
+  {
+   "n": 907,
+   "name": "HUGHES, THOMAS",
+   "born": 1827,
+   "era": "victorian",
+   "word_count": 85
+  },
+  {
+   "n": 908,
+   "name": "HUGHES, WILLIAM",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 83
+  },
+  {
+   "n": 909,
+   "name": "HUGHES, WILLIAM LITTLE",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 86
+  },
+  {
+   "n": 910,
+   "name": "HUGO, REV",
+   "born": 1820,
+   "era": "victorian",
+   "word_count": 143
+  },
+  {
+   "n": 911,
+   "name": "HUISH, MARK",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 80
+  },
+  {
+   "n": 912,
+   "name": "HUMBER, WILLIAM",
+   "born": 1821,
+   "era": "victorian",
+   "word_count": 92
+  },
+  {
+   "n": 913,
+   "name": "HUMBERT, ALBERT JENKINS",
+   "born": 1822,
+   "era": "victorian",
+   "word_count": 81
+  },
+  {
+   "n": 914,
+   "name": "HUMBY, ANNE",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 246
+  },
+  {
+   "n": 915,
+   "name": "HUME, JOHN ROBERT",
+   "born": 1781,
+   "era": "georgian",
+   "word_count": 100
+  },
+  {
+   "n": 916,
+   "name": "HUMFREY, LEBBEUS CHARLES",
+   "born": 1798,
+   "era": "reform",
+   "word_count": 82
+  },
+  {
+   "n": 917,
+   "name": "HUNNUM, ROBERT",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 103
+  },
+  {
+   "n": 918,
+   "name": "HUNT, FREDERICK KNIGHT",
+   "born": 1814,
+   "era": "railway",
+   "word_count": 133
+  },
+  {
+   "n": 919,
+   "name": "HUNT, JAMES",
+   "born": 1833,
+   "era": "victorian",
+   "word_count": 125
+  },
+  {
+   "n": 920,
+   "name": "HUNT, REV",
+   "born": 1780,
+   "era": "georgian",
+   "word_count": 82
+  },
+  {
+   "n": 921,
+   "name": "HUNT, THOMAS",
+   "born": 1802,
+   "era": "reform",
+   "word_count": 86
+  },
+  {
+   "n": 922,
+   "name": "HUNT, WILLIAM",
+   "born": 1801,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 923,
+   "name": "HUNTER, VEN",
+   "born": 1817,
+   "era": "victorian",
+   "word_count": 125
+  },
+  {
+   "n": 924,
+   "name": "HUNTER, REV",
+   "born": 1788,
+   "era": "regency",
+   "word_count": 82
+  },
+  {
+   "n": 925,
+   "name": "HUNTER, ROBERT HOPE ALSTON",
+   "born": 1805,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 926,
+   "name": "HUNTLEY, SIR HENRY VERE",
+   "born": 1795,
+   "era": "regency",
+   "word_count": 139
+  },
+  {
+   "n": 927,
+   "name": "HUNTLEY, REV",
+   "born": 1793,
+   "era": "regency",
+   "word_count": 141
+  },
+  {
+   "n": 928,
+   "name": "HURLSTONE, EDWIN TYRRELL",
+   "born": 1806,
+   "era": "reform",
+   "word_count": 80
+  },
+  {
+   "n": 929,
+   "name": "HURLSTONE, FREDERICK YEATES",
+   "born": 1800,
+   "era": "reform",
+   "word_count": 138
+  },
+  {
+   "n": 930,
+   "name": "HURST, SAMUEL",
+   "born": 1832,
+   "era": "victorian",
+   "word_count": 145
+  },
+  {
+   "n": 931,
+   "name": "HUSSEY, REV",
+   "born": 1819,
+   "era": "victorian",
+   "word_count": 118
+  },
+  {
+   "n": 932,
+   "name": "HUTH, HENRY",
+   "born": 1815,
+   "era": "railway",
+   "word_count": 159
+  },
+  {
+   "n": 933,
+   "name": "HUTT, SIR GEORGE",
+   "born": 1809,
+   "era": "railway",
+   "word_count": 101
+  },
+  {
+   "n": 934,
+   "name": "HUTT, RICHARD",
+   "born": 1803,
+   "era": "reform",
+   "word_count": 101
+  },
+  {
+   "n": 935,
+   "name": "HUTTON, REV",
+   "born": 1808,
+   "era": "railway",
+   "word_count": 98
+  },
+  {
+   "n": 936,
+   "name": "HYDE, HENRY",
+   "born": 1825,
+   "era": "victorian",
+   "word_count": 121
+  }
+ ]
+}
