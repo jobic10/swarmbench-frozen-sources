@@ -1,0 +1,34 @@
+{
+  "code": "0857468006156",
+  "assigned_category": "dried-fruits",
+  "product_name": "MEGA OMEGA",
+  "brands": "POWER UP PREMIUM TRAIL MIX",
+  "quantity": "14 oz",
+  "serving_size": "1 portion (30 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:nuts"
+  ],
+  "ingredients_text": "DRIED CRANBERRIES (CRANBERRIES, SUGAR, SUNFLOWER OIL), DRIED MANGO (MANGO, SUGAR, CITRIC ACID), ROASTED ALMONDS (ALMONDS, EXPELLER PRESSED HIGH OLEIC SUNFLOWER OIL), WALNUTS, PUMPKIN SEEDS.",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 500,
+    "fat_100g": 33.3333333333333,
+    "saturated-fat_100g": 3.33333333333333,
+    "sugars_100g": 33.3333333333333,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 6.66666666666667,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 150,
+    "sugars_serving": 10,
+    "salt_serving": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "code": "0850251004018",
+  "assigned_category": "popcorn",
+  "product_name": "Original Popcorn",
+  "brands": "Skinny Pop",
+  "quantity": "18 g",
+  "serving_size": "18 g",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Popcorn, sunflower oil, salt",
+  "countries_tags": [
+    "en:france",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 555.555555555556,
+    "fat_100g": 38.8888888888889,
+    "saturated-fat_100g": 2.77777777777778,
+    "sugars_100g": 0,
+    "salt_100g": 1.18055555555556,
+    "sodium_100g": 0.472222222222222,
+    "fiber_100g": 5.55555555555556,
+    "proteins_100g": 5.55555555555556,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 0,
+    "salt_serving": 0.212
+  }
+}

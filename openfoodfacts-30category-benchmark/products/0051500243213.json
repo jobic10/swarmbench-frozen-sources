@@ -1,0 +1,34 @@
+{
+  "code": "0051500243213",
+  "assigned_category": "peanut-butter",
+  "product_name": "Peanut Butter Spread",
+  "brands": "Jif",
+  "quantity": "40 oz",
+  "serving_size": "2 Tablespoons (33 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "b",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients_text": "PEANUTS, SUGAR, PALM OIL, SALT, MOLASSES",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 575.757575757576,
+    "fat_100g": 16,
+    "saturated-fat_100g": 3.5,
+    "sugars_100g": 4,
+    "salt_100g": 0.2,
+    "sodium_100g": 0.08,
+    "fiber_100g": 3,
+    "proteins_100g": 7,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 1.32,
+    "salt_serving": 0.066
+  }
+}

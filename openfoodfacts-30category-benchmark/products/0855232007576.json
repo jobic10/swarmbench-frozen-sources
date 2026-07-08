@@ -1,0 +1,34 @@
+{
+  "code": "0855232007576",
+  "assigned_category": "salad-dressings",
+  "product_name": "Cilantro Lime Dressing & Marinade",
+  "brands": "Primal Kitchen",
+  "quantity": "",
+  "serving_size": "2 Tbsp (30 ml)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:eggs"
+  ],
+  "ingredients_text": "AVOCADO OIL, WATER, ORGANIC WHITE BALSAMIC VINEGAR (ORGANIC WINE VINEGAR, ORGANIC GRAPE MUST), ORGANIC HONEY, ORGANIC EGG YOLK, POTATO STARCH, ORGANIC LIME JUICE CONCENTRATE, CILANTRO, MUSHROOM EXTRACT (TO MAINTAIN FRESHNESS), SEA SALT, ROASTED GARLIC PUREE (ROASTED GARLIC, WATER, CITRIC ACID), ORGANIC SPINACH POWDER (COLOR), ORGANIC ONION POWDER, SALT, TAMARIND SEED GUM, ORGANIC DRIED BASIL. CON",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 333.33333333333,
+    "fat_100g": 33.333333333333,
+    "saturated-fat_100g": 5,
+    "sugars_100g": 10,
+    "salt_100g": 1.4166666666667,
+    "sodium_100g": 0.56666666666668,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 3,
+    "salt_serving": 0.425
+  }
+}

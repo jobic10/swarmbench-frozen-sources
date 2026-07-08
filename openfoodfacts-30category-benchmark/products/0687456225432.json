@@ -1,0 +1,29 @@
+{
+  "code": "0687456225432",
+  "assigned_category": "muesli",
+  "product_name": "Granola Minis, Chocolate Chip & Mixed Berry",
+  "brands": "Made Good",
+  "quantity": "",
+  "serving_size": "24g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "pure gluten free oats*, cane sugar*, sunflower oil*, raisins&quot;, invert cane syrup*, agave syrup*, dried apple pieces*, sweetened dried cranberries* (apple juice concentrate*, cranberries*, sunflower oil*), brown rice crisps*, inulin* freeze-dried raspberries*, tapioca starch*, vegetable extracts (spinach, broccoli, carrots, tomatoes, beets, shiitake mushrooms), natural flavor&quot;, brown rice syrup*, salt, *organic, 20% 0% 4% 2% 20% 20% 20% 25% 20% conta ve !: ), e what ma",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 458.333333333333,
+    "fat_100g": 18.75,
+    "saturated-fat_100g": 6.25,
+    "sugars_100g": 29.1666666666667,
+    "salt_100g": 0.104166666666667,
+    "sodium_100g": 0.0416666666666667,
+    "fiber_100g": 4.16666666666667,
+    "proteins_100g": 4.16666666666667,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 7,
+    "salt_serving": 0.025
+  }
+}

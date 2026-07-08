@@ -1,0 +1,39 @@
+{
+  "code": "0039000086639",
+  "assigned_category": "sausages",
+  "product_name": "Vienna Sausage",
+  "brands": "Libby's",
+  "quantity": "4.6 oz (130 g)",
+  "serving_size": "1 can (130 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e250",
+    "en:e316"
+  ],
+  "allergens_tags": [
+    "en:beef",
+    "en:pork"
+  ],
+  "ingredients_text": "MECHANICALLY SEPARATED CHICKEN, CHICKEN BROTH, WATER, 2% SALT, SPICES, BEEF, PORK, SUGAR, SODIUM PHOSPHATE, SODIUM ERYTHORBATE, FLAVORING, SODIUM NITRITE, GARLIC POWDER.",
+  "countries_tags": [
+    "en:bolivia",
+    "en:germany",
+    "en:philippines",
+    "en:spain",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 123.076923076923,
+    "fat_100g": 10,
+    "saturated-fat_100g": 3.07692307692308,
+    "sugars_100g": 0,
+    "salt_100g": 1.51923076923077,
+    "sodium_100g": 0.607692307692308,
+    "fiber_100g": 0,
+    "proteins_100g": 7.69230769230769,
+    "energy-kcal_serving": 160,
+    "sugars_serving": 0,
+    "salt_serving": 1.98
+  }
+}

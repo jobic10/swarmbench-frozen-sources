@@ -1,0 +1,51 @@
+{
+  "code": "0839138003023",
+  "assigned_category": "protein-bars",
+  "product_name": "Rite Traynch Chocolate Peanut Butter",
+  "brands": "Rite Traynch",
+  "quantity": "1.62 oz (46 g)",
+  "serving_size": "1 serving (46 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [
+    "en:e160a",
+    "en:e160ai",
+    "en:e202",
+    "en:e306",
+    "en:e322",
+    "en:e322i",
+    "en:e420",
+    "en:e422",
+    "en:e428",
+    "en:e471",
+    "en:e500",
+    "en:e500ii",
+    "en:e955",
+    "en:e965"
+  ],
+  "allergens_tags": [
+    "en:gelatin",
+    "en:gluten",
+    "en:milk",
+    "en:nuts",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Protein Blend (Whey Protein Isolate, Whey Protein Concentrate), Soy Protein Isolate, Vegetable Oils Paim Kernel and Palm), Vegetable Glycerin, Peanut Butter (Dry Roasted Peanuts, Palm Oil, Dextrose, Saft, Sorbitol, Peanuts, Sugar, Maltitol, Gelatin [Bovine], Peanut Flour, Cocoa (processed with alkali), Brown Rice Flour and Water Contains 2% or less of the following: Glucose Syrup, Sunflower Oil, Tapioca Starch, Salt, Natural Flavor, Soybean Oil, Sucralose, Maltodextrin, Sodium Caseinate, Sunflower Lecithin, Propylene Glycol Mono Esters, Baking Soda, Mono & Diglycerides, Potassium Sorbate (preservative), Acetylated Monoglycerides, Whey, Whey Powder, Soy Lecithin, Beta-Carotene (for color), Vitamin A Palmitate, Silicon Dioxide, Natural Tocopherols (to preserve freshness), and Almond. Contains: Milk, Soy, Almond, and Peanut Products. Manufactured in a Plant that Processes Milk, Soy, Wheat, Tree Nut, Peanut, and Egg Products.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 422.222222222222,
+    "fat_100g": 17.3913043478261,
+    "saturated-fat_100g": 4,
+    "sugars_100g": 3,
+    "salt_100g": 0.5,
+    "sodium_100g": 0.2,
+    "fiber_100g": 1,
+    "proteins_100g": 34.7826086956522,
+    "energy-kcal_serving": 194,
+    "sugars_serving": 1.38,
+    "salt_serving": 0.23
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "code": "0048001213517",
+  "assigned_category": "mayonnaise",
+  "product_name": "Real Mayonnaise",
+  "brands": "Best Foods",
+  "quantity": "13g",
+  "serving_size": "1 portion (13 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e385"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:soybeans"
+  ],
+  "ingredients_text": "SOYBEAN OIL, WATER, WHOLE EGGS AND EGG YOLKS (WHOLE EGGS AND EGG YOLKS), VINEGAR, SALT, SUGAR, LEMON JUICE CONCENTRATE, CALCIUM DISODIUM EDTA (USED TO PROTECT QUALITY), NATURAL FLAVORS.",
+  "countries_tags": [
+    "en:germany",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 692.307692307692,
+    "fat_100g": 76.9,
+    "saturated-fat_100g": 11.5,
+    "salt_100g": 1.73,
+    "sodium_100g": 0.692,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 90,
+    "salt_serving": 0.225
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "code": "0857777004195",
+  "assigned_category": "protein-bars",
+  "product_name": "Blueberry RXBAR",
+  "brands": "RXBAR",
+  "quantity": "52 g",
+  "serving_size": "1 portion (52 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:eggs",
+    "en:nuts"
+  ],
+  "ingredients_text": "Dates, egg whites, almonds, cashews, blueberries, natural blueberry flavor.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 346.153846153846,
+    "fat_100g": 6,
+    "saturated-fat_100g": 1,
+    "sugars_100g": 15,
+    "salt_100g": 0.375,
+    "sodium_100g": 0.15,
+    "fiber_100g": 6,
+    "proteins_100g": 12,
+    "energy-kcal_serving": 180,
+    "sugars_serving": 7.8,
+    "salt_serving": 0.195
+  }
+}

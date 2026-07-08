@@ -1,0 +1,34 @@
+{
+  "code": "0034000400126",
+  "assigned_category": "peanut-butter",
+  "product_name": "Creamy Peanut Butter",
+  "brands": "Reese's",
+  "quantity": "510 g",
+  "serving_size": "2 tbsp serving (32 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Peanuts; Sugar; hydrogenated Vegetable Oil [rapeseed Oil; Cottonseed Oil; Soybean Oil]; Salt; Peanut Oil; Monoglycerides; Molasses; Cornstarch.",
+  "countries_tags": [
+    "en:france",
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 593.75,
+    "fat_100g": 50,
+    "saturated-fat_100g": 7.8125,
+    "sugars_100g": 9.375,
+    "salt_100g": 1.09375,
+    "sodium_100g": 0.4375,
+    "fiber_100g": 9.375,
+    "proteins_100g": 25,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 3,
+    "salt_serving": 0.35
+  }
+}

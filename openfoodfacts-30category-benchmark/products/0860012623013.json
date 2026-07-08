@@ -1,0 +1,32 @@
+{
+  "code": "0860012623013",
+  "assigned_category": "frozen-pizzas",
+  "product_name": "Mushroom & Truffle Pizza",
+  "brands": "Roncadin Inc.",
+  "quantity": "145 g",
+  "serving_size": "145g",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk"
+  ],
+  "ingredients_text": "WHEAT FLOUR, WATER, LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE (PASTEURIZED PART SKIM MILK, CHEESE CULTURES, SALT, ENZYMES), PASTEURIZED CREAM, PORTOBELLO MUSHROOMS, GRILLED CREMINI MUSHROOMS, TRUFFLED MUSHROOM SAUCE (CHAMPIGNON MUSHROOMS, SUNFLOWER OIL, WATER, SUMMER TRUFFLE, SALT, TRUFFLE NATURAL FLAVOR, DRIED GARLIC), GRATED HARD CHEESE (PASTEURIZED MILK, SALT, STARTER CULTURE, MICROBIAL RENNET), SUNFLOWER OIL, EXTRA VIRGIN OLIVE OIL, SALT, PARSLEY, CORN STARCH, LEMON JUICE, ROASTED GARLIC PUREE, GARLIC PUREE, DRIED RED PEPPER FLAKES, BLACK PEPPER, YEAST",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 248.275862068966,
+    "fat_100g": 11.0344827586207,
+    "saturated-fat_100g": 4.13793103448276,
+    "sugars_100g": 1.37931034482759,
+    "salt_100g": 1.24137931034483,
+    "sodium_100g": 0.496551724137931,
+    "fiber_100g": 1.37931034482759,
+    "proteins_100g": 9.6551724137931,
+    "energy-kcal_serving": 360,
+    "sugars_serving": 2,
+    "salt_serving": 1.8
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "code": "0030100103097",
+  "assigned_category": "crackers",
+  "product_name": "Pretzel FlipSides Original",
+  "brands": "Town House",
+  "quantity": "",
+  "serving_size": "5 Crackers (15 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e341",
+    "en:e341i",
+    "en:e450",
+    "en:e450i",
+    "en:e500",
+    "en:e500ii"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Enriched flour (wheat flour, niacin, reduced iron, vitamin b1 [thiamin mononitrate], vitamin b2 [riboflavin], folic acid), soybean oil (with tbhq for freshness), sugar. contains 2% or less of salt, leavening (sodium acid pyrophosphate, baking soda, monocalcium phosphate), corn syrup, high fructose corn syrup, whey, soy lecithin.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 466.666666666667,
+    "fat_100g": 23.3333333333333,
+    "saturated-fat_100g": 3.33333333333333,
+    "sugars_100g": 6.66666666666667,
+    "salt_100g": 3.16666666666667,
+    "sodium_100g": 1.26666666666667,
+    "fiber_100g": 0,
+    "proteins_100g": 6.66666666666667,
+    "energy-kcal_serving": 70,
+    "sugars_serving": 1,
+    "salt_serving": 0.475
+  }
+}

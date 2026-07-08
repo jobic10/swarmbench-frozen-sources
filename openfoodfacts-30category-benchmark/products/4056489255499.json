@@ -1,0 +1,38 @@
+{
+  "code": "4056489255499",
+  "assigned_category": "muesli",
+  "product_name": "Schoko Müsli",
+  "brands": "Crownfield, Brüggen, Lidl",
+  "quantity": "750g",
+  "serving_size": "50 g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e322"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:nuts"
+  ],
+  "ingredients_text": "63% Hafervollkornflocken, Vollmilchschokoladenstückchen (Zucker, Kakaomasse*, Vollmilchpulver, Kakaobutter*, Emulgator: Lecithine), Zartbitterschokoladenplättchen (Kakaomasse, Zucker, Kakaobutter*, Emulgator: Lecithine), Reis-Kakao-Extrudat (Reismehl, Zucker, Glukosesirup, fettarmes Kakaopulver*, Speisesalz), Knuspermüsli [Hafervollkornflocken, Zucker, Palmöl, Weizenvollkornflocken, Reis-Extrudat (Reismehl, Zucker, Weizenkleber, Malzmehl (Gerste, Weizen), Speisesalz), Kokosraspel, kakaohaltiges Getränkepulver (Zucker, fettarmes Kakaopulver*, Dextrose, Speisesalz, natürliches Aroma), Glukose-Fruktose-Sirup, natürliches Aroma], 2% Mandeldragee (Zucker, Mandeln, Invertzuckersirup, Karamellzuckersirup). Kann Spuren von anderen Schalenfrüchten, Erdnüssen, Soja, Sesam, Senf und Lupinen enthalten.",
+  "countries_tags": [
+    "en:germany",
+    "en:italy",
+    "en:romania",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 414,
+    "fat_100g": 12.8,
+    "saturated-fat_100g": 5.2,
+    "sugars_100g": 14.8,
+    "salt_100g": 0,
+    "sodium_100g": 0.07,
+    "fiber_100g": 8.6,
+    "proteins_100g": 11.7,
+    "energy-kcal_serving": 207,
+    "sugars_serving": 7.4,
+    "salt_serving": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "code": "0027000380406",
+  "assigned_category": "canned-tomatoes",
+  "product_name": "Diced Tomatoes",
+  "brands": "Hunts",
+  "quantity": "2",
+  "serving_size": "0.5 cups (121 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Diced Tomatoes, Tomato Juice, less than 2% of: Salt, Citric Acid, Calcium Chloride",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 24.7933884297521,
+    "fat_100g": 0,
+    "sugars_100g": 2.47933884297521,
+    "salt_100g": 0.413223140495868,
+    "sodium_100g": 0.165289256198347,
+    "fiber_100g": 1.65289256198347,
+    "proteins_100g": 0.826446280991736,
+    "energy-kcal_serving": 30,
+    "sugars_serving": 3,
+    "salt_serving": 0.5
+  }
+}

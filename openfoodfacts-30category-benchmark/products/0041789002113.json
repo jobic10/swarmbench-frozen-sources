@@ -1,0 +1,41 @@
+{
+  "code": "0041789002113",
+  "assigned_category": "instant-noodles",
+  "product_name": "Ramen Noodle Soup Chicken Flavor",
+  "brands": "Maruchan",
+  "quantity": "85 g",
+  "serving_size": "1 serving (85 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e319",
+    "en:e452",
+    "en:e452i",
+    "en:e452vi",
+    "en:e621",
+    "en:e627"
+  ],
+  "allergens_tags": [
+    "en:celery",
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "ENRICHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRAT RIBOFLAVIN, FOLIC ACID), VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING: CANOLA PRESERVED BY TBHQ, CONTAINS LESS THAN 1% OF: SALT, POTASSIUM CARBONATE, SOY SAUCE (WATER, WHEAT, SOYBEAN, SALT), SODIUM CARBONATE, SODIUM HEXAMETAPHOSPHATE, SODIUM TRIPOLYPHOSPHATE, SOUP BASE INGREDIENTS: SALT, SUGAR, CONTAINS LESS THAN 1% OF: MONOSODIUM GLUTAMATE, MALTODEXTRIN, SPICES (CELERY SEED), HYDROLYZED CORN PROTEIN, HYDROLYZED WHEAT PROTEIN, HYDROLYZED SO NATURAL FLAVORS, DEHYDRATED VEGETABLES (CHIVE, GARLIC, ONION), DISODIUM GUANYLATE, DISOCIUM KNOSINATE YEAST EXTRACT. VEGETABLE OIL (PALM), LACTOSE, POWDERED COCKED CHICKEN CONTAINS WHEAT, SOY AND EILE INGREDIENTS. MANUFACTURED IN A FACILITY THAT AI SO PROCESSES CRUSTACEAN SHELLFISH AND SESAME PRODUCTS. CONTAINS A BIOENGINEERED FOOD INGRED ially",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 223.529411764706,
+    "fat_100g": 16.4705882352941,
+    "saturated-fat_100g": 8.23529411764706,
+    "sugars_100g": 2.70588235294118,
+    "salt_100g": 4.47058823529412,
+    "sodium_100g": 1.78941176470588,
+    "fiber_100g": 2.35294117647059,
+    "proteins_100g": 9.41176470588235,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 2.3,
+    "salt_serving": 3.8
+  }
+}

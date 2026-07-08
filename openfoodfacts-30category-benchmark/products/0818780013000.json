@@ -1,0 +1,26 @@
+{
+  "code": "0818780013000",
+  "assigned_category": "popcorn",
+  "product_name": "Sweet & Salty Kettle Corn",
+  "brands": "Angie's Boom Chicka Pop",
+  "quantity": "3 lbs",
+  "serving_size": "1 cup (1 cup)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "popcorn, sunflower oil, cane sugar, sea salt,",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 500,
+    "fat_100g": 28.5714285714286,
+    "saturated-fat_100g": 21.4285714285714,
+    "sugars_100g": 14.2857142857143,
+    "salt_100g": 0.982142857142857,
+    "sodium_100g": 0.392857142857143,
+    "fiber_100g": 7.14285714285714,
+    "proteins_100g": 3.57142857142857
+  }
+}

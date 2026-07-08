@@ -1,0 +1,42 @@
+{
+  "code": "7622210450098",
+  "assigned_category": "sweet-biscuits",
+  "product_name": "Prince goût tout Choco au blé complet",
+  "brands": "LU Prince",
+  "quantity": "300 g",
+  "serving_size": "1 cookie (20 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e500",
+    "en:e503"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Céréale 45,7 % (farine de BLÉ 29,7%, farine de BLÉ complète 16 %), sucre, huiles végétales palme, colza), cacao maigre en poudre 8,2 %, LAIT écrémé en poudre, amidon de BLÉ, poudres à lever (carbonates d'ammonium, carbonates de sodium), emulsifiant (lecithines de SOJA), sel, sirop de glucose, perméat de lactosérum (de LAIT), arômes. PEUT CONTENIR ŒUF.",
+  "countries_tags": [
+    "en:france",
+    "en:morocco",
+    "en:united-states",
+    "en:La Réunion"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 465,
+    "fat_100g": 18,
+    "saturated-fat_100g": 5.7,
+    "sugars_100g": 34,
+    "salt_100g": 0.54,
+    "sodium_100g": 0.216,
+    "fiber_100g": 5.1,
+    "proteins_100g": 7.1,
+    "energy-kcal_serving": 93,
+    "sugars_serving": 6.8,
+    "salt_serving": 0.108
+  }
+}

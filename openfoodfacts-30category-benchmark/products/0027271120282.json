@@ -1,0 +1,42 @@
+{
+  "code": "0027271120282",
+  "assigned_category": "salad-dressings",
+  "product_name": "Asiago Caesar Dressing",
+  "brands": "Briannas",
+  "quantity": "",
+  "serving_size": "2 tbsp (30 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e150c",
+    "en:e202",
+    "en:e211",
+    "en:e306",
+    "en:e330",
+    "en:e334",
+    "en:e415"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk",
+    "en:mustard",
+    "en:soybeans"
+  ],
+  "ingredients_text": "canola oil, water, rice wine vinegar, shredded asiago cheese (cultured milk, enzymes, salt), balsamic vinegar, garlic puree (garlic, citric acid), egg yolk powder, salt, sugar, worcestershire sauce (water, distilled vinegar, soy sauce (water, salt, hydrolyzed soy protein, corn syrup, caramel color, potassium sorbate [preservative]), sugar, corn syrup, tamarind extract, caramel color, spices, salt, dried garlic, dried onion, citric acid, xanthan gum, natural flavors, potassium sorbate [preservative]), spices, dijon mustard (vinegar, water, mustard seed, salt, white wine, citric acid, tartaric acid, spices), natural flavors, sodium benzoate (to preserve freshness), xanthan gum, mixed tocopherols (antioxidant-vitamin e),",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 500,
+    "fat_100g": 15,
+    "saturated-fat_100g": 1.5,
+    "sugars_100g": 1,
+    "salt_100g": 0.825,
+    "sodium_100g": 0.33,
+    "fiber_100g": 0,
+    "proteins_100g": 1,
+    "energy-kcal_serving": 150,
+    "sugars_serving": 0.3,
+    "salt_serving": 0.247
+  }
+}

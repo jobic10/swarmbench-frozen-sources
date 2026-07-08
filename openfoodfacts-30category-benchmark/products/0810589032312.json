@@ -1,0 +1,29 @@
+{
+  "code": "0810589032312",
+  "assigned_category": "muesli",
+  "product_name": "Original Malty-Sweet Granola",
+  "brands": "purely elizabeth.",
+  "quantity": "34 oz",
+  "serving_size": "1 portion (30 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "organic certified gluten-free oats, organic coconut sugar, organic coconut oil, organic sunflower seeds, organic puffed amaranth, organic quinoa flakes, organic chia seeds, organic cinnamon, sea salt",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 433.333333333333,
+    "fat_100g": 16.6666666666667,
+    "saturated-fat_100g": 11.6666666666667,
+    "sugars_100g": 20,
+    "salt_100g": 1.125,
+    "sodium_100g": 0.45,
+    "fiber_100g": 6.66666666666667,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 130,
+    "sugars_serving": 6,
+    "salt_serving": 0.337
+  }
+}

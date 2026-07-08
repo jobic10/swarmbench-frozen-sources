@@ -1,0 +1,39 @@
+{
+  "code": "0096619031955",
+  "assigned_category": "frozen-pizzas",
+  "product_name": "Supreme Cauliflower Crust Pizza",
+  "brands": "Kirkland Signature",
+  "quantity": "",
+  "serving_size": "0.25 pizza (138 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e160c",
+    "en:e250",
+    "en:e270",
+    "en:e330",
+    "en:e415"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk",
+    "en:pork"
+  ],
+  "ingredients_text": "cauliflower, low moisture mozzarella cheese, pasteurized milk, cheese cultures, salt, enzymes, rice flour, tapioca starch, egg whites, rice starch, modified rice starch, cane sugar, yeast, salt, cultured brown rice, garlic powder, spices, xanthan gum, brown rice flour, citric acid, lactic acid, low moisture part skim mozzarella cheese, pasteurized part skim milk, cheese cultures, salt, enzymes, water, tomato paste, pepperoni, pork, salt, spices, dextrose, lactic acid starter culture, flavoring, oleoresin of paprika, sodium nitrite, all natural italian sausage, pork, spices, sugar, natural flavorings, dehydrated garlic, roasted red bell peppers, roasted yellow bell peppers, roasted green bell peppers, roasted mushrooms, roasted onions, roasted zucchini, parmesan cheese, pasteurized cow’s milk, cheese culture, salt, enzymes, romano cheese, pasteurized cow’s milk, cheese culture, salt, enzymes, sugar, sea salt, garlic powder, oregano, basil, onion powder",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 224.63768115942,
+    "fat_100g": 10.8695652173913,
+    "saturated-fat_100g": 5.79710144927536,
+    "sugars_100g": 2.89855072463768,
+    "salt_100g": 1.6304347826087,
+    "sodium_100g": 0.652173913043478,
+    "fiber_100g": 0.72463768115942,
+    "proteins_100g": 10.1449275362319,
+    "energy-kcal_serving": 310,
+    "sugars_serving": 4,
+    "salt_serving": 2.25
+  }
+}

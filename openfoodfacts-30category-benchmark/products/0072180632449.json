@@ -1,0 +1,45 @@
+{
+  "code": "0072180632449",
+  "assigned_category": "frozen-pizzas",
+  "product_name": "French Bread Singles Pepperoni Pizzas",
+  "brands": "Red Baron",
+  "quantity": "2 Boats (10.8 oz)",
+  "serving_size": "1 pizza (153 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e160c",
+    "en:e250",
+    "en:e300",
+    "en:e320",
+    "en:e321",
+    "en:e322",
+    "en:e322i",
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:beef",
+    "en:chicken",
+    "en:gluten",
+    "en:milk",
+    "en:pork",
+    "en:soybeans"
+  ],
+  "ingredients_text": "French bread (enriched wheat flour [flour, malted barley flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid], water, soybean oil, contains 2% or less of salt, sugar, yeast, dough conditioner [wheat flour, ascorbic acid, enzymes], soy lecithin, non fat dry milk), sauce (water, tomato paste, seasoning blend [sugar, modified food starch, salt, spice, dried garlic, maltodextrin, hydrolyzed soy and corn protein, paprika, dried onion]), low moisture part skim mozzarella cheese (cultured pasteurized part skim milk, salt, enzymes), pepperoni made with pork, chicken and beef (pork, mechanically separated chicken, beef, salt, contains 2% or less of water, dextrose, spices, smoke flavoring, flavoring, lactic acid starter culture, sodium ascorbate, garlic powder, oleoresin of paprika, sodium nitrite, citric acid, bha, bht).",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 275.36231884058,
+    "fat_100g": 9.80392156862745,
+    "saturated-fat_100g": 3.92156862745098,
+    "sugars_100g": 4.57516339869281,
+    "salt_100g": 1.42156862745098,
+    "sodium_100g": 0.568627450980392,
+    "fiber_100g": 1.30718954248366,
+    "proteins_100g": 9.80392156862745,
+    "energy-kcal_serving": 421,
+    "sugars_serving": 7,
+    "salt_serving": 2.17
+  }
+}

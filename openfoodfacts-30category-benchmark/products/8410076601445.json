@@ -1,0 +1,41 @@
+{
+  "code": "8410076601445",
+  "assigned_category": "cereal-bars",
+  "product_name": "Nature valley crunchy",
+  "brands": "Nature Valley",
+  "quantity": "10 Barres",
+  "serving_size": "42g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e500",
+    "en:e500ii"
+  ],
+  "allergens_tags": [
+    "en:peanuts"
+  ],
+  "ingredients_text": "Avoine complète (56%), sucre, huile de tournesol, beurre de cacahuètes (8%) (cacahuète, sel), morceaux de cacahuètes (2%), mélasse, miel. sel, poudre à lever: bicarbonate de sodium; émulsifiant: lécithine de tournesol.",
+  "countries_tags": [
+    "en:france",
+    "en:germany",
+    "en:india",
+    "en:italy",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 479,
+    "fat_100g": 20.7,
+    "saturated-fat_100g": 2.4,
+    "sugars_100g": 25.6,
+    "salt_100g": 0.89,
+    "sodium_100g": 0.356,
+    "fiber_100g": 6.6,
+    "proteins_100g": 10.2,
+    "energy-kcal_serving": 201,
+    "sugars_serving": 10.8,
+    "salt_serving": 0.374
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "code": "0051500255650",
+  "assigned_category": "peanut-butter",
+  "product_name": "PEANUT BUTTER SPREAD",
+  "brands": "Jif",
+  "quantity": "16 oz / 454 g",
+  "serving_size": "2 tbsp (33 g)",
+  "nova_group": null,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients_text": "% DV* Amount/Serving Amount/Serving % DV O Total Fat 16g 20% Total Carb 8g 3% 17% Sat Fat 3.5g Fiber 3g 9% Trans Fat Og Total Sugars 4g Cholest Omg 0% Incl 2g Added Sugars 4% Sodium 80mg 3% Protein 7g 7% 90 Vit D 0mcg 0% 150025565 Vit E 1mg 10% Calcium 18mg 2% Iron 1mg 4% Potas 193mg 4% Niacin 5mg 30% The % Daily Value tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice. HOR LESS OF SALT, MOLASSES. MINIMAL OIL SEPARATION DE FROM PEANUTS, SUGAR, PALM NATURAL INGREDIENTS, CKER COMPANY TUSA IS NATURAL. 0 JAN LOOK FOR THE FLAVOR SEAL CONTAINS NO PRESERVATIVES BEST IF USED NO REFRIGERATION REQUIRED THIS PACKAGE IS RECYCLABLE. HOWEVER, RECYCLING PROGRAMS FOR THIS PACKAGE MAY NOT EXIST IN YOUR AREA. 69568007 1005",
+  "countries_tags": [
+    "en:france",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 575.757575757576,
+    "fat_100g": 48.4848484848485,
+    "saturated-fat_100g": 10.6060606060606,
+    "sugars_100g": 12.1212121212121,
+    "salt_100g": 0.606060606060606,
+    "sodium_100g": 0.242424242424242,
+    "fiber_100g": 9.09090909090909,
+    "proteins_100g": 21.2121212121212,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 4,
+    "salt_serving": 0.2
+  }
+}

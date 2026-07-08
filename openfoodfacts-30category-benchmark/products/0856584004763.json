@@ -1,0 +1,34 @@
+{
+  "code": "0856584004763",
+  "assigned_category": "sausages",
+  "product_name": "Original Beef Stick",
+  "brands": "Chomps",
+  "quantity": "",
+  "serving_size": "1 portion (32 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e270"
+  ],
+  "allergens_tags": [
+    "en:celery"
+  ],
+  "ingredients_text": "Grass fed & finished beef, water, less than 2% of: encapsulated lactic acid, sea salt, cultured celery powder (celery powder, sea salt), cherry powder, black pepper, red pepper, garlic powder, coriander, stuffed in a beef collagen casing.",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 312.5,
+    "fat_100g": 21.875,
+    "saturated-fat_100g": 9.375,
+    "sugars_100g": 0,
+    "salt_100g": 2.96875,
+    "sodium_100g": 1.1875,
+    "fiber_100g": 0,
+    "proteins_100g": 31.25,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 0,
+    "salt_serving": 0.95
+  }
+}

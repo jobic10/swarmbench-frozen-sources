@@ -1,0 +1,29 @@
+{
+  "code": "4099100133295",
+  "assigned_category": "honey",
+  "product_name": "PURE HONEY",
+  "brands": "BERRYHILL",
+  "quantity": "24 oz",
+  "serving_size": "1.0 serving (21.0 g)",
+  "nova_group": 2,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Honey",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 285.714285714286,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 60,
+    "sugars_serving": 0,
+    "salt_serving": 0
+  }
+}

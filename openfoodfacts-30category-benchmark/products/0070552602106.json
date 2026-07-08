@@ -1,0 +1,31 @@
+{
+  "code": "0070552602106",
+  "assigned_category": "canned-tomatoes",
+  "product_name": "Tomatoes, Diced",
+  "brands": "Winco Foods",
+  "quantity": "411g",
+  "serving_size": "1 serving (121 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Tomatoes, tomato juice, less than 2% of: salt, calcium chloride, citric acid.",
+  "countries_tags": [
+    "en:germany",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 20.6611570247934,
+    "fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 0.371900826446281,
+    "sodium_100g": 0.148760330578512,
+    "fiber_100g": 0,
+    "proteins_100g": 0.826446280991736,
+    "energy-kcal_serving": 25,
+    "sugars_serving": 0,
+    "salt_serving": 0.45
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": "0070234215006",
+  "assigned_category": "pasta-sauces",
+  "product_name": "White linen marinara sauce",
+  "brands": "Victoria",
+  "quantity": "40 oz",
+  "serving_size": "0.5 Cup (113 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Tomatoes, Onions, Olive Oil, Salt, Garlic, Basil, Spices, Calcium Chloride",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 61.9469026548673,
+    "fat_100g": 3.53982300884956,
+    "saturated-fat_100g": 0.442477876106195,
+    "sugars_100g": 4.42477876106195,
+    "salt_100g": 1.03982300884956,
+    "sodium_100g": 0.415929203539823,
+    "fiber_100g": 1.76991150442478,
+    "proteins_100g": 0.884955752212389,
+    "energy-kcal_serving": 70,
+    "sugars_serving": 5,
+    "salt_serving": 1.18
+  }
+}

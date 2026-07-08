@@ -1,0 +1,40 @@
+{
+  "code": "0041789002120",
+  "assigned_category": "instant-noodles",
+  "product_name": "Ramen Noodle Soup",
+  "brands": "Maruchan",
+  "quantity": "3 oz",
+  "serving_size": "1 portion (43 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e150c",
+    "en:e452",
+    "en:e452i",
+    "en:e621",
+    "en:e627",
+    "en:e631"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID, VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING: CANOLA), CARBONATE SOY SAUCE (WATER, WHEAT, SOYBEANS, SALT), SODIUM CARBONATE, SODIUM HEXAMETAPHOSPHATE, SODIUM TRIPOLYPHOSPHATE MONOSODU, MALTODEXTRIN, MONOSODIUM GLUTAMATE, CARAMEL COLOR, DEHYDRATED SOY SAUCE (WHEAT, SOYBEANS, SALT), BEEF FAT, SPICES, HYDROLYZED, DEHYDRATED VEGETABLES (GARLIC, ONION, CHIVE), LACTOSE, NATURAL FLAVOR, DISODIUM GUANYLATE, DISODIUM INOSINATE, SILICON DIOXIDE",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 447.058823529412,
+    "fat_100g": 16.2790697674419,
+    "saturated-fat_100g": 8.13953488372093,
+    "sugars_100g": 2.32558139534884,
+    "salt_100g": 4.18604651162791,
+    "sodium_100g": 1.67441860465116,
+    "fiber_100g": 2.32558139534884,
+    "proteins_100g": 9.30232558139535,
+    "energy-kcal_serving": 192,
+    "sugars_serving": 1,
+    "salt_serving": 1.8
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "code": "4750050341405",
+  "assigned_category": "ice-cream",
+  "product_name": "Kārums biezpiena sieriņš",
+  "brands": "Kārums",
+  "quantity": "45 g",
+  "serving_size": "1 portion (45 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:milk",
+    "en:Varškė",
+    "en:sviestas",
+    "lt:Varškė"
+  ],
+  "ingredients_text": "_Varškė_ 63%, cukrus, glaistas 18% (_sviestas_, cukrus, kakavos milteliai), kvapioji medžiaga vanilinas",
+  "countries_tags": [
+    "en:latvia",
+    "en:lithuania",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 356,
+    "fat_100g": 23.6,
+    "saturated-fat_100g": 15.3,
+    "sugars_100g": 23.5,
+    "salt_100g": 0.03,
+    "sodium_100g": 0.012,
+    "proteins_100g": 11.5,
+    "energy-kcal_serving": 160,
+    "sugars_serving": 10.6,
+    "salt_serving": 0.0135
+  }
+}

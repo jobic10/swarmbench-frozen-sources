@@ -1,0 +1,29 @@
+{
+  "code": "0041500000312",
+  "assigned_category": "mustard",
+  "product_name": "Classic Yellow Mustard",
+  "brands": "French's",
+  "quantity": "20 oz (1 lb 4 oz) 567 g",
+  "serving_size": "1 tsp. (5 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:mustard"
+  ],
+  "ingredients_text": "DISTILLED VINEGAR, WATER, * MUSTARD SEED, SALT, TURMERIC, PAPRIKA, SPICE, NATURAL FLAVOR, GARLIC POWDER, *: #1 GRADE.",
+  "countries_tags": [
+    "en:bolivia",
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 100,
+    "fat_100g": 0,
+    "salt_100g": 2.75,
+    "sodium_100g": 1.1,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 5,
+    "salt_serving": 0.138
+  }
+}

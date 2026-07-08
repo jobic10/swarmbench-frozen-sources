@@ -1,0 +1,24 @@
+{
+  "code": "0193968327071",
+  "assigned_category": "honey",
+  "product_name": "PURE PREMIUM HONEY",
+  "brands": "Member's Mark",
+  "quantity": "1.36 kg",
+  "serving_size": "1 portion (21 g)",
+  "nova_group": 2,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Honey",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 285.714285714286,
+    "fat_100g": 0,
+    "sugars_100g": 80.9523809523809,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 60,
+    "sugars_serving": 17
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "code": "0071464022853",
+  "assigned_category": "salad-dressings",
+  "product_name": "Classic Ranch Yogurt Dressing & Dip",
+  "brands": "Bolthouse Farms",
+  "quantity": "",
+  "serving_size": "30g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e331",
+    "en:e415",
+    "en:e440"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk",
+    "en:mustard",
+    "en:soybeans"
+  ],
+  "ingredients_text": "buttermilk, cultured nonfat milk, milk, sodium citrate, vitamin A palmitate, filtered water, soybean oil, yogurt (cultured pasteurized grade A milk, cream, pectin, whey protein concentrate), distilled vinegar, reduced acid pineapple juice concentrate, salt, contains 2% or less of: egg yolks, xanthan gum, buttermilk powder, onion powder, natural flavors, garlic powder, mustard seed, dill, spice",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 166.666666666667,
+    "fat_100g": 13.3333333333333,
+    "saturated-fat_100g": 3.33333333333333,
+    "sugars_100g": 6.66666666666667,
+    "salt_100g": 2.16666666666667,
+    "sodium_100g": 0.866666666666667,
+    "fiber_100g": 0,
+    "proteins_100g": 3.33333333333333,
+    "energy-kcal_serving": 50,
+    "sugars_serving": 2,
+    "salt_serving": 0.65
+  }
+}

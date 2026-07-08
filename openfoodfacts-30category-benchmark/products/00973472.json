@@ -1,0 +1,35 @@
+{
+  "code": "00973472",
+  "assigned_category": "fruit-yogurts",
+  "product_name": "Greek Yogurt Strawberry Vanilla",
+  "brands": "Trader Joe's",
+  "quantity": "5.3 oz (150 g)",
+  "serving_size": "1 portion (150 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e330",
+    "en:e410",
+    "en:e440"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "GRADE A PASTEURIZED MILK (SKIM MILK, CREAM), STRAWBERRY VANILLA BASE CANE SIGR BARBRES WATER MODIFIED CORNSTARCH, NATURAL FLAVOR, VANILLA EXTRACT WATER ETHYLALOH LA BEAN EXTRACTIVES), PECTIN, LOCUST BEAN GUM, CITRIC ACID (ACIDIFIERI, FRUIT AND VEE E FOR COLOR, LIVE ACTIVE CULTURES (BIFIDOBACTERIUM LACTIS, LACTOBACILLUS ADDOPHUS ROSS L PARACASE, STREPTOCOCCUS THERMOPHILUS). CONTAINS MILK",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 133.333333333333,
+    "fat_100g": 7.33333333333333,
+    "saturated-fat_100g": 4.66666666666667,
+    "sugars_100g": 10.6666666666667,
+    "salt_100g": 0.1,
+    "sodium_100g": 0.04,
+    "fiber_100g": 0,
+    "proteins_100g": 3.33333333333333,
+    "energy-kcal_serving": 200,
+    "sugars_serving": 16,
+    "salt_serving": 0.15
+  }
+}

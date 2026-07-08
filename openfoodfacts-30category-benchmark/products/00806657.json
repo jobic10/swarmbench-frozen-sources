@@ -1,0 +1,29 @@
+{
+  "code": "00806657",
+  "assigned_category": "dried-fruits",
+  "product_name": "Freeze Dried Strawberries unsweetened & unsulfured",
+  "brands": "Trader Joe's",
+  "quantity": "",
+  "serving_size": "1 bag (34 g)",
+  "nova_group": 1,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "FREEZE DRIED STRAWBERRIES",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 352.941176470588,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 44.1176470588235,
+    "salt_100g": 0,
+    "sodium_100g": 0.0147058823529412,
+    "fiber_100g": 20.5882352941176,
+    "proteins_100g": 2.94117647058824,
+    "energy-kcal_serving": 120,
+    "sugars_serving": 15,
+    "salt_serving": 0
+  }
+}

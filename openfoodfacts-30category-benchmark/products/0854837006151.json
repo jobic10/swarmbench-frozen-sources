@@ -1,0 +1,33 @@
+{
+  "code": "0854837006151",
+  "assigned_category": "sausages",
+  "product_name": "MINIS ORIGINAL",
+  "brands": "Archer",
+  "quantity": "1 stick 14g",
+  "serving_size": "1 portion (14 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "b",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:celery"
+  ],
+  "ingredients_text": "Grass-Fed Beef, Water, Sea Salt, Encapsulated Citric Acid (1 stick, 14 g), Cultured Celery Powder (Celery Powder, Sea Salt), Dehydrated Garlic, Red Pepper, Black Pepper, Cherry Powder, Coriander, Onion Powder, White Pepper, Ground Nutmeg, Parsley, Colored Beef Collagen Casing",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 321.428571428572,
+    "fat_100g": 3,
+    "saturated-fat_100g": 1.5,
+    "sugars_100g": 0,
+    "salt_100g": 0.5,
+    "sodium_100g": 0.2,
+    "fiber_100g": 0,
+    "proteins_100g": 4,
+    "energy-kcal_serving": 45,
+    "sugars_serving": 0,
+    "salt_serving": 0.07
+  }
+}

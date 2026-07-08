@@ -1,0 +1,39 @@
+{
+  "code": "0819898010103",
+  "assigned_category": "crackers",
+  "product_name": "CLASSIC ROUND CRACKERS",
+  "brands": "BACK TO NATURE",
+  "quantity": "",
+  "serving_size": "5 crackers (15 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e500",
+    "en:e500ii",
+    "en:e503",
+    "en:e503ii"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:soybeans"
+  ],
+  "ingredients_text": "WHEAT FLOUR, SAFFLOWER OIL, CANE SUGAR, BROWN RICE SYRUP, CONTAINS 2% OR LESS THAN OF LEAVENING (BAKING SODA, MONOCALCIUM PHOSPHATE MONOHYDRATE, AMMONIUM BICARBONATE), SEA SALT, SOY LECITHIN, ENZYMES",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 466.666666666667,
+    "fat_100g": 13.3333333333333,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 6.66666666666667,
+    "salt_100g": 1.83333333333333,
+    "sodium_100g": 0.733333333333333,
+    "fiber_100g": 0,
+    "proteins_100g": 6.66666666666667,
+    "energy-kcal_serving": 70,
+    "sugars_serving": 1,
+    "salt_serving": 0.275
+  }
+}

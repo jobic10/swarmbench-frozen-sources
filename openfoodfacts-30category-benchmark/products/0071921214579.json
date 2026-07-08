@@ -1,0 +1,36 @@
+{
+  "code": "0071921214579",
+  "assigned_category": "frozen-pizzas",
+  "product_name": "Rising Crust Original Four Cheese",
+  "brands": "DiGiorno",
+  "quantity": "139 g",
+  "serving_size": "139g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e472e",
+    "en:e500",
+    "en:e500ii"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk"
+  ],
+  "ingredients_text": "ENRICHED WHEAT FLOUR, WATER, LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE, TOMATO PASTE, WHEAT GLUTEN, SUGAR, VEGETABLE OIL, DEGERMINATED WHITE CORN MEAL, YEAST, SALT, PARMESAN, ASIAGO AND ROMANO CHEESE BLEND, DATEM, BAKING SODA, SPICES, WHEAT FLOUR, ENZYMES, DRIED GARLIC, ASCORBIC ACID.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 94.3952802359882,
+    "fat_100g": 7.9136690647482,
+    "saturated-fat_100g": 3.59712230215827,
+    "sugars_100g": 4.31654676258993,
+    "salt_100g": 1.20503597122302,
+    "sodium_100g": 0.482014388489209,
+    "fiber_100g": 1.43884892086331,
+    "proteins_100g": 11.5107913669065,
+    "energy-kcal_serving": 131,
+    "sugars_serving": 6,
+    "salt_serving": 1.68
+  }
+}

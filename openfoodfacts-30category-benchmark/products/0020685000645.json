@@ -1,0 +1,29 @@
+{
+  "code": "0020685000645",
+  "assigned_category": "potato-chips",
+  "product_name": "Kettle Cooked Potato Chips",
+  "brands": "Cape Cod",
+  "quantity": "30 oz",
+  "serving_size": "19 chips (28 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Potatoes, Vegetable Oils (Canola, Sunflower and/or Safflower), Sea Salt.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 464.28571,
+    "fat_100g": 21.42857,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 1.11518,
+    "sodium_100g": 0.44643,
+    "fiber_100g": 7.14286,
+    "proteins_100g": 7.14286,
+    "energy-kcal_serving": 130,
+    "sugars_serving": 0,
+    "salt_serving": 0.312
+  }
+}

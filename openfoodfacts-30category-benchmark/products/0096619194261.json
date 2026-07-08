@@ -1,0 +1,36 @@
+{
+  "code": "0096619194261",
+  "assigned_category": "breakfast-cereals",
+  "product_name": "Ancient Grains Probiotic Granola",
+  "brands": "Kirkland Signature",
+  "quantity": "35.3 oz (1 kg)",
+  "serving_size": "1 serving (55 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e306"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:nuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Whole grain rolled oats, cane sugar, soy oil, khorasan wheat, rolled spelt, almonds, inulin, rice starch, rolled quinoa, rolled amaranth, sea salt, molasses, cinnamon, vanilla flavor, probiotics (Bacillus coagulans GBI-30 6086), tocopherols (vitamin E)",
+  "countries_tags": [
+    "en:canada",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 454.545454545455,
+    "fat_100g": 16.3636363636364,
+    "saturated-fat_100g": 2.72727272727273,
+    "sugars_100g": 16.3636363636364,
+    "salt_100g": 1.09090909090909,
+    "sodium_100g": 0.436363636363636,
+    "fiber_100g": 10.9090909090909,
+    "proteins_100g": 9.09090909090909,
+    "energy-kcal_serving": 250,
+    "sugars_serving": 9,
+    "salt_serving": 0.6
+  }
+}

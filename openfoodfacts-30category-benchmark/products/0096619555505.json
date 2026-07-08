@@ -1,0 +1,33 @@
+{
+  "code": "0096619555505",
+  "assigned_category": "peanut-butter",
+  "product_name": "Organic Creamy Peanut Butter",
+  "brands": "Kirkland",
+  "quantity": "793.8 g",
+  "serving_size": "2 tbsp (32 g)",
+  "nova_group": 2,
+  "nutriscore_grade": "b",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:peanuts"
+  ],
+  "ingredients_text": "Dry roasted organic peanuts, sea salt",
+  "countries_tags": [
+    "en:france",
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 562.5,
+    "fat_100g": 23.44,
+    "saturated-fat_100g": 3.91,
+    "sugars_100g": 1.56,
+    "salt_100g": 0.0005078125,
+    "sodium_100g": 0.000203125,
+    "fiber_100g": 4.69,
+    "proteins_100g": 12.5,
+    "energy-kcal_serving": 180,
+    "sugars_serving": 0.499,
+    "salt_serving": 0.000162
+  }
+}

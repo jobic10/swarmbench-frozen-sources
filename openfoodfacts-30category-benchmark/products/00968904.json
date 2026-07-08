@@ -1,0 +1,34 @@
+{
+  "code": "00968904",
+  "assigned_category": "fruit-yogurts",
+  "product_name": "Peaches & Cream Yogurt Cup",
+  "brands": "Trader Joe's",
+  "quantity": "4 oz",
+  "serving_size": "1 container (113 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e160b",
+    "en:e428"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "CULTURED PASTEURIZED GRADE A MILK SUGAR CREAM 50 PUREE MODIFIED CORN STARCH, WHEY PROTEIN CONCENTRATE FLAVORS KOSHER GELATIN, ANNATTO (COLOR), ACTIVE CULTURES L BULGARICUS LACIDOPHILUS, BIFIDOBACTERIUM L. CASED CARE PASTEURIZATION, CONTAINS MILK.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 123.893805309735,
+    "fat_100g": 5.30973451327434,
+    "saturated-fat_100g": 3.09734513274336,
+    "sugars_100g": 14.1592920353982,
+    "salt_100g": 0.110619469026549,
+    "sodium_100g": 0.0442477876106195,
+    "fiber_100g": 0,
+    "proteins_100g": 3.53982300884956,
+    "energy-kcal_serving": 140,
+    "sugars_serving": 16,
+    "salt_serving": 0.125
+  }
+}

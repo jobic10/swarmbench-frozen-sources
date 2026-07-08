@@ -1,0 +1,36 @@
+{
+  "code": "00759786",
+  "assigned_category": "crackers",
+  "product_name": "Green olive flats",
+  "brands": "Trader Joe's",
+  "quantity": "150 grams",
+  "serving_size": "2 crackers (28 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e270",
+    "en:e300",
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:sesame-seeds"
+  ],
+  "ingredients_text": "SOFT WHEAT FLOUR, WATER, GREEN OLIVES IN BRINE (OLIVES, WATER, SALT, LACTIC ACID, CITRIC ACID [ACIDIFIER], ASCORBIC ACID [TO PRESERVE]), PALM OIL, BAKERS YEAST, SALT, MALTED WHEAT FLOUR, DEXTROSE, GROUND SESAME SEEDS",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 464.285714285714,
+    "fat_100g": 17.8571428571429,
+    "saturated-fat_100g": 1.78571428571429,
+    "sugars_100g": 3.57142857142857,
+    "salt_100g": 0.642857142857143,
+    "sodium_100g": 0.257142857142857,
+    "fiber_100g": 1.78571428571429,
+    "proteins_100g": 10.7142857142857,
+    "energy-kcal_serving": 130,
+    "sugars_serving": 1,
+    "salt_serving": 0.18
+  }
+}

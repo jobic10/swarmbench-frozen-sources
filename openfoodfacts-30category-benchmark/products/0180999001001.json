@@ -1,0 +1,30 @@
+{
+  "code": "0180999001001",
+  "assigned_category": "popcorn",
+  "product_name": "Popcorn Himalayan Pink Salt",
+  "brands": "Lesser Evil",
+  "quantity": "5 oz",
+  "serving_size": "3 cups (28 g)",
+  "nova_group": null,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Organic non-GMO popcorn, organic extra-virgin coconut oil, Himalayan salt contains coconut",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 428.571428571429,
+    "fat_100g": 25,
+    "saturated-fat_100g": 17.8571428571429,
+    "sugars_100g": 0,
+    "salt_100g": 1.69642857142857,
+    "sodium_100g": 0.678571428571429,
+    "fiber_100g": 14.2857142857143,
+    "proteins_100g": 7.14285714285714,
+    "energy-kcal_serving": 120,
+    "sugars_serving": 0,
+    "salt_serving": 0.475
+  }
+}

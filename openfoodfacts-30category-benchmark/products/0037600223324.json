@@ -1,0 +1,33 @@
+{
+  "code": "0037600223324",
+  "assigned_category": "peanut-butter",
+  "product_name": "Creamy Peanut Butter",
+  "brands": "SKIPPY",
+  "quantity": "1.36 kg",
+  "serving_size": "2 tablespoon (32 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "ROASTED PEANUTS SUGAR, HYDROGENATED VEGETABLE OIL (COTTONSEED, SOYBEAN AND RAPESEED OIL) TO PREVENT SEPARATION, SALT.",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 593.75,
+    "fat_100g": 50,
+    "saturated-fat_100g": 9.375,
+    "sugars_100g": 9.375,
+    "salt_100g": 1.171875,
+    "sodium_100g": 0.46875,
+    "fiber_100g": 6.25,
+    "proteins_100g": 21.875,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 3,
+    "salt_serving": 0.375
+  }
+}

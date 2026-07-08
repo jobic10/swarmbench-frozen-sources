@@ -1,0 +1,30 @@
+{
+  "code": "3608580823452",
+  "assigned_category": "fruit-jams",
+  "product_name": "Confiture Abricot INTENSE",
+  "brands": "Bonne Maman",
+  "quantity": "335 g",
+  "serving_size": "30",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e440"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Abricots, sucre, jus de citrons concentré, pectine de fruits",
+  "countries_tags": [
+    "en:france",
+    "en:switzerland",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 164,
+    "fat_100g": 0.2,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 39,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 1.6,
+    "proteins_100g": 0.8
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "code": "0058449770565",
+  "assigned_category": "breakfast-cereals",
+  "product_name": "Pumpkin Seed + Flax Granola",
+  "brands": "Nature's Path Organic",
+  "quantity": "35.3 oz (2 lb 3.3 oz) 1 kg",
+  "serving_size": "0.75 cup cereal (55 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e306"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:nuts",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Whole grain rolled oats*, cane sugar, soy oil*, brown rice flour pumpkin seeds, flax seeds* oat syrup solids* [oat syrup solids*, tocopherols (added to enhance freshness)], sea salt, molasses*, cinnamon*. *Organic. Contains soy. Produced in a facility that uses wheat, peanuts and tree nuts. VEGAN Contains 700 mg of ALA per serving, which is 44% of the 1.6 g Daily Value for ALA.",
+  "countries_tags": [
+    "en:france",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 472.727272727273,
+    "fat_100g": 18.1818181818182,
+    "saturated-fat_100g": 2.72727272727273,
+    "sugars_100g": 18.1818181818182,
+    "salt_100g": 0.204545454545455,
+    "sodium_100g": 0.0818181818181818,
+    "fiber_100g": 7.27272727272727,
+    "proteins_100g": 10.9090909090909,
+    "energy-kcal_serving": 260,
+    "sugars_serving": 10,
+    "salt_serving": 0.113
+  }
+}

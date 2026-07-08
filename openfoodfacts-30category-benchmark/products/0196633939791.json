@@ -1,0 +1,33 @@
+{
+  "code": "0196633939791",
+  "assigned_category": "dried-fruits",
+  "product_name": "Dried Mangoes",
+  "brands": "Kirkland Signature",
+  "quantity": "992 g",
+  "serving_size": "4 pleces (42 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e223",
+    "en:e330"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Mango, Sugar, Citric Acid, Sodium Metabisulphite",
+  "countries_tags": [
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 333.333333333333,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 64.2857142857143,
+    "salt_100g": 0.297619047619048,
+    "sodium_100g": 0.119047619047619,
+    "fiber_100g": 4.76190476190476,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 140,
+    "sugars_serving": 27,
+    "salt_serving": 0.125
+  }
+}

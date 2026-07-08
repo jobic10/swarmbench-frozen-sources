@@ -1,0 +1,31 @@
+{
+  "code": "0074570650576",
+  "assigned_category": "ice-cream",
+  "product_name": "vanilla bean ice cream",
+  "brands": "Häagen-Dazs",
+  "quantity": "14 fl oz",
+  "serving_size": "0.667 cup (129 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk"
+  ],
+  "ingredients_text": "Cream, skim milk, cane sugar, egg yolks, ground vanilla beans, vanilla extract.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 271.317829457364,
+    "fat_100g": 17.8294573643411,
+    "saturated-fat_100g": 10.8527131782946,
+    "sugars_100g": 21.7054263565891,
+    "salt_100g": 0.145348837209302,
+    "sodium_100g": 0.0503875968992248,
+    "proteins_100g": 3.87596899224806,
+    "energy-kcal_serving": 350,
+    "sugars_serving": 28,
+    "salt_serving": 0.188
+  }
+}

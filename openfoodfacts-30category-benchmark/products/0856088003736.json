@@ -1,0 +1,33 @@
+{
+  "code": "0856088003736",
+  "assigned_category": "muesli",
+  "product_name": "Rise & Shine Mix Strawberry Banana Nut",
+  "brands": "Seven Sundays",
+  "quantity": "567g",
+  "serving_size": "1 serving (30 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:banana",
+    "en:nuts"
+  ],
+  "ingredients_text": "almonds, coconut, sunflower seeds, dates, pecans, pumpkin seeds, coconut oil, flax seeds, chia seeds, strawberries, bananas, vanilla extract",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 566.666666666667,
+    "fat_100g": 15,
+    "saturated-fat_100g": 5.01,
+    "sugars_100g": 3.99,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 3.99,
+    "proteins_100g": 5.01,
+    "energy-kcal_serving": 170,
+    "sugars_serving": 1.2,
+    "salt_serving": 0
+  }
+}

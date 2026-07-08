@@ -1,0 +1,30 @@
+{
+  "code": "4099100259124",
+  "assigned_category": "hard-cheese",
+  "product_name": "Swiss & Gruyere Shredded Cheese",
+  "brands": "Emporium Selections",
+  "quantity": "8 oz",
+  "serving_size": "",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e235"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Swiss cheese, cultured pasteurized part-skim milk, salt, microbial enzymes, Gruyere cheese, cultured pasteurized milk, salt, microbial enzymes, potato starch, tapioca starch, natamycin",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 392.857142857143,
+    "fat_100g": 32.1428571428572,
+    "saturated-fat_100g": 17.8571428571429,
+    "sugars_100g": 0,
+    "salt_100g": 1.11607142857143,
+    "sodium_100g": 0.446428571428572,
+    "fiber_100g": 0,
+    "proteins_100g": 28.5714285714286
+  }
+}

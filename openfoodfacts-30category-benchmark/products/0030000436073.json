@@ -1,0 +1,37 @@
+{
+  "code": "0030000436073",
+  "assigned_category": "muesli",
+  "product_name": "SIMPLY GRANOLA OATS, HONEY, RAISINS & ALMONDS",
+  "brands": "QUAKER",
+  "quantity": "1.95 kg",
+  "serving_size": "68g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e306",
+    "en:e422"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:nuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Whole grain oats, whole grain wheat, sugar, raisins, vegetable oil (canola and/or soybean oil), whey, inulin, almonds, nonfat dry milk, glycerin, molasses, whey protein concentrate, honey, natural flavor, sunflower oil, tocopherols (to preserve freshness)",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 313.953488372093,
+    "fat_100g": 10.2941176470588,
+    "saturated-fat_100g": 1.47058823529412,
+    "sugars_100g": 23.5294117647059,
+    "salt_100g": 0.128676470588235,
+    "sodium_100g": 0.0514705882352941,
+    "fiber_100g": 10.2941176470588,
+    "proteins_100g": 10.2941176470588,
+    "energy-kcal_serving": 213,
+    "sugars_serving": 16,
+    "salt_serving": 0.0875
+  }
+}

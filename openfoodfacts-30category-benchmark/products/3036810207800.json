@@ -1,0 +1,38 @@
+{
+  "code": "3036810207800",
+  "assigned_category": "mustard",
+  "product_name": "Senf grobkörnig | à l‘Ancienne | Grove Mustard",
+  "brands": "Maille, Unilever",
+  "quantity": "380g",
+  "serving_size": "10g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e224"
+  ],
+  "allergens_tags": [
+    "en:mustard",
+    "en:sulphur-dioxide-and-sulphites"
+  ],
+  "ingredients_text": "vinegar, mustard seeds, water salt, sugar, dextrose, natural flavor, acodity regulator (latic acid), preservative (potassium metabisulphite),",
+  "countries_tags": [
+    "en:belgium",
+    "en:france",
+    "en:germany",
+    "en:morocco",
+    "en:switzerland",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 172,
+    "fat_100g": 10,
+    "saturated-fat_100g": 0.4,
+    "sugars_100g": 5.9,
+    "salt_100g": 5,
+    "sodium_100g": 2,
+    "proteins_100g": 6.9,
+    "energy-kcal_serving": 17.2,
+    "sugars_serving": 0.59,
+    "salt_serving": 0.5
+  }
+}

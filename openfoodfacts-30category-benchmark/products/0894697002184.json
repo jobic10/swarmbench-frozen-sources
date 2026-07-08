@@ -1,0 +1,34 @@
+{
+  "code": "0894697002184",
+  "assigned_category": "peanut-butter",
+  "product_name": "NuttZo Organic 7 Nut & Seed Butter POWER FUEL Crunchy",
+  "brands": "NuttZo",
+  "quantity": "737g",
+  "serving_size": "2 tbsp (33 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "a",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:nuts"
+  ],
+  "ingredients_text": "dry roasted cashews, dry roasted almonds, dry roasted brazil nuts*, flax seeds*, chia seeds*, hazelnuts*, dry roasted pumpkin seeds, Sea salt",
+  "countries_tags": [
+    "en:france",
+    "en:germany",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 562.5,
+    "fat_100g": 45.4545454545455,
+    "saturated-fat_100g": 6.06060606060606,
+    "sugars_100g": 3.03030303030303,
+    "salt_100g": 0.4925,
+    "sodium_100g": 0.196969696969697,
+    "fiber_100g": 9.09090909090909,
+    "proteins_100g": 18.1818181818182,
+    "energy-kcal_serving": 186,
+    "sugars_serving": 1,
+    "salt_serving": 0.163
+  }
+}

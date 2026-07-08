@@ -1,0 +1,41 @@
+{
+  "code": "03444009",
+  "assigned_category": "chocolate-bars",
+  "product_name": "Reese's 2 Peanut Butter Cups",
+  "brands": "Reese's",
+  "quantity": "2 pieces, 1.5 oz (42 g)",
+  "serving_size": "2 peanut butter cups (42 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e319",
+    "en:e322",
+    "en:e322i",
+    "en:e330",
+    "en:e476"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "MILK CHOCOLATE (SUGAR, COCOA BUTTER, CHOCOLATE, SKIM MILK, MILK FAT, LACTOSE, LECITHIN (SOY), PGPR), PEANUTS, SUGAR, DEXTROSE, SALT, TBHQ & CITRIC ACID (TO MAINTAIN FRESHNESS)",
+  "countries_tags": [
+    "en:france",
+    "en:germany",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 488.372093023256,
+    "fat_100g": 28.5714285714286,
+    "saturated-fat_100g": 10.7142857142857,
+    "sugars_100g": 52.3809523809524,
+    "salt_100g": 0.803571428571429,
+    "sodium_100g": 0.321428571428571,
+    "fiber_100g": 4.76190476190476,
+    "proteins_100g": 9.52380952380952,
+    "energy-kcal_serving": 205,
+    "sugars_serving": 22,
+    "salt_serving": 0.338
+  }
+}

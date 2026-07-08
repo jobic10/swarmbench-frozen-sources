@@ -1,0 +1,39 @@
+{
+  "code": "0096619516698",
+  "assigned_category": "protein-bars",
+  "product_name": "CHOCOLATEY CHUNKS COOKIE DOUGH PROTEIN BAR",
+  "brands": "Kirkland Signature",
+  "quantity": "20 x 2.12 oz",
+  "serving_size": "1 bar (60 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e960",
+    "en:e968"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:nuts"
+  ],
+  "ingredients_text": "Protein blend (milk protein isolate, whey protein isolate), soluble corn fiber, cashew butter, isomalto-oligosaccharides (vegetable source), unsweetened chocolate, erythritol, water, cocoa butter, cocoa powder (processed with alkali), natural flavors, sea salt, sunflower lecithin, steviol glycosides (stevia). CONTAINS: Milk and Cashews.",
+  "countries_tags": [
+    "en:canada",
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 366.666666666667,
+    "fat_100g": 10,
+    "saturated-fat_100g": 4.16666666666667,
+    "sugars_100g": 3.33333333333333,
+    "salt_100g": 0.5825,
+    "sodium_100g": 0.233333333333333,
+    "fiber_100g": 16.6666666666667,
+    "proteins_100g": 35,
+    "energy-kcal_serving": 220,
+    "sugars_serving": 2,
+    "salt_serving": 0.35
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "code": "0602652419294",
+  "assigned_category": "cereal-bars",
+  "product_name": "breakfast protein Almond Butter",
+  "brands": "KIND",
+  "quantity": "10.58 oz (300 g)",
+  "serving_size": "2 bars (50 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:nuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Oats, tapioca syrup, canola oil, soy protein isolate, cane sugar, raisin paste, almond butter (almonds), honey, almonds, millet, buckwheat, amaranth, natural flavor, quinoa, sea salt, cinnamon, Vitamin E (tocopherols to maintain freshness).",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 440,
+    "fat_100g": 18,
+    "saturated-fat_100g": 2,
+    "sugars_100g": 18,
+    "salt_100g": 0.55,
+    "sodium_100g": 0.22,
+    "fiber_100g": 6,
+    "proteins_100g": 16,
+    "energy-kcal_serving": 220,
+    "sugars_serving": 9,
+    "salt_serving": 0.275
+  }
+}

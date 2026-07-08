@@ -1,0 +1,33 @@
+{
+  "code": "0853016002076",
+  "assigned_category": "sausages",
+  "product_name": "Archer Original Beef Stick Mini",
+  "brands": "Archer",
+  "quantity": "0.5 oz (14 g)",
+  "serving_size": "1 stick (0.5 oz / 14g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:celery"
+  ],
+  "ingredients_text": "Grass-Fed Beef, Water, Sea Salt, Contains 2% Or Less: Encapsulated Citric Acid, Dehydrated Garlic, Red Pepper, Black Pepper, Cultured Celery Powder, Cherry Powder, Coriander, Onion Powder, White Pepper, Ground Nutmeg,\nParsley, In Colored Beef Collagen Casing.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 321.428571428571,
+    "fat_100g": 21.4285714285714,
+    "saturated-fat_100g": 10.7142857142857,
+    "sugars_100g": 0,
+    "salt_100g": 3.57142857142858,
+    "sodium_100g": 1.42857142857143,
+    "fiber_100g": 0,
+    "proteins_100g": 28.5714285714286,
+    "energy-kcal_serving": 45,
+    "sugars_serving": 0,
+    "salt_serving": 0.5
+  }
+}

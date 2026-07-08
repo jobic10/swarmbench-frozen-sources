@@ -1,0 +1,28 @@
+{
+  "code": "5410093179616",
+  "assigned_category": "margarine",
+  "product_name": "540093179616",
+  "brands": "gonga",
+  "quantity": "500g",
+  "serving_size": "",
+  "nova_group": null,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e202"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "زيوت نباتية بذور) ،اللفت جوز الهند دهن نباتي ،(نخيل)، ماء، مستحلب (471) ، ملح (90.5) Ariana حليب مجفف منزوع الدسم، عامل الحفاظ (E202)، حامض حمض الستريك، نكهة طبيعية ملونة كاروتينات فيتامينات فيتامين أ وفيتامين (د) نسبة الدهون: 59 Av. Femal Vandem يحتفظ بها في مكان بارد وجاف، على درجة برودة من 2 إلى 159 بعد فتحها، تحفظ على درجة برودة كحد أقصى.",
+  "countries_tags": [
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 532,
+    "fat_100g": 59,
+    "saturated-fat_100g": 14,
+    "sugars_100g": 0.5,
+    "salt_100g": 0.5,
+    "sodium_100g": 0.2,
+    "proteins_100g": 0.5
+  }
+}

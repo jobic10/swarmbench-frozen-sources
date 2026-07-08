@@ -1,0 +1,34 @@
+{
+  "code": "4056489810612",
+  "assigned_category": "sausages",
+  "product_name": "Bravčové párky",
+  "brands": "Piráti",
+  "quantity": "1pcs",
+  "serving_size": "100 g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:pork"
+  ],
+  "ingredients_text": "PORK, Water, Salt, GLUCOSE (GLUCOSE), Spices, ANIMAL PROTEIN, Flavourings, DRIED ACEROLA",
+  "countries_tags": [
+    "en:bulgaria",
+    "en:germany",
+    "en:romania",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 217,
+    "fat_100g": 17,
+    "saturated-fat_100g": 7.8,
+    "sugars_100g": 0.5,
+    "salt_100g": 1.9,
+    "sodium_100g": 0.76,
+    "fiber_100g": 0.9,
+    "proteins_100g": 15,
+    "energy-kcal_serving": 217,
+    "sugars_serving": 0.5,
+    "salt_serving": 1.9
+  }
+}

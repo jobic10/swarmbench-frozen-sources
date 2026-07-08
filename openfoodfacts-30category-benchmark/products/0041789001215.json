@@ -1,0 +1,44 @@
+{
+  "code": "0041789001215",
+  "assigned_category": "instant-noodles",
+  "product_name": "Chicken Ramen",
+  "brands": "Maruchan",
+  "quantity": "64g",
+  "serving_size": "64g",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e319",
+    "en:e339",
+    "en:e339i",
+    "en:e452",
+    "en:e452i",
+    "en:e452vi",
+    "en:e621",
+    "en:e627",
+    "en:e631"
+  ],
+  "allergens_tags": [
+    "en:celery",
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "ENRICHED WHEAT FLOUR (WHEAT FLOUR, NACIN, REDUCED IRON, THIAMINE MONONITRATE RIBOFLAVIN, FOLIC ACID), VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING: CANOLA COTTONSEED, PALM) PRESERVED BY TBHQ, SALT DEHYDRATED VEGETABLES (CARROT, CORN, GREEN PEAS, GARLIC, ONION, CELERY STALK, CHIVE), CONTAINS LESS THAN 2% OF: MALTODEXTRIN, MONOSODIUM GLUTAMATE, SUGAR, HYDROLYZED CORN PROTEIN, HYDROLYZED WHEAT PROTEIN, HYDROLYZED SOY PROTEIN, CHICKEN FAT POTASSIUM CARBONATE, POWDERED COOKED CHICKEN SPICES (CELERY SEED, YEAST EXTRACT, DEHYDRATED SOY SAUCE (WHEAT, SOYBEANS, SALT), SODIUM CARBONATE, SODIUM HEXAMETAPHOSPHATE, TURMERIC, SODIUM TRIPOLYPHOSPHATE, DISODIUM GUANYLATE, DISODIUM INOSINATE, MONOSODIUM PHOSPHATE, LACTOSE SILICON DIOXIDE (ANTI-CAKING AGENT). CONTAINS WHEAT, SOY, AND MILK INGREDIENTS. MANUFACTURED IN A FACILITY THAT ALSO PROCESSES CRUSTACEAN SHELLFISH AND SESAME PRODUCTS. CONTAINS A BIOENGINEERED FOOD INGREDIENT.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 453.125,
+    "fat_100g": 18.75,
+    "saturated-fat_100g": 9.375,
+    "sugars_100g": 3.125,
+    "salt_100g": 1.796875,
+    "sodium_100g": 2.807625,
+    "fiber_100g": 3.125,
+    "proteins_100g": 9.375,
+    "energy-kcal_serving": 290,
+    "sugars_serving": 2,
+    "salt_serving": 1.15
+  }
+}

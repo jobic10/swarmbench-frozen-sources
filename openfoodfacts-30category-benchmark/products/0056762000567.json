@@ -1,0 +1,31 @@
+{
+  "code": "0056762000567",
+  "assigned_category": "hard-cheese",
+  "product_name": "Emmi, Switzerland Aop Le Gruyere Cheese",
+  "brands": "Emmi Schweiz Ag",
+  "quantity": "",
+  "serving_size": "1 ONZ (28 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Cultured milk, salt, enzymes.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 393,
+    "fat_100g": 32.14,
+    "saturated-fat_100g": 17.86,
+    "sugars_100g": 0,
+    "salt_100g": 1.5175,
+    "sodium_100g": 0.607,
+    "fiber_100g": 0,
+    "proteins_100g": 28.57,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 0,
+    "salt_serving": 0.425
+  }
+}

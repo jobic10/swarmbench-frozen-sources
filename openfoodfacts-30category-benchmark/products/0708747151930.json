@@ -1,0 +1,35 @@
+{
+  "code": "0708747151930",
+  "assigned_category": "dried-fruits",
+  "product_name": "MEGA OMEGA",
+  "brands": "POWER UP PREMIUM TRAIL MIX",
+  "quantity": "737g",
+  "serving_size": "0.25 cup (30 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:nuts"
+  ],
+  "ingredients_text": "dried cranberries (cranberries, sugar, sunflower oil), dried mango (mango, sugar, citric acid), roasted almonds (almonds, sunflower and/or canola oil), walnuts, pumpkin seeds,",
+  "countries_tags": [
+    "en:france",
+    "en:germany",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 466.666666666667,
+    "fat_100g": 26.7,
+    "saturated-fat_100g": 3.33,
+    "sugars_100g": 36.7,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 6.67,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 140,
+    "sugars_serving": 11,
+    "salt_serving": 0
+  }
+}

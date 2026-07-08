@@ -1,0 +1,30 @@
+{
+  "code": "0675625371189",
+  "assigned_category": "breakfast-cereals",
+  "product_name": "Sprouted Rolled Oats",
+  "brands": "One Degree Organic Foods",
+  "quantity": "5 lbs (80 oz) 2.27 kg",
+  "serving_size": "0.5 cup (52 g)",
+  "nova_group": 1,
+  "nutriscore_grade": "a",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "sprouted organic gluten-free oats",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 384.615384615385,
+    "fat_100g": 6.73076923076923,
+    "saturated-fat_100g": 0.961538461538462,
+    "sugars_100g": 0,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 11.5384615384615,
+    "proteins_100g": 13.4615384615385,
+    "energy-kcal_serving": 200,
+    "sugars_serving": 0,
+    "salt_serving": 0
+  }
+}

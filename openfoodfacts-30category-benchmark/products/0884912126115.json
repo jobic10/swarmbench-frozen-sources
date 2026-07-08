@@ -1,0 +1,37 @@
+{
+  "code": "0884912126115",
+  "assigned_category": "muesli",
+  "product_name": "great grains raisins, dates & pecans cereal",
+  "brands": "Post",
+  "quantity": "453 g",
+  "serving_size": "1 portion (54 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e321"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:nuts"
+  ],
+  "ingredients_text": "Whole Grain Wheat, Raisins, Cane Sugar, Whole Grain Rolled Oats, Dates, Wheat Flour, Malted Barley Flour, Rice Flour, Pecans, Expeller Pressed Canola Oil, Salt, Rice Syrup, Molasses. BHT added to preserve freshness. Vitamins and Minerals: Reduced Iron, Zinc Oxide, Niacinamide (Vitamin B3), Pyridoxine Hydrochloride (Vitamin B6), Vitamin A Palmitate, Riboflavin (Vitamin B2), Thiamin Mononitrate (Vitamin B1), Folic Acid, Vitamin D3, Vitamin B12. CONTAINS WHEAT AND PECANS.",
+  "countries_tags": [
+    "en:mexico",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 370.37037037037,
+    "fat_100g": 7.40740740740741,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 24.0740740740741,
+    "salt_100g": 0.648148148148148,
+    "sodium_100g": 0.259259259259259,
+    "fiber_100g": 7.40740740740741,
+    "proteins_100g": 7.40740740740741,
+    "energy-kcal_serving": 200,
+    "sugars_serving": 13,
+    "salt_serving": 0.35
+  }
+}

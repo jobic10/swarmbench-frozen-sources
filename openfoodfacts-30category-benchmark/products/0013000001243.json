@@ -1,0 +1,33 @@
+{
+  "code": "0013000001243",
+  "assigned_category": "ketchup",
+  "product_name": "Tomato Ketchup",
+  "brands": "Heinz",
+  "quantity": "397 g",
+  "serving_size": "12 g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "es:JMAF"
+  ],
+  "ingredients_text": "concentrado de tomate, vinagre de alcohol destilado, jarabe de maíz, jarabe de maíz, sal, especias (ajo, pimienta roja), cebolla polvo, ARO, saborizante natural",
+  "countries_tags": [
+    "en:argentina",
+    "en:mexico",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 116.666666666667,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 2.35416666666667,
+    "sodium_100g": 0.941666666666667,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 14,
+    "sugars_serving": 0,
+    "salt_serving": 0.282
+  }
+}

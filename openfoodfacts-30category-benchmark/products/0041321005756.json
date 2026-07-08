@@ -1,0 +1,44 @@
+{
+  "code": "0041321005756",
+  "assigned_category": "salad-dressings",
+  "product_name": "Ranch Dressing",
+  "brands": "Wish-Bone",
+  "quantity": "15 fl oz (444 ml)",
+  "serving_size": "2 tbsp (30 ml)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e200",
+    "en:e338",
+    "en:e339ii",
+    "en:e385",
+    "en:e415",
+    "en:e621",
+    "en:e627",
+    "en:e631"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "SOYBEAN OIL, WATER, SUGAR, 2% SALT DISTILLED VINEGAR, BUTTERMILK, EGG YOLKS, MODIFIED CORN STARCH, DRIED GARLIC, XANTHAN GUM, DISODIUM PHOSPHATE, MONOSODIUM GLUTAMATE, DRIED ONION, NATURAL FLAVOR, SPICE, DISODIUM INOSINATE, DISODIUM GUANYLATE, PAPRIKA EXTRACTIVES (COLOR), PHOSPHORIC ACID, SORBIC ACID, CALCIUM DISODIUM EDTA.",
+  "countries_tags": [
+    "en:bolivia",
+    "en:french-polynesia",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 433.333333333333,
+    "fat_100g": 43.3333333333333,
+    "saturated-fat_100g": 6.66666666666667,
+    "sugars_100g": 3.33333333333333,
+    "salt_100g": 2.08333333333333,
+    "sodium_100g": 0.833333333333333,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 130,
+    "sugars_serving": 1,
+    "salt_serving": 0.625
+  }
+}

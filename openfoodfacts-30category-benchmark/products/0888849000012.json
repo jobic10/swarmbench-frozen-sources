@@ -1,0 +1,41 @@
+{
+  "code": "0888849000012",
+  "assigned_category": "protein-bars",
+  "product_name": "Chocolate Chip Cookie Dough",
+  "brands": "Quest",
+  "quantity": "60g",
+  "serving_size": "1 serving (60 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [
+    "en:e1200",
+    "en:e322",
+    "en:e322i",
+    "en:e422",
+    "en:e955",
+    "en:e968"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:nuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "WHEY PROTEIN ISOLATE, MILK PROTEIN ISOLATE, POLYDEXTROSE, ALMONDS, ERYTHRITOL, GLYCERIN, COCOA BUTTER, NATURAL FLAVORS, SOY LECITHIN, STEVIA SWEETENER, SUCRALOSE.",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 316.666666666667,
+    "fat_100g": 15,
+    "saturated-fat_100g": 5,
+    "sugars_100g": 1.66666666666667,
+    "salt_100g": 0.000916666666666668,
+    "sodium_100g": 0.000366666666666667,
+    "fiber_100g": 20,
+    "proteins_100g": 35,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 1,
+    "salt_serving": 0.00055
+  }
+}

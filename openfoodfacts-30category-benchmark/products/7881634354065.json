@@ -1,0 +1,29 @@
+{
+  "code": "7881634354065",
+  "assigned_category": "hard-cheese",
+  "product_name": "Le Gruyère Switzerland",
+  "brands": "",
+  "quantity": "454g",
+  "serving_size": "28g",
+  "nova_group": null,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 110,
+    "fat_100g": 9,
+    "saturated-fat_100g": 5,
+    "sugars_100g": 0,
+    "salt_100g": 0.425,
+    "sodium_100g": 0.17,
+    "fiber_100g": 0,
+    "proteins_100g": 8,
+    "energy-kcal_serving": 30.8,
+    "sugars_serving": 0,
+    "salt_serving": 0.119
+  }
+}

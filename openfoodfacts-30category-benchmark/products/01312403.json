@@ -1,0 +1,32 @@
+{
+  "code": "01312403",
+  "assigned_category": "ketchup",
+  "product_name": "Tomato Ketchup",
+  "brands": "Heinz",
+  "quantity": "14 oz (397 g)",
+  "serving_size": "1 tbsp (17 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:none"
+  ],
+  "ingredients_text": "TOMATO CONCENTRATE (RED RIPE TOMATOES), DISTILLED VINEGAR, HIGH FRUCTOSE CORN SYRUP, CORN SYRUP, SALT, SPICE, ONION POWDER, NATURAL FLAVORING.",
+  "countries_tags": [
+    "en:bolivia",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 117.647058823529,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 23.5294117647059,
+    "salt_100g": 2.64705882352941,
+    "sodium_100g": 1.05882352941176,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 20,
+    "sugars_serving": 4,
+    "salt_serving": 0.45
+  }
+}

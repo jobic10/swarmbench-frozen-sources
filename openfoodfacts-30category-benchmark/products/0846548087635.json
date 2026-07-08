@@ -1,0 +1,31 @@
+{
+  "code": "0846548087635",
+  "assigned_category": "dried-fruits",
+  "product_name": "Probiotic Apricots",
+  "brands": "Nature's Garden",
+  "quantity": "",
+  "serving_size": "4 pieces (40 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e220"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Dried Apricots, Sulfur dioxide , Sunflower Oil, Microencapsulated Probiotic",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 100,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 21,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 3,
+    "proteins_100g": 1,
+    "energy-kcal_serving": 40,
+    "sugars_serving": 8.4,
+    "salt_serving": 0
+  }
+}

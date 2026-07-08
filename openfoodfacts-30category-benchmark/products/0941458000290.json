@@ -1,0 +1,38 @@
+{
+  "code": "0941458000290",
+  "assigned_category": "instant-noodles",
+  "product_name": "2-minute Noodles",
+  "brands": "Maggi",
+  "quantity": "",
+  "serving_size": "70g",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e150c",
+    "en:e330",
+    "en:e412",
+    "en:e452",
+    "en:e452vi"
+  ],
+  "allergens_tags": [
+    "en:gluten"
+  ],
+  "ingredients_text": "refined wheat flour, palm oil, iodised salt, wheat gluten, potassium chloride, guar gum, potassium carbonate, sodium bicarbonate, sodium tripolyphosphate, onion powder, coriander powder, turmeric powder, red chili powder, garlic powder, cumin powder, aniseed powder, ginger powder, fenugreek powder, black pepper powder, clove powder, green cardamom powder, nutmeg powder, hydrolysed groundnut protein, sugar, palm oil, starch, iodised salt, potassium chloride, disodium ribonucleotides, toasted onion flakes, acidity regulator, citric acid, caramel color, mineral, wheat gluten",
+  "countries_tags": [
+    "en:india",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 442.857142857143,
+    "fat_100g": 18.5714285714286,
+    "saturated-fat_100g": 8.57142857142857,
+    "sugars_100g": 2.85714285714286,
+    "salt_100g": 1.67857142857143,
+    "sodium_100g": 0.671428571428571,
+    "fiber_100g": 2.85714285714286,
+    "proteins_100g": 8.57142857142857,
+    "energy-kcal_serving": 310,
+    "sugars_serving": 2,
+    "salt_serving": 1.17
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "code": "20042431",
+  "assigned_category": "popcorn",
+  "product_name": "Mikrowellen Popcorn salzig",
+  "brands": "Snaktastic",
+  "quantity": "300 g",
+  "serving_size": "1 portion (100 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e304",
+    "en:e306"
+  ],
+  "allergens_tags": [
+    "en:soybeans"
+  ],
+  "ingredients_text": "74,5% Mais, Palmfett, Speisesalz, Antioxidationsmittel: Stark tocopherolhaltige Extrakte, Fettsäureester der Ascorbinsäure.",
+  "countries_tags": [
+    "en:france",
+    "en:germany",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 484,
+    "fat_100g": 23,
+    "saturated-fat_100g": 14,
+    "sugars_100g": 3.9,
+    "salt_100g": 4.425,
+    "sodium_100g": 1.77,
+    "fiber_100g": 10.8,
+    "proteins_100g": 10.7,
+    "energy-kcal_serving": 484,
+    "sugars_serving": 3.9,
+    "salt_serving": 4.42
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "code": "0810589030295",
+  "assigned_category": "muesli",
+  "product_name": "Vanilla Almond Butter Nut Granola",
+  "brands": "purely elizabeth.",
+  "quantity": "227g",
+  "serving_size": "1 serving (30 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:nuts"
+  ],
+  "ingredients_text": "Organic Pumpkin Seeds, Organic Sunflower Seeds, Cashews, Organic Coconut Sugar, Almonds, Organic Coconut Flakes, Almond Butter, Organic Coconut Oil, Organic Chia Seeds, Organic Cinnamon, Sea Salt, Vanilla extract",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 566.666666666667,
+    "fat_100g": 43.3333333333333,
+    "saturated-fat_100g": 11.6666666666667,
+    "sugars_100g": 13.3333333333333,
+    "salt_100g": 0.875,
+    "sodium_100g": 0.35,
+    "fiber_100g": 6.66666666666667,
+    "proteins_100g": 20,
+    "energy-kcal_serving": 170,
+    "sugars_serving": 4,
+    "salt_serving": 0.263
+  }
+}

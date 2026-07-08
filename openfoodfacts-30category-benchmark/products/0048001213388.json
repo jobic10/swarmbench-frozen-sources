@@ -1,0 +1,31 @@
+{
+  "code": "0048001213388",
+  "assigned_category": "mayonnaise",
+  "product_name": "Real Mayonnaise",
+  "brands": "Hellmann's",
+  "quantity": "13 g",
+  "serving_size": "1 tablespoon (13 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e385"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:soybeans"
+  ],
+  "ingredients_text": "SOYBEAN OIL, WATER, WHOLE EGGS AND EGG YOLKS (WHOLE EGGS AND EGG YOLKS), VINEGAR, SALT, SUGAR, LEMON JUICE CONCENTRATE, CALCIUM DISODIUM EDTA (USED TO PROTECT QUALITY), NATURAL FLAVORS.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 692.307692307692,
+    "fat_100g": 76.9230769230769,
+    "saturated-fat_100g": 11.5384615384615,
+    "salt_100g": 1.73076923076923,
+    "sodium_100g": 0.692307692307692,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 90,
+    "salt_serving": 0.225
+  }
+}

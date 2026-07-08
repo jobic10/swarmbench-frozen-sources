@@ -1,0 +1,32 @@
+{
+  "code": "0855469006557",
+  "assigned_category": "popcorn",
+  "product_name": "POPcorn HIMALAYAN GOLD",
+  "brands": "Lesser Evil",
+  "quantity": "",
+  "serving_size": "3 cups (28 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "POPCORN, COCONUT OIL, HIMALAYAN SALT, BUTTER FLAVOR. CONTAINS COCONUT. PRODUCED IN A FACILITY THAT USES MILK AND EGG INGREDIENTS.",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 1500,
+    "fat_100g": 21.4285714285714,
+    "saturated-fat_100g": 17.8571428571429,
+    "sugars_100g": 0,
+    "salt_100g": 1.51785714285714,
+    "sodium_100g": 0.607142857142857,
+    "fiber_100g": 14.2857142857143,
+    "proteins_100g": 7.14285714285714,
+    "energy-kcal_serving": 420,
+    "sugars_serving": 0,
+    "salt_serving": 0.425
+  }
+}

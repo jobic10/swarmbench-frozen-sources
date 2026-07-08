@@ -1,0 +1,38 @@
+{
+  "code": "0071100005783",
+  "assigned_category": "salad-dressings",
+  "product_name": "THE ORIGINAL Ranch ORIGINAL RANCH",
+  "brands": "Hidden Valley",
+  "quantity": "709 ml",
+  "serving_size": "1 serving (30 ml)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e338",
+    "en:e339ii",
+    "en:e415",
+    "en:e621",
+    "en:e631"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "vegetable oil (soybean and/or canola), water, sugar, salt, nonfat buttermilk, egg yolk, natural flavors, less than 1% of: spices, garlic*, onion*, vinegar, phosphoric acid, xanthan gum, modified food starch, monosodium glutamate, artificial flavors, disodium phosphate, sorbic acid and calcium disodium edta added to preserve freshness, disodium inosinate , guanylate.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 433.333333333333,
+    "fat_100g": 43.3333333333333,
+    "saturated-fat_100g": 6.66666666666667,
+    "sugars_100g": 3.33,
+    "salt_100g": 2.16666666666667,
+    "sodium_100g": 0.866666666666667,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 130,
+    "sugars_serving": 0.999,
+    "salt_serving": 0.65
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "code": "0072830081092",
+  "assigned_category": "ice-cream",
+  "product_name": "OLD-FASHIONED VANILLA ICE CREAM",
+  "brands": "Tillamook",
+  "quantity": "1.5 qt",
+  "serving_size": "0.67 cup (95 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e412",
+    "en:e417"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk"
+  ],
+  "ingredients_text": "CREAM, SKIM MILK, MILK, SUGAR, PASTEURIZED EGG YOLKS, VANILLA EXTRACT, TARA GUM, GUAR GUM, NATURAL FLAVOR.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 221.052631578947,
+    "fat_100g": 13.6842105263158,
+    "saturated-fat_100g": 8.42105263157895,
+    "sugars_100g": 22.1052631578947,
+    "salt_100g": 0.144736842105263,
+    "sodium_100g": 0.0578947368421053,
+    "proteins_100g": 4.21052631578947,
+    "energy-kcal_serving": 210,
+    "sugars_serving": 21,
+    "salt_serving": 0.138
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "code": "0096619067237",
+  "assigned_category": "dried-fruits",
+  "product_name": "TRAIL MIX",
+  "brands": "KIRKLAND Signature",
+  "quantity": "57g (2 OZ)",
+  "serving_size": "1 serving (30 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "b",
+  "additives_tags": [
+    "en:e102",
+    "en:e110",
+    "en:e129",
+    "en:e132",
+    "en:e133",
+    "en:e1400",
+    "en:e322",
+    "en:e322i",
+    "en:e414",
+    "en:e903"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:nuts",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "peanuts: peanuts, peanut oil, salt. raisins: raisins, non-hydrogenated sum cashews, peanut oil, salt. m&m's ow nd x sers stae: cup (30g), almonds, canola oil or peanut oil and salt. cashews: 13% dv, sat. fat 2g n n d, toal wellow 5, blue 1, yellow 6 lake, red 40 lake, yellow 5 lake, blue 2 lake, blue 2), carnauba wax, qum sloengineered food ingredients. m&m's peanut chocolate candies: milk chocolate (sugar, chocctains s(cocoe butter, lactose, milkfat, peanuts, soy lecithin, salt, artificial and natural flavors), sugar, peaủn mi k, than 19%-palm oil, corn syrup, dextrin, coloring (includes blue 1 lake, red 40, yellow 6, yellow astarcn, , yellow 6 lake, yellow 5 lake, blue 2 lake, blue 2), carnauba wax, gum acacia. contairha contains: peanuts, almonds, cashews, soy and milk. may contain othered 1, red 40 bloengm nuta. fiod tt will be refunded.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 491.228070175438,
+    "fat_100g": 9.99,
+    "saturated-fat_100g": 2.001,
+    "sugars_100g": 9.99,
+    "salt_100g": 0.09975,
+    "sodium_100g": 0.0399,
+    "fiber_100g": 2.001,
+    "proteins_100g": 5.01,
+    "energy-kcal_serving": 147,
+    "sugars_serving": 3,
+    "salt_serving": 0.0299
+  }
+}

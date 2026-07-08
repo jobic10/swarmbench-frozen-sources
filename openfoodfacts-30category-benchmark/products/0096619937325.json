@@ -1,0 +1,31 @@
+{
+  "code": "0096619937325",
+  "assigned_category": "canned-tomatoes",
+  "product_name": "Organic Diced Tomatoes",
+  "brands": "Kirkland Signature",
+  "quantity": "411 g",
+  "serving_size": "1 serving (120 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "ORGANIC TOMATOES, ORGANIC TOMATO JUICE, CITRIC ACID, SEA SALT, CALCIUM CHLORIDE.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 20.8333333333333,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 2.5,
+    "salt_100g": 0.458333333333333,
+    "sodium_100g": 0.183333333333333,
+    "fiber_100g": 0.833333333333333,
+    "proteins_100g": 0.833333333333333,
+    "energy-kcal_serving": 25,
+    "sugars_serving": 3,
+    "salt_serving": 0.55
+  }
+}

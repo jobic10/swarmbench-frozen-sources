@@ -1,0 +1,32 @@
+{
+  "code": "0850004554029",
+  "assigned_category": "protein-bars",
+  "product_name": "IQ BAR Chocolate Sea Salt",
+  "brands": "IQ BAR",
+  "quantity": "1.6 oz",
+  "serving_size": "1 bar (45 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:nuts"
+  ],
+  "ingredients_text": "Almonds, Protein Blend (Pea Protein Crisps [Pea Protein, Tapioca Starch], Pea Protein), Natural Flavors, Prebiotic Blend (Tapioca Fiber, Vegetable Fiber), Cocoa, Coconut Oil, Unsweetened Chocolate, Water, Cocoa Butter, Sea Salt, Lion's Mane, Stevia Plant Extract, Vitamin E",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 170,
+    "fat_100g": 12,
+    "saturated-fat_100g": 3,
+    "sugars_100g": 1,
+    "salt_100g": 0.3375,
+    "sodium_100g": 0.000135,
+    "fiber_100g": 8,
+    "proteins_100g": 12,
+    "energy-kcal_serving": 76.5,
+    "sugars_serving": 0.45,
+    "salt_serving": 0.152
+  }
+}

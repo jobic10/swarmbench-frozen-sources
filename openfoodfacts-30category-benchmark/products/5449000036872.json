@@ -1,0 +1,31 @@
+{
+  "code": "5449000036872",
+  "assigned_category": "sodas",
+  "product_name": "Hawai Tropical",
+  "brands": "Coca cola, Hawai",
+  "quantity": "1 L",
+  "serving_size": "250ml",
+  "nova_group": null,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "ماء غازي, سكر, مركز عصير البرتقال, محليات, مواد حافظة, مثبت, نكهات طبيعية",
+  "countries_tags": [
+    "en:france",
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 41,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 9.5,
+    "salt_100g": 0.026,
+    "sodium_100g": 0.0104,
+    "fiber_100g": 4,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 102,
+    "sugars_serving": 23.8,
+    "salt_serving": 0.065
+  }
+}

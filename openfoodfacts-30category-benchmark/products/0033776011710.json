@@ -1,0 +1,36 @@
+{
+  "code": "0033776011710",
+  "assigned_category": "margarine",
+  "product_name": "Plant Butter",
+  "brands": "Earth Balance",
+  "quantity": "13 oz",
+  "serving_size": "1 Tbsp (11 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e160b",
+    "en:e270",
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:soybeans"
+  ],
+  "ingredients_text": "oil blend (palm oil*, soybean oil*, canola oil*, and olive* oil), water, salt, less than 2% of natural flavor* , crushed soybeans*, soy lecithin*, lactic acid (non-dairy), and naturally extracted annatto* (color),",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 571.428571428572,
+    "fat_100g": 81.82,
+    "saturated-fat_100g": 22.73,
+    "sugars_100g": 0,
+    "salt_100g": 2.2725,
+    "sodium_100g": 0.909,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 62.9,
+    "sugars_serving": 0,
+    "salt_serving": 0.25
+  }
+}

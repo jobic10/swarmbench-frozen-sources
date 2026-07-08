@@ -1,0 +1,33 @@
+{
+  "code": "0092227741408",
+  "assigned_category": "sausages",
+  "product_name": "Chicken Breakfast Links",
+  "brands": "amylu",
+  "quantity": "40 oz",
+  "serving_size": "3 link (65 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "b",
+  "additives_tags": [
+    "en:e392"
+  ],
+  "allergens_tags": [
+    "en:chicken"
+  ],
+  "ingredients_text": "Chicken, spices, sea salt, water, parsley, extract of rosemary, vinegar",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 200,
+    "fat_100g": 8,
+    "saturated-fat_100g": 2,
+    "sugars_100g": 0,
+    "salt_100g": 1.35,
+    "sodium_100g": 0.54,
+    "fiber_100g": 1,
+    "proteins_100g": 18.4615384615385,
+    "energy-kcal_serving": 130,
+    "sugars_serving": 0,
+    "salt_serving": 0.878
+  }
+}

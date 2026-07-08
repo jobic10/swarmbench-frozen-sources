@@ -1,0 +1,31 @@
+{
+  "code": "0850251004643",
+  "assigned_category": "popcorn",
+  "product_name": "ORIGINAL POPCORN",
+  "brands": "SKINNY POP",
+  "quantity": "14g",
+  "serving_size": "1 serving (14 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Popcorn, sunflower oil and salt.",
+  "countries_tags": [
+    "en:germany",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 500,
+    "fat_100g": 35.7,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 1.16,
+    "sodium_100g": 0.464,
+    "fiber_100g": 7.14,
+    "proteins_100g": 1,
+    "energy-kcal_serving": 70,
+    "sugars_serving": 0,
+    "salt_serving": 0.162
+  }
+}

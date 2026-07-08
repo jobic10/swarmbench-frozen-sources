@@ -1,0 +1,37 @@
+{
+  "code": "0863699000146",
+  "assigned_category": "salad-dressings",
+  "product_name": "Ranch Dressing & Marinade",
+  "brands": "Primal Kitchen",
+  "quantity": "8 oz",
+  "serving_size": "2 tbsp (30 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e336",
+    "en:e336i",
+    "en:e392",
+    "en:e412",
+    "en:e414"
+  ],
+  "allergens_tags": [
+    "en:eggs"
+  ],
+  "ingredients_text": "Avocado oil, water, organic apple cider vinegar, organic distilled vinegar, organic gum acacia, organic guar gum, cream of tartar, sea salt, organic eggs, organic onion powder, organic garlic powder, organic lemon juice concentrate*, nutritional yeast, organic parsley, organic chives, organic dill, organic black pepper, organic rosemary extract",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 400,
+    "fat_100g": 40,
+    "saturated-fat_100g": 5,
+    "sugars_100g": 0,
+    "salt_100g": 1.91666666666667,
+    "sodium_100g": 0.766666666666667,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 120,
+    "sugars_serving": 0,
+    "salt_serving": 0.575
+  }
+}

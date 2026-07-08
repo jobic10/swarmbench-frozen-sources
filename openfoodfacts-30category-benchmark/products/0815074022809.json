@@ -1,0 +1,37 @@
+{
+  "code": "0815074022809",
+  "assigned_category": "mayonnaise",
+  "product_name": "Classic Mayo",
+  "brands": "Chosen Foods",
+  "quantity": "946 ml",
+  "serving_size": "30 g",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e392"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:mustard"
+  ],
+  "ingredients_text": "AVOCADO OIL, FILTERED WATER, EGG YOLKS, WHOLE EGGS, DISTILLED VINEGAR, MUSTARD (WATER, MUSTARD SEEDS, DISTILLED VINEGAR, SALT), SALT, ROSEMARY EXTRACT",
+  "countries_tags": [
+    "en:canada",
+    "en:mexico",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 714.285714285714,
+    "fat_100g": 73.6,
+    "saturated-fat_100g": 9.1,
+    "sugars_100g": 0,
+    "salt_100g": 0.829,
+    "sodium_100g": 0.3316,
+    "fiber_100g": 0,
+    "proteins_100g": 1.8,
+    "energy-kcal_serving": 214,
+    "sugars_serving": 0,
+    "salt_serving": 0.249
+  }
+}

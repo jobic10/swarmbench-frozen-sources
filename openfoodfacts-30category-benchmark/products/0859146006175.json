@@ -1,0 +1,36 @@
+{
+  "code": "0859146006175",
+  "assigned_category": "protein-bars",
+  "product_name": "OH OH COOKIE DOUGH",
+  "brands": "TRUBAR",
+  "quantity": "50 g",
+  "serving_size": "1 bar (50 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:nuts"
+  ],
+  "ingredients_text": "TAPIOCA FIBER AND CASSAVA BLEND, PLANT FUELED PROTEIN BLEND (WHOLE GRAIN BROWN RICE PROTEIN, ORGANIC PEA PROTEIN), CASHEWS, ORGANIC CANE SUGAR, RSPO PALM OIL, FAIR TRADED CACAO POWDER, UNSWEETENED CHOCOLATE, COCOA BUTTER, NATURAL FLAVORS, SEA SALT, SUNFLOWER LECITHIN, MEDIUM CHAIN TRIGLYCERIDES, VANILLA BEAN SPECKS CONTAINS: TREE NUTS (CASHEWS)",
+  "countries_tags": [
+    "en:canada",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 527.777777777778,
+    "fat_100g": 16,
+    "saturated-fat_100g": 8,
+    "sugars_100g": 16,
+    "salt_100g": 0.375,
+    "sodium_100g": 0.15,
+    "fiber_100g": 26,
+    "proteins_100g": 24,
+    "energy-kcal_serving": 264,
+    "sugars_serving": 8,
+    "salt_serving": 0.188
+  }
+}

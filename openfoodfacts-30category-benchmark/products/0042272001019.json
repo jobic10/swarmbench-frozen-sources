@@ -1,0 +1,32 @@
+{
+  "code": "0042272001019",
+  "assigned_category": "frozen-pizzas",
+  "product_name": "Pizza Cheese",
+  "brands": "Amy's",
+  "quantity": "369g",
+  "serving_size": "0.333 pizza (123 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk"
+  ],
+  "ingredients_text": "organic unbleached _wheat_ flour, filtered water, part-skim mozzarella cheese (pasteurized part-skim _milk_, culture, salt, enzymes), organic tomato purée, organic extra virgin olive oil, organic honey, sea salt, organic red onions, expeller pressed high oleic safflower and/or sunflower oil, yeast, spices, organic garlic, black pepper",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 252.032520325203,
+    "fat_100g": 10.5691056910569,
+    "saturated-fat_100g": 4.0650406504065,
+    "sugars_100g": 1.6260162601626,
+    "salt_100g": 1.28048780487805,
+    "sodium_100g": 0.51219512195122,
+    "fiber_100g": 1.6260162601626,
+    "proteins_100g": 10.5691056910569,
+    "energy-kcal_serving": 310,
+    "sugars_serving": 2,
+    "salt_serving": 1.58
+  }
+}

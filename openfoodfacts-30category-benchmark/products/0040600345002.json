@@ -1,0 +1,33 @@
+{
+  "code": "0040600345002",
+  "assigned_category": "margarine",
+  "product_name": "I can't Believe it's not Butter! Original",
+  "brands": "Nutrilich",
+  "quantity": "500 G",
+  "serving_size": "1 tbsp (14 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "b",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "purified water, soybean oil, palm kernel and palm oil, salt, lecithin (soy), natural flavors, vinegar, vitamin a palmitate, beta carotene (color),",
+  "countries_tags": [
+    "en:mexico",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 428.571428571429,
+    "fat_100g": 42.9,
+    "saturated-fat_100g": 2,
+    "salt_100g": 0.09,
+    "sodium_100g": 0.036,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 60,
+    "salt_serving": 0.0126
+  }
+}

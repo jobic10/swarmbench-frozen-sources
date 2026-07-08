@@ -1,0 +1,29 @@
+{
+  "code": "0021000026937",
+  "assigned_category": "salad-dressings",
+  "product_name": "Miracle Whip",
+  "brands": "Miracle Whip",
+  "quantity": "",
+  "serving_size": "",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e202"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "eau, huile de soja, isoglucose, vinaigre, sucre, amidon de maïs modifié, œufs, sel, arôme naturel, farine de moutarde, conservateur e202, paprika, épices, ail séché. contient des ogm.",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 233.333333333333,
+    "fat_100g": 23.333333333333,
+    "saturated-fat_100g": 3.3333333333333,
+    "sugars_100g": 6.6666666666667,
+    "salt_100g": 1.5833333333333,
+    "sodium_100g": 0.63333333333332,
+    "fiber_100g": 0,
+    "proteins_100g": 0
+  }
+}

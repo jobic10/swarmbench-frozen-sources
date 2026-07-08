@@ -1,0 +1,35 @@
+{
+  "code": "20000691",
+  "assigned_category": "fruit-jams",
+  "product_name": "Raspberry conserve",
+  "brands": "Maribel",
+  "quantity": "450g",
+  "serving_size": "1 tbsp (15 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e330",
+    "en:e440"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Sugar, 50% raspberries, citric acid, pectins.",
+  "countries_tags": [
+    "en:bulgaria",
+    "en:france",
+    "en:germany",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 239,
+    "fat_100g": 0.2,
+    "saturated-fat_100g": 0.01,
+    "sugars_100g": 57.1,
+    "salt_100g": 0.001,
+    "sodium_100g": 0.0004,
+    "fiber_100g": 2,
+    "proteins_100g": 0.4,
+    "energy-kcal_serving": 35.9,
+    "sugars_serving": 8.57,
+    "salt_serving": 0.00015
+  }
+}

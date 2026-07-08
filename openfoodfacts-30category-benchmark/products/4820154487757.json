@@ -1,0 +1,30 @@
+{
+  "code": "4820154487757",
+  "assigned_category": "crackers",
+  "product_name": "Classic Crackers with Poppy Seeds",
+  "brands": "Yarych",
+  "quantity": "8.5 oz",
+  "serving_size": "20g",
+  "nova_group": null,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "",
+  "countries_tags": [
+    "en:canada",
+    "en:israel",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 464,
+    "fat_100g": 18.6,
+    "saturated-fat_100g": 1.6,
+    "sugars_100g": 10.5,
+    "salt_100g": 0.22,
+    "sodium_100g": 0.088,
+    "proteins_100g": 8.5,
+    "energy-kcal_serving": 92.8,
+    "sugars_serving": 2.1,
+    "salt_serving": 0.044
+  }
+}

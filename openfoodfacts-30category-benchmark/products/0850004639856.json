@@ -1,0 +1,32 @@
+{
+  "code": "0850004639856",
+  "assigned_category": "mayonnaise",
+  "product_name": "Mayo Real Mayonnaise made with Avocado Oil",
+  "brands": "Primal Kitchen",
+  "quantity": "",
+  "serving_size": "1 serving (14 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:eggs"
+  ],
+  "ingredients_text": "AVOCADO OIL, ORGANIC EGGS, ORGANIC EGG YOLKS, ORGANIC VINEGAR, SEA SALT, ORGANIC ROSEMARY EXTRACT CONTAINS: EGG",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 714.285714285714,
+    "fat_100g": 78.5714285714286,
+    "saturated-fat_100g": 10.7142857142857,
+    "sugars_100g": 0,
+    "salt_100g": 1.51785714285714,
+    "sodium_100g": 0.607142857142857,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 0,
+    "salt_serving": 0.212
+  }
+}

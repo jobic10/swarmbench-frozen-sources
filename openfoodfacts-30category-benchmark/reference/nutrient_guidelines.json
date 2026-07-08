@@ -1,0 +1,24 @@
+{
+  "model": "UK Front-of-Pack (FoP) colour-coding, red/high thresholds",
+  "note": "Solid thresholds are per 100 g; drink thresholds are per 100 ml. A product is 'high' (red) in a nutrient when it exceeds the threshold.",
+  "thresholds": {
+    "sugars": {
+      "solid_high": 22.5,
+      "drink_high": 11.25
+    },
+    "salt": {
+      "solid_high": 1.5,
+      "drink_high": 0.75
+    },
+    "saturated_fat": {
+      "solid_high": 5.0,
+      "drink_high": 2.5
+    }
+  },
+  "beverage_categories": [
+    "energy-drinks",
+    "orange-juice",
+    "plant-milks",
+    "sodas"
+  ]
+}

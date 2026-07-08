@@ -1,0 +1,42 @@
+{
+  "code": "0190646641016",
+  "assigned_category": "plant-milks",
+  "product_name": "Oat-Milk",
+  "brands": "Oatly",
+  "quantity": "64 fl oz",
+  "serving_size": "1 portion (240 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e101",
+    "en:e101i",
+    "en:e170",
+    "en:e170i",
+    "en:e340",
+    "en:e340ii",
+    "en:e341",
+    "en:e341ii",
+    "en:e341iii"
+  ],
+  "allergens_tags": [
+    "en:gluten"
+  ],
+  "ingredients_text": "Oat Base (Water, Oats), Low Erucic Acid Rapeseed Oil, Dipotassium Phosphate, Calcium Carbonate, Tricalcium Phosphate, Sea Salt, Dicalcium Phosphate, Riboflavin, Vitamin A, Vitamin D2, Vitamin B12.",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 50,
+    "fat_100g": 2.08333333333333,
+    "saturated-fat_100g": 0.208333333333333,
+    "sugars_100g": 2.91666666666667,
+    "salt_100g": 0.104166666666667,
+    "sodium_100g": 0.0416666666666667,
+    "fiber_100g": 0.833333333333333,
+    "proteins_100g": 1.25,
+    "energy-kcal_serving": 120,
+    "sugars_serving": 7,
+    "salt_serving": 0.25
+  }
+}

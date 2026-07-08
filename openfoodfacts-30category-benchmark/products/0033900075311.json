@@ -1,0 +1,28 @@
+{
+  "code": "0033900075311",
+  "assigned_category": "sausages",
+  "product_name": "Fully Cooked Chicken Sausage",
+  "brands": "Jones Dairy Farm",
+  "quantity": "",
+  "serving_size": "3 links (59 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:chicken"
+  ],
+  "ingredients_text": "CHICKEN, WATER, SEA SALT, SPICES, LEMON PEEL POWDER, DRIED PARSLEY",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 152.542372881356,
+    "fat_100g": 5,
+    "saturated-fat_100g": 1.5,
+    "salt_100g": 0.875,
+    "sodium_100g": 0.35,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 90,
+    "salt_serving": 0.516
+  }
+}

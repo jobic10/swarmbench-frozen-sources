@@ -1,0 +1,31 @@
+{
+  "code": "0096619217939",
+  "assigned_category": "fruit-jams",
+  "product_name": "Jelly",
+  "brands": "Kirkland",
+  "quantity": "42 oz",
+  "serving_size": "1 Tbsp (18 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e330",
+    "en:e440"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Fresh Organic Strawberries, Organic Sugar, Fruit Pectin, Citric Acid.",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 208,
+    "fat_100g": 0,
+    "sugars_100g": 49,
+    "salt_100g": 0.02,
+    "sodium_100g": 0.008,
+    "proteins_100g": 1,
+    "energy-kcal_serving": 37.4,
+    "sugars_serving": 8.82,
+    "salt_serving": 0.0036
+  }
+}

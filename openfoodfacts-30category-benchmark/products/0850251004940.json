@@ -1,0 +1,30 @@
+{
+  "code": "0850251004940",
+  "assigned_category": "popcorn",
+  "product_name": "ORIGINAL POPCORN",
+  "brands": "SKINNY POP ORGANIC",
+  "quantity": "",
+  "serving_size": "3 cups (28g)",
+  "nova_group": 3,
+  "nutriscore_grade": "b",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Organic Popcorn, Organic Sunflower Oil, Sea Salt",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 535.714285714286,
+    "fat_100g": 10,
+    "saturated-fat_100g": 0.5,
+    "sugars_100g": 1,
+    "salt_100g": 0.325,
+    "sodium_100g": 0.13,
+    "fiber_100g": 2,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 150,
+    "sugars_serving": 0.28,
+    "salt_serving": 0.091
+  }
+}

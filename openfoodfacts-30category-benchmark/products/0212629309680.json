@@ -1,0 +1,31 @@
+{
+  "code": "0212629309680",
+  "assigned_category": "hard-cheese",
+  "product_name": "Comte French Gruyere Cheese",
+  "brands": "3 Comtois",
+  "quantity": "",
+  "serving_size": "28 g (1 oz)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Raw cow's milk, salt, animal rennet, cheese culture",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 429,
+    "fat_100g": 32.14,
+    "saturated-fat_100g": 17.86,
+    "sugars_100g": 0,
+    "salt_100g": 0.81534,
+    "sodium_100g": 0.326136,
+    "fiber_100g": 0,
+    "proteins_100g": 28.57,
+    "energy-kcal_serving": 122,
+    "sugars_serving": 0,
+    "salt_serving": 0.231
+  }
+}

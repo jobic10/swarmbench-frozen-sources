@@ -1,0 +1,30 @@
+{
+  "code": "0708163120589",
+  "assigned_category": "potato-chips",
+  "product_name": "Avocado Oil Classic Sea Salt Kettle Style Potato Chips",
+  "brands": "Boulder Canyon",
+  "quantity": "",
+  "serving_size": "28g",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "potatoes, avocado oil, sea salt",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 571.428571428572,
+    "fat_100g": 32.1428571428571,
+    "saturated-fat_100g": 5.35714285714286,
+    "sugars_100g": 0,
+    "salt_100g": 1.07142857142857,
+    "sodium_100g": 0.428571428571429,
+    "fiber_100g": 3.57142857142857,
+    "proteins_100g": 10.7142857142857,
+    "energy-kcal_serving": 160,
+    "sugars_serving": 0,
+    "salt_serving": 0.3
+  }
+}

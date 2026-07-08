@@ -1,0 +1,38 @@
+{
+  "code": "0016000264601",
+  "assigned_category": "cereal-bars",
+  "product_name": "Crunchy Oats 'n Honey",
+  "brands": "Nature Valley",
+  "quantity": "8.94 oz",
+  "serving_size": "2 bars (42 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e500",
+    "en:e500ii"
+  ],
+  "allergens_tags": [
+    "en:soybeans"
+  ],
+  "ingredients_text": "Whole Grain Oats, Sugar, Canola and/or Sunflower Oil, Rice Flour, Honey, Salt, Brown Sugar Syrup, Baking Soda, Soy Lecithin, Natural Flavor",
+  "countries_tags": [
+    "en:france",
+    "en:french-polynesia",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 452.380952380952,
+    "fat_100g": 16.7,
+    "saturated-fat_100g": 2.38095238095238,
+    "sugars_100g": 26.2,
+    "salt_100g": 0.8325,
+    "sodium_100g": 0.333,
+    "fiber_100g": 4.75952380952381,
+    "proteins_100g": 7.14,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 11,
+    "salt_serving": 0.35
+  }
+}

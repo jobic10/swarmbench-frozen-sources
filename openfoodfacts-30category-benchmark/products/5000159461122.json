@@ -1,0 +1,59 @@
+{
+  "code": "5000159461122",
+  "assigned_category": "chocolate-bars",
+  "product_name": "Snickers",
+  "brands": "Snickers",
+  "quantity": "50 g",
+  "serving_size": "50 g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Milk Chocolate (sugar, cocoa butter, chocolate, skim milk, lactose, milkfat, soy lecithin), peanuts, corn syrup, sugar, palm oil, skim milk, lactose, salt, egg whites, artificial flavor.",
+  "countries_tags": [
+    "en:algeria",
+    "en:belgium",
+    "en:bulgaria",
+    "en:cyprus",
+    "en:denmark",
+    "en:france",
+    "en:germany",
+    "en:hungary",
+    "en:luxembourg",
+    "en:mexico",
+    "en:morocco",
+    "en:netherlands",
+    "en:poland",
+    "en:portugal",
+    "en:romania",
+    "en:saudi-arabia",
+    "en:serbia",
+    "en:singapore",
+    "en:spain",
+    "en:sweden",
+    "en:switzerland",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 481,
+    "fat_100g": 22.5,
+    "saturated-fat_100g": 7.9,
+    "sugars_100g": 51.8,
+    "salt_100g": 0.62875,
+    "sodium_100g": 0.2515,
+    "fiber_100g": 4.3,
+    "proteins_100g": 8.6,
+    "energy-kcal_serving": 240,
+    "sugars_serving": 25.9,
+    "salt_serving": 0.314
+  }
+}

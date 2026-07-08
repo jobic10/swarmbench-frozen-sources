@@ -1,0 +1,35 @@
+{
+  "code": "5013665117537",
+  "assigned_category": "muesli",
+  "product_name": "Organic Superfruit Crunch",
+  "brands": "Kallo",
+  "quantity": "",
+  "serving_size": "65g",
+  "nova_group": 4,
+  "nutriscore_grade": "b",
+  "additives_tags": [
+    "en:e306",
+    "en:e414"
+  ],
+  "allergens_tags": [
+    "en:gluten"
+  ],
+  "ingredients_text": "Organic oat flakes, organic cane sugar, organic rice crisps, organic oat flour, organic wheat flakes, organic oat bran, organic high oleic sunflower oil, emulsifier: organic arabic gum, organic freeze dried fruit in variable quantities, organic cranberries, organic blueberries, organic coconut flakes, sea salt, antioxidant: tocopherol-rich extract",
+  "countries_tags": [
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 401.538461538462,
+    "fat_100g": 10,
+    "saturated-fat_100g": 2,
+    "sugars_100g": 14,
+    "salt_100g": 0.384615384615385,
+    "sodium_100g": 0.153846153846154,
+    "fiber_100g": 9.38461538461539,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 261,
+    "sugars_serving": 9.1,
+    "salt_serving": 0.25
+  }
+}

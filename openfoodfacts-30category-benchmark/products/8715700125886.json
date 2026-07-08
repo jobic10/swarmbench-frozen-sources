@@ -1,0 +1,41 @@
+{
+  "code": "8715700125886",
+  "assigned_category": "salad-dressings",
+  "product_name": "Salad Cream",
+  "brands": "Heinz",
+  "quantity": "415g",
+  "serving_size": "100g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e101",
+    "en:e101i",
+    "en:e202",
+    "en:e412",
+    "en:e415",
+    "en:e950"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:mustard"
+  ],
+  "ingredients_text": "water, spirit vinegar, sugar, pasteurised egg yolks (5%), rapeseed oil (4%), mustard, maltodextrin, modified cornflour, salt, stabilisers (guar gum and xanthan gum), preservative (potassium sorbate), sweetener (acesulfame k), colour (riboflavin),",
+  "countries_tags": [
+    "en:germany",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 32.2513764426731,
+    "fat_100g": 7.1,
+    "saturated-fat_100g": 0.8,
+    "sugars_100g": 8,
+    "salt_100g": 1.5,
+    "sodium_100g": 0.6,
+    "fiber_100g": 0,
+    "proteins_100g": 1.8,
+    "energy-kcal_serving": 32.3,
+    "sugars_serving": 8,
+    "salt_serving": 1.5
+  }
+}

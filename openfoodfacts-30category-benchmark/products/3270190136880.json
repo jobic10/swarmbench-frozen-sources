@@ -1,0 +1,33 @@
+{
+  "code": "3270190136880",
+  "assigned_category": "mustard",
+  "product_name": "Moutarde de Dijon",
+  "brands": "Carrefour BIO, Carrefour",
+  "quantity": "200 g",
+  "serving_size": "100g",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:mustard"
+  ],
+  "ingredients_text": "Eau, graines de _moutarde_ bio 32,1%, vinaigre d'alcool bio, sel.",
+  "countries_tags": [
+    "en:france",
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 171,
+    "fat_100g": 13,
+    "saturated-fat_100g": 0.8,
+    "sugars_100g": 2.1,
+    "salt_100g": 5.8,
+    "sodium_100g": 2.32,
+    "fiber_100g": 3.6,
+    "proteins_100g": 7.5,
+    "energy-kcal_serving": 171,
+    "sugars_serving": 2.1,
+    "salt_serving": 5.8
+  }
+}

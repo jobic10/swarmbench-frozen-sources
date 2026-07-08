@@ -1,0 +1,32 @@
+{
+  "code": "0074305030123",
+  "assigned_category": "salad-dressings",
+  "product_name": "Vinaigrette",
+  "brands": "Bragg",
+  "quantity": "",
+  "serving_size": "2 Tbsp (30 ml)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e415"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Organic extra virgin olive oil, organic apple cider vinegar, water, organic honey, organic garlic, organic coconut liquid aminos (organic coconut blossom nectar, water, organic apple cider vinegar and sea salt), organic dried onion, less than 2% of: organic black pepper and xanthan gum",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 300,
+    "fat_100g": 30,
+    "saturated-fat_100g": 5,
+    "sugars_100g": 6.67,
+    "salt_100g": 0.5,
+    "sodium_100g": 0.2,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 90,
+    "sugars_serving": 2,
+    "salt_serving": 0.15
+  }
+}

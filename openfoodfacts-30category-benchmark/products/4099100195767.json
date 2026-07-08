@@ -1,0 +1,28 @@
+{
+  "code": "4099100195767",
+  "assigned_category": "pasta-sauces",
+  "product_name": "Tomato & Basil Pasta Sauce",
+  "brands": "Simply Nature",
+  "quantity": "",
+  "serving_size": "0.5 cup (113 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "organic tomato puree (water organic tomato paste organic diced tomatoes in organic tomato juice, organic a basil, salt, organic dried onion, organic garilic powder, organic dried basil, organic dried garlic, organic dried oregano, 0%",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 39.8230088495575,
+    "fat_100g": 0,
+    "sugars_100g": 4.42035398230088,
+    "salt_100g": 1.04,
+    "sodium_100g": 0.416,
+    "fiber_100g": 1.76991150442478,
+    "proteins_100g": 1.76991150442478,
+    "energy-kcal_serving": 45,
+    "sugars_serving": 5,
+    "salt_serving": 1.18
+  }
+}

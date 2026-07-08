@@ -1,0 +1,38 @@
+{
+  "code": "0036200219294",
+  "assigned_category": "pasta-sauces",
+  "product_name": "Alfredo Sauce",
+  "brands": "Bertolli",
+  "quantity": "15 oz (425 g)",
+  "serving_size": "1/4 cup (61 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e224",
+    "en:e415"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "WATER, CREAM, BUTTER (SWEET CREAM, SALT), GRATED PARMESAN CHEESE (PASTEURIZED PART-SKIM MILK, CHEESE CULTURES, SALT, ENZYMES), SOYBEAN OIL, MODIFIED FOOD STARCH, ENZYME MODIFIED EGG YOLK (EGG YOLK, SALT, ENZYME), NONFAT DRY MILK, SALT, AMERICAN SHERRY COOKING WINE (WINE, GRAPE ALCOHOL, SALT, POTASSIUM METABISULFITE [PRESERVATIVE]), WHEY, SODIUM PHOSPHATE, XANTHAN GUM, YEAST EXTRACT, GARLIC POWDER, BLACK PEPPER, NATURAL FLAVOR.",
+  "countries_tags": [
+    "en:bolivia",
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 147.540983606557,
+    "fat_100g": 14.7540983606557,
+    "saturated-fat_100g": 6.55737704918033,
+    "sugars_100g": 1.63934426229508,
+    "salt_100g": 1.59836065573771,
+    "sodium_100g": 0.639344262295082,
+    "fiber_100g": 0,
+    "proteins_100g": 3.27868852459016,
+    "energy-kcal_serving": 90,
+    "sugars_serving": 1,
+    "salt_serving": 0.975
+  }
+}

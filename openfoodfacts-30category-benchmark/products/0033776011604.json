@@ -1,0 +1,33 @@
+{
+  "code": "0033776011604",
+  "assigned_category": "margarine",
+  "product_name": "Original Buttery Spread",
+  "brands": "Smart Balance",
+  "quantity": "45 OZ (2 LBS 13 OZ) 1.27kg",
+  "serving_size": "1 serving (14 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e202",
+    "en:e270",
+    "en:e322",
+    "en:e322i",
+    "en:e385",
+    "en:e570"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "VEGETABLE OIL BLEND (CANOLA, PALM, AND OLIVE OILS), WATER, CONTAINS LESS THAN 2% OF SALT, PEA PROTEIN, NATURAL AND ARTIFICIAL FLAVORS, SUNFLOWER LECITHIN, VITAMIN A PALMITATE, BETA-CAROTENE (COLOR), VITAMIN D, MONOGLYCERIDES OF VEGETABLE FATTY ACIDS (EMULSIFIER); AND POTASSIUM SORBATE, LACTIC ACID, CALCIUM DISODIUM EDTA (TO PROTECT FRESHNESS).",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 714.285714285714,
+    "fat_100g": 64.3,
+    "saturated-fat_100g": 17.9,
+    "salt_100g": 1.6075,
+    "sodium_100g": 0.643,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 100,
+    "salt_serving": 0.225
+  }
+}

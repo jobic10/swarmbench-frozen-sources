@@ -1,0 +1,32 @@
+{
+  "code": "0064144282432",
+  "assigned_category": "canned-tomatoes",
+  "product_name": "Diced Tomatoes & Green Chilies",
+  "brands": "Ro-Tel",
+  "quantity": "10 oz (284 g)",
+  "serving_size": "0.5 cup (125 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "TOMATOES, WATER, CHOPPED GREEN CHILI PEPPERS, LESS THAN 2% OF: SALT, CALCIUM CHLORIDE, NATURAL FLAVOR, CITRIC ACID, CILANTRO.",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 20,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 2.4,
+    "salt_100g": 0.76,
+    "sodium_100g": 0.304,
+    "fiber_100g": 1.6,
+    "proteins_100g": 0.8,
+    "energy-kcal_serving": 25,
+    "sugars_serving": 3,
+    "salt_serving": 0.95
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "code": "0034500144490",
+  "assigned_category": "margarine",
+  "product_name": "BUTTER WITH OLIVE OIL & SEA SALT",
+  "brands": "LAND O LAKES",
+  "quantity": "14 g",
+  "serving_size": "1 tbsp (14 g)",
+  "nova_group": 2,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "SWEET CREAM, OLIVE OIL, SALT, SEA SALT.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 642.857142857143,
+    "fat_100g": 71.4285714285714,
+    "saturated-fat_100g": 28.5714285714286,
+    "salt_100g": 1.60714285714286,
+    "sodium_100g": 0.642857142857143,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 90,
+    "salt_serving": 0.225
+  }
+}

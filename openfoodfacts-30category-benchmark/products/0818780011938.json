@@ -1,0 +1,29 @@
+{
+  "code": "0818780011938",
+  "assigned_category": "popcorn",
+  "product_name": "Sweet & Salty Kettle Corn",
+  "brands": "Boom Chicka Pop",
+  "quantity": "7 oz (198g)",
+  "serving_size": "2 cups (28 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "popcorn, sunflower oil, cane sugar, sea salt,",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 500,
+    "fat_100g": 28.5714285714286,
+    "saturated-fat_100g": 1.78571428571429,
+    "sugars_100g": 28.5714285714286,
+    "salt_100g": 0.982142857142857,
+    "sodium_100g": 0.392857142857143,
+    "fiber_100g": 7.14285714285714,
+    "proteins_100g": 3.57142857142857,
+    "energy-kcal_serving": 140,
+    "sugars_serving": 8,
+    "salt_serving": 0.275
+  }
+}

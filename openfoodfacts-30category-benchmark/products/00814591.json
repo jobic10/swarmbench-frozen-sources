@@ -1,0 +1,35 @@
+{
+  "code": "00814591",
+  "assigned_category": "fruit-yogurts",
+  "product_name": "Bananas & Cream Yogurt",
+  "brands": "Trader Joe's",
+  "quantity": "4 oz",
+  "serving_size": "1 container (113 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e160b",
+    "en:e428"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "PASTEURIZED GRADE A MILK, SUGAR, CREAM, BANANA PUREE, MODIFIED CORN STARCH, WHEY PROTEIN CONCENTRATE, TAPIOCA STARCH, NATURAL FLAVORS, KOSHER GELATIN, TURMERIC AND ANNATTO (COLOR), CITRIC ACID ACTIE CULTURES (S. THERMOPHILUS, L. BULGARICUS, L. ACIDOPHILUS, BIFIDOBACTERIUM LCASE). CULTURED AFTER PASTEURIZATION. CONTAINS MILK.",
+  "countries_tags": [
+    "en:spain",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 123.893805309735,
+    "fat_100g": 5.30973451327434,
+    "saturated-fat_100g": 3.09734513274336,
+    "sugars_100g": 14.1592920353982,
+    "salt_100g": 0.121681415929204,
+    "sodium_100g": 0.0486725663716814,
+    "fiber_100g": 0,
+    "proteins_100g": 3.53982300884956,
+    "energy-kcal_serving": 140,
+    "sugars_serving": 16,
+    "salt_serving": 0.138
+  }
+}

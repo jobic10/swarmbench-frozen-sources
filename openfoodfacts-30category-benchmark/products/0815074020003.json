@@ -1,0 +1,36 @@
+{
+  "code": "0815074020003",
+  "assigned_category": "mayonnaise",
+  "product_name": "Chosen classic Mayo",
+  "brands": "Chosen Foods",
+  "quantity": "12 fl oz",
+  "serving_size": "1 Tbsp (14 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e392"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:mustard"
+  ],
+  "ingredients_text": "AVOCADO OIL, FILTERED WATER, EGG YOLKS, ORGANIC WHOLE EGGS, ORGANIC DISTILLED WHITE VINEGAR, ORGANIC MUSTARD (ORGANIC DISTILLED VINEGAR, WATER, ORGANIC MUSTARD SEED, SALT, ORGANIC SPICES), SALT, ORGANIC ROSEMARY EXTRACT (FOR FRESHNESS), EGG.",
+  "countries_tags": [
+    "en:canada",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 714.2857,
+    "fat_100g": 78.5714,
+    "saturated-fat_100g": 10.7143,
+    "sugars_100g": 0,
+    "salt_100g": 0.89285725,
+    "sodium_100g": 0.3571429,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 0,
+    "salt_serving": 0.125
+  }
+}

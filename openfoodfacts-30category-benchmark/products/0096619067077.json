@@ -1,0 +1,45 @@
+{
+  "code": "0096619067077",
+  "assigned_category": "dried-fruits",
+  "product_name": "Trail Mix",
+  "brands": "Kirkland",
+  "quantity": "1.81kg",
+  "serving_size": "1 portion (30 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e102",
+    "en:e110",
+    "en:e129",
+    "en:e132",
+    "en:e133",
+    "en:e1400",
+    "en:e322",
+    "en:e322i",
+    "en:e414",
+    "en:e903"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:nuts",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Peanuts (Peanuts, peanut oil, salt), Raisins (Raisins, non-hydrogenated sunflower oil), Almonds (Almonds, canola oil, peanut oil, salt), Cashews (Cashews, peanut oil, salt), M&M's® Milk Chocolate Candies (Milk chocolate (sugar, chocolate, skim milk, cocoa butter, lactose, milkfat, soy lecithin, salt, artificial and natural flavors), sugar, cornstarch, 1% corn syrup, dextrin, coloring ( blue 1 lake, yellow 6, red 40, yellow 5, blue 1, yellow 6 lake, red 40 lake, yellow 5 lake, blue 2 lake, blue 2), carnauba wax, gum acacia.), M&M's Peanut Chocolate Candies (Milk chocolate (sugar, chocolate, skim milk, cocoa butter, lactose, milkfat, peanuts, soy lecithin, salt, artificial and natural flavors), sugar, peanuts, cornstarch, 1% palm oil, corn syrup, dextrin, coloring ( blue 1 lake, red 40, yellow 6, yellow 5, blue 1, red 40 lake, yellow 6 lake, yellow 5 lake, blue 2 lake, blue 2), carnauba wax, gum acacia.)",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 533.333333333333,
+    "fat_100g": 33.3333333333333,
+    "saturated-fat_100g": 6.66666666666667,
+    "sugars_100g": 33.3333333333333,
+    "salt_100g": 0.333333333333333,
+    "sodium_100g": 0.133333333333333,
+    "fiber_100g": 6.66666666666667,
+    "proteins_100g": 16.6666666666667,
+    "energy-kcal_serving": 160,
+    "sugars_serving": 10,
+    "salt_serving": 0.1
+  }
+}

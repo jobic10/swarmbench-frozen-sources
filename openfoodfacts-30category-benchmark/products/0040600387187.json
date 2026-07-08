@@ -1,0 +1,32 @@
+{
+  "code": "0040600387187",
+  "assigned_category": "margarine",
+  "product_name": "I can't Believe it's not Butter! Creamy Light",
+  "brands": "Nutr-Rich Buttery Spread",
+  "quantity": "15 oz (425 g)",
+  "serving_size": "1 serving (14 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e270",
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:soybeans"
+  ],
+  "ingredients_text": "water, soybean oil, palm kernel oil, palm oil, salt, lecithin (soy), lactic acid, natural flavors, vitamins (E, D2, A, B12), beta carotene (color)",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 250,
+    "fat_100g": 28.5714285714286,
+    "saturated-fat_100g": 7.14285714285714,
+    "salt_100g": 1.51785714285714,
+    "sodium_100g": 0.607142857142857,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 35,
+    "salt_serving": 0.212
+  }
+}

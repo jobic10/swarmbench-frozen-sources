@@ -1,0 +1,31 @@
+{
+  "code": "0092227706407",
+  "assigned_category": "sausages",
+  "product_name": "Andouille Chicken Sausages",
+  "brands": "amylu",
+  "quantity": "40 oz",
+  "serving_size": "1 link (71 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e392"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Chicken Raised Without Antibiotics, Water, Contains 2% or less of: Spices, Parsley, Crushed Red Pepper, Paprika, Extract of Rosemary, Onions, Garlic, Salt, Vinegar. AMYLU FOODS LLC CHICAGO, IL 60609 ONLY WITH MADE REAL FOOD 092227 70640 7ndon HEAT & EAT Grill Place saus amylufoods.com PROUDLY MADE IN CHICAGO MAY BE FROZEN UP TO 6 MONTHS. USE OR FREEZE R",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 154.929577464789,
+    "fat_100g": 8.45070422535211,
+    "saturated-fat_100g": 2.11267605633803,
+    "sugars_100g": 0,
+    "salt_100g": 1.76056338028169,
+    "sodium_100g": 0.704225352112676,
+    "fiber_100g": 0,
+    "proteins_100g": 18.3098591549296,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 0,
+    "salt_serving": 1.25
+  }
+}

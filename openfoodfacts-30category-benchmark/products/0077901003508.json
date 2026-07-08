@@ -1,0 +1,32 @@
+{
+  "code": "0077901003508",
+  "assigned_category": "hard-cheese",
+  "product_name": "Brie",
+  "brands": "President",
+  "quantity": "453 g",
+  "serving_size": "1 ONZ (28 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Pasteurized cow's milk, cheese cultures, salt, enzymes.",
+  "countries_tags": [
+    "en:france",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 357.1429,
+    "fat_100g": 32.1429,
+    "saturated-fat_100g": 21.4286,
+    "sugars_100g": 0,
+    "salt_100g": 1.6964285,
+    "sodium_100g": 0.6785714,
+    "fiber_100g": 0,
+    "proteins_100g": 14.2857,
+    "energy-kcal_serving": 100,
+    "sugars_serving": 0,
+    "salt_serving": 0.475
+  }
+}

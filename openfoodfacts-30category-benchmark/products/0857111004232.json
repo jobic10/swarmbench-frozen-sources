@@ -1,0 +1,32 @@
+{
+  "code": "0857111004232",
+  "assigned_category": "protein-bars",
+  "product_name": "Chocolate Sea Salt",
+  "brands": "RXBAR",
+  "quantity": "52g",
+  "serving_size": "1 bar (52 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:eggs",
+    "en:nuts"
+  ],
+  "ingredients_text": "Dates, Egg Whites, Cashews, Almonds, Chocolate, Cocoa, Natural Flavors, Sea Salt",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 384.615384615385,
+    "fat_100g": 15.3846153846154,
+    "saturated-fat_100g": 3.84615384615385,
+    "sugars_100g": 26.9230769230769,
+    "salt_100g": 0.913461538461538,
+    "sodium_100g": 0.365384615384615,
+    "fiber_100g": 9.61538461538461,
+    "proteins_100g": 23.0769230769231,
+    "energy-kcal_serving": 200,
+    "sugars_serving": 14,
+    "salt_serving": 0.475
+  }
+}

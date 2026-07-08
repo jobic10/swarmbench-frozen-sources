@@ -1,0 +1,31 @@
+{
+  "code": "0040784985506",
+  "assigned_category": "canned-tomatoes",
+  "product_name": "Crushed Tomatoes",
+  "brands": "San Merican Tomatoes",
+  "quantity": "61 g",
+  "serving_size": "0.25 cup (61 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e330"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "CONCENTRATED CRUSHED TOMATOES, DICED TOMATOES, SEA SALT, CALCIUM CHLORIDE AND CITRIC ACID.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 32.7868852459016,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 4.91803278688525,
+    "salt_100g": 0.573770491803279,
+    "sodium_100g": 0.229508196721312,
+    "fiber_100g": 1.63934426229508,
+    "proteins_100g": 1.63934426229508,
+    "energy-kcal_serving": 20,
+    "sugars_serving": 3,
+    "salt_serving": 0.35
+  }
+}

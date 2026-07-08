@@ -1,0 +1,35 @@
+{
+  "code": "00931847",
+  "assigned_category": "chocolate-bars",
+  "product_name": "Chocolate Bar",
+  "brands": "Trader Joe's",
+  "quantity": "3.5 oz (100g)",
+  "serving_size": "10 pieces (31 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Cocoa mass, sugar, cocoa butter, soy lecithin, natural vanilla flavor.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 612.903225806452,
+    "fat_100g": 48.3870967741936,
+    "saturated-fat_100g": 29.0322580645161,
+    "sugars_100g": 16.1290322580645,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "fiber_100g": 12.9032258064516,
+    "proteins_100g": 9.67741935483871,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 5,
+    "salt_serving": 0
+  }
+}

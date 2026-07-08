@@ -1,0 +1,35 @@
+{
+  "code": "3497911123350",
+  "assigned_category": "potato-chips",
+  "product_name": "Chips Pizza 125G Bret's",
+  "brands": "Brets",
+  "quantity": "125g",
+  "serving_size": "30g",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e160c"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Pommes de terre (France) (61,9%), huile de tournesol (31%), sel, tomate en poudre, sucre, _crème_ en poudre, _fromage_ en poudre, arôme, persil, oignon en poudre, origan, _lait_ en poudre, colorant : extrait de paprika, ail en poudre, poivre de Cayenne,",
+  "countries_tags": [
+    "en:france",
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 525,
+    "fat_100g": 31,
+    "saturated-fat_100g": 2.6,
+    "sugars_100g": 2,
+    "salt_100g": 1.4,
+    "sodium_100g": 0.56,
+    "fiber_100g": 5,
+    "proteins_100g": 6,
+    "energy-kcal_serving": 158,
+    "sugars_serving": 0.6,
+    "salt_serving": 0.42
+  }
+}

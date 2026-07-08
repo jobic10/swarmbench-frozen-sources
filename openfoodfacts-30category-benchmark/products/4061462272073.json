@@ -1,0 +1,24 @@
+{
+  "code": "4061462272073",
+  "assigned_category": "honey",
+  "product_name": "Organic Clear Honey",
+  "brands": "",
+  "quantity": "",
+  "serving_size": "",
+  "nova_group": null,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Organic clear honey",
+  "countries_tags": [
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 324,
+    "fat_100g": 0.5,
+    "saturated-fat_100g": 0.1,
+    "sugars_100g": 75.6,
+    "proteins_100g": 0.5
+  }
+}

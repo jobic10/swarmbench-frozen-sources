@@ -1,0 +1,29 @@
+{
+  "code": "0041129395905",
+  "assigned_category": "pasta-sauces",
+  "product_name": "Tomato, Herb & Spices Pasta Sauce",
+  "brands": "Classico Organic",
+  "quantity": "32 ounces",
+  "serving_size": "0.5 cup (125 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "a",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Organic tomato puree (water, organic tomato paste), organic diced tomatoes (organic tomatoes, organic tomato juice, naturally derived citric acid and calcium chloride), organic sugar, organic onions, organic olive oil, sea salt, organic spices, organic garlic, organic dehydrated onion, organic dehydrated garlic",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 48,
+    "fat_100g": 0.8,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 6.4,
+    "salt_100g": 0.78,
+    "sodium_100g": 0.312,
+    "fiber_100g": 1.6,
+    "proteins_100g": 1.6,
+    "energy-kcal_serving": 60,
+    "sugars_serving": 8,
+    "salt_serving": 0.975
+  }
+}

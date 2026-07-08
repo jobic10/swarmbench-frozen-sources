@@ -1,0 +1,31 @@
+{
+  "code": "0850074005933",
+  "assigned_category": "sausages",
+  "product_name": "Cooked Uncured Polish Sausage",
+  "brands": "Teton Waters Ranch",
+  "quantity": "10 oz",
+  "serving_size": "1 link (85 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:celery"
+  ],
+  "ingredients_text": "Grass Fed Beef, Water, Less than 2% of the following: Sea Salt, Vinegar, Spices including Paprika, Celery Powder, Garlic Powder, Cherry Powder.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 258.823529411765,
+    "fat_100g": 21.1764705882353,
+    "saturated-fat_100g": 8.23529411764706,
+    "sugars_100g": 0,
+    "salt_100g": 2,
+    "sodium_100g": 0.8,
+    "fiber_100g": 0,
+    "proteins_100g": 14.1176470588235,
+    "energy-kcal_serving": 220,
+    "sugars_serving": 0,
+    "salt_serving": 1.7
+  }
+}

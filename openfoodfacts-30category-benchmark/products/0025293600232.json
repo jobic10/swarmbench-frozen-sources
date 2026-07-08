@@ -1,0 +1,33 @@
+{
+  "code": "0025293600232",
+  "assigned_category": "plant-milks",
+  "product_name": "Organic Unsweetened Soymilk",
+  "brands": "Silk",
+  "quantity": "64 fl oz",
+  "serving_size": "1 portion (240 ml)",
+  "nova_group": 4,
+  "nutriscore_grade": "b",
+  "additives_tags": [
+    "en:e418"
+  ],
+  "allergens_tags": [
+    "en:soybeans"
+  ],
+  "ingredients_text": "Organic Soymilk (Filtered Water, Organic Soybeans), Contains 2% or Less of: Vitamin and Mineral Blend (Calcium Carbonate, Vitamin A Palmitate, Vitamin D2, Riboflavin [B2], Vitamin B12), Sea Salt, Gellan Gum, Ascorbic Acid (Vitamin C To Protect Freshness), Natural Flavor.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 33.3333333333333,
+    "fat_100g": 1.45833333333333,
+    "saturated-fat_100g": 0.208333333333333,
+    "sugars_100g": 0.416666666666667,
+    "salt_100g": 0.0833333333333333,
+    "sodium_100g": 0.0333333333333333,
+    "fiber_100g": 0.833333333333333,
+    "proteins_100g": 3.33333333333333,
+    "energy-kcal_serving": 80,
+    "sugars_serving": 1,
+    "salt_serving": 0.2
+  }
+}

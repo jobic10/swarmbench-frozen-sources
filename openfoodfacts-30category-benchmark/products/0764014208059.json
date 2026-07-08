@@ -1,0 +1,34 @@
+{
+  "code": "0764014208059",
+  "assigned_category": "sausages",
+  "product_name": "CHICKEN & APPLE SMOKED CHICKEN SAUSAGE",
+  "brands": "aidells",
+  "quantity": "12 oz",
+  "serving_size": "1 link (85 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:apple",
+    "en:celery",
+    "en:chicken",
+    "en:peach"
+  ],
+  "ingredients_text": "CHICKEN, DRIED APPLES, APPLE JUICE CONCENTRATE, CHICKEN BROTH, CONTAINS 2% OR LESS OF BROWN SUGAR, CULTURED CELERY POWDER, SALT, SEA SALT, SPICES STUFFED IN A NATURAL PORK CASING",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 188.235294117647,
+    "fat_100g": 11,
+    "saturated-fat_100g": 3,
+    "sugars_100g": 4,
+    "salt_100g": 1.5,
+    "sodium_100g": 0.6,
+    "fiber_100g": 0,
+    "proteins_100g": 12,
+    "energy-kcal_serving": 160,
+    "sugars_serving": 3.4,
+    "salt_serving": 1.27
+  }
+}

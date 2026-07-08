@@ -1,0 +1,33 @@
+{
+  "code": "4897036692455",
+  "assigned_category": "energy-drinks",
+  "product_name": "Monster Energy Ultra",
+  "brands": "Monster, Monster Energy",
+  "quantity": "350ml",
+  "serving_size": "350ml",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e200",
+    "en:e210",
+    "en:e950",
+    "en:e968"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "CARBONATED WATER, ACIDITY REGULATORS (CITRIC ACID PRESERVATIVES (SORBIC ACID, BENZOIC ACID), SWEETENERS (SUCRALISE ROMIAN CITRATE), ERYTHRITOL, TAURINE (400 mg/100ml), FLAVORS (0) MATURE-IDENTICAL & ARTIFICIAL (CITRUS FRUIT FLAVORING SUBSTANCES ACESULFAME POTASSIUM), CAFFEINE 30mg/100ml (300ppm), VITAMINS (05, B3, B6, B12), D-GLUCURONOLACTONE, INOSITOL (2 mg/100ml),",
+  "countries_tags": [
+    "en:india",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 2.57142857142857,
+    "fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 0.197142857142857,
+    "sodium_100g": 0.0788571428571429,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 9,
+    "sugars_serving": 0,
+    "salt_serving": 0.69
+  }
+}

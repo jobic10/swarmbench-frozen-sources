@@ -1,0 +1,38 @@
+{
+  "code": "6111203001467",
+  "assigned_category": "margarine",
+  "product_name": "margarine la prairie 225g",
+  "brands": "la Prairie",
+  "quantity": "250g",
+  "serving_size": "100g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e202",
+    "en:e322",
+    "en:e322i",
+    "en:e330"
+  ],
+  "allergens_tags": [
+    "en:soybeans"
+  ],
+  "ingredients_text": "Corps gras végétal, eau, sucre, sel, mono-diglycérides végétales, lécithine de soja, calcium, amidon, sorbate de potassium, antioxydant, acide citrique, arôme, β-carotène, 7 vitamines : A, B6, B2, B1, E, D et B12.",
+  "countries_tags": [
+    "en:france",
+    "en:morocco",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 635,
+    "fat_100g": 70,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 0,
+    "salt_100g": 0.7,
+    "sodium_100g": 0.28,
+    "fiber_100g": 0,
+    "proteins_100g": 1,
+    "energy-kcal_serving": 635,
+    "sugars_serving": 0,
+    "salt_serving": 0.7
+  }
+}

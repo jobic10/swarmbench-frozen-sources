@@ -1,0 +1,51 @@
+{
+  "code": "0123456789012",
+  "assigned_category": "sausages",
+  "product_name": "Peanut Butter Crunch",
+  "brands": "Fleischer, Selbst gemacht, The Wholesome Bar, Uberti",
+  "quantity": "1pcs",
+  "serving_size": "66 g (66 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e170",
+    "en:e170i",
+    "en:e200",
+    "en:e282",
+    "en:e300",
+    "en:e322",
+    "en:e322i",
+    "en:e341",
+    "en:e341i",
+    "en:e471",
+    "en:e481",
+    "en:e516",
+    "en:e517"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Unbleached enriched wheat flour [flour, barley malt, niacin (vitamin b3), iron, thiamin mononitrate (vitamin b1), riboflavin (vitamin b2), folic acid (vitamin b9)], water, sugar, yeast, wheat gluten, soybean oil, contains 2% or less of the following: salt, dough conditioners (mono - and diglycerides, sodium stearoyl lactylate, ethoxylated mono - and diglycerides, ascorbic acid), calcium propionate and sorbic acid (to retain freshness), yeast nutrients (calcium carbonate, calcium sulfate, monocalcium phosphate, ammonium sulfate), hydrogenated cottonseed oil, ground turmeric, soy lecithin.",
+  "countries_tags": [
+    "en:belgium",
+    "en:france",
+    "en:germany",
+    "en:morocco",
+    "en:togo",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 52.941176470588,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 2.9411764705882,
+    "salt_100g": 0.095588235294118,
+    "sodium_100g": 0.0382352941176472,
+    "fiber_100g": 1.5,
+    "proteins_100g": 10.588235294118,
+    "energy-kcal_serving": 34.9,
+    "sugars_serving": 1.94,
+    "salt_serving": 0.0631
+  }
+}

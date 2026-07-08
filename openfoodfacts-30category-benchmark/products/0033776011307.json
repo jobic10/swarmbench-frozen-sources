@@ -1,0 +1,34 @@
+{
+  "code": "0033776011307",
+  "assigned_category": "margarine",
+  "product_name": "Smart Balance Whipped Buttery Spread",
+  "brands": "Smart Balance",
+  "quantity": "13 oz",
+  "serving_size": "1 tbsp (11 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e202",
+    "en:e270",
+    "en:e319",
+    "en:e322",
+    "en:e322i",
+    "en:e385",
+    "en:e570"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "vegetable oil blend (canola, palm, extra virgin olive, and flaxseed oils), water, less than 2 percent of: salt, pea protein, natural and artificial flavors, sunflower lecithin, vitamin a palmitate, beta carotene (color), vitamin d, monoglycerides of vegetable fatty acids (emulsifier), and potassium sorbate, lactic acid, tbhq and calcium disodium edta (to protect freshness),",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 545.454545454545,
+    "fat_100g": 63.6363636363636,
+    "saturated-fat_100g": 18.1818181818182,
+    "salt_100g": 1.59090909090909,
+    "sodium_100g": 0.636363636363636,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 60,
+    "salt_serving": 0.175
+  }
+}

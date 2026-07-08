@@ -1,0 +1,36 @@
+{
+  "code": "0024100705665",
+  "assigned_category": "crackers",
+  "product_name": "ORIGINAL",
+  "brands": "Cheez-It",
+  "quantity": "7 oz",
+  "serving_size": "27 Crackers (30 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "enriched flour (wheat flour, niacin, reduced iron, vitamin B1 [thiamin mononitrate], vitamin B2 [riboflavin], folic acid), vegetable oil (high oleic soybean, soybean, palm, and/or canola oil with TBHQ for freshness), cheese made with skim milk (skim milk, whey protein, salt, cheese cultures, enzymes, annatto extract color), salt, paprika, yeast, paprika extract color, soy lecithin",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 500,
+    "fat_100g": 26.6666666666667,
+    "saturated-fat_100g": 5,
+    "sugars_100g": 0,
+    "salt_100g": 1.91666666666667,
+    "sodium_100g": 0.766666666666667,
+    "fiber_100g": 3.33333333333333,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 150,
+    "sugars_serving": 0,
+    "salt_serving": 0.575
+  }
+}

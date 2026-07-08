@@ -1,0 +1,33 @@
+{
+  "code": "0855140002175",
+  "assigned_category": "muesli",
+  "product_name": "ORIGINAL ANCIENT GRAIN GRANOLA",
+  "brands": "purely elizabeth.",
+  "quantity": "12 oz (340 g)",
+  "serving_size": "0.333 cup (30 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:Coconut"
+  ],
+  "ingredients_text": "Organic Certified Gluten-Free Oats, Organic Coconut Sugar, Organic Coconut Oil, Organic Sunflower Seeds, Organic Puffed Amaranth, Organic Quinoa Flakes, Organic Chia Seeds, Organic Cinnamon, Sea Salt.",
+  "countries_tags": [
+    "en:panama",
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 433.333333333333,
+    "fat_100g": 16.6666666666667,
+    "saturated-fat_100g": 11.6666666666667,
+    "sugars_100g": 20,
+    "salt_100g": 1.125,
+    "sodium_100g": 0.45,
+    "fiber_100g": 6.66666666666667,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 130,
+    "sugars_serving": 6,
+    "salt_serving": 0.337
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": "0041143128701",
+  "assigned_category": "dried-fruits",
+  "product_name": "Raisins",
+  "brands": "Sun-Maid",
+  "quantity": "20 OZ (567g)",
+  "serving_size": "0.25 cup (40 g)",
+  "nova_group": 1,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "RAISINS",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 300,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 65,
+    "salt_100g": 0.0625,
+    "sodium_100g": 0.025,
+    "fiber_100g": 5,
+    "proteins_100g": 2.5,
+    "energy-kcal_serving": 120,
+    "sugars_serving": 26,
+    "salt_serving": 0.025
+  }
+}

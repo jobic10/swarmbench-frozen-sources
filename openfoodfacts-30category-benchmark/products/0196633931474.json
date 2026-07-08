@@ -1,0 +1,35 @@
+{
+  "code": "0196633931474",
+  "assigned_category": "sausages",
+  "product_name": "CHICKEN SAUSAGE",
+  "brands": "KIRKLAND Signature",
+  "quantity": "48 oz",
+  "serving_size": "1 link (76 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e235",
+    "en:e392"
+  ],
+  "allergens_tags": [
+    "en:chicken",
+    "en:milk"
+  ],
+  "ingredients_text": "Chicken, Parmesan Cheese (Pasteurized Cow's Milk, Cheese Cultures, Salt, Enzymes), Parmesan and Romano Cheese Blend (Cultured Milk, Salt, Enzymes, Natamycin), : Cracked Black Pepper, Kosher Salt, Dried Citrus Pulp, Extract of Rosemary, Vinegar, Natural Pork Casing CONTAINS: Milk COATED PAPER| PLASTIC SLEEVE WRAP *Not recycled in aã communities ycleinfo ITM / ART 17753",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 197.368421052632,
+    "fat_100g": 13.1578947368421,
+    "saturated-fat_100g": 3.94736842105263,
+    "sugars_100g": 0,
+    "salt_100g": 2.10526315789474,
+    "sodium_100g": 0.842105263157895,
+    "fiber_100g": 0,
+    "proteins_100g": 18.4210526315789,
+    "energy-kcal_serving": 150,
+    "sugars_serving": 0,
+    "salt_serving": 1.6
+  }
+}

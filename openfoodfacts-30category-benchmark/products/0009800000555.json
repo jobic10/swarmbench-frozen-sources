@@ -1,0 +1,36 @@
+{
+  "code": "0009800000555",
+  "assigned_category": "chocolate-bars",
+  "product_name": "bueno Crispy Creamy Chocolate Bar",
+  "brands": "Kinder",
+  "quantity": "1.5oz",
+  "serving_size": "2 serving (42 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:nuts"
+  ],
+  "ingredients_text": "MILK CHOCOLATE (SUGAR, COCOA BUTTER, COCOA MASS, SKIM MILK POWDER, BUTTER OIL, LECITHIN, VANILLIN), SUGAR, PALM OIL, ENRICHED FLOUR (WHEAT FLOUR, NIACIN, IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), HAZELNUTS, SKIM MILK POWDER, MILK POWDER, SEMI-SWEET CHOCOLATE (SUGAR, COCOA MASS, COCOA BUTTER, LECITHIN, VANILLIN), COCOA, LECITHIN, SODIUM BICARBONATE, SALT, VANILLIN",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 571.428571428571,
+    "fat_100g": 19.047619047619,
+    "saturated-fat_100g": 9.52380952380952,
+    "sugars_100g": 21.4285714285714,
+    "salt_100g": 0.566893424036281,
+    "sodium_100g": 0.0476190476190476,
+    "fiber_100g": 0,
+    "proteins_100g": 4.76190476190476,
+    "energy-kcal_serving": 240,
+    "sugars_serving": 9,
+    "salt_serving": 0.238
+  }
+}

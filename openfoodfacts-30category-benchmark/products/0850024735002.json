@@ -1,0 +1,30 @@
+{
+  "code": "0850024735002",
+  "assigned_category": "pasta-sauces",
+  "product_name": "Marinara",
+  "brands": "Carbone",
+  "quantity": "24 oz",
+  "serving_size": "6 1/2 cup (113 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Imported Italian Tomatoes, Whole Peeled Tomatoes, Tomato Puree, Sea Salt, Basil, Onions, Olive Oil, Sea Salt, Basil, Garlic, Oregano",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 79.646017699115,
+    "fat_100g": 6.19469026548673,
+    "saturated-fat_100g": 0.884955752212389,
+    "sugars_100g": 4.42477876106195,
+    "salt_100g": 0.907079646017699,
+    "sodium_100g": 0.36283185840708,
+    "fiber_100g": 0.884955752212389,
+    "proteins_100g": 0.884955752212389,
+    "energy-kcal_serving": 90,
+    "sugars_serving": 5,
+    "salt_serving": 1.02
+  }
+}

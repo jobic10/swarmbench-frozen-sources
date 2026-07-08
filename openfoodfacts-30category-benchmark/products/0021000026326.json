@@ -1,0 +1,37 @@
+{
+  "code": "0021000026326",
+  "assigned_category": "mayonnaise",
+  "product_name": "REAL MAYO Creamy & Smooth",
+  "brands": "Kraft",
+  "quantity": "1 pt 14 fl. oz (30 fl. oz) 887 mL",
+  "serving_size": "1 tbsp (13 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e385"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:mustard",
+    "en:soybeans",
+    "en:LEMON"
+  ],
+  "ingredients_text": "soybean oil, water,  eggs , vinegar, contains less than 2% of: sugar, salt,  egg  yolks, natural flavor (contains  mustard ), lemon juice concentrate, calcium disodium edta (to protect flavor), dried garlic, dried onions, paprika",
+  "countries_tags": [
+    "en:chile",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 642.857142857143,
+    "fat_100g": 76.9230769230769,
+    "saturated-fat_100g": 11.5384615384615,
+    "sugars_100g": 0,
+    "salt_100g": 1.34615384615385,
+    "sodium_100g": 0.538461538461539,
+    "fiber_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 83.6,
+    "sugars_serving": 0,
+    "salt_serving": 0.175
+  }
+}

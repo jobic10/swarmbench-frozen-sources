@@ -1,0 +1,41 @@
+{
+  "code": "4099100213638",
+  "assigned_category": "frozen-pizzas",
+  "product_name": "Thin crust jalapeño popper pizza",
+  "brands": "Mama cozzi's",
+  "quantity": "14.15 oz",
+  "serving_size": "1 pizza (399 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "d",
+  "additives_tags": [
+    "en:e160a",
+    "en:e160ai",
+    "en:e160b",
+    "en:e322",
+    "en:e322i",
+    "en:e330",
+    "en:e415"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "CRUST (WHEAT FLOUR, WATER, SOYBEAN OIL, PALM OIL(NATURAL FLAVOR, BETA CAROTENE), YEAST, PRESERVATIVE [CULTURED WHEAT STARCH, CITRIC ACID], DEXTROSE, SALT, WHITE CORNMEAL, L-CYSTEINE, SOY LECITHIN), SAUCE (WATER, CREAMY ROASTED GARLIC SAUCE MIX [MILK, BUTTERMILK, MODIFIED FOOD STARCH, GARLIC POWDER, SALT, MALTODEXTRIN, SOY LECITHIN, XANTHAN GUM, SPICE, NATURAL FLAVORS]), LOW MOISTURE PART-SKIM MOZZARELLA CHEESE (PASTEURIZED PART-SKIM MILK, CHEESE CULTURES, SALT, ENZYMES), CHEDDAR CHEESE (CULTURED PASTEURIZED MILK, SALT, ENZYMES, ANNATTO [COLOR]), JALAPEÑO PEPPERS, GREEN BELL PEPPERS, GREEN ONIONS, BREAD CRUMBS (WHEAT FLOUR, SUGAR, YEAST, SOYBEAN OIL, SALT)",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 218.045112781955,
+    "fat_100g": 9.27318295739348,
+    "saturated-fat_100g": 5.26315789473684,
+    "sugars_100g": 2.00501253132832,
+    "salt_100g": 1.03383458646617,
+    "sodium_100g": 0.413533834586466,
+    "fiber_100g": 1.00250626566416,
+    "proteins_100g": 11.0275689223058,
+    "energy-kcal_serving": 870,
+    "sugars_serving": 8,
+    "salt_serving": 4.12
+  }
+}

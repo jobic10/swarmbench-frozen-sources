@@ -1,0 +1,29 @@
+{
+  "code": "0889392000313",
+  "assigned_category": "energy-drinks",
+  "product_name": "SPARKLING ORANGE",
+  "brands": "CELSIUS",
+  "quantity": "12 FL OZ (355mL)",
+  "serving_size": "12 fl oz (12 fl oz)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e330",
+    "en:e955"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "Carbonated Filtered Water, Citric Acid, Taurine, Guarana Seed Extract, Caffeine, Green Tea Extract, Sucralose, Calcium Carbonate, Ascorbic Acid, Glucuronolactone, Ginger Root Extract, Calcium Pantothenate, Niacinamide, Natural Flavor, Pyridoxine Hydrochloride, Riboflavin, Chromium Chelate, Biotin, Beta-Carotene, Cyanocobalamin",
+  "countries_tags": [
+    "en:spain",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 0,
+    "fat_100g": 0,
+    "salt_100g": 0.00704459510485175,
+    "sodium_100g": 0.0028178380419407,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 0,
+    "salt_serving": 0.025
+  }
+}

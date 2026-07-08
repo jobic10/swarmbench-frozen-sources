@@ -1,0 +1,35 @@
+{
+  "code": "0818290015365",
+  "assigned_category": "fruit-yogurts",
+  "product_name": "Mango Chobani",
+  "brands": "Chobani",
+  "quantity": "190 g",
+  "serving_size": "1 container (190 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e410",
+    "en:e412",
+    "en:e440"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Cultured lowfat milk, water, mangoes, less than 2% of: natural flavors, lactase**, fruit pectin, vegetable juice (for color), sea salt, stevia extract, guar gum, locust bean gum, lemon juice concentrate, S. Thermophilus, L. Bulgaricus, L. Acidophilus, Bifidus, L. Casei, and L. Rhamnosus",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 73.6842105263158,
+    "fat_100g": 1.58,
+    "saturated-fat_100g": 1.05,
+    "sugars_100g": 3.68,
+    "salt_100g": 0.13815,
+    "sodium_100g": 0.05526,
+    "fiber_100g": 0.53,
+    "proteins_100g": 10.53,
+    "energy-kcal_serving": 140,
+    "sugars_serving": 6.99,
+    "salt_serving": 0.262
+  }
+}

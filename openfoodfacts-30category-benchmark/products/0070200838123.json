@@ -1,0 +1,34 @@
+{
+  "code": "0070200838123",
+  "assigned_category": "salad-dressings",
+  "product_name": "Signature Italian Dressing",
+  "brands": "Olive Garden",
+  "quantity": "",
+  "serving_size": "1 serving (30 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e415"
+  ],
+  "allergens_tags": [
+    "en:eggs",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Water, soybean oil, distilled vinegar, high fructose corn syrup, salt, egg, romano cheese (milk, salt, cultures, enzymes), dehydrated garlic, sugar, spices, xanthan gum, dextrose, calcium disodium edta added to protect flavor, annatto color, natural flavors.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 266.666666666667,
+    "fat_100g": 26.6666666666667,
+    "saturated-fat_100g": 4.84,
+    "sugars_100g": 6.45,
+    "salt_100g": 4.5,
+    "sodium_100g": 1.8,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 80,
+    "sugars_serving": 1.94,
+    "salt_serving": 1.35
+  }
+}

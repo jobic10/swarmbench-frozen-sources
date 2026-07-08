@@ -1,0 +1,32 @@
+{
+  "code": "0602652171864",
+  "assigned_category": "muesli",
+  "product_name": "Oats & Honey With Toasted Coconut",
+  "brands": "KIND",
+  "quantity": "",
+  "serving_size": "1 portion (30 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "c",
+  "additives_tags": [],
+  "allergens_tags": [
+    "en:gluten"
+  ],
+  "ingredients_text": "Oats, tapioca syrup, cane sugar, brown rice, honey, millet, oat flour, coconut, canola oil, buckwheat, amaranth, molasses, quinoa, brown rice syrup, sea salt, Vitamin E (tocopherols to maintain freshness)",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 384.615384615385,
+    "fat_100g": 8.33333333333333,
+    "saturated-fat_100g": 3.33333333333333,
+    "sugars_100g": 16.6666666666667,
+    "salt_100g": 0.125,
+    "sodium_100g": 0.0606666666666667,
+    "fiber_100g": 6.66666666666667,
+    "proteins_100g": 6.66666666666667,
+    "energy-kcal_serving": 115,
+    "sugars_serving": 5,
+    "salt_serving": 0.0375
+  }
+}

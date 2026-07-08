@@ -1,0 +1,38 @@
+{
+  "code": "8801073211254",
+  "assigned_category": "instant-noodles",
+  "product_name": "Buldak Artificial Spicy Chicken Flavor Ramen",
+  "brands": "Samyang",
+  "quantity": "70g",
+  "serving_size": "1 portion (70 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "unknown",
+  "additives_tags": [
+    "en:e422",
+    "en:e627",
+    "en:e631"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:sesame-seeds",
+    "en:soybeans"
+  ],
+  "ingredients_text": "enriched flour, wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid, vegetable oil, food starch-modified, palm oil, wheat gluten, salt, glycerin, yeast, color, sauce: water, cheese sauce, mozzarella cheese, milk, cheese cultures, salt, enzymes, whey, yeast extract, water, skim milk powder, sugar, soy sauce powder, soybeans, wheat, salt, garlic powder, artificial chicken flavor powder, maltodextrin, hydrolyzed soy protein, hydrolyzed corn protein, hydrolyzed wheat protein, onion, garlic, chili pepper oleoresin, color, flavor, disodium inosinate, disodium guanylate, sesame seeds, sesame oil, milk, cream",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 409,
+    "fat_100g": 13,
+    "saturated-fat_100g": 5.4,
+    "sugars_100g": 4.5,
+    "salt_100g": 2.5575,
+    "sodium_100g": 1.023,
+    "fiber_100g": 2.2,
+    "proteins_100g": 9,
+    "energy-kcal_serving": 286,
+    "sugars_serving": 3.15,
+    "salt_serving": 1.79
+  }
+}

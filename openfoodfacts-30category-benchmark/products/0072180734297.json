@@ -1,0 +1,38 @@
+{
+  "code": "0072180734297",
+  "assigned_category": "frozen-pizzas",
+  "product_name": "Pepperoni Pizza",
+  "brands": "Sabatasso's",
+  "quantity": "",
+  "serving_size": "1 portion (105 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e160b",
+    "en:e322",
+    "en:e322i",
+    "en:e517"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:soybeans"
+  ],
+  "ingredients_text": "CHEESES (LOW MOISTURE PART SKIM MOZZARELLA AND PARMESAN CHEESES [PART SKIM MILK, CHEESE CULTURES, SALT, ENZYMES], CHEDDAR CHEESE [MILK, CHEESE CULTURES, SALT, ENZYMES, ANNÁTTO (COLOR)]), PROVOLONE CHEESE [MILK, CHEESE CULTURES, SALT, ENZYMES]), ENRICHED FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, TOMATO PASTE, VEGETABLE OIL (SOYBEAN AND/OR CANOLA OIL), PALM OIL, CONTAINS 2% OR LESS OF: SUGAR, SALT, YEAST, MODIFIED FOOD STARCH, SPICE, MALTODEXTRIN, DRIED GARLIC, NATURAL FLAVOR, HYDROLYZED SOY AND CORN PROTEIN, PAPRIKA, DRIED ONION, WHEAT STARCH, L-CYSTEINE HYDROCHLORIDE, AMMONIUM SULFATE, DEFATTED SOY FLOUR, ANNATTO (COLOR), SOY LECITHIN",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 295.238095238095,
+    "fat_100g": 17.1428571428571,
+    "saturated-fat_100g": 7.61904761904762,
+    "sugars_100g": 5.71428571428571,
+    "salt_100g": 1.76190476190476,
+    "sodium_100g": 0.704761904761905,
+    "fiber_100g": 0.952380952380952,
+    "proteins_100g": 12.3809523809524,
+    "energy-kcal_serving": 310,
+    "sugars_serving": 6,
+    "salt_serving": 1.85
+  }
+}

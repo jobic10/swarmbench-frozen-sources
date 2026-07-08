@@ -1,0 +1,36 @@
+{
+  "code": "0894700010052",
+  "assigned_category": "fruit-yogurts",
+  "product_name": "Greek Yogurt Blueberry on the Bottom",
+  "brands": "Chobani",
+  "quantity": "5.3 oz",
+  "serving_size": "1 serving (150 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "a",
+  "additives_tags": [
+    "en:e410",
+    "en:e412",
+    "en:e440"
+  ],
+  "allergens_tags": [
+    "en:milk"
+  ],
+  "ingredients_text": "Cultured pasteurized nonfat milk, blueberries, cane sugar, water, fruit pectin, natural flavor, guar gum, locust bean gum, lemon juice concentrate, s. thermophilus, l. bulgaricus, l. acidophilus, bifidus and l. casei.",
+  "countries_tags": [
+    "en:mexico",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 73.3333333333333,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 9.33333333333333,
+    "salt_100g": 0.0916666666666667,
+    "sodium_100g": 0.0366666666666667,
+    "fiber_100g": 0.66,
+    "proteins_100g": 8,
+    "energy-kcal_serving": 110,
+    "sugars_serving": 14,
+    "salt_serving": 0.138
+  }
+}

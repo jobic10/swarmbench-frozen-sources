@@ -1,0 +1,30 @@
+{
+  "code": "5602132651256",
+  "assigned_category": "honey",
+  "product_name": "Pure Honey from Portugal with Doser",
+  "brands": "Serramel",
+  "quantity": "17.6 oz / 500 g",
+  "serving_size": "1 table spoon / 21 g",
+  "nova_group": 2,
+  "nutriscore_grade": "e",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "",
+  "countries_tags": [
+    "en:france",
+    "en:portugal",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 304,
+    "fat_100g": 0,
+    "saturated-fat_100g": 0,
+    "sugars_100g": 81,
+    "salt_100g": 0,
+    "sodium_100g": 0,
+    "proteins_100g": 0,
+    "energy-kcal_serving": 63.8,
+    "sugars_serving": 17,
+    "salt_serving": 0
+  }
+}

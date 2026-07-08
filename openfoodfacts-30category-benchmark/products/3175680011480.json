@@ -1,0 +1,44 @@
+{
+  "code": "3175680011480",
+  "assigned_category": "sweet-biscuits",
+  "product_name": "Sésame",
+  "brands": "Gerblé",
+  "quantity": "230 g",
+  "serving_size": "11.5g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e322",
+    "en:e336",
+    "en:e500",
+    "en:e503"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:sesame-seeds"
+  ],
+  "ingredients_text": "Farine de blé 57%, sucre de canne roux, huile de colza, sésame toasté 10,6%, germe de blé 5,4%, farine complète de blé 5,4%, arôme naturel, magnésium, émulsifiant : lécithines, poudres à lever (tartrates de potassium, carbonates de sodium, carbonates d'ammonium), sel de mer, amidon de blé, vitamines (E, PP, B6, B1, B9).\r\n\r\nFabriqué dans un atelier qui utilise des fruits à coque, du lait, du lupin, de la moutarde, des oeufs et du soja",
+  "countries_tags": [
+    "en:belgium",
+    "en:bulgaria",
+    "en:france",
+    "en:germany",
+    "en:morocco",
+    "en:reunion",
+    "en:switzerland",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 467,
+    "fat_100g": 18,
+    "saturated-fat_100g": 2,
+    "sugars_100g": 17,
+    "salt_100g": 0.38,
+    "sodium_100g": 0.152,
+    "fiber_100g": 4.6,
+    "proteins_100g": 10,
+    "energy-kcal_serving": 53.7,
+    "sugars_serving": 1.96,
+    "salt_serving": 0.0437
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "code": "0871459001524",
+  "assigned_category": "frozen-pizzas",
+  "product_name": "Fire-Roasted Vegetable Gluten-Free Thin Crust Pizza",
+  "brands": "Daiya",
+  "quantity": "17.4 oz",
+  "serving_size": "1 portion (123 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e270",
+    "en:e410",
+    "en:e415"
+  ],
+  "allergens_tags": [],
+  "ingredients_text": "GLUTEN-FREE CRUST (WATER, TAPIOCA STARCH,\nRICE FLOUR, POTATO STARCH, CHICKPEA FLOUR, MILLED FLAXSEED,\nRICE STARCH, OLIVE OIL, CANE SUGAR, YEAST, INULIN, PSYLLIUM, SALT,\nXANTHAN GUM, LOCUST BEAN GUM), TOMATO SAUCE (WATER, TOMATO\nPASTE, OLIVE OIL, SALT, SPICES, GARLIC POWDER), DAIRY-FREE\nMOZZARELLA SHREDS (DAIYA OAT CREAM™ BLEND (WATER,\nGLUTEN-FREE OAT FLOUR, PEA PROTEIN), TAPIOCA STARCH, COCONUT\nOIL, SAFFLOWER OIL, CALCIUM PHOSPHATE, NATURAL FLAVORS, CORN\nSTARCH, SALT, DEXTROSE, LACTIC ACID, YEAST EXTRACT), BELL PEPPERS,\nTOMATO, ONION, BASIL, ROASTED GARLIC, CALCIUM CHLORIDE.\nCONTAINS GLUTEN-FREE CERTIFIED OAT.",
+  "countries_tags": [
+    "en:united-states",
+    "en:world"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 211.382113821138,
+    "fat_100g": 8.13008130081301,
+    "saturated-fat_100g": 3.2520325203252,
+    "sugars_100g": 2.4390243902439,
+    "salt_100g": 0.853658536585366,
+    "sodium_100g": 0.341463414634146,
+    "fiber_100g": 2.4390243902439,
+    "proteins_100g": 2.4390243902439,
+    "energy-kcal_serving": 260,
+    "sugars_serving": 3,
+    "salt_serving": 1.05
+  }
+}

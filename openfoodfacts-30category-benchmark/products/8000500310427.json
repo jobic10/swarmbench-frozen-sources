@@ -1,0 +1,52 @@
+{
+  "code": "8000500310427",
+  "assigned_category": "sweet-biscuits",
+  "product_name": "Biscuits NUTELLA Biscuits Noisettes et Cacao x22 - 304g",
+  "brands": "Nutella, Nutella biscuits",
+  "quantity": "304 g",
+  "serving_size": "13.8 g",
+  "nova_group": 4,
+  "nutriscore_grade": "e",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e450",
+    "en:e450i",
+    "en:e500",
+    "en:e500ii",
+    "en:e503",
+    "en:e503ii"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk",
+    "en:nuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "Pâte à tartiner aux NOISETTES et au cacao 40% (sucre, huile de palme, NOISETTES 13%**, LAIT écrémé en poudre 8,7%**, cacao maigre 7,4%**, émulsifiants : lécithines [SOJA]; vanilline), farine de FROMENT 32,5%, graisses végétales (palme, palmiste), sucre de canne (contient BLE) 8,5%, LACTOSE, son de BLE, LAIT en poudre, miel, poudres à lever (diphosphate disodique, carbonate acide de sodium, carbonate acide d'ammonium), farine d'ORGE malté, cacao maigre en poudre, sel, extrait en poudre de malt d'ORGE et de maïs, amidon de FROMENT, émulsifiants: lécithines [SOJA]; vanilline.",
+  "countries_tags": [
+    "en:algeria",
+    "en:france",
+    "en:germany",
+    "en:greece",
+    "en:italy",
+    "en:morocco",
+    "en:portugal",
+    "en:romania",
+    "en:spain",
+    "en:switzerland",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 515,
+    "fat_100g": 24.8,
+    "saturated-fat_100g": 11.5,
+    "sugars_100g": 35.8,
+    "salt_100g": 0.559,
+    "sodium_100g": 0.2236,
+    "proteins_100g": 7.9,
+    "energy-kcal_serving": 71.1,
+    "sugars_serving": 4.94,
+    "salt_serving": 0.0771
+  }
+}

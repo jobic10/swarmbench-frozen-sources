@@ -1,0 +1,29 @@
+{
+  "code": "0220017009685",
+  "assigned_category": "hard-cheese",
+  "product_name": "Le Gruyere",
+  "brands": "Mifroma",
+  "quantity": "",
+  "serving_size": "1 ONZ (28 g)",
+  "nova_group": 3,
+  "nutriscore_grade": "d",
+  "additives_tags": [],
+  "allergens_tags": [],
+  "ingredients_text": "Fresh part-skim cow's milk, cheese culture, salt and enzymes.",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 429,
+    "fat_100g": 32.14,
+    "saturated-fat_100g": 21.43,
+    "sugars_100g": 0,
+    "salt_100g": 1.4275,
+    "sodium_100g": 0.571,
+    "fiber_100g": 0,
+    "proteins_100g": 28.57,
+    "energy-kcal_serving": 120,
+    "sugars_serving": 0,
+    "salt_serving": 0.4
+  }
+}

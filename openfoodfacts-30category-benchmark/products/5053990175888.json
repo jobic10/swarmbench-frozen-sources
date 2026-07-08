@@ -1,0 +1,46 @@
+{
+  "code": "5053990175888",
+  "assigned_category": "potato-chips",
+  "product_name": "Pringles hot cheese",
+  "brands": "Pringles",
+  "quantity": "160g",
+  "serving_size": "47 g",
+  "nova_group": 4,
+  "nutriscore_grade": "c",
+  "additives_tags": [
+    "en:e160b",
+    "en:e160bii",
+    "en:e160c",
+    "en:e270",
+    "en:e327",
+    "en:e471",
+    "en:e508",
+    "en:e621",
+    "en:e635"
+  ],
+  "allergens_tags": [
+    "en:gluten",
+    "en:milk"
+  ],
+  "ingredients_text": "Pommes de terre déshydratées, huile de tournesol, farine de maïs, farine de blé, assaisonnement (lactose {lait}, babeurre en poudre {lait}, arômes, sel, exhausteurs de goût {glutamate monosodique, 5'-ribonucléotide disodique}, chlorure de potassium, dextrose, fromage en poudre {lait}, sucre, épices {piment, poivre blanc}, ail en poudre, acidifiant {acide lactique}, extrait de levure, correcteur d'acidité {lactate de calcium}, maltodextrine, huile de tournesol, amidon de maïs, colorant {extrait de paprika}), farine de riz, maltodextrine, émulsifiant (E471), huile de colza, colorant (norbixine de rocou).",
+  "countries_tags": [
+    "en:france",
+    "en:germany",
+    "en:morocco",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 521,
+    "fat_100g": 30,
+    "saturated-fat_100g": 2.9,
+    "sugars_100g": 3.4,
+    "salt_100g": 0.59,
+    "sodium_100g": 0.236,
+    "fiber_100g": 4.1,
+    "proteins_100g": 6.6,
+    "energy-kcal_serving": 245,
+    "sugars_serving": 1.6,
+    "salt_serving": 0.277
+  }
+}

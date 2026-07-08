@@ -1,0 +1,39 @@
+{
+  "code": "0096619160754",
+  "assigned_category": "protein-bars",
+  "product_name": "Chewy Protein Bar Peanut Butter Chocolate",
+  "brands": "Kirkland Signature",
+  "quantity": "1.41 oz",
+  "serving_size": "1 bar (40 g)",
+  "nova_group": 4,
+  "nutriscore_grade": "not-applicable",
+  "additives_tags": [
+    "en:e322",
+    "en:e322i",
+    "en:e414",
+    "en:e422"
+  ],
+  "allergens_tags": [
+    "en:milk",
+    "en:nuts",
+    "en:peanuts",
+    "en:soybeans"
+  ],
+  "ingredients_text": "PEANUTS, ISOLATED SOY PROTEIN (ISOLATED SOY PROTEIN, TAPIOCA STARCH, SALT), CHICORY ROOT EXTRACT, DARK CHOCOLATE FLAVORED COATING (SUGAR, PALM KERNEL OIL, COCOA POWDER, DRY WHOLE MILK, SOY LECITHIN, SALT), PEANUT BUTTER, SEMISWEET CHOCOLATE CHIPS (SUGAR, CHOCOLATE LIQUOR, COCOA BUTTER, SOY LECITHIN, SALT, VANILLA EXTRACT), VEGETABLE GLYCERIN, CORN SYRUP, ISOLATED SOY PROTEIN, GUM ARABIC, CHICORY ROOT INULIN, MALTODEXTRIN, SEA SALT, SOY LECITHIN, DRIED UNSWEETENED COCONUT, ALMONDS, NATURAL FLAVOR, ALMOND BUTTER",
+  "countries_tags": [
+    "en:united-states"
+  ],
+  "nutriments": {
+    "energy-kcal_100g": 475,
+    "fat_100g": 27.5,
+    "saturated-fat_100g": 7.5,
+    "sugars_100g": 15,
+    "salt_100g": 0.00075,
+    "sodium_100g": 0.0003,
+    "fiber_100g": 15,
+    "proteins_100g": 25,
+    "energy-kcal_serving": 190,
+    "sugars_serving": 6,
+    "salt_serving": 0.0003
+  }
+}
