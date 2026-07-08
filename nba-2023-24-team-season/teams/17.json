@@ -1,0 +1,23 @@
+{
+  "id": "17",
+  "name": "Brooklyn Nets",
+  "abbrev": "BKN",
+  "location": "Brooklyn",
+  "nickname": "Nets",
+  "wins": 32.0,
+  "losses": 50.0,
+  "win_pct": 0.3902439,
+  "points_for": 9051.0,
+  "points_against": 9287.0,
+  "avg_points_for": 110.37805,
+  "avg_points_against": 113.256096,
+  "point_differential": -236.0,
+  "avg_differential": -2.8999999999999915,
+  "playoff_seed": 11.0,
+  "home_record": "20-21",
+  "road_record": "12-29",
+  "last_ten": "5-5",
+  "streak": "L2",
+  "division_record": "5-11",
+  "conference_record": "24-28"
+}

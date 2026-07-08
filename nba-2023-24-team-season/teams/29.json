@@ -1,0 +1,23 @@
+{
+  "id": "29",
+  "name": "Memphis Grizzlies",
+  "abbrev": "MEM",
+  "location": "Memphis",
+  "nickname": "Grizzlies",
+  "wins": 27.0,
+  "losses": 55.0,
+  "win_pct": 0.3292683,
+  "points_for": 8677.0,
+  "points_against": 9251.0,
+  "avg_points_for": 105.81707,
+  "avg_points_against": 112.81707,
+  "point_differential": -574.0,
+  "avg_differential": -7.0,
+  "playoff_seed": 13.0,
+  "home_record": "9-32",
+  "road_record": "18-23",
+  "last_ten": "3-7",
+  "streak": "L5",
+  "division_record": "8-8",
+  "conference_record": "14-37"
+}

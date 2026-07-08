@@ -1,0 +1,23 @@
+{
+  "id": "16",
+  "name": "Minnesota Timberwolves",
+  "abbrev": "MIN",
+  "location": "Minnesota",
+  "nickname": "Timberwolves",
+  "wins": 56.0,
+  "losses": 26.0,
+  "win_pct": 0.68292683,
+  "points_for": 9264.0,
+  "points_against": 8735.0,
+  "avg_points_for": 112.97561,
+  "avg_points_against": 106.52439,
+  "point_differential": 529.0,
+  "avg_differential": 6.5,
+  "playoff_seed": 3.0,
+  "home_record": "30-11",
+  "road_record": "26-15",
+  "last_ten": "6-4",
+  "streak": "L1",
+  "division_record": "12-4",
+  "conference_record": "37-15"
+}

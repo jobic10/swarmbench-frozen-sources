@@ -1,0 +1,23 @@
+{
+  "id": "3",
+  "name": "New Orleans Pelicans",
+  "abbrev": "NO",
+  "location": "New Orleans",
+  "nickname": "Pelicans",
+  "wins": 49.0,
+  "losses": 33.0,
+  "win_pct": 0.597561,
+  "points_for": 9436.0,
+  "points_against": 9074.0,
+  "avg_points_for": 115.07317,
+  "avg_points_against": 110.65854,
+  "point_differential": 362.0,
+  "avg_differential": 4.3999999999999915,
+  "playoff_seed": 8.0,
+  "home_record": "21-19",
+  "road_record": "28-14",
+  "last_ten": "5-5",
+  "streak": "L1",
+  "division_record": "9-7",
+  "conference_record": "30-22"
+}

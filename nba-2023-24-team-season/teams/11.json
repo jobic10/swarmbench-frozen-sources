@@ -1,0 +1,23 @@
+{
+  "id": "11",
+  "name": "Indiana Pacers",
+  "abbrev": "IND",
+  "location": "Indiana",
+  "nickname": "Pacers",
+  "wins": 47.0,
+  "losses": 35.0,
+  "win_pct": 0.5731707,
+  "points_for": 10110.0,
+  "points_against": 9860.0,
+  "avg_points_for": 123.29269,
+  "avg_points_against": 120.243904,
+  "point_differential": 250.0,
+  "avg_differential": 3.0999999999999943,
+  "playoff_seed": 6.0,
+  "home_record": "26-15",
+  "road_record": "21-20",
+  "last_ten": "7-3",
+  "streak": "W1",
+  "division_record": "11-6",
+  "conference_record": "32-20"
+}

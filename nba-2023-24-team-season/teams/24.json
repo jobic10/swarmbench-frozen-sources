@@ -1,0 +1,23 @@
+{
+  "id": "24",
+  "name": "San Antonio Spurs",
+  "abbrev": "SA",
+  "location": "San Antonio",
+  "nickname": "Spurs",
+  "wins": 22.0,
+  "losses": 60.0,
+  "win_pct": 0.2682927,
+  "points_for": 9192.0,
+  "points_against": 9724.0,
+  "avg_points_for": 112.097565,
+  "avg_points_against": 118.585365,
+  "point_differential": -532.0,
+  "avg_differential": -6.5,
+  "playoff_seed": 14.0,
+  "home_record": "12-29",
+  "road_record": "10-31",
+  "last_ten": "6-4",
+  "streak": "W2",
+  "division_record": "3-13",
+  "conference_record": "14-37"
+}

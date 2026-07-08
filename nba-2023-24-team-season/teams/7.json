@@ -1,0 +1,23 @@
+{
+  "id": "7",
+  "name": "Denver Nuggets",
+  "abbrev": "DEN",
+  "location": "Denver",
+  "nickname": "Nuggets",
+  "wins": 57.0,
+  "losses": 25.0,
+  "win_pct": 0.69512194,
+  "points_for": 9418.0,
+  "points_against": 8987.0,
+  "avg_points_for": 114.85366,
+  "avg_points_against": 109.597565,
+  "point_differential": 431.0,
+  "avg_differential": 5.300000000000011,
+  "playoff_seed": 2.0,
+  "home_record": "33-8",
+  "road_record": "24-17",
+  "last_ten": "6-4",
+  "streak": "W1",
+  "division_record": "10-6",
+  "conference_record": "33-19"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "21",
+  "name": "Phoenix Suns",
+  "abbrev": "PHX",
+  "location": "Phoenix",
+  "nickname": "Suns",
+  "wins": 49.0,
+  "losses": 33.0,
+  "win_pct": 0.597561,
+  "points_for": 9532.0,
+  "points_against": 9281.0,
+  "avg_points_for": 116.243904,
+  "avg_points_against": 113.18293,
+  "point_differential": 251.0,
+  "avg_differential": 3.0,
+  "playoff_seed": 6.0,
+  "home_record": "25-16",
+  "road_record": "24-17",
+  "last_ten": "7-3",
+  "streak": "W3",
+  "division_record": "9-9",
+  "conference_record": "29-23"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5",
+  "name": "Cleveland Cavaliers",
+  "abbrev": "CLE",
+  "location": "Cleveland",
+  "nickname": "Cavaliers",
+  "wins": 48.0,
+  "losses": 34.0,
+  "win_pct": 0.58536583,
+  "points_for": 9236.0,
+  "points_against": 9038.0,
+  "avg_points_for": 112.63415,
+  "avg_points_against": 110.21951,
+  "point_differential": 198.0,
+  "avg_differential": 2.3999999999999915,
+  "playoff_seed": 4.0,
+  "home_record": "26-15",
+  "road_record": "22-19",
+  "last_ten": "4-6",
+  "streak": "L1",
+  "division_record": "11-5",
+  "conference_record": "31-21"
+}

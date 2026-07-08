@@ -1,0 +1,23 @@
+{
+  "id": "18",
+  "name": "New York Knicks",
+  "abbrev": "NY",
+  "location": "New York",
+  "nickname": "Knicks",
+  "wins": 50.0,
+  "losses": 32.0,
+  "win_pct": 0.6097561,
+  "points_for": 9249.0,
+  "points_against": 8873.0,
+  "avg_points_for": 112.79269,
+  "avg_points_against": 108.20731,
+  "point_differential": 376.0,
+  "avg_differential": 4.599999999999994,
+  "playoff_seed": 2.0,
+  "home_record": "27-14",
+  "road_record": "23-18",
+  "last_ten": "6-4",
+  "streak": "W5",
+  "division_record": "12-5",
+  "conference_record": "35-17"
+}

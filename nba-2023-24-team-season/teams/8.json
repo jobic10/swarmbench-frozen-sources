@@ -1,0 +1,23 @@
+{
+  "id": "8",
+  "name": "Detroit Pistons",
+  "abbrev": "DET",
+  "location": "Detroit",
+  "nickname": "Pistons",
+  "wins": 14.0,
+  "losses": 68.0,
+  "win_pct": 0.17073171,
+  "points_for": 9010.0,
+  "points_against": 9757.0,
+  "avg_points_for": 109.87805,
+  "avg_points_against": 118.98781,
+  "point_differential": -747.0,
+  "avg_differential": -9.099999999999994,
+  "playoff_seed": 15.0,
+  "home_record": "7-33",
+  "road_record": "7-35",
+  "last_ten": "2-8",
+  "streak": "L1",
+  "division_record": "2-14",
+  "conference_record": "10-41"
+}

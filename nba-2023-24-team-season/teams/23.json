@@ -1,0 +1,23 @@
+{
+  "id": "23",
+  "name": "Sacramento Kings",
+  "abbrev": "SAC",
+  "location": "Sacramento",
+  "nickname": "Kings",
+  "wins": 46.0,
+  "losses": 36.0,
+  "win_pct": 0.5609756,
+  "points_for": 9558.0,
+  "points_against": 9415.0,
+  "avg_points_for": 116.560974,
+  "avg_points_against": 114.81707,
+  "point_differential": 143.0,
+  "avg_differential": 1.7999999999999972,
+  "playoff_seed": 9.0,
+  "home_record": "24-17",
+  "road_record": "22-19",
+  "last_ten": "4-6",
+  "streak": "W1",
+  "division_record": "10-7",
+  "conference_record": "30-22"
+}

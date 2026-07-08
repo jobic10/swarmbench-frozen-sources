@@ -1,0 +1,23 @@
+{
+  "id": "28",
+  "name": "Toronto Raptors",
+  "abbrev": "TOR",
+  "location": "Toronto",
+  "nickname": "Raptors",
+  "wins": 25.0,
+  "losses": 57.0,
+  "win_pct": 0.30487806,
+  "points_for": 9213.0,
+  "points_against": 9741.0,
+  "avg_points_for": 112.35366,
+  "avg_points_against": 118.79269,
+  "point_differential": -528.0,
+  "avg_differential": -6.3999999999999915,
+  "playoff_seed": 12.0,
+  "home_record": "14-27",
+  "road_record": "11-30",
+  "last_ten": "2-8",
+  "streak": "L4",
+  "division_record": "1-15",
+  "conference_record": "18-34"
+}

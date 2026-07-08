@@ -1,0 +1,23 @@
+{
+  "id": "19",
+  "name": "Orlando Magic",
+  "abbrev": "ORL",
+  "location": "Orlando",
+  "nickname": "Magic",
+  "wins": 47.0,
+  "losses": 35.0,
+  "win_pct": 0.5731707,
+  "points_for": 9058.0,
+  "points_against": 8893.0,
+  "avg_points_for": 110.46342,
+  "avg_points_against": 108.45122,
+  "point_differential": 165.0,
+  "avg_differential": 2.0,
+  "playoff_seed": 5.0,
+  "home_record": "29-12",
+  "road_record": "18-23",
+  "last_ten": "5-5",
+  "streak": "W1",
+  "division_record": "9-7",
+  "conference_record": "32-20"
+}

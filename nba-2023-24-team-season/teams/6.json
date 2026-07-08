@@ -1,0 +1,23 @@
+{
+  "id": "6",
+  "name": "Dallas Mavericks",
+  "abbrev": "DAL",
+  "location": "Dallas",
+  "nickname": "Mavericks",
+  "wins": 50.0,
+  "losses": 32.0,
+  "win_pct": 0.6097561,
+  "points_for": 9664.0,
+  "points_against": 9483.0,
+  "avg_points_for": 117.85366,
+  "avg_points_against": 115.64634,
+  "point_differential": 181.0,
+  "avg_differential": 2.3000000000000114,
+  "playoff_seed": 5.0,
+  "home_record": "25-16",
+  "road_record": "25-16",
+  "last_ten": "7-3",
+  "streak": "L2",
+  "division_record": "11-5",
+  "conference_record": "31-21"
+}

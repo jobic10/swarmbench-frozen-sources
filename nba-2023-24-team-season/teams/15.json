@@ -1,0 +1,23 @@
+{
+  "id": "15",
+  "name": "Milwaukee Bucks",
+  "abbrev": "MIL",
+  "location": "Milwaukee",
+  "nickname": "Bucks",
+  "wins": 49.0,
+  "losses": 33.0,
+  "win_pct": 0.597561,
+  "points_for": 9756.0,
+  "points_against": 9541.0,
+  "avg_points_for": 118.97561,
+  "avg_points_against": 116.35366,
+  "point_differential": 215.0,
+  "avg_differential": 2.5999999999999943,
+  "playoff_seed": 3.0,
+  "home_record": "31-11",
+  "road_record": "18-22",
+  "last_ten": "3-7",
+  "streak": "L2",
+  "division_record": "10-7",
+  "conference_record": "34-18"
+}

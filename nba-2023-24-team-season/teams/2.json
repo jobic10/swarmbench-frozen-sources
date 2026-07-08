@@ -1,0 +1,23 @@
+{
+  "id": "2",
+  "name": "Boston Celtics",
+  "abbrev": "BOS",
+  "location": "Boston",
+  "nickname": "Celtics",
+  "wins": 64.0,
+  "losses": 18.0,
+  "win_pct": 0.7804878,
+  "points_for": 9887.0,
+  "points_against": 8957.0,
+  "avg_points_for": 120.57317,
+  "avg_points_against": 109.231705,
+  "point_differential": 930.0,
+  "avg_differential": 11.399999999999991,
+  "playoff_seed": 1.0,
+  "home_record": "37-4",
+  "road_record": "27-14",
+  "last_ten": "7-3",
+  "streak": "W2",
+  "division_record": "15-2",
+  "conference_record": "41-11"
+}

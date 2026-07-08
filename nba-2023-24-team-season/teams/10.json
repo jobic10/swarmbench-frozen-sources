@@ -1,0 +1,23 @@
+{
+  "id": "10",
+  "name": "Houston Rockets",
+  "abbrev": "HOU",
+  "location": "Houston",
+  "nickname": "Rockets",
+  "wins": 41.0,
+  "losses": 41.0,
+  "win_pct": 0.5,
+  "points_for": 9375.0,
+  "points_against": 9283.0,
+  "avg_points_for": 114.32927,
+  "avg_points_against": 113.20731,
+  "point_differential": 92.0,
+  "avg_differential": 1.0999999999999943,
+  "playoff_seed": 11.0,
+  "home_record": "27-14",
+  "road_record": "14-27",
+  "last_ten": "4-6",
+  "streak": "W2",
+  "division_record": "9-7",
+  "conference_record": "28-24"
+}

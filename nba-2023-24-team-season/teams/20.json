@@ -1,0 +1,23 @@
+{
+  "id": "20",
+  "name": "Philadelphia 76ers",
+  "abbrev": "PHI",
+  "location": "Philadelphia",
+  "nickname": "76ers",
+  "wins": 47.0,
+  "losses": 35.0,
+  "win_pct": 0.5731707,
+  "points_for": 9395.0,
+  "points_against": 9147.0,
+  "avg_points_for": 114.57317,
+  "avg_points_against": 111.54878,
+  "point_differential": 248.0,
+  "avg_differential": 3.0999999999999943,
+  "playoff_seed": 7.0,
+  "home_record": "25-16",
+  "road_record": "22-19",
+  "last_ten": "8-2",
+  "streak": "W8",
+  "division_record": "8-8",
+  "conference_record": "31-21"
+}

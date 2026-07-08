@@ -1,0 +1,23 @@
+{
+  "id": "30",
+  "name": "Charlotte Hornets",
+  "abbrev": "CHA",
+  "location": "Charlotte",
+  "nickname": "Hornets",
+  "wins": 21.0,
+  "losses": 61.0,
+  "win_pct": 0.25609756,
+  "points_for": 8740.0,
+  "points_against": 9580.0,
+  "avg_points_for": 106.585365,
+  "avg_points_against": 116.82927,
+  "point_differential": -840.0,
+  "avg_differential": -10.200000000000003,
+  "playoff_seed": 13.0,
+  "home_record": "11-30",
+  "road_record": "10-31",
+  "last_ten": "3-7",
+  "streak": "W1",
+  "division_record": "6-10",
+  "conference_record": "14-38"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9",
+  "name": "Golden State Warriors",
+  "abbrev": "GS",
+  "location": "Golden State",
+  "nickname": "Warriors",
+  "wins": 46.0,
+  "losses": 36.0,
+  "win_pct": 0.5609756,
+  "points_for": 9657.0,
+  "points_against": 9443.0,
+  "avg_points_for": 117.768295,
+  "avg_points_against": 115.15854,
+  "point_differential": 214.0,
+  "avg_differential": 2.5999999999999943,
+  "playoff_seed": 10.0,
+  "home_record": "21-20",
+  "road_record": "25-16",
+  "last_ten": "8-2",
+  "streak": "W1",
+  "division_record": "7-9",
+  "conference_record": "26-26"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "12",
+  "name": "LA Clippers",
+  "abbrev": "LAC",
+  "location": "LA",
+  "nickname": "Clippers",
+  "wins": 51.0,
+  "losses": 31.0,
+  "win_pct": 0.6219512,
+  "points_for": 9481.0,
+  "points_against": 9212.0,
+  "avg_points_for": 115.62195,
+  "avg_points_against": 112.34146,
+  "point_differential": 269.0,
+  "avg_differential": 3.299999999999997,
+  "playoff_seed": 4.0,
+  "home_record": "25-16",
+  "road_record": "26-15",
+  "last_ten": "6-4",
+  "streak": "L3",
+  "division_record": "9-7",
+  "conference_record": "30-22"
+}

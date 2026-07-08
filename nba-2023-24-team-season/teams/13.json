@@ -1,0 +1,23 @@
+{
+  "id": "13",
+  "name": "Los Angeles Lakers",
+  "abbrev": "LAL",
+  "location": "Los Angeles",
+  "nickname": "Lakers",
+  "wins": 47.0,
+  "losses": 35.0,
+  "win_pct": 0.5731707,
+  "points_for": 9679.0,
+  "points_against": 9630.0,
+  "avg_points_for": 118.03658,
+  "avg_points_against": 117.439026,
+  "point_differential": 49.0,
+  "avg_differential": 0.5999999999999943,
+  "playoff_seed": 7.0,
+  "home_record": "28-14",
+  "road_record": "19-21",
+  "last_ten": "7-3",
+  "streak": "W2",
+  "division_record": "7-10",
+  "conference_record": "27-25"
+}

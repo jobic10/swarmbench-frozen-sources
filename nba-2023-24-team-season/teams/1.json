@@ -1,0 +1,23 @@
+{
+  "id": "1",
+  "name": "Atlanta Hawks",
+  "abbrev": "ATL",
+  "location": "Atlanta",
+  "nickname": "Hawks",
+  "wins": 36.0,
+  "losses": 46.0,
+  "win_pct": 0.4390244,
+  "points_for": 9703.0,
+  "points_against": 9880.0,
+  "avg_points_for": 118.32927,
+  "avg_points_against": 120.48781,
+  "point_differential": -177.0,
+  "avg_differential": -2.200000000000003,
+  "playoff_seed": 10.0,
+  "home_record": "21-20",
+  "road_record": "15-26",
+  "last_ten": "3-7",
+  "streak": "L6",
+  "division_record": "8-8",
+  "conference_record": "22-30"
+}

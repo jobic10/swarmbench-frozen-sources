@@ -1,0 +1,23 @@
+{
+  "id": "27",
+  "name": "Washington Wizards",
+  "abbrev": "WSH",
+  "location": "Washington",
+  "nickname": "Wizards",
+  "wins": 15.0,
+  "losses": 67.0,
+  "win_pct": 0.18292683,
+  "points_for": 9327.0,
+  "points_against": 10089.0,
+  "avg_points_for": 113.743904,
+  "avg_points_against": 123.03658,
+  "point_differential": -762.0,
+  "avg_differential": -9.299999999999997,
+  "playoff_seed": 14.0,
+  "home_record": "7-34",
+  "road_record": "8-33",
+  "last_ten": "1-9",
+  "streak": "L6",
+  "division_record": "4-12",
+  "conference_record": "11-41"
+}

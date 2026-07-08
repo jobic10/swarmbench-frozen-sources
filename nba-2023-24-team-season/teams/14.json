@@ -1,0 +1,23 @@
+{
+  "id": "14",
+  "name": "Miami Heat",
+  "abbrev": "MIA",
+  "location": "Miami",
+  "nickname": "Heat",
+  "wins": 46.0,
+  "losses": 36.0,
+  "win_pct": 0.5609756,
+  "points_for": 9032.0,
+  "points_against": 8888.0,
+  "avg_points_for": 110.14634,
+  "avg_points_against": 108.39024,
+  "point_differential": 144.0,
+  "avg_differential": 1.6999999999999886,
+  "playoff_seed": 8.0,
+  "home_record": "22-19",
+  "road_record": "24-17",
+  "last_ten": "7-3",
+  "streak": "W2",
+  "division_record": "13-3",
+  "conference_record": "32-20"
+}

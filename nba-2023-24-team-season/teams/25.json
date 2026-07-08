@@ -1,0 +1,23 @@
+{
+  "id": "25",
+  "name": "Oklahoma City Thunder",
+  "abbrev": "OKC",
+  "location": "Oklahoma City",
+  "nickname": "Thunder",
+  "wins": 57.0,
+  "losses": 25.0,
+  "win_pct": 0.69512194,
+  "points_for": 9847.0,
+  "points_against": 9239.0,
+  "avg_points_for": 120.085365,
+  "avg_points_against": 112.67073,
+  "point_differential": 608.0,
+  "avg_differential": 7.3999999999999915,
+  "playoff_seed": 1.0,
+  "home_record": "33-8",
+  "road_record": "24-17",
+  "last_ten": "7-3",
+  "streak": "W5",
+  "division_record": "12-4",
+  "conference_record": "36-16"
+}

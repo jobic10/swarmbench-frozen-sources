@@ -1,0 +1,23 @@
+{
+  "id": "22",
+  "name": "Portland Trail Blazers",
+  "abbrev": "POR",
+  "location": "Portland",
+  "nickname": "Trail Blazers",
+  "wins": 21.0,
+  "losses": 61.0,
+  "win_pct": 0.25609756,
+  "points_for": 8722.0,
+  "points_against": 9462.0,
+  "avg_points_for": 106.36585,
+  "avg_points_against": 115.39024,
+  "point_differential": -740.0,
+  "avg_differential": -9.0,
+  "playoff_seed": 15.0,
+  "home_record": "11-30",
+  "road_record": "10-31",
+  "last_ten": "2-8",
+  "streak": "L5",
+  "division_record": "1-15",
+  "conference_record": "8-44"
+}

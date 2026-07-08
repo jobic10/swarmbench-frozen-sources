@@ -1,0 +1,23 @@
+{
+  "id": "4",
+  "name": "Chicago Bulls",
+  "abbrev": "CHI",
+  "location": "Chicago",
+  "nickname": "Bulls",
+  "wins": 39.0,
+  "losses": 43.0,
+  "win_pct": 0.47560975,
+  "points_for": 9206.0,
+  "points_against": 9324.0,
+  "avg_points_for": 112.268295,
+  "avg_points_against": 113.70731,
+  "point_differential": -118.0,
+  "avg_differential": -1.4000000000000057,
+  "playoff_seed": 9.0,
+  "home_record": "20-21",
+  "road_record": "19-22",
+  "last_ten": "5-5",
+  "streak": "L1",
+  "division_record": "7-9",
+  "conference_record": "22-29"
+}
