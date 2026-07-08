@@ -1,0 +1,19 @@
+{
+  "id": "17",
+  "name": "New England Patriots",
+  "abbrev": "NE",
+  "location": "New England",
+  "nickname": "Patriots",
+  "wins": 4.0,
+  "losses": 13.0,
+  "ties": 0,
+  "win_pct": 0.23529412,
+  "points_for": 236.0,
+  "points_against": 366.0,
+  "point_differential": -130.0,
+  "playoff_seed": 16.0,
+  "division_record": "2-4",
+  "home_record": "1-8",
+  "road_record": "3-5",
+  "streak": "L2"
+}

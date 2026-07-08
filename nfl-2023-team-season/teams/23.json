@@ -1,0 +1,19 @@
+{
+  "id": "23",
+  "name": "Pittsburgh Steelers",
+  "abbrev": "PIT",
+  "location": "Pittsburgh",
+  "nickname": "Steelers",
+  "wins": 10.0,
+  "losses": 7.0,
+  "ties": 0,
+  "win_pct": 0.5882353,
+  "points_for": 304.0,
+  "points_against": 324.0,
+  "point_differential": -20.0,
+  "playoff_seed": 7.0,
+  "division_record": "5-1",
+  "home_record": "5-4",
+  "road_record": "5-3",
+  "streak": "W3"
+}

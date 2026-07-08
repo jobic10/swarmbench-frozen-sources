@@ -1,0 +1,19 @@
+{
+  "id": "19",
+  "name": "New York Giants",
+  "abbrev": "NYG",
+  "location": "New York",
+  "nickname": "Giants",
+  "wins": 6.0,
+  "losses": 11.0,
+  "ties": 0,
+  "win_pct": 0.3529412,
+  "points_for": 266.0,
+  "points_against": 407.0,
+  "point_differential": -141.0,
+  "playoff_seed": 13.0,
+  "division_record": "3-3",
+  "home_record": "4-4",
+  "road_record": "2-7",
+  "streak": "W1"
+}

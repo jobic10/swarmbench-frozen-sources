@@ -1,0 +1,19 @@
+{
+  "id": "22",
+  "name": "Arizona Cardinals",
+  "abbrev": "ARI",
+  "location": "Arizona",
+  "nickname": "Cardinals",
+  "wins": 4.0,
+  "losses": 13.0,
+  "ties": 0,
+  "win_pct": 0.23529412,
+  "points_for": 330.0,
+  "points_against": 455.0,
+  "point_differential": -125.0,
+  "playoff_seed": 15.0,
+  "division_record": "0-6",
+  "home_record": "2-6",
+  "road_record": "2-7",
+  "streak": "L1"
+}

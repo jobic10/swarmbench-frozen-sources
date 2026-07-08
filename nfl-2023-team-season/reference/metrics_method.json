@@ -1,0 +1,5 @@
+{
+  "note": "Derived read to compute per team, so figures reconcile across the league.",
+  "pythagorean_expected_wins": "NFL Pythagorean: expected win share = points_for^2.37 / (points_for^2.37 + points_against^2.37), times the games played (17). The gap between actual wins and this expectation flags a team that beat or fell short of its scoring margin, usually a close-game or turnover-luck signal.",
+  "exponent": 2.37
+}

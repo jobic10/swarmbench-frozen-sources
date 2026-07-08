@@ -1,0 +1,19 @@
+{
+  "id": "1",
+  "name": "Atlanta Falcons",
+  "abbrev": "ATL",
+  "location": "Atlanta",
+  "nickname": "Falcons",
+  "wins": 7.0,
+  "losses": 10.0,
+  "ties": 0,
+  "win_pct": 0.4117647,
+  "points_for": 321.0,
+  "points_against": 373.0,
+  "point_differential": -52.0,
+  "playoff_seed": 12.0,
+  "division_record": "3-3",
+  "home_record": "5-3",
+  "road_record": "2-7",
+  "streak": "L2"
+}

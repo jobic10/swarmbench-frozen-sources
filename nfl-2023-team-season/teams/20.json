@@ -1,0 +1,19 @@
+{
+  "id": "20",
+  "name": "New York Jets",
+  "abbrev": "NYJ",
+  "location": "New York",
+  "nickname": "Jets",
+  "wins": 7.0,
+  "losses": 10.0,
+  "ties": 0,
+  "win_pct": 0.4117647,
+  "points_for": 268.0,
+  "points_against": 355.0,
+  "point_differential": -87.0,
+  "playoff_seed": 13.0,
+  "division_record": "2-4",
+  "home_record": "4-5",
+  "road_record": "3-5",
+  "streak": "W1"
+}

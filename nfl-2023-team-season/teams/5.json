@@ -1,0 +1,19 @@
+{
+  "id": "5",
+  "name": "Cleveland Browns",
+  "abbrev": "CLE",
+  "location": "Cleveland",
+  "nickname": "Browns",
+  "wins": 11.0,
+  "losses": 6.0,
+  "ties": 0,
+  "win_pct": 0.64705884,
+  "points_for": 396.0,
+  "points_against": 362.0,
+  "point_differential": 34.0,
+  "playoff_seed": 5.0,
+  "division_record": "3-3",
+  "home_record": "8-1",
+  "road_record": "3-5",
+  "streak": "L1"
+}

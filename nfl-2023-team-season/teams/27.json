@@ -1,0 +1,19 @@
+{
+  "id": "27",
+  "name": "Tampa Bay Buccaneers",
+  "abbrev": "TB",
+  "location": "Tampa Bay",
+  "nickname": "Buccaneers",
+  "wins": 9.0,
+  "losses": 8.0,
+  "ties": 0,
+  "win_pct": 0.5294118,
+  "points_for": 348.0,
+  "points_against": 325.0,
+  "point_differential": 23.0,
+  "playoff_seed": 4.0,
+  "division_record": "4-2",
+  "home_record": "4-4",
+  "road_record": "5-4",
+  "streak": "W1"
+}

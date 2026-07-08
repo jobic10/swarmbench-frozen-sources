@@ -1,0 +1,19 @@
+{
+  "id": "8",
+  "name": "Detroit Lions",
+  "abbrev": "DET",
+  "location": "Detroit",
+  "nickname": "Lions",
+  "wins": 12.0,
+  "losses": 5.0,
+  "ties": 0,
+  "win_pct": 0.7058824,
+  "points_for": 461.0,
+  "points_against": 395.0,
+  "point_differential": 66.0,
+  "playoff_seed": 3.0,
+  "division_record": "4-2",
+  "home_record": "6-2",
+  "road_record": "6-3",
+  "streak": "W1"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "11",
+  "name": "Indianapolis Colts",
+  "abbrev": "IND",
+  "location": "Indianapolis",
+  "nickname": "Colts",
+  "wins": 9.0,
+  "losses": 8.0,
+  "ties": 0,
+  "win_pct": 0.5294118,
+  "points_for": 396.0,
+  "points_against": 415.0,
+  "point_differential": -19.0,
+  "playoff_seed": 10.0,
+  "division_record": "3-3",
+  "home_record": "4-5",
+  "road_record": "5-3",
+  "streak": "L1"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "28",
+  "name": "Washington Commanders",
+  "abbrev": "WSH",
+  "location": "Washington",
+  "nickname": "Commanders",
+  "wins": 4.0,
+  "losses": 13.0,
+  "ties": 0,
+  "win_pct": 0.23529412,
+  "points_for": 329.0,
+  "points_against": 518.0,
+  "point_differential": -189.0,
+  "playoff_seed": 14.0,
+  "division_record": "0-6",
+  "home_record": "1-7",
+  "road_record": "3-6",
+  "streak": "L8"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10",
+  "name": "Tennessee Titans",
+  "abbrev": "TEN",
+  "location": "Tennessee",
+  "nickname": "Titans",
+  "wins": 6.0,
+  "losses": 11.0,
+  "ties": 0,
+  "win_pct": 0.3529412,
+  "points_for": 305.0,
+  "points_against": 367.0,
+  "point_differential": -62.0,
+  "playoff_seed": 14.0,
+  "division_record": "1-5",
+  "home_record": "5-4",
+  "road_record": "1-7",
+  "streak": "W1"
+}

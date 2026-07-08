@@ -1,0 +1,19 @@
+{
+  "id": "4",
+  "name": "Cincinnati Bengals",
+  "abbrev": "CIN",
+  "location": "Cincinnati",
+  "nickname": "Bengals",
+  "wins": 9.0,
+  "losses": 8.0,
+  "ties": 0,
+  "win_pct": 0.5294118,
+  "points_for": 366.0,
+  "points_against": 384.0,
+  "point_differential": -18.0,
+  "playoff_seed": 8.0,
+  "division_record": "1-5",
+  "home_record": "6-3",
+  "road_record": "3-5",
+  "streak": "W1"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "25",
+  "name": "San Francisco 49ers",
+  "abbrev": "SF",
+  "location": "San Francisco",
+  "nickname": "49ers",
+  "wins": 12.0,
+  "losses": 5.0,
+  "ties": 0,
+  "win_pct": 0.7058824,
+  "points_for": 491.0,
+  "points_against": 298.0,
+  "point_differential": 193.0,
+  "playoff_seed": 1.0,
+  "division_record": "5-1",
+  "home_record": "5-3",
+  "road_record": "7-2",
+  "streak": "L1"
+}

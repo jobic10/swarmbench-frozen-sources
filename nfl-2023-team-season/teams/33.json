@@ -1,0 +1,19 @@
+{
+  "id": "33",
+  "name": "Baltimore Ravens",
+  "abbrev": "BAL",
+  "location": "Baltimore",
+  "nickname": "Ravens",
+  "wins": 13.0,
+  "losses": 4.0,
+  "ties": 0,
+  "win_pct": 0.7647059,
+  "points_for": 483.0,
+  "points_against": 280.0,
+  "point_differential": 203.0,
+  "playoff_seed": 1.0,
+  "division_record": "3-3",
+  "home_record": "6-3",
+  "road_record": "7-1",
+  "streak": "L1"
+}

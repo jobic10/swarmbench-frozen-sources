@@ -1,0 +1,19 @@
+{
+  "id": "24",
+  "name": "Los Angeles Chargers",
+  "abbrev": "LAC",
+  "location": "Los Angeles",
+  "nickname": "Chargers",
+  "wins": 5.0,
+  "losses": 12.0,
+  "ties": 0,
+  "win_pct": 0.29411766,
+  "points_for": 346.0,
+  "points_against": 398.0,
+  "point_differential": -52.0,
+  "playoff_seed": 15.0,
+  "division_record": "1-5",
+  "home_record": "2-7",
+  "road_record": "3-5",
+  "streak": "L5"
+}

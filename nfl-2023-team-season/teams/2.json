@@ -1,0 +1,19 @@
+{
+  "id": "2",
+  "name": "Buffalo Bills",
+  "abbrev": "BUF",
+  "location": "Buffalo",
+  "nickname": "Bills",
+  "wins": 11.0,
+  "losses": 6.0,
+  "ties": 0,
+  "win_pct": 0.64705884,
+  "points_for": 451.0,
+  "points_against": 311.0,
+  "point_differential": 140.0,
+  "playoff_seed": 2.0,
+  "division_record": "4-2",
+  "home_record": "7-2",
+  "road_record": "4-4",
+  "streak": "W5"
+}

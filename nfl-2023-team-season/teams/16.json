@@ -1,0 +1,19 @@
+{
+  "id": "16",
+  "name": "Minnesota Vikings",
+  "abbrev": "MIN",
+  "location": "Minnesota",
+  "nickname": "Vikings",
+  "wins": 7.0,
+  "losses": 10.0,
+  "ties": 0,
+  "win_pct": 0.4117647,
+  "points_for": 344.0,
+  "points_against": 362.0,
+  "point_differential": -18.0,
+  "playoff_seed": 10.0,
+  "division_record": "2-4",
+  "home_record": "2-6",
+  "road_record": "5-4",
+  "streak": "L4"
+}

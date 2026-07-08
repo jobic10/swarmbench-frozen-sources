@@ -1,0 +1,19 @@
+{
+  "id": "29",
+  "name": "Carolina Panthers",
+  "abbrev": "CAR",
+  "location": "Carolina",
+  "nickname": "Panthers",
+  "wins": 2.0,
+  "losses": 15.0,
+  "ties": 0,
+  "win_pct": 0.11764706,
+  "points_for": 236.0,
+  "points_against": 416.0,
+  "point_differential": -180.0,
+  "playoff_seed": 16.0,
+  "division_record": "1-5",
+  "home_record": "2-6",
+  "road_record": "0-9",
+  "streak": "L3"
+}

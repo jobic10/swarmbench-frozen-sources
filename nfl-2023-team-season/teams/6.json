@@ -1,0 +1,19 @@
+{
+  "id": "6",
+  "name": "Dallas Cowboys",
+  "abbrev": "DAL",
+  "location": "Dallas",
+  "nickname": "Cowboys",
+  "wins": 12.0,
+  "losses": 5.0,
+  "ties": 0,
+  "win_pct": 0.7058824,
+  "points_for": 509.0,
+  "points_against": 315.0,
+  "point_differential": 194.0,
+  "playoff_seed": 2.0,
+  "division_record": "5-1",
+  "home_record": "8-0",
+  "road_record": "4-5",
+  "streak": "W2"
+}

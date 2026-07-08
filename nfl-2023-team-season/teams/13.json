@@ -1,0 +1,19 @@
+{
+  "id": "13",
+  "name": "Las Vegas Raiders",
+  "abbrev": "LV",
+  "location": "Las Vegas",
+  "nickname": "Raiders",
+  "wins": 8.0,
+  "losses": 9.0,
+  "ties": 0,
+  "win_pct": 0.47058824,
+  "points_for": 332.0,
+  "points_against": 331.0,
+  "point_differential": 1.0,
+  "playoff_seed": 11.0,
+  "division_record": "4-2",
+  "home_record": "6-3",
+  "road_record": "2-6",
+  "streak": "W1"
+}

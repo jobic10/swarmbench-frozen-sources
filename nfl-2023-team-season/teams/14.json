@@ -1,0 +1,19 @@
+{
+  "id": "14",
+  "name": "Los Angeles Rams",
+  "abbrev": "LAR",
+  "location": "Los Angeles",
+  "nickname": "Rams",
+  "wins": 10.0,
+  "losses": 7.0,
+  "ties": 0,
+  "win_pct": 0.5882353,
+  "points_for": 404.0,
+  "points_against": 377.0,
+  "point_differential": 27.0,
+  "playoff_seed": 6.0,
+  "division_record": "5-1",
+  "home_record": "5-3",
+  "road_record": "5-4",
+  "streak": "W4"
+}

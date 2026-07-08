@@ -1,0 +1,19 @@
+{
+  "id": "34",
+  "name": "Houston Texans",
+  "abbrev": "HOU",
+  "location": "Houston",
+  "nickname": "Texans",
+  "wins": 10.0,
+  "losses": 7.0,
+  "ties": 0,
+  "win_pct": 0.5882353,
+  "points_for": 377.0,
+  "points_against": 353.0,
+  "point_differential": 24.0,
+  "playoff_seed": 4.0,
+  "division_record": "4-2",
+  "home_record": "6-3",
+  "road_record": "4-4",
+  "streak": "W2"
+}

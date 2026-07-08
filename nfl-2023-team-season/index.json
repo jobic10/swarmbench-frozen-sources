@@ -1,0 +1,135 @@
+{
+  "snapshot": "nfl-2023 regular season, ESPN standings (season=2023)",
+  "teams": {
+    "2": {
+      "name": "Buffalo Bills",
+      "abbrev": "BUF"
+    },
+    "15": {
+      "name": "Miami Dolphins",
+      "abbrev": "MIA"
+    },
+    "20": {
+      "name": "New York Jets",
+      "abbrev": "NYJ"
+    },
+    "17": {
+      "name": "New England Patriots",
+      "abbrev": "NE"
+    },
+    "5": {
+      "name": "Cleveland Browns",
+      "abbrev": "CLE"
+    },
+    "23": {
+      "name": "Pittsburgh Steelers",
+      "abbrev": "PIT"
+    },
+    "4": {
+      "name": "Cincinnati Bengals",
+      "abbrev": "CIN"
+    },
+    "33": {
+      "name": "Baltimore Ravens",
+      "abbrev": "BAL"
+    },
+    "34": {
+      "name": "Houston Texans",
+      "abbrev": "HOU"
+    },
+    "30": {
+      "name": "Jacksonville Jaguars",
+      "abbrev": "JAX"
+    },
+    "11": {
+      "name": "Indianapolis Colts",
+      "abbrev": "IND"
+    },
+    "10": {
+      "name": "Tennessee Titans",
+      "abbrev": "TEN"
+    },
+    "12": {
+      "name": "Kansas City Chiefs",
+      "abbrev": "KC"
+    },
+    "13": {
+      "name": "Las Vegas Raiders",
+      "abbrev": "LV"
+    },
+    "7": {
+      "name": "Denver Broncos",
+      "abbrev": "DEN"
+    },
+    "24": {
+      "name": "Los Angeles Chargers",
+      "abbrev": "LAC"
+    },
+    "6": {
+      "name": "Dallas Cowboys",
+      "abbrev": "DAL"
+    },
+    "21": {
+      "name": "Philadelphia Eagles",
+      "abbrev": "PHI"
+    },
+    "19": {
+      "name": "New York Giants",
+      "abbrev": "NYG"
+    },
+    "28": {
+      "name": "Washington Commanders",
+      "abbrev": "WSH"
+    },
+    "8": {
+      "name": "Detroit Lions",
+      "abbrev": "DET"
+    },
+    "9": {
+      "name": "Green Bay Packers",
+      "abbrev": "GB"
+    },
+    "16": {
+      "name": "Minnesota Vikings",
+      "abbrev": "MIN"
+    },
+    "3": {
+      "name": "Chicago Bears",
+      "abbrev": "CHI"
+    },
+    "27": {
+      "name": "Tampa Bay Buccaneers",
+      "abbrev": "TB"
+    },
+    "18": {
+      "name": "New Orleans Saints",
+      "abbrev": "NO"
+    },
+    "1": {
+      "name": "Atlanta Falcons",
+      "abbrev": "ATL"
+    },
+    "29": {
+      "name": "Carolina Panthers",
+      "abbrev": "CAR"
+    },
+    "14": {
+      "name": "Los Angeles Rams",
+      "abbrev": "LAR"
+    },
+    "26": {
+      "name": "Seattle Seahawks",
+      "abbrev": "SEA"
+    },
+    "22": {
+      "name": "Arizona Cardinals",
+      "abbrev": "ARI"
+    },
+    "25": {
+      "name": "San Francisco 49ers",
+      "abbrev": "SF"
+    }
+  },
+  "team_url_pattern": "https://raw.githubusercontent.com/jobic10/swarmbench-frozen-sources/main/nfl-2023-team-season/teams/<id>.json",
+  "team_count": 32
+}
